@@ -1,0 +1,274 @@
+{
+  "id": "nce2--083",
+  "lessonNumber": "083",
+  "title": {
+    "english": "After the elections",
+    "chinese": "大选之后"
+  },
+  "lessonInfo": "新概念英语－第2册－第083课",
+  "audioPath": "audio/nce2/083.mp3",
+  "listeningQuestion": {
+    "question": "Why did Patrick keep asking the policeman the same question?",
+    "translation": "帕特里克为什么一直向警察问同样的问题？"
+  },
+  "editorNotes": "本课讲述了一个关于政治选举后的幽默故事。前首相温特沃兹·莱恩在大选中被击败后退出政界并移居国外，而帕特里克作为莱恩激进党的反对者，连续三天到前首相的住处询问同样的问题，只是为了听警察重复莱恩已经失败并离开的消息。本课介绍了多个与政治相关的词汇，如election、former、defeat、opponent等，以及一些常用短语如lose one's temper、in a good/bad mood等。本课还介绍了ex-前缀的用法，以及temper和mood的区别。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.",
+      "He is now retiring from political life and has gone abroad.",
+      "My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.",
+      "After the elections, Patrick went to the former Prime Minister's house.",
+      "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.",
+      "On the following day, Patrick went to the house again.",
+      "The same policeman was just walking slowly past the entrance, when Patrick asked the same question.",
+      "Though a little suspicious this time, the policeman gave him the same answer.",
+      "The day after, Patrick went to the house once more and asked exactly the same question.",
+      "This time, the policeman lost his temper.",
+      "'I told you yesterday and the day before yesterday,' he shouted, 'Mr. Lane was defeated in the elections. He has retired from political life and gone to live abroad!'",
+      "'I know,' answered Patrick, 'but I love to hear you say it!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "前首相温特沃兹·莱恩先生在最近的大选中被击败。",
+      "他现在退出了政界，到国外去了。",
+      "我的朋友帕特里克一直是莱恩先生的激进党的强烈反对者。",
+      "大选结束后，帕特里克来到了前首相的住处。",
+      "当他询问莱恩先生是否住在那里时，值班的警察告诉他这位前首相落选后出国去了。",
+      "第二天，帕特里克再次来到首相的住处。",
+      "昨天的那位警察正从门口慢慢走过，帕特里克上前问了和昨天同样的问题。",
+      "虽然那位警察这次有点疑心，但还是对他作了同样的回答。",
+      "第三天，帕特里克又去了，提出了同前两天完全一样的问题。",
+      "这一次警察火了。",
+      "'我昨天和前天都告诉过您了，'他大叫着，'莱恩先生在大选中被击败了，他已经退出了政界去国外了！'",
+      "'这我都知道，'帕特里克说，'可我就是喜欢听你说出这些！'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "让步状语从句的省略",
+        "content": [
+          "让步状语从句中，如果从句的主语和主句的相同而谓语带系动词be，则主语+be可省略：",
+          "例如：Though a little suspicious this time, the policeman gave him the same answer.（虽然那位警察这次有点疑心，但还是对他作了同样的回答。）",
+          "If possible, please let me know by this evening.（如果可能的话，请今晚以前告诉我。）",
+          "When necessary, he will help you.（必要时，他会帮助你。）"
+        ]
+      },
+      {
+        "title": "ex-前缀的用法",
+        "content": [
+          "ex-前缀（用于名词前）表示'前……'，相当于former：",
+          "例如：the ex-Prime Minister（前首相）",
+          "ex-husband（前夫）",
+          "ex-wife（前妻）",
+          "ex-taxi-driver（前出租汽车司机）",
+          "ex-manager（前任经理）",
+          "ex-headmaster（前任校长）"
+        ]
+      },
+      {
+        "title": "election的用法",
+        "content": [
+          "election常用复数形式，后接表示复数的动词，用来指全国性的选举；一般的选举用单数：",
+          "例如：The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.（前首相温特沃兹·莱恩先生在最近的大选中被击败。）",
+          "He hopes to defeat his rival in next year's elections.（他希望在下一次大选中击败对手。）",
+          "The election results will be announced tomorrow.（选举结果将于明天公布。）"
+        ]
+      },
+      {
+        "title": "former的用法",
+        "content": [
+          "former adj. 以前的，从前的，前任的（后跟名词）：",
+          "例如：The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.（前首相温特沃兹·莱恩先生在最近的大选中被击败。）",
+          "Yesterday, he received a letter from his former wife/English teacher.（昨天，他收到了前妻/前英语老师的信。）",
+          "In former times, people used to travel by horse.（从前，人们骑马旅行。）"
+        ]
+      },
+      {
+        "title": "suspicious的用法",
+        "content": [
+          "suspicious adj. 怀疑的",
+          "1. 猜疑的，认为可疑的，对……起疑心的，多疑的：",
+          "Customs officers are suspicious of nervous-looking travelers.（海关官员对看起来紧张的旅客起疑心。）",
+          "Don't be so suspicious. Everything's all right.（别那么疑神疑鬼的，一切正常。）",
+          "2. 可疑的，令人起疑的：",
+          "You get a lot of suspicious-looking people in this bar.（这家酒吧里有很多看起来可疑的人。）",
+          "The car crash looks suspicious.（这起车祸看起来可疑。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "lose one's temper",
+        "translation": "发脾气",
+        "context": "表示突然生气或发怒",
+        "example": "This time, the policeman lost his temper.（这一次警察火了。）"
+      },
+      {
+        "phrase": "in a good/bad mood",
+        "translation": "心情好/不好",
+        "context": "表示某人的情绪状态",
+        "example": "That morning he was in a good mood.（那天早上他心情很好。）"
+      },
+      {
+        "phrase": "in a good/bad temper",
+        "translation": "心情好/不好",
+        "context": "表示某人的情绪状态，与mood同义",
+        "example": "That morning he was in a good temper.（那天早上他心情很好。）"
+      },
+      {
+        "phrase": "retire from",
+        "translation": "从……退休，退出",
+        "context": "表示从某种职业或活动中退出",
+        "example": "He has retired from political life.（他已经退出了政界。）"
+      },
+      {
+        "phrase": "on duty",
+        "translation": "值班，当班",
+        "context": "表示正在工作或履行职责",
+        "example": "The policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.（值班的警察告诉他这位前首相落选后出国去了。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What happened to Mr. Wentworth Lane in the recent elections?",
+        "options": [
+          "He won the elections",
+          "He was defeated in the elections",
+          "He decided not to run",
+          "He was disqualified"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第一句，前首相温特沃兹·莱恩先生在最近的大选中被击败。"
+      },
+      {
+        "question": "What did Patrick do after the elections?",
+        "options": [
+          "He went to congratulate Mr. Lane",
+          "He went to the former Prime Minister's house",
+          "He went abroad",
+          "He joined the Radical Progressive Party"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第四句，大选结束后，帕特里克来到了前首相的住处。"
+      },
+      {
+        "question": "Why did Patrick keep asking the same question?",
+        "options": [
+          "Because he forgot the answer",
+          "Because he wanted to confirm the information",
+          "Because he loved to hear the policeman say that Mr. Lane was defeated",
+          "Because he was suspicious of the policeman"
+        ],
+        "answer": 2,
+        "explanation": "根据课文最后一句，帕特里克说'这我都知道，可我就是喜欢听你说出这些！'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The former Prime Minister, Mr. Wentworth Lane, was ___ in the recent elections.",
+        "answer": "defeated",
+        "explanation": "根据课文第一句，前首相温特沃兹·莱恩先生在最近的大选中被击败。"
+      },
+      {
+        "sentence": "Patrick has always been a ___ opponent of Mr. Lane's Radical Progressive Party.",
+        "answer": "fanatical",
+        "explanation": "根据课文第三句，帕特里克一直是莱恩先生的激进党的强烈反对者。"
+      },
+      {
+        "sentence": "This time, the policeman ___ his temper.",
+        "answer": "lost",
+        "explanation": "根据课文第十句，这一次警察火了。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "temper和mood的区别：\n\n1. temper n. 脾气，性情\n- This time, the policeman lost his temper.（这一次警察火了。）\n- Whatever happens, remember to keep our temper.（无论发生什么，都要记住保持冷静。）\n- My sister is of a calm/quick temper.（我姐姐/妹妹性情平和/脾气急躁。）\n- The boss is in a temper today.（老板今天脾气不好。）\n\n2. temper n. 心情，情绪（与mood同义）\n- That morning he was in a good mood/temper.（那天早上他心情很好。）\n\n3. mood n. 心情，情绪；有意/想要（做某事）（不能用temper）\n- When he is in a bad temper, he gets angry easily. But when he is in a bad mood, he likes to sit alone.（当他脾气不好时，他很容易生气。但当他心情不好时，他喜欢独自坐着。）\n- At that time I was not in the mood for talking/to talk.（那时我没有心情说话。）（不能用temper）\n- Although Jeremy is well-known for his great sense of humour, he is in no mood for telling funny stories today.（尽管杰里米以幽默感强而闻名，但他今天没有心情讲有趣的故事。）（不能用temper）"
+      },
+      {
+        "title": "文化背景",
+        "content": "在英国的政治体系中，首相（Prime Minister）是政府的首脑，通常由在大选中获胜的政党的领袖担任。大选（general election）是英国政治生活中的重要事件，通常每五年举行一次，但首相也可以提前宣布举行大选。\n\n在大选中，各个政党的候选人会在全国各地的选区（constituency）中竞争议会议员（Member of Parliament，简称MP）的席位。获得最多议席的政党通常能够组建政府，该党的领袖则成为首相。\n\n本课中提到的'激进进步党'（Radical Progressive Party）是一个虚构的政党，但在英国历史上确实存在过一些带有'激进'（Radical）或'进步'（Progressive）标签的政治团体。例如，19世纪的'激进派'（Radicals）是一群主张政治改革的人，而20世纪初的'进步联盟'（Progressive Alliance）则是由自由党和工党组成的政治联盟。\n\n在英国政治中，政党之间的竞争非常激烈，支持者可能会对对手表现出强烈的反对情绪，就像课文中帕特里克对莱恩先生的激进党的态度一样。然而，帕特里克的行为也反映了政治竞争中的一种幽默感，他通过反复询问同样的问题来表达自己对政治对手失败的喜悦。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "election",
+        "toggle": "n. 选举；当选；选择权； [ 宗 ] 上帝的选拔",
+        "isDanger": 0,
+        "phonetic": "ɪˈlekʃ(ə)n",
+        "meaning": "n. 选举"
+      },
+      {
+        "word": "former",
+        "toggle": "adj. 从前的，前者的；前任的",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːmə(r)",
+        "meaning": "n. 从前的"
+      },
+      {
+        "word": "defeat",
+        "toggle": "vt. 击败，战胜；使 … 失败；挫败",
+        "isDanger": 1,
+        "phonetic": "dɪˈfiːt",
+        "meaning": "v. 打败"
+      },
+      {
+        "word": "fanatical",
+        "toggle": "adj. 狂热的",
+        "isDanger": 0,
+        "phonetic": "fəˈnætɪkl",
+        "meaning": "adj. 狂热的"
+      },
+      {
+        "word": "opponent",
+        "toggle": "n. 对手；敌手；反对者",
+        "isDanger": 0,
+        "phonetic": "əˈpəʊnənt",
+        "meaning": "n. 反对者，对手"
+      },
+      {
+        "word": "radical",
+        "toggle": "adj. 根本的；激进的；彻底的",
+        "isDanger": 0,
+        "phonetic": "ˈrædɪk(ə)l",
+        "meaning": "adj. 激进的"
+      },
+      {
+        "word": "progressive",
+        "toggle": "adj. 进步的；先进的",
+        "isDanger": 0,
+        "phonetic": "prəˈɡresɪv",
+        "meaning": "adj. 进步的"
+      },
+      {
+        "word": "prefix",
+        "toggle": "n.[语]前缀,(人名前的)称谓(如Mr. Dr. Sir等)",
+        "isDanger": 0,
+        "phonetic": "ˈpriːfɪks",
+        "meaning": "adj. 前..⋯"
+      },
+      {
+        "word": "suspicious",
+        "toggle": "adj. 可疑的；怀疑的；多疑的",
+        "isDanger": 0,
+        "phonetic": "səˈspɪʃəs",
+        "meaning": "adj. 怀疑的"
+      }
+    ]
+  }
+}

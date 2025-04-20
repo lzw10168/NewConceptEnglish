@@ -1,0 +1,308 @@
+{
+  "id": "nce1-025",
+  "lessonNumber": "025",
+  "title": {
+    "english": "Mrs. Smith's kitchen",
+    "chinese": "史密斯夫人的厨房"
+  },
+  "lessonInfo": "新概念英语－第1册－第025课",
+  "audioPath": "audio/nce1/025.mp3",
+  "listeningQuestion": {
+    "question": "What color is the refrigerator and where is it?",
+    "translation": "冰箱是什么颜色的？它在哪里？"
+  },
+  "editorNotes": "本课通过描述一个厨房的场景，介绍了如何描述房间布局和物品特征。课文重点展示了位置介词的使用，物品的颜色和状态描述，以及There be句型的应用。这些表达方式在描述环境和位置时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mrs. Smith's kitchen is small.",
+      "There is a refrigerator in the kitchen.",
+      "The refrigerator is white.",
+      "It is on the right.",
+      "There is an electric cooker in the kitchen.",
+      "The cooker is blue.",
+      "It is on the left.",
+      "There is a table in the middle of the room.",
+      "There is a bottle on the table.",
+      "The bottle is empty.",
+      "There is a cup on the table, too.",
+      "The cup is clean."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "史密斯夫人的厨房很小。",
+      "厨房里有个电冰箱。",
+      "冰箱的颜色是白的。",
+      "它位于房间右侧。",
+      "厨房里有个电灶。",
+      "电灶的颜色是蓝的。",
+      "它位于房间左侧。",
+      "房间的中央有张桌子。",
+      "桌子上有个瓶子。",
+      "瓶子是空的。",
+      "桌子上还有一只杯子。",
+      "杯子很干净。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 房间描述",
+        "children": [
+          "核心概念：描述房间特征",
+          "常用表达：",
+          "- The kitchen is small. (厨房很小。)",
+          "- There is ... in the kitchen. (厨房里有...)",
+          "使用场景：",
+          "- 描述房间大小 | 介绍房间布局 | 展示房间特点",
+          "注意事项：",
+          "- 从整体到局部 | 空间感的表达 | 形容词的使用"
+        ]
+      },
+      {
+        "heading": "2. 位置表达",
+        "children": [
+          "核心概念：描述物品位置",
+          "常用句型：",
+          "- on the right/left (在右边/左边)",
+          "- in the middle of (在...中间)",
+          "使用场景：",
+          "- 指明方位 | 描述布局 | 引导方向",
+          "注意事项：",
+          "- 位置介词准确 | 参照物明确 | 方位词使用"
+        ]
+      },
+      {
+        "heading": "3. 物品描述",
+        "children": [
+          "核心概念：描述物品特征",
+          "常用表达：",
+          "- The refrigerator is white. (冰箱是白色的。)",
+          "- The bottle is empty. (瓶子是空的。)",
+          "使用场景：",
+          "- 描述颜色 | 说明状态 | 区分物品",
+          "注意事项：",
+          "- 形容词位置 | 颜色词用法 | 状态词选择"
+        ]
+      },
+      {
+        "heading": "4. 补充说明",
+        "children": [
+          "核心概念：添加信息",
+          "常用表达：",
+          "- too (也)",
+          "- There is ... too (还有...)",
+          "使用场景：",
+          "- 补充信息 | 列举物品 | 添加细节",
+          "注意事项：",
+          "- too的位置 | 语序规则 | 连接作用"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. There be句型",
+        "children": [
+          "核心概念：",
+          "- 表示存在",
+          "- 位置描述",
+          "基本用法：",
+          "- There is + 单数名词",
+          "- There are + 复数名词",
+          "实用例句：",
+          "- There is a refrigerator in the kitchen. (厨房里有个冰箱。)",
+          "注意事项：",
+          "- 单复数一致 | 就近原则 | 否定形式"
+        ]
+      },
+      {
+        "heading": "2. 形容词作表语",
+        "children": [
+          "核心概念：",
+          "- 描述主语特征",
+          "- be动词后用法",
+          "基本用法：",
+          "- 主语 + be + 形容词",
+          "- The + 名词 + is + 形容词",
+          "实用例句：",
+          "- The kitchen is small. (厨房很小。)",
+          "- The cup is clean. (杯子很干净。)",
+          "注意事项：",
+          "- 词序规则 | 形容词变化 | 多个形容词"
+        ]
+      },
+      {
+        "heading": "3. 介词短语",
+        "children": [
+          "核心概念：",
+          "- 表示位置关系",
+          "- 空间描述",
+          "基本用法：",
+          "- in + 房间/容器",
+          "- on + 表面",
+          "实用例句：",
+          "- in the kitchen (在厨房里)",
+          "- on the table (在桌子上)",
+          "注意事项：",
+          "- 介词选择 | 位置关系 | 固定搭配"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 厨房用品",
+        "children": [
+          "基本词汇：",
+          "- refrigerator (冰箱)",
+          "- cooker (炉子)",
+          "- bottle (瓶子)",
+          "常用搭配：",
+          "- electric cooker (电炉)",
+          "- empty bottle (空瓶子)",
+          "使用场景：",
+          "- 厨房描述 | 家电使用 | 烹饪活动"
+        ]
+      },
+      {
+        "heading": "2. 位置词汇",
+        "children": [
+          "基本词汇：",
+          "- right (右边)",
+          "- left (左边)",
+          "- middle (中间)",
+          "常用搭配：",
+          "- on the right (在右边)",
+          "- in the middle of (在...中间)",
+          "使用场景：",
+          "- 位置描述 | 方向指引 | 空间布局"
+        ]
+      },
+      {
+        "heading": "3. 描述性词汇",
+        "children": [
+          "形容词：",
+          "- small (小的)",
+          "- white (白色的)",
+          "- clean (干净的)",
+          "常用搭配：",
+          "- small kitchen (小厨房)",
+          "- clean cup (干净的杯子)",
+          "使用场景：",
+          "- 描述大小 | 说明颜色 | 表示状态"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Mrs.",
+        "toggle": "n. 夫人；太太（等于 Mistress）",
+        "isDanger": 0,
+        "phonetic": "'misiz",
+        "meaning": "n. 夫人"
+      },
+      {
+        "word": "kitchen",
+        "toggle": "n. 炊具；厨房；炊事人员",
+        "isDanger": 0,
+        "phonetic": "ˈkɪtʃɪn",
+        "meaning": "n. 厨房"
+      },
+      {
+        "word": "refrigerator",
+        "toggle": "n. 冰箱，冷藏库",
+        "isDanger": 0,
+        "phonetic": "rɪˈfrɪdʒəreɪtə(r)",
+        "meaning": "n. 电冰箱"
+      },
+      {
+        "word": "right",
+        "toggle": "adj. 正确的；右方的；直接的",
+        "isDanger": 1,
+        "phonetic": "raɪt",
+        "meaning": "n. 右边"
+      },
+      {
+        "word": "electric",
+        "toggle": "adj. 电的；导电的；电动的；发电的；令人震惊的",
+        "isDanger": 0,
+        "phonetic": "ɪˈlektrɪk",
+        "meaning": "adj. 带电的，可通电的"
+      },
+      {
+        "word": "left",
+        "toggle": "n. 左边；左派",
+        "isDanger": 1,
+        "phonetic": "left",
+        "meaning": "n. 左边"
+      },
+      {
+        "word": "cooker",
+        "toggle": "n. 炊具；烹饪用水果；窜改者",
+        "isDanger": 0,
+        "phonetic": "ˈkʊkə(r)",
+        "meaning": "n. 炉子，炊具"
+      },
+      {
+        "word": "chef",
+        "toggle": "n. 厨师，大师傅",
+        "isDanger": 0,
+        "phonetic": "ʃef",
+        "meaning": "n. 厨师"
+      },
+      {
+        "word": "cook",
+        "toggle": "vt. 烹调，煮",
+        "isDanger": 0,
+        "phonetic": "kʊk",
+        "meaning": "v. 煮"
+      },
+      {
+        "word": "of",
+        "toggle": "prep. 属于；关于； … 的；由 … 组成的",
+        "isDanger": 1,
+        "phonetic": "ɒv",
+        "meaning": "prep. (属于)…的"
+      },
+      {
+        "word": "room",
+        "toggle": "n. 房间；空间；机会；余地",
+        "isDanger": 1,
+        "phonetic": "ruːm",
+        "meaning": "n. 房间"
+      },
+      {
+        "word": "cup",
+        "toggle": "n. 杯子；奖杯；酒杯",
+        "isDanger": 0,
+        "phonetic": "kʌp",
+        "meaning": "n. .杯子"
+      },
+      {
+        "word": "where",
+        "toggle": "adv. 在哪里",
+        "isDanger": 1,
+        "phonetic": "weə(r)",
+        "meaning": "adv. 在哪里"
+      },
+      {
+        "word": "in",
+        "toggle": "prep. 在 … 之内；从事于；按照（表示方式）",
+        "isDanger": 1,
+        "phonetic": "ɪn",
+        "meaning": "prep. 在…里"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

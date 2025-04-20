@@ -1,0 +1,304 @@
+{
+  "id": "nce1-073",
+  "lessonNumber": "073",
+  "title": {
+    "english": "The way to King Street",
+    "chinese": "到国王街的路"
+  },
+  "lessonInfo": "新概念英语－第1册－第073课",
+  "audioPath": "audio/nce1/073.mp3",
+  "listeningQuestion": {
+    "question": "Why couldn't the man help Mrs Mills?",
+    "translation": "为什么这个男人不能帮助米尔斯夫人？"
+  },
+  "editorNotes": "本课通过一个问路的小故事，介绍了如何用英语询问方向，以及在语言不通的情况下如何应对。课文展示了一些常用的问路用语，同时也体现了在跨文化交际中可能遇到的有趣情况。",
+  "dialogueText": [
+    {
+      "heading": "课文",
+      "dialogue": [
+        "Last week Mrs Mills went to London. She does not know London very well, and she lost her way.",
+        "Suddenly, she saw a man near a bus-stop. 'I can ask him the way,' she said to herself.",
+        "'Excuse me,' she said.",
+        "'Can you tell me the way to King Street, please?'",
+        "The man smiled pleasantly. He did not understand English! He spoke German. He was a tourist.",
+        "Then he put his hand into his pocket, and took out a phrase-book.",
+        "He opened the book and found a phrase. He read the phrase slowly.",
+        "'I am sorry,' he said. 'I do not speak English.'"
+      ]
+    }
+  ],
+  "translation": {
+    "heading": "中文翻译",
+    "lines": [
+      "上星期，米尔斯夫人去了伦敦。她对伦敦不很熟悉，因此，迷了路。",
+      "突然，她在公共汽车站附近，看到一个男人。'我可以向他问路，'她想。",
+      "'对不起，'她说。",
+      "'您能告诉我，到国王街怎么走吗？'",
+      "这个人友好地笑了笑。他不懂英语！他讲德语，他是个旅游者。",
+      "然后，他把手伸进了衣袋，掏出了一本常用语手册。",
+      "他翻开书，找到了一条短语。他缓慢地读着短语。",
+      "'很抱歉，'他说，'我不会讲英语。'"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 问路用语",
+        "children": [
+          "核心概念：如何询问方向",
+          "常用表达：",
+          "- Can you tell me the way to...? 您能告诉我去...的路吗？",
+          "- Excuse me... 对不起（引起注意）",
+          "使用场景：在陌生地方问路",
+          "注意事项：注意礼貌用语的使用"
+        ]
+      },
+      {
+        "heading": "2. 迷路表达",
+        "children": [
+          "核心概念：描述迷路的情况",
+          "常用表达：",
+          "- lose one's way 迷路",
+          "- not know... very well 对...不太熟悉",
+          "使用场景：描述迷路或不熟悉环境",
+          "注意事项：注意委婉的表达方式"
+        ]
+      },
+      {
+        "heading": "3. 表达歉意",
+        "children": [
+          "核心概念：如何表达歉意",
+          "常用表达：",
+          "- I am sorry 对不起",
+          "- I do not speak English 我不会说英语",
+          "使用场景：无法提供帮助时",
+          "注意事项：注意语气要诚恳友好"
+        ]
+      },
+      {
+        "heading": "4. 动作描述",
+        "children": [
+          "核心概念：描述连续动作",
+          "常用表达：",
+          "- put one's hand into... 把手伸进...",
+          "- take out... 拿出...",
+          "使用场景：描述一系列动作",
+          "注意事项：注意动作的先后顺序"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般过去时的使用",
+        "children": [
+          "1. 描述过去的事件：went, lost, saw",
+          "2. 表示过去的时间：Last week",
+          "3. 过去时态的否定：did not understand",
+          "4. 注意时态的一致性"
+        ]
+      },
+      {
+        "heading": "2. 情态动词can的使用",
+        "children": [
+          "1. 表示请求：Can you tell me...?",
+          "2. 表示能力：I can ask him",
+          "3. 否定形式：cannot/can't",
+          "4. 注意语气的礼貌程度"
+        ]
+      },
+      {
+        "heading": "3. 直接引语的使用",
+        "children": [
+          "1. 引号的使用规则",
+          "2. 说话动词：say, tell",
+          "3. 引语中的标点符号",
+          "4. 注意人称的变化"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 方向类词汇",
+        "children": [
+          "way n. 路，方向：",
+          "- the way to... 到...的路",
+          "- lose one's way 迷路",
+          "street n. 街道：",
+          "- King Street 国王街"
+        ]
+      },
+      {
+        "heading": "2. 交通设施词汇",
+        "children": [
+          "bus-stop n. 公交车站：",
+          "- near a bus-stop 在公交车站附近",
+          "bus n. 公共汽车：",
+          "- take a bus 乘公交车",
+          "- by bus 乘公交车"
+        ]
+      },
+      {
+        "heading": "3. 交际用语",
+        "children": [
+          "phrase-book n. 常用语手册：",
+          "- take out a phrase-book 拿出常用语手册",
+          "phrase n. 短语：",
+          "- find a phrase 找到一个短语",
+          "- read the phrase 读这个短语"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "week",
+        "toggle": "n. 周，星期",
+        "isDanger": 1,
+        "phonetic": "wiːk",
+        "meaning": "n. 周"
+      },
+      {
+        "word": "London",
+        "toggle": "n.伦敦",
+        "isDanger": 0,
+        "phonetic": "ˈlʌndən",
+        "meaning": "n. 伦敦"
+      },
+      {
+        "word": "suddenly",
+        "toggle": "adv. 忽然；突然地",
+        "isDanger": 0,
+        "phonetic": "ˈsʌd(ə)nli",
+        "meaning": "adv. 突然地"
+      },
+      {
+        "word": "bus stop",
+        "toggle": "n. 公共汽车站",
+        "isDanger": 0,
+        "phonetic": "ˈbʌs stɒp",
+        "meaning": "n. 公共汽车车站"
+      },
+      {
+        "word": "bus",
+        "toggle": "n. 公共汽车",
+        "isDanger": 0,
+        "phonetic": "bʌs",
+        "meaning": "n. 公共汽车"
+      },
+      {
+        "word": "stop",
+        "toggle": "vt. 堵塞；停止；断绝",
+        "isDanger": 0,
+        "phonetic": "stɒp",
+        "meaning": "v. 停"
+      },
+      {
+        "word": "smile",
+        "toggle": "vi. 微笑",
+        "isDanger": 0,
+        "phonetic": "smaɪl",
+        "meaning": "v. 微笑"
+      },
+      {
+        "word": "pleasantly",
+        "toggle": "adv. 和蔼地，亲切地；友好地；愉快地",
+        "isDanger": 0,
+        "phonetic": "ˈplezntli",
+        "meaning": "adv. 愉快地"
+      },
+      {
+        "word": "understand",
+        "toggle": "vt. 懂；理解；获悉；推断；省略",
+        "isDanger": 1,
+        "phonetic": "ˌʌndəˈstænd",
+        "meaning": "v. 懂，明白"
+      },
+      {
+        "word": "speak",
+        "toggle": "vi. 说话；演讲；陈述；表明",
+        "isDanger": 1,
+        "phonetic": "spiːk",
+        "meaning": "v. 讲，说"
+      },
+      {
+        "word": "hand",
+        "toggle": "n. 手，手艺；指针；插手；帮助",
+        "isDanger": 1,
+        "phonetic": "hænd",
+        "meaning": "n. 手"
+      },
+      {
+        "word": "pocket",
+        "toggle": "n. 口袋；钱；容器",
+        "isDanger": 0,
+        "phonetic": "ˈpɒkɪt",
+        "meaning": "n. 衣袋"
+      },
+      {
+        "word": "phrasebook",
+        "toggle": "n. （供游客到国外旅行时用的）（外国语）常用语手册",
+        "isDanger": 0,
+        "phonetic": "ˈfreizbuk",
+        "meaning": "n. 短语手册，常用语手册"
+      },
+      {
+        "word": "phrase",
+        "toggle": "n. 成语；习语；措词",
+        "isDanger": 0,
+        "phonetic": "freɪz",
+        "meaning": "n. 短语"
+      },
+      {
+        "word": "slowly",
+        "toggle": "adv. 缓慢地，慢慢地",
+        "isDanger": 0,
+        "phonetic": "ˈsləʊli",
+        "meaning": "adv. 缓慢地"
+      },
+      {
+        "word": "hurriedly",
+        "toggle": "adv. 仓促地；匆忙地",
+        "isDanger": 0,
+        "phonetic": "ˈhʌrɪdli",
+        "meaning": "adv. 匆忙地"
+      },
+      {
+        "word": "cut",
+        "toggle": "n. 伤口；切口；削减；（服装等的）式样； [ 体育 ] 削球；切入； vt. 切割；削减；缩短；刺痛； vi. 切割；相交；切牌；停拍；不出席； adj. 割下的；雕过的；缩减的",
+        "isDanger": 1,
+        "phonetic": "kʌt",
+        "meaning": "v. 割，切"
+      },
+      {
+        "word": "thirstily",
+        "toggle": "adv. 如饥似渴地",
+        "isDanger": 0,
+        "phonetic": "ˈθɜːstɪli",
+        "meaning": "adv. 口渴地"
+      },
+      {
+        "word": "go",
+        "toggle": "vi. 走；趋于；达到；运转",
+        "isDanger": 1,
+        "phonetic": "ɡəʊ",
+        "meaning": "v. 走"
+      },
+      {
+        "word": "greet",
+        "toggle": "vt. 欢迎，迎接；致敬，致意；映入眼帘",
+        "isDanger": 0,
+        "phonetic": "ɡriːt",
+        "meaning": "v. 问候，打招呼"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

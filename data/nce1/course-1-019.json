@@ -1,0 +1,386 @@
+{
+  "id": "nce1-019",
+  "lessonNumber": "019",
+  "title": {
+    "english": "Tired and thirsty.",
+    "chinese": "又累又渴"
+  },
+  "lessonInfo": "新概念英语－第1册－第019课",
+  "audioPath": "audio/nce1/019.mp3",
+  "listeningQuestion": {
+    "question": "What do the children want?",
+    "translation": "孩子们想要什么？"
+  },
+  "editorNotes": "本课通过一个日常生活场景，展示了如何表达身体状态和需求。课文重点介绍了表达疲劳、口渴等身体感受的表达方式，以及如何回应他人的关心。这些表达对于日常生活交际非常实用，特别是对儿童英语学习者来说更为贴近。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "What's the matter, children?",
+      "We are tired and thirsty, Mum.",
+      "Sit down here.",
+      "Are you all right now?",
+      "No, we aren't.",
+      "Look!",
+      "There's an ice cream man.",
+      "Two ice creams please.",
+      "Here you are, children.",
+      "Thanks, Mum.",
+      "These ice creams are nice.",
+      "Are you all right now?",
+      "Yes, we are, thank you."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "母 亲： 怎么啦，孩子们？",
+      "女 孩： 我们累了……",
+      "男 孩： ……口也渴，妈妈。",
+      "母 亲： 坐在这儿吧。",
+      "母 亲： 你们现在好些了吗？",
+      "男 孩： 不， 还没有。",
+      "母 亲： 瞧！有个卖冰淇淋的。",
+      "母 亲： 请拿两份冰淇淋。",
+      "母 亲： 拿着，孩子们。",
+      "孩子们： 谢谢，妈妈。",
+      "女 孩： 这些冰淇淋真好吃。",
+      "母 亲： 你们现在好了吗？",
+      "孩子们： 是的，现在好了，谢谢您！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 表达身体状态",
+        "children": [
+          "核心概念：描述身体感受",
+          "常用表达：",
+          "- be tired (累了)",
+          "- be thirsty (渴了)",
+          "- be hungry (饿了)",
+          "使用场景：",
+          "- 日常生活 | 运动后 | 长途旅行",
+          "注意事项：",
+          "- 使用be动词 | 可以用and连接多个状态 | 注意语气的轻重"
+        ]
+      },
+      {
+        "heading": "2. 询问和关心",
+        "children": [
+          "核心概念：表达关心和询问状态",
+          "常用句型：",
+          "- What's the matter? (怎么了？)",
+          "- Are you all right? (你还好吗？)",
+          "使用场景：",
+          "- 看到他人不适 | 关心他人状态 | 日常问候",
+          "注意事项：",
+          "- 语气要温和 | 注意场合 | 根据对象调整用语"
+        ]
+      },
+      {
+        "heading": "3. 表达感谢",
+        "children": [
+          "核心概念：感谢他人的帮助",
+          "常用表达：",
+          "- Thanks (谢谢)",
+          "- Thank you (谢谢你)",
+          "使用场景：",
+          "- 收到帮助后 | 得到关心时 | 接受礼物时",
+          "注意事项：",
+          "- Thanks较为口语 | Thank you更正式 | 可以加上称谓"
+        ]
+      },
+      {
+        "heading": "4. 表达喜好",
+        "children": [
+          "核心概念：表达对事物的喜欢",
+          "常用句型：",
+          "- These ... are nice (这些...很好)",
+          "- I like ... (我喜欢...)",
+          "使用场景：",
+          "- 品尝食物 | 收到礼物 | 体验新事物",
+          "注意事项：",
+          "- 注意时态 | 可以加程度词 | 根据场合选择用语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 一般疑问句",
+        "children": [
+          "核心概念：",
+          "- be动词引导的一般疑问句",
+          "- 答句的形式",
+          "基本结构：",
+          "- Are you + 形容词...?",
+          "- Yes, we are. / No, we aren't.",
+          "实用例句：",
+          "- Are you all right now? (你们现在好些了吗？)",
+          "- Yes, we are, thank you. (是的，我们好多了，谢谢。)",
+          "注意事项：",
+          "- 主谓一致 | 答句完整 | 注意时态"
+        ]
+      },
+      {
+        "heading": "2. 特殊疑问句",
+        "children": [
+          "核心概念：",
+          "- what引导的特殊疑问句",
+          "- 疑问词在句首",
+          "基本用法：",
+          "- What's the matter? (怎么了？)",
+          "- What's wrong? (怎么回事？)",
+          "实用例句：",
+          "- What's the matter, children? (怎么了，孩子们？)",
+          "注意事项：",
+          "- 缩写形式 | 语气和语调 | 答句形式"
+        ]
+      },
+      {
+        "heading": "3. There be结构",
+        "children": [
+          "核心概念：",
+          "- 表示存在",
+          "- 就近原则",
+          "基本用法：",
+          "- There is/are + 名词",
+          "- There's = There is",
+          "实用例句：",
+          "- There's an ice cream man. (那儿有个卖冰淇淋的。)",
+          "注意事项：",
+          "- 单复数一致 | 就近原则 | 常见缩写"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 身体状态词",
+        "children": [
+          "基本词汇：",
+          "- tired (疲倦的)",
+          "- thirsty (口渴的)",
+          "- hungry (饿的)",
+          "常用搭配：",
+          "- very tired (非常累)",
+          "- so thirsty (太渴了)",
+          "使用场景：",
+          "- 描述感受 | 表达需求 | 日常对话"
+        ]
+      },
+      {
+        "heading": "2. 食物词汇",
+        "children": [
+          "基本词汇：",
+          "- ice cream (冰淇淋)",
+          "- ice (冰)",
+          "- cream (奶油)",
+          "常用搭配：",
+          "- ice cream man (卖冰淇淋的人)",
+          "- nice ice cream (美味的冰淇淋)",
+          "使用场景：",
+          "- 购买食物 | 表达喜好 | 描述味道"
+        ]
+      },
+      {
+        "heading": "3. 日常交际用语",
+        "children": [
+          "问候语：",
+          "- What's the matter? (怎么了？)",
+          "- Are you all right? (你还好吗？)",
+          "回应语：",
+          "- Thank you (谢谢)",
+          "- Thanks (谢谢)",
+          "使用场景：",
+          "- 日常问候 | 表达感谢 | 关心他人"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "matter",
+        "toggle": "n. 物质；事件；原因",
+        "isDanger": 0,
+        "phonetic": "ˈmætə(r)",
+        "meaning": "n. 事情"
+      },
+      {
+        "word": "children",
+        "toggle": "n.儿童，小孩；子女",
+        "isDanger": 0,
+        "phonetic": "ˈtʃɪldrən",
+        "meaning": "n. 孩子们(child 的复数)"
+      },
+      {
+        "word": "child",
+        "toggle": "n. 儿童，孩子；子孙；产物",
+        "isDanger": 1,
+        "phonetic": "tʃaɪld",
+        "meaning": "n. 孩子"
+      },
+      {
+        "word": "kid",
+        "toggle": "n. 小孩；小山羊",
+        "isDanger": 0,
+        "phonetic": "kɪd",
+        "meaning": "n. 小孩儿"
+      },
+      {
+        "word": "tired",
+        "toggle": "adj. 疲倦的；厌倦的，厌烦的",
+        "isDanger": 0,
+        "phonetic": "ˈtaɪəd",
+        "meaning": "adj. 累，疲乏"
+      },
+      {
+        "word": "boy",
+        "toggle": "n. 男孩； [ 美口 ] 男人",
+        "isDanger": 0,
+        "phonetic": "bɔɪ",
+        "meaning": "n. 男孩"
+      },
+      {
+        "word": "thirsty",
+        "toggle": "adj. 口渴的，口干的；渴望的，热望的",
+        "isDanger": 0,
+        "phonetic": "ˈθɜːsti",
+        "meaning": "adj. 渴"
+      },
+      {
+        "word": "mum",
+        "toggle": "adj. 沉默的",
+        "isDanger": 0,
+        "phonetic": "mʌm",
+        "meaning": "n. 妈妈(儿语)"
+      },
+      {
+        "word": "sit down",
+        "toggle": "坐下",
+        "isDanger": 0,
+        "phonetic": "ˈsɪt daʊn",
+        "meaning": "v. 坐下"
+      },
+      {
+        "word": "right",
+        "toggle": "adj. 正确的；右方的；直接的",
+        "isDanger": 1,
+        "phonetic": "raɪt",
+        "meaning": "adj. 好，可以"
+      },
+      {
+        "word": "ice cream",
+        "toggle": "n. 冰淇淋",
+        "isDanger": 0,
+        "phonetic": "ˈaɪs kriːm",
+        "meaning": "n. 冰淇淋"
+      },
+      {
+        "word": "ice",
+        "toggle": "n. 冰；冰淇淋；矜持；（俚）钻石； vt. 冰镇；结冰； vi. 结冰； adj. 冰的",
+        "isDanger": 0,
+        "phonetic": "aɪs",
+        "meaning": "n. 冰"
+      },
+      {
+        "word": "cream",
+        "toggle": "n. 奶油，乳脂；乳酪；精华；面霜",
+        "isDanger": 0,
+        "phonetic": "kriːm",
+        "meaning": "n. 脂"
+      },
+      {
+        "word": "big",
+        "toggle": "adj. 大的；重要的；量大的",
+        "isDanger": 1,
+        "phonetic": "bɪɡ",
+        "meaning": "adj. 大的"
+      },
+      {
+        "word": "small",
+        "toggle": "adj. 少的，小的；不重要的；几乎没有的；微弱的；幼小的",
+        "isDanger": 0,
+        "phonetic": "smɔːl",
+        "meaning": "adj. 小的"
+      },
+      {
+        "word": "open",
+        "toggle": "adj. 营业着的；敞开的；空旷的；公开的；坦率的",
+        "isDanger": 1,
+        "phonetic": "ˈəʊpən",
+        "meaning": "adj. 开着的"
+      },
+      {
+        "word": "shut",
+        "toggle": "vt. 关闭；停业；幽禁",
+        "isDanger": 0,
+        "phonetic": "ʃʌt",
+        "meaning": "adj. 关着的"
+      },
+      {
+        "word": "close",
+        "toggle": "adj. 亲密的；亲近的；紧密的",
+        "isDanger": 1,
+        "phonetic": "kləʊz",
+        "meaning": "v. 关"
+      },
+      {
+        "word": "light",
+        "toggle": "n. 光，光亮；灯",
+        "isDanger": 1,
+        "phonetic": "laɪt",
+        "meaning": "adj. 轻的"
+      },
+      {
+        "word": "heavy",
+        "toggle": "adj. 沉重的；繁重的，巨大的；阴沉的",
+        "isDanger": 0,
+        "phonetic": "ˈhevi",
+        "meaning": "adj. 重的"
+      },
+      {
+        "word": "long",
+        "toggle": "n. 长时间；长音节",
+        "isDanger": 1,
+        "phonetic": "lɒŋ",
+        "meaning": "adj. 长的"
+      },
+      {
+        "word": "shoe",
+        "toggle": "n. 鞋；蹄铁；外胎",
+        "isDanger": 0,
+        "phonetic": "ʃuː",
+        "meaning": "n. 鞋子"
+      },
+      {
+        "word": "grandfather",
+        "toggle": "n. 祖父；始祖",
+        "isDanger": 0,
+        "phonetic": "ˈɡrænfɑːðə(r)",
+        "meaning": "n. 祖父，外祖父"
+      },
+      {
+        "word": "grandmother",
+        "toggle": "n. 祖母；女祖先",
+        "isDanger": 0,
+        "phonetic": "ˈɡrænmʌðə(r)",
+        "meaning": "n. 祖母，外祖"
+      },
+      {
+        "word": "grand",
+        "toggle": "adj. 宏伟的；豪华的；极重要的",
+        "isDanger": 0,
+        "phonetic": "ɡrænd",
+        "meaning": "n. 大"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

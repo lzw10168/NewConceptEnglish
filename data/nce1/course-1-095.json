@@ -1,0 +1,258 @@
+{
+  "id": "nce1-095",
+  "lessonNumber": "095",
+  "title": {
+    "english": "Ticket, please.",
+    "chinese": "请出示车票"
+  },
+  "lessonInfo": "新概念英语－第1册－第095课",
+  "audioPath": "audio/nce1/095.mp3",
+  "listeningQuestion": {
+    "question": "Why did George and Ken miss their train?",
+    "translation": "乔治和肯为什么错过了火车？"
+  },
+  "editorNotes": "本课通过一段在火车站发生的对话，展示了如何询问列车时刻、购买车票以及处理误时情况。课文涉及时间表达、方位指示、数字使用等内容，同时介绍了一般过去时和情态动词的使用。这些表达对于乘坐公共交通工具非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "George:        Two return tickets to London please. What time will the next train leave?",
+      "Attendant:     At nineteen minutes past eight.",
+      "George:        Which platform?",
+      "Attendant:     Platform Two. Over the bridge.",
+      "Ken:           What time will the next train leave?",
+      "George:        At eight nineteen.",
+      "Ken:           We've got plenty of time.",
+      "George:        It's only three minutes to eight.",
+      "Ken:           Let's go and have a drink. There's a bar next door to the station.",
+      "George:        We had better go back to the station now, Ken.",
+      "Porter:        Tickets please.",
+      "George:        We want to catch the eight nineteen to London.",
+      "Porter:        You've just missed it!",
+      "George:        What! It's only eight fifteen.",
+      "Porter:        I'm sorry, sir. That clock's ten minutes slow.",
+      "George:        When's the next train?",
+      "Porter:        In five hours' time!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "乔 治：买两张到伦敦的往返票。",
+      "下一班火车什么时候开？",
+      "服务员：8点19分。",
+      "乔 治：在哪个站台？",
+      "服务员：2号站台。过天桥。",
+      "肯：下一班火车什么时候开？",
+      "乔 治：8点19分。",
+      "肯：我们时间还很宽裕。",
+      "乔 治：现在才7点57分。",
+      "肯：让我们去喝点东西吧，车站旁有一个酒吧。",
+      "乔 治：肯，我们现在最好回车站去。",
+      "收票员：请把车票拿出来。",
+      "乔 治：我们要乘8点19分的车去伦敦。",
+      "收票员：你们刚好错过了那班车。",
+      "乔 治：什么！现在只有8点15分。",
+      "收票员：对不起，先生，那个钟慢了10分钟。",
+      "乔 治：下一班车是什么时候？",
+      "收票员：5个小时以后！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 购票对话",
+        "children": [
+          "核心概念：如何购买车票和询问信息",
+          "常用表达：",
+          "- Two return tickets to London please 两张到伦敦的往返票",
+          "- What time will the next train leave? 下一班车什么时候发车？",
+          "- Which platform? 哪个站台？",
+          "使用场景：在车站购票时",
+          "注意事项：注意使用礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 时间表达",
+        "children": [
+          "核心概念：如何表达具体时间",
+          "常用表达：",
+          "- At nineteen minutes past eight 8点19分",
+          "- It's only three minutes to eight 才7点57分",
+          "- That clock's ten minutes slow 那个钟慢了10分钟",
+          "使用场景：讨论时间和时刻",
+          "注意事项：注意英式和美式时间表达的区别"
+        ]
+      },
+      {
+        "heading": "3. 方位指示",
+        "children": [
+          "核心概念：如何指示方位和位置",
+          "常用表达：",
+          "- Platform Two 2号站台",
+          "- Over the bridge 过天桥",
+          "- There's a bar next door to the station 车站旁边有个酒吧",
+          "使用场景：指引方向和位置",
+          "注意事项：注意介词的准确使用"
+        ]
+      },
+      {
+        "heading": "4. 意外处理",
+        "children": [
+          "核心概念：如何处理意外情况",
+          "常用表达：",
+          "- You've just missed it! 你们刚好错过了！",
+          "- I'm sorry, sir 对不起，先生",
+          "- When's the next train? 下一班车什么时候？",
+          "使用场景：处理交通延误或错过",
+          "注意事项：注意表达的礼貌性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般将来时的使用",
+        "children": [
+          "1. 表示时刻表：will the next train leave",
+          "2. 表示预定计划：The train will leave at 8:19",
+          "3. 与时间状语的搭配",
+          "4. 疑问句的构成"
+        ]
+      },
+      {
+        "heading": "2. 情态动词的使用",
+        "children": [
+          "1. had better的用法：We had better go back",
+          "2. 表示建议和忠告",
+          "3. 否定形式的构成",
+          "4. 与其他情态动词的比较"
+        ]
+      },
+      {
+        "heading": "3. 现在完成时的使用",
+        "children": [
+          "1. 表示刚刚发生：You've just missed it",
+          "2. 与just的搭配",
+          "3. 表示最近发生的事",
+          "4. 与一般过去时的区别"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 交通工具词汇",
+        "children": [
+          "train n. 火车：",
+          "- catch a train 赶火车",
+          "- miss the train 错过火车",
+          "platform n. 站台：",
+          "- Platform Two 2号站台",
+          "- on the platform 在站台上"
+        ]
+      },
+      {
+        "heading": "2. 时间词汇",
+        "children": [
+          "time n. 时间：",
+          "- on time 准时",
+          "- in time 及时",
+          "plenty n. 充足：",
+          "- plenty of time 充足的时间",
+          "- have plenty of 有很多"
+        ]
+      },
+      {
+        "heading": "3. 动作词汇",
+        "children": [
+          "catch v. 赶上：",
+          "- catch the train 赶火车",
+          "- catch up with 赶上",
+          "miss v. 错过：",
+          "- miss the train 错过火车",
+          "- just missed 刚错过"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "return",
+        "toggle": "vt. 返回；报答； n. 返回；归还；回球； vi. 返回；报答； adj. 报答的；回程的；返回的",
+        "isDanger": 1,
+        "phonetic": "rɪˈtɜːn",
+        "meaning": "n. 往返"
+      },
+      {
+        "word": "train",
+        "toggle": "n. 火车；行列；长队；裙裾",
+        "isDanger": 1,
+        "phonetic": "treɪn",
+        "meaning": "n. 火车"
+      },
+      {
+        "word": "platform",
+        "toggle": "n. 月台，站台；讲台；平台；坛",
+        "isDanger": 0,
+        "phonetic": "ˈplætfɔːm",
+        "meaning": "n. 站台"
+      },
+      {
+        "word": "station",
+        "toggle": "n. 站；地位；身分；驻地",
+        "isDanger": 0,
+        "phonetic": "ˈsteɪʃ(ə)n",
+        "meaning": "n. 车站，火车站"
+      },
+      {
+        "word": "plenty",
+        "toggle": "n. 丰富，大量；充足",
+        "isDanger": 0,
+        "phonetic": "ˈplenti",
+        "meaning": "n. 大量"
+      },
+      {
+        "word": "bar",
+        "toggle": "n. 酒吧；条，棒；障碍",
+        "isDanger": 0,
+        "phonetic": "bɑː(r)",
+        "meaning": "n. 酒吧"
+      },
+      {
+        "word": "catch",
+        "toggle": "vt. 赶上；抓住；感染；了解",
+        "isDanger": 1,
+        "phonetic": "kætʃ",
+        "meaning": "v. 赶上"
+      },
+      {
+        "word": "miss",
+        "toggle": "vt. 漏掉；错过；想念",
+        "isDanger": 1,
+        "phonetic": "mɪs",
+        "meaning": "v. 错过"
+      },
+      {
+        "word": "metro",
+        "toggle": "n. 地铁；大都市；伦敦地下铁道；麦德隆（财富 500 强公司之一，总部所在地德国，主要经营零售）",
+        "isDanger": 0,
+        "phonetic": "ˈmetrəʊ",
+        "meaning": "n. 地铁(法国)"
+      },
+      {
+        "word": "subway",
+        "toggle": "n. 地铁；地道",
+        "isDanger": 0,
+        "phonetic": "ˈsʌbweɪ",
+        "meaning": "v. 地铁(美)"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

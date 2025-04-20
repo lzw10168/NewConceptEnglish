@@ -1,0 +1,186 @@
+{
+  "id": "nce2--013",
+  "lessonNumber": "013",
+  "title": {
+    "english": "The Greenwood Boys",
+    "chinese": "绿林少年"
+  },
+  "lessonInfo": "新概念英语－第2册－第013课",
+  "audioPath": "audio/nce2/013.mp3",
+  "listeningQuestion": {
+    "question": "How many performances will the Greenwood Boys give?",
+    "translation": "绿林少年将会进行多少场演出？"
+  },
+  "editorNotes": "本课讲述了一个流行歌手组合的巡回演出故事，重点介绍了将来进行时的用法，以及表达预先安排好的事情的语言形式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The Greenwood Boys are a group of pop singers.",
+      "At present, they are visiting all parts of the country.",
+      "They will be arriving here tomorrow.",
+      "They will be coming by train and most of the young people in the town will be meeting them at the station.",
+      "Tomorrow evening they will be singing at the Workers' Club.",
+      "The Greenwood Boys will be staying for five days.",
+      "During this time, they will give five performances.",
+      "As usual, the police will have a difficult time.",
+      "They will be trying to keep order.",
+      "It is always the same on these occasions."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "\"绿林少年\"是一个流行歌曲演唱团。",
+      "目前他们正在全国各地巡回演出。",
+      "明天就要到达此地。",
+      "他们将乘火车来，镇上的大部分青年人将到车站迎接他们。",
+      "明晚他们将在工人俱乐部演出。",
+      "\"绿林少年\"准备在此逗留5天。",
+      "在此期间，他们将演出5场。",
+      "同往常一样，警察的日子将不好过。",
+      "他们将设法维持秩序。",
+      "每逢这种场合，情况都是这样。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "group",
+        "toggle": "n. 组；团体",
+        "isDanger": 0,
+        "phonetic": "ɡruːp",
+        "meaning": "n. 小组，团体"
+      },
+      {
+        "word": "pop singer",
+        "toggle": "流行歌手",
+        "isDanger": 0,
+        "phonetic": "pɒp ˈsɪŋə(r)",
+        "meaning": "n. 流行歌手"
+      },
+      {
+        "word": "club",
+        "toggle": "n. 俱乐部，社团；夜总会；（扑克牌中的）梅花；棍棒",
+        "isDanger": 0,
+        "phonetic": "klʌb",
+        "meaning": "n. 俱乐部"
+      },
+      {
+        "word": "performance",
+        "toggle": "n. 性能；表演；执行；绩效",
+        "isDanger": 0,
+        "phonetic": "pəˈfɔːməns",
+        "meaning": "n. 演出"
+      },
+      {
+        "word": "occasion",
+        "toggle": "n. 场合；时机，机会；理由",
+        "isDanger": 0,
+        "phonetic": "əˈkeɪʒ(ə)n",
+        "meaning": "n. 场合"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "将来进行时的基本用法",
+        "content": "将来进行时由will/shall + be + 现在分词构成，通常用于表示最近或将来正在进行的动作。如'They will be arriving here tomorrow'表示预先安排好的事情。"
+      },
+      {
+        "title": "将来进行时与一般将来时的区别",
+        "content": "将来进行时比一般将来时更委婉客气，且不带有意愿、决心等含义，只是陈述将来的事实。如'When will you be seeing Mr. White?'比'When will you see Mr. White?'更礼貌。"
+      },
+      {
+        "title": "时间表达",
+        "content": "课文中出现了多种时间表达方式：at present（目前），tomorrow evening（明晚），during this time（在此期间）等，这些都是表达时间的重要短语。"
+      },
+      {
+        "title": "名词所有格的用法",
+        "content": "如Workers' Club中，表示属于复数名词的所有格，在复数名词词尾的s后加撇号(')。而单数名词则要加's，如worker's club。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "at present",
+        "translation": "目前，现在",
+        "context": "表示当前的时间状态",
+        "example": "At present, they are visiting all parts of the country."
+      },
+      {
+        "phrase": "keep order",
+        "translation": "维持秩序",
+        "context": "表示维持治安或秩序",
+        "example": "The police will be trying to keep order."
+      },
+      {
+        "phrase": "as usual",
+        "translation": "像往常一样",
+        "context": "表示某事经常发生或是惯例",
+        "example": "As usual, the police will have a difficult time."
+      },
+      {
+        "phrase": "have a difficult time",
+        "translation": "有困难的时期",
+        "context": "表示经历困难或麻烦",
+        "example": "The police will have a difficult time."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What kind of singers are the Greenwood Boys?",
+        "options": [
+          "Folk singers",
+          "Pop singers",
+          "Classical singers",
+          "Rock singers"
+        ],
+        "answer": 1,
+        "explanation": "课文开头就明确说明The Greenwood Boys are a group of pop singers。"
+      },
+      {
+        "question": "How will they travel to the town?",
+        "options": [
+          "By bus",
+          "By train",
+          "By plane",
+          "By car"
+        ],
+        "answer": 1,
+        "explanation": "课文中提到They will be coming by train。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The Greenwood Boys will be _____ for five days.",
+        "answer": "staying",
+        "hint": "表示逗留的动词"
+      },
+      {
+        "sentence": "During this time, they will give five _____.",
+        "answer": "performances",
+        "hint": "表示演出的名词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "流行音乐文化",
+        "content": "在20世纪60年代，流行音乐在青年人中非常流行。歌手和乐队的巡回演出常常会引起轰动，需要警察维持秩序。这种现象在当时的英美等国家非常普遍。"
+      },
+      {
+        "title": "语言表达特点",
+        "content": "本课大量使用将来进行时，这种时态在英语中常用来表达预先安排好的事情，语气比一般将来时更委婉。同时，课文也展示了许多与演出相关的词汇和表达方式。"
+      }
+    ]
+  }
+}

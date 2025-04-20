@@ -1,0 +1,236 @@
+{
+  "id": "nce1-119",
+  "lessonNumber": "119",
+  "title": {
+    "english": "A true story",
+    "chinese": "一个真实的故事"
+  },
+  "lessonInfo": "新概念英语－第1册－第119课",
+  "audioPath": "audio/nce1/119.mp3",
+  "listeningQuestion": {
+    "question": "Who scared the thieves away?",
+    "translation": "是谁把小偷吓跑了？"
+  },
+  "editorNotes": "本课通过一个有趣的真实故事，展示了英语中叙述过去事件的多种时态用法，包括过去完成时和过去进行时。课文还介绍了描述事件顺序和细节的表达方式，以及对话中的口语表达。这些表达对于讲述故事和日常交流非常有帮助。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Do you like stories? I want to tell you a true story. It happened to a friend of mine a year ago.",
+      "While my friend, George, was reading in bed, two thieves climbed into his kitchen. After they had entered the house, they went into the dining-room. It was very dark, so they turned on a torch. Suddenly, they heard a voice behind them. 'What's up? What's up?'(什么事) someone called. The thieves dropped the torch and ran away as quickly as they could.",
+      "George heard the noise and came downstairs quickly. He turned on the light, but he couldn't see anyone. The thieves had already gone. But George's parrot, Henry, was still there.",
+      "'What's up, George?' he called.",
+      "'Nothing, Henry,'",
+      "George said and smiled.",
+      "'Go back to sleep.'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "你喜欢听故事吗？我要告诉你一个真实的故事。这是一年前发生在我的一个朋友身上的故事。",
+      "当我的朋友乔治在床上看书时，两个小偷爬进了他的厨房。他们进到屋里后，走进了饭厅。饭厅很暗，于是他们打开了手电筒。突然他们听到身后有声音。'什么事？什么事？'有人叫着。小偷扔下了手电筒，飞快地逃走了。",
+      "乔治听到了响声，迅速地下了楼。 他开了灯，但不见一个人。小偷逃走了。 但时乔治的鹦鹉亨利仍在那里。",
+      "'什么事，乔治？'它叫着。",
+      "'没事，亨利。'乔治笑着说，",
+      "'接着睡觉吧。'"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 故事开场",
+        "children": [
+          "核心概念：如何开始讲述一个故事",
+          "常用表达：",
+          "- Do you like stories? 你喜欢听故事吗？",
+          "- I want to tell you a true story 我要告诉你一个真实的故事",
+          "- It happened to... 发生在...身上",
+          "使用场景：开始讲述故事时",
+          "注意事项：注意吸引听众注意力的技巧"
+        ]
+      },
+      {
+        "heading": "2. 描述事件经过",
+        "children": [
+          "核心概念：如何描述事件的发展过程",
+          "常用表达：",
+          "- While...was reading 当...正在读书时",
+          "- After they had entered 在他们进入之后",
+          "- Suddenly, they heard 突然，他们听到",
+          "使用场景：描述事件发生的顺序和过程",
+          "注意事项：注意时态的准确使用"
+        ]
+      },
+      {
+        "heading": "3. 描述动作和反应",
+        "children": [
+          "核心概念：如何描述人物的动作和反应",
+          "常用表达：",
+          "- dropped the torch 扔下手电筒",
+          "- ran away as quickly as they could 尽可能快地逃走",
+          "- came downstairs quickly 迅速下楼",
+          "使用场景：描述人物行为和反应时",
+          "注意事项：注意动作词的选择和副词的使用"
+        ]
+      },
+      {
+        "heading": "4. 对话表达",
+        "children": [
+          "核心概念：如何表达简短对话",
+          "常用表达：",
+          "- What's up? 什么事？",
+          "- Nothing 没事",
+          "- Go back to sleep 接着睡吧",
+          "使用场景：日常简短对话中",
+          "注意事项：注意对话的自然性和简洁性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 过去完成时",
+        "children": [
+          "1. 基本结构：had + done",
+          "2. 表示过去某时刻之前发生的动作",
+          "3. 与时间连词after的搭配",
+          "4. 例句：After they had entered the house"
+        ]
+      },
+      {
+        "heading": "2. 过去进行时",
+        "children": [
+          "1. 基本结构：was/were + doing",
+          "2. 表示过去某时正在进行的动作",
+          "3. 与while连用",
+          "4. 例句：While my friend was reading"
+        ]
+      },
+      {
+        "heading": "3. 直接引语",
+        "children": [
+          "1. 引号的使用",
+          "2. 说话动词的选择：called, said",
+          "3. 感叹句的使用",
+          "4. 例句：'What's up?' he called"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 故事相关词汇",
+        "children": [
+          "story n. 故事：",
+          "- true story 真实故事",
+          "- tell a story 讲故事",
+          "happen v. 发生：",
+          "- happened to 发生在...身上",
+          "- it happened a year ago 一年前发生的"
+        ]
+      },
+      {
+        "heading": "2. 动作词汇",
+        "children": [
+          "climb v. 爬：",
+          "- climb into 爬进",
+          "- climb up/down 爬上/下",
+          "enter v. 进入：",
+          "- enter the house 进入房子",
+          "- enter the room 进入房间"
+        ]
+      },
+      {
+        "heading": "3. 环境描写词汇",
+        "children": [
+          "dark adj. 黑暗的：",
+          "- very dark 很黑暗",
+          "- in the dark 在黑暗中",
+          "torch n. 手电筒：",
+          "- turn on a torch 打开手电筒",
+          "- drop the torch 扔下手电筒"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "story",
+        "toggle": "n. 故事；来历；新闻报道；小说； [ 口 ] 假话",
+        "isDanger": 0,
+        "phonetic": "ˈstɔːri",
+        "meaning": "n. 故事"
+      },
+      {
+        "word": "happen",
+        "toggle": "vi. 发生；碰巧；偶然遇到",
+        "isDanger": 1,
+        "phonetic": "ˈhæpən",
+        "meaning": "v. 发生"
+      },
+      {
+        "word": "thief",
+        "toggle": "n. 小偷，贼",
+        "isDanger": 0,
+        "phonetic": "θiːf",
+        "meaning": "n. 贼"
+      },
+      {
+        "word": "enter",
+        "toggle": "vt. 进入；开始；参加",
+        "isDanger": 0,
+        "phonetic": "ˈentə(r)",
+        "meaning": "v. 进入"
+      },
+      {
+        "word": "dark",
+        "toggle": "adj. 黑暗的，深色的；无知的；模糊的；忧郁的",
+        "isDanger": 1,
+        "phonetic": "dɑːk",
+        "meaning": "adj. 黑暗的"
+      },
+      {
+        "word": "torch",
+        "toggle": "n. 火把，火炬；手电筒；启发之物",
+        "isDanger": 0,
+        "phonetic": "tɔːtʃ",
+        "meaning": "n. 手电筒"
+      },
+      {
+        "word": "voice",
+        "toggle": "n. 声音；愿望；嗓音；发言权",
+        "isDanger": 0,
+        "phonetic": "vɔɪs",
+        "meaning": "n. (说话的)声音"
+      },
+      {
+        "word": "parrot",
+        "toggle": "n. 鹦鹉；学舌者，应声虫；机械模仿别人的人",
+        "isDanger": 0,
+        "phonetic": "ˈpærət",
+        "meaning": "n. 鹦鹉"
+      },
+      {
+        "word": "exercise book",
+        "toggle": "n. 练习本",
+        "isDanger": 0,
+        "phonetic": "ˈeksəsaɪz bʊk",
+        "meaning": "n. 练习本"
+      },
+      {
+        "word": "exercise",
+        "toggle": "n. 练习；运动；运用；操练；典礼；礼拜",
+        "isDanger": 0,
+        "phonetic": "ˈeksəsaɪz",
+        "meaning": "v. 锻炼"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

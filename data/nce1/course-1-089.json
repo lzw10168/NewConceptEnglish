@@ -1,0 +1,294 @@
+{
+  "id": "nce1-089",
+  "lessonNumber": "089",
+  "title": {
+    "english": "For Sale",
+    "chinese": "待售"
+  },
+  "lessonInfo": "新概念英语－第1册－第089课",
+  "audioPath": "audio/nce1/089.mp3",
+  "listeningQuestion": {
+    "question": "Why does Mr. West want to sell his house?",
+    "translation": "韦斯特先生为什么要卖房子？"
+  },
+  "editorNotes": "本课通过一段房屋买卖的对话，展示了如何询问和描述房产信息。课文涉及时间表达、价格讨论、决策过程等内容，同时介绍了现在完成时和一般现在时的使用。这些表达对于房产交易场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mr Hill:      Good afternoon. I believe that this house is for sale（待售）.",
+      "Mr West:      That's right.",
+      "Mr Hill:      May I have a look at it please?",
+      "Mr West:      Yes, of course. Come in.",
+      "Mr Hill:      How long have you lived here?",
+      "Mr West:      I have lived here for twenty years.",
+      "Mr Hill:      Twenty years! That's a long time.",
+      "Mr West:      Yes, I have been here since 1947.",
+      "Mr Hill:      Then why do you want to sell it?",
+      "Mr West:      Because I have just retired. I want to buy a small house in the country.",
+      "Mr Hill:      How much does this house cost?",
+      "Mr West:      £6850.",
+      "Mr Hill:      That's a lot of money!",
+      "Mr West:      It's worth every penny of it.",
+      "Mr Hill:      Well, I like the house, but I can't decide yet. My wife must see it first.",
+      "Mr West:      Women always have the last word."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "奈杰尔：下午好。我想这房子是要出售的吧！",
+      "伊 恩: 是的。",
+      "奈杰尔：我可以看一看吗？",
+      "伊 恩: 可以，当然可以。请进。",
+      "奈杰尔：您在这里住了多长时间？",
+      "伊 恩: 我在这里住了20年了。",
+      "奈杰恩：20年！这个时间可不短。",
+      "伊 恩: 是啊，从1976年起我就住在这里。",
+      "奈杰尔：那么，您为什么要卖掉它呢？",
+      "伊 恩: 因为我刚退休。",
+      "我想在乡下买幢小房子。",
+      "奈杰尔: 这座房子卖多少钱？",
+      "伊 恩: 68,500英镑。",
+      "奈杰尔：我可真是一大笔钱呢！",
+      "伊 恩: 它确确实实值这么多钱。",
+      "奈杰尔：啊，我喜欢这房子，",
+      "但我还不能决定。",
+      "我妻子必须先来看一看。",
+      "伊 恩: 女人总是最后说了算的。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 房产询问表达",
+        "children": [
+          "核心概念：如何询问房产基本信息",
+          "常用表达：",
+          "- Is this house for sale? 这房子在售吗？",
+          "- May I have a look at it? 我可以看看吗？",
+          "- How much does this house cost? 这房子多少钱？",
+          "使用场景：看房时询问基本信息",
+          "注意事项：注意使用礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 时间表达",
+        "children": [
+          "核心概念：如何表达居住时间",
+          "常用表达：",
+          "- How long have you lived here? 你在这住了多久？",
+          "- I have lived here for twenty years 我在这住了20年",
+          "- since 1947 自从1947年起",
+          "使用场景：询问和描述居住历史",
+          "注意事项：注意for和since的区别使用"
+        ]
+      },
+      {
+        "heading": "3. 价格讨论",
+        "children": [
+          "核心概念：如何讨论和评价房产价格",
+          "常用表达：",
+          "- That's a lot of money! 那可真是一大笔钱！",
+          "- It's worth every penny of it 它确实值这个价",
+          "- How much does it cost? 多少钱？",
+          "使用场景：讨论房产价格时",
+          "注意事项：注意使用委婉的价格谈判语言"
+        ]
+      },
+      {
+        "heading": "4. 决策表达",
+        "children": [
+          "核心概念：如何表达购房决策",
+          "常用表达：",
+          "- I can't decide yet 我还不能决定",
+          "- My wife must see it first 我妻子必须先看看",
+          "- Women always have the last word 女人总是最后说了算",
+          "使用场景：表达购房决策过程",
+          "注意事项：注意表达态度的委婉性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在完成时的使用",
+        "children": [
+          "1. 表示持续：I have lived here for twenty years",
+          "2. 表示经历：I have been here since 1947",
+          "3. 表示最近完成：I have just retired",
+          "4. 与for和since的搭配"
+        ]
+      },
+      {
+        "heading": "2. 情态动词may的使用",
+        "children": [
+          "1. 表示请求许可：May I have a look?",
+          "2. 表示可能性：You may like it",
+          "3. 与其他情态动词的区别",
+          "4. 在正式场合的使用"
+        ]
+      },
+      {
+        "heading": "3. 一般现在时的使用",
+        "children": [
+          "1. 表示事实：Women always have the last word",
+          "2. 表示价值：It's worth every penny",
+          "3. 表示习惯和普遍真理",
+          "4. 与频率副词的搭配"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 房产相关词汇",
+        "children": [
+          "house n. 房子：",
+          "- for sale 待售",
+          "- small house 小房子",
+          "- in the country 在乡下",
+          "sale n. 销售：",
+          "- on sale 在售",
+          "- for sale 待售"
+        ]
+      },
+      {
+        "heading": "2. 价格词汇",
+        "children": [
+          "cost v. 花费：",
+          "- cost a lot 花很多钱",
+          "- how much does it cost? 多少钱？",
+          "worth adj. 值得：",
+          "- worth every penny 物有所值",
+          "- worth the money 值这个价"
+        ]
+      },
+      {
+        "heading": "3. 时间词汇",
+        "children": [
+          "since prep. 自从：",
+          "- since 1947 自1947年起",
+          "- since then 从那时起",
+          "retire v. 退休：",
+          "- just retired 刚退休",
+          "- retire from work 从工作岗位退休"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "believe",
+        "toggle": "vi. 信任；料想；笃信宗教",
+        "isDanger": 1,
+        "phonetic": "bɪˈliːv",
+        "meaning": "v. 相信，认为"
+      },
+      {
+        "word": "may",
+        "toggle": "aux. 可能，可以；愿意",
+        "isDanger": 1,
+        "phonetic": "may",
+        "meaning": "v. (用于请求许可)可以"
+      },
+      {
+        "word": "how long",
+        "toggle": "多久；多长",
+        "isDanger": 0,
+        "phonetic": "haʊ lɒŋ",
+        "meaning": "adv. 多长"
+      },
+      {
+        "word": "since",
+        "toggle": "conj. 既然；因为；由于；自 … 以来；自 … 以后",
+        "isDanger": 1,
+        "phonetic": "sɪns",
+        "meaning": "prep. 自从"
+      },
+      {
+        "word": "why",
+        "toggle": "int. 哎呀！什么？",
+        "isDanger": 1,
+        "phonetic": "waɪ",
+        "meaning": "adv. 为什么"
+      },
+      {
+        "word": "sell",
+        "toggle": "vt. 销售；出卖；推销；欺骗",
+        "isDanger": 1,
+        "phonetic": "sel",
+        "meaning": "v. 卖，出售"
+      },
+      {
+        "word": "because",
+        "toggle": "conj. 因为",
+        "isDanger": 0,
+        "phonetic": "bɪˈkəz; bɪˈkɒz",
+        "meaning": "conj. 因为"
+      },
+      {
+        "word": "retire",
+        "toggle": "vi. 退休；撤退；退却",
+        "isDanger": 1,
+        "phonetic": "rɪˈtaɪə(r)",
+        "meaning": "v. 退休"
+      },
+      {
+        "word": "tire",
+        "toggle": "vi. 疲劳；厌倦",
+        "isDanger": 1,
+        "phonetic": "ˈtaɪə(r)",
+        "meaning": "n. 轮胎"
+      },
+      {
+        "word": "cost",
+        "toggle": "vt. 花费；使付出；使花许多钱",
+        "isDanger": 0,
+        "phonetic": "kɒst",
+        "meaning": "v. 花费"
+      },
+      {
+        "word": "pound",
+        "toggle": "n. 英镑；兽栏；重击，重击声；拘留所",
+        "isDanger": 0,
+        "phonetic": "paʊnd",
+        "meaning": "n. 英镑"
+      },
+      {
+        "word": "worth",
+        "toggle": "adj. 值 … 的",
+        "isDanger": 0,
+        "phonetic": "wɜːθ",
+        "meaning": "prep. 值…钱"
+      },
+      {
+        "word": "penny",
+        "toggle": "n.便士,<美> 分",
+        "isDanger": 0,
+        "phonetic": "ˈpeni",
+        "meaning": "n. 便士"
+      },
+      {
+        "word": "cent",
+        "toggle": "n.(货币单位)分,分币",
+        "isDanger": 0,
+        "phonetic": "sent",
+        "meaning": "n. 分"
+      },
+      {
+        "word": "sale",
+        "toggle": "n. 出售；销售额；拍卖；销售；廉价出售",
+        "isDanger": 0,
+        "phonetic": "seɪl",
+        "meaning": "n. 出售"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

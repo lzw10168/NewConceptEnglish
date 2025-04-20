@@ -1,0 +1,209 @@
+{
+  "id": "nce2--008",
+  "lessonNumber": "008",
+  "title": {
+    "english": "The best and the worst",
+    "chinese": "最好的和最差的"
+  },
+  "lessonInfo": "新概念英语－第2册－第008课",
+  "audioPath": "audio/nce2/008.mp3",
+  "listeningQuestion": {
+    "question": "Why does Joe Sanders always win the garden competition?",
+    "translation": "为什么乔·桑德斯总是赢得花园比赛？"
+  },
+  "editorNotes": "本课讲述了一个关于花园比赛的有趣故事，重点学习形容词和副词的比较级和最高级用法，以及every的合成词用法。故事展现了不同园丁的不同特点和态度。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Joe Sanders has the most beautiful garden in our town.",
+      "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.",
+      "Bill Frith's garden is larger than Joe's.",
+      "Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting.",
+      "He has made neat paths and has built a wooden bridge over a pool.",
+      "I like gardens too, but I do not like hard work.",
+      "Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "乔·桑德斯拥有我们镇上最漂亮的花园。",
+      "几乎每个人都参加每年举办的'最佳花园竞赛'，而每次都是乔获胜。",
+      "比尔·弗里斯的花园比乔的花园大。",
+      "他比乔也更为勤奋，种植的花卉和蔬菜也更多，但乔的花园更富有情趣。",
+      "他修筑了一条条整洁的小路，并在一个池塘上架了一座小木桥。",
+      "我也喜欢花园，但我却不愿意辛勤劳动。",
+      "每年的花园竞赛我也参加，但总因是镇上最劣的花园而获得一个小奖！"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "competition",
+        "toggle": "n. 竞争；比赛，竞赛",
+        "isDanger": 0,
+        "phonetic": "ˌkɒmpəˈtɪʃ(ə)n",
+        "meaning": "n. 比赛，竞赛"
+      },
+      {
+        "word": "neat",
+        "toggle": "adj. 整洁的；未搀水的；优雅的；灵巧的；齐整的；平滑的",
+        "isDanger": 1,
+        "phonetic": "niːt",
+        "meaning": "adj. 整齐的，整洁的"
+      },
+      {
+        "word": "path",
+        "toggle": "n. 小路；道路；轨道",
+        "isDanger": 0,
+        "phonetic": "pɑːθ",
+        "meaning": "n. 小路，小径"
+      },
+      {
+        "word": "wooden",
+        "toggle": "adj. 木制的；僵硬的，呆板的",
+        "isDanger": 0,
+        "phonetic": "ˈwʊdn",
+        "meaning": "adj. 木头的"
+      },
+      {
+        "word": "pool",
+        "toggle": "n. 联营；水塘；撞球；共同资金",
+        "isDanger": 0,
+        "phonetic": "puːl",
+        "meaning": "n. 水池"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "形容词和副词的比较级和最高级",
+        "content": [
+          "单音节词和少数双音节词在词尾加-er，-est",
+          "以-e结尾的词加-r，-st",
+          "多音节词用more/most + 原级",
+          "不规则变化：good/well(better, best), bad/ill(worse, worst)",
+          "最高级前通常要加定冠词the"
+        ]
+      },
+      {
+        "title": "every构成的合成词",
+        "content": [
+          "everyone/everybody作主语时视为单数",
+          "everything表示'一切，所有'",
+          "every和each的区别：every强调整体，each强调个体"
+        ]
+      },
+      {
+        "title": "enter和enter for的用法",
+        "content": [
+          "enter + 地点名词：进入",
+          "enter for + 比赛/考试：报名参加",
+          "take part in：实际参加"
+        ]
+      },
+      {
+        "title": "win的用法",
+        "content": [
+          "win + 奖品：赢得...",
+          "win a prize for：因...获奖",
+          "defeat/beat + 对手：打败..."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "be fond of",
+        "translation": "喜欢...",
+        "context": "表示对某事物的喜爱",
+        "example": "I am fond of gardening."
+      },
+      {
+        "phrase": "win every time",
+        "translation": "每次都赢",
+        "context": "表示持续获胜",
+        "example": "Joe wins every time in the competition."
+      },
+      {
+        "phrase": "be interested in",
+        "translation": "对...感兴趣",
+        "context": "表示对某事物感兴趣",
+        "example": "Joe is interested in gardening."
+      },
+      {
+        "phrase": "work hard",
+        "translation": "努力工作",
+        "context": "表示勤奋",
+        "example": "Bill works harder than Joe."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why does Joe always win the competition?",
+        "options": [
+          "Because his garden is the largest",
+          "Because he works the hardest",
+          "Because his garden is the most interesting",
+          "Because he grows the most flowers"
+        ],
+        "answer": 2,
+        "explanation": "文中提到Joe's garden is more interesting，这是他获胜的关键"
+      },
+      {
+        "question": "Bill Frith's garden is ___ than Joe's.",
+        "options": [
+          "more beautiful",
+          "larger",
+          "more interesting",
+          "better"
+        ],
+        "answer": 1,
+        "explanation": "文中明确提到Bill Frith's garden is larger than Joe's"
+      },
+      {
+        "question": "The writer wins a prize for ___.",
+        "options": [
+          "the most beautiful garden",
+          "the largest garden",
+          "the worst garden",
+          "hard work"
+        ],
+        "answer": 2,
+        "explanation": "文中提到作者总是因为最差的花园而获得小奖"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Joe has made _____ paths in his garden.",
+        "answer": "neat",
+        "hint": "描述整齐、整洁的形容词"
+      },
+      {
+        "sentence": "_____ everybody enters for the competition each year.",
+        "answer": "Nearly",
+        "hint": "表示'几乎'的副词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "英国园艺文化",
+        "content": "园艺在英国文化中占有重要地位。许多英国人都有自己的花园，并以此为傲。花园比赛是英国社区文化的重要组成部分，既促进了邻里交流，也推动了园艺技术的发展。"
+      },
+      {
+        "title": "园艺设计理念",
+        "content": "一个好的花园不仅在于其大小和植物的数量，更重要的是整体的设计和趣味性。如Joe的花园，通过小路和木桥的设计，创造出了更有趣的园景。"
+      }
+    ]
+  }
+}

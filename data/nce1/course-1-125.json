@@ -1,0 +1,224 @@
+{
+  "id": "nce1-125",
+  "lessonNumber": "125",
+  "title": {
+    "english": "Tea for Two",
+    "chinese": "两人的下午茶"
+  },
+  "lessonInfo": "新概念英语－第1册－第125课",
+  "audioPath": "audio/nce1/125.mp3",
+  "listeningQuestion": {
+    "question": "Why didn't Peter need to water the garden in the end?",
+    "translation": "为什么最后彼得不需要给花园浇水了？"
+  },
+  "editorNotes": "本课通过一对夫妻关于浇花园和喝下午茶的对话，展示了英式生活中的日常场景。课文重点介绍了情态动词must、have to和needn't的用法，以及描述天气和日常活动的表达方式。这些表达对于描述日常生活和义务非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Susan:   Can't you come in and have tea now, Peter?",
+      "Peter:   Not yet, dear. I must water the garden first.",
+      "Susan:   Do you have to water it now?",
+      "Peter:   I'm afraid I must. Look at it!   It's terribly dry.",
+      "Susan:   What a nuisance!（真讨厌）",
+      "Peter:   Last summer it was very dry, too. Don't you remember? I had to water it every day.",
+      "Susan:   Well, I'll have tea by myself.",
+      "Susan:   That was quick! Have you finished already?",
+      "Peter:   Yes, dear. Look out of the window.",
+      "Susan:   Good heaven! It's raining. That means you needn't water the garden.",
+      "Peter:   That was a pleasant surprise. It means I can have tea, instead."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "苏珊：彼得，你现在能进来喝茶吗？",
+      "彼得：还不能。我得先给花园浇水。",
+      "苏珊：你一定得现在浇吗？",
+      "彼得：恐怕我得现在浇。你看看，干得厉害。",
+      "苏珊：真讨厌！",
+      "彼得：去年夏天也是干得很。你记得了吗？我不得不每天浇水。",
+      "苏珊：好吧，我一个喝茶了。",
+      "苏珊：好快啊！你已经浇完了？",
+      "彼得：是的。你看看窗外。",
+      "苏珊：下雨了，这就是就是说，你不必给花园浇水了。",
+      "彼得：这是意想不能的好事。这意味着我反倒可以喝茶了。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 邀请与回应",
+        "children": [
+          "核心概念：如何邀请他人和回应邀请",
+          "常用表达：",
+          "- Can't you come in and...? 你能不能进来...？",
+          "- Not yet, dear 还不行，亲爱的",
+          "- I must... first 我必须先...",
+          "使用场景：邀请他人做某事时",
+          "注意事项：注意语气的礼貌性和委婉性"
+        ]
+      },
+      {
+        "heading": "2. 义务表达",
+        "children": [
+          "核心概念：如何表达必须做的事",
+          "常用表达：",
+          "- I must water the garden 我必须给花园浇水",
+          "- Do you have to...? 你一定要...吗？",
+          "- I'm afraid I must 恐怕我必须",
+          "使用场景：表达必须完成的任务时",
+          "注意事项：区分must和have to的使用"
+        ]
+      },
+      {
+        "heading": "3. 天气描述",
+        "children": [
+          "核心概念：如何描述天气状况",
+          "常用表达：",
+          "- It's terribly dry 非常干燥",
+          "- It's raining 在下雨",
+          "- Last summer it was... 去年夏天...",
+          "使用场景：描述天气和气候时",
+          "注意事项：注意天气词语的搭配"
+        ]
+      },
+      {
+        "heading": "4. 意外情况表达",
+        "children": [
+          "核心概念：如何表达意外情况",
+          "常用表达：",
+          "- That was quick! 真快啊！",
+          "- Good heaven! 天哪！",
+          "- That was a pleasant surprise 这真是个意外的惊喜",
+          "使用场景：表达惊讶或意外时",
+          "注意事项：注意语气的变化"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 情态动词must的用法",
+        "children": [
+          "1. 表示必须：I must water the garden",
+          "2. 表示不可避免的义务",
+          "3. 常用于第一人称",
+          "4. 例句：I must do it now"
+        ]
+      },
+      {
+        "heading": "2. have to的用法",
+        "children": [
+          "1. 表示客观必要性：I had to water it every day",
+          "2. 可用于各种时态",
+          "3. 表示外在要求",
+          "4. 例句：Do you have to water it now?"
+        ]
+      },
+      {
+        "heading": "3. needn't的用法",
+        "children": [
+          "1. 表示不必要：you needn't water the garden",
+          "2. 用于否定含义",
+          "3. 比mustn't语气轻",
+          "4. 例句：That means you needn't do it"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 园艺相关词汇",
+        "children": [
+          "water v. 浇水：",
+          "- water the garden 给花园浇水",
+          "- water the plants 给植物浇水",
+          "garden n. 花园：",
+          "- in the garden 在花园里",
+          "- look after the garden 照看花园"
+        ]
+      },
+      {
+        "heading": "2. 天气相关词汇",
+        "children": [
+          "dry adj. 干燥的：",
+          "- terribly dry 非常干燥",
+          "- dry season 干季",
+          "rain v. 下雨：",
+          "- it's raining 在下雨",
+          "- heavy rain 大雨"
+        ]
+      },
+      {
+        "heading": "3. 日常活动词汇",
+        "children": [
+          "tea n. 茶：",
+          "- have tea 喝茶",
+          "- tea time 茶点时间",
+          "surprise n. 惊喜：",
+          "- pleasant surprise 愉快的惊喜",
+          "- what a surprise! 真想不到！"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "water",
+        "toggle": "n. 水；雨水；海水；海域，大片的水",
+        "isDanger": 0,
+        "phonetic": "ˈwɔːtə(r)",
+        "meaning": "v. 浇水"
+      },
+      {
+        "word": "terribly",
+        "toggle": "adv. 可怕地； [ 口 ] 非常；极度地",
+        "isDanger": 1,
+        "phonetic": "ˈterəbli",
+        "meaning": "adv. 非常"
+      },
+      {
+        "word": "dry",
+        "toggle": "adj. 干的；口渴的；禁酒的；枯燥无味的",
+        "isDanger": 0,
+        "phonetic": "draɪ",
+        "meaning": "adj. 干燥的，干的"
+      },
+      {
+        "word": "nuisance",
+        "toggle": "n. 麻烦事；损害；讨厌的人；讨厌的东西",
+        "isDanger": 0,
+        "phonetic": "ˈnjuːsns",
+        "meaning": "n. 讨厌的东西或人"
+      },
+      {
+        "word": "mean",
+        "toggle": "adj. 低劣的；平均的；卑鄙的",
+        "isDanger": 1,
+        "phonetic": "miːn",
+        "meaning": "v. 意味着，意思是"
+      },
+      {
+        "word": "surprise",
+        "toggle": "n. 惊奇，诧异；突然袭击",
+        "isDanger": 1,
+        "phonetic": "səˈpraɪz",
+        "meaning": "n. 惊奇，意外的事"
+      },
+      {
+        "word": "immediately",
+        "toggle": "adv. 直接地；立即，立刻",
+        "isDanger": 0,
+        "phonetic": "ɪˈmiːdiətli",
+        "meaning": "adv. 立即"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

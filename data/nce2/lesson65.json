@@ -1,0 +1,259 @@
+{
+  "id": "nce2--065",
+  "lessonNumber": "065",
+  "title": {
+    "english": "Jumbo versus the police",
+    "chinese": "江伯与警察"
+  },
+  "lessonInfo": "新概念英语－第2册－第065课",
+  "audioPath": "audio/nce2/065.mp3",
+  "listeningQuestion": {
+    "question": "Why did the police have to push Jumbo off the main street?",
+    "translation": "为什么警察不得不把江伯推离主要街道？"
+  },
+  "editorNotes": "本课讲述了一个有趣的圣诞节故事。马戏团老板吉米·盖茨为了给儿童医院送礼物，打扮成圣诞老人，骑着小象江伯在城市主要街道上巡游，结果阻碍了交通。尽管吉米同意立即离开，但江伯拒绝移动，最终需要15名警察合力将其推离街道。文章通过这个幽默的故事，展示了情态动词的多种用法，包括should have done（原本应该做而没做）、ought to have done（应该做而没做）等，以及多个与交通和警察相关的词汇和短语。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+      "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
+      "He should have known that the police would never allow this sort of thing.",
+      "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.",
+      "Though Jimmy agreed to go at once, Jumbo refused to move.",
+      "Fifteen policemen had to push very hard to get him off the main street.",
+      "The police had a difficult time, but they were most amused.",
+      "'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him.",
+      "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "去年圣诞节, 马戏团老板吉米·盖茨决定送些礼物给儿童医院.",
+      "他打扮成圣诞老人, 在由6个漂亮姑娘组成的'仪仗队'的陪同下, 骑上一头名叫江伯的小象, 沿着城里的主要街道出发了.",
+      "他本该知道警察绝不会允许这类事情发生.",
+      "一个警察走过来告诉吉米, 他应该走一条小路, 因为江伯阻碍了交通.",
+      "虽然吉米同意马上就走, 但江伯却拒绝移动.",
+      "15个警察不得不用很大的力气把它推离主要街道.",
+      "警察虽然吃了苦头, 但他们还是感到很有趣.",
+      "'江伯一定有好几吨重,'一个警察事后这样说, '值得庆幸的是它没让我们抬它走.",
+      "当然, 我们应该逮捕它, 但由于它一贯表现很好, 这次我们饶了它.'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "情态动词+have done",
+        "content": [
+          "情态动词+have done表示对过去事情的推测或评价。",
+          "should have done：原本应该发生而没发生",
+          "例如：He should have known that the police would never allow this sort of thing.（他本该知道警察绝不会允许这类事情发生。）",
+          "ought to have done：也表示原本应该做而没做",
+          "例如：A policeman approached Jimmy and told him he ought to have gone along a side street.（一个警察走过来告诉吉米，他应该走一条小路。）",
+          "needn't have done：过去不必做但是做了",
+          "例如：You needn't have bought so much food.（你没必要买这么多食物。）"
+        ]
+      },
+      {
+        "title": "dress up as的用法",
+        "content": [
+          "dress up as...表示'装扮成...（的样子）'。",
+          "例如：Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.（他打扮成圣诞老人，在由6个漂亮姑娘组成的'仪仗队'的陪同下，骑上一头名叫江伯的小象，沿着城里的主要街道出发了。）",
+          "dress up单独使用表示'打扮'，强调精心打扮。",
+          "dress表示'穿衣，打扮'，可以是及物动词或不及物动词。",
+          "例如：Tom has nearly learned how to dress/dress himself now.（汤姆现在几乎学会了如何穿衣。）"
+        ]
+      },
+      {
+        "title": "agree的用法",
+        "content": [
+          "agree to do sth.：同意做某事（to为不定式）",
+          "例如：Though Jimmy agreed to go at once, Jumbo refused to move.（虽然吉米同意马上就走，但江伯却拒绝移动。）",
+          "agree with sb.：同意某人（的建议等）",
+          "例如：I agree with you.（我同意你的观点。）",
+          "agree to sth.：同意某事",
+          "例如：I agree to your advice.（我同意你的建议。）",
+          "agree和accept的区别：agree表示'同意'，常与to和with连用；accept表示'接受，收受'。"
+        ]
+      },
+      {
+        "title": "let的短语",
+        "content": [
+          "let sb. in：允许进来",
+          "例如：The woman who let me in had a baby in her arms.（让我进来的那个女人怀里抱着一个婴儿。）",
+          "let sb. out：放走，释放，放出去",
+          "例如：Every evening they let the dog out.（每天晚上他们都把狗放出去。）",
+          "let off：放过，饶过，宽恕，对...从轻处理",
+          "例如：Of course, we should arrest him, but as he has a good record, we shall let him off this time.（当然，我们应该逮捕它，但由于它一贯表现很好，这次我们饶了它。）",
+          "let down：使...失望，（在紧要关头）抛弃",
+          "例如：They need your help. Don't let them down.（他们需要你的帮助。别让他们失望。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "dress up as",
+        "translation": "装扮成...（的样子）",
+        "context": "表示装扮成某人的样子",
+        "example": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo."
+      },
+      {
+        "phrase": "set off",
+        "translation": "出发",
+        "context": "表示开始一段旅程或行动",
+        "example": "He set off down the main street of the city riding a baby elephant called Jumbo."
+      },
+      {
+        "phrase": "hold up the traffic",
+        "translation": "阻碍交通",
+        "context": "表示阻碍或阻塞交通",
+        "example": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic."
+      },
+      {
+        "phrase": "get off",
+        "translation": "从...移去/除去",
+        "context": "表示从某处移开或除去某物",
+        "example": "Fifteen policemen had to push very hard to get him off the main street."
+      },
+      {
+        "phrase": "let sb. off",
+        "translation": "饶恕某人，放过...，对...从轻处理",
+        "context": "表示饶恕或从轻处理某人",
+        "example": "Of course, we should arrest him, but as he has a good record, we shall let him off this time."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Jimmy ___ Father Christmas.",
+        "options": [
+          "seemed as",
+          "looked like",
+          "looked as",
+          "seemed as"
+        ],
+        "answer": 1,
+        "explanation": "look like后面加代词或名词，表示'像...一样'。seem后面可以直接加形容词，或加to不定式结构，或加that从句，或加as if从句。"
+      },
+      {
+        "question": "He should have known the police wouldn't allow it ___.",
+        "options": [
+          "and he did",
+          "but he didn't",
+          "but he couldn't",
+          "but he had"
+        ],
+        "answer": 1,
+        "explanation": "should have done表示'原本应该做而没做'，所以用but he didn't表示他没做这个事实。"
+      },
+      {
+        "question": "___ to carry him?",
+        "options": [
+          "Did they have",
+          "Had they",
+          "Must they",
+          "Have they"
+        ],
+        "answer": 0,
+        "explanation": "have to中的have是实义动词，所以用Did they have。must后面不会加to。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "He ___ have known that the police would never allow this sort of thing.",
+        "answer": "should",
+        "explanation": "should have done表示'原本应该做而没做'。"
+      },
+      {
+        "sentence": "A policeman approached Jimmy and told him he ___ have gone along a side street.",
+        "answer": "ought to",
+        "explanation": "ought to have done也表示'原本应该做而没做'。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Versus的用法：\n- versus = against，表示'对，对抗'的概念\n- vs.是versus的缩写，读音不变\n- 例如：Have you watched the game last night? It was France versus Italy.（你看昨晚的比赛了吗？是法国对意大利。）\n\n2. Approach的用法：\n- v. 走近（= come nearer and nearer）\n- 例如：The old man approaches 80 years old.（这位老人接近80岁了。）\n- approach sb.：离某人越来越近\n- 例如：He is approaching me.（他正在向我走来。）\n- n. 途径，方法\n- 例如：We have found an approach to success.（我们找到了成功的途径。）\n\n3. Weigh的用法：\n- sb./sth. weigh +体重：...的体重/重量是...\n- weight n. 重量\n- lose weight：减肥"
+      },
+      {
+        "title": "文化背景",
+        "content": "圣诞节（Christmas）是西方最重要的节日之一，通常在12月25日庆祝。圣诞老人（Father Christmas或Santa Claus）是圣诞节的象征，他会在平安夜（Christmas Eve）给孩子们送礼物。在英语国家，圣诞节期间会有各种庆祝活动，包括装饰圣诞树、交换礼物、唱圣诞颂歌等。本文中的马戏团老板吉米·盖茨为了给儿童医院送礼物，打扮成圣诞老人，骑着小象在城市街道上巡游，这种创意活动在西方国家并不罕见，体现了人们乐于分享和帮助他人的精神。然而，这种活动也需要遵守交通规则，不能影响公共秩序。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "versus",
+        "toggle": "prep. 对；与 ... 相对；对抗",
+        "isDanger": 0,
+        "phonetic": "ˈvɜːsəs",
+        "meaning": "prep. V.S.对 (对抗的概念)"
+      },
+      {
+        "word": "Christmas",
+        "toggle": "n. 圣诞节",
+        "isDanger": 0,
+        "phonetic": "ˈkrɪsməs",
+        "meaning": "n. 圣诞节"
+      },
+      {
+        "word": "circus",
+        "toggle": "n. 马戏团；马戏",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːkəs",
+        "meaning": "n. 马戏团"
+      },
+      {
+        "word": "present",
+        "toggle": "vt. 呈现；介绍；提出；赠送",
+        "isDanger": 1,
+        "phonetic": "ˈprez(ə)nt",
+        "meaning": "n. 礼物"
+      },
+      {
+        "word": "accompany",
+        "toggle": "vt. 陪伴，伴随；伴奏",
+        "isDanger": 1,
+        "phonetic": "əˈkʌmpəni",
+        "meaning": "v. 陪伴, 随行"
+      },
+      {
+        "word": "approach",
+        "toggle": "n. 接近；方法；途径",
+        "isDanger": 0,
+        "phonetic": "əˈprəʊtʃ",
+        "meaning": "v. 走近"
+      },
+      {
+        "word": "ought",
+        "toggle": "aux. 应该，应当；大概",
+        "isDanger": 1,
+        "phonetic": "ɔːt",
+        "meaning": "v. 应该"
+      },
+      {
+        "word": "weigh",
+        "toggle": "vt. 权衡；考虑；称 … 重量",
+        "isDanger": 0,
+        "phonetic": "weɪ",
+        "meaning": "v. 重"
+      },
+      {
+        "word": "fortunate",
+        "toggle": "adj. 幸运的；侥幸的；带来幸运的；吉祥的",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːtʃənət",
+        "meaning": "adj. 幸运的"
+      }
+    ]
+  }
+}

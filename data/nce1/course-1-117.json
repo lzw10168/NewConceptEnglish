@@ -1,0 +1,256 @@
+{
+  "id": "nce1-117",
+  "lessonNumber": "117",
+  "title": {
+    "english": "Tommy's breakfast",
+    "chinese": "汤米的早餐"
+  },
+  "lessonInfo": "新概念英语－第1册－第117课",
+  "audioPath": "audio/nce1/117.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the coins that Tommy swallowed?",
+    "translation": "汤米吞下的硬币后来怎么样了？"
+  },
+  "editorNotes": "本课通过一个家庭生活中的趣事，展示了英语中过去进行时的使用，以及如何描述事件的先后顺序。课文还包含了一个巧妙的双关语幽默，体现了英语口语中的语言艺术。这些表达对于描述日常生活场景和理解英语幽默很有帮助。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "When my husband was going into the dining-room this morning , he dropped some coins on the floor.There were coins everywhere. We looked for them, but we could not find them all.",
+      "While we were having breakfast, our little boy, Tommy, found two small coins on the floor.He put them both into his mouth. We both tried to get the coins, but it was too late. Tommy had already swallowed them!",
+      "Later that morning, when I was doing the housework, my husband telephoned me from the office.“How's Tommy?” he asked.“I don't know,” I answered, “Tommy's been to the lavatory three times this morning, but I haven't had any change yet!”"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "今天早晨我丈夫走进饭厅时，把一些硬币掉在地上了。到处都是硬币。我们虽然找了，但没有把它们全部找到。",
+      "正当我们吃早饭时，我们的小男孩汤米在地上找到两枚小硬币。 他把这两枚硬币全都放进嘴里。我们俩都试图把这两枚硬币拿出来，但太迟了。汤米已经把硬币咽了下去！",
+      "那天下午的晚些时候，当我正做家务时，我丈夫从办公室打来电话。“汤米怎么样？”他问。“我不知道”，我回答说，“今天上午汤米去了3次厕所了，但我还没看到硬币！”"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 描述事件经过",
+        "children": [
+          "核心概念：如何描述事件的发生过程",
+          "常用表达：",
+          "- When...was going into... 当...正要进入...",
+          "- While we were having breakfast 当我们正在吃早餐时",
+          "- Later that morning 那天上午晚些时候",
+          "使用场景：描述事件发生的时间和过程",
+          "注意事项：注意时态的准确使用"
+        ]
+      },
+      {
+        "heading": "2. 表达寻找和尝试",
+        "children": [
+          "核心概念：如何描述寻找和尝试的过程",
+          "常用表达：",
+          "- We looked for them 我们找它们",
+          "- We both tried to get... 我们俩都试图拿到...",
+          "- but we could not find them all 但没能全部找到",
+          "使用场景：描述努力但未完全成功的行为",
+          "注意事项：注意表达尝试和结果的关系"
+        ]
+      },
+      {
+        "heading": "3. 表达关心和询问",
+        "children": [
+          "核心概念：如何表达关心和询问",
+          "常用表达：",
+          "- How's Tommy? 汤米怎么样？",
+          "- I don't know 我不知道",
+          "- Tommy's been to... 汤米去过...",
+          "使用场景：询问他人情况时",
+          "注意事项：注意使用合适的时态"
+        ]
+      },
+      {
+        "heading": "4. 英语幽默",
+        "children": [
+          "核心概念：理解英语中的双关语幽默",
+          "常用表达：",
+          "- I haven't had any change yet 我还没有看到零钱",
+          "- change 既表示'变化'也表示'零钱'",
+          "使用场景：日常对话中的幽默表达",
+          "注意事项：注意理解双关语的两层含义"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 过去进行时",
+        "children": [
+          "1. 基本结构：was/were + doing",
+          "2. 表示过去某时正在进行的动作",
+          "3. 常与when/while引导的时间状语从句连用",
+          "4. 例句：When I was doing the housework..."
+        ]
+      },
+      {
+        "heading": "2. 现在完成时",
+        "children": [
+          "1. 基本结构：have/has + done",
+          "2. 表示过去发生且与现在有关的动作",
+          "3. 与时间状语的搭配",
+          "4. 例句：Tommy's been to the lavatory three times"
+        ]
+      },
+      {
+        "heading": "3. 时间连接词",
+        "children": [
+          "1. when的用法：表示某一时刻",
+          "2. while的用法：表示持续的时间段",
+          "3. later的用法：表示后来",
+          "4. already的用法：表示已经"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 家居相关词汇",
+        "children": [
+          "dining room n. 饭厅：",
+          "- in the dining room 在饭厅里",
+          "- go into the dining room 走进饭厅",
+          "housework n. 家务：",
+          "- do the housework 做家务",
+          "- finish the housework 完成家务"
+        ]
+      },
+      {
+        "heading": "2. 动作词汇",
+        "children": [
+          "swallow v. 吞下：",
+          "- swallow the medicine 吞下药",
+          "- hard to swallow 难以下咽",
+          "drop v. 掉落：",
+          "- drop some coins 掉了一些硬币",
+          "- drop on the floor 掉在地上"
+        ]
+      },
+      {
+        "heading": "3. 时间表达",
+        "children": [
+          "later adv. 后来：",
+          "- later that morning 那天上午晚些时候",
+          "- a little later 稍后",
+          "already adv. 已经：",
+          "- had already swallowed 已经吞下了",
+          "- it's already done 已经完成了"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "dining room",
+        "toggle": "n. 饭厅",
+        "isDanger": 0,
+        "phonetic": "ˈdaɪnɪŋ ruːm",
+        "meaning": "n. 饭厅"
+      },
+      {
+        "word": "coin",
+        "toggle": "vt. 杜撰，创造；铸造（货币）",
+        "isDanger": 0,
+        "phonetic": "kɔɪn",
+        "meaning": "n. 硬币"
+      },
+      {
+        "word": "mouth",
+        "toggle": "n. 口，嘴；河口",
+        "isDanger": 0,
+        "phonetic": "maʊθ",
+        "meaning": "n. 嘴"
+      },
+      {
+        "word": "swallow",
+        "toggle": "vt. 忍受；吞没",
+        "isDanger": 0,
+        "phonetic": "ˈswɒləʊ",
+        "meaning": "v. 吞下"
+      },
+      {
+        "word": "later",
+        "toggle": "adv. 随后；稍后；后来",
+        "isDanger": 0,
+        "phonetic": "ˈleɪtə(r)",
+        "meaning": "adv. 后来"
+      },
+      {
+        "word": "toilet",
+        "toggle": "n. 厕所，盥洗室；梳妆，打扮",
+        "isDanger": 0,
+        "phonetic": "ˈtɔɪlət",
+        "meaning": "n. 厕所，盥洗室"
+      },
+      {
+        "word": "bathroom",
+        "toggle": "n. 浴室；厕所；盥洗室",
+        "isDanger": 0,
+        "phonetic": "bɑːθruːm",
+        "meaning": "n. 盥洗室"
+      },
+      {
+        "word": "restroom",
+        "toggle": "n. 洗手间；休息室；更衣室；厕所",
+        "isDanger": 0,
+        "phonetic": "ˈrestrʊm",
+        "meaning": "n. 洗手间"
+      },
+      {
+        "word": "washroom",
+        "toggle": "n.盥洗室,<美>厕所",
+        "isDanger": 0,
+        "phonetic": "ˈwɒʃruːm",
+        "meaning": "n. 洗手间"
+      },
+      {
+        "word": "loo",
+        "toggle": "n.一种纸牌游戏,<英俚>厕所,洗手间",
+        "isDanger": 0,
+        "phonetic": "luː",
+        "meaning": "n. 厕所"
+      },
+      {
+        "word": "men's room",
+        "toggle": "n.[体]男盥洗室",
+        "isDanger": 0,
+        "phonetic": "menz ruːm",
+        "meaning": "n. 男厕所"
+      },
+      {
+        "word": "ladies' room",
+        "toggle": "n.女厕",
+        "isDanger": 0,
+        "phonetic": "ˈleɪdɪz ruːm",
+        "meaning": "n. 女厕所"
+      },
+      {
+        "word": "ring",
+        "toggle": "vi. 按铃；敲钟；回响；成环形",
+        "isDanger": 1,
+        "phonetic": "rɪŋ",
+        "meaning": "v. 响 rang, rung"
+      },
+      {
+        "word": "note",
+        "toggle": "n. 笔记；注解；便笺；照会；音符；调子；票据；纸币",
+        "isDanger": 1,
+        "phonetic": "nəʊt",
+        "meaning": "n. 便条"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

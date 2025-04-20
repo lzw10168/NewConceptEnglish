@@ -1,0 +1,283 @@
+{
+  "id": "nce2--064",
+  "lessonNumber": "064",
+  "title": {
+    "english": "The Channel Tunnel",
+    "chinese": "英吉利海峡隧道"
+  },
+  "lessonInfo": "新概念英语－第2册－第064课",
+  "audioPath": "audio/nce2/064.mp3",
+  "listeningQuestion": {
+    "question": "Why was the Channel Tunnel not completed in the 19th century?",
+    "translation": "为什么英吉利海峡隧道在19世纪没有完工？"
+  },
+  "editorNotes": "本课讲述了英吉利海峡隧道的建设历史。从1858年法国工程师提出初步计划，到1860年英国人提出改进方案，再到1902年开始建设，最终在1994年正式开通，跨越了将近一个半世纪。文章重点介绍了隧道建设过程中遇到的通风问题及其解决方案，以及英国因担心入侵而暂停建设的政治因素。文章使用了多种语法结构，包括虚拟语气、条件句、定语从句等，以及多个与工程和交通相关的词汇。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel.",
+      "He said that it would be possible to build a platform in the centre of the Channel.",
+      "This platform would serve as a port and a railway station.",
+      "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+      "In 1860, a better plan was put forward by an Englishman, William Low.",
+      "He suggested that a double railway-tunnel should be built.",
+      "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it.",
+      "Forty-two years later a tunnel was actually begun.",
+      "If, at the time, the British had not feared invasion, it would have been completed.",
+      "The world had to wait almost another 100 years for the Channel Tunnel.",
+      "It was officially opened on March 7,1994, finally connecting Britain to the European continent."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "1858年, 一位名叫埃梅·托梅·德·干蒙的法国工程师带着建造一条长21英里、穿越英吉利海峡的隧道计划到了英国.",
+      "他说, 可以在隧道中央建造一座平台, 这座平台将用作码头和火车站.",
+      "如果再建些伸出海面的高大的烟囱状通风管, 隧道就具备了良好的通风条件.",
+      "1860年, 一位名叫威廉·洛的英国人提出了一项更好的计划.",
+      "他提议建一条双轨隧道, 这样就解决了通风问题.",
+      "因为如果有一列火车开进隧道, 它就把新鲜空气随之抽进了隧道.",
+      "42年以后, 隧道实际已经开始建了.",
+      "如果不是因为那时英国人害怕入侵, 隧道早已建成了.",
+      "世界不得不再等将近100年才看到海峡隧道竣工.",
+      "它于1994年3月7日正式开通, 将英国与欧洲大陆连到了一起."
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "虚拟语气（第三类条件句）",
+        "content": [
+          "第三类条件句表示与过去事实相反的假设，从句用过去完成时，主句用would have/should have +过去分词。",
+          "这种条件句谈论的是过去没有发生或永远不可能发生的事情。",
+          "例如：If, at the time, the British had not feared invasion, it would have been completed.（如果不是因为那时英国人害怕入侵，隧道早已建成了。）",
+          "在if从句中可用could have +过去分词代替had been able to +动词原形。",
+          "例如：I'd have read that book if I could have bought it.（如果我能买到那本书，我就读了。）"
+        ]
+      },
+      {
+        "title": "suggest的用法",
+        "content": [
+          "suggest作'建议'讲时，后接that从句采用'should+动词原形'的结构，should可以省略。",
+          "例如：He suggested that a double railway-tunnel should be built.（他提议建一条双轨隧道。）",
+          "suggest作'暗示'讲时，用法与其他动词相同。",
+          "suggest后接动词时要用-ing形式。",
+          "例如：I suggested (that) he (should) go home.（我建议他回家。）"
+        ]
+      },
+      {
+        "title": "复合形容词",
+        "content": [
+          "复合形容词由两个或更多单词组成，通常用连字符连接，作定语时用单数形式。",
+          "例如：twenty-one-mile tunnel（21英里的隧道）",
+          "复合形容词可以表示数量、性质、用途等。",
+          "例如：well-ventilated（通风良好的），double railway-tunnel（双轨隧道）",
+          "复合形容词通常放在被修饰的名词之前。"
+        ]
+      },
+      {
+        "title": "serve as的用法",
+        "content": [
+          "serve as = serve for，表示'起...作用'，'用作...'，'充当...'。",
+          "例如：This platform would serve as a port and a railway station.（这座平台将用作码头和火车站。）",
+          "serve as后接名词，表示该名词的功能或用途。",
+          "例如：It will serve as a swimming pool.（它将用作游泳池。）",
+          "This sofa can serve as/for (a) bed.（这个沙发可以用作床。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "put forward",
+        "translation": "提出（计划、建议等）",
+        "context": "表示提出计划、建议或想法",
+        "example": "In 1860, a better plan was put forward by an Englishman, William Low."
+      },
+      {
+        "phrase": "draw in",
+        "translation": "吸进，吸入",
+        "context": "表示吸入或吸引某物",
+        "example": "If a train entered this tunnel, it would draw in fresh air behind it."
+      },
+      {
+        "phrase": "serve as",
+        "translation": "起...作用，用作...",
+        "context": "表示某物具有某种功能或用途",
+        "example": "This platform would serve as a port and a railway station."
+      },
+      {
+        "phrase": "wait for",
+        "translation": "等待",
+        "context": "表示等待某人或某事",
+        "example": "The world had to wait almost another 100 years for the Channel Tunnel."
+      },
+      {
+        "phrase": "connect...to/with",
+        "translation": "将...连接到...",
+        "context": "表示将两个地方或事物连接起来",
+        "example": "It was officially opened on March 7,1994, finally connecting Britain to the European continent."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "It would be possible to build a platform. A platform ___.",
+        "options": [
+          "could build",
+          "would be built",
+          "could be built",
+          "would build"
+        ],
+        "answer": 2,
+        "explanation": "could表示可能性，would表示将来要做的事情。这里表示'可能被建造'，所以用could be built。"
+      },
+      {
+        "question": "A plan was put forward by William Low. He ___ it.",
+        "options": [
+          "suggested",
+          "intended",
+          "aimed at",
+          "planned"
+        ],
+        "answer": 0,
+        "explanation": "put forward表示'提出'，与suggest（建议）意思相近。intend to do sth.表示'打算做...'，aim at表示'目标是...'，plan表示'计划'。"
+      },
+      {
+        "question": "It finally connects Britain and Europe. Britain and Europe are finally ___.",
+        "options": [
+          "mixed",
+          "joined together",
+          "rejoined",
+          "combined"
+        ],
+        "answer": 1,
+        "explanation": "connect强调连接，与join together（连接在一起）意思相近。mix表示'混合'，rejoin表示'再次加入'，combine表示'合并'。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "He suggested that a double railway-tunnel ___ built.",
+        "answer": "should be",
+        "explanation": "suggest作'建议'讲时，后接that从句采用'should+动词原形'的结构，should可以省略。"
+      },
+      {
+        "sentence": "If, at the time, the British had not feared invasion, it ___ completed.",
+        "answer": "would have been",
+        "explanation": "第三类条件句表示与过去事实相反的假设，从句用过去完成时，主句用would have +过去分词。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Fear的用法：\n- fear doing sth.：害怕做...\n- fear sth.：害怕...\n- be afraid of：害怕...\n- fear that...：恐怕...（比be afraid更正式）\n- be afraid that...：恐怕...（婉言谢绝）\n\n2. Draw的短语：\n- draw in：使...进入；吸入\n- draw back：后退，后缩；收回，撤回\n- draw up：停住，使...停住；起草，制订\n- draw off：撤走，离开\n\n3. Connect的用法：\n- connect sth. with/to...：把...和...连接\n- connect A with B：A和B平等连接\n- connect A to B：A连到B上去"
+      },
+      {
+        "title": "文化背景",
+        "content": "英吉利海峡隧道（The Channel Tunnel）是连接英国和法国的海底隧道，全长50.5公里，其中海底部分37.9公里。它是世界上最长的海底隧道之一，也是欧洲最大的基础设施项目之一。隧道的建设历经了多次尝试和中断，主要原因是技术困难和英国对入侵的担忧。最终，隧道于1994年5月6日正式开通，大大缩短了英国与欧洲大陆之间的交通时间，促进了欧洲一体化进程。隧道的建设不仅解决了技术难题，也克服了政治障碍，成为国际合作的重要象征。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "tunnel",
+        "toggle": "n. 隧道；坑道；洞穴通道",
+        "isDanger": 0,
+        "phonetic": "ˈtʌn(ə)l",
+        "meaning": "n. 隧道"
+      },
+      {
+        "word": "port",
+        "toggle": "n. 港口，口岸；左舷；舱门；（计算机的）端口",
+        "isDanger": 1,
+        "phonetic": "pɔːt",
+        "meaning": "n. 港口"
+      },
+      {
+        "word": "ventilate",
+        "toggle": "vt.使通风,给...装通风设备",
+        "isDanger": 1,
+        "phonetic": "ˈventɪleɪt",
+        "meaning": "v. 通风"
+      },
+      {
+        "word": "chimney",
+        "toggle": "n. 烟囱",
+        "isDanger": 0,
+        "phonetic": "ˈtʃɪmni",
+        "meaning": "n. 烟囱"
+      },
+      {
+        "word": "sea level",
+        "toggle": "n. 海平面; ; 潮位; 海面",
+        "isDanger": 0,
+        "phonetic": "ˈsiː lev(ə)l",
+        "meaning": "n. 海平面"
+      },
+      {
+        "word": "double",
+        "toggle": "n. 两倍； [ 计 ] 双精度型",
+        "isDanger": 1,
+        "phonetic": "ˈdʌb(ə)l",
+        "meaning": "adj. 双的"
+      },
+      {
+        "word": "ventilation",
+        "toggle": "n. 空气流通；通风设备",
+        "isDanger": 0,
+        "phonetic": "ˌventɪˈleɪʃn",
+        "meaning": "n. 通风"
+      },
+      {
+        "word": "fear",
+        "toggle": "n. 害怕；担心；恐惧；敬畏",
+        "isDanger": 1,
+        "phonetic": "fɪə(r)",
+        "meaning": "v. 害怕"
+      },
+      {
+        "word": "invasion",
+        "toggle": "n. 侵犯；入侵，侵略；侵袭",
+        "isDanger": 0,
+        "phonetic": "ɪnˈveɪʒ(ə)n",
+        "meaning": "n. 入侵，侵略"
+      },
+      {
+        "word": "officially",
+        "toggle": "adv. 作为公务员；官方地；正式地",
+        "isDanger": 0,
+        "phonetic": "əˈfɪʃəli",
+        "meaning": "adv. 正式地"
+      },
+      {
+        "word": "connect",
+        "toggle": "vt. 连接；联合；关连",
+        "isDanger": 1,
+        "phonetic": "kəˈnekt",
+        "meaning": "v. 连接"
+      },
+      {
+        "word": "European",
+        "toggle": "adj. 欧洲的；欧洲人的",
+        "isDanger": 0,
+        "phonetic": "ˌjʊərəˈpiːən",
+        "meaning": "adj. 欧洲的"
+      },
+      {
+        "word": "continent",
+        "toggle": "n. 大陆，洲，陆地",
+        "isDanger": 0,
+        "phonetic": "ˈkɒntɪnənt",
+        "meaning": "n. 大陆"
+      }
+    ]
+  }
+}

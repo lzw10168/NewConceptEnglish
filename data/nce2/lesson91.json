@@ -1,0 +1,185 @@
+{
+  "id": "nce2--091",
+  "lessonNumber": "091",
+  "title": {
+    "english": "Three men in a basket",
+    "chinese": "篮中三人"
+  },
+  "lessonInfo": "新概念英语－第2册－第091课",
+  "audioPath": "audio/nce2/091.mp3",
+  "listeningQuestion": {
+    "question": "Who were the three men in the balloon?",
+    "translation": "气球里的三个人是谁？"
+  },
+  "editorNotes": "这篇文章讲述了一个有趣的误会事件，发生在皇家空军基地。文章通过描述一个气球的意外出现和后续的调查过程，展现了一个幽默的误会。语法重点包括现在进行时、被动语态和定语从句的使用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby.",
+      "He informed the station at once, but no one there was able to explain the mystery.",
+      "The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft.",
+      "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+      "The pilot managed to circle the balloon for some time.",
+      "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+      "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+      "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!",
+      "As the Commanding Officer explained later, one half of the station did not know what the other half was doing!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "一个飞行员发现了一只气球，它像是正飞往附近的一个皇家空军基地。",
+      "他马上把情况报告了该基地，但那里的人没有一个能解释这到底是怎么回事。",
+      "控制塔上的官员得知这一消息后，非常气愤，因为气球有可能给飞机造成极大的危险。",
+      "他说可能有人正对基地进行侦察，因此命令那个飞行员跟踪那个奇怪的飞行物。",
+      "飞行员设法绕着气球飞了一阵。",
+      "他看清了气球下面有3个人呆在一只筐里，其中一个举着望远镜。",
+      "当气球飞临基地上空时，飞行员看见有一个人在拍照。",
+      "不久，气球开始降落，在一个停机坪附近着了陆。",
+      "警察被召来了，但他们却不能逮捕任何人，因为筐里是两名国会议员和一名基地的指挥官！",
+      "正如指挥官后来解释的那样，基地的这半边不知道那半边正在干什么！"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "现在进行时",
+        "content": [
+          "seemed to be making for (似乎正在飞向)",
+          "might be spying on (可能正在侦察)",
+          "was taking photographs (正在拍照)"
+        ]
+      },
+      {
+        "title": "被动语态",
+        "content": [
+          "was ordered to keep track",
+          "were called in",
+          "could not be arrested"
+        ]
+      },
+      {
+        "title": "定语从句",
+        "content": [
+          "a balloon which seemed to be making for",
+          "the officer in the control tower who was very angry"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "make for",
+        "translation": "走向，飞向",
+        "context": "表示向某个方向移动",
+        "example": "seemed to be making for a Royal Air Force Station"
+      },
+      {
+        "phrase": "keep track of",
+        "translation": "跟踪，追踪",
+        "context": "表示跟踪或记录某物",
+        "example": "was ordered to keep track of the strange object"
+      },
+      {
+        "phrase": "make out",
+        "translation": "看出，辨认出",
+        "context": "表示勉强看出或辨认",
+        "example": "He could make out three men in a basket"
+      },
+      {
+        "phrase": "call in",
+        "translation": "召来，叫来",
+        "context": "表示召唤某人",
+        "example": "The police were called in"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why was the officer in the control tower angry?",
+        "options": [
+          "Because the balloon was flying too high",
+          "Because balloons can be dangerous to aircraft",
+          "Because someone was taking photographs",
+          "Because the pilot didn't report immediately"
+        ],
+        "answer": 1,
+        "explanation": "文中提到气球可能给飞机造成极大的危险，这就是控制塔官员生气的原因。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The pilot ___ to circle the balloon for some time and ___ out three men in a basket.",
+        "answer": [
+          "managed",
+          "made"
+        ],
+        "hint": "使用manage to do和make out的适当形式"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "这篇文章反映了军事基地的安全 protocols 和 communication 问题。即使在高度机密的军事设施中，不同部门之间也可能存在信息沟通不畅的情况。这种情况在大型组织中并不罕见。"
+      },
+      {
+        "title": "相关词汇扩展",
+        "content": [
+          "Royal Air Force - 皇家空军",
+          "control tower - 控制塔",
+          "airfield - 机场",
+          "Commanding Officer - 指挥官",
+          "Member of Parliament - 国会议员"
+        ]
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "balloon",
+        "toggle": "vi. 激增；膨胀如气球",
+        "isDanger": 0,
+        "phonetic": "bəˈluːn",
+        "meaning": "n. 气球"
+      },
+      {
+        "word": "royal",
+        "toggle": "adj. 皇家的；盛大的；高贵的；女王的；第一流的",
+        "isDanger": 0,
+        "phonetic": "ˈrɔɪəl",
+        "meaning": "adj. 皇家"
+      },
+      {
+        "word": "spy",
+        "toggle": "vt. 侦察；发现；暗中监视",
+        "isDanger": 0,
+        "phonetic": "spaɪ",
+        "meaning": "v. 侦察"
+      },
+      {
+        "word": "track",
+        "toggle": "n. 足迹，踪迹；轨道；小道",
+        "isDanger": 1,
+        "phonetic": "træk",
+        "meaning": "n. 轨迹，踪迹"
+      },
+      {
+        "word": "binoculars",
+        "toggle": "n.双眼望远镜",
+        "isDanger": 0,
+        "phonetic": "bɪˈnɒkjələz",
+        "meaning": "n. 望远镱"
+      }
+    ]
+  }
+}

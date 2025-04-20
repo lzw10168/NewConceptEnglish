@@ -1,0 +1,185 @@
+{
+  "id": "nce2--052",
+  "lessonNumber": "052",
+  "title": {
+    "english": "A pretty carpet",
+    "chinese": "漂亮的地毯"
+  },
+  "lessonInfo": "新概念英语－第2册－第052课",
+  "audioPath": "audio/nce2/052.mp3",
+  "listeningQuestion": {
+    "question": "What did the writer's sister think the books on the floor looked like?",
+    "translation": "作者的妹妹认为地板上的书看起来像什么？"
+  },
+  "editorNotes": "本课讲述了一个关于搬家和整理房间的有趣故事。作者刚刚搬进新房子，试图整理新房间，但因为拥有超过一千本书，而房间又很小，所以暂时把书放在了地板上。作者的妹妹看到地板上的书后，开玩笑地说这是她见过的最漂亮的地毯。在语法方面，重点介绍了现在完成时和现在完成进行时的用法，以及形容词和副词的区别。文章还涉及了一些重要的词汇用法，如temporarily、inch、space和actually等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "We have just moved into a new house and I have been working hard all morning.",
+      "I have been trying to get my new room in order.",
+      "This has not been easy because I own over a thousand books.",
+      "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.",
+      "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "'This is the prettiest carpet I have ever seen,' she said.",
+      "She gazed at it for some time then added, 'You don't need bookcases at all. You can sit here in your spare time and read the carpet!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我们刚刚搬进一所新房子，我辛辛苦苦地干了整整一个上午。",
+      "我试图把我的新房间收拾整齐。",
+      "但这并不容易，因为我有1,000多本书。",
+      "更糟糕的是房间还非常小，所以我暂时把书放在了地板上。",
+      "这会儿，书把地板的每一点空隙都占据了，我实际上是踩着这些书进出房间的。",
+      "几分钟前，我妹妹帮我把一个旧书橱抬上了楼。",
+      "她走进我的房间，当她看到地板上的那些书时，大吃一惊。",
+      "'这是我见过的最漂亮的地毯，'她说。",
+      "她盯着'地毯'看了一会儿，又说：'你根本用不着书橱，空闲时你可以坐在这儿读地毯！'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "现在完成时和现在完成进行时",
+        "content": [
+          "现在完成时（have done）：表示已完成的动作",
+          "现在完成进行时（have been doing）：强调动作在某一段时间内一直在进行，而且动作现在有结果",
+          "到现在为止，该动作可能已不再继续进行，也可能还在继续进行，这要根据上下文来确定",
+          "句子中常含有all+表示时间的词语如all day，all morning等或for和since",
+          "例如：I have read the book.（书已看完）",
+          "例如：I have been reading the book.（还没看完，还要继续）"
+        ]
+      },
+      {
+        "title": "形容词和副词的区别",
+        "content": [
+          "许多副词由形容词加-ly构成，如easy（容易的）/easily（容易地）",
+          "有些副词虽然由形容词加-ly构成，但在意义上与其相应的形容词并不相同，如hard（勤奋的，困难的）/hardly（几乎不）",
+          "有些副词有两种形式，有的意义相同，如cheap（廉价的）/cheaply（廉价地），但有的意义不同如late（迟，晚）/lately（近来）",
+          "有些副词在形式上与形容词相同，如fast，past，far等",
+          "大多数方式副词的位置一般在宾语或动词前面，表示时间的副词常位于句尾，有时也可位于句首"
+        ]
+      },
+      {
+        "title": "quite和quiet的区别",
+        "content": [
+          "quite是副词，表示'完全，相当，很'",
+          "quiet是形容词，表示'安静的，平静的，静止的，寂静的'",
+          "例如：I'm quite ready.（我已全准备好了）",
+          "例如：The sea was very quiet this morning.（今天上午上海很平静）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "get sth. in order",
+        "translation": "使……有秩序，把……整理好",
+        "context": "表示整理某物使其有序",
+        "example": "I have been trying to get my new room in order."
+      },
+      {
+        "phrase": "to make matters worse",
+        "translation": "更糟糕的是……",
+        "context": "表示情况变得更糟",
+        "example": "To make matters worse, the room is rather small."
+      },
+      {
+        "phrase": "every inch",
+        "translation": "每一英寸（夸张用法）",
+        "context": "表示完全覆盖某物",
+        "example": "They cover every inch of floor space."
+      },
+      {
+        "phrase": "in one's spare time",
+        "translation": "某人空闲的时候",
+        "context": "表示在空闲时间做某事",
+        "example": "You can sit here in your spare time and read the carpet!"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "He has been working all morning and he ___ hard.",
+        "options": [
+          "still works",
+          "has still worked",
+          "is still working",
+          "still worked"
+        ],
+        "answer": 2,
+        "explanation": "still works表示一般现在时，是一种习惯；而这里需要表示现在进行时，表示动作仍在继续"
+      },
+      {
+        "question": "He's been trying to get his room in order. He wants to ___.",
+        "options": [
+          "make it tidy",
+          "keep it tidy",
+          "made order",
+          "keep order"
+        ],
+        "answer": 0,
+        "explanation": "make it tidy表示'使房间整洁'，与get his room in order意思相近"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "He actually has to walk on them. He can't do ___.",
+        "answer": "otherwise",
+        "hint": "表示'另外，否则，不同地，别的方式'的副词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "现在完成进行时的用法",
+        "content": "现在完成进行时还可以表示经常重复的动作，例如：Jim has been phoning Jenny every night for the last week.（吉姆最近一周每天晚上都给珍妮打电话）。与段时间连用可以用现在完成时，也可以用现在完成进行时，但跟次数连用的，一定只能用完成时，不能用现在完成进行时，例如：He has rung me up five times since 12 o'clock.（自12点以来他已经给我打了5次电话）。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'get sth. in order'（整理某物）、'to make matters worse'（更糟糕的是）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "temporarily",
+        "toggle": "adv. 临时地，临时",
+        "isDanger": 0,
+        "phonetic": "ˈtemprərəli",
+        "meaning": "adv. 暂时地"
+      },
+      {
+        "word": "inch",
+        "toggle": "n. 英寸；身高；少许",
+        "isDanger": 0,
+        "phonetic": "ɪntʃ",
+        "meaning": "n. 英寸（度量单位）"
+      },
+      {
+        "word": "space",
+        "toggle": "n. 空间；距离；太空",
+        "isDanger": 1,
+        "phonetic": "speɪs",
+        "meaning": "n. 空间"
+      },
+      {
+        "word": "actually",
+        "toggle": "adv. 实际上；事实上",
+        "isDanger": 0,
+        "phonetic": "ˈæktʃuəli",
+        "meaning": "adv. 实际上"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "id": "nce1-071",
+  "lessonNumber": "071",
+  "title": {
+    "english": "He's awful",
+    "chinese": "他讨厌透了"
+  },
+  "lessonInfo": "新概念英语－第1册－第071课",
+  "audioPath": "audio/nce1/071.mp3",
+  "listeningQuestion": {
+    "question": "How many times did Ron telephone Pauline yesterday?",
+    "translation": "昨天朗给波淋打了几次电话？"
+  },
+  "editorNotes": "本课通过一段关于骚扰电话的对话，介绍了一般过去时的多种用法，以及表达厌恶情感的词汇和句式。对话生动展示了如何用英语描述过去发生的事件，以及如何婉转而坚定地处理不受欢迎的社交行为。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Jane : What's Ron Marston like , Pauline ?",
+      "Pauline :  He's awful ! He telephoned me four times yesterday , and three times the day before yesterday.",
+      "Pauline:    He telephoned the office yesterday morning and yesterday afternoon. My boss answered the telephone .",
+      "Jane : What did your boss say to him ?",
+      "Pauline:    He said ,\"Pauline is typing letters .She can't speak to you now !\"",
+      "Pauline :  Then I arrived home at six o'clock yesterday evening .He telephoned again .But I didn't answer the phone !",
+      "Jane : Did he telephone again last night ?",
+      "Pauline :  Yes , he did . He telephoned at nine o'clock .",
+      "Jane : What did you say to him ?",
+      "Pauline :  I said ,'This is Pauline 's mother . Please don't telephone my daughter again !'",
+      "Jane :  Did he telephone again ?",
+      "Pauline :  No , he didn't !"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "简：波淋，朗.马顿是怎样一个人？",
+      "波淋：他讨厌透了！他昨天给我打了4次电话前天打了3次。",
+      "波淋：他昨天上午和下午把电话打到了我的办公室，是我的老板接的。",
+      "简：你老板是怎么对他说的？",
+      "波淋：他说：'波淋正在打信，她现在不能同你讲话！'",
+      "波淋：后来，我昨晚6点钟回到家里。他又打来电话，但我没接。",
+      "简：他昨夜里又打电话了吗？",
+      "波淋：是的，打了。他在9点钟又打电话。",
+      "简：你对他怎么说的？",
+      "波淋：我说：'我是波淋的母亲。请不要再给我女儿打电话了！'",
+      "简：他又打了没有？",
+      "波淋：没有！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问和描述人物性格",
+        "children": [
+          "核心概念：如何询问和评价他人",
+          "常用表达：",
+          "- What's ... like? 某人怎么样？",
+          "- He's awful! 他讨厌透了！",
+          "使用场景：询问和评价他人的性格特点",
+          "注意事项：注意语气的委婉和得体"
+        ]
+      },
+      {
+        "heading": "2. 时间表达",
+        "children": [
+          "核心概念：表达过去的时间点",
+          "常用表达：",
+          "- yesterday morning 昨天早上",
+          "- the day before yesterday 前天",
+          "- last night 昨天晚上",
+          "使用场景：描述过去发生的事情",
+          "注意事项：注意时间词的准确使用"
+        ]
+      },
+      {
+        "heading": "3. 电话用语",
+        "children": [
+          "核心概念：电话交谈中的常用表达",
+          "常用表达：",
+          "- answer the telephone 接电话",
+          "- telephone again 再次打电话",
+          "- speak to someone 与某人通话",
+          "使用场景：电话交谈场合",
+          "注意事项：注意礼貌用语的使用"
+        ]
+      },
+      {
+        "heading": "4. 婉拒技巧",
+        "children": [
+          "核心概念：如何委婉地拒绝他人",
+          "常用表达：",
+          "- She can't speak to you now 她现在不能和你说话",
+          "- Please don't... 请不要...",
+          "使用场景：需要拒绝他人的场合",
+          "注意事项：注意语气的坚定但不失礼貌"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生的动作：He telephoned me",
+          "2. 过去时间状语：yesterday, last night",
+          "3. 否定形式：didn't + 动词原形",
+          "4. 疑问形式：Did + 主语 + 动词原形"
+        ]
+      },
+      {
+        "heading": "2. 一般过去时的疑问回答",
+        "children": [
+          "1. 肯定回答：Yes, he/she/it did",
+          "2. 否定回答：No, he/she/it didn't",
+          "3. 特殊疑问句：What did...?",
+          "4. 注意答语的简略形式"
+        ]
+      },
+      {
+        "heading": "3. 直接引语的使用",
+        "children": [
+          "1. 引语的标点：使用引号",
+          "2. 说话动词：say, answer",
+          "3. 引语中的人称变化",
+          "4. 注意引语的语气和语调"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 表达情感的形容词",
+        "children": [
+          "awful adj. 讨厌的，糟糕的：",
+          "- He's awful! 他讨厌透了！",
+          "- an awful day 糟糕的一天",
+          "awfully adv. 非常地：",
+          "- awfully sorry 非常抱歉"
+        ]
+      },
+      {
+        "heading": "2. 电话相关词汇",
+        "children": [
+          "telephone v. 打电话：",
+          "- telephone the office 打电话到办公室",
+          "phone n. & v. 电话；打电话：",
+          "- answer the phone 接电话",
+          "- phone back 回电话"
+        ]
+      },
+      {
+        "heading": "3. 时间频率词",
+        "children": [
+          "time n. 次数：",
+          "- four times 四次",
+          "- many times 多次",
+          "again adv. 再次：",
+          "- telephone again 再次打电话",
+          "- try again 再试一次"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "awful",
+        "toggle": "adj. 可怕的，吓人的；庄严的，威严的；糟糕的，糟透的（口语）",
+        "isDanger": 0,
+        "phonetic": "ˈɔːf(ə)l",
+        "meaning": "adj. 让人讨厌的，坏的"
+      },
+      {
+        "word": "awfully",
+        "toggle": "adv. 非常；很；十分；可怕地",
+        "isDanger": 0,
+        "phonetic": "ˈɔːfli",
+        "meaning": "adv. 可怕地"
+      },
+      {
+        "word": "telephone",
+        "toggle": "n. （美）电话；电话机；电话耳机",
+        "isDanger": 1,
+        "phonetic": "ˈtelɪfəʊn",
+        "meaning": "v. 打电话"
+      },
+      {
+        "word": "time",
+        "toggle": "n. 时间；次数；时代；节拍；倍数",
+        "isDanger": 1,
+        "phonetic": "taɪm",
+        "meaning": "n. 次(数)"
+      },
+      {
+        "word": "answer",
+        "toggle": "vt. 符合；回答",
+        "isDanger": 0,
+        "phonetic": "ˈɑːnsə(r)",
+        "meaning": "v. 接(电话)"
+      },
+      {
+        "word": "last",
+        "toggle": "n. 末尾，最后；上个；鞋楦（做鞋的模型）",
+        "isDanger": 1,
+        "phonetic": "lɑːst",
+        "meaning": "adv. 最后的，前一次的"
+      },
+      {
+        "word": "phone",
+        "toggle": "n. 电话；耳机，听筒",
+        "isDanger": 0,
+        "phonetic": "fəʊn",
+        "meaning": "n. 电话(=telephone)"
+      },
+      {
+        "word": "again",
+        "toggle": "adv. 再一次；又，此外",
+        "isDanger": 0,
+        "phonetic": "əˈɡen",
+        "meaning": "adv. 又一次地"
+      },
+      {
+        "word": "say",
+        "toggle": "vt. 讲；说明；指明；假设；例如；声称",
+        "isDanger": 1,
+        "phonetic": "seɪ",
+        "meaning": "v. 说"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

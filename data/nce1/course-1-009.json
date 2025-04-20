@@ -1,0 +1,381 @@
+{
+  "id": "nce1-009",
+  "lessonNumber": "009",
+  "title": {
+    "english": "How are you today?",
+    "chinese": "今天好吗？"
+  },
+  "lessonInfo": "新概念英语－第1册－第009课",
+  "audioPath": "audio/nce1/009.mp3",
+  "listeningQuestion": {
+    "question": "How is Emma?",
+    "translation": "埃玛身体好吗？"
+  },
+  "editorNotes": "本课介绍了日常生活中最常用的问候语和寒暄方式。通过一段朋友之间的对话，展示了如何询问他人的近况，以及如何礼貌地回应问候。课文涵盖了打招呼、问候、告别等基本社交用语，同时也介绍了不同场合下的问候方式变化。这些表达方式是日常社交中最基本也是最重要的交际技能，对提升学习者的社交能力具有重要意义。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "STEVEN: Hello, Helen.",
+      "HELEN:  Hi, Steven.",
+      "STEVEN: How are you today?",
+      "HELEN:  I'm very well, thank you. And you?",
+      "STEVEN: I'm fine, thanks.",
+      "STEVEN: How is Tony?",
+      "HELEN:  He's fine, thanks.How's Emma?",
+      "STEVEN: She's very well, too, Helen.",
+      "STEVEN: Goodbye, Helen.Nice to see you.",
+      "HELEN:  Nice to see you, too, Steven. Goodbye."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "史蒂文：你好，海伦",
+      "海  伦：你好，史蒂文",
+      "史蒂文：你今天好吗？",
+      "海  伦：很好，谢谢你。你好吗？",
+      "史蒂文：很好，谢谢。",
+      "史蒂文：托尼好吗？",
+      "海  伦：他很好，谢谢。埃玛好吗？",
+      "史蒂文：她也很好，海伦。",
+      "史蒂文：再见，海伦。见到你真高兴。",
+      "海  伦：我见到你也很高兴，史蒂文。再见。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 日常问候语",
+        "children": [
+          "核心概念：不同场合的问候方式",
+          "基本问候：",
+          "- Hello (正式)",
+          "- Hi (非正式)",
+          "- Hey (很随意)",
+          "使用场景：",
+          "- 见面时 | 电话交谈开始 | 邮件开头",
+          "注意事项：",
+          "- 根据场合选择合适的问候语 | 注意语气的友好程度 | 可搭配称呼使用",
+          "文化差异：",
+          "- 英语国家重视日常问候",
+          "- 问候语反映社交关系"
+        ]
+      },
+      {
+        "heading": "2. 询问近况",
+        "children": [
+          "核心概念：询问他人情况的不同方式",
+          "常用表达：",
+          "- How are you? (你好吗？)",
+          "- How are you today? (今天好吗？)",
+          "- How's everything? (一切都好吗？)",
+          "回应方式：",
+          "- I'm very well, thank you. (很好，谢谢。)",
+          "- I'm fine, thanks. (很好，谢谢。)",
+          "- Not bad, thanks. (还不错，谢谢。)",
+          "使用注意事项：",
+          "- 通常需要反问对方 | 回答后加谢谢 | 语气要自然友好"
+        ]
+      },
+      {
+        "heading": "3. 询问他人情况",
+        "children": [
+          "核心概念：询问第三方近况的方式",
+          "常用句型：",
+          "- How is [人名]? (某人好吗？)",
+          "- How's [人名]? (某人好吗？)",
+          "回应方式：",
+          "- He/She is fine. (他/她很好。)",
+          "- He/She's very well. (他/她很好。)",
+          "- He/She's doing great. (他/她很不错。)",
+          "注意事项：",
+          "- 可使用缩略形式 | 回答要简洁得体 | 必要时补充信息"
+        ]
+      },
+      {
+        "heading": "4. 告别用语",
+        "children": [
+          "核心概念：不同场合的告别方式",
+          "常用表达：",
+          "- Goodbye (正式)",
+          "- Bye (非正式)",
+          "- See you (再见)",
+          "礼貌用语：",
+          "- Nice to see you (见到你很高兴)",
+          "- Nice to see you, too (我也很高兴见到你)",
+          "使用场景：",
+          "- 短暂分别 | 长期分别 | 日常道别",
+          "注意事项：",
+          "- 根据关系选择用语 | 可加入祝福语 | 语气要真诚"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. How的疑问句用法",
+        "children": [
+          "核心概念：",
+          "- 用how询问状态或情况",
+          "- 可搭配be动词使用",
+          "基本结构：",
+          "- How + be + 主语...?",
+          "- How's + 主语...? (缩略形式)",
+          "实用例句：",
+          "- How are you? (你好吗？)",
+          "- How is she? (她好吗？)",
+          "- How's everything? (一切都好吗？)",
+          "注意事项：",
+          "- 注意人称变化 | 可用缩略形式 | 答句要完整"
+        ]
+      },
+      {
+        "heading": "2. be动词的现在时形式",
+        "children": [
+          "核心概念：",
+          "- am/is/are的使用",
+          "- 表示状态或情况",
+          "使用规则：",
+          "- I am (第一人称单数)",
+          "- He/She/It is (第三人称单数)",
+          "- You/We/They are (第二人称和复数)",
+          "缩略形式：",
+          "- I'm, He's, She's, It's",
+          "- You're, We're, They're",
+          "注意事项：",
+          "- 人称代词匹配 | 单复数一致 | 正式场合避免缩略"
+        ]
+      },
+      {
+        "heading": "3. too的用法",
+        "children": [
+          "核心概念：",
+          "- 表示'也'的含义",
+          "- 用于句末表示附加",
+          "使用规则：",
+          "- 肯定句中使用too | 通常用逗号隔开",
+          "实用例句：",
+          "- She's very well, too. (她也很好。)",
+          "- Nice to see you, too. (我也很高兴见到你。)",
+          "- I'm fine, too. (我也很好。)",
+          "注意事项：",
+          "- 位置在句末 | 前面加逗号 | 语气自然"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 问候用语",
+        "children": [
+          "基本问候语：",
+          "- hello/hi (你好)",
+          "- good morning/afternoon/evening (早上好/下午好/晚上好)",
+          "常用搭配：",
+          "- Hello there! (喂，你好！)",
+          "- Hi everyone! (大家好！)",
+          "使用场景：",
+          "- 日常见面 | 电话交谈 | 正式场合",
+          "相关表达：",
+          "- Hey! (嘿！非正式)",
+          "- Greetings! (问候！正式)"
+        ]
+      },
+      {
+        "heading": "2. 状态形容词",
+        "children": [
+          "表示状态：",
+          "- well (健康的，好的)",
+          "- fine (很好的)",
+          "- great (非常好的)",
+          "常用搭配：",
+          "- very well (很好)",
+          "- quite well (相当好)",
+          "- not very well (不太好)",
+          "使用场景：",
+          "- 描述身体状况 | 表达心情感受 | 回应问候"
+        ]
+      },
+      {
+        "heading": "3. 礼貌用语",
+        "children": [
+          "感谢用语：",
+          "- thank you (谢谢你)",
+          "- thanks (谢谢)",
+          "告别用语：",
+          "- goodbye/bye (再见)",
+          "- see you (再见)",
+          "寒暄用语：",
+          "- Nice to see you (见到你很高兴)",
+          "- Nice meeting you (很高兴见到你)",
+          "使用场景：",
+          "- 社交场合 | 商务场合 | 日常交际"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "hello",
+        "toggle": "int. 喂；哈罗",
+        "isDanger": 0,
+        "phonetic": "həˈləʊ",
+        "meaning": "interj. 喂(表示问候)"
+      },
+      {
+        "word": "Hi",
+        "toggle": "int. 嗨！（表示问候或用以唤起注意）",
+        "isDanger": 0,
+        "phonetic": "haɪ",
+        "meaning": "interj. 喂，嗨"
+      },
+      {
+        "word": "how",
+        "toggle": "adv. 多么；多少；如何",
+        "isDanger": 1,
+        "phonetic": "haʊ",
+        "meaning": "adv. 怎样"
+      },
+      {
+        "word": "today",
+        "toggle": "adv. 今天；现今",
+        "isDanger": 0,
+        "phonetic": "təˈdeɪ",
+        "meaning": "adv. 今天"
+      },
+      {
+        "word": "well",
+        "toggle": "adv. 满意地；适当地；很好地；充分地",
+        "isDanger": 1,
+        "phonetic": "wel",
+        "meaning": "adj. 身体好"
+      },
+      {
+        "word": "fine",
+        "toggle": "adj. 好的；优良的；晴朗的；健康的；细小的，精美的",
+        "isDanger": 1,
+        "phonetic": "faɪn",
+        "meaning": "adj. 美好的"
+      },
+      {
+        "word": "thanks",
+        "toggle": "n. 谢谢（只用复数）",
+        "isDanger": 0,
+        "phonetic": "θæŋks",
+        "meaning": "interj. 谢谢"
+      },
+      {
+        "word": "goodbye",
+        "toggle": "int. 再见",
+        "isDanger": 0,
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "meaning": "interj. 再见"
+      },
+      {
+        "word": "see",
+        "toggle": "vt. 看见；领会；理解",
+        "isDanger": 1,
+        "phonetic": "siː",
+        "meaning": "v. 见"
+      },
+      {
+        "word": "fat",
+        "toggle": "adj. 肥的，胖的；丰满的；油腻的",
+        "isDanger": 1,
+        "phonetic": "fæt",
+        "meaning": "adj. 胖的"
+      },
+      {
+        "word": "woman",
+        "toggle": "n. 女性；妇女；成年女子",
+        "isDanger": 1,
+        "phonetic": "ˈwʊmən",
+        "meaning": "n. 女人"
+      },
+      {
+        "word": "thin",
+        "toggle": "adj. 薄的；瘦的；稀薄的；微弱的",
+        "isDanger": 0,
+        "phonetic": "θɪn",
+        "meaning": "adj. 瘦的"
+      },
+      {
+        "word": "tall",
+        "toggle": "adj. 高的；长的；夸大的；过分的",
+        "isDanger": 0,
+        "phonetic": "tɔːl",
+        "meaning": "adj. 高的"
+      },
+      {
+        "word": "short",
+        "toggle": "adj. 短的；不足的；急速的；唐突的",
+        "isDanger": 1,
+        "phonetic": "ʃɔːt",
+        "meaning": "adj. 矮的"
+      },
+      {
+        "word": "dirty",
+        "toggle": "adj. 污秽的；下流的，卑鄙的；恶劣的；暗淡的",
+        "isDanger": 1,
+        "phonetic": "ˈdɜːti",
+        "meaning": "adj. 脏的"
+      },
+      {
+        "word": "clean",
+        "toggle": "adj. 清洁的，干净的；清白的",
+        "isDanger": 1,
+        "phonetic": "kliːn",
+        "meaning": "adj. 干净的"
+      },
+      {
+        "word": "hot",
+        "toggle": "adj. 热的；辣的；热情的；激动的；紧迫的",
+        "isDanger": 1,
+        "phonetic": "hɒt",
+        "meaning": "adj. 热的"
+      },
+      {
+        "word": "cold",
+        "toggle": "adj. 寒冷的；冷淡的，不热情的；失去知觉的",
+        "isDanger": 1,
+        "phonetic": "kəʊld",
+        "meaning": "adj. 冷的"
+      },
+      {
+        "word": "old",
+        "toggle": "adj. 年老的；陈旧的，古老的",
+        "isDanger": 0,
+        "phonetic": "əʊld",
+        "meaning": "adj. 老的"
+      },
+      {
+        "word": "young",
+        "toggle": "adj. 年轻的；初期的；没有经验的",
+        "isDanger": 0,
+        "phonetic": "jʌŋ",
+        "meaning": "adj. 年轻的"
+      },
+      {
+        "word": "busy",
+        "toggle": "adj. 忙碌的；热闹的；正被占用的",
+        "isDanger": 1,
+        "phonetic": "ˈbɪzi",
+        "meaning": "adj. 忙的"
+      },
+      {
+        "word": "lazy",
+        "toggle": "adj. 懒惰的；怠惰的；懒洋洋的；慢吞吞的",
+        "isDanger": 0,
+        "phonetic": "ˈleɪzi",
+        "meaning": "adj. 懒的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

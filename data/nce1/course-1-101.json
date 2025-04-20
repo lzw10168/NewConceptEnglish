@@ -1,0 +1,246 @@
+{
+  "id": "nce1-101",
+  "lessonNumber": "101",
+  "title": {
+    "english": "A card from Jimmy",
+    "chinese": "吉米的明信片"
+  },
+  "lessonInfo": "新概念英语－第1册－第101课",
+  "audioPath": "audio/nce1/101.mp3",
+  "listeningQuestion": {
+    "question": "What is Jimmy's current location and what does he promise to do?",
+    "translation": "吉米现在在哪里？他承诺要做什么？"
+  },
+  "editorNotes": "本课通过一段祖孙对话，展示了如何阅读和转述明信片内容。课文涉及旅行通信、听力理解和信息转述等交际功能，同时介绍了直接引语和间接引语的使用。这些表达对于日常生活中的信息交流和沟通非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Grandmother:  Read Jimmy's card to me please, Mary.",
+      "Mary:         “I have just arrived in Scotland and I'm staying at a Youth Hostel.”",
+      "Grandmother:  Eh?",
+      "Mary:         He says he's just arrived in Scotland.  He says he's staying at a Youth Hostel.You know he's a member of the Y.H.A.",
+      "Grandmother:         The what?",
+      "Mary:                    The Y.H.A., mother. The Youth Hostel's Association.",
+      "Grandmother:         What else does he say?",
+      "Mary:                    “I'll write a letter soon. I hope you are all well.”",
+      "Grandmother:         What? Speak up, Mary. I'm afraid I can't hear you.",
+      "Mary:                    He says he'll write a letter soon. He hopes we are all well. “ Love, Jimmy.”",
+      "Grandmother:         Is that all? He doesn't say very much, does he?",
+      "Mary:                    He can't write very much on a card, mother."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "祖母：请把吉米的明信片念给我听听，Mary。",
+      "Mary：“我刚到苏格兰，我现住在一家青年招待所。”",
+      "祖母：什么？",
+      "Mary：他说他刚到苏格兰。他说他住在一家青年招待所。你知道，他是“青招协” 的一个成员。",
+      "祖母：什么？",
+      "Mary：“青招协”，妈妈。青年招待所协会。",
+      "祖母：他还说了些什么？",
+      "Mary：“我很快会写信的。祝你们大家身体都好。”",
+      "祖母：什么？Mary，大声一点。我可听不见你念的。",
+      "Mary：他说他很快会写信的。他祝我们大家身体好。“谨此问候，吉米。”",
+      "祖母：就这些吗？他没写许多，是吗？",
+      "Mary：在明信片上他写不了很多，妈妈。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 明信片阅读与转述",
+        "children": [
+          "核心概念：如何阅读和转述书面信息",
+          "常用表达：",
+          "- Read Jimmy's card to me please 请把吉米的明信片念给我听",
+          "- He says he's just arrived 他说他刚到",
+          "- He says he'll write a letter soon 他说他很快会写信",
+          "使用场景：阅读和转述书信内容时",
+          "注意事项：注意直接引语和间接引语的转换"
+        ]
+      },
+      {
+        "heading": "2. 听力理解确认",
+        "children": [
+          "核心概念：如何确认和澄清听到的信息",
+          "常用表达：",
+          "- Eh? 什么？",
+          "- The what? 什么？",
+          "- Speak up 说大声点",
+          "- I can't hear you 我听不见你说的",
+          "使用场景：需要确认或重复信息时",
+          "注意事项：注意使用礼貌的请求方式"
+        ]
+      },
+      {
+        "heading": "3. 缩略语使用",
+        "children": [
+          "核心概念：如何解释和使用缩略语",
+          "常用表达：",
+          "- Y.H.A. (Youth Hostel Association) 青年招待所协会",
+          "- He's a member of... 他是...的成员",
+          "使用场景：解释组织机构缩写时",
+          "注意事项：先说缩写，再解释全称"
+        ]
+      },
+      {
+        "heading": "4. 书信结束语",
+        "children": [
+          "核心概念：如何使用恰当的结束语",
+          "常用表达：",
+          "- I hope you are all well 祝你们大家身体都好",
+          "- Love, Jimmy 谨此问候，吉米",
+          "使用场景：结束书信或明信片时",
+          "注意事项：注意使用合适的称谓和问候语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 直接引语和间接引语",
+        "children": [
+          "1. 直接引语的标点使用",
+          "2. 间接引语中的时态变化",
+          "3. 人称代词的变化",
+          "4. 引述动词的选择（say, tell等）"
+        ]
+      },
+      {
+        "heading": "2. 现在完成时",
+        "children": [
+          "1. just的用法：have just arrived",
+          "2. 表示最近发生：I've arrived",
+          "3. 与一般过去时的区别",
+          "4. 在信件中的常用表达"
+        ]
+      },
+      {
+        "heading": "3. 情态动词will的使用",
+        "children": [
+          "1. 表示承诺：will write soon",
+          "2. 表示将来：will write a letter",
+          "3. 与be going to的区别",
+          "4. 在信件中的礼貌用语"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 通信相关词汇",
+        "children": [
+          "card n. 明信片：",
+          "- post a card 寄明信片",
+          "- write a card 写明信片",
+          "letter n. 信件：",
+          "- write a letter 写信",
+          "- receive a letter 收到信"
+        ]
+      },
+      {
+        "heading": "2. 住宿词汇",
+        "children": [
+          "hostel n. 招待所：",
+          "- youth hostel 青年招待所",
+          "- stay at a hostel 住在招待所",
+          "association n. 协会：",
+          "- Youth Hostel Association 青年招待所协会",
+          "- join an association 加入协会"
+        ]
+      },
+      {
+        "heading": "3. 听力交际词汇",
+        "children": [
+          "speak up v. 大声说：",
+          "- Please speak up 请说大声点",
+          "- I can't hear you 我听不见你说的",
+          "hope v. 希望：",
+          "- hope you are well 祝你身体健康",
+          "- I hope to see you soon 希望很快见到你"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Scotland",
+        "toggle": "n.苏格兰(英国的一部分,在不列颠北部)",
+        "isDanger": 0,
+        "phonetic": "ˈskɒtlənd",
+        "meaning": "n. 苏格兰(英国)"
+      },
+      {
+        "word": "card",
+        "toggle": "n. 卡片；纸牌；明信片",
+        "isDanger": 0,
+        "phonetic": "kɑːd",
+        "meaning": "n. 明信片"
+      },
+      {
+        "word": "youth",
+        "toggle": "n. 青春；青年；青少年时期；年轻",
+        "isDanger": 0,
+        "phonetic": "juːθ",
+        "meaning": "n. 青年"
+      },
+      {
+        "word": "young",
+        "toggle": "adj. 年轻的；初期的；没有经验的",
+        "isDanger": 0,
+        "phonetic": "jʌŋ",
+        "meaning": "adj. 年轻的"
+      },
+      {
+        "word": "youngster",
+        "toggle": "n. 年轻人；少年",
+        "isDanger": 0,
+        "phonetic": "ˈjʌŋstə(r)",
+        "meaning": "n. 少年"
+      },
+      {
+        "word": "hostel",
+        "toggle": "n. 旅社，招待所（尤指青年旅社）",
+        "isDanger": 0,
+        "phonetic": "ˈhɒst(ə)l",
+        "meaning": "n. 招待所，旅馆"
+      },
+      {
+        "word": "hotel",
+        "toggle": "n. 旅馆，饭店；客栈",
+        "isDanger": 0,
+        "phonetic": "həʊˈtel",
+        "meaning": "n. 酒店"
+      },
+      {
+        "word": "association",
+        "toggle": "n. 协会，联盟，社团；联合；联想",
+        "isDanger": 0,
+        "phonetic": "əˌsəʊsiˈeɪʃn;",
+        "meaning": "n. 协会"
+      },
+      {
+        "word": "soon",
+        "toggle": "adv. 快；立刻；不久，一会儿；宁愿",
+        "isDanger": 0,
+        "phonetic": "suːn",
+        "meaning": "adv. 不久"
+      },
+      {
+        "word": "write",
+        "toggle": "vi. 写，写字；写作，作曲；写信",
+        "isDanger": 0,
+        "phonetic": "raɪt",
+        "meaning": "v. 写"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

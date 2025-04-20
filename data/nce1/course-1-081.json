@@ -1,0 +1,308 @@
+{
+  "id": "nce1-081",
+  "lessonNumber": "081",
+  "title": {
+    "english": "Roast beef and potato",
+    "chinese": "烤牛肉和土豆"
+  },
+  "lessonInfo": "新概念英语－第1册－第081课",
+  "audioPath": "audio/nce1/081.mp3",
+  "listeningQuestion": {
+    "question": "What did Tom have for lunch and what will he have for dinner?",
+    "translation": "汤姆午餐吃了什么？晚餐将会吃什么？"
+  },
+  "editorNotes": "本课通过一段家庭日常对话，展示了日常社交和用餐相关的表达。课文涉及待客礼仪、日常活动描述、用餐时间安排等话题，同时介绍了现在进行时和一般过去时的对比使用。这些表达对于日常社交和餐饮场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "John:       Hullo, Peggy! Where's Tom?",
+      "Peggy:     He's upstairs. He's having a bath.",
+      "Peggy:     Tom!",
+      "Tom:       Yes?",
+      "Peggy:     John's here.",
+      "Tom:       I'm nearly ready.",
+      "Tom:       Hullo, John. Have a cigarette.",
+      "John:       No thanks, Tom.",
+      "Tom:       Have a glass of whisky then.",
+      "John:       O.K. Thanks.",
+      "Tom:       Is dinner ready, Peggy?",
+      "Peggy:     It's nearly ready. We can have dinner at seven o'clock.",
+      "Tom:      John and I had lunch together today. We went to a restaurant.",
+      "Peggy:     What did you have?",
+      "Tom:       We had roast beef and potatoes.",
+      "Peggy:     Oh!",
+      "Tom:       What's the matter, Peggy?",
+      "Peggy:     Well, you're going to have roast beef and potatoes again tonight!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "萨 姆：你好，卡罗尔！汤姆在哪儿？",
+      "卡罗尔：他在楼上。他正在洗澡。",
+      "卡罗尔：汤姆！",
+      "汤 姆：什么事？",
+      "卡罗尔：萨姆来了。",
+      "汤 姆：我马上就好。",
+      "汤 姆：你好，萨姆。请抽烟。",
+      "萨 姆：不，谢谢，汤姆。",
+      "汤 姆：那么，来杯威士忌吧。",
+      "萨 姆：好的，谢谢。",
+      "汤 姆：卡罗尔，饭好了吗？",
+      "卡罗尔：马上就好。7点钟我们可以吃饭。",
+      "汤 姆：我和萨姆今天一起吃的午饭。我们去了一家饭店。",
+      "卡罗尔：你们吃了什么？",
+      "汤 姆：我们吃的是烤牛肉和土豆。",
+      "卡罗尔：噢！",
+      "汤 姆：怎么了，卡罗尔？",
+      "卡罗尔：唉，今晚你们又要吃烤牛肉和土豆了！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 日常活动描述",
+        "children": [
+          "核心概念：如何描述正在进行的活动",
+          "常用表达：",
+          "- He's having a bath 他正在洗澡",
+          "- I'm nearly ready 我快准备好了",
+          "- dinner is nearly ready 饭快好了",
+          "使用场景：描述当前状态和活动",
+          "注意事项：注意现在进行时的使用"
+        ]
+      },
+      {
+        "heading": "2. 待客礼仪用语",
+        "children": [
+          "核心概念：如何礼貌待客",
+          "常用表达：",
+          "- Have a cigarette 请抽烟",
+          "- Have a glass of whisky 来杯威士忌",
+          "- No thanks 不用了，谢谢",
+          "使用场景：招待客人时",
+          "注意事项：注意使用礼貌用语"
+        ]
+      },
+      {
+        "heading": "3. 用餐相关表达",
+        "children": [
+          "核心概念：如何谈论用餐",
+          "常用表达：",
+          "- We can have dinner at seven o'clock 我们7点可以吃饭",
+          "- What did you have? 你吃了什么？",
+          "- We had roast beef and potatoes 我们吃了烤牛肉和土豆",
+          "使用场景：讨论用餐时间和食物",
+          "注意事项：注意时态的使用"
+        ]
+      },
+      {
+        "heading": "4. 表达惊讶",
+        "children": [
+          "核心概念：如何表达惊讶或意外",
+          "常用表达：",
+          "- Oh! 噢！",
+          "- What's the matter? 怎么了？",
+          "- Well, you're going to... 唉，你要...",
+          "使用场景：表达意外或惊讶时",
+          "注意事项：注意语气的使用"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在进行时的使用",
+        "children": [
+          "1. 表示正在进行：He's having a bath",
+          "2. be动词+动词ing形式",
+          "3. 与一般现在时的区别",
+          "4. 常见动词的ing形式变化"
+        ]
+      },
+      {
+        "heading": "2. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生：had lunch together",
+          "2. 规则动词和不规则动词",
+          "3. 疑问句形式：What did you have?",
+          "4. 否定句形式"
+        ]
+      },
+      {
+        "heading": "3. 近将来时的使用",
+        "children": [
+          "1. be going to结构：you're going to have",
+          "2. 表示计划或预测",
+          "3. 与will future的区别",
+          "4. 在对话中的应用"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 日常活动词汇",
+        "children": [
+          "bath n. 洗澡：",
+          "- have/take a bath 洗澡",
+          "- morning bath 早晨洗澡",
+          "ready adj. 准备好的：",
+          "- get ready 准备好",
+          "- be ready for 为...做好准备"
+        ]
+      },
+      {
+        "heading": "2. 餐饮相关词汇",
+        "children": [
+          "dinner n. 正餐，晚餐：",
+          "- have dinner 吃晚饭",
+          "- dinner time 晚餐时间",
+          "restaurant n. 餐馆：",
+          "- go to a restaurant 去餐馆",
+          "- eat at a restaurant 在餐馆吃饭"
+        ]
+      },
+      {
+        "heading": "3. 食物词汇",
+        "children": [
+          "roast adj. 烤的：",
+          "- roast beef 烤牛肉",
+          "- roast chicken 烤鸡",
+          "potato n. 土豆：",
+          "- mashed potatoes 土豆泥",
+          "- baked potatoes 烤土豆"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "bath",
+        "toggle": "n. 浴室；沐浴；浴盆",
+        "isDanger": 0,
+        "phonetic": "bɑːθ",
+        "meaning": "n. 洗澡"
+      },
+      {
+        "word": "birth",
+        "toggle": "n. 出生；血统，出身；起源",
+        "isDanger": 1,
+        "phonetic": "bɜːθ",
+        "meaning": "n. 出生"
+      },
+      {
+        "word": "nearly",
+        "toggle": "adv. 差不多，几乎；密切地",
+        "isDanger": 0,
+        "phonetic": "ˈnɪəli",
+        "meaning": "adv. 几乎，将近"
+      },
+      {
+        "word": "ready",
+        "toggle": "adj. 准备好；情愿的；现成的；迅速的；快要 … 的",
+        "isDanger": 0,
+        "phonetic": "ˈredi",
+        "meaning": "adj. 准备好的，完好的"
+      },
+      {
+        "word": "read",
+        "toggle": "vt. 阅读；读懂，理解",
+        "isDanger": 1,
+        "phonetic": "riːd",
+        "meaning": "v. 读"
+      },
+      {
+        "word": "dinner",
+        "toggle": "n. 宴会；正餐；晚餐，晚宴",
+        "isDanger": 0,
+        "phonetic": "ˈdɪnə(r)",
+        "meaning": "n. 正餐，晚餐"
+      },
+      {
+        "word": "supper",
+        "toggle": "n. 晚餐，晚饭",
+        "isDanger": 0,
+        "phonetic": "ˈsʌpə(r)",
+        "meaning": "n. 晚餐"
+      },
+      {
+        "word": "restaurant",
+        "toggle": "n. 饭店；餐馆",
+        "isDanger": 0,
+        "phonetic": "ˈrestrɒnt",
+        "meaning": "n. 饭馆，餐馆"
+      },
+      {
+        "word": "roast",
+        "toggle": "vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖",
+        "isDanger": 1,
+        "phonetic": "rəʊst",
+        "meaning": "n. 烤的"
+      },
+      {
+        "word": "grill",
+        "toggle": "vt. 烧，烤；烤问",
+        "isDanger": 0,
+        "phonetic": "ɡrɪl",
+        "meaning": "n. 烧烤"
+      },
+      {
+        "word": "barbecue",
+        "toggle": "n. 烤肉；吃烤肉的野宴",
+        "isDanger": 0,
+        "phonetic": "ˈbɑːbɪkjuː",
+        "meaning": "n. 烤肉"
+      },
+      {
+        "word": "breakfast",
+        "toggle": "n. 早餐；早饭",
+        "isDanger": 0,
+        "phonetic": "ˈbrekfəst",
+        "meaning": "n. 早餐"
+      },
+      {
+        "word": "fast",
+        "toggle": "adj. 快速的，迅速的；紧的，稳固的",
+        "isDanger": 1,
+        "phonetic": "fɑːst",
+        "meaning": "n. 斋戒"
+      },
+      {
+        "word": "haircut",
+        "toggle": "n. 理发；发型",
+        "isDanger": 0,
+        "phonetic": "ˈheəkʌt",
+        "meaning": "n. 理发"
+      },
+      {
+        "word": "party",
+        "toggle": "n. 聚会，派对；政党，党派； [ 律 ] 当事人",
+        "isDanger": 0,
+        "phonetic": "ˈpɑːti",
+        "meaning": "n. 聚会"
+      },
+      {
+        "word": "holiday",
+        "toggle": "n. 假日；节日；休息日",
+        "isDanger": 0,
+        "phonetic": "ˈhɒlədeɪ",
+        "meaning": "n. 假日"
+      },
+      {
+        "word": "vacation",
+        "toggle": "n. 假期；（房屋）搬出",
+        "isDanger": 0,
+        "phonetic": "veɪˈkeɪʃ(ə)n",
+        "meaning": "n. 假期"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "nce1-099",
+  "lessonNumber": "099",
+  "title": {
+    "english": "Ow!",
+    "chinese": "啊哟！"
+  },
+  "lessonInfo": "新概念英语－第1册－第099课",
+  "audioPath": "audio/nce1/099.mp3",
+  "listeningQuestion": {
+    "question": "What happened to Ted and what did Pat suggest?",
+    "translation": "泰德发生了什么事？帕特建议怎么办？"
+  },
+  "editorNotes": "本课通过一段意外受伤的对话，展示了如何描述事故和伤情，以及寻求帮助。课文涉及意外描述、身体状况表达、寻求医疗帮助等内容，同时介绍了现在完成时和情态动词的使用。这些表达对于处理突发意外情况非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Ted :              Ow!",
+      "Pat:                What's the matter, Ted?",
+      "Ted:              I slipped and fell downstairs.",
+      "Pat:                Have you hurt yourself?",
+      "Ted:               Yes, I have. I think that I've hurt my back.",
+      "Pat:                Try and stand up. Can you stand up?Here. Let me help you.",
+      "Ted:               I'm sorry, Pat. I'm afraid that I can't get up.",
+      "Pat:                I think that the doctor had better see you. I'll telephone Dr Carter.",
+      "Pat:               The doctor says that he will come at once. I'm sure that you need an X-ray, Ted."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "Ted：啊哟！",
+      "Pat：怎么了，Ted？",
+      "Ted：我滑了一跤，从楼梯上摔下来了。",
+      "Pat：你摔伤了没有？",
+      "Ted：是啊，摔伤了。我想我把背摔坏了。",
+      "Pat：试试站起来。你能站起来吗？来，让我帮你。",
+      "Ted：对不起，Pat，恐怕我站不起来。",
+      "Pat：我想最好请医生来给你看一下。 我去给卡特医生打电话。",
+      "Pat：医生说他马上就来。Ted， 我看你需要做一次X光透视。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 意外描述",
+        "children": [
+          "核心概念：如何描述意外事故",
+          "常用表达：",
+          "- I slipped and fell downstairs 我滑了一跤，从楼梯上摔下来了",
+          "- What's the matter? 怎么了？",
+          "- Ow! 啊哟！（表示疼痛）",
+          "使用场景：描述事故发生经过",
+          "注意事项：注意动作的先后顺序"
+        ]
+      },
+      {
+        "heading": "2. 伤情询问",
+        "children": [
+          "核心概念：如何询问和描述伤情",
+          "常用表达：",
+          "- Have you hurt yourself? 你摔伤了没有？",
+          "- I think I've hurt my back 我想我把背摔伤了",
+          "- Can you stand up? 你能站起来吗？",
+          "使用场景：询问伤者状况",
+          "注意事项：注意表达的关切和同情"
+        ]
+      },
+      {
+        "heading": "3. 寻求帮助",
+        "children": [
+          "核心概念：如何寻求和提供帮助",
+          "常用表达：",
+          "- Let me help you 让我帮你",
+          "- I'll telephone Dr Carter 我去给卡特医生打电话",
+          "- The doctor says he will come at once 医生说他马上就来",
+          "使用场景：寻求医疗帮助时",
+          "注意事项：注意表达的紧迫性"
+        ]
+      },
+      {
+        "heading": "4. 医疗建议",
+        "children": [
+          "核心概念：如何给出和接受医疗建议",
+          "常用表达：",
+          "- I think that the doctor had better see you 我想最好请医生来给你看看",
+          "- I'm sure that you need an X-ray 我看你需要做个X光透视",
+          "- I'm afraid that I can't get up 恐怕我站不起来",
+          "使用场景：提出医疗建议时",
+          "注意事项：注意表达的委婉性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在完成时的使用",
+        "children": [
+          "1. 表示结果：Have you hurt yourself?",
+          "2. 表示近期发生：I've hurt my back",
+          "3. 与一般过去时的区别",
+          "4. 疑问句和否定句的构成"
+        ]
+      },
+      {
+        "heading": "2. 情态动词的使用",
+        "children": [
+          "1. had better的用法：had better see you",
+          "2. can/cannot的用法：I can't get up",
+          "3. will的用法：will come at once",
+          "4. 情态动词的否定形式"
+        ]
+      },
+      {
+        "heading": "3. that从句的使用",
+        "children": [
+          "1. 表示想法：I think that...",
+          "2. 表示确信：I'm sure that...",
+          "3. 表示担心：I'm afraid that...",
+          "4. that的省略"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 意外相关词汇",
+        "children": [
+          "slip v. 滑倒：",
+          "- slip and fall 滑倒",
+          "- slip on ice 在冰上滑倒",
+          "fall v. 跌倒：",
+          "- fall downstairs 从楼梯上摔下来",
+          "- fall down 跌倒"
+        ]
+      },
+      {
+        "heading": "2. 医疗词汇",
+        "children": [
+          "hurt v. 受伤，疼痛：",
+          "- hurt oneself 伤到自己",
+          "- hurt one's back 伤到背",
+          "X-ray n. X光透视：",
+          "- need an X-ray 需要做X光",
+          "- take an X-ray 拍X光片"
+        ]
+      },
+      {
+        "heading": "3. 帮助词汇",
+        "children": [
+          "help v. 帮助：",
+          "- help someone up 帮助某人起来",
+          "- let me help 让我帮忙",
+          "at once adv. 立即：",
+          "- come at once 立即来",
+          "- do it at once 立即做"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "ow",
+        "toggle": "int.表示突然疼痛所发出之声,哎哟",
+        "isDanger": 0,
+        "phonetic": "aʊ",
+        "meaning": "interj. 哎哟"
+      },
+      {
+        "word": "oops",
+        "toggle": "int. 哎哟（表示惊讶，狼狈时所发的喊声）",
+        "isDanger": 0,
+        "phonetic": "ʊps",
+        "meaning": "interj. 啊呀"
+      },
+      {
+        "word": "slip",
+        "toggle": "vi. 犯错；滑倒；减退；滑动；失足",
+        "isDanger": 1,
+        "phonetic": "slɪp",
+        "meaning": "v. 滑倒，滑了一脚"
+      },
+      {
+        "word": "fall",
+        "toggle": "vi. 落下；变成；来临；减弱",
+        "isDanger": 1,
+        "phonetic": "fɔːl",
+        "meaning": "v. 落下，跌倒"
+      },
+      {
+        "word": "downstairs",
+        "toggle": "adv. 在楼下",
+        "isDanger": 0,
+        "phonetic": "ˌdaʊnˈsteəz",
+        "meaning": "adv. 下楼"
+      },
+      {
+        "word": "hurt",
+        "toggle": "vt. 使受伤；使疼痛；使痛心； [ 口 ] 损害",
+        "isDanger": 0,
+        "phonetic": "hɜːt",
+        "meaning": "v. 伤，伤害，疼痛"
+      },
+      {
+        "word": "back",
+        "toggle": "n. 背部；后面；靠背；足球等的后卫；书报等的末尾",
+        "isDanger": 1,
+        "phonetic": "bæk",
+        "meaning": "n. 背"
+      },
+      {
+        "word": "stand up",
+        "toggle": "起立; 竖立; 经久耐用; <非正>失约",
+        "isDanger": 0,
+        "phonetic": "ˈstænd ʌp",
+        "meaning": "v. 起立，站起来"
+      },
+      {
+        "word": "help",
+        "toggle": "vt. 帮助；治疗；促进；补救",
+        "isDanger": 1,
+        "phonetic": "help",
+        "meaning": "v. 帮助"
+      },
+      {
+        "word": "at once",
+        "toggle": "adv. 立即; 一起; 同时; 立刻",
+        "isDanger": 0,
+        "phonetic": "æt wʌns",
+        "meaning": "adv. 立即"
+      },
+      {
+        "word": "sure",
+        "toggle": "adj. 可靠的；必定的；确信的",
+        "isDanger": 1,
+        "phonetic": "ʃʊə(r)",
+        "meaning": "adj. 一定的，确信的"
+      },
+      {
+        "word": "x-ray",
+        "toggle": "vt. 用 X 光线检查",
+        "isDanger": 0,
+        "phonetic": "ˈeks reɪ",
+        "meaning": "n. X光透视"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

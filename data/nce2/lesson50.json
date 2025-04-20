@@ -1,0 +1,189 @@
+{
+  "id": "nce2--050",
+  "lessonNumber": "050",
+  "title": {
+    "english": "Taken for a ride",
+    "chinese": "乘车兜风"
+  },
+  "lessonInfo": "新概念英语－第2册－第050课",
+  "audioPath": "audio/nce2/050.mp3",
+  "listeningQuestion": {
+    "question": "Why did the writer prefer to stay on the bus?",
+    "translation": "作者为什么宁愿留在车上？"
+  },
+  "editorNotes": "本课讲述了一个有趣的乘车经历。作者在乡间旅行时迷了路，售票员承诺告诉他下车地点，却忘记提醒他下车。当作者发现自己成了车上唯一的乘客时，售票员表示要返回，作者则选择继续留在车上。在语法方面，重点介绍了表示习惯性动作的动词用法，以及一些常见词汇的区别，如lose、loose和miss，以及expect和wait for的区别。文章还涉及了一些重要的词汇用法，如ride、excursion、conductor和view等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I love travelling in the country, but I don't like losing my way.",
+      "I went on an excursion recently, but my trip took me longer than I expected.",
+      "'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.'",
+      "'I'll tell you where to get off.' answered the conductor.",
+      "I sat in the front of the bus to get a good view of the countryside.",
+      "After some time, the bus stopped.",
+      "Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "'You'll have to get off here,' the conductor said. 'This is as far as we go.'",
+      "'Is this Woodford Green?' I asked.",
+      "'Oh dear,' said the conductor suddenly. 'I forgot to put you off.'",
+      "'It doesn't matter,' I said. 'I'll get off here.'",
+      "'We're going back now,' said the conductor.",
+      "'Well, in that case, I prefer to stay on the bus,' I answered."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我喜欢在乡间旅行，但却不愿意迷路。",
+      "最近我作了一次短途旅行，但这次旅行所花费的时间比我预计的要长。",
+      "'我要去伍德福德草地，'我一上车就对售票员说，'但我不知道它在哪儿。'",
+      "'我来告诉您在哪儿下车，'售票员回答说。",
+      "我坐在汽车的前部，以便饱览农村风光。",
+      "过了一些时候，车停了。",
+      "我环视了一下身旁，惊奇地发现车里就只剩我一个乘客了。",
+      "'您得在这里下车，'售票员说，'我们的车就到此为止了。'",
+      "'这里是伍德福德草地吗？'我问道。",
+      "'哎呀，'售票员突然说，'我忘了让您下车了。'",
+      "'没关系，'我说，'我就在这儿下吧。'",
+      "'我们现在要返回去，'售票员说。",
+      "'好吧，既然如此，我还是留在车上吧。'我回答说。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "表示习惯性动作的动词",
+        "content": [
+          "表示状态、感觉、情绪、精神活动的动词常用一般现在时而不用于进行时",
+          "这类动词包括：appear, appreciate, believe, feel, forget, hear, know, like, look, notice, remember, resemble, see, think, understand, belong to, consist of, contain, desire, detest, dislike, hate, hope, love, matter, mean, mind, need, want, wish",
+          "例如：I love travelling in the country.（我喜欢在乡间旅行）"
+        ]
+      },
+      {
+        "title": "特殊疑问词+to+动词原形",
+        "content": [
+          "可用来取代宾语从句",
+          "例如：Can you tell me how to get there? = Can you tell me how I can get there?",
+          "I don't know which to choose.",
+          "I wonder when to have a meeting."
+        ]
+      },
+      {
+        "title": "as far as + 从句",
+        "content": [
+          "表示'到……程度/限度，就……的限度而言'",
+          "例如：This is as far as we go.（我们就到此为止）",
+          "This is as far as I can understand.（我只能理解到这个程度）",
+          "This is as far as I can afford.（我只能付这么多钱）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "lose one's way",
+        "translation": "迷路",
+        "context": "表示在旅行中迷失方向",
+        "example": "I don't like losing my way."
+      },
+      {
+        "phrase": "go on an excursion",
+        "translation": "作一次短距离的旅行",
+        "context": "表示进行短途旅行",
+        "example": "I went on an excursion recently."
+      },
+      {
+        "phrase": "get a good view of",
+        "translation": "欣赏……的美景",
+        "context": "表示欣赏某处的景色",
+        "example": "I sat in the front of the bus to get a good view of the countryside."
+      },
+      {
+        "phrase": "in that case",
+        "translation": "如果那样的话，既然是那样",
+        "context": "表示在某种情况下",
+        "example": "Well, in that case, I prefer to stay on the bus."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The trip took him longer than he expected. He didn't expect it to last ___.",
+        "options": [
+          "longer",
+          "as long",
+          "so long",
+          "such a long"
+        ],
+        "answer": 2,
+        "explanation": "so long = for a long time，表示'这么长时间'"
+      },
+      {
+        "question": "'Where ___ get off?' I asked. 'I'll tell you where to get off,' answered the conductor.",
+        "options": [
+          "to",
+          "for",
+          "shall I",
+          "in order to"
+        ],
+        "answer": 2,
+        "explanation": "在正式英语中，应该用'shall I'，但在日常口语中，'What to do?'这样的表达也很常见"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "This is as far as we go. We don't go ___.",
+        "answer": "any further",
+        "hint": "表示'不再继续'的短语，与'not any more'或'not any longer'意思相近"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "本课涉及几组容易混淆的词汇：1) lose（失去，丢失）、loose（松动的）和miss（错过，思念）；2) expect（预计，期盼）和wait for（等待）。expect表示等待时往往侧重人的心理而不是具体在某个地方等，而wait for主要指'等待'这个动作本身。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'lose one's way'（迷路）、'get a good view of'（欣赏美景）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "ride",
+        "toggle": "vi. 骑马；乘车；漂浮；依靠",
+        "isDanger": 1,
+        "phonetic": "raɪd",
+        "meaning": "n. 旅行"
+      },
+      {
+        "word": "excursion",
+        "toggle": "n. 短程旅行；远足；离题；偏移；游览圆",
+        "isDanger": 0,
+        "phonetic": "ɪkˈskɜːʃn",
+        "meaning": "n. 远足"
+      },
+      {
+        "word": "conductor",
+        "toggle": "n. 导体；售票员；领导者；管理人",
+        "isDanger": 0,
+        "phonetic": "kənˈdʌktə(r)",
+        "meaning": "n. 售票员"
+      },
+      {
+        "word": "view",
+        "toggle": "n. 风景；意见；视野；观察",
+        "isDanger": 0,
+        "phonetic": "vjuː",
+        "meaning": "n. 景色"
+      }
+    ]
+  }
+}

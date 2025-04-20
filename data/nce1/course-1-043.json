@@ -1,0 +1,246 @@
+{
+  "id": "nce1-043",
+  "lessonNumber": "043",
+  "title": {
+    "english": "Hurry up!",
+    "chinese": "快点！"
+  },
+  "lessonInfo": "新概念英语－第1册－第043课",
+  "audioPath": "audio/nce1/043.mp3",
+  "listeningQuestion": {
+    "question": "Where is the tea located?",
+    "translation": "听录音回答：茶叶在哪里？"
+  },
+  "editorNotes": "本课介绍了日常生活中泡茶的场景，包含位置介词的使用、物品的询问和回答，以及催促的表达方式。通过一个简单的对话，学习者可以掌握如何描述物品的位置，表达能力和意愿，以及理解英语中的紧急催促用语。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Can you make the tea, Sam?",
+      "Yes, of course I can, Penny.",
+      "Is there any water in this kettle(水壶)?",
+      "Yes, there is.",
+      "Where's the tea?",
+      "It's over there, behind the teapot.",
+      "Can you see it?",
+      "I can see the teapot, but I can't see the tea.",
+      "There it is!",
+      "It's in front of you.",
+      "Ah yes, I can see it now.",
+      "Where are the cups?",
+      "There are some in the cupboard.",
+      "Can you find them?",
+      "Yes. Here they are.",
+      "Hurry up, Sam.",
+      "The kettle's boiling."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "彭妮：你会沏茶吗，萨姆？",
+      "萨姆：会的，我当然会，彭妮。",
+      "萨姆：这水壶里有水吗？",
+      "彭妮：有水。",
+      "萨姆：茶叶在哪儿？",
+      "彭妮：就在那儿，茶壶后面。",
+      "彭妮：你看见了吗？",
+      "萨姆：茶壶我看见了，但茶叶没看到。",
+      "彭妮：那不是么！ 就在你眼前。",
+      "萨姆：噢，是啊，我现在看到了。",
+      "萨姆：茶杯在哪儿呢？",
+      "彭妮：碗橱里有几只。",
+      "彭妮：你找得到吗？",
+      "萨姆：找得到。就在这儿呢。",
+      "彭妮：快，萨姆。水开了！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 表达能力和意愿",
+        "children": [
+          "核心概念：使用can表达能力",
+          "常用表达：",
+          "- Can you...? 你能...吗？",
+          "- Yes, of course I can. 是的，我当然能。",
+          "- I can see... 我能看见...",
+          "使用场景：",
+          "- 询问他人能力、表达自己的能力、礼貌请求",
+          "注意事项：",
+          "- 语气友好、表达得体、答复方式"
+        ]
+      },
+      {
+        "heading": "2. 位置介词的使用",
+        "children": [
+          "核心概念：描述物品位置的介词",
+          "常用表达：",
+          "- in front of 在...前面",
+          "- behind 在...后面",
+          "- over there 在那边",
+          "使用场景：",
+          "- 指示方位、描述位置、寻找物品",
+          "注意事项：",
+          "- 介词搭配、空间关系、使用场合"
+        ]
+      },
+      {
+        "heading": "3. 催促表达",
+        "children": [
+          "核心概念：表达紧急和催促",
+          "常用表达：",
+          "- Hurry up! 快点！",
+          "- The kettle's boiling! 水开了！",
+          "使用场景：",
+          "- 紧急情况、时间紧迫、提醒他人",
+          "注意事项：",
+          "- 语气强度、使用场合、礼貌程度"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. can的用法",
+        "children": [
+          "1. 表示能力：Can you make tea? 你会泡茶吗？",
+          "2. 表示请求：Can you find them? 你能找到它们吗？",
+          "3. 表示可能性：I can see it now. 我现在能看见它了。",
+          "4. 否定形式：I can't see the tea. 我看不到茶叶。"
+        ]
+      },
+      {
+        "heading": "2. there be句型",
+        "children": [
+          "1. 肯定句：There is/are...",
+          "2. 疑问句：Is there...?/Are there...?",
+          "3. 就近原则：就近一致",
+          "4. 常见用法：表示存在"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 茶具类词汇",
+        "children": [
+          "kettle n. 水壶：",
+          "- a kettle of water 一壶水",
+          "- electric kettle 电水壶",
+          "teapot n. 茶壶：",
+          "- a teapot of tea 一壶茶",
+          "- china teapot 瓷茶壶"
+        ]
+      },
+      {
+        "heading": "2. 位置词汇",
+        "children": [
+          "behind prep. 在...后面：",
+          "- behind the teapot 在茶壶后面",
+          "- behind the house 在房子后面",
+          "in front of prep. 在...前面：",
+          "- in front of you 在你前面",
+          "- in front of the building 在建筑物前面"
+        ]
+      },
+      {
+        "heading": "3. 动作词汇",
+        "children": [
+          "boil v. 煮沸，沸腾：",
+          "- The water is boiling. 水在沸腾。",
+          "- boil an egg 煮鸡蛋",
+          "hurry up 快点：",
+          "- Hurry up! We're late! 快点！我们要迟到了！",
+          "- Don't hurry. Take your time. 别急，慢慢来。"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "of course",
+        "toggle": "当然，自然; 敢情; 自是; 理当",
+        "isDanger": 0,
+        "phonetic": "ɒv kɔːs",
+        "meaning": "adv. 当然"
+      },
+      {
+        "word": "kettle",
+        "toggle": "n. 壶；罐；鼓；釜",
+        "isDanger": 0,
+        "phonetic": "ˈket(ə)l",
+        "meaning": "n. 水壶"
+      },
+      {
+        "word": "teapot",
+        "toggle": "n. 茶壶",
+        "isDanger": 0,
+        "phonetic": "ˈtiːpɒt",
+        "meaning": "n. 茶壶"
+      },
+      {
+        "word": "behind",
+        "toggle": "prep. 支持；落后于；晚于",
+        "isDanger": 1,
+        "phonetic": "bɪˈhaɪnd",
+        "meaning": "prep. 在…后面"
+      },
+      {
+        "word": "now",
+        "toggle": "adv. 现在；立刻；如今",
+        "isDanger": 1,
+        "phonetic": "naʊ",
+        "meaning": "adv. 现在，此刻"
+      },
+      {
+        "word": "find",
+        "toggle": "vt. 发现；认为；感到；获得",
+        "isDanger": 0,
+        "phonetic": "faɪnd",
+        "meaning": "v. 找到"
+      },
+      {
+        "word": "boil",
+        "toggle": "vi. 煮沸，沸腾；激动，激昂",
+        "isDanger": 1,
+        "phonetic": "bɔɪl",
+        "meaning": "v. 沸腾，开"
+      },
+      {
+        "word": "look for",
+        "toggle": "寻找（某人或某物）; <口>找（麻烦）; 找（苦头）吃; 希望得到",
+        "isDanger": 0,
+        "phonetic": "ˈlʊk fɔː(r)",
+        "meaning": "v. 寻找"
+      },
+      {
+        "word": "oil",
+        "toggle": "n. 油；石油；油画颜料",
+        "isDanger": 0,
+        "phonetic": "ɔɪl",
+        "meaning": "n. 油"
+      },
+      {
+        "word": "pot",
+        "toggle": "n. 罐；壶；盆",
+        "isDanger": 0,
+        "phonetic": "pɒt",
+        "meaning": "n. 锅"
+      },
+      {
+        "word": "hot pot",
+        "toggle": "火锅",
+        "isDanger": 0,
+        "phonetic": "hɒt pɒt",
+        "meaning": "n. 火锅"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

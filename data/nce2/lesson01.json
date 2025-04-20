@@ -1,0 +1,253 @@
+{
+  "id": "nce2--001",
+  "lessonNumber": "001",
+  "title": {
+    "english": "A private conversation",
+    "chinese": "私人谈话"
+  },
+  "lessonInfo": "新概念英语－第2册－第001课",
+  "audioPath": "audio/nce2/001.mp3",
+  "listeningQuestion": {
+    "question": "Why couldn't the writer enjoy the play?",
+    "translation": "为什么作者无法欣赏这场戏？"
+  },
+  "editorNotes": "本课讲述了一个关于剧院观剧经历的故事。作者在剧院观看演出时，因为后排一对年轻男女大声交谈而无法欣赏演出。作者多次尝试通过眼神和言语制止他们，但对方却以'这是私人谈话'为由拒绝配合。在语法方面，重点介绍了简单陈述句的语序、动词go的用法、以及一些常用词汇如private、conversation、bear等的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Last week I went to the theatre.",
+      "I had a very good seat.",
+      "The play was very interesting.",
+      "I did not enjoy it.",
+      "A young man and a young woman were sitting behind me.",
+      "They were talking loudly.",
+      "I got very angry.",
+      "I could not hear the actors.",
+      "I turned round.",
+      "I looked at the man and the woman angrily.",
+      "They did not pay any attention.",
+      "In the end, I could not bear it.",
+      "I turned round again.",
+      "\"I can't hear a word!\" I said angrily.",
+      "\"It's none of your business,\" the young man said rudely.",
+      "\"This is a private conversation!\""
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "上星期我去看戏。",
+      "我的座位很好。",
+      "戏很有意思。",
+      "但我却无法欣赏。",
+      "一青年男子与一青年女子坐在我的身后。",
+      "他们大声地说着话。",
+      "我非常生气。",
+      "我听不见演员在说什么。",
+      "我回过头去。",
+      "我怒视着那一男一女。",
+      "他们却毫不理会。",
+      "最后，我忍不住了。",
+      "我又一次回过头去。",
+      "\"我一个字也听不见了！\"我生气地说。",
+      "\"不关你的事，\"那男的毫不客气地说。",
+      "\"这是私人间的谈话！\""
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "简单陈述句的语序",
+        "content": [
+          "英语简单陈述句的基本语序为：主语 + 谓语 + 宾语 + 方式状语 + 地点状语 + 时间状语。",
+          "主语一般由名词、代词或名词短语构成，通常位于动词之前。",
+          "动词必须与主语一致，即主语决定动词的单复数形式。",
+          "例如：I went to the theatre last week.（我上星期去了剧院。）",
+          "例如：They were talking loudly behind me.（他们在我身后大声交谈。）"
+        ]
+      },
+      {
+        "title": "动词go的用法",
+        "content": [
+          "动词go的原义是离开一个地方去另一个地方。",
+          "与介词to连用后，常加上主语所要去的目的来代表主语的动作目的。",
+          "go to the +地点表示去某地做某事，如go to the theatre = go to the theatre to see a play（去剧场看戏）。",
+          "例如：I went to the theatre.（我去看戏。）",
+          "例如：I went to the cinema.（我去看电影。）"
+        ]
+      },
+      {
+        "title": "bear的用法",
+        "content": [
+          "bear作为动词表示'容忍，忍受'，通常与can/could连用于疑问句及否定句中。",
+          "bear可以表示承受、支撑、承担、负担等含义。",
+          "也可以表示忍受某种情况或行为。",
+          "例如：I could not bear it.（我无法忍受。）",
+          "例如：How can you bear living in this place?（你怎么能受得了住在这个地方？）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "It's none of your business",
+        "translation": "这不关你的事",
+        "context": "当别人过分干涉自己事情时的常用表达",
+        "example": "\"It's none of your business,\" the young man said rudely.（\"不关你的事，\"那男的毫不客气地说。）"
+      },
+      {
+        "phrase": "pay attention",
+        "translation": "注意",
+        "context": "表示对某事或某人的关注",
+        "example": "They did not pay any attention.（他们毫不理会。）"
+      },
+      {
+        "phrase": "in the end",
+        "translation": "最后，终于",
+        "context": "表示一段较长的时间之后或某种努力之后",
+        "example": "In the end, I could not bear it.（最后，我忍不住了。）"
+      },
+      {
+        "phrase": "I can't hear a word",
+        "translation": "我一个字也听不见",
+        "context": "表示完全听不见对方说话时的表达方式",
+        "example": "\"I can't hear a word!\" I said angrily.（\"我一个字也听不见了！\"我生气地说。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The writer turned round. He looked at the man and the woman angrily ___.",
+        "options": [
+          "and they stopped talking",
+          "but they didn't stop talking",
+          "but they didn't notice him",
+          "but they looked at him rudely"
+        ],
+        "answer": 1,
+        "explanation": "根据课文内容，作者回头怒视那对男女，但他们并没有停止交谈。"
+      },
+      {
+        "question": "The young man and young woman were sitting behind him. He was sitting ___ them.",
+        "options": [
+          "before",
+          "above",
+          "ahead of",
+          "in front of"
+        ],
+        "answer": 3,
+        "explanation": "behind表示'在...后面'，其反义词是in front of（在...前面）。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Last week I ___ to the theatre.",
+        "answer": "went",
+        "hint": "表示过去发生的动作"
+      },
+      {
+        "sentence": "I could not ___ the actors.",
+        "answer": "hear",
+        "hint": "表示听不见"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "private和public的区别：\n\nprivate表示'私人的，私密的'，而public表示'公众的，公开的'，两者是反义词。\n- This is a private conversation!（这是私人间的谈话！）\n- This is a public place.（这是一个公共场所。）\n\nbear、stand和endure的区别：\n\n这三个词都可以表示'忍受'，但忍受的极限程度不同：bear < stand < endure。\n- I can't bear the noise.（我受不了这噪音。）\n- I can't stand his rudeness.（我无法忍受他的粗鲁。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "在英国，剧院是一种重要的文化场所，人们经常去剧院观看戏剧、音乐剧等表演。在剧院中，观众应该保持安静，尊重演员和其他观众，不应该大声交谈或发出噪音。\n\n课文中描述的情况在现实生活中并不少见。在公共场合，如剧院、电影院、图书馆等，人们应该注意自己的行为是否会影响他人。当遇到类似情况时，可以礼貌地提醒对方，但如果对方不配合，也可以寻求工作人员的帮助。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "private",
+        "toggle": "adj. 私人的；私有的；私下的",
+        "isDanger": 1,
+        "phonetic": "ˈpraɪvət",
+        "meaning": "adj. 私人的"
+      },
+      {
+        "word": "conversation",
+        "toggle": "n. 会话；交谈；社交",
+        "isDanger": 0,
+        "phonetic": "ˌkɒnvəˈseɪʃ(ə)n",
+        "meaning": "n. 谈话"
+      },
+      {
+        "word": "theatre",
+        "toggle": "n. 剧场，戏院",
+        "isDanger": 0,
+        "phonetic": "ˈθɪətə(r)",
+        "meaning": "n. 剧场，戏院"
+      },
+      {
+        "word": "seat",
+        "toggle": "n. 座位；所在地；职位",
+        "isDanger": 0,
+        "phonetic": "siːt",
+        "meaning": "n. 座位"
+      },
+      {
+        "word": "angry",
+        "toggle": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+        "isDanger": 0,
+        "phonetic": "ˈæŋɡri",
+        "meaning": "adj. 生气的"
+      },
+      {
+        "word": "attention",
+        "toggle": "n. 注意力；关心；立正！（口令）",
+        "isDanger": 0,
+        "phonetic": "əˈtenʃ(ə)n",
+        "meaning": "n. 注意"
+      },
+      {
+        "word": "angrily",
+        "toggle": "adv. 愤怒地",
+        "isDanger": 0,
+        "phonetic": "ˈæŋɡrəli",
+        "meaning": "adv. 生气地"
+      },
+      {
+        "word": "bear",
+        "toggle": "vi. 结果实；承受",
+        "isDanger": 1,
+        "phonetic": "beə(r)",
+        "meaning": "v. 容忍"
+      },
+      {
+        "word": "business",
+        "toggle": "n. 商业；生意；交易；事情",
+        "isDanger": 0,
+        "phonetic": "ˈbɪznəs",
+        "meaning": "n. 事"
+      },
+      {
+        "word": "rudely",
+        "toggle": "adv. 无礼地；粗暴地",
+        "isDanger": 0,
+        "phonetic": "ˈruːdli",
+        "meaning": "adv. 无礼地，粗鲁地"
+      },
+      {
+        "word": "play",
+        "toggle": "vt. 演奏；播放；游戏；扮演；同 … 比赛",
+        "isDanger": 1,
+        "phonetic": "pleɪ",
+        "meaning": "n. 戏"
+      }
+    ]
+  }
+}

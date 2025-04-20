@@ -1,0 +1,277 @@
+{
+  "id": "nce2--062",
+  "lessonNumber": "062",
+  "title": {
+    "english": "After the fire",
+    "chinese": "大火之后"
+  },
+  "lessonInfo": "新概念英语－第2册－第062课",
+  "audioPath": "audio/nce2/062.mp3",
+  "listeningQuestion": {
+    "question": "What did the forest authorities do after the fire was put out?",
+    "translation": "森林管理当局在大火扑灭后做了什么？"
+  },
+  "editorNotes": "本课讲述了一场森林大火后的恢复工作。文章描述了消防员与森林大火搏斗近三周才控制住火势，以及大火后森林管理当局采取的措施。文章主要使用了过去完成时和过去完成进行时，以及多个与火灾和生态恢复相关的词汇。文章还涉及了自然灾害后的生态修复主题，展示了人类应对环境挑战的努力。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
+      "A short time before, great trees had covered the countryside for miles around.",
+      "Now, smoke still rose up from the warm ground over the desolate hills.",
+      "Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.",
+      "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.",
+      "The seed was sprayed over the ground in huge quantities by aeroplanes.",
+      "The planes had been planting seed for nearly a month when it began to rain.",
+      "By then, however, in many places the grass had already taken root.",
+      "In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "消防队员们同那场森林大火搏斗了将近3个星期才最后把火势控制住。",
+      "就在不久之前，参天大树还覆盖着方圆数英里的土地。",
+      "而现在，发热的地面上仍然升腾着烟雾，弥漫在荒凉的山丘上。",
+      "冬季即将来临，这些山丘对周围的村庄具有毁灭性的威胁，因为大雨不仅会冲走土壤，而且还会引起严重的水灾。",
+      "在大火最后被扑灭后，森林管理当局订购了好几吨一种生长迅速的特殊类型的草籽。",
+      "飞机把这种草籽大量地撒播在地上。",
+      "飞机撒播近一个月后，开始下起雨来。",
+      "然而到那时，很多地方的草已经生了根。",
+      "一片片的绿草开始出现在这片烧焦的土地上，代替了多少世纪以来一直生长在那里的参天大树。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "过去完成进行时",
+        "content": [
+          "过去完成进行时的构成：had been + 现在分词",
+          "过去完成进行时用于强调某动作在过去更早的某一段时间内一直在进行，并对过去某一时刻产生结果。",
+          "过去完成进行时也可用来表示过去经常重复的动作，还可以表示根据直接或间接的证据而得出结论。",
+          "与它经常连用的表示时间的词有before，for，since，all day等。",
+          "例如：She was very tired. She had been typing letters all day.（她很累。她整天都在打信。）"
+        ]
+      },
+      {
+        "title": "过去完成时",
+        "content": [
+          "过去完成时表示在过去某一时间点之前已经完成的动作。",
+          "在包含间接引语的句子中，如果引述词是过去时态，则现在完成进行时要改为过去完成进行时。",
+          "过去完成时与过去完成进行时有时可以互换。但需要表示某个工作已经完成时，只能用过去完成时。",
+          "例如：When I arrived, they'd already put the fire out.（当我到达时，他们已经把火扑灭了。）"
+        ]
+      },
+      {
+        "title": "时间表达",
+        "content": [
+          "a short time before 和 a short time ago 都可以与段时间相连",
+          "a short time before 表示不久以前，从过去某一点时间算起，一段时间以前",
+          "a short time ago 表示过去某段时间，从现在算起，一段时间以前",
+          "for miles around 表示方圆几英里（around表示'在周围，向四周'）",
+          "例如：This is the only modern building for miles around.（这是方圆几英里内唯一的现代建筑。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "get sth. under control",
+        "translation": "使...得到控制",
+        "context": "表示使某物处于控制之下",
+        "example": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control."
+      },
+      {
+        "phrase": "come on",
+        "translation": "来临，到来",
+        "context": "表示季节、时间等的来临",
+        "example": "Winter was coming on and the hills threatened the surrounding villages with destruction."
+      },
+      {
+        "phrase": "wash away",
+        "translation": "冲掉，冲走，洗掉",
+        "context": "表示被水冲走",
+        "example": "Heavy rain would not only wash away the soil but would cause serious floods as well."
+      },
+      {
+        "phrase": "in place of",
+        "translation": "替代，取代",
+        "context": "表示替代，只能指代位置、空间，原来放的东西现在不在了",
+        "example": "In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The planes ___ nearly a month to plant the seed.",
+        "options": [
+          "did",
+          "made",
+          "took",
+          "had"
+        ],
+        "answer": 2,
+        "explanation": "花费时间的表达：如果人作主语用spend；用时间表达用take。"
+      },
+      {
+        "question": "Large ___ of seed were used.",
+        "options": [
+          "weights",
+          "measures",
+          "tons",
+          "amounts"
+        ],
+        "answer": 3,
+        "explanation": "large amounts表示大量的，修饰不可数名词。"
+      },
+      {
+        "question": "Patches of green had begun to appear. There was green grass ___.",
+        "options": [
+          "everywhere",
+          "only in one or two places",
+          "in one place",
+          "here and there"
+        ],
+        "answer": 3,
+        "explanation": "here and there表示这一块，那一块，很多块，不一定是每一寸土地上都长着东西。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Now that all the great trees had been burnt, there was danger that heavy rain would cause serious floods ___ destroy the surrounding villages.",
+        "answer": "which",
+        "explanation": "which引导定语从句，修饰floods。"
+      },
+      {
+        "sentence": "To prevent this the forest authorities ordered grass-seed ___ was sprayed over the ground by planes for nearly a month.",
+        "answer": "which",
+        "explanation": "which引导定语从句，修饰grass-seed。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Control和Check的区别：\n- control：控制，指挥，支配，管理；控制（能力），支配（能力）\n- check：检查，核对，查看\n\n2. Great和Big的区别：\n- great：大的(强调重要性)，伟大的，重大的，重要的\n- big：大的(强调面积、体积、规模上的大)\n\n3. Soil和Ground的区别：\n- soil：泥土(能让植物生长的)，土，土地，土壤\n- ground：地表，地面(与土壤无关)，场地，土地"
+      },
+      {
+        "title": "文化背景",
+        "content": "森林火灾是严重的自然灾害，不仅会造成巨大的经济损失，还会破坏生态环境。火灾后的生态恢复是一个复杂的过程，通常包括控制水土流失、重新种植植被等步骤。本文描述的是一种常见的生态恢复方法——通过飞机撒播草籽来快速恢复植被，防止水土流失和洪水灾害。这种方法在大型火灾后的生态修复中经常使用，因为它可以快速覆盖大面积的土地，为后续的生态恢复创造条件。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "control",
+        "toggle": "n. 控制；管理；抑制；操纵装置",
+        "isDanger": 1,
+        "phonetic": "kənˈtrəʊl",
+        "meaning": "n. 控制"
+      },
+      {
+        "word": "smoke",
+        "toggle": "n. 烟；抽烟；无常的事物",
+        "isDanger": 0,
+        "phonetic": "sməʊk",
+        "meaning": "n. 烟"
+      },
+      {
+        "word": "desolate",
+        "toggle": "adj. 荒凉的；无人烟的",
+        "isDanger": 0,
+        "phonetic": "ˈdesələt",
+        "meaning": "adj. 荒凉的"
+      },
+      {
+        "word": "threaten",
+        "toggle": "vt. 威胁；恐吓；预示",
+        "isDanger": 1,
+        "phonetic": "ˈθret(ə)n",
+        "meaning": "v. 威胁"
+      },
+      {
+        "word": "surrounding",
+        "toggle": "adj. 周围的，附近的",
+        "isDanger": 0,
+        "phonetic": "səˈraʊndɪŋ",
+        "meaning": "adj. 周围的"
+      },
+      {
+        "word": "destruction",
+        "toggle": "n. 破坏，毁灭；摧毁",
+        "isDanger": 0,
+        "phonetic": "dɪˈstrʌkʃ(ə)n",
+        "meaning": "n. 破坏，毁灭"
+      },
+      {
+        "word": "flood",
+        "toggle": "vt. 淹没；充满；溢出",
+        "isDanger": 0,
+        "phonetic": "flʌd",
+        "meaning": "n. 洪水，水灾"
+      },
+      {
+        "word": "authority",
+        "toggle": "n. 权威；权力；当局",
+        "isDanger": 0,
+        "phonetic": "ɔːˈθɒrəti",
+        "meaning": "n. （常用复数）当局"
+      },
+      {
+        "word": "grass-seed",
+        "toggle": "n.草籽",
+        "isDanger": 0,
+        "phonetic": "'gra:s'si:d",
+        "meaning": "n. 草籽"
+      },
+      {
+        "word": "spray",
+        "toggle": "n. 水沫；喷雾；喷雾器",
+        "isDanger": 0,
+        "phonetic": "spreɪ",
+        "meaning": "v. 喷撒"
+      },
+      {
+        "word": "quantity",
+        "toggle": "n. 量，数量；总量；大量",
+        "isDanger": 0,
+        "phonetic": "ˈkwɒntəti",
+        "meaning": "n. 量"
+      },
+      {
+        "word": "root",
+        "toggle": "n. 根；根源；祖先；词根",
+        "isDanger": 1,
+        "phonetic": "ruːt",
+        "meaning": "n. 根"
+      },
+      {
+        "word": "century",
+        "toggle": "n. 世纪，百年；（板球）一百分",
+        "isDanger": 0,
+        "phonetic": "ˈsentʃəri",
+        "meaning": "n. 世纪"
+      },
+      {
+        "word": "patch",
+        "toggle": "n. 眼罩；斑点；碎片；小块土地",
+        "isDanger": 0,
+        "phonetic": "pætʃ",
+        "meaning": "n. 小片"
+      },
+      {
+        "word": "blacken",
+        "toggle": "vt. 使变黑；诽谤，诋毁",
+        "isDanger": 0,
+        "phonetic": "ˈblækən",
+        "meaning": "v. 变黑，发暗"
+      }
+    ]
+  }
+}

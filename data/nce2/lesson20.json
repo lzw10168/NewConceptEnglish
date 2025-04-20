@@ -1,0 +1,194 @@
+{
+  "id": "nce2--020",
+  "lessonNumber": "020",
+  "title": {
+    "english": "One man in a boat",
+    "chinese": "独坐孤舟"
+  },
+  "lessonInfo": "新概念英语－第2册－第020课",
+  "audioPath": "audio/nce2/020.mp3",
+  "listeningQuestion": {
+    "question": "Why does the man go fishing?",
+    "translation": "这个人为什么去钓鱼？"
+  },
+  "editorNotes": "本课讲述了一个人对钓鱼运动的独特理解，重点介绍了动名词的用法，以及interested和interesting等形容词的区别。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Fishing is my favourite sport.",
+      "I often fish for hours without catching anything.",
+      "But this does not worry me.",
+      "Some fishermen are unlucky.",
+      "Instead of catching fish, they catch old boots and rubbish.",
+      "I am even less lucky.",
+      "I never catch anything -- not even old boots.",
+      "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "'You must give up fishing!' my friends say.",
+      "'It's a waste of time.'",
+      "But they don't realize one important thing.",
+      "I'm not really interested in fishing.",
+      "I am only interested in sitting in a boat and doing nothing at all!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "钓鱼是我特别喜爱的一项运动。",
+      "我经常一钓数小时却一无所获，",
+      "但我从不为此烦恼。",
+      "有些垂钓者就是不走运，",
+      "他们往往鱼钓不到，却钓上来些旧靴子和垃圾。",
+      "我的运气甚至还不及他们。",
+      "我什么东西也未钓到过 -- 就连旧靴子也没有。",
+      "我总是在河上呆上整整一上午，然后空着袋子回家。",
+      "'你可别再钓鱼了！'我的朋友们说，",
+      "'这是浪费时间。'",
+      "然而他们没有认识到重要的一点，",
+      "我并不是真的对钓鱼有兴趣，",
+      "我感兴趣的只是独坐孤舟，无所事事！"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "fisherman",
+        "toggle": "n. 渔夫；渔人",
+        "isDanger": 0,
+        "phonetic": "ˈfɪʃəmən",
+        "meaning": "n. 钓鱼人，渔民"
+      },
+      {
+        "word": "boot",
+        "toggle": "vt. 使穿靴；引导；踢；解雇",
+        "isDanger": 1,
+        "phonetic": "buːt",
+        "meaning": "n. 靴子"
+      },
+      {
+        "word": "waste",
+        "toggle": "n. 废物；浪费；荒地；损耗；地面风化物",
+        "isDanger": 0,
+        "phonetic": "weɪst",
+        "meaning": "n. 浪费"
+      },
+      {
+        "word": "realize",
+        "toggle": "vt. 实现；了解；将某物卖得；认识到",
+        "isDanger": 1,
+        "phonetic": "ˈriːəlaɪz",
+        "meaning": "v. 意识到"
+      },
+      {
+        "word": "catch",
+        "toggle": "vt. 赶上；抓住；感染；了解",
+        "isDanger": 1,
+        "phonetic": "kætʃ",
+        "meaning": "v. 抓到"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "动名词的用法",
+        "content": [
+          "1. 动名词可以作主语，如：Fishing is my favourite sport",
+          "2. 动名词可以作宾语，如：I enjoy fishing",
+          "3. 动名词可以作介词宾语，如：I'm interested in fishing",
+          "4. 动名词的否定形式是在其前面加not"
+        ]
+      },
+      {
+        "title": "-ed和-ing形容词的区别",
+        "content": [
+          "1. -ed结尾的形容词常与人称主语连用，表示人的情绪、状态",
+          "2. -ing结尾的形容词常与非人称主语连用，表示事物的特征",
+          "3. 如：I am interested in fishing (人的感受)",
+          "4. 如：Fishing is interesting (事物的特征)"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "instead of",
+        "translation": "而不是",
+        "context": "表示用一个动作替代另一个动作",
+        "example": "Instead of catching fish, they catch old boots."
+      },
+      {
+        "phrase": "give up",
+        "translation": "放弃",
+        "context": "表示停止做某事",
+        "example": "You must give up fishing!"
+      },
+      {
+        "phrase": "be interested in",
+        "translation": "对...感兴趣",
+        "context": "表示对某事或某物感兴趣",
+        "example": "I'm not really interested in fishing."
+      },
+      {
+        "phrase": "waste of time",
+        "translation": "浪费时间",
+        "context": "表示某事毫无价值",
+        "example": "It's a waste of time."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What does the writer enjoy doing?",
+        "options": [
+          "Catching fish",
+          "Fishing",
+          "Doing nothing",
+          "Swimming in the river"
+        ],
+        "answer": 2,
+        "explanation": "文中最后一句说明作者只是喜欢坐在船上无所事事"
+      },
+      {
+        "question": "How does the writer feel about not catching any fish?",
+        "options": [
+          "He is worried",
+          "He is disappointed",
+          "He doesn't care",
+          "He is angry"
+        ],
+        "answer": 2,
+        "explanation": "文中说'But this does not worry me'，表明作者并不在意"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Some fishermen are unlucky. _____ of catching fish, they catch old boots.",
+        "answer": "Instead",
+        "hint": "表示'而不是'的介词短语"
+      },
+      {
+        "sentence": "My friends say fishing is a _____ of time.",
+        "answer": "waste",
+        "hint": "表示'浪费'的名词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "在英语国家，钓鱼不仅是一项运动，也是一种放松身心的休闲活动。有些人钓鱼不是为了捕获鱼，而是享受钓鱼时的宁静和独处时光。"
+      },
+      {
+        "title": "语言点拓展",
+        "content": "realize和understand的区别：realize强调'意识到'，常用于突然明白或领悟；understand强调'理解'，指对事物有清楚的认识。"
+      }
+    ]
+  }
+}

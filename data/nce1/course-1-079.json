@@ -1,0 +1,263 @@
+{
+  "id": "nce1-079",
+  "lessonNumber": "079",
+  "title": {
+    "english": "Peggy's shopping-list",
+    "chinese": "佩吉的购物清单"
+  },
+  "lessonInfo": "新概念英语－第1册－第079课",
+  "audioPath": "audio/nce1/079.mp3",
+  "listeningQuestion": {
+    "question": "What does Peggy need to buy from different shops?",
+    "translation": "佩吉需要从不同商店买什么东西？"
+  },
+  "editorNotes": "本课通过一段关于购物清单的对话，展示了日常生活中购物相关的表达。课文涉及不同类型商店、食品名称、数量表达等话题，同时介绍了表示数量的词语much、many、a lot of的用法。这些表达对于日常购物场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Tom:       What are you doing, Peggy?",
+      "Peggy:     I'm making a shopping-list, Tom.",
+      "Tom:       What do we need?",
+      "Peggy:    We need a lot of things this week.",
+      "Peggy:     I must go to the grocer's. We haven't got much tea or coffee, and we haven't got any sugar or jam.",
+      "Tom:       What about vegetables?",
+      "Peggy:     I must go to the greengrocer's. We haven't got many tomatoes, but we've got a lot of potatoes.",
+      "Peggy:    I must go to the butcher's, too. We need some meat. We haven't got any meat at all.",
+      "Tom:       Have we got any beer and wine?",
+      "Peggy:     No, we haven't. And I'm not going to get any!",
+      "Tom:       I hope that you've got some money.",
+      "Peggy:     I haven't got much.",
+      "Tom:       Well, I haven't got much either!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "汤 姆：卡罗尔，你在干什么？",
+      "卡罗尔：我在写购物单，汤姆。",
+      "汤 姆：我们都需要什么？",
+      "卡罗尔：这星期我们需要很多东西。",
+      "卡罗尔：我得去一下食品店。我们的茶叶和咖啡不多了，糖和果酱也没有了。",
+      "汤 姆：蔬菜呢？",
+      "卡罗尔：我还得到蔬菜水果店去一下。我们番茄不多了，但土豆还有不少。",
+      "卡罗尔：我还要到肉店去一下。我们需要些肉。我们一点肉也没有了。",
+      "汤 姆：我们还有啤酒和葡萄酒吗？",
+      "卡罗尔：没有了。不过，我不打算去买！",
+      "汤 姆：我希望你还有钱。",
+      "卡罗尔：我的钱不多了。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 不同商店的表达",
+        "children": [
+          "核心概念：如何表达不同类型的商店",
+          "常用表达：",
+          "- the grocer's 食品杂货店",
+          "- the greengrocer's 蔬菜水果店",
+          "- the butcher's 肉店",
+          "使用场景：描述购物地点时",
+          "注意事项：这些商店名称后面的's表示店铺，是shop的省略"
+        ]
+      },
+      {
+        "heading": "2. 数量表达",
+        "children": [
+          "核心概念：如何表达物品的数量",
+          "常用表达：",
+          "- haven't got much tea 茶不多了",
+          "- haven't got any sugar 一点糖也没有",
+          "- haven't got many tomatoes 番茄不多了",
+          "- got a lot of potatoes 土豆还有很多",
+          "使用场景：描述物品数量时",
+          "注意事项：much用于不可数名词，many用于可数名词"
+        ]
+      },
+      {
+        "heading": "3. 购物需求表达",
+        "children": [
+          "核心概念：如何表达购物需求",
+          "常用表达：",
+          "- need a lot of things 需要很多东西",
+          "- must go to... 必须去...",
+          "- I'm not going to get any 我不打算买任何",
+          "使用场景：讨论购物计划时",
+          "注意事项：注意need和must的区别使用"
+        ]
+      },
+      {
+        "heading": "4. 金钱相关表达",
+        "children": [
+          "核心概念：如何谈论金钱",
+          "常用表达：",
+          "- haven't got much money 没有多少钱",
+          "- haven't got much either 我也没有多少",
+          "使用场景：讨论购物预算时",
+          "注意事项：谈论金钱时要注意语气委婉"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 数量词的使用",
+        "children": [
+          "1. much用于不可数名词：much tea, much money",
+          "2. many用于可数名词复数：many tomatoes",
+          "3. a lot of两者都可用：a lot of potatoes/tea",
+          "4. any在否定句中的使用：haven't got any sugar"
+        ]
+      },
+      {
+        "heading": "2. 现在进行时的使用",
+        "children": [
+          "1. 表示正在进行：I'm making a list",
+          "2. be动词的变化",
+          "3. 动词+ing的形式",
+          "4. 与一般现在时的区别"
+        ]
+      },
+      {
+        "heading": "3. 情态动词must的使用",
+        "children": [
+          "1. 表示必要性：must go to...",
+          "2. 与have to的区别",
+          "3. 否定形式",
+          "4. 在购物场景中的应用"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 购物场所词汇",
+        "children": [
+          "grocer's n. 食品杂货店：",
+          "- go to the grocer's 去食品店",
+          "- buy from the grocer's 从食品店买",
+          "greengrocer's n. 蔬菜水果店：",
+          "- fresh vegetables from the greengrocer's 蔬菜店的新鲜蔬菜",
+          "butcher's n. 肉店：",
+          "- get meat from the butcher's 从肉店买肉"
+        ]
+      },
+      {
+        "heading": "2. 食品类词汇",
+        "children": [
+          "vegetables n. 蔬菜：",
+          "- fresh vegetables 新鲜蔬菜",
+          "- buy vegetables 买蔬菜",
+          "meat n. 肉：",
+          "- fresh meat 新鲜肉",
+          "- need some meat 需要一些肉"
+        ]
+      },
+      {
+        "heading": "3. 购物相关动词",
+        "children": [
+          "need v. 需要：",
+          "- need a lot of things 需要很多东西",
+          "- need some meat 需要一些肉",
+          "make v. 制作：",
+          "- make a list 列清单",
+          "- make a shopping list 写购物单"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "shopping",
+        "toggle": "n. 购物，买东西",
+        "isDanger": 0,
+        "phonetic": "ˈʃɒpɪŋ",
+        "meaning": "n. 购物"
+      },
+      {
+        "word": "list",
+        "toggle": "n. 列表；目录；清单",
+        "isDanger": 0,
+        "phonetic": "lɪst",
+        "meaning": "n. 单子"
+      },
+      {
+        "word": "vegetable",
+        "toggle": "n. 蔬菜；植物；植物人",
+        "isDanger": 0,
+        "phonetic": "ˈvedʒtəb(ə)l",
+        "meaning": "n. 蔬菜"
+      },
+      {
+        "word": "need",
+        "toggle": "n. 需要，要求；必要之物；缺乏",
+        "isDanger": 1,
+        "phonetic": "niːd",
+        "meaning": "v. 需要"
+      },
+      {
+        "word": "hope",
+        "toggle": "n. 希望；信心；期望",
+        "isDanger": 1,
+        "phonetic": "həʊp",
+        "meaning": "v. 希望"
+      },
+      {
+        "word": "thing",
+        "toggle": "n. 东西；事物；事情；情况",
+        "isDanger": 0,
+        "phonetic": "θɪŋ",
+        "meaning": "n. 事情"
+      },
+      {
+        "word": "money",
+        "toggle": "n. 钱；货币；财富",
+        "isDanger": 1,
+        "phonetic": "ˈmʌni",
+        "meaning": "n. 钱"
+      },
+      {
+        "word": "groceries",
+        "toggle": "n. 食品杂货店; 食品杂货",
+        "isDanger": 0,
+        "phonetic": "ˈɡrəʊsəriz",
+        "meaning": "n. 食品杂货"
+      },
+      {
+        "word": "fruit",
+        "toggle": "n. 水果；产物",
+        "isDanger": 0,
+        "phonetic": "fruːt",
+        "meaning": "n. 水果"
+      },
+      {
+        "word": "stationery",
+        "toggle": "n. 文具；信纸",
+        "isDanger": 0,
+        "phonetic": "ˈsteɪʃənri",
+        "meaning": "n. 文具"
+      },
+      {
+        "word": "newsagent",
+        "toggle": "n.报纸或定期刊物之经销商",
+        "isDanger": 0,
+        "phonetic": "ˈnjuːzeɪdʒənt",
+        "meaning": "n. 报刊零售人"
+      },
+      {
+        "word": "chemist",
+        "toggle": "n. 药剂师；化学家",
+        "isDanger": 0,
+        "phonetic": "ˈkemɪst",
+        "meaning": "n. 化剂师，化学家"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

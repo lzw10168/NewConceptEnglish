@@ -1,0 +1,278 @@
+{
+  "id": "nce1-063",
+  "lessonNumber": "063",
+  "title": {
+    "english": "Thank you, doctor",
+    "chinese": "谢谢您，医生"
+  },
+  "lessonInfo": "新概念英语－第1册－第063课",
+  "audioPath": "audio/nce1/063.mp3",
+  "listeningQuestion": {
+    "question": "What does the doctor say about Jimmy's condition?",
+    "translation": "听录音回答：医生是如何说明吉米的病情的？"
+  },
+  "editorNotes": "本课继续围绕看病的场景，通过医生的复诊，学习如何描述病情的好转和医嘱。重点掌握情态动词must和mustn't的用法，以及表达病情变化和医疗建议的相关表达。同时学习医疗场景中的礼貌用语。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "DOCTOR:             How's Jimmy today?",
+      "MRS WILLIAMS: He's better , thank you, doctor.",
+      "DOCTOR:             Can I see him please, Mrs Williams?",
+      "MRS WILLIAMS:       Certainly, doctor. Come upstairs.",
+      "DOCTOR:             You look very well, Jimmy. You are better now, but you mustn't get up yet. You must stay in bed for another two days.",
+      "DOCTOR:             The boy mustn't go to school yet,        Mrs Williams. And he mustn't eat rich food.",
+      "Mrs Williams:         Does he have a temperature, doctor?",
+      "Doctor:                 No, he doesn't.",
+      "MRS WILLIAMS:       Must he stay in bed?",
+      "DOCTOR:             Yes. He must remain in bed for another two days. He can get up for about two hours each day, but you must keep the room warm.",
+      "DOCTOR:             Where's Mr Williams this evening?",
+      "MRS WILLIAMS:       He's in bed, doctor. Can you see him, please? He has a bad cold, too!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "医 生：吉米今天怎么样了？",
+      "威廉斯夫人：他好些了。谢谢您，医生。",
+      "医 生：我可以看看他吗，威廉斯夫人？",
+      "威廉斯夫人：当然可以，医生。上楼吧。",
+      "医 生：你看上去很好，吉米。你现在好些了，但你还不应该起床。你必须再卧床两天。",
+      "医 生：这孩子还不能去上学，",
+      "威廉斯夫人，而且不能吃油腻的食物。",
+      "威廉斯夫人：他还发烧吗，医生？",
+      "医 生：不，他不发烧了。",
+      "威廉斯夫人：他还必须卧床吗？",
+      "医 生：是的，他还必须卧床两天。 他每天可以起来两个小时，但您必须保持房间温暖。",
+      "医 生：威廉斯先生今晚去哪儿了？",
+      "威廉斯夫人：他在床上呢，医生。 您能看看他吗？他也得了重感冒！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问病情",
+        "children": [
+          "核心概念：如何询问和描述病情变化",
+          "常用表达：",
+          "- How's Jimmy today? 吉米今天怎么样了？",
+          "- He's better now 他现在好多了",
+          "- Does he have a temperature? 他还发烧吗？",
+          "使用场景：医生询问病情时的对话",
+          "注意事项：使用比较级better表示好转"
+        ]
+      },
+      {
+        "heading": "2. 医生的建议",
+        "children": [
+          "核心概念：医生给出的医疗建议和要求",
+          "常用表达：",
+          "- You mustn't get up yet 你还不能起床",
+          "- He mustn't eat rich food 他不能吃油腻的食物",
+          "- You must keep the room warm 你必须保持房间温暖",
+          "使用场景：医生给出治疗建议时",
+          "注意事项：使用must和mustn't表达必须和禁止"
+        ]
+      },
+      {
+        "heading": "3. 礼貌用语",
+        "children": [
+          "核心概念：看病时的礼貌用语",
+          "常用表达：",
+          "- Can I see him please? 我可以看看他吗？",
+          "- Certainly, doctor 当然可以，医生",
+          "- Thank you, doctor 谢谢您，医生",
+          "使用场景：与医生交谈时的礼貌用语",
+          "注意事项：注意使用please和thank you"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. must和mustn't的用法",
+        "children": [
+          "1. must表示必须：must stay in bed",
+          "2. mustn't表示禁止：mustn't get up yet",
+          "3. 用于表达医嘱：must keep the room warm",
+          "4. 注意语气的强度：表示强制性要求"
+        ]
+      },
+      {
+        "heading": "2. 形容词比较级的使用",
+        "children": [
+          "1. better是well/good的比较级",
+          "2. 表示病情好转：He's better now",
+          "3. 可以与than连用：better than before",
+          "4. 注意比较级的语境使用"
+        ]
+      },
+      {
+        "heading": "3. 时间表达",
+        "children": [
+          "1. another two days 另外两天",
+          "2. for about two hours 大约两个小时",
+          "3. each day 每天",
+          "4. yet表示'还'：not...yet 还不..."
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 病情相关词汇",
+        "children": [
+          "better adj. 好转的：",
+          "- feel better 感觉好些了",
+          "- get better 康复",
+          "temperature n. 体温：",
+          "- have a temperature 发烧",
+          "- take one's temperature 量体温"
+        ]
+      },
+      {
+        "heading": "2. 医疗建议词汇",
+        "children": [
+          "remain v. 保持，继续：",
+          "- remain in bed 继续卧床",
+          "- remain quiet 保持安静",
+          "rich adj. 油腻的：",
+          "- rich food 油腻的食物",
+          "- avoid rich food 避免油腻的食物"
+        ]
+      },
+      {
+        "heading": "3. 时间词汇",
+        "children": [
+          "yet adv. 还：",
+          "- not...yet 还不...",
+          "- Can't get up yet 还不能起床",
+          "another adj. 另外的：",
+          "- another two days 再两天",
+          "- for another week 再一周"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "better",
+        "toggle": "n. 较好者；打赌的人（等于 bettor ）；长辈",
+        "isDanger": 1,
+        "phonetic": "ˈbetə(r)",
+        "meaning": "adj. 形容词well的比较级"
+      },
+      {
+        "word": "certainly",
+        "toggle": "adv. 当然；必定；行（用于回答）",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːt(ə)nli",
+        "meaning": "adv. 当然"
+      },
+      {
+        "word": "get up",
+        "toggle": "（使）起床; 安排; 举起; 站起来",
+        "isDanger": 0,
+        "phonetic": "ɡet ʌp",
+        "meaning": "v. 起床"
+      },
+      {
+        "word": "yet",
+        "toggle": "adv. 还；但是；已经",
+        "isDanger": 0,
+        "phonetic": "jet",
+        "meaning": "adv. 还，仍"
+      },
+      {
+        "word": "rich",
+        "toggle": "adj. 富有的；肥沃的；昂贵的",
+        "isDanger": 0,
+        "phonetic": "rɪtʃ",
+        "meaning": "adj. 油腻的"
+      },
+      {
+        "word": "food",
+        "toggle": "n. 食物；养料",
+        "isDanger": 0,
+        "phonetic": "fuːd",
+        "meaning": "n. 食物"
+      },
+      {
+        "word": "remain",
+        "toggle": "vi. 保持；依然；留下；剩余；逗留；残存",
+        "isDanger": 0,
+        "phonetic": "rɪˈmeɪn",
+        "meaning": "v. 保持，继续"
+      },
+      {
+        "word": "play",
+        "toggle": "vt. 演奏；播放；游戏；扮演；同 … 比赛",
+        "isDanger": 1,
+        "phonetic": "pleɪ",
+        "meaning": "v. 玩"
+      },
+      {
+        "word": "match",
+        "toggle": "vt. 使相配；与 … 竞争；相配；使比赛；敌得过，比得上",
+        "isDanger": 1,
+        "phonetic": "mætʃ",
+        "meaning": "n. 火柴"
+      },
+      {
+        "word": "talk",
+        "toggle": "vt. 说；谈话；讨论",
+        "isDanger": 0,
+        "phonetic": "tɔːk",
+        "meaning": "v. 谈话"
+      },
+      {
+        "word": "library",
+        "toggle": "n. 图书馆，藏书室；文库",
+        "isDanger": 0,
+        "phonetic": "ˈlaɪbrəri",
+        "meaning": "n. 图书馆"
+      },
+      {
+        "word": "drive",
+        "toggle": "vi. 开车；猛击；飞跑",
+        "isDanger": 1,
+        "phonetic": "draɪv",
+        "meaning": "v. 开车"
+      },
+      {
+        "word": "so",
+        "toggle": "adv. 如此，这么；确是如此",
+        "isDanger": 1,
+        "phonetic": "səʊ",
+        "meaning": "adv. 如此地"
+      },
+      {
+        "word": "quickly",
+        "toggle": "adv. 很快地；迅速地",
+        "isDanger": 0,
+        "phonetic": "ˈkwɪkli",
+        "meaning": "adv. 快地"
+      },
+      {
+        "word": "lean out of",
+        "toggle": "身体探出; （使）伸出",
+        "isDanger": 0,
+        "phonetic": "liːn aʊt ɒv",
+        "meaning": "v. 身体探出"
+      },
+      {
+        "word": "break",
+        "toggle": "n. 休息，中断；破裂处",
+        "isDanger": 1,
+        "phonetic": "breɪk",
+        "meaning": "v. 打破"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

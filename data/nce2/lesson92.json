@@ -1,0 +1,181 @@
+{
+  "id": "nce2--092",
+  "lessonNumber": "092",
+  "title": {
+    "english": "Asking for trouble",
+    "chinese": "自找麻烦"
+  },
+  "lessonInfo": "新概念英语－第2册－第092课",
+  "audioPath": "audio/nce2/092.mp3",
+  "listeningQuestion": {
+    "question": "Why did the man climb up the ladder?",
+    "translation": "这个人为什么要爬梯子？"
+  },
+  "editorNotes": "这篇文章讲述了一个幽默的误会事件。主人公深夜回家时发现妻子睡得太熟，无法叫醒，于是试图通过梯子爬进卧室，却被警察误认为是小偷。文章通过对话展现了主人公的机智应对和警察的幽默回应。语法重点包括情态动词、动名词和并列句的使用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "It must have been about two in the morning when I returned home.",
+      "I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.",
+      "I was almost there when a sarcastic voice below said, 'I don't think the windows need cleaning at this time of the night.'",
+      "I looked down and nearly fell off the ladder when I saw a policeman.",
+      "I immediately regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.'",
+      "'So do I,' answered the policeman in the same tone.",
+      "'Excuse my interrupting you. I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?'",
+      "'Well, I'd prefer to stay here,' I said. 'You see. I've forgotten my key.'",
+      "'Your what?' he called.",
+      "'My key,' I shouted.",
+      "Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我回到家时，肯定已是凌晨两点左右了。",
+      "我按响了门铃，试图唤醒我的妻子，但她睡得很熟。于是，我从花园的小棚里搬来了一个梯子，把它靠在墙边，开始向卧室的窗口爬去。",
+      "快要爬到窗口时，下面一个人用讽刺的口吻说：\"我看不必在夜里这个时候擦窗子吧。\"",
+      "我向下面看去。当我看清是一个警察时，差一点儿从梯子上掉下去。",
+      "我回答了他的话，但马上又后悔不该那样说，我是这样说的：\"我喜欢在夜里擦窗子。\"",
+      "\"我也是的，\"警察用同样的声调回答，",
+      "\"请原谅我打断了您。当一个人在忙着干活时，我是不愿意去打断他的，但请您跟我到警察局去一趟好吗？\"",
+      "\"可我更愿意呆在这儿，\"我说，\"您瞧，我忘带钥匙了。\"",
+      "\"什么？\"他大声问。",
+      "\"钥匙！\"我喊道。",
+      "幸运得很，这喊声惊醒了我的妻子。就在警察开始向我爬上来时，她打开了窗子。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "情态动词用法",
+        "content": [
+          "must have been (表示对过去事情的推测)",
+          "would you mind (表示请求)",
+          "I'd prefer to (表示偏好)"
+        ]
+      },
+      {
+        "title": "动名词用法",
+        "content": [
+          "need cleaning (需要被清洁)",
+          "enjoy cleaning (喜欢清洁)",
+          "regret answering (后悔回答)"
+        ]
+      },
+      {
+        "title": "并列句结构",
+        "content": [
+          "so do I (表示附和)",
+          "neither/nor + 助动词 + 主语 (表示否定附和)"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "ask for trouble",
+        "translation": "自找麻烦",
+        "context": "表示主动招惹麻烦",
+        "example": "To talk to him now is to ask for trouble"
+      },
+      {
+        "phrase": "fast asleep",
+        "translation": "熟睡",
+        "context": "表示睡得很沉",
+        "example": "she was fast asleep"
+      },
+      {
+        "phrase": "in the same tone",
+        "translation": "用同样的语气",
+        "context": "表示用相同的说话方式",
+        "example": "answered the policeman in the same tone"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why did the man try to climb into his house?",
+        "options": [
+          "Because he lost his key",
+          "Because his wife was fast asleep",
+          "Because he wanted to clean the windows",
+          "Because he was trying to escape"
+        ],
+        "answer": 1,
+        "explanation": "文中提到他试图通过门铃叫醒妻子，但她睡得太熟，所以他才选择爬梯子。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "I ___ to wake up my wife by ringing the doorbell, but she was ___ asleep.",
+        "answer": [
+          "tried",
+          "fast"
+        ],
+        "hint": "使用表示尝试的动词和表示熟睡的形容词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "这篇文章反映了英国警察的幽默感和处理方式。即使在看似可疑的情况下，警察也能保持礼貌和专业，通过幽默的方式化解尴尬。这也展示了英国人的幽默感和处事方式。"
+      },
+      {
+        "title": "相关词汇扩展",
+        "content": [
+          "sarcastic - 讽刺的",
+          "tone - 语气",
+          "ladder - 梯子",
+          "shed - 棚子",
+          "interrupt - 打断"
+        ]
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "fast",
+        "toggle": "adj. 快速的，迅速的；紧的，稳固的",
+        "isDanger": 1,
+        "phonetic": "fɑːst",
+        "meaning": "adv. 熟（睡）"
+      },
+      {
+        "word": "ladder",
+        "toggle": "n. 阶梯；梯状物；途径",
+        "isDanger": 0,
+        "phonetic": "ˈlædə(r)",
+        "meaning": "n. 梯子"
+      },
+      {
+        "word": "shed",
+        "toggle": "vt. 散发；流出；摆脱；倾吐",
+        "isDanger": 0,
+        "phonetic": "ʃed",
+        "meaning": "n. 棚子"
+      },
+      {
+        "word": "sarcastic",
+        "toggle": "adj. 挖苦的；尖刻的，辛辣的",
+        "isDanger": 0,
+        "phonetic": "sɑːˈkæstɪk",
+        "meaning": "adj. 讽刺的，讥笑的"
+      },
+      {
+        "word": "tone",
+        "toggle": "n. 音调；音色；语气；色调",
+        "isDanger": 1,
+        "phonetic": "təʊn",
+        "meaning": "n. 语气，腔调"
+      }
+    ]
+  }
+}

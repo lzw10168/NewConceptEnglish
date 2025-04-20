@@ -1,0 +1,185 @@
+{
+  "id": "nce2--096",
+  "lessonNumber": "096",
+  "title": {
+    "english": "The dead return",
+    "chinese": "亡灵归来"
+  },
+  "lessonInfo": "新概念英语－第2册－第096课",
+  "audioPath": "audio/nce2/096.mp3",
+  "listeningQuestion": {
+    "question": "What is the Festival for the Dead in Japan?",
+    "translation": "日本的亡灵节是什么？"
+  },
+  "editorNotes": "本课介绍了日本传统的亡灵节习俗。文章描述了节日的庆祝方式、特殊仪式以及人们对逝去亲人的纪念方式。语法上涉及被动语态、现在时态等结构，以及一些重要短语的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "A Festival for the Dead is held once a year in Japan.",
+      "This festival is a cheerful occasion.",
+      "On this day, the dead are said to return to their homes.",
+      "They are welcomed by the living.",
+      "The dead are expected to be hungry after their long journey.",
+      "Food is laid out for them.",
+      "Specially-made lanterns are hung outside each house.",
+      "These lanterns help the dead to find their way.",
+      "All night long, people dance and sing.",
+      "In the early morning, the food is thrown into a river or into the sea.",
+      "This food had been laid out for the dead.",
+      "It is considered unlucky for anyone living to eat it.",
+      "Some towns are near the sea.",
+      "In these towns, tiny lanterns are placed into the water.",
+      "These lanterns had been hung in the streets the night before.",
+      "This happens when the festival is over.",
+      "Thousands of lanterns slowly drift out to sea.",
+      "They guide the dead on their return journey.",
+      "The dead return to the other world.",
+      "This is a moving spectacle.",
+      "Crowds of people stand on the shore.",
+      "They watch the lanterns drifting away.",
+      "They watch until the lanterns can be seen no more."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "日本每年过一次'亡灵节'。",
+      "这个节日是个欢乐的日子。",
+      "在这一天，据说死去的人要回到他们的家里来。",
+      "活着的人则对他们表示欢迎。",
+      "人们预料到亡灵在长途旅行后会感到饥饿。",
+      "所以为他们摆放好了食品。",
+      "特制的灯笼挂在各家的门外。",
+      "这些灯笼帮助亡灵看清道路。",
+      "整个夜晚人们载歌载舞。",
+      "一大早，人们便把食品扔进河中或海里。",
+      "这些食品是为死者摆放的。",
+      "因为人们认为活着的人吃了这些东西是不吉利的。",
+      "有些城镇靠近海边。",
+      "在这些城镇中，小灯笼被放入水中。",
+      "这些小灯笼头天夜里挂在大街小巷。",
+      "这是在节日结束后进行的。",
+      "成千上万只灯笼慢慢漂向大海。",
+      "它们指引着亡灵返回。",
+      "亡灵返回另一个世界。",
+      "这是一个感人的场面。",
+      "人们成群地伫立在海岸上。",
+      "他们注视着灯笼远去。",
+      "他们一直注视着，直到再也看不见为止。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "被动语态",
+        "content": [
+          "本课使用被动语态描述节日的庆祝活动。",
+          "例如：is held, are hung, is thrown等。",
+          "被动语态强调动作的承受者。"
+        ]
+      },
+      {
+        "title": "定冠词+形容词",
+        "content": [
+          "使用'the dead'和'the living'表示某类人。",
+          "这种结构在英语中常用于表示具有某种特征的一类人。",
+          "例如：the rich（富人）, the poor（穷人）等。"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "lay out",
+        "translation": "摆放，展示",
+        "context": "用于描述物品的摆放或展示",
+        "example": "Food is laid out for them."
+      },
+      {
+        "phrase": "all night long",
+        "translation": "整夜",
+        "context": "表示持续整个夜晚",
+        "example": "All night long, people dance and sing."
+      },
+      {
+        "phrase": "drift out",
+        "translation": "漂向",
+        "context": "用于描述物体随水流漂动的状态",
+        "example": "Thousands of lanterns slowly drift out to sea."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What happens to the food laid out for the dead?",
+        "options": [
+          "It is eaten by the living",
+          "It is thrown into a river or sea",
+          "It is kept for the next year",
+          "It is burned"
+        ],
+        "answer": 1,
+        "explanation": "文中提到这些食物在第二天早上被扔进河里或海里，因为活着的人吃这些食物被认为是不吉利的。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The lanterns are hung outside each house to help the dead to ___ their way.",
+        "answer": "find",
+        "hint": "表示寻找、发现"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "日本传统文化",
+        "content": "本课介绍了日本传统的亡灵节习俗，这是日本重要的传统文化节日之一。这个节日不仅体现了日本人对逝去亲人的思念之情，也展示了日本独特的文化传统。通过放灯笼、摆放食物等仪式，人们表达了对逝者的尊重和怀念。这种传统习俗也反映了日本人对生死观的独特理解。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "festival",
+        "toggle": "n. 节日；庆祝，纪念活动；欢乐",
+        "isDanger": 0,
+        "phonetic": "ˈfestɪvl",
+        "meaning": "n. 节日"
+      },
+      {
+        "word": "lantern",
+        "toggle": "n. 灯笼；提灯；灯笼式天窗",
+        "isDanger": 0,
+        "phonetic": "ˈlæntən",
+        "meaning": "n. 灯笼"
+      },
+      {
+        "word": "spectacle",
+        "toggle": "n. 景象，奇观；眼镜；引人羡慕的人",
+        "isDanger": 0,
+        "phonetic": "ˈspektək(ə)l",
+        "meaning": "n. 景象，壮观，场面"
+      },
+      {
+        "word": "drift",
+        "toggle": "n. 漂流，漂移；漂流物；趋势",
+        "isDanger": 1,
+        "phonetic": "drɪft",
+        "meaning": "v. 漂流"
+      },
+      {
+        "word": "guide",
+        "toggle": "n. 指南；向导；入门书",
+        "isDanger": 0,
+        "phonetic": "ɡaɪd",
+        "meaning": "v. 带领"
+      }
+    ]
+  }
+}

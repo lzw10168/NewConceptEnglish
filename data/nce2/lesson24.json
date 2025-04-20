@@ -1,0 +1,209 @@
+{
+  "id": "nce2--024",
+  "lessonNumber": "024",
+  "title": {
+    "english": "It could be worse",
+    "chinese": "情况可能更糟"
+  },
+  "lessonInfo": "新概念英语－第2册－第024课",
+  "audioPath": "audio/nce2/024.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the money the writer lost?",
+    "translation": "作者丢失的钱最后怎么样了？"
+  },
+  "editorNotes": "本课讲述了一个关于丢失和找回钱的故事，重点介绍了manager、upset、sympathetic等词的用法，以及表示'丢失'的多种表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I entered the hotel manager's office and sat down.",
+      "I had just lost $50 and I felt very upset.",
+      "'I left the money in my room,' I said, 'and it's not there now.'",
+      "The manager was sympathetic, but he could do nothing.",
+      "'Everyone's losing money these days,' he said.",
+      "He started to complain about this wicked world but was interrupted by a knock at the door.",
+      "A girl came in and put an envelope on his desk.",
+      "It contained $50.",
+      "'I found this outside this gentleman's room,' she said.",
+      "'Well,' I said to the manager, 'there is still some honesty in this world!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我走进饭店经理的办公室，坐了下来。",
+      "我刚刚丢了50英镑，感到非常烦恼。",
+      "'我把钱放在房间里，'我说，'可现在没有了。'",
+      "经理深表同情，但却无能为力。",
+      "'现在大家都在丢钱，'他说。",
+      "他开始抱怨起这个邪恶的世道来，却被一阵敲门声打断了。",
+      "一个姑娘走了进来，把一个信封放在了他桌上。",
+      "它里面装着50英镑。",
+      "'这是我在这位先生的房门外捡到的，'她说。",
+      "'是啊，'我对那位经理说，'这世界上还是有诚实可言的！'"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "manager",
+        "toggle": "n. 经理；管理人员",
+        "isDanger": 0,
+        "phonetic": "ˈmænɪdʒə(r)",
+        "meaning": "n. 经理"
+      },
+      {
+        "word": "upset",
+        "toggle": "vt. 颠覆；扰乱；使心烦",
+        "isDanger": 0,
+        "phonetic": "ˌʌpˈset",
+        "meaning": "adj. 不安"
+      },
+      {
+        "word": "sympathetic",
+        "toggle": "adj. 同情的；赞同的；和谐的；合意的； [ 物 ] 共鸣的； [ 解 ] 交感神经的",
+        "isDanger": 1,
+        "phonetic": "ˌsɪmpəˈθetɪk",
+        "meaning": "adj. 表示同情的"
+      },
+      {
+        "word": "complain",
+        "toggle": "vi. 发牢骚；投诉；诉说",
+        "isDanger": 1,
+        "phonetic": "kəmˈpleɪn",
+        "meaning": "v. 抱怨"
+      },
+      {
+        "word": "wicked",
+        "toggle": "adj. 邪恶的；顽皮的；恶劣的；不道德的",
+        "isDanger": 0,
+        "phonetic": "ˈwɪkɪd",
+        "meaning": "adj. 很坏的，邪恶的"
+      },
+      {
+        "word": "contain",
+        "toggle": "vt. 包含；容纳；控制；牵制（敌军）",
+        "isDanger": 0,
+        "phonetic": "kənˈteɪn",
+        "meaning": "v. 包含，内装"
+      },
+      {
+        "word": "honesty",
+        "toggle": "n. 诚实，正直",
+        "isDanger": 0,
+        "phonetic": "ˈɒnəsti",
+        "meaning": "n. 诚实"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "名词修饰名词",
+        "content": [
+          "1. 名词可以直接修饰名词，如：the hotel manager's office",
+          "2. 其他例子：telephone number（电话号码）, village fair（乡村集市）",
+          "3. the fair of the village = the fair in the village"
+        ]
+      },
+      {
+        "title": "feel + 形容词",
+        "content": [
+          "1. feel + 形容词一般指心情'觉得……，感觉到……'",
+          "2. feel upset 表示'心烦意乱，很苦恼'",
+          "3. 类似用法：feel happy, feel sad, feel excited"
+        ]
+      },
+      {
+        "title": "表示'丢失'的多种表达",
+        "content": [
+          "1. lose sth. / sth. be lost - 丢失（一般用于物品）",
+          "2. sth. is missing - 丢失的（可用于人和物）",
+          "3. sth. is gone - 不见了",
+          "4. sth./sb. disappear/disappeared - 消失了"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "could do nothing",
+        "translation": "无能为力",
+        "context": "表示对某事无法采取任何行动",
+        "example": "The manager was sympathetic, but he could do nothing."
+      },
+      {
+        "phrase": "these days",
+        "translation": "现今，如今",
+        "context": "指现在这个时期",
+        "example": "Everyone's losing money these days."
+      },
+      {
+        "phrase": "start to do / start doing",
+        "translation": "开始做某事",
+        "context": "两种形式意义相同",
+        "example": "He started to complain about this wicked world."
+      },
+      {
+        "phrase": "a knock at the door",
+        "translation": "敲门声",
+        "context": "表示敲门的声音，而knock at the door表示敲门的动作",
+        "example": "He was interrupted by a knock at the door."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What could the manager do about the lost money?",
+        "options": [
+          "He could find it",
+          "He could replace it",
+          "He could do nothing",
+          "He could call the police"
+        ],
+        "answer": 2,
+        "explanation": "文中明确说'The manager was sympathetic, but he could do nothing.'"
+      },
+      {
+        "question": "Where did the girl find the money?",
+        "options": [
+          "Outside the room",
+          "Inside the room",
+          "On the desk",
+          "In the envelope"
+        ],
+        "answer": 0,
+        "explanation": "文中说'I found this outside this gentleman's room.'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The manager was _____ but he could do nothing.",
+        "answer": "sympathetic",
+        "hint": "表示'同情的'的形容词"
+      },
+      {
+        "sentence": "He started to _____ about this wicked world.",
+        "answer": "complain",
+        "hint": "表示'抱怨'的动词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "表示'丢失'的词语辨析",
+        "content": "1. lose/lost - 一般用于物品丢失；2. missing - 可用于人或物的失踪/丢失；3. gone - 表示不见了，更口语化；4. disappear - 表示突然消失，是瞬间动词"
+      },
+      {
+        "title": "manager, boss, head的区别",
+        "content": "manager强调管理能力，boss强调拥有权，head强调领导地位和亲密关系"
+      }
+    ]
+  }
+}

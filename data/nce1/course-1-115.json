@@ -1,0 +1,404 @@
+{
+  "id": "nce1-115",
+  "lessonNumber": "115",
+  "title": {
+    "english": "Not...",
+    "chinese": "没有..."
+  },
+  "lessonInfo": "新概念英语－第1册－第115课",
+  "audioPath": "audio/nce1/115.mp3",
+  "listeningQuestion": {
+    "question": "Where were Karol and Tom when Helen and Jim arrived?",
+    "translation": "当海伦和吉姆到达时，卡罗尔和汤姆在哪里？"
+  },
+  "editorNotes": "本课通过一个寻找朋友的有趣场景，展示了英语中表达否定和不确定的多种方式。课文重点介绍了any-, every-, some-, no-等词族的使用，以及表达推测和确认的常用句型。这些表达对于日常社交场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Helen:      Isn't there anyone at home?",
+      "Jim:        I'll knock again, Helen. Everything's very quiet. I'm sure there's no one at home.",
+      "Helen:      But that's impossible. Karol and Tom invited us to lunch. Look through the window.",
+      "Helen:      Can you see anything?",
+      "Jim:        Nothing at all.",
+      "Helen:      Let's try the back door.",
+      "Jim:        Look! Everyone's in the garden.",
+      "Pat:         Hello, Helen. Hullo, Jim.",
+      "Tom:       Everybody wants to have lunch in the garden. It's nice and warm out here.",
+      "Pat:         Come and have something to drink.",
+      "Jim:       Thanks, Karol . May I have a glass of bear please?",
+      "Pat:         Beer? There's none left. You can have some lemonade. (柠檬水)",
+      "Jim:        Lemonade!",
+      "Tom:       Don't believe her, Jim. She's only joking. Have some beer!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "海 伦：家里没有人吗？",
+      "吉 姆：海伦，我再敲一次。毫无动静，肯定家里没有人。",
+      "海 伦：但这是不可能的。卡罗尔和汤姆请我们来吃午饭。从窗子往里看看。",
+      "海 伦：你能看见什么吗？",
+      "吉 姆：什么也看不见。",
+      "海 伦：让我们到后门去试试。",
+      "吉 姆：瞧！大家都在花园里。",
+      "卡罗尔：你好，海伦。你好，吉姆。",
+      "汤 姆：大家都想在花园里吃午饭。这外面挺暖和。",
+      "卡罗尔：来喝点什么。",
+      "汤 姆：谢谢，卡罗尔。给我一杯啤酒好吗？",
+      "卡罗尔：啤酒？一点都不剩了。你可以喝点柠檬水。",
+      "吉 姆：柠檬水！",
+      "汤 姆：吉姆，别信她的。她只是在开玩笑。喝点啤酒吧！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 表达疑问和推测",
+        "children": [
+          "核心概念：如何表达疑问和推测",
+          "常用表达：",
+          "- Isn't there anyone at home? 家里没有人吗？",
+          "- I'm sure there's no one at home 我肯定家里没人",
+          "- Can you see anything? 你能看见什么吗？",
+          "使用场景：询问和推测某人或某物的存在",
+          "注意事项：注意疑问句中的否定形式使用"
+        ]
+      },
+      {
+        "heading": "2. 表达否定",
+        "children": [
+          "核心概念：多种否定表达方式",
+          "常用表达：",
+          "- Nothing at all 什么也没有",
+          "- There's none left 一点都不剩了",
+          "- Don't believe her 别信她的",
+          "使用场景：表达完全否定时",
+          "注意事项：注意否定词的强调作用"
+        ]
+      },
+      {
+        "heading": "3. 社交邀请",
+        "children": [
+          "核心概念：如何进行社交邀请和回应",
+          "常用表达：",
+          "- Come and have something to drink 来喝点什么",
+          "- May I have a glass of...? 我能喝一杯...吗？",
+          "- Have some beer! 喝点啤酒吧！",
+          "使用场景：招待客人或回应邀请时",
+          "注意事项：注意使用礼貌用语"
+        ]
+      },
+      {
+        "heading": "4. 幽默对话",
+        "children": [
+          "核心概念：如何理解和表达幽默",
+          "常用表达：",
+          "- She's only joking 她只是在开玩笑",
+          "- Don't believe her 别信她的",
+          "使用场景：活跃气氛或缓解尴尬时",
+          "注意事项：注意把握幽默的分寸"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 不定代词的用法",
+        "children": [
+          "1. any-类：anyone, anything, anywhere",
+          "2. every-类：everyone, everything, everywhere",
+          "3. some-类：someone, something, somewhere",
+          "4. no-类：no one, nothing, nowhere"
+        ]
+      },
+      {
+        "heading": "2. 否定句式",
+        "children": [
+          "1. 完全否定：nothing at all",
+          "2. 部分否定：not...any",
+          "3. 反问句：Isn't there...?",
+          "4. 双重否定：Don't...no..."
+        ]
+      },
+      {
+        "heading": "3. 情态动词may的用法",
+        "children": [
+          "1. 表示请求：May I...?",
+          "2. 表示允许：You may...",
+          "3. 表示可能性：It may...",
+          "4. 否定形式：may not"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 不定代词",
+        "children": [
+          "anyone pron. 任何人：",
+          "- Is anyone there? 有人在吗？",
+          "- not anyone 没有任何人",
+          "anything pron. 任何事物：",
+          "- Can you see anything? 你能看见什么吗？",
+          "- not anything 什么都没有"
+        ]
+      },
+      {
+        "heading": "2. 饮品相关词汇",
+        "children": [
+          "beer n. 啤酒：",
+          "- a glass of beer 一杯啤酒",
+          "- cold beer 冰啤酒",
+          "lemonade n. 柠檬水：",
+          "- fresh lemonade 新鲜柠檬水",
+          "- a bottle of lemonade 一瓶柠檬水"
+        ]
+      },
+      {
+        "heading": "3. 社交用语",
+        "children": [
+          "joke v. 开玩笑：",
+          "- only joking 只是开玩笑",
+          "- Don't joke about it 别拿这个开玩笑",
+          "believe v. 相信：",
+          "- Don't believe her 别信她的",
+          "- hard to believe 难以置信"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "anyone",
+        "toggle": "pron. 任何人；任何一个",
+        "isDanger": 0,
+        "phonetic": "ˈeniwʌn",
+        "meaning": "pron. (用于疑问句，否定式)任何人"
+      },
+      {
+        "word": "knock",
+        "toggle": "vi. 敲；敲击；打",
+        "isDanger": 0,
+        "phonetic": "nɒk",
+        "meaning": "v. 敲，打"
+      },
+      {
+        "word": "everything",
+        "toggle": "pron. 每件事物；一切事物",
+        "isDanger": 0,
+        "phonetic": "ˈevriθɪŋ",
+        "meaning": "pron. 一切事物"
+      },
+      {
+        "word": "quiet",
+        "toggle": "adj. 安静的；安定的；温顺的；不动的",
+        "isDanger": 1,
+        "phonetic": "ˈkwaɪət",
+        "meaning": "adj. 宁静的，安静的"
+      },
+      {
+        "word": "impossible",
+        "toggle": "adj. 不可能的；不可能存在的；难以忍受的；不真实的",
+        "isDanger": 0,
+        "phonetic": "ɪmˈpɒsəb(ə)l",
+        "meaning": "adj. 不可能的"
+      },
+      {
+        "word": "invite",
+        "toggle": "vt. 邀请，招待；招致",
+        "isDanger": 0,
+        "phonetic": "ɪnˈvaɪt",
+        "meaning": "adj. 邀请"
+      },
+      {
+        "word": "anything",
+        "toggle": "pron. 任何事",
+        "isDanger": 0,
+        "phonetic": "ˈeniθɪŋ",
+        "meaning": "pron. 任何东西"
+      },
+      {
+        "word": "nothing",
+        "toggle": "neg. 没什么；毫不",
+        "isDanger": 0,
+        "phonetic": "ˈnʌθɪŋ",
+        "meaning": "pron. 什么也没有"
+      },
+      {
+        "word": "lemonade",
+        "toggle": "n. 柠檬水",
+        "isDanger": 0,
+        "phonetic": "ˌleməˈneɪd",
+        "meaning": "n. 柠檬水"
+      },
+      {
+        "word": "joke",
+        "toggle": "n. 玩笑，笑话；笑柄",
+        "isDanger": 1,
+        "phonetic": "dʒəʊk",
+        "meaning": "v. 开玩笑"
+      },
+      {
+        "word": "asleep",
+        "toggle": "adj. 睡着的；麻木的；长眠的",
+        "isDanger": 0,
+        "phonetic": "əˈsliːp",
+        "meaning": "adj. 睡觉，睡着(用作表语)"
+      },
+      {
+        "word": "awake",
+        "toggle": "vi. 觉醒，意识到；醒来；被唤起",
+        "isDanger": 0,
+        "phonetic": "əˈweɪk",
+        "meaning": "adj. 醒着的"
+      },
+      {
+        "word": "alive",
+        "toggle": "adj. 活着的；活泼的；有生气的",
+        "isDanger": 0,
+        "phonetic": "əˈlaɪv",
+        "meaning": "adj. 活着的"
+      },
+      {
+        "word": "glasses",
+        "toggle": "n.眼镜",
+        "isDanger": 0,
+        "phonetic": "ˈɡlɑːsɪz",
+        "meaning": "n. 眼镜"
+      },
+      {
+        "word": "any",
+        "toggle": "adj. 任何的；所有的；丝毫",
+        "isDanger": 1,
+        "phonetic": "ˈeni",
+        "meaning": "pron. 任何一个"
+      },
+      {
+        "word": "everybody",
+        "toggle": "pron. 人人；每个人",
+        "isDanger": 0,
+        "phonetic": "ˈevribɒdi",
+        "meaning": "pron. 每个人"
+      },
+      {
+        "word": "nobody",
+        "toggle": "pron. 无人，没有人；没有任何人",
+        "isDanger": 0,
+        "phonetic": "ˈnəʊbədi",
+        "meaning": "pron. 没有人"
+      },
+      {
+        "word": "somebody",
+        "toggle": "n. 大人物；重要人物",
+        "isDanger": 0,
+        "phonetic": "ˈsʌmbədi",
+        "meaning": "pron. 某人"
+      },
+      {
+        "word": "anybody",
+        "toggle": "pron. 任何人",
+        "isDanger": 0,
+        "phonetic": "ˈenibɒdi",
+        "meaning": "pron. 任何人"
+      },
+      {
+        "word": "something",
+        "toggle": "pron. 某事；某物",
+        "isDanger": 0,
+        "phonetic": "ˈsʌmθɪŋ",
+        "meaning": "pron. 某事"
+      },
+      {
+        "word": "everywhere",
+        "toggle": "adv. 到处",
+        "isDanger": 0,
+        "phonetic": "ˈevriweə(r)",
+        "meaning": "adv. 到处"
+      },
+      {
+        "word": "nowhere",
+        "toggle": "adv. 无处；任何地方都不；毫无结果",
+        "isDanger": 0,
+        "phonetic": "ˈnəʊweə(r)",
+        "meaning": "adv. 无处"
+      },
+      {
+        "word": "somewhere",
+        "toggle": "adv. 在某处；到某处",
+        "isDanger": 0,
+        "phonetic": "ˈsʌmweə(r)",
+        "meaning": "adv. 在某处"
+      },
+      {
+        "word": "anywhere",
+        "toggle": "adv. 无论何处；在任何地方",
+        "isDanger": 0,
+        "phonetic": "ˈeniweə(r)",
+        "meaning": "adv. 在任何地方"
+      },
+      {
+        "word": "every",
+        "toggle": "adj. 每一的，每个的；每隔 … 的",
+        "isDanger": 1,
+        "phonetic": "ˈevri",
+        "meaning": "adv. 每个"
+      },
+      {
+        "word": "no",
+        "toggle": "adv. 不",
+        "isDanger": 1,
+        "phonetic": "nəʊ",
+        "meaning": "adv. 不"
+      },
+      {
+        "word": "some",
+        "toggle": "adj. 一些；大约；某一",
+        "isDanger": 1,
+        "phonetic": "sʌm",
+        "meaning": "adv. 若干"
+      },
+      {
+        "word": "everyone",
+        "toggle": "pron. 人人；每个人",
+        "isDanger": 0,
+        "phonetic": "ˈevriwʌn",
+        "meaning": "pron. 每个人"
+      },
+      {
+        "word": "no one",
+        "toggle": "n. 没有人",
+        "isDanger": 0,
+        "phonetic": "ˈnəʊ wʌn",
+        "meaning": "n. 没有人"
+      },
+      {
+        "word": "someone",
+        "toggle": "pron. 有人，某人",
+        "isDanger": 0,
+        "phonetic": "ˈsʌmwʌn",
+        "meaning": "pron. 有人"
+      },
+      {
+        "word": "door",
+        "toggle": "n. 门；家，户；门口；通道",
+        "isDanger": 0,
+        "phonetic": "dɔː(r)",
+        "meaning": "n. 门"
+      },
+      {
+        "word": "back door",
+        "toggle": "n. 后门，秘密途径",
+        "isDanger": 0,
+        "phonetic": "ˌbæk ˈdɔː(r)",
+        "meaning": "n. 后门"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "id": "nce1-041",
+  "lessonNumber": "041",
+  "title": {
+    "english": "Penny's bag",
+    "chinese": "彭妮的提包"
+  },
+  "lessonInfo": "新概念英语－第1册－第041课",
+  "audioPath": "audio/nce1/041.mp3",
+  "listeningQuestion": {
+    "question": "What items are in Penny's bag?",
+    "translation": "听录音回答：彭妮的包里有什么物品？"
+  },
+  "editorNotes": "本课重点介绍购物和日用品相关的表达，包括数量词的使用、物品的计量单位，以及日常对话中的幽默表达。通过一个简单的对话，学习者可以掌握如何描述不同物品的数量，使用适当的量词，以及理解英语中的委婉表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Is that bag heavy, Penny?",
+      "Not very.",
+      "Here!",
+      "Put it on this chair.",
+      "What's in it?",
+      "A piece of cheese.",
+      "A loaf of bread.",
+      "A bar of soap.",
+      "A bar of chocolate.",
+      "A bottle of milk.",
+      "A pound of sugar.",
+      "Half a pound of coffee.",
+      "A quarter of a pound of tea.",
+      "And a tin of tobacco.",
+      "Is that tin of tobacco for me?",
+      "Well, it's certainly not for me!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "萨姆：那个提包重吗，彭妮？",
+      "彭妮：不太重。",
+      "萨姆：放在这儿。把它放在这把椅子上。",
+      "里面是什么东西？",
+      "彭妮：一块乳酪、一块面包、一块肥皂、",
+      "一块巧克力、一瓶牛奶、一磅糖、",
+      "半磅咖啡、1/4 磅茶叶和一听烟丝。",
+      "萨姆：那听烟丝是给我的吗？",
+      "彭妮：噢，当然不会给我的！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 量词的使用",
+        "children": [
+          "核心概念：不同物品的量词搭配",
+          "常用表达：",
+          "- a piece of + 不可数名词",
+          "- a loaf of + bread",
+          "- a bar of + 块状物",
+          "- a bottle of + 液体",
+          "使用场景：",
+          "- 购物时表达数量 | 描述物品 | 日常交际",
+          "注意事项：",
+          "- 量词选择 | 搭配规则 | 使用习惯"
+        ]
+      },
+      {
+        "heading": "2. 重量单位",
+        "children": [
+          "核心概念：英制重量单位的使用",
+          "常用表达：",
+          "- a pound of...",
+          "- half a pound of...",
+          "- a quarter of a pound of...",
+          "使用场景：",
+          "- 购买食品 | 描述重量 | 日常购物",
+          "注意事项：",
+          "- 单位换算 | 分数表达 | 使用场合"
+        ]
+      },
+      {
+        "heading": "3. 礼貌用语",
+        "children": [
+          "核心概念：购物场景中的礼貌表达",
+          "常用表达：",
+          "- Is that...?",
+          "- Here!",
+          "- Put it...",
+          "使用场景：",
+          "- 询问情况 | 提供帮助 | 日常交际",
+          "注意事项：",
+          "- 语气友好 | 表达得体 | 场合适当"
+        ]
+      },
+      {
+        "heading": "4. 幽默表达",
+        "children": [
+          "核心概念：英语中的委婉和幽默表达",
+          "常用表达：",
+          "- Well, it's certainly not for...",
+          "- 反语和暗示",
+          "使用场景：",
+          "- 委婉拒绝 | 幽默回应 | 社交互动",
+          "注意事项：",
+          "- 语境理解 | 表达技巧 | 文化差异"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 可数与不可数名词",
+        "children": [
+          "不可数名词的量词搭配：",
+          "1. piece of + 不可数名词（cheese, cake等）",
+          "2. 特定量词 + of + 特定名词（loaf of bread）",
+          "3. 形状量词 + of + 物品（bar of soap/chocolate）",
+          "4. 容器量词 + of + 液体（bottle of milk）"
+        ]
+      },
+      {
+        "heading": "2. 分数表达",
+        "children": [
+          "分数量词的使用规则：",
+          "1. half/quarter + a + 单位 + of",
+          "2. 分数 + of + 单位词组",
+          "3. 分数表达中的冠词位置"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 食品类词汇",
+        "children": [
+          "cheese n. 奶酪：",
+          "- a piece of cheese 一块奶酪",
+          "- cheese sandwich 奶酪三明治",
+          "bread n. 面包：",
+          "- a loaf of bread 一条面包",
+          "- fresh bread 新鲜面包"
+        ]
+      },
+      {
+        "heading": "2. 日用品词汇",
+        "children": [
+          "soap n. 肥皂：",
+          "- a bar of soap 一块肥皂",
+          "- hand soap 洗手皂",
+          "chocolate n. 巧克力：",
+          "- a bar of chocolate 一块巧克力",
+          "- dark chocolate 黑巧克力"
+        ]
+      },
+      {
+        "heading": "3. 饮品词汇",
+        "children": [
+          "milk n. 牛奶：",
+          "- a bottle of milk 一瓶牛奶",
+          "- fresh milk 鲜牛奶",
+          "coffee n. 咖啡：",
+          "- half a pound of coffee 半磅咖啡",
+          "- instant coffee 速溶咖啡"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "cheese",
+        "toggle": "n. 奶酪；干酪； [ 美俚 ] 要人",
+        "isDanger": 0,
+        "phonetic": "tʃiːz",
+        "meaning": "n. 乳酪，干酪"
+      },
+      {
+        "word": "bread",
+        "toggle": "n. 生计；面包",
+        "isDanger": 0,
+        "phonetic": "bred",
+        "meaning": "n. 面包"
+      },
+      {
+        "word": "soap",
+        "toggle": "n. 肥皂",
+        "isDanger": 1,
+        "phonetic": "səʊp",
+        "meaning": "n. 肥皂"
+      },
+      {
+        "word": "chocolate",
+        "toggle": "n. 巧克力，巧克力糖；巧克力色",
+        "isDanger": 0,
+        "phonetic": "ˈtʃɒklət",
+        "meaning": "n. 巧克力"
+      },
+      {
+        "word": "sugar",
+        "toggle": "n. 糖；食糖；甜言蜜语",
+        "isDanger": 0,
+        "phonetic": "ˈʃʊɡə(r)",
+        "meaning": "n. 糖"
+      },
+      {
+        "word": "candy",
+        "toggle": "vt. 用糖煮；使结晶为砂糖；美化",
+        "isDanger": 0,
+        "phonetic": "ˈkændi",
+        "meaning": "n. 糖果"
+      },
+      {
+        "word": "coffee",
+        "toggle": "n. 咖啡；咖啡豆；咖啡色",
+        "isDanger": 0,
+        "phonetic": "ˈkɒfi",
+        "meaning": "n. 咖啡"
+      },
+      {
+        "word": "caffeine",
+        "toggle": "n. 咖啡因；茶精（兴奋剂）",
+        "isDanger": 0,
+        "phonetic": "ˈkæfiːn",
+        "meaning": "n. 咖啡因"
+      },
+      {
+        "word": "tea",
+        "toggle": "n. 茶叶；茶树；茶点",
+        "isDanger": 0,
+        "phonetic": "tiː",
+        "meaning": "n. 茶"
+      },
+      {
+        "word": "tobacco",
+        "toggle": "n. 烟草，烟叶；烟草制品；抽烟",
+        "isDanger": 0,
+        "phonetic": "təˈbækəʊ",
+        "meaning": "n. 烟草，烟丝"
+      },
+      {
+        "word": "cigarette",
+        "toggle": "n. 香烟；纸烟",
+        "isDanger": 0,
+        "phonetic": "ˌsɪɡəˈret",
+        "meaning": "n. 烟"
+      },
+      {
+        "word": "smoking",
+        "toggle": "n. 抽烟；冒气",
+        "isDanger": 0,
+        "phonetic": "ˈsməʊkɪŋ",
+        "meaning": "n. 吸烟"
+      },
+      {
+        "word": "loaf",
+        "toggle": "n. 块；条，一条面包；游荡",
+        "isDanger": 0,
+        "phonetic": "ləʊf",
+        "meaning": "n. 块"
+      },
+      {
+        "word": "certainly",
+        "toggle": "adv. 当然；必定；行（用于回答）",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːt(ə)nli",
+        "meaning": "adv. 当然"
+      },
+      {
+        "word": "bird",
+        "toggle": "n. 鸟；家伙；羽毛球",
+        "isDanger": 0,
+        "phonetic": "bɜːd",
+        "meaning": "n. 鸟"
+      },
+      {
+        "word": "any",
+        "toggle": "adj. 任何的；所有的；丝毫",
+        "isDanger": 1,
+        "phonetic": "ˈeni",
+        "meaning": "adv. 一些"
+      },
+      {
+        "word": "some",
+        "toggle": "adj. 一些；大约；某一",
+        "isDanger": 1,
+        "phonetic": "sʌm",
+        "meaning": "adv. 一些"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

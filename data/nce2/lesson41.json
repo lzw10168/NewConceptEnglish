@@ -1,0 +1,211 @@
+{
+  "id": "nce2--041",
+  "lessonNumber": "041",
+  "title": {
+    "english": "Do you call that a hat?",
+    "chinese": "你把那个叫帽子吗？"
+  },
+  "lessonInfo": "新概念英语－第2册－第041课",
+  "audioPath": "audio/nce2/041.mp3",
+  "listeningQuestion": {
+    "question": "Why did the writer's wife buy a hat that looked like a lighthouse?",
+    "translation": "为什么作者的妻子买了一顶像灯塔的帽子？"
+  },
+  "editorNotes": "本课讲述了一对夫妻在帽店购物的幽默故事。丈夫对妻子试戴的帽子表示不满，妻子则反击提醒他昨天买的领带。这个故事反映了夫妻间的日常互动和幽默感，同时也展示了情态动词must、have to和need的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "'Do you call that a hat?' I said to my wife.",
+      "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.",
+      "I sat down on one of those modern chairs with holes in it and waited. We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
+      "'We mustn't buy things we don't need,' I remarked suddenly. I regretted saying it almost at once.",
+      "'You needn't have said that,' my wife answered. 'I needn't remind you of that terrible tie you bought yesterday.'",
+      "'I find it beautiful,' I said. 'A man can never have too many ties.'",
+      "'And a woman can't have too many hats,' she answered.",
+      "Ten minutes later we walked out of the shop together. My wife was wearing a hat that looked like a lighthouse!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "'你把那个叫帽子吗？'我对妻子说。",
+      "'你说话没必要这样不客气，'我的妻子边回答边照着镜子。",
+      "我坐在一个新式的满是网眼儿的椅子上，等待着。我们在这家帽店已经呆了半个小时了，而我的妻子仍在镜子面前。",
+      "'我们不应该买我们不需要的东西，'我突然发表意见说，但马上又后悔说了这话。",
+      "'你没必要这么说，'我妻子回答说，'我也不必提醒你昨天买的那条糟糕透了的领带。'",
+      "'我觉得它好看，'我说，'男人有多少领带也不会嫌多。'",
+      "'女人有多少帽子也不嫌多，'她回答。",
+      "10分钟以后，我们一道走出了商店。我妻子戴着一顶像灯塔一样的帽子。"
+    ]
+  },
+  "newwords": {
+    "heading": "生词和短语",
+    "notes": [
+      {
+        "word": "rude",
+        "toggle": "adj. 粗鲁的；无礼的；狂暴的；未开化的",
+        "isDanger": 0,
+        "phonetic": "ruːd",
+        "meaning": "adj. 无礼的"
+      },
+      {
+        "word": "mirror",
+        "toggle": "n. 镜子；真实的写照；榜样",
+        "isDanger": 0,
+        "phonetic": "ˈmɪrə(r)",
+        "meaning": "n. 镜子"
+      },
+      {
+        "word": "hole",
+        "toggle": "n. 洞，孔；洞穴，穴；突破口",
+        "isDanger": 0,
+        "phonetic": "həʊl",
+        "meaning": "n. 孔"
+      },
+      {
+        "word": "remark",
+        "toggle": "n. 言辞；注意",
+        "isDanger": 1,
+        "phonetic": "rɪˈmɑːk",
+        "meaning": "v. 评说"
+      },
+      {
+        "word": "remind",
+        "toggle": "vt. 提醒；使想起",
+        "isDanger": 1,
+        "phonetic": "rɪˈmaɪnd",
+        "meaning": "v. 提醒"
+      },
+      {
+        "word": "lighthouse",
+        "toggle": "n. 灯塔",
+        "isDanger": 0,
+        "phonetic": "ˈlaɪthaʊs",
+        "meaning": "n. 灯塔"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点",
+    "notes": [
+      {
+        "title": "Must, Have (got) to 和 Need",
+        "content": "情态动词must（必须，不得不）的否定式mustn't（不能、不准），must还可用于表示推测：①对现在和将来的推测：must+动词用原形；②对正在发生的事情的推测：must be doing；③对过去的推测：must have done；④对过去正在发生的事情的推测：must have been doing。用must的一般疑问句可以用must/have to或needn't来回答，而不用mustn't。mustn't表示绝对禁止，在说话人看来，根本没选择余地。'不必要'可用needn't，don't have to来表示。"
+      },
+      {
+        "title": "needn't have done 的用法",
+        "content": "needn't have done表示原本不必做，但是做了，强调过去的动作不必做。例如：You needn't have bought it.（你原本不必买的）；You needn't have come.（你原本不必来的）。而needn't do表示现在的动作也不必做，例如：You needn't come.（你不必来）。"
+      },
+      {
+        "title": "can never...too...结构",
+        "content": "can never...too...=cannot...too...表示'无论...也不为过'。例如：A man can never have too many ties.（再多的领带对一个男人来说也不为过）；I can never thank you too much.（感激不尽）；Drinking water can never be too clean.（饮用水越干净越好）；You can't be too careful in doing your work.（你工作越小心越好）。"
+      },
+      {
+        "title": "regret的用法",
+        "content": "regret doing sth./名词/that从句表示后悔已经做了某事，表示对做过的事感到遗憾。例如：I now regret leaving my country/that I have left my country.而regret to do sth.表示对现在或将来要做的事感到对不起、遗憾，比be sorry to do sth.要正式。例如：We regret to tell you that you are not welcome.（我很遗憾地告诉您，您不受欢迎）。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语",
+    "notes": [
+      {
+        "phrase": "Do you call that + (冠词) + 名词",
+        "translation": "你把那个叫...吗？",
+        "context": "这个结构可以表达一种轻蔑的含义",
+        "example": "Do you call that a house/a dog? 你把那个叫房子/狗吗？"
+      },
+      {
+        "phrase": "be rude about sth.",
+        "translation": "对事很粗鲁",
+        "context": "表示对某事的无礼态度",
+        "example": "You needn't be so rude about it."
+      },
+      {
+        "phrase": "look at oneself in the mirror",
+        "translation": "照镜子",
+        "context": "表示在镜子中看自己",
+        "example": "My wife answered as she looked at herself in the mirror."
+      },
+      {
+        "phrase": "needn't have done",
+        "translation": "原本不必做",
+        "context": "表示过去做了不必要的事情",
+        "example": "You needn't have said that."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Do you have to buy this hat? No, I ___ . It isn't necessary.",
+        "options": [
+          "mustn't",
+          "won't",
+          "needn't",
+          "don't need"
+        ],
+        "answer": 2,
+        "explanation": "Do you have to...? 的回答可以用No, I don't...或No, I needn't。mustn't表示'不准'，而needn't表示'不必'。"
+      },
+      {
+        "question": "A man can never have too many ties. It's ___ .",
+        "options": [
+          "unable",
+          "impossible",
+          "improbable",
+          "incapable"
+        ],
+        "answer": 1,
+        "explanation": "can never = can't 不可能。impossible表示'不可能的'，而improbable表示'不太可能的'，incapable表示'无能力的'。"
+      },
+      {
+        "question": "She looked in the mirror and saw her ___ .",
+        "options": [
+          "reflection",
+          "idol",
+          "imagination",
+          "picture"
+        ],
+        "answer": 0,
+        "explanation": "reflection表示'反射，映象，倒影'，而idol表示'偶像'，imagination表示'想象'，picture表示'照片'。"
+      },
+      {
+        "question": "His wife was wearing a hat. She ___ .",
+        "options": [
+          "was dressing it",
+          "was putting it on",
+          "had it on",
+          "was carrying it"
+        ],
+        "answer": 2,
+        "explanation": "wear/dress/put on/have on都可以表示'穿'，但wear和have on强调状态，而dress和put on强调动作。have sth. on表示'穿着'，强调状态。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "I regretted saying it almost ___ once.",
+        "answer": "at",
+        "hint": "表示'几乎立即'的短语"
+      },
+      {
+        "sentence": "A man can never have ___ many ties.",
+        "answer": "too",
+        "hint": "表示'无论...也不为过'的结构"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容",
+    "notes": [
+      {
+        "title": "Remark, Observe 和 Notice 的区别",
+        "content": "remark与observe都可以表示'说，评论说'，它们比say要正式。notice和observe都可以表示'注意到，察觉到'，但notice指无意中'察觉到'；observe则可以指有意观察、仔细地看，比notice更正式。例如：He observed me carefully.（他仔细地看着我）；Did you notice how she was dressed?（你注意到她的穿戴了吗？）"
+      },
+      {
+        "title": "夫妻间的幽默互动",
+        "content": "本课中的对话展示了夫妻间的幽默互动。丈夫对妻子的购物习惯表示不满，而妻子则巧妙地反击，提醒他昨天买的领带。这种幽默的交流方式是健康婚姻关系的一部分，能够缓解日常生活中的小摩擦。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "id": "nce1-047",
+  "lessonNumber": "047",
+  "title": {
+    "english": "A cup of coffee",
+    "chinese": "一杯咖啡"
+  },
+  "lessonInfo": "新概念英语－第1册－第047课",
+  "audioPath": "audio/nce1/047.mp3",
+  "listeningQuestion": {
+    "question": "What kind of coffee does Mrs Price like?",
+    "translation": "听录音回答：Price夫人喜欢什么样的咖啡？"
+  },
+  "editorNotes": "本课展示了一个日常社交场景中的待客之道，通过简单的对话介绍了如何表达喜好、提供和接受饮品。对话中包含了多个以do开头的一般疑问句，体现了英语中礼貌待客的语言特点，对提高学习者的社交能力具有实际意义。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "MRS YOUNG:        Do you like coffee, Mrs Price?",
+      "MRS PRICE:        Yes, I do.",
+      "MRS YOUNG:        Do you want a cup?",
+      "MRS PRICE:        Yes, please. Mrs Young.",
+      "MRS YOUNG:        Do you want any sugar?",
+      "MRS PRICE:        Yes, please.",
+      "MRS YOUNG:        Do you want any milk?",
+      "MRS PRICE:        No, thank you. I don't like milk in my coffee. I like black coffee.",
+      "MRS YOUNG:       Do you like biscuits?",
+      "MRS PRICE:        Yes, I do.",
+      "MRS YOUNG:        Do you want one?",
+      "MRS PRICE:        Yes, please."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "Young：你喜欢咖啡吗，Price？",
+      "Price：是的，我喜欢。",
+      "YOUNG：你想要一杯吗？",
+      "Price：好的，请来一杯，克里斯廷。",
+      "YOUNG：你要放些糖吗？",
+      "Price：好的，请放一些。",
+      "YOUNG：要放些牛奶吗？",
+      "Price：不了，谢谢。我不喜欢咖啡中放牛奶，我喜欢黑咖啡。",
+      "YOUNG：你喜欢饼干吗？",
+      "Price：是的，我喜欢。",
+      "YOUNG：你想要一块吗？",
+      "Price：好的，请来一块。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 表达喜好",
+        "children": [
+          "核心概念：使用like表达喜好",
+          "常用表达：",
+          "- Do you like coffee? 你喜欢咖啡吗？",
+          "- Yes, I do. 是的，我喜欢。",
+          "- I like black coffee. 我喜欢黑咖啡。",
+          "使用场景：",
+          "- 询问喜好、表达个人偏好、回应询问",
+          "注意事项：",
+          "- 语气友好、回答方式、表达准确"
+        ]
+      },
+      {
+        "heading": "2. 提供饮品",
+        "children": [
+          "核心概念：礼貌地提供饮品",
+          "常用表达：",
+          "- Do you want a cup? 你想要一杯吗？",
+          "- Do you want any sugar? 要加糖吗？",
+          "- Yes, please. 好的，请加一些。",
+          "使用场景：",
+          "- 提供饮品、询问需求、表达感谢",
+          "注意事项：",
+          "- 礼貌用语、询问方式、回应态度"
+        ]
+      },
+      {
+        "heading": "3. 拒绝和说明原因",
+        "children": [
+          "核心概念：礼貌地拒绝并说明原因",
+          "常用表达：",
+          "- No, thank you. 不用了，谢谢。",
+          "- I don't like milk in my coffee. 我不喜欢咖啡里加牛奶。",
+          "使用场景：",
+          "- 婉拒提议、解释原因、表达偏好",
+          "注意事项：",
+          "- 委婉表达、说明理由、保持礼貌"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般疑问句",
+        "children": [
+          "1. Do you...? 的基本用法",
+          "2. 肯定回答：Yes, I do.",
+          "3. 否定回答：No, I don't.",
+          "4. 常见搭配：Do you like/want/need...?"
+        ]
+      },
+      {
+        "heading": "2. any的用法",
+        "children": [
+          "1. 疑问句中表示'一些'：Do you want any sugar?",
+          "2. 否定句中的用法：I don't want any milk.",
+          "3. 与可数/不可数名词搭配",
+          "4. 表示任何一个/些的用法"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 饮品词汇",
+        "children": [
+          "coffee n. 咖啡：",
+          "- black coffee 黑咖啡",
+          "- a cup of coffee 一杯咖啡",
+          "milk n. 牛奶：",
+          "- fresh milk 鲜牛奶",
+          "- milk in coffee 咖啡加奶"
+        ]
+      },
+      {
+        "heading": "2. 食品词汇",
+        "children": [
+          "sugar n. 糖：",
+          "- sugar in coffee 咖啡加糖",
+          "- a spoon of sugar 一勺糖",
+          "biscuit n. 饼干：",
+          "- sweet biscuits 甜饼干",
+          "- chocolate biscuits 巧克力饼干"
+        ]
+      },
+      {
+        "heading": "3. 动词词组",
+        "children": [
+          "like v. 喜欢：",
+          "- like coffee 喜欢咖啡",
+          "- don't like 不喜欢",
+          "want v. 想要：",
+          "- want a cup 想要一杯",
+          "- want some sugar 想要一些糖"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "like",
+        "toggle": "vt. 喜欢；愿意；想",
+        "isDanger": 1,
+        "phonetic": "laɪk",
+        "meaning": "v. 喜欢，想要"
+      },
+      {
+        "word": "want",
+        "toggle": "vt. 需要；缺少；应该；希望",
+        "isDanger": 1,
+        "phonetic": "wɒnt",
+        "meaning": "v. 想"
+      },
+      {
+        "word": "fresh",
+        "toggle": "adj. 新鲜的；无经验的；淡水的；清新的",
+        "isDanger": 1,
+        "phonetic": "freʃ",
+        "meaning": "adj. 新鲜的"
+      },
+      {
+        "word": "egg",
+        "toggle": "n. 蛋；卵子； [ 俚 ] 家伙",
+        "isDanger": 0,
+        "phonetic": "eɡ",
+        "meaning": "n. 鸡蛋"
+      },
+      {
+        "word": "butter",
+        "toggle": "vt. 涂黄油于； [ 口 ] 讨好",
+        "isDanger": 0,
+        "phonetic": "ˈbʌtə(r)",
+        "meaning": "n. 黄油"
+      },
+      {
+        "word": "pure",
+        "toggle": "adj. 纯的；纯洁的；清白的；纯粹的；纯理论的",
+        "isDanger": 0,
+        "phonetic": "pjʊə(r)",
+        "meaning": "adj. 纯净的"
+      },
+      {
+        "word": "honey",
+        "toggle": "n. 蜂蜜；甜蜜；宝贝",
+        "isDanger": 0,
+        "phonetic": "ˈhʌni",
+        "meaning": "n. 蜂蜜"
+      },
+      {
+        "word": "ripe",
+        "toggle": "adj. 熟的，成熟的；时机成熟的",
+        "isDanger": 1,
+        "phonetic": "raɪp",
+        "meaning": "adj. 成熟的"
+      },
+      {
+        "word": "banana",
+        "toggle": "n. 香蕉；喜剧演员；大鹰钩鼻",
+        "isDanger": 0,
+        "phonetic": "bəˈnɑːnə",
+        "meaning": "n. 香蕉"
+      },
+      {
+        "word": "jam",
+        "toggle": "n. 果酱；拥挤；困境； [ 篮球 ] 扣篮； vt. 使堵塞；挤进，使塞满；混杂；压碎； vi. 堵塞；轧住",
+        "isDanger": 0,
+        "phonetic": "dʒæm",
+        "meaning": "n. 果酱"
+      },
+      {
+        "word": "sweet",
+        "toggle": "adj. 甜的；悦耳的；芳香的；亲切的； n. 糖果；乐趣；芳香；宝贝；（俚）酷毙了",
+        "isDanger": 0,
+        "phonetic": "swiːt",
+        "meaning": "adj. 甜的"
+      },
+      {
+        "word": "orange",
+        "toggle": "adj. 橘色的；橙色的",
+        "isDanger": 0,
+        "phonetic": "ˈɒrɪndʒ",
+        "meaning": "n. 橙"
+      },
+      {
+        "word": "scotch whisky",
+        "toggle": "n. 苏格兰威士忌酒",
+        "isDanger": 0,
+        "phonetic": "skɒtʃ ˈwɪski",
+        "meaning": "n. 苏格兰威士忌"
+      },
+      {
+        "word": "Scotch",
+        "toggle": "vi. 弄伤；制止转动；扑灭；镇压",
+        "isDanger": 0,
+        "phonetic": "skɒtʃ",
+        "meaning": "n. 苏格兰"
+      },
+      {
+        "word": "whisky",
+        "toggle": "n. 威士忌酒",
+        "isDanger": 0,
+        "phonetic": "ˈwɪski",
+        "meaning": "n. 威士忌"
+      },
+      {
+        "word": "choice",
+        "toggle": "n. 选择；选择权；精选品",
+        "isDanger": 0,
+        "phonetic": "tʃɔɪs",
+        "meaning": "adj. 上等的，精选的"
+      },
+      {
+        "word": "apple",
+        "toggle": "n. 苹果； [ 俚 ] 家伙",
+        "isDanger": 0,
+        "phonetic": "ˈæp(ə)l",
+        "meaning": "n. 苹果"
+      },
+      {
+        "word": "wine",
+        "toggle": "n. 酒，葡萄酒；紫红色",
+        "isDanger": 0,
+        "phonetic": "waɪn",
+        "meaning": "n. 酒，果酒"
+      },
+      {
+        "word": "beer",
+        "toggle": "n. 啤酒",
+        "isDanger": 0,
+        "phonetic": "bɪə(r)",
+        "meaning": "n. 啤酒"
+      },
+      {
+        "word": "blackboard",
+        "toggle": "n. 黑板",
+        "isDanger": 0,
+        "phonetic": "ˈblækbɔːd",
+        "meaning": "n. 黑板"
+      },
+      {
+        "word": "liquor",
+        "toggle": "n. 酒，含酒精饮料；液体；烈酒；溶液",
+        "isDanger": 0,
+        "phonetic": "ˈlɪkə(r)",
+        "meaning": "n. 烈性酒"
+      },
+      {
+        "word": "alcohol",
+        "toggle": "n. 酒精，乙醇",
+        "isDanger": 0,
+        "phonetic": "ˈælkəhɒl",
+        "meaning": "n. 酒精"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

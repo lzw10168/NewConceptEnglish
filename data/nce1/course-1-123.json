@@ -1,0 +1,257 @@
+{
+  "id": "nce1-123",
+  "lessonNumber": "123",
+  "title": {
+    "english": "A trip to Australia",
+    "chinese": "澳大利亚之行"
+  },
+  "lessonInfo": "新概念英语－第1册－第123课",
+  "audioPath": "audio/nce1/123.mp3",
+  "listeningQuestion": {
+    "question": "Why did Bill shave off his beard?",
+    "translation": "比尔为什么把胡子刮掉了？"
+  },
+  "editorNotes": "本课通过一段看照片的对话，展示了如何描述旅行经历和照片内容。课文重点介绍了过去时态的使用，以及描述人物、事物和经历的表达方式。这些表达对于分享旅行经历和照片介绍非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Bill:    Look, Bob. This is a photograph I took during my trip to Australia.",
+      "Bob:   Let me see it, Bill.",
+      "Bob:    This is a good photograph. Who are these people?",
+      "Bill:   They're people I met during the trip.",
+      "Bill:   That's the ship we traveled on.",
+      "Bob:    What a beautiful ship!",
+      "Bob:   Who's this?",
+      "Bill:   That's the man I told you about. Remember?",
+      "Bob:   Ah yes. The one who offered you a job in Australia.",
+      "Bill:   That's right.",
+      "Bob:   Who's this?\r",
+      "Bill:   Guess!",
+      "Bob:   It's not you, is it?",
+      "Bill:   That's right.",
+      "Bill:   I grew a beard during the trip, but I shaved it off when I came home.",
+      "Bob:   Why did you shave it off?",
+      "Bill:   My wife didn't like it!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "迈 克：看，这是我到澳大利来旅行时拍的一张照片。",
+      "斯科特：让我看看，迈克。",
+      "斯科特：这是一张很好的照片。这些人是谁。",
+      "迈 克：他们是我旅行时认识的人。",
+      "迈 克：这是我们所乘的那条船。",
+      "斯科特：多漂亮的船啊！",
+      "斯科特：这是谁？",
+      "迈 克：这就是我跟你说过的那个人。还记得吗？",
+      "斯科特：啊，记得。就是在澳大利亚给你工作的那个人。",
+      "迈 克：对。",
+      "斯科特：这是谁？",
+      "迈 克：你猜！",
+      "斯科特：这不是你，对吗？",
+      "迈 克：不，是我。",
+      "迈 克：我在旅行时留了胡子，但我回到家时就把它刮了。",
+      "斯科特：你为什么把它刮了？",
+      "迈 克：我妻子不喜欢！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 照片介绍",
+        "children": [
+          "核心概念：如何介绍和描述照片",
+          "常用表达：",
+          "- This is a photograph I took 这是我拍的一张照片",
+          "- Let me see it 让我看看",
+          "- Who are these people? 这些人是谁？",
+          "使用场景：展示和讨论照片时",
+          "注意事项：注意使用适当的指示代词和时态"
+        ]
+      },
+      {
+        "heading": "2. 旅行经历描述",
+        "children": [
+          "核心概念：如何描述旅行中的经历",
+          "常用表达：",
+          "- during my trip to... 在我去...旅行期间",
+          "- people I met during the trip 旅行时认识的人",
+          "- we traveled on 我们乘坐的...",
+          "使用场景：分享旅行经历时",
+          "注意事项：注意使用正确的介词和时态"
+        ]
+      },
+      {
+        "heading": "3. 人物指认",
+        "children": [
+          "核心概念：如何询问和确认人物身份",
+          "常用表达：",
+          "- Who's this? 这是谁？",
+          "- That's the man I told you about 这就是我跟你说过的那个人",
+          "- It's not you, is it? 这不是你，对吗？",
+          "使用场景：识别照片中的人物时",
+          "注意事项：注意使用合适的疑问句式"
+        ]
+      },
+      {
+        "heading": "4. 个人变化描述",
+        "children": [
+          "核心概念：如何描述个人的变化",
+          "常用表达：",
+          "- I grew a beard 我留了胡子",
+          "- I shaved it off 我把它刮掉了",
+          "- when I came home 当我回家时",
+          "使用场景：描述外貌变化时",
+          "注意事项：注意动作的先后顺序"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 过去时态",
+        "children": [
+          "1. 一般过去时：took, met, traveled",
+          "2. 表示过去发生的动作",
+          "3. 常与时间状语连用",
+          "4. 例句：I took this photograph during my trip"
+        ]
+      },
+      {
+        "heading": "2. 介词during的用法",
+        "children": [
+          "1. 表示在...期间：during the trip",
+          "2. 与时间名词连用",
+          "3. 表示持续的时间段",
+          "4. 例句：I grew a beard during the trip"
+        ]
+      },
+      {
+        "heading": "3. 反意疑问句",
+        "children": [
+          "1. 基本结构：陈述句 + 疑问句",
+          "2. 肯定句+否定疑问",
+          "3. 语调的使用",
+          "4. 例句：It's not you, is it?"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 旅行相关词汇",
+        "children": [
+          "trip n. 旅行：",
+          "- trip to Australia 去澳大利亚旅行",
+          "- during the trip 在旅行期间",
+          "travel v. 旅行：",
+          "- travel on a ship 乘船旅行",
+          "- travel abroad 出国旅行"
+        ]
+      },
+      {
+        "heading": "2. 外貌相关词汇",
+        "children": [
+          "beard n. 胡子：",
+          "- grow a beard 留胡子",
+          "- shave off a beard 刮掉胡子",
+          "shave v. 刮：",
+          "- shave it off 把它刮掉",
+          "- shave every day 每天刮胡子"
+        ]
+      },
+      {
+        "heading": "3. 工作相关词汇",
+        "children": [
+          "job n. 工作：",
+          "- offer a job 提供工作",
+          "- find a job 找工作",
+          "offer v. 提供：",
+          "- offer help 提供帮助",
+          "- offer advice 提供建议"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "during",
+        "toggle": "prep. 在 … 的时候，在 … 的期间",
+        "isDanger": 1,
+        "phonetic": "ˈdjʊərɪŋ",
+        "meaning": "prep. 在…期间"
+      },
+      {
+        "word": "trip",
+        "toggle": "vi. 绊倒；犯错误；远足；轻快地走",
+        "isDanger": 0,
+        "phonetic": "trɪp",
+        "meaning": "n. 旅行"
+      },
+      {
+        "word": "travel",
+        "toggle": "vi. 旅行；步行；行进； [ 口 ] 交往",
+        "isDanger": 0,
+        "phonetic": "ˈtræv(ə)l",
+        "meaning": "v. 旅行"
+      },
+      {
+        "word": "offer",
+        "toggle": "vt. 提供；试图；出价",
+        "isDanger": 1,
+        "phonetic": "ˈɒfə(r)",
+        "meaning": "v. 提供"
+      },
+      {
+        "word": "job",
+        "toggle": "n. 工作；职业",
+        "isDanger": 0,
+        "phonetic": "dʒɒb",
+        "meaning": "n. 工作"
+      },
+      {
+        "word": "work",
+        "toggle": "n. 工作；职业；产品；行为；文学、音乐或艺术作品；工厂；操作； [ 物 ] 功",
+        "isDanger": 1,
+        "phonetic": "wɜːk",
+        "meaning": "v. 工作"
+      },
+      {
+        "word": "guess",
+        "toggle": "vt. 猜测；推测；猜中； [ 美口 ] 认为",
+        "isDanger": 0,
+        "phonetic": "ɡes",
+        "meaning": "v. 猜"
+      },
+      {
+        "word": "grow",
+        "toggle": "vi. 生长；发展；渐渐变得 …",
+        "isDanger": 1,
+        "phonetic": "ɡrəʊ",
+        "meaning": "v. 长，让…生长"
+      },
+      {
+        "word": "beard",
+        "toggle": "vt. 公然反对；抓 … 的胡须",
+        "isDanger": 0,
+        "phonetic": "bɪəd",
+        "meaning": "n. (下巴上的)胡子，络腮胡子"
+      },
+      {
+        "word": "kitten",
+        "toggle": "n. 小猫；小动物",
+        "isDanger": 0,
+        "phonetic": "ˈkɪt(ə)n",
+        "meaning": "n. 小猫"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

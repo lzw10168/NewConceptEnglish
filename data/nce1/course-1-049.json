@@ -1,0 +1,316 @@
+{
+  "id": "nce1-049",
+  "lessonNumber": "049",
+  "title": {
+    "english": "At the butcher's",
+    "chinese": "在肉店"
+  },
+  "lessonInfo": "新概念英语－第1册－第049课",
+  "audioPath": "audio/nce1/049.mp3",
+  "listeningQuestion": {
+    "question": "Why doesn't Mrs Bird buy any lamb or chicken?",
+    "translation": "听录音回答：伯德夫人为什么不买羊肉和鸡肉？"
+  },
+  "editorNotes": "本课展示了在肉店购物的场景，介绍了如何询问和表达食物偏好，以及替他人做决定时如何考虑他人的喜好。通过对话学习购物场景中的礼貌用语，以及表达个人喜好的多种方式。同时也展示了英语中委婉表达和幽默元素的运用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "BUTCHER:  Do you want any meat today. Mrs. Bird?",
+      "MRS.BIRD: Yes, please.",
+      "BUTCHER:  Do you want beef or lamb?",
+      "MRS.BIRD: Beef, please.",
+      "BUTCHER:  This lamb's very good.",
+      "MRS.BIRD: I like lamb,  but my husband doesn't.",
+      "BUTCHER:  What about some steak? This is a nice piece.",
+      "MRS.BIRD: Give me that piece, please.",
+      "MRS.BIRD: And a pound of mince, too.",
+      "BUTCHER:  Do you want a chicken, Mrs. Bird? They 're very nice.",
+      "MRS.BIRD: No, thank you.",
+      "MRS.BIRD: My husband likes steak, but he doesn't like chicken.",
+      "BUTCHER:  To tell you the truth, Mrs. Bird, I don't like chicken either!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "肉    商：您今天要买点肉吗，伯德夫人？",
+      "伯德夫人：是的，我买一点。",
+      "肉    商：您要牛肉还是要羔羊肉？",
+      "伯德夫人：请给我牛肉。",
+      "肉    商：这羔羊肉很好。",
+      "伯德夫人：我喜欢羔羊肉，可我丈夫不喜欢。",
+      "肉    商：来点牛排吗？这块很好。",
+      "伯德夫人：就请给我那块吧。",
+      "伯德夫人：再来一磅绞肉。",
+      "肉    商：您要买只鸡吗，伯德夫人？这些鸡很好。",
+      "伯德夫人：不要了，谢谢。",
+      "伯德夫人：我丈夫喜欢牛排，但他不喜欢鸡。",
+      "肉    商：说老实话，伯德夫人，我也不喜欢鸡。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 购物对话",
+        "children": [
+          "核心概念：肉店购物用语",
+          "常用表达：",
+          "- Do you want any meat today? 您今天要买点肉吗？",
+          "- Do you want beef or lamb? 您要牛肉还是羊肉？",
+          "- What about some steak? 来点牛排怎么样？",
+          "使用场景：",
+          "- 询问需求、提供选择、推荐商品",
+          "注意事项：",
+          "- 礼貌用语、称谓得当、语气友好"
+        ]
+      },
+      {
+        "heading": "2. 表达喜好",
+        "children": [
+          "核心概念：表达个人和他人的喜好",
+          "常用表达：",
+          "- I like lamb, but my husband doesn't. 我喜欢羊肉，但我丈夫不喜欢。",
+          "- He likes steak, but he doesn't like chicken. 他喜欢牛排，但不喜欢鸡肉。",
+          "使用场景：",
+          "- 表达喜好、说明选择原因、替他人决定",
+          "注意事项：",
+          "- 对比表达、考虑他人、清晰说明"
+        ]
+      },
+      {
+        "heading": "3. 幽默表达",
+        "children": [
+          "核心概念：英语中的幽默和共鸣",
+          "常用表达：",
+          "- To tell you the truth... 说实话...",
+          "- I don't like chicken either! 我也不喜欢鸡肉！",
+          "使用场景：",
+          "- 表达共鸣、活跃气氛、拉近关系",
+          "注意事项：",
+          "- 语境恰当、表达自然、把握分寸"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. either的用法",
+        "children": [
+          "1. 否定句中表示'也'：I don't like chicken either.",
+          "2. 用于句末表示认同否定：He doesn't like it, and I don't either.",
+          "3. 与neither的区别",
+          "4. 常见搭配：not...either"
+        ]
+      },
+      {
+        "heading": "2. 选择疑问句",
+        "children": [
+          "1. or连接两个选项：beef or lamb?",
+          "2. What about...? 表示建议",
+          "3. 回答方式：选择其一回答",
+          "4. 否定回答：说明原因"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 肉类词汇",
+        "children": [
+          "beef n. 牛肉：",
+          "- a piece of beef 一块牛肉",
+          "- beef steak 牛排",
+          "lamb n. 羊肉：",
+          "- roast lamb 烤羊肉",
+          "- lamb chops 羊排"
+        ]
+      },
+      {
+        "heading": "2. 购物用语",
+        "children": [
+          "butcher n. 肉商：",
+          "- at the butcher's 在肉店",
+          "- the local butcher 当地的肉商",
+          "mince n. 绞肉：",
+          "- a pound of mince 一磅绞肉",
+          "- minced beef 牛肉馅"
+        ]
+      },
+      {
+        "heading": "3. 表达用语",
+        "children": [
+          "truth n. 实情：",
+          "- to tell the truth 说实话",
+          "- the truth is... 事实是...",
+          "either adv. 也（用于否定句）：",
+          "- not...either 也不...",
+          "- don't like it either 也不喜欢"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "butcher",
+        "toggle": "vt. 屠杀",
+        "isDanger": 0,
+        "phonetic": "ˈbʊtʃə(r)",
+        "meaning": "n. 卖肉的"
+      },
+      {
+        "word": "meat",
+        "toggle": "n. 肉，肉类（食用）",
+        "isDanger": 0,
+        "phonetic": "miːt",
+        "meaning": "n. (食用)肉"
+      },
+      {
+        "word": "mince",
+        "toggle": "vt. 切碎；矫揉做作地说",
+        "isDanger": 0,
+        "phonetic": "mɪns",
+        "meaning": "n. 肉馅，绞肉"
+      },
+      {
+        "word": "beef",
+        "toggle": "n. 牛肉；食用牛；肌肉；牢骚",
+        "isDanger": 0,
+        "phonetic": "biːf",
+        "meaning": "n. 牛肉"
+      },
+      {
+        "word": "steak",
+        "toggle": "n. 牛排；肉排；鱼排",
+        "isDanger": 0,
+        "phonetic": "steɪk",
+        "meaning": "n. 牛排"
+      },
+      {
+        "word": "lamb",
+        "toggle": "n. 羔羊，小羊；羔羊肉",
+        "isDanger": 0,
+        "phonetic": "læm",
+        "meaning": "n. 羔羊肉"
+      },
+      {
+        "word": "mutton",
+        "toggle": "n.羊肉,<谑>绵羊,<俚>女性生殖器,性交",
+        "isDanger": 0,
+        "phonetic": "ˈmʌtn",
+        "meaning": "n. 羊肉"
+      },
+      {
+        "word": "husband",
+        "toggle": "n.丈夫",
+        "isDanger": 0,
+        "phonetic": "ˈhʌzbənd",
+        "meaning": "n. 丈夫"
+      },
+      {
+        "word": "chicken",
+        "toggle": "n. 小鸡；鸡肉；胆小鬼，懦夫",
+        "isDanger": 0,
+        "phonetic": "ˈtʃɪkɪn",
+        "meaning": "n. 鸡"
+      },
+      {
+        "word": "tell",
+        "toggle": "vt. 告诉，说；吩咐；辨别；断定",
+        "isDanger": 1,
+        "phonetic": "tel",
+        "meaning": "v. 告诉"
+      },
+      {
+        "word": "truth",
+        "toggle": "n. 事实；真理；实质；诚实",
+        "isDanger": 0,
+        "phonetic": "truːθ",
+        "meaning": "n. 实情"
+      },
+      {
+        "word": "either",
+        "toggle": "adj. 两者之中任一的；两者之中每一的",
+        "isDanger": 1,
+        "phonetic": "ˈaɪðə(r)",
+        "meaning": "adv. 也(用于否定句)"
+      },
+      {
+        "word": "neither",
+        "toggle": "conj. 既不；也不",
+        "isDanger": 1,
+        "phonetic": "ˈnaɪðə(r)",
+        "meaning": "adv. 也不（用于否定句后)"
+      },
+      {
+        "word": "tomato",
+        "toggle": "n. 番茄，西红柿",
+        "isDanger": 0,
+        "phonetic": "təˈmɑːtəʊ",
+        "meaning": "n. 西红柿"
+      },
+      {
+        "word": "potato",
+        "toggle": "n. 土豆，马铃薯",
+        "isDanger": 0,
+        "phonetic": "pəˈteɪtəʊ",
+        "meaning": "n. 土豆"
+      },
+      {
+        "word": "cabbage",
+        "toggle": "n. 卷心菜，甘蓝菜，（俚）脑袋",
+        "isDanger": 0,
+        "phonetic": "ˈkæbɪdʒ",
+        "meaning": "n. 卷心菜"
+      },
+      {
+        "word": "lettuce",
+        "toggle": "n. 莴苣；生菜；（美）纸币",
+        "isDanger": 0,
+        "phonetic": "ˈletɪs",
+        "meaning": "n. 莴苣"
+      },
+      {
+        "word": "pea",
+        "toggle": "n. [ 植 ] 豌豆",
+        "isDanger": 0,
+        "phonetic": "piː",
+        "meaning": "n. 豌豆"
+      },
+      {
+        "word": "bean",
+        "toggle": "n. 豆； [ 动 ] 嘴峰； [ 美口 ] 毫无价值的东西",
+        "isDanger": 0,
+        "phonetic": "biːn",
+        "meaning": "n. 豆角"
+      },
+      {
+        "word": "pear",
+        "toggle": "n. 梨树；梨子",
+        "isDanger": 0,
+        "phonetic": "peə(r)",
+        "meaning": "n. 梨"
+      },
+      {
+        "word": "grape",
+        "toggle": "n. 葡萄；葡萄树；葡萄色；葡萄酒",
+        "isDanger": 0,
+        "phonetic": "ɡreɪp",
+        "meaning": "n. 葡萄"
+      },
+      {
+        "word": "peach",
+        "toggle": "n. 桃子；桃树；桃红色； [ 美俚 ] 受人喜欢的人（或物）",
+        "isDanger": 0,
+        "phonetic": "piːtʃ",
+        "meaning": "n. 桃"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

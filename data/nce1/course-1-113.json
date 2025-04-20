@@ -1,0 +1,280 @@
+{
+  "id": "nce1-113",
+  "lessonNumber": "113",
+  "title": {
+    "english": "Small Change",
+    "chinese": "零钱"
+  },
+  "lessonInfo": "新概念英语－第1册－第113课",
+  "audioPath": "audio/nce1/113.mp3",
+  "listeningQuestion": {
+    "question": "Why did the conductor say all the passengers were millionaires?",
+    "translation": "为什么售票员说所有乘客都是百万富翁？"
+  },
+  "editorNotes": "本课通过一个公交车上找零钱的有趣场景，展示了日常生活中关于支付和找零的常用表达。课文重点介绍了表示否定和请求的多种表达方式，以及与金钱相关的实用词汇。这些表达对于日常乘车和购物场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Conductor:       Fares please!",
+      "Man:             Trafalgar Square please.",
+      "Conductor:       I'm sorry, sir. I can't change a pound note. Haven't you got any small change?",
+      "Man:             I've got no small change, I'm afraid.",
+      "Conductor:       I'll ask some of the passengers.",
+      "Conductor:       Have you any small change, sir?",
+      "1st Passenger:   I'm sorry. I've got none.",
+      "2ndPassenger:    I haven't got any either.",
+      "Conductor:       Can you change this pound note, madam?",
+      "3rd Passenger:   I'm afraid I can't.",
+      "4th Passenger:   Neither can I.",
+      "Conductor:       I'm very sorry, sir. You must get off the bus.None of our passengers can change this note. They're all millionaires!",
+      "Two Tramps:      Except us, conductor.",
+      "1st Tramp:       I've got some small change.",
+      "2nd Tramp:       So have I."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "售票员： 请买票！",
+      "男 子： 请买一张到特拉法加广场的票。",
+      "售票员： 对不起，我找不开10英镑的钞票。 您没有零钱吗？",
+      "男 子： 恐怕我没有零钱。",
+      "售票员： 我来问问其他乘客。",
+      "售票员： 先生，您有零钱吗？",
+      "乘 客1： 对不起，我没有。",
+      "乘 客2： 我也没有。",
+      "售票员： 夫人，您能把这10英镑的钞票换开吗？",
+      "乘 客3： 恐怕不能。",
+      "乘 客4： 我也不能。",
+      "售票员： 非常抱歉，先生。您必须下车。我们的乘客中没人能换开这张钞票。他们都是百万富翁！",
+      "二流浪汉：我们俩除外。",
+      "流浪汉1： 我有零钱。",
+      "流浪汉2： 我也有。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 购票对话",
+        "children": [
+          "核心概念：如何在公共交通工具上购票",
+          "常用表达：",
+          "- Fares please! 请买票！",
+          "- Trafalgar Square please 请买到特拉法加广场的票",
+          "- You must get off the bus 你必须下车",
+          "使用场景：乘坐公共交通工具时",
+          "注意事项：注意使用礼貌用语和正确的表达方式"
+        ]
+      },
+      {
+        "heading": "2. 找零对话",
+        "children": [
+          "核心概念：如何表达找零相关的请求和回应",
+          "常用表达：",
+          "- Haven't you got any small change? 您没有零钱吗？",
+          "- I've got no small change 我没有零钱",
+          "- Can you change this note? 您能换这张钞票吗？",
+          "使用场景：需要找零或兑换钱币时",
+          "注意事项：注意表达的礼貌性和委婉性"
+        ]
+      },
+      {
+        "heading": "3. 否定表达",
+        "children": [
+          "核心概念：多种否定表达方式",
+          "常用表达：",
+          "- I've got none 我没有",
+          "- I haven't got any either 我也没有",
+          "- Neither can I 我也不能",
+          "使用场景：表达否定或无法帮助时",
+          "注意事项：注意不同否定表达的语气差异"
+        ]
+      },
+      {
+        "heading": "4. 幽默对话",
+        "children": [
+          "核心概念：如何理解和运用英语幽默",
+          "常用表达：",
+          "- They're all millionaires! 他们都是百万富翁！",
+          "- Except us 我们除外",
+          "使用场景：活跃气氛或缓解尴尬时",
+          "注意事项：注意把握幽默的分寸和场合"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 否定表达方式",
+        "children": [
+          "1. 使用no：I've got no small change",
+          "2. 使用none：I've got none",
+          "3. 使用not：I can't change",
+          "4. 使用neither：Neither can I"
+        ]
+      },
+      {
+        "heading": "2. 情态动词must的用法",
+        "children": [
+          "1. 表示必须：must get off",
+          "2. 表示强制：You must...",
+          "3. 否定形式：mustn't",
+          "4. 过去时：had to"
+        ]
+      },
+      {
+        "heading": "3. 祈使句",
+        "children": [
+          "1. 命令形式：Fares please!",
+          "2. 请求形式：Trafalgar Square please",
+          "3. 否定形式：Don't...",
+          "4. 礼貌用语：please的使用"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 交通相关词汇",
+        "children": [
+          "conductor n. 售票员：",
+          "- bus conductor 公交售票员",
+          "- ticket conductor 检票员",
+          "fare n. 车费：",
+          "- bus fare 公交车费",
+          "- train fare 火车票价"
+        ]
+      },
+      {
+        "heading": "2. 金钱相关词汇",
+        "children": [
+          "change n. 零钱：",
+          "- small change 零钱",
+          "- have change 有零钱",
+          "note n. 纸币：",
+          "- pound note 英镑纸币",
+          "- bank note 钞票"
+        ]
+      },
+      {
+        "heading": "3. 交际用语",
+        "children": [
+          "except prep. 除...外：",
+          "- except us 除了我们",
+          "- except for 除了",
+          "neither adv. 也不：",
+          "- neither can I 我也不能",
+          "- neither do I 我也不"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "conductor",
+        "toggle": "n. 导体；售票员；领导者；管理人",
+        "isDanger": 0,
+        "phonetic": "kənˈdʌktə(r)",
+        "meaning": "n. 售票员"
+      },
+      {
+        "word": "fare",
+        "toggle": "vi. 进展；过活；经营；遭遇",
+        "isDanger": 0,
+        "phonetic": "feə(r)",
+        "meaning": "n. 车费，车票"
+      },
+      {
+        "word": "change",
+        "toggle": "vt. 改变；交换",
+        "isDanger": 1,
+        "phonetic": "tʃeɪndʒ",
+        "meaning": "v. 兑换(钱)"
+      },
+      {
+        "word": "note",
+        "toggle": "n. 笔记；注解；便笺；照会；音符；调子；票据；纸币",
+        "isDanger": 1,
+        "phonetic": "nəʊt",
+        "meaning": "n. 纸币"
+      },
+      {
+        "word": "coin",
+        "toggle": "vt. 杜撰，创造；铸造（货币）",
+        "isDanger": 0,
+        "phonetic": "kɔɪn",
+        "meaning": "n. 硬币"
+      },
+      {
+        "word": "passenger",
+        "toggle": "n. 乘客；旅客；过路人； [ 俚 ] 碍手碍脚的人",
+        "isDanger": 0,
+        "phonetic": "ˈpæsɪndʒə(r)",
+        "meaning": "n. 乘客"
+      },
+      {
+        "word": "none",
+        "toggle": "pron. 没有人；没有任何东西；一个也没有",
+        "isDanger": 0,
+        "phonetic": "nʌn",
+        "meaning": "pron. 没有任何东西"
+      },
+      {
+        "word": "neither",
+        "toggle": "conj. 既不；也不",
+        "isDanger": 1,
+        "phonetic": "ˈnaɪðə(r)",
+        "meaning": "adv. 也不"
+      },
+      {
+        "word": "either",
+        "toggle": "adj. 两者之中任一的；两者之中每一的",
+        "isDanger": 1,
+        "phonetic": "ˈaɪðə(r)",
+        "meaning": "adv. （两者之中）任意一个"
+      },
+      {
+        "word": "get off",
+        "toggle": "下（车、马等）; 离开; 发出; （使）入睡",
+        "isDanger": 0,
+        "phonetic": "ɡet ɒf",
+        "meaning": "adv. 下车"
+      },
+      {
+        "word": "get on",
+        "toggle": "发迹；出人头地",
+        "isDanger": 0,
+        "phonetic": "ɡet ɒn",
+        "meaning": "adv. 上车"
+      },
+      {
+        "word": "tramp",
+        "toggle": "vi. 脚步沉重地行走；践踏，踩；流浪",
+        "isDanger": 0,
+        "phonetic": "træmp",
+        "meaning": "n. 流浪汉"
+      },
+      {
+        "word": "vagrant",
+        "toggle": "n.游民 adj.漂泊的",
+        "isDanger": 0,
+        "phonetic": "ˈveɪɡrənt",
+        "meaning": "n. 流浪者"
+      },
+      {
+        "word": "except",
+        "toggle": "vt. 不计；把 … 除外",
+        "isDanger": 1,
+        "phonetic": "ɪkˈsept",
+        "meaning": "prep. 除…外"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

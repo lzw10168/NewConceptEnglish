@@ -1,0 +1,266 @@
+{
+  "id": "nce2--033",
+  "lessonNumber": "033",
+  "title": {
+    "english": "Out of the darkness",
+    "chinese": "走出黑暗"
+  },
+  "lessonInfo": "新概念英语－第2册－第033课",
+  "audioPath": "audio/nce2/033.mp3",
+  "listeningQuestion": {
+    "question": "How far did the girl swim?",
+    "translation": "这个女孩游了多远？"
+  },
+  "editorNotes": "本课讲述了一个关于生存的故事，描述了一个女孩在海上遇险后，如何在黑暗中游泳求生的经历。课文使用了多个方向性介词和时间状语从句，展现了故事的戏剧性和紧张感。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Nearly a week passed before the girl was able to explain what had happened to her.",
+      "One afternoon she set out from the coast in a small boat and was caught in a storm.",
+      "Towards evening, the boat struck a rock and the girl jumped into the sea.",
+      "Then she swam to the shore after spending the whole night in the water.",
+      "During that time she covered a distance of eight miles.",
+      "Early next morning, she saw a light ahead.",
+      "She knew she was near the shore because the light was high up on the cliffs.",
+      "On arriving at the shore, the girl struggled up the cliff towards the light she had seen.",
+      "That was all she remembered.",
+      "When she woke up a day later, she found herself in hospital."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "几乎过了一个星期，那姑娘才能讲述自己的遭遇。",
+      "一天下午，她乘小船从海岸出发，遇上了风暴。",
+      "天将黑时，小船撞在了一块礁石上，姑娘跳进了海里。",
+      "她在海里游了整整一夜才游到岸边。",
+      "在那段时间里，她游了8英里。",
+      "第二天凌晨，她看到前方有灯光。",
+      "她知道自己已经接近岸边了，因为那灯光是在高高的峭壁上。",
+      "到达岸边后，姑娘朝着她看到的灯光方向挣扎着往峭壁上爬去。",
+      "她所记得的就是这些。",
+      "第二天她醒来时，发现自己躺在医院里。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "darkness",
+        "toggle": "n. 黑暗；模糊；无知；阴郁",
+        "isDanger": 0,
+        "phonetic": "ˈdɑːknəs",
+        "meaning": "n. 黑暗"
+      },
+      {
+        "word": "explain",
+        "toggle": "v. 说明；解释",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspleɪn",
+        "meaning": "v. 解释，叙述"
+      },
+      {
+        "word": "coast",
+        "toggle": "vi. 沿岸航行；滑行",
+        "isDanger": 0,
+        "phonetic": "kəʊst",
+        "meaning": "n. 海滨"
+      },
+      {
+        "word": "storm",
+        "toggle": "n. 暴风雨；大动荡",
+        "isDanger": 0,
+        "phonetic": "stɔːm",
+        "meaning": "n. 暴风雨"
+      },
+      {
+        "word": "towards",
+        "toggle": "prep. 朝，向；有助于；对于",
+        "isDanger": 1,
+        "phonetic": "təˈwɔːdz",
+        "meaning": "prep. 向，朝；接近"
+      },
+      {
+        "word": "rock",
+        "toggle": "n. 岩石；暗礁；摇滚乐",
+        "isDanger": 0,
+        "phonetic": "rɒk",
+        "meaning": "n. 岩石，礁石"
+      },
+      {
+        "word": "shore",
+        "toggle": "vt. 用支柱撑住；支撑，使稳住",
+        "isDanger": 0,
+        "phonetic": "ʃɔː(r)",
+        "meaning": "n. 海岸"
+      },
+      {
+        "word": "light",
+        "toggle": "n. 光，光亮；灯",
+        "isDanger": 1,
+        "phonetic": "laɪt",
+        "meaning": "n. 灯光"
+      },
+      {
+        "word": "ahead",
+        "toggle": "adj. 向前；在前的；领先； adv. 向前的；领先的",
+        "isDanger": 1,
+        "phonetic": "əˈhed",
+        "meaning": "adv. 在前面"
+      },
+      {
+        "word": "cliff",
+        "toggle": "n. 绝壁；悬崖",
+        "isDanger": 0,
+        "phonetic": "klɪf",
+        "meaning": "n. 峭壁"
+      },
+      {
+        "word": "struggle",
+        "toggle": "vi. 挣扎；奋斗，努力",
+        "isDanger": 0,
+        "phonetic": "ˈstrʌɡ(ə)l",
+        "meaning": "v. 挣扎"
+      },
+      {
+        "word": "hospital",
+        "toggle": "n. 医院",
+        "isDanger": 0,
+        "phonetic": "ˈhɒspɪt(ə)l",
+        "meaning": "n. 医院"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "方向性介词的用法",
+        "content": [
+          "课文中出现了多个表示方向的介词，如towards（朝向）, into（进入）, up（向上）等。",
+          "towards强调越来越近，而to只强调方向。",
+          "例句：She struggled up the cliff towards the light."
+        ]
+      },
+      {
+        "title": "时间状语从句",
+        "content": [
+          "before引导的时间状语从句：Nearly a week passed before...",
+          "when引导的时间状语从句：When she woke up...",
+          "on + 动名词结构作时间状语：On arriving at the shore..."
+        ]
+      },
+      {
+        "title": "be able to的用法",
+        "content": [
+          "be able to强调有能力且能够成功，而can只表示能力。",
+          "例句：The girl was able to explain what had happened to her.",
+          "这里暗示她不仅有能力解释，而且实际上解释了。"
+        ]
+      },
+      {
+        "title": "过去完成时的使用",
+        "content": [
+          "用于表示过去某一时间点之前发生的动作。",
+          "例句：...what had happened to her.",
+          "...the light she had seen."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "set out from",
+        "translation": "从...出发",
+        "context": "表示开始一段旅程",
+        "example": "She set out from the coast in a small boat."
+      },
+      {
+        "phrase": "be caught in",
+        "translation": "遇到（灾难、困境等）",
+        "context": "表示突然遇到不好的情况",
+        "example": "She was caught in a storm."
+      },
+      {
+        "phrase": "cover a distance of",
+        "translation": "走过/游过...距离",
+        "context": "表示经过一段距离",
+        "example": "She covered a distance of eight miles."
+      },
+      {
+        "phrase": "find oneself",
+        "translation": "发现自己（处于某种状态）",
+        "context": "表示突然意识到自己的处境",
+        "example": "She found herself in hospital."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "How long did it take before the girl could explain what had happened?",
+        "options": [
+          "A few hours",
+          "One day",
+          "Nearly a week",
+          "Two weeks"
+        ],
+        "answer": 2,
+        "explanation": "课文开头提到'Nearly a week passed before the girl was able to explain...'"
+      },
+      {
+        "question": "How far did the girl swim?",
+        "options": [
+          "Five miles",
+          "Six miles",
+          "Seven miles",
+          "Eight miles"
+        ],
+        "answer": 3,
+        "explanation": "课文中提到'During that time she covered a distance of eight miles.'"
+      },
+      {
+        "question": "How did she know she was near the shore?",
+        "options": [
+          "She saw the beach",
+          "She saw a light on the cliffs",
+          "She heard people's voices",
+          "She saw a boat"
+        ],
+        "answer": 1,
+        "explanation": "课文提到'She knew she was near the shore because the light was high up on the cliffs.'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The boat _____ a rock and the girl jumped into the sea.",
+        "answer": "struck",
+        "hint": "动词，表示'撞击'"
+      },
+      {
+        "sentence": "Early next morning, she saw a light _____.",
+        "answer": "ahead",
+        "hint": "副词，表示'在前面'"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词语辨析",
+        "content": "课文中出现了几个表示'海岸'的词：coast（地理意义上的海岸）, shore（一般的海岸）, seashore（适合游玩的海滩）, seaside（海边）。这些词在使用场景上有细微的区别。"
+      },
+      {
+        "title": "写作特点",
+        "content": "文章采用了时间顺序的叙事方式，从遇险、求生到获救，层层推进，突出了主人公在险境中的坚强意志。"
+      },
+      {
+        "title": "pass和past的用法区别",
+        "content": "pass是动词，其过去式和过去分词是passed；past可以作形容词、介词、名词等，表示'过去的、经过、往事'等含义。"
+      }
+    ]
+  }
+}

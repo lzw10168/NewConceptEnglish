@@ -1,0 +1,238 @@
+{
+  "id": "nce1-091",
+  "lessonNumber": "091",
+  "title": {
+    "english": "Poor West",
+    "chinese": "可怜的韦斯特"
+  },
+  "lessonInfo": "新概念英语－第1册－第091课",
+  "audioPath": "audio/nce1/091.mp3",
+  "listeningQuestion": {
+    "question": "When will Mr. West move to his new house?",
+    "translation": "韦斯特先生什么时候搬到新房子？"
+  },
+  "editorNotes": "本课通过邻居间的对话，展示了如何谈论他人的搬家计划和表达离别之情。课文涉及时间安排、情感表达、问候传递等内容，同时介绍了现在完成时、一般将来时的使用。这些表达对于社交场合非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mrs Smith:     Has Mr West sold his house yet?",
+      "Mrs Brown:     Yes, he has. He sold it last week.",
+      "Mrs Smith:     Has he moved to his new house yet?",
+      "Mrs Brown:     No, not yet. He's still here. He's going to move tomorrow.",
+      "Mrs Smith:     When? Tomorrow morning?",
+      "Mrs Brown:     No. Tomorrow afternoon. I'll miss him. He has always been a good neighbour.",
+      "Mrs Green:     He's a very nice person. We shall all miss him.",
+      "Mrs Smith;     When will the new people move into this house?",
+      "Mrs Brown:    I think that they will move in the day after tomorrow.",
+      "Mrs Green:     Will you see Mr West today, Mrs Brown?",
+      "Mrs Brown:     Yes, I will.",
+      "Mrs Green:     Please give him my regards. （give one's regards to sb.向sb.问候）",
+      "Mr Smith:     Poor Mr West! He didn't want to leave this house.",
+      "Mrs Brown:     No, he didn't want to leave, but his wife did!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "Smith：West先生已把他的房子卖掉了吗？",
+      "Brown：是的，卖掉了。他上星期卖掉的。",
+      "Smith：他已经迁进新居了吗？",
+      "Brown：不，还没有。他仍在这里。他打算明天搬家。",
+      "Smith：什么时候？明天上午吗？",
+      "Brown：不，明天下午。我会想念他的。他一直是个好邻居。",
+      "Green：他是个非常好的人，我们大学都会想念他的。",
+      "Smith：新住户什么时候搬进这所房子？",
+      "Brown：我想他们将会在后天搬进来吧。",
+      "Green：詹尼，您今天会见到伊恩吗？",
+      "Brown：是的，我会见到他。",
+      "Green：请代我问候他。",
+      "Smith：可怜的West！他本不想离开这幢房子。",
+      "Brown：是啊，他是不想离开，可是他妻子要离开。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问近况表达",
+        "children": [
+          "核心概念：如何询问他人的近期变动",
+          "常用表达：",
+          "- Has he sold his house yet? 他房子卖了吗？",
+          "- Has he moved to his new house? 他搬到新房子了吗？",
+          "- When will they move in? 他们什么时候搬进来？",
+          "使用场景：询问他人的生活变动",
+          "注意事项：注意使用适当的时态"
+        ]
+      },
+      {
+        "heading": "2. 时间安排表达",
+        "children": [
+          "核心概念：如何表达未来的计划安排",
+          "常用表达：",
+          "- He's going to move tomorrow 他明天要搬家",
+          "- Tomorrow afternoon 明天下午",
+          "- The day after tomorrow 后天",
+          "使用场景：讨论具体时间安排",
+          "注意事项：注意时间词的准确使用"
+        ]
+      },
+      {
+        "heading": "3. 情感表达",
+        "children": [
+          "核心概念：如何表达离别之情",
+          "常用表达：",
+          "- I'll miss him 我会想念他的",
+          "- He has always been a good neighbour 他一直是个好邻居",
+          "- Poor Mr. West! 可怜的韦斯特先生！",
+          "使用场景：表达对离别的感受",
+          "注意事项：注意表达的情感色彩"
+        ]
+      },
+      {
+        "heading": "4. 社交礼仪表达",
+        "children": [
+          "核心概念：如何传递问候",
+          "常用表达：",
+          "- Please give him my regards 请代我问候他",
+          "- Will you see him today? 你今天会见到他吗？",
+          "- He's a very nice person 他是个很好的人",
+          "使用场景：传递问候和评价他人",
+          "注意事项：注意使用得体的礼貌用语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在完成时的使用",
+        "children": [
+          "1. 表示完成：Has he sold his house yet?",
+          "2. 表示经历：He has always been a good neighbour",
+          "3. 与yet的搭配使用",
+          "4. 否定形式的构成"
+        ]
+      },
+      {
+        "heading": "2. 一般将来时的使用",
+        "children": [
+          "1. will的用法：I'll miss him",
+          "2. be going to的用法：He's going to move",
+          "3. 表达计划和预测",
+          "4. 时间状语的搭配"
+        ]
+      },
+      {
+        "heading": "3. 过去时的使用",
+        "children": [
+          "1. 表示过去发生：He sold it last week",
+          "2. 否定形式：He didn't want to leave",
+          "3. 与时间状语的搭配",
+          "4. 叙述过去事件的顺序"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 搬家相关词汇",
+        "children": [
+          "move v. 搬家，移动：",
+          "- move to a new house 搬到新房子",
+          "- move in 搬进来",
+          "- move tomorrow 明天搬家",
+          "neighbour n. 邻居：",
+          "- good neighbour 好邻居",
+          "- new neighbour 新邻居"
+        ]
+      },
+      {
+        "heading": "2. 情感词汇",
+        "children": [
+          "miss v. 想念：",
+          "- miss him 想念他",
+          "- will miss 会想念",
+          "poor adj. 可怜的：",
+          "- poor Mr. West 可怜的韦斯特先生",
+          "- poor thing 可怜的东西"
+        ]
+      },
+      {
+        "heading": "3. 时间词汇",
+        "children": [
+          "still adv. 仍然：",
+          "- still here 仍在这里",
+          "- still working 仍在工作",
+          "yet adv. 已经：",
+          "- not yet 还没有",
+          "- sold yet 已经卖了"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "still",
+        "toggle": "adv. 更；仍然；静止地",
+        "isDanger": 1,
+        "phonetic": "stɪl",
+        "meaning": "adv. 还，仍旧"
+      },
+      {
+        "word": "move",
+        "toggle": "n. 迁居；步骤；移动",
+        "isDanger": 1,
+        "phonetic": "muːv",
+        "meaning": "v. 搬家"
+      },
+      {
+        "word": "miss",
+        "toggle": "vt. 漏掉；错过；想念",
+        "isDanger": 1,
+        "phonetic": "mɪs",
+        "meaning": "v. 想念，思念"
+      },
+      {
+        "word": "neighbour",
+        "toggle": "n.邻居(美作:neighbor)",
+        "isDanger": 0,
+        "phonetic": "ˈneɪbə(r)",
+        "meaning": "n. 邻居(英)"
+      },
+      {
+        "word": "neighbor",
+        "toggle": "n. 邻居",
+        "isDanger": 0,
+        "phonetic": "ˈneɪbə(r)",
+        "meaning": "n. 邻居(美)"
+      },
+      {
+        "word": "person",
+        "toggle": "n. 人； [ 语法 ] 人称；身体；容貌，外表",
+        "isDanger": 0,
+        "phonetic": "ˈpɜːs(ə)n",
+        "meaning": "n. 人"
+      },
+      {
+        "word": "people",
+        "toggle": "n. 人；人类；民族；公民",
+        "isDanger": 0,
+        "phonetic": "ˈpiːp(ə)l",
+        "meaning": "n. 人们"
+      },
+      {
+        "word": "poor",
+        "toggle": "adj. 可怜的；贫穷的；贫乏的；卑鄙的",
+        "isDanger": 0,
+        "phonetic": "pɔː(r)",
+        "meaning": "adj. 可怜的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

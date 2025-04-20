@@ -1,0 +1,193 @@
+{
+  "id": "nce1-057",
+  "lessonNumber": "057",
+  "title": {
+    "english": "An unusual day",
+    "chinese": "不寻常的一天"
+  },
+  "lessonInfo": "新概念英语－第1册－第057课",
+  "audioPath": "audio/nce1/057.mp3",
+  "listeningQuestion": {
+    "question": "What's different about the Sawyer family's activities today?",
+    "translation": "听录音回答：索耶一家今天的活动有什么不同？"
+  },
+  "editorNotes": "本课通过对比索耶一家平常和今天的活动，介绍现在进行时的用法。重点学习如何描述此刻正在进行的活动，以及如何表达与日常习惯不同的临时行为。同时复习表示时间的词组和日常活动的表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "It is eight o'clock.  The children go to school by car every day, but today, they are going to school on foot.",
+      "It is ten o'clock.  Mrs Sawyer usually stays at home in the morning, but this morning, she is going to the shops.",
+      "It is four o'clock. In the afternoon, Mrs Sawyer usually drinks tea in the living-room, but this afternoon, she is drinking tea in the garden.",
+      "It is six o'clock. In the evening, the children usually do their homework, but this evening, they are not doing their homework. At the moment, they are playing in the garden.",
+      "It is nine o'clock, Mr. Sawyer usually reads his newspaper at night, but he is not reading his newspaper tonight. At the moment, he is reading an interesting book."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "现在是8点钟。孩子们每天都乘小汽车去上学，而今天，他们正步行上学。",
+      "现在是10点钟。上午，索耶夫人通常是呆在家里的，但今天上午，她正去商店买东西。",
+      "现在是4点钟，下午，索耶夫人通常是在客厅里喝茶，但今天下午，她正在花园里喝茶。",
+      "现在是6点钟。晚上，孩子们通常是做作业，而今天晚上，他们没做作业。此刻，他们正在花园里玩。",
+      "现在是9点钟。索耶先生通常是在晚上看报，但今天晚上他没看报。此刻，他正在看一本有趣的书。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 表示具体时间",
+        "children": [
+          "核心概念：准确时间的表达方式",
+          "常用表达：",
+          "- It is eight o'clock 现在是8点钟",
+          "- at ten o'clock 在10点钟",
+          "- at the moment 此刻",
+          "使用场景：描述具体事件发生的时间",
+          "注意事项：o'clock只用于整点时间"
+        ]
+      },
+      {
+        "heading": "2. 表示日常习惯",
+        "children": [
+          "核心概念：描述人们的日常活动",
+          "常用表达：",
+          "- go to school by car 乘车上学",
+          "- stay at home 待在家里",
+          "- do homework 做作业",
+          "使用场景：描述经常性、习惯性的活动",
+          "注意事项：通常与频率副词usually搭配使用"
+        ]
+      },
+      {
+        "heading": "3. 表示正在进行的活动",
+        "children": [
+          "核心概念：描述此刻正在进行的活动",
+          "常用表达：",
+          "- are going to school on foot 正在步行上学",
+          "- is drinking tea in the garden 正在花园里喝茶",
+          "- are playing in the garden 正在花园里玩耍",
+          "使用场景：描述当前正在进行的活动",
+          "注意事项：使用现在进行时表示"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般现在时与现在进行时的对比",
+        "children": [
+          "1. 一般现在时表示习惯性动作：The children go to school by car every day",
+          "2. 现在进行时表示此刻的动作：they are going to school on foot",
+          "3. 对比结构：usually... but today/this morning/now...",
+          "4. 注意时态变化：do → are doing, reads → is reading"
+        ]
+      },
+      {
+        "heading": "2. 时间状语的使用",
+        "children": [
+          "1. 表示现在的时间状语：at the moment, now, today",
+          "2. 表示习惯的时间状语：usually, every day",
+          "3. 一天中的时间段：in the morning, in the afternoon, in the evening, at night",
+          "4. 具体时间点：at eight o'clock, at ten o'clock"
+        ]
+      },
+      {
+        "heading": "3. but的使用",
+        "children": [
+          "1. 用于转折：usually... but...",
+          "2. 表示与平常不同：every day, but today",
+          "3. 连接对比内容：stays at home, but this morning...",
+          "4. 注意but后时态要保持一致"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 时间相关词汇",
+        "children": [
+          "o'clock adv. 点钟：",
+          "- at eight o'clock 在8点钟",
+          "- It's three o'clock 现在是3点钟",
+          "moment n. 片刻，瞬间：",
+          "- at the moment 此刻",
+          "- just a moment 稍等片刻"
+        ]
+      },
+      {
+        "heading": "2. 地点词汇",
+        "children": [
+          "shop n. 商店：",
+          "- go to the shops 去商店",
+          "- shopping 购物",
+          "garden n. 花园：",
+          "- in the garden 在花园里",
+          "- garden party 花园派对"
+        ]
+      },
+      {
+        "heading": "3. 交通方式词汇",
+        "children": [
+          "by car 乘车：",
+          "- go by car 乘车去",
+          "- drive a car 开车",
+          "on foot 步行：",
+          "- go on foot 步行",
+          "- walk to school 步行去学校"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "o'clock",
+        "toggle": "adv. …点钟",
+        "isDanger": 0,
+        "phonetic": "əˈklɒk",
+        "meaning": "adv. 点钟"
+      },
+      {
+        "word": "clock",
+        "toggle": "n. 时钟；计时器",
+        "isDanger": 0,
+        "phonetic": "klɒk",
+        "meaning": "n. 时钟"
+      },
+      {
+        "word": "shop",
+        "toggle": "n. 商店；店铺",
+        "isDanger": 1,
+        "phonetic": "ʃɒp",
+        "meaning": "n. 商店"
+      },
+      {
+        "word": "mall",
+        "toggle": "n. 购物商场；林荫路；铁圈球场",
+        "isDanger": 0,
+        "phonetic": "mæl",
+        "meaning": "n. 商场"
+      },
+      {
+        "word": "store",
+        "toggle": "n. 储备，贮藏；仓库；商店",
+        "isDanger": 1,
+        "phonetic": "stɔː(r)",
+        "meaning": "n. 仓储商店"
+      },
+      {
+        "word": "moment",
+        "toggle": "n. 瞬间；重要时刻；指定时刻；重要，契机",
+        "isDanger": 1,
+        "phonetic": "ˈməʊmənt",
+        "meaning": "n. 片刻，瞬间"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

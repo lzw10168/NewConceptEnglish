@@ -1,0 +1,237 @@
+{
+  "id": "nce2--088",
+  "lessonNumber": "088",
+  "title": {
+    "english": "Trapped in a mine",
+    "chinese": "困在矿井里"
+  },
+  "lessonInfo": "新概念英语－第2册－第088课",
+  "audioPath": "audio/nce2/088.mp3",
+  "listeningQuestion": {
+    "question": "Why are rescue operations proving difficult?",
+    "translation": "为什么营救工作很困难？"
+  },
+  "editorNotes": "这篇文章描述了一个矿井救援的故事，主要涉及虚拟语气的使用。文章通过救援人员面临的困境和被困矿工的心理状态，展示了在危机情况下的应对方式。语法重点包括虚拟语气、现在完成时和过去完成时的使用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Six men have been trapped in a mine for seventeen hours.",
+      "If they are not brought to the surface soon they may lose their lives.",
+      "However, rescue operations are proving difficult.",
+      "If explosives are used, vibrations will cause the roof of the mine to collapse.",
+      "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "They intend to bring the men up in a special capsule.",
+      "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+      "As it is, they have been drilling for sixteen hours and they still have a long way to go.",
+      "Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.",
+      "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+      "They have been told that rescue operations are progressing smoothly.",
+      "If they knew how difficult it was to drill through the hard rock, they would lose heart."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "6个人被困在矿井里已有17个小时了。",
+      "如果不把他们尽快救到地面上来，他们就有可能丧生。",
+      "然而，事实证明营救工作非常困难。",
+      "如果用炸药爆破，震动会引起矿顶塌落。",
+      "因此，营救人员在矿井的北侧钻了一个洞。",
+      "他们准备用一种特制的容器把这6个人救上来。",
+      "如果不是因为土壤下面有一层坚硬的岩石，他们的营救工作仅用几个小时就可以完成了。",
+      "实际情况是，他们已连续钻了16个小时了，但离钻透还早着呢。",
+      "与此同时，两个小时以前放下井去的一只麦克风使井下的人可以与其亲属保持联系。",
+      "虽然他们的食物和饮料都快消耗尽了，但这些人的心情很好，坚信他们很快就会出去。",
+      "他们一直被告知营救工作进行得非常顺利。",
+      "如果他们知道了钻透那坚硬的岩石有多么困难，他们会丧失信心的。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "虚拟语气",
+        "content": [
+          "If they are not brought to the surface soon they may lose their lives. (现在时虚拟语气)",
+          "If explosives are used, vibrations will cause the roof of the mine to collapse. (现在时虚拟语气)",
+          "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours. (过去完成时虚拟语气)",
+          "If they knew how difficult it was to drill through the hard rock, they would lose heart. (现在时虚拟语气)"
+        ]
+      },
+      {
+        "title": "现在完成时",
+        "content": [
+          "Six men have been trapped in a mine for seventeen hours.",
+          "They have been drilling for sixteen hours.",
+          "They have been told that rescue operations are progressing smoothly."
+        ]
+      },
+      {
+        "title": "定语从句",
+        "content": [
+          "a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "run out of",
+        "translation": "用完，耗尽",
+        "context": "表示某物被用完或耗尽",
+        "example": "Though they are running out of food and drink, the men are cheerful."
+      },
+      {
+        "phrase": "keep in touch with",
+        "translation": "与...保持联系",
+        "context": "表示与某人保持联系",
+        "example": "The men to keep in touch with their closest relatives."
+      },
+      {
+        "phrase": "lose heart",
+        "translation": "丧失信心，灰心",
+        "context": "表示失去信心或勇气",
+        "example": "If they knew how difficult it was, they would lose heart."
+      },
+      {
+        "phrase": "as it is",
+        "translation": "事实上，实际上",
+        "context": "表示实际情况",
+        "example": "As it is, they have been drilling for sixteen hours."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why are rescue workers drilling a hole instead of using explosives?",
+        "options": [
+          "Because they don't have enough explosives",
+          "Because vibrations would cause the roof to collapse",
+          "Because the trapped men asked them not to use explosives",
+          "Because drilling is faster than using explosives"
+        ],
+        "answer": 1,
+        "explanation": "文中提到如果用炸药爆破，震动会引起矿顶塌落，所以救援人员选择钻孔。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "If there ___ not been a hard layer of rock beneath the soil, they ___ have completed the job in a few hours.",
+        "answer": [
+          "had",
+          "would"
+        ],
+        "hint": "使用过去完成时虚拟语气"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "矿井救援是一个危险且复杂的工作，需要专业的救援团队和先进的设备。这篇文章展示了在危机情况下保持积极心态的重要性，以及团队合作和沟通在救援行动中的关键作用。"
+      },
+      {
+        "title": "相关词汇扩展",
+        "content": [
+          "rescue operation - 救援行动",
+          "drilling equipment - 钻井设备",
+          "emergency response - 应急响应",
+          "safety protocol - 安全规程"
+        ]
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "trap",
+        "toggle": "vt. 诱捕；使 … 受限制；使 … 陷入困境",
+        "isDanger": 1,
+        "phonetic": "træp",
+        "meaning": "v. 陷入，使陷于困境"
+      },
+      {
+        "word": "surface",
+        "toggle": "n. 表面；外观；表层",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːfɪs",
+        "meaning": "n. 地面，表面"
+      },
+      {
+        "word": "explosive",
+        "toggle": "adj. 爆炸的；爆炸性的；爆发性的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspləʊsɪv",
+        "meaning": "n. 炸药"
+      },
+      {
+        "word": "vibration",
+        "toggle": "n. 振动；犹豫；心灵感应",
+        "isDanger": 0,
+        "phonetic": "vaɪˈbreɪʃ(ə)n",
+        "meaning": "n. 震动"
+      },
+      {
+        "word": "collapse",
+        "toggle": "vi. 倒塌；瓦解；暴跌",
+        "isDanger": 0,
+        "phonetic": "kəˈlæps",
+        "meaning": "v. 坍塌"
+      },
+      {
+        "word": "drill",
+        "toggle": "n. 钻子；钻孔机；播种机；训练",
+        "isDanger": 0,
+        "phonetic": "drɪl",
+        "meaning": "v. 钻孔"
+      },
+      {
+        "word": "capsule",
+        "toggle": "n. [ 医 ] 胶囊； [ 航 ] 太空舱； [ 植 ] 蒴果；小容器",
+        "isDanger": 0,
+        "phonetic": "ˈkæpsjuːl",
+        "meaning": "n. 容器"
+      },
+      {
+        "word": "layer",
+        "toggle": "n. 层，阶层；地层",
+        "isDanger": 0,
+        "phonetic": "ˈleɪə(r)",
+        "meaning": "n. 层"
+      },
+      {
+        "word": "beneath",
+        "toggle": "prep. 在 … 之下",
+        "isDanger": 0,
+        "phonetic": "bɪˈniːθ",
+        "meaning": "prep. 在......之下"
+      },
+      {
+        "word": "lower",
+        "toggle": "vt. 放下，降下；减弱，减少；贬低",
+        "isDanger": 0,
+        "phonetic": "ˈləʊə(r)",
+        "meaning": "v. 放下，降低"
+      },
+      {
+        "word": "progress",
+        "toggle": "n. 进步，发展；前进",
+        "isDanger": 0,
+        "phonetic": "ˈprəʊɡres",
+        "meaning": "v. 进展，进行"
+      },
+      {
+        "word": "smoothly",
+        "toggle": "adv. 平稳地，平滑地；流畅地，流利地",
+        "isDanger": 0,
+        "phonetic": "ˈsmuːðli",
+        "meaning": "adv. 顺利地"
+      }
+    ]
+  }
+}

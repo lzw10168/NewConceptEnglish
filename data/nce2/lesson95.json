@@ -1,0 +1,212 @@
+{
+  "id": "nce2--095",
+  "lessonNumber": "095",
+  "title": {
+    "english": "A fantasy",
+    "chinese": "一个幻想"
+  },
+  "lessonInfo": "新概念英语－第2册－第095课",
+  "audioPath": "audio/nce2/095.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the Ambassador's office?",
+    "translation": "大使的办公室发生了什么？"
+  },
+  "editorNotes": "本课讲述了一个幽默的故事，描述了大使遭遇的一系列意外事件。文章通过对话的形式展现了大使的遭遇，以及他与妻子之间的对话。语法上涉及过去时态、条件句等结构，以及一些重要短语的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "When the Ambassador of Escalopia returned home for lunch, his wife got a shock. He looked pale and his clothes were in a frightful state.",
+      "'What has happened?' she asked. 'How did your clothes get into such a mess?'",
+      "'A fire extinguisher, my dear,' answered the Ambassador drily. 'University students set the Embassy on fire this morning.'",
+      "'Good heavens!' exclaimed his wife. 'And where were you at the time?'",
+      "'I was in my office as usual,' answered the Ambassador. 'The fire broke out in the basement. I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me. He thought I was on fire. I must definitely get that fellow posted.'",
+      "The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.",
+      "'And how can you explain that?' she asked.",
+      "'Oh, that,' said the Ambassador. 'Someone fired a shot through my office window. Accurate, don't you think?",
+      "Fortunately, I wasn't wearing it at the time. If I had been, I would not have been able to get home for lunch.'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "当艾斯卡罗比亚国的大使回到家吃午饭时，把他的夫人吓了一跳。他面色苍白，衣服也搞得不成样子。",
+      "'发生了什么事？'她问，'你的衣服怎么搞得一塌糊涂？'",
+      "'灭火器弄的，亲爱的，'大使冷冷地回答，'今天上午大学生们放火点着了大使馆。'",
+      "'天啊！'他的夫人惊叫，'那你当时在什么地方？'",
+      "'我和往常一样，在办公室里，'大使回答说。'地下室突然着火，我当然马上下去了。但那个傻瓜霍斯特把灭火器对准了我。他认为是我着火了。我一定要把那个家伙打发走。'",
+      "大使夫人继续提出问题，她突然又发现丈夫的帽子上有个洞。",
+      "'那么你对那又作何解释呢？'她问。",
+      "'那个嘛，'大使说，'有人向我办公室窗户开了一枪。真够准的，是不是？幸亏我当时没戴帽子。如果真戴着它，我现在就不能回家来吃午饭了。'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "过去时态",
+        "content": [
+          "本课大量使用过去时态描述已发生的事件。",
+          "例如：returned, got, looked, were等。",
+          "用于叙述过去发生的动作和状态。"
+        ]
+      },
+      {
+        "title": "虚拟语气",
+        "content": [
+          "使用if引导的虚拟条件句。",
+          "例如：If I had been, I would not have been able to get home for lunch",
+          "表示与过去事实相反的假设。"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "get into a mess",
+        "translation": "搞得一团糟",
+        "context": "用于描述陷入混乱状态",
+        "example": "How did your clothes get into such a mess?"
+      },
+      {
+        "phrase": "set on fire",
+        "translation": "放火烧",
+        "context": "用于描述故意纵火的行为",
+        "example": "University students set the Embassy on fire this morning."
+      },
+      {
+        "phrase": "break out",
+        "translation": "突然发生，爆发",
+        "context": "用于描述火灾、战争等突发事件",
+        "example": "The fire broke out in the basement."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What did Horst do to the Ambassador?",
+        "options": [
+          "He set the embassy on fire",
+          "He fired a shot at him",
+          "He aimed a fire extinguisher at him",
+          "He posted him to another country"
+        ],
+        "answer": 2,
+        "explanation": "文中提到霍斯特把灭火器对准了大使，因为他误以为大使着火了。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The fire ___ out in the basement.",
+        "answer": "broke",
+        "hint": "表示突然发生、爆发"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "外交官生活",
+        "content": "本课通过一个幽默的故事展现了外交官生活中可能遇到的意外情况。文章虽然是一个虚构的故事，但也反映了外交官工作环境的特殊性和可能面临的风险。同时，故事也展示了外交官及其家人如何应对这些突发情况。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "fantasy",
+        "toggle": "n. 幻想；幻觉； [ 心 ] 白日梦",
+        "isDanger": 1,
+        "phonetic": "ˈfæntəsi",
+        "meaning": "n. 幻想故事"
+      },
+      {
+        "word": "ambassador",
+        "toggle": "n. 大使；使节；代表",
+        "isDanger": 0,
+        "phonetic": "æmˈbæsədə(r)",
+        "meaning": "n. 大使"
+      },
+      {
+        "word": "Escalopia",
+        "toggle": "艾斯卡罗比亚(虚构的国名)",
+        "isDanger": 0,
+        "phonetic": "ɪˈklæmpsiə",
+        "meaning": "n. 艾斯卡罗比亚（虚构的国名）"
+      },
+      {
+        "word": "frightful",
+        "toggle": "adj.可怕的,非常的",
+        "isDanger": 0,
+        "phonetic": "ˈfraɪtf(ə)l",
+        "meaning": "adj. 可怕的，令人吃惊的"
+      },
+      {
+        "word": "fire extinguisher",
+        "toggle": "灭火器：一种用于扑灭初期火灾的设备，通常包含有化学药剂或水等灭火物质。",
+        "isDanger": 0,
+        "phonetic": "ˈfaɪər ɪkˈstɪŋɡwɪʃə(r)",
+        "meaning": "n. 灭火器"
+      },
+      {
+        "word": "drily",
+        "toggle": "adv.(=dryly) 冷淡地,干巴巴的",
+        "isDanger": 0,
+        "phonetic": "ˈdraɪli",
+        "meaning": "adv. 冷淡地，枯燥无味地"
+      },
+      {
+        "word": "embassy",
+        "toggle": "n. 大使馆；大使馆全体人员",
+        "isDanger": 0,
+        "phonetic": "ˈembəsi",
+        "meaning": "n. 大使馆"
+      },
+      {
+        "word": "heaven",
+        "toggle": "n. 天堂；天空；极乐",
+        "isDanger": 0,
+        "phonetic": "ˈhev(ə)n",
+        "meaning": "n. 天，天堂"
+      },
+      {
+        "word": "basement",
+        "toggle": "n. 地下室；地窖",
+        "isDanger": 0,
+        "phonetic": "ˈbeɪsmənt",
+        "meaning": "n. 地下室"
+      },
+      {
+        "word": "definitely",
+        "toggle": "adv. 明确地，肯定地；清楚地，当然",
+        "isDanger": 0,
+        "phonetic": "ˈdefɪnətli",
+        "meaning": "adv. 肯定地"
+      },
+      {
+        "word": "post",
+        "toggle": "n. 岗位；邮件；标杆",
+        "isDanger": 1,
+        "phonetic": "pəʊst",
+        "meaning": "v. 派任"
+      },
+      {
+        "word": "shot",
+        "toggle": "n. 发射；炮弹；射手",
+        "isDanger": 0,
+        "phonetic": "ʃɒt",
+        "meaning": "n. 子弹"
+      },
+      {
+        "word": "aim",
+        "toggle": "vt. 把 … 对准；目的在于；引导",
+        "isDanger": 0,
+        "phonetic": "eɪm",
+        "meaning": "n. 瞄准"
+      }
+    ]
+  }
+}

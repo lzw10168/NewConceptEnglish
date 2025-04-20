@@ -1,0 +1,238 @@
+{
+  "id": "nce2--042",
+  "lessonNumber": "042",
+  "title": {
+    "english": "Not very musical",
+    "chinese": "不太懂音乐"
+  },
+  "lessonInfo": "新概念英语－第2册－第042课",
+  "audioPath": "audio/nce2/042.mp3",
+  "listeningQuestion": {
+    "question": "Why couldn't the snake tell the difference between Indian music and jazz?",
+    "translation": "为什么蛇分辨不出印度音乐和爵士乐的区别？"
+  },
+  "editorNotes": "本文讲述了作者在印度德里市场遇到耍蛇人的经历。文章通过描述蛇对印度音乐和爵士乐的反应，揭示了蛇实际上并不能真正'听懂'音乐，它们只是对耍蛇人的动作和管乐器的移动做出反应。文章中的语法要点包括'have + 名词'代替普通动词的用法，以及'stop to do'和'stop doing'的区别。在实际使用中，'have a glimpse of'和'pick up'等短语在日常生活和写作中非常常见，掌握这些表达方式可以提高英语表达的丰富性和准确性。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
+      "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "When he began to play a tune, we had our first glimpse of the snake.",
+      "It rose out of the basket and began to follow the movements of the pipe.",
+      "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "The snake, however, continued to 'dance' slowly.",
+      "It obviously could not tell the difference between Indian music and jazz!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "当我们穿过旧德里的市场时走了很长一段路, 我们在一个广场上停下来休息.",
+      "过了一会儿, 我们注意到广场的那一边有一个带着两个大筐的耍蛇人, 于是就走过去看看.",
+      "他一见我们, 就拿起了一个长长的上面镶有硬币的管乐器, 并掀开了一个筐的盖子.",
+      "当他开始吹奏一支曲子时, 我们才第一次看到那条蛇.",
+      "它从筐里探出身子, 随着乐器的摆动而扭动.",
+      "当耍蛇人突然又吹奏起爵士乐和现代流行乐曲时, 我们感到非常惊奇.",
+      "然而那蛇却还是缓慢地 '舞动' 着.",
+      "显然, 它分辨不出印度音乐和爵士乐!"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "have + 名词代替普通动词",
+        "content": [
+          "have + 名词可以代替普通动词表示完成该动作",
+          "例如：have a bath = bathe；have a swim = swim；have a walk = walk",
+          "have a look = look；have a rest = rest；have a smell = smell",
+          "类似的动词还有：dance，fight，ride，talk，sleep，wash",
+          "如果动词是不及物动词，名词也可以加相同的介词：look at -> have a look at；walk across -> have a walk across"
+        ]
+      },
+      {
+        "title": "stop to do vs stop doing",
+        "content": [
+          "stop to do sth. 表示停下其他活动去做不定式表示的动作",
+          "stop doing sth. 表示停止做某事",
+          "例如：I've stopped buying newspapers. (我已不再买报纸了)",
+          "How can we stop him complaining? (我们如何才能让他不抱怨呢?)"
+        ]
+      },
+      {
+        "title": "tell the difference between",
+        "content": [
+          "tell 表示/辨别、分辨、识别/时常与 can，could，be able to 连用",
+          "可以单独使用，也可以与 from 构成词组",
+          "例如：tell the difference between A and B = tell A from B",
+          "There's a lot of difference between Englishmen and Frenchmen."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "have a glimpse of",
+        "translation": "一瞥，一看",
+        "context": "表示短暂地看到某物",
+        "example": "We had our first glimpse of the snake."
+      },
+      {
+        "phrase": "pick up",
+        "translation": "拿起、捡起；意外地找到；（偶然地）学会；开车去接",
+        "context": "多义词组，根据上下文有不同的含义",
+        "example": "He picked up a long pipe which was covered with coins."
+      },
+      {
+        "phrase": "tell the difference between",
+        "translation": "分辨出...的区别",
+        "context": "用于表示能够区分两个事物的差异",
+        "example": "It obviously could not tell the difference between Indian music and jazz!"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The snake probably 'danced' by ___.",
+        "options": [
+          "listening to the Indian music",
+          "listening to the jazz",
+          "looking at the snake charmer",
+          "following the movements of the snake charmer's pipe"
+        ],
+        "answer": 3,
+        "explanation": "蛇是通过跟随耍蛇人管乐器的动作来'跳舞'的"
+      },
+      {
+        "question": "We stopped at a square ___ have a rest.",
+        "options": [
+          "so to",
+          "in order",
+          "in order that",
+          "in order to"
+        ],
+        "answer": 3,
+        "explanation": "in order to 表示目的，意思是'为了...'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "It ___ tell the difference between Indian music and jazz.",
+        "answer": "wasn't able to",
+        "hint": "表示'不能'的过去时态表达"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "在印度，耍蛇是一种传统的街头表演艺术。耍蛇人通过吹奏特殊的管乐器来控制蛇的动作，这种表演在印度文化中有着悠久的历史。然而，现代研究表明，蛇实际上并不能真正'听懂'音乐，它们只是对耍蛇人的动作和管乐器的移动做出反应。"
+      },
+      {
+        "title": "词汇扩展",
+        "content": "musical（精通音乐的）这个词不仅可以用在本文中描述人的音乐才能，还可以用来描述具有音乐天赋的人或与音乐相关的事物。例如：a musical family（一个音乐世家），a musical instrument（一件乐器）。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "musical",
+        "toggle": "adj. 音乐的；悦耳的",
+        "isDanger": 0,
+        "phonetic": "ˈmjuːzɪk(ə)l",
+        "meaning": "adj. 精通音乐的"
+      },
+      {
+        "word": "market",
+        "toggle": "n. 集市；市场；商店；销路；股票市场；行情；市面",
+        "isDanger": 0,
+        "phonetic": "ˈmɑːkɪt",
+        "meaning": "n. 市场，集市"
+      },
+      {
+        "word": "snake charmer",
+        "toggle": "n.弄蛇人",
+        "isDanger": 0,
+        "phonetic": "ˈsneɪk tʃɑːmə(r)",
+        "meaning": "n. 玩蛇者（通常借音乐控制）"
+      },
+      {
+        "word": "pipe",
+        "toggle": "n. 烟斗；管；笛",
+        "isDanger": 1,
+        "phonetic": "paɪp",
+        "meaning": "n. （吹奏的）管乐器"
+      },
+      {
+        "word": "tune",
+        "toggle": "n. 和谐；曲调；心情",
+        "isDanger": 1,
+        "phonetic": "tjuːn",
+        "meaning": "n. 曲调"
+      },
+      {
+        "word": "glimpse",
+        "toggle": "n. 一瞥(无意中)，一看",
+        "isDanger": 0,
+        "phonetic": "ɡlɪmps",
+        "meaning": "n. 一瞥"
+      },
+      {
+        "word": "snake",
+        "toggle": "n. 蛇；阴险的人",
+        "isDanger": 0,
+        "phonetic": "sneɪk",
+        "meaning": "n. 蛇"
+      },
+      {
+        "word": "movement",
+        "toggle": "n. 运动；乐章；活动；运转",
+        "isDanger": 0,
+        "phonetic": "ˈmuːvmənt",
+        "meaning": "n. 动作"
+      },
+      {
+        "word": "continue",
+        "toggle": "vi. 仍旧，连续；继续，延续",
+        "isDanger": 1,
+        "phonetic": "kənˈtɪnjuː",
+        "meaning": "v. 继续"
+      },
+      {
+        "word": "dance",
+        "toggle": "n. 舞蹈；舞曲；舞会",
+        "isDanger": 0,
+        "phonetic": "dɑːns",
+        "meaning": "v. 跳舞"
+      },
+      {
+        "word": "obviously",
+        "toggle": "adv. 明显地",
+        "isDanger": 0,
+        "phonetic": "ˈɒbviəsli",
+        "meaning": "adv. 显然"
+      },
+      {
+        "word": "difference",
+        "toggle": "n. 差异；不同；争执",
+        "isDanger": 0,
+        "phonetic": "ˈdɪfrəns",
+        "meaning": "n. 差别"
+      },
+      {
+        "word": "Indian",
+        "toggle": "adj. 印度的；印第安人的；印第安语的",
+        "isDanger": 0,
+        "phonetic": "ˈɪndiən",
+        "meaning": "adj. 印度的"
+      }
+    ]
+  }
+}

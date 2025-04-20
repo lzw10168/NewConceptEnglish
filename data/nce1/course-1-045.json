@@ -1,0 +1,253 @@
+{
+  "id": "nce1-045",
+  "lessonNumber": "045",
+  "title": {
+    "english": "The boss's letter",
+    "chinese": "老板的信"
+  },
+  "lessonInfo": "新概念英语－第1册－第045课",
+  "audioPath": "audio/nce1/045.mp3",
+  "listeningQuestion": {
+    "question": "Why can't Pamela type the letter?",
+    "translation": "听录音回答：帕梅拉为什么无法打信？"
+  },
+  "editorNotes": "本课展现了一个典型的办公室场景，涉及同事之间的工作交流和委托任务。通过对话，学习者可以掌握办公室常用语、礼貌用语，以及表达困难或无法完成任务的方式。同时也体现了幽默元素，展示了真实的职场情境。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "THE BOSS: Can you come here a minute",
+      "please, Bob?",
+      "BOB: Yes, sir?",
+      "THE BOSS: Where's Pamela?",
+      "BOB: She's next door.",
+      "She's in her office, sir.",
+      "THE BOSS: Can she type this letter for me? Ask her please.",
+      "BOB: Yes, sir.",
+      "BOB: Can you type this letter for the boss please, Pamela?",
+      "PAMELA: Yes, of course I can.",
+      "BOB: Here you are.",
+      "PAMELA: Thank you, Bob.",
+      "PAMELA: Bob!",
+      "BOB: Yes?",
+      "What's the matter.",
+      "PAMELA: I can't type this letter.",
+      "PAMELA: I can't read it! The boss's handwriting is terrible!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "老 板：请你来一下好吗？鲍勃？",
+      "鲍 勃: 什么事，先生？",
+      "老 板：帕梅拉在哪儿？",
+      "鲍 勃: 她在隔壁，在她的办公室里，先生。",
+      "老 板：她能为我打一下这封信吗？请问她。",
+      "鲍 勃: 好的，先生。",
+      "鲍 勃: 请你把这封信给老板打一下可以吗，\t帕梅拉？",
+      "帕梅拉：可以，当然可以。",
+      "鲍 勃: 给你这信。",
+      "帕梅拉：谢谢你，鲍勃。",
+      "帕梅拉：鲍勃！",
+      "鲍 勃: 怎么了？怎么回事？",
+      "帕梅拉：我打不了这封信。",
+      "帕梅拉：我看不懂这封信， 老板的书写太糟糕了！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 办公室礼貌用语",
+        "children": [
+          "核心概念：职场交际用语",
+          "常用表达：",
+          "- Can you come here a minute please? 请你来一下好吗？",
+          "- Yes, sir? 什么事，先生？",
+          "- Here you are. 给你。",
+          "使用场景：",
+          "- 工作请求、回应上级、传递物品",
+          "注意事项：",
+          "- 语气礼貌、称谓得当、回应及时"
+        ]
+      },
+      {
+        "heading": "2. 位置表达",
+        "children": [
+          "核心概念：描述位置的表达方式",
+          "常用表达：",
+          "- next door 在隔壁",
+          "- in her office 在她的办公室",
+          "- here 在这里",
+          "使用场景：",
+          "- 指明位置、回答询问、提供方向",
+          "注意事项：",
+          "- 表达准确、语序正确、搭配恰当"
+        ]
+      },
+      {
+        "heading": "3. 表达困难",
+        "children": [
+          "核心概念：表达无法完成任务的原因",
+          "常用表达：",
+          "- I can't type this letter. 我打不了这封信。",
+          "- I can't read it! 我看不懂！",
+          "- The handwriting is terrible! 字迹太糟糕了！",
+          "使用场景：",
+          "- 表达困难、解释原因、委婉拒绝",
+          "注意事项：",
+          "- 态度诚恳、说明原因、提供解决方案"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. can的否定形式",
+        "children": [
+          "1. 一般否定：I can't type this letter.",
+          "2. 表示无能为力：I can't read it!",
+          "3. 否定句语序：主语 + can't + 动词原形",
+          "4. 常见搭配：can't do, can't see, can't read"
+        ]
+      },
+      {
+        "heading": "2. 表示请求的疑问句",
+        "children": [
+          "1. Can you...? 你能...吗？",
+          "2. 带please的礼貌用语：Can you...please?",
+          "3. 表示委婉请求：Could you...?",
+          "4. 回答方式：Yes, of course I can./I'm sorry, I can't."
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 办公室用语",
+        "children": [
+          "boss n. 老板，上司：",
+          "- the boss's letter 老板的信",
+          "- my boss 我的老板",
+          "office n. 办公室：",
+          "- in her office 在她的办公室",
+          "- the office building 办公楼"
+        ]
+      },
+      {
+        "heading": "2. 文书相关",
+        "children": [
+          "type v. 打字：",
+          "- type a letter 打一封信",
+          "- typing speed 打字速度",
+          "handwriting n. 书写，字迹：",
+          "- terrible handwriting 糟糕的字迹",
+          "- neat handwriting 工整的字迹"
+        ]
+      },
+      {
+        "heading": "3. 时间词汇",
+        "children": [
+          "minute n. 分钟：",
+          "- a minute please 请稍等一分钟",
+          "- in a minute 马上，一会儿",
+          "next door 在隔壁：",
+          "- the office next door 隔壁的办公室",
+          "- live next door 住在隔壁"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "can",
+        "toggle": "n. 罐头，一罐；金属容器",
+        "isDanger": 1,
+        "phonetic": "kæn",
+        "meaning": "v. 能够"
+      },
+      {
+        "word": "boss",
+        "toggle": "n. 老板；工头；首领",
+        "isDanger": 0,
+        "phonetic": "bɒs",
+        "meaning": "n. 老板，上司"
+      },
+      {
+        "word": "minute",
+        "toggle": "n. 片刻，一会儿；分，分钟；备忘录，笔记；会议记录",
+        "isDanger": 0,
+        "phonetic": "ˈmɪnɪt",
+        "meaning": "n. 分(钟)"
+      },
+      {
+        "word": "second",
+        "toggle": "n. 秒；瞬间；二等品；第二名",
+        "isDanger": 0,
+        "phonetic": "ˈsekənd",
+        "meaning": "n. 秒"
+      },
+      {
+        "word": "hour",
+        "toggle": "n. 小时；钟头；课时； … 点钟",
+        "isDanger": 0,
+        "phonetic": "ˈaʊə(r)",
+        "meaning": "n. 时"
+      },
+      {
+        "word": "ask",
+        "toggle": "vt. 问，询问；邀请；要求；需要；讨价",
+        "isDanger": 1,
+        "phonetic": "ɑːsk",
+        "meaning": "v. 请求，要求"
+      },
+      {
+        "word": "handwriting",
+        "toggle": "n. 书法；笔迹；书写；手稿",
+        "isDanger": 0,
+        "phonetic": "ˈhændraɪtɪŋ",
+        "meaning": "n. 书写"
+      },
+      {
+        "word": "terrible",
+        "toggle": "adj. 可怕的；很糟的；令人讨厌的",
+        "isDanger": 0,
+        "phonetic": "ˈterəb(ə)l",
+        "meaning": "adj. 糟糕的，可怕的"
+      },
+      {
+        "word": "answer",
+        "toggle": "vt. 符合；回答",
+        "isDanger": 0,
+        "phonetic": "ˈɑːnsə(r)",
+        "meaning": "v. 回答"
+      },
+      {
+        "word": "lift",
+        "toggle": "vt. 举起；提升；空运；鼓舞； [ 口 ] 抄袭",
+        "isDanger": 0,
+        "phonetic": "lɪft",
+        "meaning": "v. 拿起，搬起，举起"
+      },
+      {
+        "word": "cake",
+        "toggle": "n. 蛋糕；块状物；利益总额",
+        "isDanger": 0,
+        "phonetic": "keɪk",
+        "meaning": "n. 饼，蛋糕"
+      },
+      {
+        "word": "biscuit",
+        "toggle": "n. 小点心，饼干",
+        "isDanger": 0,
+        "phonetic": "ˈbɪskɪt",
+        "meaning": "n. 饼干"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

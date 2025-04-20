@@ -1,0 +1,385 @@
+{
+  "id": "nce1-001",
+  "lessonNumber": "001",
+  "title": {
+    "english": "Excuse me!",
+    "chinese": "对不起！"
+  },
+  "lessonInfo": "新概念英语－第1册－第001课",
+  "audioPath": "audio/nce1/001.mp3",
+  "listeningQuestion": {
+    "question": "Whose handbag is it?",
+    "translation": "这是谁的手袋？"
+  },
+  "editorNotes": "本课是新概念英语第一册的开篇课程，通过一个寻找失物的简单对话，介绍了英语交际中最基本的礼貌用语和问答方式。课文围绕一个找到他人手袋的场景，展示了如何礼貌引起注意、如何询问物品归属、以及如何表达感谢等基础交际功能。语法重点包括be动词的一般疑问句和物主代词的使用。这些内容是英语学习的基础，对日常生活中的礼貌交际至关重要。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Excuse me!",
+      "Yes?",
+      "Is this your handbag?",
+      "Pardon?",
+      "Is this your handbag?",
+      "Yes, it is.",
+      "Thank you very much."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "对不起",
+      "什么事？",
+      "这是您的手提包吗？",
+      "对不起，请再说一遍。",
+      "这是您的手提包吗？",
+      "是的，是我的。",
+      "非常感谢！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 礼貌引起注意",
+        "children": [
+          "核心概念：如何礼貌地引起他人注意",
+          "使用场景：",
+          "- 向陌生人问路 | 打断他人谈话 | 寻求帮助 | 提醒他人",
+          "实用例句：",
+          "- Excuse me! (对不起，打扰一下！)",
+          "- Excuse me, could you help me? (对不起，您能帮我一下吗？)",
+          "- Excuse me, is this seat taken? (对不起，这个座位有人吗？)",
+          "使用注意事项：",
+          "- 语气要温和礼貌 | 可搭配手势，但不要触碰对方 | 避免在他人正忙时打扰",
+          "文化背景：",
+          "- 英语国家非常重视个人空间",
+          "- Excuse me是最常用的礼貌引起注意的方式"
+        ]
+      },
+      {
+        "heading": "2. 重复请求表达",
+        "children": [
+          "核心概念：如何请求对方重复所说的话",
+          "使用场景：没听清对方的话，需要确认信息，表示疑惑",
+          "实用例句：",
+          "- Pardon? (请再说一遍？)",
+          "- I beg your pardon? (对不起，请再说一遍？)",
+          "- Could you repeat that, please? (请您再说一遍好吗？)",
+          "使用注意事项：",
+          "- Pardon? 比 What? 更礼貌 | 语气要表示歉意 | 可以配合适当的面部表情",
+          "文化背景：",
+          "- 英语国家认为直接说What很不礼貌",
+          "- Pardon是英式英语中更常用的表达"
+        ]
+      },
+      {
+        "heading": "3. 物品归属确认",
+        "children": [
+          "核心概念：如何询问和确认物品的所有权",
+          "使用场景：找到失物时，确认物品归属，认领物品时",
+          "实用例句：",
+          "- Is this your handbag? (这是您的手提包吗？)",
+          "- Is this yours? (这是您的吗？)",
+          "- Does this belong to you? (这是属于您的吗？)",
+          "使用注意事项：",
+          "- 使用your/yours表示所属关系",
+          "- 可用this/that根据距离指代物品",
+          "- 注意使用礼貌的语气"
+        ]
+      },
+      {
+        "heading": "4. 感谢表达",
+        "children": [
+          "核心概念：如何表达不同程度的感谢",
+          "使用场景：收到帮助时，找回失物时，得到服务时",
+          "实用例句：",
+          "- Thank you very much. (非常感谢)",
+          "- Thanks a lot. (多谢)",
+          "- Thank you so much. (太感谢了)",
+          "使用注意事项：",
+          "- very much表示更强的感谢",
+          "- Thanks较为随意，Thank you更正式",
+          "- 可配合微笑或点头等肢体语言",
+          "文化背景：",
+          "- 英语国家非常重视表达感谢",
+          "- 不同场合选择不同的感谢用语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. Be动词的一般疑问句",
+        "children": [
+          "核心概念：",
+          "- 将be动词置于句首",
+          "- 用Yes/No回答",
+          "转换规则：",
+          "- 陈述句：This is your handbag.",
+          "- 疑问句：Is this your handbag?",
+          "实用例句：",
+          "- Is this your book? → Yes, it is. / No, it isn't.",
+          "- Are these your keys? → Yes, they are. / No, they aren't.",
+          "常见误区：",
+          "- 不要忘记问号",
+          "- 回答要用完整形式",
+          "扩展用法：",
+          "- 用于询问身份：Is this Mr. Smith?",
+          "- 用于询问位置：Is it here?",
+          "- 用于询问状态：Is everything OK?"
+        ]
+      },
+      {
+        "heading": "2. 物主代词的使用",
+        "children": [
+          "核心概念：",
+          "- your: 形容词性物主代词",
+          "- yours: 名词性物主代词",
+          "使用规则：",
+          "- your + 名词 | yours单独使用",
+          "实用例句：",
+          "- Is this your handbag? (这是你的手提包吗？)",
+          "- This handbag is yours. (这个手提包是你的)",
+          "注意事项：",
+          "- your后面必须接名词 | yours不能接名词",
+          "扩展用法：",
+          "- 表示所属关系：your book/your car",
+          "- 用于书信开头：Yours sincerely",
+          "- 用于表示亲近：yours truly"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 礼貌用语",
+        "children": [
+          "excuse (v.) 原谅，请原谅",
+          "基本含义：表示歉意或请求原谅",
+          "常用搭配：",
+          "- excuse me (对不起，打扰一下)",
+          "- excuse my interruption (对不起，打断一下)",
+          "实用例句：",
+          "- Excuse me, where is the library? (对不起，请问图书馆在哪里？)",
+          "- Please excuse my late arrival. (请原谅我的迟到)",
+          "使用场景：引起注意，表示歉意，礼貌打断"
+        ]
+      },
+      {
+        "heading": "2. 日常物品词汇",
+        "children": [
+          "handbag (n.) 手提包",
+          "基本含义：女用手提包",
+          "常用搭配：",
+          "- leather handbag (皮质手提包)",
+          "- designer handbag (设计师手提包)",
+          "实用例句：",
+          "- She left her handbag on the bus. (她把手提包落在公交车上了)",
+          "- This is a beautiful handbag. (这是一个漂亮的手提包)",
+          "相关词组：",
+          "- shoulder bag (肩包)",
+          "- shopping bag (购物袋)",
+          "- clutch bag (手拿包)"
+        ]
+      },
+      {
+        "heading": "3. 应答词汇",
+        "children": [
+          "pardon (interj.) 请再说一遍",
+          "基本含义：用于请求重复",
+          "常用搭配：",
+          "- I beg your pardon (非常抱歉)",
+          "- pardon me (对不起)",
+          "实用例句：",
+          "- Pardon? I didn't catch that. (对不起？我没听清)",
+          "- Pardon me for being late. (对不起我迟到了)",
+          "使用场景：请求重复，表示歉意，礼貌打断"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "excuse",
+        "toggle": "n. 理由；借口",
+        "isDanger": 1,
+        "phonetic": "ɪkˈskjuːs",
+        "meaning": "v. 原谅"
+      },
+      {
+        "word": "me",
+        "toggle": "pron. 我（宾格）",
+        "isDanger": 1,
+        "phonetic": "miː",
+        "meaning": "pron. 我(宾格)"
+      },
+      {
+        "word": "yes",
+        "toggle": "adv. 是",
+        "isDanger": 0,
+        "phonetic": "jes",
+        "meaning": "adv. 是的"
+      },
+      {
+        "word": "is",
+        "toggle": "prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安",
+        "isDanger": 0,
+        "phonetic": "ɪz",
+        "meaning": "v. be动词现在时第三人称单数"
+      },
+      {
+        "word": "this",
+        "toggle": "pron. 这；这个；这里",
+        "isDanger": 1,
+        "phonetic": "ðɪs",
+        "meaning": "pron. 这"
+      },
+      {
+        "word": "your",
+        "toggle": "pron. 你的，你们的",
+        "isDanger": 0,
+        "phonetic": "jɔː(r)",
+        "meaning": "pron. 你的，你们的"
+      },
+      {
+        "word": "handbag",
+        "toggle": "n. 手提包",
+        "isDanger": 0,
+        "phonetic": "ˈhændbæɡ",
+        "meaning": "n. (女用)手提包"
+      },
+      {
+        "word": "pardon",
+        "toggle": "n. 原谅；宽恕；赦免",
+        "isDanger": 0,
+        "phonetic": "ˈpɑːd(ə)n",
+        "meaning": "interj. 原谅，请再说一遍"
+      },
+      {
+        "word": "it",
+        "toggle": "pron. 它",
+        "isDanger": 1,
+        "phonetic": "ɪt",
+        "meaning": "pron. 它"
+      },
+      {
+        "word": "thank",
+        "toggle": "vt. 感谢",
+        "isDanger": 0,
+        "phonetic": "θæŋk",
+        "meaning": "v. 感谢"
+      },
+      {
+        "word": "you",
+        "toggle": "pron. 你；你们",
+        "isDanger": 0,
+        "phonetic": "juː",
+        "meaning": "pron. 你(们)"
+      },
+      {
+        "word": "very",
+        "toggle": "adj. 十足的；恰好是，正是；甚至；特有的",
+        "isDanger": 0,
+        "phonetic": "ˈveri",
+        "meaning": "adv. 非常地"
+      },
+      {
+        "word": "much",
+        "toggle": "adv. 非常，很",
+        "isDanger": 1,
+        "phonetic": "mʌtʃ",
+        "meaning": "adv. 多地"
+      },
+      {
+        "word": "pen",
+        "toggle": "n. 钢笔；围栏；作家",
+        "isDanger": 0,
+        "phonetic": "pen",
+        "meaning": "n. 钢笔"
+      },
+      {
+        "word": "pencil",
+        "toggle": "n. 铅笔；笔状物",
+        "isDanger": 0,
+        "phonetic": "ˈpens(ə)l",
+        "meaning": "n. 铅笔"
+      },
+      {
+        "word": "book",
+        "toggle": "n. 书籍；帐簿；卷；名册；工作簿",
+        "isDanger": 0,
+        "phonetic": "bʊk",
+        "meaning": "n. 书"
+      },
+      {
+        "word": "watch",
+        "toggle": "vt. 注视；观察；看守；警戒",
+        "isDanger": 1,
+        "phonetic": "wɒtʃ",
+        "meaning": "n. 手表"
+      },
+      {
+        "word": "coat",
+        "toggle": "n. 外套",
+        "isDanger": 0,
+        "phonetic": "kəʊt",
+        "meaning": "n. 上衣，外衣"
+      },
+      {
+        "word": "dress",
+        "toggle": "vt. 给 … 穿衣",
+        "isDanger": 1,
+        "phonetic": "dres",
+        "meaning": "n. 连衣裙"
+      },
+      {
+        "word": "skirt",
+        "toggle": "n. 裙子",
+        "isDanger": 0,
+        "phonetic": "skɜːt",
+        "meaning": "n. 裙子"
+      },
+      {
+        "word": "shirt",
+        "toggle": "n. 衬衫；汗衫，内衣",
+        "isDanger": 0,
+        "phonetic": "ʃɜːt",
+        "meaning": "n. 衬衣"
+      },
+      {
+        "word": "car",
+        "toggle": "n. 汽车；车厢",
+        "isDanger": 0,
+        "phonetic": "kɑː(r)",
+        "meaning": "n. 小汽车"
+      },
+      {
+        "word": "house",
+        "toggle": "n. 住宅；家庭；某种用途的建筑物；机构；议会",
+        "isDanger": 1,
+        "phonetic": "haʊs",
+        "meaning": "n. 房子"
+      },
+      {
+        "word": "thank you",
+        "toggle": "谢谢你",
+        "isDanger": 0,
+        "phonetic": "ˈθæŋk juː",
+        "meaning": "interj. 感谢你(们)"
+      },
+      {
+        "word": "very much",
+        "toggle": "非常; 良; 无可不可",
+        "isDanger": 0,
+        "phonetic": "ˈveri mʌtʃ",
+        "meaning": "interj. 非常地"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

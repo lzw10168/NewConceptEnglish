@@ -1,0 +1,189 @@
+{
+  "id": "nce2--011",
+  "lessonNumber": "011",
+  "title": {
+    "english": "One good turn deserves another",
+    "chinese": "礼尚往来"
+  },
+  "lessonInfo": "新概念英语－第2册－第011课",
+  "audioPath": "audio/nce2/011.mp3",
+  "listeningQuestion": {
+    "question": "What did Tony ask the writer to do?",
+    "translation": "托尼让作者做什么？"
+  },
+  "editorNotes": "本课讲述了一个关于借钱和付饭钱的小故事，介绍了动词时态和带to的不定式用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I was having dinner at a restaurant when Tony Steele came in.",
+      "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "Tony saw me and came and sat at the same table.",
+      "He has never borrowed money from me.",
+      "While he was eating, I asked him to lend me twenty pounds.",
+      "To my surprise, he gave me the money immediately.",
+      "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我正在一家饭馆吃饭，托尼·斯蒂尔走了进来。",
+      "托尼曾在一家律师事务所工作，而现在正在一家银行上班。",
+      "他的薪水很高，但他却总是向朋友借钱，并且从来不还。",
+      "托尼看见了我，就走过来和我坐到一张桌子前。",
+      "他从未向我借过钱。",
+      "当他吃饭时，我提出向他借20英镑。",
+      "令我惊奇的是，他立刻把钱给了我。",
+      "'我还从未向你借过钱，'托尼说道，'所以现在你可以替我付饭钱了！'"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "turn",
+        "toggle": "vt. 转动，使旋转；转弯；兑换；翻过来",
+        "isDanger": 1,
+        "phonetic": "tɜːn",
+        "meaning": "n. 行为，举止"
+      },
+      {
+        "word": "deserve",
+        "toggle": "vi. 应受，应得",
+        "isDanger": 1,
+        "phonetic": "dɪˈzɜːv",
+        "meaning": "v. 应得到，值得"
+      },
+      {
+        "word": "lawyer",
+        "toggle": "n. 律师；法学家",
+        "isDanger": 0,
+        "phonetic": "ˈlɔɪə(r)",
+        "meaning": "n. 律师"
+      },
+      {
+        "word": "bank",
+        "toggle": "n. 银行；岸；储库；浅滩",
+        "isDanger": 1,
+        "phonetic": "bæŋk",
+        "meaning": "n. 银行"
+      },
+      {
+        "word": "salary",
+        "toggle": "vt. 给 ... 加薪；给 ... 薪水",
+        "isDanger": 0,
+        "phonetic": "ˈsæləri",
+        "meaning": "n. 工资"
+      },
+      {
+        "word": "immediately",
+        "toggle": "adv. 直接地；立即，立刻",
+        "isDanger": 0,
+        "phonetic": "ɪˈmiːdiətli",
+        "meaning": "adv. 立刻"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "动词时态的运用",
+        "content": "本课中出现了多种时态：过去进行时（was having），一般过去时（came in），现在进行时（is working），现在完成时（has never borrowed）等，展示了英语中时态的灵活运用。"
+      },
+      {
+        "title": "动词+名词/代词+带to的不定式",
+        "content": "如'I asked him to lend me twenty pounds'中，ask后面可以接名词/代词+带to的不定式，表示请求某人做某事。"
+      },
+      {
+        "title": "pay的用法",
+        "content": "pay可作及物动词也可作不及物动词。pay for表示'为...付钱'，pay back表示'还钱'。"
+      },
+      {
+        "title": "work的介词搭配",
+        "content": "work for强调工作关系，work in/at强调工作地点。如work in a lawyer's office, work at a bank。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "One good turn deserves another",
+        "translation": "礼尚往来，善有善报",
+        "context": "表示好事应该得到好的回报",
+        "example": "I helped him last time, and now he's helping me - one good turn deserves another."
+      },
+      {
+        "phrase": "pay for",
+        "translation": "为...付钱",
+        "context": "表示支付费用",
+        "example": "Would you like me to pay for your dinner?"
+      },
+      {
+        "phrase": "borrow from",
+        "translation": "向...借",
+        "context": "表示借用",
+        "example": "He often borrows money from his friends."
+      },
+      {
+        "phrase": "at the same table",
+        "translation": "在同一张桌子旁",
+        "context": "表示位置",
+        "example": "They sat at the same table in the restaurant."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What is Tony's current job?",
+        "options": [
+          "He works in a lawyer's office",
+          "He works at a bank",
+          "He works at a restaurant",
+          "He is unemployed"
+        ],
+        "answer": 1,
+        "explanation": "课文中明确提到Tony现在在银行工作（he is now working at a bank）。"
+      },
+      {
+        "question": "Why did Tony give the writer money immediately?",
+        "options": [
+          "Because he was rich",
+          "Because he wanted to help",
+          "Because he wanted the writer to pay for his dinner",
+          "Because he was generous"
+        ],
+        "answer": 2,
+        "explanation": "从故事结尾可以看出，Tony给钱是为了让作者付他的饭钱。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Tony _____ in a lawyer's office years ago.",
+        "answer": "worked",
+        "hint": "使用一般过去时，表示过去发生的事情"
+      },
+      {
+        "sentence": "He _____ borrowed any money from you.",
+        "answer": "has never",
+        "hint": "使用现在完成时，表示过去到现在的经历"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "工资类型辨析",
+        "content": "英语中表示工资的词有多种：salary通常指按月支付的固定工资，多指脑力劳动者的收入；wage通常指按小时或按周计算的工资，多指体力劳动者的收入；pay则是一个通用词，可指各种形式的报酬。"
+      },
+      {
+        "title": "英语中的借贷表达",
+        "content": "在英语中，borrow表示借入，lend表示借出。这两个词的使用反映了动作的方向：borrow强调获取，lend强调给予。在实际交际中，这种区别的准确使用很重要。"
+      }
+    ]
+  }
+}

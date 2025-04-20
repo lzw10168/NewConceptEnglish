@@ -1,0 +1,221 @@
+{
+  "id": "nce2--040",
+  "lessonNumber": "040",
+  "title": {
+    "english": "Food and talk",
+    "chinese": "进餐与交谈"
+  },
+  "lessonInfo": "新概念英语－第2册－第040课",
+  "audioPath": "audio/nce2/040.mp3",
+  "listeningQuestion": {
+    "question": "Why did Mrs. Rumbold not enjoy the dinner?",
+    "translation": "为什么兰伯尔德夫人没有享受这顿饭？"
+  },
+  "editorNotes": "本课讲述了一个在晚宴上发生的尴尬对话。作者试图与一位严肃的女士交谈，但对方只回答'不'，最后还讽刺作者话太多。这个故事反映了社交场合中的沟通技巧和礼仪问题。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.",
+      "Mrs. Rumbold was a large, unsmiling lady in a tight black dress.",
+      "She did not even look up when I took my seat beside her.",
+      "Her eyes were fixed on her plate and in a short time, she was busy eating.",
+      "I tried to make conversation.",
+      "'A new play is coming to \"The Globe\" soon,' I said. 'Will you be seeing it?'",
+      "'No,' she answered.",
+      "'Will you be spending your holidays abroad this year?' I asked.",
+      "'No,' she answered.",
+      "'Will you be staying in England?' I asked.",
+      "'No,' she answered.",
+      "In despair, I asked her whether she was enjoying her dinner.",
+      "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "在上星期的一次宴会上，女主人安排我坐在兰伯尔德夫人的身旁。",
+      "兰伯尔德夫人是一位身材高大、表情严肃的女人，穿一件紧身的黑衣服。",
+      "当我在她身旁坐下来的时候，她甚至连头都没有抬一下。",
+      "她的眼睛盯着自己的盘子，不一会儿就忙着吃起来了。",
+      "我试图找个话题和她聊聊。",
+      "'一出新剧要来'环球剧场'上演了，'我说，'您去看吗？'",
+      "'不，'她回答。",
+      "'您今年去国外度假吗？'我又问。",
+      "'不，'她回答。",
+      "'您就呆在英国吗？'我问。",
+      "'不，'她回答。",
+      "失望之中我问她饭是否吃得满意。",
+      "'年轻人，'她回答说，'如果你多吃点，少说点，我们两个都会吃得好的！'"
+    ]
+  },
+  "newwords": {
+    "heading": "生词和短语",
+    "notes": [
+      {
+        "word": "hostess",
+        "toggle": "n. 女主人，女老板；舞女；女服务员；女房东",
+        "isDanger": 0,
+        "phonetic": "ˈhəʊstəs",
+        "meaning": "n. 女主人"
+      },
+      {
+        "word": "unsmiling",
+        "toggle": "adj.不笑的,面无笑容的,严肃的",
+        "isDanger": 0,
+        "phonetic": "ˌʌnˈsmaɪlɪŋ",
+        "meaning": "adj. 不笑的，严肃的"
+      },
+      {
+        "word": "tight",
+        "toggle": "adj. 紧的；绷紧的；没空的；密封的；严厉的；麻烦的；吝啬的",
+        "isDanger": 0,
+        "phonetic": "taɪt",
+        "meaning": "adj. 紧身的"
+      },
+      {
+        "word": "fix",
+        "toggle": "vt. 安装；修理；使固定；准备",
+        "isDanger": 1,
+        "phonetic": "fɪks",
+        "meaning": "v. 凝视"
+      },
+      {
+        "word": "globe",
+        "toggle": "n. 地球仪；地球；球体",
+        "isDanger": 1,
+        "phonetic": "ɡləʊb",
+        "meaning": "n. 地球"
+      },
+      {
+        "word": "despair",
+        "toggle": "n. 绝望；令人绝望的人或事",
+        "isDanger": 1,
+        "phonetic": "dɪˈspeə(r)",
+        "meaning": "n. 绝望"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点",
+    "notes": [
+      {
+        "title": "第2类条件句（虚拟条件句）",
+        "content": "第2类条件句，if从句谈论想象的情况（假设与现在事实相反），主句则推测想象的结果。从句使用一般过去时，主句使用would+动词原形。尽管第2类条件句使用过去时，却并非指过去的时间，所以，if之后的过去时用法常被称为'非真实的过去'，整个条件句也被称作非真实条件句。例如：If you helped me, I would be grateful. 如果你帮了我，我会感激你（可惜你没有帮我，我不会感激你）。"
+      },
+      {
+        "title": "make的用法",
+        "content": "及物动词make的原义为'制造'，但它经常用于一些固定的结构，最常见的为make+（冠词）+名词形式：make progress（取得进步）；make the bed（铺床）；make conversation（找话题）；make a noise（吵闹）；make a promise（保证）；make trouble（捣蛋，制造麻烦）；make money（挣钱）；make a speech（演讲）；make a mistake（犯错误）；make up one's mind（下定决心，拿定主意）。"
+      },
+      {
+        "title": "do的用法",
+        "content": "完全动词do也有一些固定短语：do one's best（尽最大努力）；do one's homework（做作业）；do sb. a favour（帮忙）；do a job（干家务）；do work（做家务）；do exercise（做练习）；do business（做生意）。do还可以与动名词连用：do some shopping（买东西，购物）；do swimming（游泳）；do some reading（读书）。"
+      },
+      {
+        "title": "动词的及物与不及物用法",
+        "content": "seat是及物动词，一定要加宾语，如果后面没宾语，就用seat的被动语态：seat yourself/be seated。sit是不及物动词，没有被动语态，后面不能加宾语，坐下：sit down。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语",
+    "notes": [
+      {
+        "phrase": "next to",
+        "translation": "与……相邻，挨着",
+        "context": "既可表示座位挨着也可以表示地理位置上挨着",
+        "example": "sit next to me 坐我旁边；There's a field/shop next to our house."
+      },
+      {
+        "phrase": "take a seat",
+        "translation": "坐下",
+        "context": "比sit要正式",
+        "example": "Please take a seat."
+      },
+      {
+        "phrase": "take one's seat",
+        "translation": "就座",
+        "context": "表示位置事先已安排好",
+        "example": "After everyone had taken his seat, the meeting/dinner/party began."
+      },
+      {
+        "phrase": "be busy doing sth.",
+        "translation": "忙着做某事",
+        "context": "表示正在忙于某事",
+        "example": "We're all busy (in) getting ready for the performance."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "She asked me to sit next to Mrs. Rumbold. '___ next to her,' she said.",
+        "options": [
+          "Please to sit",
+          "To sit",
+          "Please sit",
+          "Please sitting"
+        ],
+        "answer": 2,
+        "explanation": "ask sb. to do sth. 祈使句，以动词原形为标志"
+      },
+      {
+        "question": "I took my seat beside her. I ___ beside her.",
+        "options": [
+          "sat",
+          "seated",
+          "was sitted",
+          "was seating"
+        ],
+        "answer": 0,
+        "explanation": "seat一定要加宾语，如果后面没宾语，就用seat的被动语态（及物动词）：seat yourself/be seated。sit是不及物动词，没有被动语态，后面不能加宾语，坐下：sit down"
+      },
+      {
+        "question": "Her eyes were fixed on the plate. She ___ it.",
+        "options": [
+          "was glancing at",
+          "was staring at",
+          "was thinking about",
+          "was stuck to"
+        ],
+        "answer": 1,
+        "explanation": "stuck to 粘在……上面；glance at 扫了一眼；stare at = fix one's eyes on 盯着看"
+      },
+      {
+        "question": "Are you enjoying your dinner? Is it ___?",
+        "options": [
+          "enjoying you",
+          "amusing you",
+          "entertaining you",
+          "giving you pleasure"
+        ],
+        "answer": 3,
+        "explanation": "enjoy sth. 表示在后者当中得到了一种享受；enjoy 主语是人；enjoy oneself；sth. amuse 好笑；entertain sb. 娱乐"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "She not only refused to answer questions ___ she did not ask any questions either.",
+        "answer": "but",
+        "hint": "表示转折的连词，用于not only...but...either结构"
+      },
+      {
+        "sentence": "She was interested ___ neither the theatre ___ travel.",
+        "answer": "in...nor",
+        "hint": "表示否定的连词，用于neither...nor结构"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容",
+    "notes": [
+      {
+        "title": "社交礼仪",
+        "content": "在英语国家的社交场合，适当的交谈是礼仪的一部分。然而，过度交谈或在不恰当的时机交谈也可能被视为不礼貌。本课中的故事反映了社交场合中的平衡问题，以及不同人对社交互动的不同期望。"
+      },
+      {
+        "title": "非语言沟通",
+        "content": "Mrs. Rumbold的'unsmiling'表情和'eyes fixed on her plate'的行为都是非语言沟通的例子，表明她不想交谈。在跨文化交际中，理解非语言信号非常重要，因为不同文化对非语言行为的解读可能不同。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "nce2--025",
+  "lessonNumber": "025",
+  "title": {
+    "english": "Do the English speak English?",
+    "chinese": "英国人说的是英语吗？"
+  },
+  "lessonInfo": "新概念英语－第2册－第025课",
+  "audioPath": "audio/nce2/025.mp3",
+  "listeningQuestion": {
+    "question": "What was the problem between the writer and the porter?",
+    "translation": "作者和搬运工之间存在什么问题？"
+  },
+  "editorNotes": "本课讲述了一个外国人在英国火车站与搬运工交流时遇到的语言障碍，重点介绍了railway、porter、several等词的用法，以及英语中表示'到达'的多种表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I arrived in London at last.",
+      "The railway station was big, black and dark.",
+      "I did not know the way to my hotel, so I asked a porter.",
+      "I not only spoke English very carefully, but very clearly as well.",
+      "The porter, however, could not understand me.",
+      "I repeated my question several times and at last he understood.",
+      "He answered me, but he spoke neither slowly nor clearly.",
+      "'I am a foreigner,' I said.",
+      "Then he spoke slowly, but I could not understand him.",
+      "My teacher never spoke English like that!",
+      "The porter and I looked at each other and smiled.",
+      "Then he said something and I understood it.",
+      "'You'll soon learn English!' he said.",
+      "I wonder.",
+      "In England, each person speaks a different language.",
+      "The English understand each other, but I don't understand them!",
+      "Do they speak English?"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我终于到了伦敦。",
+      "火车站很大，又黑又暗。",
+      "我不知道去饭店的路该怎么走，于是向一个搬运工打听。",
+      "我的英语讲得不但非常认真，而且咬字也非常清楚。",
+      "然而搬运工却不明白我的话。",
+      "我把问话重复了很多遍。他终于听懂了。",
+      "他回答了，但他讲得既不慢也不清楚。",
+      "'我是个外国人，'我说。",
+      "于是他说得慢了，可我还是听不懂。",
+      "我的老师从来不那样讲英语！",
+      "我和搬运工相视一笑。",
+      "接着，他说了点什么，这回我听懂了。",
+      "'您会很快学会英语的！'他说。",
+      "我感到奇怪。",
+      "在英国，人们各自说着一种不同的语言。",
+      "英国人之间相互听得懂，可我却不懂他们的话！",
+      "他们说的是英语吗？"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "railway",
+        "toggle": "n. （英）铁路；铁道部门；轨道",
+        "isDanger": 0,
+        "phonetic": "ˈreɪlweɪ",
+        "meaning": "n. 铁路"
+      },
+      {
+        "word": "porter",
+        "toggle": "n. 门房；守门人；服务员；行李搬运工",
+        "isDanger": 0,
+        "phonetic": "ˈpɔːtə(r)",
+        "meaning": "n. 搬运工"
+      },
+      {
+        "word": "foreigner",
+        "toggle": "n. 外地人，外国人",
+        "isDanger": 0,
+        "phonetic": "ˈfɒrənə(r)",
+        "meaning": "n. 外国人"
+      },
+      {
+        "word": "wonder",
+        "toggle": "n. 惊奇；奇迹；惊愕",
+        "isDanger": 1,
+        "phonetic": "ˈwʌndə(r)",
+        "meaning": "v. 感到奇怪"
+      },
+      {
+        "word": "several",
+        "toggle": "adj. 几个的；各自的",
+        "isDanger": 1,
+        "phonetic": "ˈsevrəl",
+        "meaning": "pron. 几个"
+      },
+      {
+        "word": "quantifier",
+        "toggle": "n.数量词,量词",
+        "isDanger": 0,
+        "phonetic": "ˈkwɒntɪfaɪə",
+        "meaning": "n. 数量词"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "表示'到达'的多种表达",
+        "content": [
+          "1. arrive in/at - arrive in用于大地点，arrive at用于小地点",
+          "2. reach + 宾语 - 到达……（必须加宾语）",
+          "3. get to + 宾语 - 到达……",
+          "4. get home/there - home/there作副词时，不需要加介词"
+        ]
+      },
+      {
+        "title": "not only...but...as well",
+        "content": [
+          "1. 等同于not only...but also... - 不但……而且……",
+          "2. not only通常放在动词前面",
+          "3. 例句：I can not only speak Chinese but English as well."
+        ]
+      },
+      {
+        "title": "neither...nor...",
+        "content": [
+          "1. 表示'既不……也不……'",
+          "2. 谓语动词与nor后面的词保持一致（就近原则）",
+          "3. 例句：He spoke neither slowly nor clearly."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "at last",
+        "translation": "最后，终于",
+        "context": "表示经过长时间等待后终于发生",
+        "example": "I arrived in London at last."
+      },
+      {
+        "phrase": "the way to...",
+        "translation": "通往……的路",
+        "context": "询问或指示方向时使用",
+        "example": "I did not know the way to my hotel."
+      },
+      {
+        "phrase": "like that",
+        "translation": "像那样",
+        "context": "表示某种方式或方法",
+        "example": "My teacher never spoke English like that!"
+      },
+      {
+        "phrase": "look at each other",
+        "translation": "相视，互相看",
+        "context": "表示两人或多人之间的互视",
+        "example": "The porter and I looked at each other and smiled."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why couldn't the porter understand the writer at first?",
+        "options": [
+          "The writer spoke too fast",
+          "The writer's English was poor",
+          "The porter didn't speak English",
+          "They spoke different kinds of English"
+        ],
+        "answer": 3,
+        "explanation": "从文中可以看出，虽然作者说得很认真清楚，但由于英国人说的英语与他学的不同，所以双方都听不懂对方的话。"
+      },
+      {
+        "question": "What does 'I wonder' mean in this context?",
+        "options": [
+          "The writer is curious",
+          "The writer is doubtful",
+          "The writer is happy",
+          "The writer is angry"
+        ],
+        "answer": 1,
+        "explanation": "这里的'I wonder'表示作者对porter说的'You'll soon learn English!'这句话持怀疑态度。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The writer spoke English very _____ and clearly.",
+        "answer": "carefully",
+        "hint": "表示'认真地'的副词"
+      },
+      {
+        "sentence": "The porter spoke _____ slowly _____ clearly.",
+        "answer": "neither, nor",
+        "hint": "表示'既不……也不……'的结构"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "英语中的'English'用法",
+        "content": "1. the English - 英国人（作名词，指群体）；2. English - 英语（语言名称，不加冠词）；3. English - 英国的（作形容词）"
+      },
+      {
+        "title": "地址和日期的写法",
+        "content": "1. 地址中逗号表示前者属于后者；2. 日期中月和日可互换，年份前要加逗号；3. 日期要用序数词；4. 月份必须用英语字母"
+      }
+    ]
+  }
+}

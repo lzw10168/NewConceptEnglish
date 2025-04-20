@@ -1,0 +1,253 @@
+{
+  "id": "nce1-105",
+  "lessonNumber": "105",
+  "title": {
+    "english": "Hello, Mr.boss.",
+    "chinese": "老板您好"
+  },
+  "lessonInfo": "新概念英语－第1册－第105课",
+  "audioPath": "audio/nce1/105.mp3",
+  "listeningQuestion": {
+    "question": "What did the boss give to Miss Simpson and why?",
+    "translation": "老板给辛普森小姐什么礼物？为什么？"
+  },
+  "editorNotes": "本课通过一段办公室对话，展示了上下级之间的工作交流。课文涉及工作指令、错误纠正和礼貌用语等交际功能，同时介绍了祈使句和间接引语的使用。这些表达对于职场交际非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The Boss:     Where's Miss Simpson, Bob? I want her.",
+      "Bob:          Do you want to speak to her, sir?",
+      "The Boss:     Yes, I do. I want her to come to my office. Tell her to come at once.",
+      "Miss Simpson: Did you want to see me, sir?",
+      "The Boss:     Ah, yes, Miss Simpson. How do you spell 'intelligent'? Can you tell me?",
+      "Miss Simpson: I-N-T-E-L-L-I-G-E-N-T.",
+      "The Boss:     That's right. You've typed it with only one 'L'. This letter's full of mistakes. I want you to type it again.",
+      "Miss Simpson: Yes, I'll do that. I'm sorry about that.",
+      "The Boss:     And here's a little present for you.",
+      "Miss Simpson: What is it?",
+      "The Boss:     It's a dictionary. I hope it will help you."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "老 板：鲍勃，Simpson在哪儿？我要找她。",
+      "鲍 勃：您要同她谈话吗？",
+      "老 板：是的，我要她到我的办公室来。叫她马上就来。",
+      "Simpson：您找我吗？",
+      "老 板：啊，是的，Simpson。\"intelligent\" 怎样拼写？你能告诉我吗？",
+      "Simpson：I-N-T-E-L-L-I-G-E-N-T。",
+      "老 板：对的。但你只打了1个'L'。这封信里错误百出。我要你重打一遍。",
+      "Simpson：是，我重打。对此我感到很抱歉。",
+      "老 板：这里有一件小礼物送你。",
+      "Simpson：是什么？",
+      "老 板：是本词典。我希望它能对你有所帮助。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 办公室寻人",
+        "children": [
+          "核心概念：如何询问和传达找人信息",
+          "常用表达：",
+          "- Where's Miss Simpson? 辛普森小姐在哪里？",
+          "- I want her 我要找她",
+          "- Do you want to speak to her? 您要和她谈话吗？",
+          "- Did you want to see me? 您找我吗？",
+          "使用场景：在办公室找人时",
+          "注意事项：注意使用礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 工作指令",
+        "children": [
+          "核心概念：如何下达和接受工作指令",
+          "常用表达：",
+          "- I want her to come to my office 我要她到我的办公室来",
+          "- Tell her to come at once 让她立即来",
+          "- I want you to type it again 我要你重新打一遍",
+          "使用场景：下达工作任务时",
+          "注意事项：注意指令的清晰性和紧迫性"
+        ]
+      },
+      {
+        "heading": "3. 错误纠正",
+        "children": [
+          "核心概念：如何指出和承认错误",
+          "常用表达：",
+          "- This letter's full of mistakes 这封信里错误百出",
+          "- You've typed it with only one 'L' 你只打了一个'L'",
+          "- I'm sorry about that 对此我感到抱歉",
+          "使用场景：指出工作错误时",
+          "注意事项：注意语气的委婉和建设性"
+        ]
+      },
+      {
+        "heading": "4. 礼物赠送",
+        "children": [
+          "核心概念：如何赠送和接受礼物",
+          "常用表达：",
+          "- Here's a little present for you 这里有一件小礼物送你",
+          "- What is it? 是什么？",
+          "- I hope it will help you 我希望它能帮助你",
+          "使用场景：赠送办公用品或礼物时",
+          "注意事项：注意表达的善意和期望"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 祈使句的使用",
+        "children": [
+          "1. 直接祈使：Tell her to come",
+          "2. 间接祈使：I want her to come",
+          "3. 祈使句的否定形式",
+          "4. 祈使句的礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 现在完成时",
+        "children": [
+          "1. 表示完成：You've typed it",
+          "2. 表示结果：This letter's full of mistakes",
+          "3. 与一般过去时的区别",
+          "4. 在工作场合的应用"
+        ]
+      },
+      {
+        "heading": "3. 情态动词的使用",
+        "children": [
+          "1. can的用法：Can you tell me?",
+          "2. will的用法：It will help you",
+          "3. 情态动词的礼貌用语",
+          "4. 在办公场合的应用"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 办公室用语",
+        "children": [
+          "office n. 办公室：",
+          "- come to my office 来我的办公室",
+          "- work in an office 在办公室工作",
+          "type v. 打字：",
+          "- type a letter 打一封信",
+          "- type again 重新打字"
+        ]
+      },
+      {
+        "heading": "2. 错误相关词汇",
+        "children": [
+          "mistake n. 错误：",
+          "- make a mistake 犯错误",
+          "- full of mistakes 充满错误",
+          "spell v. 拼写：",
+          "- spell a word 拼写一个单词",
+          "- spelling mistake 拼写错误"
+        ]
+      },
+      {
+        "heading": "3. 礼貌用语",
+        "children": [
+          "present n. 礼物：",
+          "- give a present 送礼物",
+          "- little present 小礼物",
+          "sorry adj. 抱歉的：",
+          "- I'm sorry about that 对此我很抱歉",
+          "- say sorry 说对不起"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "spell",
+        "toggle": "vt. 拼，拼写；拼成；意味着；迷住；招致；轮值",
+        "isDanger": 1,
+        "phonetic": "spel",
+        "meaning": "v. 拼写"
+      },
+      {
+        "word": "intelligent",
+        "toggle": "adj. 聪明的；智能的；理解力强的",
+        "isDanger": 0,
+        "phonetic": "ɪnˈtelɪdʒənt",
+        "meaning": "adj. 聪明的，有智慧的"
+      },
+      {
+        "word": "mistake",
+        "toggle": "n. 错误；误会；过失",
+        "isDanger": 0,
+        "phonetic": "mɪˈsteɪk",
+        "meaning": "n. 错误"
+      },
+      {
+        "word": "error",
+        "toggle": "n. 错误；误差；过失",
+        "isDanger": 0,
+        "phonetic": "ˈerə(r)",
+        "meaning": "n. 错误"
+      },
+      {
+        "word": "fault",
+        "toggle": "n. 故障；毛病；缺点；错误； [ 地 ] 断层；（网球等）发球失误",
+        "isDanger": 0,
+        "phonetic": "fɔːlt",
+        "meaning": "v. 失误"
+      },
+      {
+        "word": "inaccuracy",
+        "toggle": "n. 错误；不精确",
+        "isDanger": 0,
+        "phonetic": "ɪnˈækjərəsi",
+        "meaning": "n. 不精确"
+      },
+      {
+        "word": "present",
+        "toggle": "vt. 呈现；介绍；提出；赠送",
+        "isDanger": 1,
+        "phonetic": "ˈprez(ə)nt",
+        "meaning": "n. 礼物"
+      },
+      {
+        "word": "gift",
+        "toggle": "n. 礼物；赠品；天赋",
+        "isDanger": 0,
+        "phonetic": "ɡɪft",
+        "meaning": "n. 礼物"
+      },
+      {
+        "word": "dictionary",
+        "toggle": "n. 字典；词典",
+        "isDanger": 0,
+        "phonetic": "ˈdɪkʃən(ə)ri",
+        "meaning": "n. 词典"
+      },
+      {
+        "word": "carry",
+        "toggle": "vt. 拿，扛；搬运；携带；支持",
+        "isDanger": 1,
+        "phonetic": "ˈkæri",
+        "meaning": "v. 携带"
+      },
+      {
+        "word": "correct",
+        "toggle": "vt. 改正；告诫",
+        "isDanger": 1,
+        "phonetic": "kəˈrekt",
+        "meaning": "v. 改正，纠正"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

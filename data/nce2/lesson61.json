@@ -1,0 +1,286 @@
+{
+  "id": "nce2--061",
+  "lessonNumber": "061",
+  "title": {
+    "english": "Trouble with the Hubble",
+    "chinese": "哈勃望远镜的麻烦"
+  },
+  "lessonInfo": "新概念英语－第2册－第061课",
+  "audioPath": "audio/nce2/061.mp3",
+  "listeningQuestion": {
+    "question": "What was wrong with the Hubble telescope?",
+    "translation": "哈勃望远镜出了什么问题？"
+  },
+  "editorNotes": "本课讲述了哈勃望远镜的发射、故障和修复计划。文章介绍了NASA发射的哈勃望远镜因主镜有误差而无法提供清晰图像，以及NASA计划派遣宇航员进行修复的情况。文章主要使用了将来完成时、将来进行时等时态，以及多个与太空探索相关的专业词汇。文章还涉及了科技发展和人类探索宇宙的主题，展示了人类对宇宙奥秘的探索精神。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars.",
+      "Right from the start there was trouble with the Hubble.",
+      "The pictures it sent us were very disappointing because its main mirror was faulty!",
+      "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+      "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "The Hubble will tell us a great deal about the age and size of the universe.",
+      "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "哈勃望远镜于1990年4月20日由国家航空航天局发射升空，耗资10多亿美元。",
+      "从最开始哈勃望远镜就有问题。",
+      "它传送给我们的图像很令人失望，因为它的主要镜子有误差。",
+      "国家航天局准备纠正这一错误，为此将把4名宇航员送入太空修复望远镜。",
+      "'奋进'号航天飞机将把宇航员送上哈勃。",
+      "当宇航员进行必要的修复工作时，'奋进'号上的一只机器手将抓住望远镜并托住它。",
+      "当然，哈勃位于地球的大气层之外，因此，它很快就会给我们传送我们所见到过的、有关行星和远距离星系的最清晰的照片。",
+      "哈勃将告诉我们有关宇宙的年龄和大小的许多事情。",
+      "等到你读到这篇文章时，敏锐的哈勃望远镜已经为我们送来了成千上万张精彩的照片。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "将来完成时",
+        "content": [
+          "将来完成时的构成：will have done，表示到将来某一时刻已经完成的动作，必须和某个时间状语连用，强调到将来某一点时间动作的结束。",
+          "例如：Workers will have completed the new roads by the end of this year.",
+          "在时间状语从句中，要用现在完成时代替将来完成时：By the time I've completed this one, I'll have been writing for six years.（到我写完这本书时，我将已经写了6年书了。）"
+        ]
+      },
+      {
+        "title": "将来进行时",
+        "content": [
+          "将来进行时的构成：will be doing，表示将来某个时候正在进行的动作或表示计划好的事，陈述将来的事实。",
+          "例如：They will be arriving here tomorrow.",
+          "在课文中：The shuttle Endeavour will be taking the astronauts to the Hubble.（'奋进'号航天飞机将把宇航员送上哈勃。）"
+        ]
+      },
+      {
+        "title": "将来完成进行时",
+        "content": [
+          "将来完成进行时的构成：will have been doing，表示某种状况一直持续到说话人所提及的时间，从某一点发生，一直延续到将来的某一点，并且将可能延续下去，强调到将来某一点时间动作可能结束或延续。",
+          "例如：By this time next week, I will have been working for this firm for twenty years.",
+          "在课文中：By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "at a cost of",
+        "translation": "造价为...，耗资，以...的价格/费用",
+        "context": "表示某物的造价或费用",
+        "example": "The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars."
+      },
+      {
+        "phrase": "right from the start",
+        "translation": "从最开始",
+        "context": "表示从开始就...，right起强调作用",
+        "example": "Right from the start there was trouble with the Hubble."
+      },
+      {
+        "phrase": "put sth. right",
+        "translation": "修好（故障等），校正，纠正",
+        "context": "表示修复或纠正某物",
+        "example": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it."
+      },
+      {
+        "phrase": "a great deal",
+        "translation": "大量",
+        "context": "表示数量多",
+        "example": "The Hubble will tell us a great deal about the age and size of the universe."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The Hubble telescope ___.",
+        "options": [
+          "will tell us a great deal about the universe",
+          "cost a lot but was almost worthless",
+          "will measure the size of the earth",
+          "requires constant care from the astronauts"
+        ],
+        "answer": 0,
+        "explanation": "文中提到'The Hubble will tell us a great deal about the age and size of the universe.'，表明哈勃望远镜将告诉我们关于宇宙的许多信息。"
+      },
+      {
+        "question": "A robot-arm will hold the telescope ___ the astronauts to repair it.",
+        "options": [
+          "for",
+          "so that",
+          "so long as",
+          "which"
+        ],
+        "answer": 0,
+        "explanation": "for sb. to do sth. 是基本结构，表示目的。"
+      },
+      {
+        "question": "The main mirror of the Hubble ___.",
+        "options": [
+          "had problems",
+          "was distant",
+          "was the clearest",
+          "requires repairs"
+        ],
+        "answer": 3,
+        "explanation": "文中提到'The pictures it sent us were very disappointing because its main mirror was faulty!'，表明主镜需要修理。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "By the time you read this, the Hubble's eagle eye ___ us thousands and thousands of wonderful pictures.",
+        "answer": "will have sent",
+        "hint": "表示到将来某一时刻已经完成的动作，用将来完成时"
+      },
+      {
+        "sentence": "The shuttle Endeavour ___ the astronauts to the Hubble.",
+        "answer": "will be taking",
+        "hint": "表示将来某个时候正在进行的动作，用将来进行时"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "Cost, Price, Value的区别：\n1. cost：价格，价钱，费用（侧重指某项服务、工程等），成本（复数）；价钱为...，（使）花费（不用于被动语态）\n2. price：价格，价钱（侧重于指某个具体东西或商品的价钱），物价（复数）；问...的价钱，查明/查询...的价格；给...定价/标价\n3. value：表示抽象的价值或重要性，价值观（复数）；尊重，重视"
+      },
+      {
+        "title": "文化背景",
+        "content": "哈勃望远镜是以美国天文学家埃德温·哈勃的名字命名的，于1990年发射升空。它是人类历史上最重要的天文观测工具之一，为人类提供了大量关于宇宙的宝贵信息。哈勃望远镜位于地球大气层之外，不受大气干扰，能够观测到更远、更清晰的宇宙图像。它的观测结果极大地推动了天文学的发展，帮助人类更好地理解宇宙的起源、结构和演化。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "Hubble",
+        "toggle": "n.小瘤、（Hubble）哈勃",
+        "isDanger": 0,
+        "phonetic": "ˈhʌb(ə)l",
+        "meaning": "n. 哈勃"
+      },
+      {
+        "word": "telescope",
+        "toggle": "vt. 压缩；使套叠",
+        "isDanger": 0,
+        "phonetic": "ˈtelɪskəʊp",
+        "meaning": "n. 望远镜"
+      },
+      {
+        "word": "launch",
+        "toggle": "vt. 发射（导弹、火箭等）；发起，发动；使 … 下水",
+        "isDanger": 1,
+        "phonetic": "lɔːntʃ",
+        "meaning": "v. 发射"
+      },
+      {
+        "word": "space",
+        "toggle": "n. 空间；距离；太空",
+        "isDanger": 1,
+        "phonetic": "speɪs",
+        "meaning": "n. 空间"
+      },
+      {
+        "word": "NASA",
+        "toggle": "美国国家航空航天局(National Aeronautics and Space Administration)",
+        "isDanger": 0,
+        "phonetic": "ˈnæsə",
+        "meaning": "n. (National Aeronautics and Space Administration) 国家航空和航天局"
+      },
+      {
+        "word": "billion",
+        "toggle": "n. 十亿；大量",
+        "isDanger": 0,
+        "phonetic": "ˈbɪljən",
+        "meaning": "n. 10 亿"
+      },
+      {
+        "word": "faulty",
+        "toggle": "adj. 有缺点的；有错误的",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːlti",
+        "meaning": "adj. 有错误的"
+      },
+      {
+        "word": "astronaut",
+        "toggle": "n. 宇航员，航天员；太空旅行者",
+        "isDanger": 0,
+        "phonetic": "ˈæstrənɔːt",
+        "meaning": "n. 宇航员"
+      },
+      {
+        "word": "shuttle",
+        "toggle": "n. 梭子；穿梭；穿梭班机、公共汽车等；航天飞机",
+        "isDanger": 0,
+        "phonetic": "ˈʃʌt(ə)l",
+        "meaning": "n. 航天飞机"
+      },
+      {
+        "word": "endeavour",
+        "toggle": "n.<英>尽力,竭力",
+        "isDanger": 0,
+        "phonetic": "ɪnˈdevə(r)",
+        "meaning": "n. Endeavour “奋进”号"
+      },
+      {
+        "word": "robot-arm",
+        "toggle": "n. 机器手",
+        "isDanger": 0,
+        "phonetic": "'rəubɔt a:m",
+        "meaning": "n. 机器手"
+      },
+      {
+        "word": "grab",
+        "toggle": "vt. 攫取；霸占；将 … 深深吸引",
+        "isDanger": 0,
+        "phonetic": "ɡræb",
+        "meaning": "v. 抓"
+      },
+      {
+        "word": "atmosphere",
+        "toggle": "n. 气氛；大气；空气",
+        "isDanger": 0,
+        "phonetic": "ˈætməsfɪə(r)",
+        "meaning": "n. 大气层"
+      },
+      {
+        "word": "distant",
+        "toggle": "adj. 遥远的；冷漠的；远隔的",
+        "isDanger": 0,
+        "phonetic": "ˈdɪstənt",
+        "meaning": "adj. 遥远的"
+      },
+      {
+        "word": "galaxy",
+        "toggle": "n. 银河；星系；银河系；一群显赫的人",
+        "isDanger": 0,
+        "phonetic": "ˈɡæləksi",
+        "meaning": "n. 星系"
+      },
+      {
+        "word": "universe",
+        "toggle": "n. 宇宙；世界；领域",
+        "isDanger": 0,
+        "phonetic": "ˈjuːnɪvɜːs",
+        "meaning": "n. 宇宙"
+      },
+      {
+        "word": "eagle eye",
+        "toggle": "鹰眼：敏锐的观察力或洞察力。",
+        "isDanger": 0,
+        "phonetic": "ˌiːɡl ˈaɪ",
+        "meaning": "n. 鹰眼"
+      }
+    ]
+  }
+}

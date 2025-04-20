@@ -1,0 +1,268 @@
+{
+  "id": "nce1-055",
+  "lessonNumber": "055",
+  "title": {
+    "english": "The Sawyer family",
+    "chinese": "索耶一家"
+  },
+  "lessonInfo": "新概念英语－第1册－第055课",
+  "audioPath": "audio/nce1/055.mp3",
+  "listeningQuestion": {
+    "question": "What does the Sawyer family do at different times of the day?",
+    "translation": "听录音回答：索耶一家在一天中的不同时间都做些什么？"
+  },
+  "editorNotes": "本课介绍了一个典型英国家庭的日常生活作息。通过描述索耶一家的日常活动，学习如何用英语表达日常生活中的时间安排和活动。重点掌握表示时间段的介词短语，以及描述日常活动的动词和频率副词的使用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The Sawyers live at 87 King Street.",
+      "In the morning, Mr Sawyer goes to work and the children go to school. Their father takes them to school every day.",
+      "Mrs Sawyer stays at home every day. She does the housework. She always eats her lunch at noon.",
+      "In the afternoon, she usually sees her friends. They often drink tea together.",
+      "In the evening, the children come home from school. They arrive home early.",
+      "Mr Sawyer comes home from work. He arrives home late.",
+      "At night, the children always do their homework. Then they go to bed. Mr Sawyer usually reads his newspaper, but sometimes he and his wife watch television."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "索耶一家住在国王街87号。",
+      "早上，索耶先生去上班，孩子们去上学。父亲每天送孩子们去上学。",
+      "索耶夫人每天呆在家里。她料理家务。",
+      "她总是在正午吃午饭。",
+      "下午，她总是会见她的朋友。她们经常在一起喝茶。",
+      "傍晚，孩子们放学回家。他们到家很早。",
+      "索耶先生下班回家。他到家很晚。",
+      "晚上，孩子们总是做作业，然后去睡觉。索耶先生总是读报纸，但有时和他的妻子一起看电视。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 表示时间段",
+        "children": [
+          "核心概念：一天中不同时间段的表达",
+          "常用表达：",
+          "- in the morning 在早上",
+          "- in the afternoon 在下午",
+          "- in the evening 在晚上",
+          "- at night 在夜间",
+          "使用场景：描述日常活动的时间",
+          "注意事项：at和in的区分使用"
+        ]
+      },
+      {
+        "heading": "2. 描述日常活动",
+        "children": [
+          "核心概念：家庭成员的日常活动",
+          "常用表达：",
+          "- go to work/school 去上班/上学",
+          "- do the housework 做家务",
+          "- do homework 做作业",
+          "使用场景：描述日常生活作息",
+          "注意事项：动词的选择和搭配"
+        ]
+      },
+      {
+        "heading": "3. 表达时间先后",
+        "children": [
+          "核心概念：描述活动的时间顺序",
+          "常用表达：",
+          "- arrive home early/late 早/晚到家",
+          "- Then they go to bed 然后他们去睡觉",
+          "使用场景：描述连续发生的事件",
+          "注意事项：时间顺序词的使用"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 频率副词的使用",
+        "children": [
+          "1. always 总是：表示100%的频率",
+          "2. usually 通常：表示较高频率",
+          "3. often 经常：表示一般频率",
+          "4. sometimes 有时：表示偶尔发生",
+          "频率副词在句中的位置：主语 + 频率副词 + 一般动词，或主语 + be动词 + 频率副词"
+        ]
+      },
+      {
+        "heading": "2. 一般现在时的使用",
+        "children": [
+          "1. 表示习惯性动作：Mr Sawyer goes to work",
+          "2. 表示重复性动作：Their father takes them to school",
+          "3. 表示现在的事实：The Sawyers live at 87 King Street",
+          "4. 动词第三人称单数变化规则"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 时间词汇",
+        "children": [
+          "morning n. 早晨：",
+          "- in the morning 在早晨",
+          "- every morning 每天早晨",
+          "afternoon n. 下午：",
+          "- in the afternoon 在下午",
+          "- late afternoon 傍晚"
+        ]
+      },
+      {
+        "heading": "2. 日常活动词汇",
+        "children": [
+          "housework n. 家务：",
+          "- do the housework 做家务",
+          "- help with housework 帮助做家务",
+          "arrive v. 到达：",
+          "- arrive home 到家",
+          "- arrive early/late 早到/晚到"
+        ]
+      },
+      {
+        "heading": "3. 家庭生活词汇",
+        "children": [
+          "home n. 家：",
+          "- at home 在家",
+          "- go home 回家",
+          "- stay at home 待在家里",
+          "together adv. 一起：",
+          "- live together 一起生活",
+          "- work together 一起工作"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "live",
+        "toggle": "adj. 活的；实况转播的；精力充沛的；生动的",
+        "isDanger": 1,
+        "phonetic": "lɪv",
+        "meaning": "v. 住，生活"
+      },
+      {
+        "word": "love",
+        "toggle": "n. 恋爱；酷爱；亲爱的；喜爱的事物",
+        "isDanger": 1,
+        "phonetic": "lʌv",
+        "meaning": "v. 爱"
+      },
+      {
+        "word": "lie",
+        "toggle": "vi. 说谎；位于；躺；展现",
+        "isDanger": 1,
+        "phonetic": "laɪ",
+        "meaning": "v. 躺"
+      },
+      {
+        "word": "living",
+        "toggle": "adj. 活的；现存的；活跃的；逼真的",
+        "isDanger": 0,
+        "phonetic": "ˈlɪvɪŋ",
+        "meaning": "n. 生活"
+      },
+      {
+        "word": "stay",
+        "toggle": "vi. 停留；暂住；停下；坚持",
+        "isDanger": 0,
+        "phonetic": "steɪ",
+        "meaning": "v. 呆在，停留"
+      },
+      {
+        "word": "say",
+        "toggle": "vt. 讲；说明；指明；假设；例如；声称",
+        "isDanger": 1,
+        "phonetic": "seɪ",
+        "meaning": "v. 说"
+      },
+      {
+        "word": "home",
+        "toggle": "n. 家，住宅；家乡；产地；避难所",
+        "isDanger": 1,
+        "phonetic": "həʊm",
+        "meaning": "adv. 在家，到家"
+      },
+      {
+        "word": "housework",
+        "toggle": "n. 家务事",
+        "isDanger": 0,
+        "phonetic": "ˈhaʊswɜːk",
+        "meaning": "n. 家务"
+      },
+      {
+        "word": "lunch",
+        "toggle": "n. 午餐",
+        "isDanger": 0,
+        "phonetic": "lʌntʃ",
+        "meaning": "n. 午饭"
+      },
+      {
+        "word": "afternoon",
+        "toggle": "n. 午后，下午",
+        "isDanger": 0,
+        "phonetic": "ˌɑːftəˈnuːn",
+        "meaning": "n. 下午"
+      },
+      {
+        "word": "morning",
+        "toggle": "n. 早晨； [ 诗 ] 初期；黎明",
+        "isDanger": 0,
+        "phonetic": "ˈmɔːnɪŋ",
+        "meaning": "n. 早晨"
+      },
+      {
+        "word": "usually",
+        "toggle": "adv. 通常，经常",
+        "isDanger": 0,
+        "phonetic": "ˈjuːʒuəli",
+        "meaning": "adv. 通常"
+      },
+      {
+        "word": "together",
+        "toggle": "adv. 一起；总共；同时；连续地；相互",
+        "isDanger": 0,
+        "phonetic": "təˈɡeðə(r)",
+        "meaning": "adv. 一起"
+      },
+      {
+        "word": "evening",
+        "toggle": "n. 傍晚；晚上；后期；（联欢性的）晚会",
+        "isDanger": 0,
+        "phonetic": "ˈiːvnɪŋ",
+        "meaning": "n. 晚上"
+      },
+      {
+        "word": "arrive",
+        "toggle": "vi. 到达；成功；出生；达成",
+        "isDanger": 0,
+        "phonetic": "əˈraɪv",
+        "meaning": "v. 到达"
+      },
+      {
+        "word": "depart",
+        "toggle": "vi. 离开；出发，起程；违反；去世",
+        "isDanger": 0,
+        "phonetic": "dɪˈpɑːt",
+        "meaning": "v. 出发"
+      },
+      {
+        "word": "night",
+        "toggle": "n. 夜晚，晚上；黑暗，黑夜",
+        "isDanger": 1,
+        "phonetic": "naɪt",
+        "meaning": "n. 夜间"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "nce2--004",
+  "lessonNumber": "004",
+  "title": {
+    "english": "An exciting trip",
+    "chinese": "激动人心的旅行"
+  },
+  "lessonInfo": "新概念英语－第2册－第004课",
+  "audioPath": "audio/nce2/004.mp3",
+  "listeningQuestion": {
+    "question": "What is Tim doing in Australia?",
+    "translation": "蒂姆在澳大利亚做什么？"
+  },
+  "editorNotes": "本课讲述了一个关于国外旅行的故事。主人公的弟弟Tim在澳大利亚工作和旅行，这是他第一次出国，因此感到非常兴奋。课文通过一封信的形式，介绍了Tim在澳大利亚的经历，同时也展示了现在完成时的重要用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I have just received a letter from my brother, Tim.",
+      "He is in Australia.",
+      "He has been there for six months.",
+      "Tim is an engineer.",
+      "He is working for a big firm and he has already visited a great number of different places in Australia.",
+      "He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia.",
+      "He will soon visit Darwin.",
+      "From there, he will fly to Perth.",
+      "My brother has never been abroad before,",
+      "so he is finding this trip very exciting."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我刚刚收到弟弟蒂姆的来信。",
+      "他正在澳大利亚。",
+      "他在那儿已经住了6个月了。",
+      "蒂姆是个工程师。",
+      "他正在一家大公司工作，并且已经去过澳大利亚的不少地方了。",
+      "他刚买了一辆澳大利亚小汽车，现在去了澳大利亚中部的小镇艾利斯斯普林斯。",
+      "他不久还将到达达尔文去。",
+      "从那里，他再飞往珀斯。",
+      "我弟弟以前从未出过国，",
+      "因此，他觉得这次旅行非常激动人心。"
+    ]
+  },
+  "newwords": {
+    "heading": "生词和短语",
+    "notes": [
+      {
+        "word": "exciting",
+        "toggle": "adj. 使人激动的；令人兴奋的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsaɪtɪŋ",
+        "meaning": "adj. 令人兴奋的"
+      },
+      {
+        "word": "receive",
+        "toggle": "vt. 收到；接待；接纳",
+        "isDanger": 1,
+        "phonetic": "rɪˈsiːv",
+        "meaning": "v. 接收，收到"
+      },
+      {
+        "word": "firm",
+        "toggle": "adj. 坚定的；结实的；牢固的；严格的",
+        "isDanger": 1,
+        "phonetic": "fɜːm",
+        "meaning": "n. 商行，公司"
+      },
+      {
+        "word": "different",
+        "toggle": "adj. 不同的；个别的，与众不同的",
+        "isDanger": 0,
+        "phonetic": "ˈdɪfrənt",
+        "meaning": "adj. 不同的"
+      },
+      {
+        "word": "centre",
+        "toggle": "n. （地理位置）中间，中心点",
+        "isDanger": 0,
+        "phonetic": "ˈsentə(r)",
+        "meaning": "n. 中心"
+      },
+      {
+        "word": "abroad",
+        "toggle": "adv. 到海外；在国外",
+        "isDanger": 0,
+        "phonetic": "əˈbrɔːd",
+        "meaning": "adv. 在国外"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点",
+    "notes": [
+      {
+        "title": "现在完成时的用法",
+        "content": "现在完成时表示动作现存的结果，或者过去发生的事对现在的影响。常与just, already, never, before等副词连用。例如：'He has been there for six months.'"
+      },
+      {
+        "title": "同位语",
+        "content": "一个名词（或短语）与另一个名词（或短语）并列作为其说明或限定成分，用逗号隔开。例如：'my brother, Tim'"
+      },
+      {
+        "title": "work的介词搭配",
+        "content": "work for（为...工作）强调工作对象，work in（在...工作）强调地点，work at（在...上班）。例如：'He is working for a big firm.'"
+      },
+      {
+        "title": "have been to vs. have gone to",
+        "content": "have been to表示曾经去过某地（现已回来），have gone to表示去了某地（还没回来）。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语",
+    "notes": [
+      {
+        "phrase": "work for/in/at",
+        "translation": "为...工作/在...工作/在...上班",
+        "context": "表示工作关系的不同方面",
+        "example": "She works for a big company in London."
+      },
+      {
+        "phrase": "a great number of",
+        "translation": "大量的",
+        "context": "表示可数名词的数量，后接复数名词",
+        "example": "He has visited a great number of places."
+      },
+      {
+        "phrase": "go abroad",
+        "translation": "出国",
+        "context": "表示去国外",
+        "example": "This is the first time he has gone abroad."
+      },
+      {
+        "phrase": "from there",
+        "translation": "从那里",
+        "context": "表示起点",
+        "example": "From there, we will go to Beijing."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Tim is in Australia. He went ___ Australia six months ago.",
+        "options": [
+          "to",
+          "in",
+          "at",
+          "into"
+        ],
+        "answer": 0,
+        "explanation": "go to是固定搭配，表示去某地"
+      },
+      {
+        "question": "Tim is in Australia. How long ___ there?",
+        "options": [
+          "is he",
+          "has he been",
+          "has he",
+          "was he"
+        ],
+        "answer": 1,
+        "explanation": "询问持续时间，使用现在完成时"
+      },
+      {
+        "question": "He will soon visit Darwin. He will visit Darwin ___.",
+        "options": [
+          "quickly",
+          "for a short time",
+          "shortly",
+          "in a hurry"
+        ],
+        "answer": 2,
+        "explanation": "soon = shortly，表示不久以后"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "My brother has ___ been abroad before.",
+        "answer": "never",
+        "hint": "表示'从未'的副词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容",
+    "notes": [
+      {
+        "title": "词形变化",
+        "content": "exciting（令人兴奋的）vs. excited（感到兴奋的）：-ing形容词表示令人感到...，-ed形容词表示感到..."
+      },
+      {
+        "title": "地理知识",
+        "content": "课文提到的Alice Springs是澳大利亚中部的一个小镇，Darwin是北领地的首府，Perth是西澳大利亚州的首府。这些地名反映了主人公在澳大利亚各地旅行的经历。"
+      }
+    ]
+  }
+}

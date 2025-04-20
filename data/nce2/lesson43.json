@@ -1,0 +1,238 @@
+{
+  "id": "nce2--043",
+  "lessonNumber": "043",
+  "title": {
+    "english": "Over the South Pole",
+    "chinese": "飞越南极"
+  },
+  "lessonInfo": "新概念英语－第2册－第043课",
+  "audioPath": "audio/nce2/043.mp3",
+  "listeningQuestion": {
+    "question": "How did Byrd manage to fly over the mountains?",
+    "translation": "伯德是如何成功飞越山脉的？"
+  },
+  "editorNotes": "本文讲述了美国探险家R.E.伯德于1929年首次飞越南极的历史事件。文章描述了伯德和他的团队在飞行过程中遇到的困难，以及他们如何通过减轻飞机重量成功飞越山脉。文章中的语法要点包括'can'和'be able to'的区别，以及'though/although'引导让步状语从句的用法。在实际使用中，'run into trouble'和'at one point'等短语在描述困难和转折时非常有用，掌握这些表达方式可以使英语表达更加生动和准确。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time.",
+      "Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble.",
+      "At one point, it seemed certain that their plane would crash.",
+      "It could only get over the mountains if it rose to 10,000 feet.",
+      "Byrd at once ordered his men to throw out two heavy food sacks.",
+      "The plane was then able to rise and it cleared the mountains by 400 feet.",
+      "Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight.",
+      "The aircraft was able to fly over the endless white plains without difficulty."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "美国探险家 R.E. 伯德在飞越北极 3 年之后, 于 1929 年第一次飞越了南极.",
+      "虽然开始时伯德和他的助手们拍下了飞机下面连绵群ft的大量照片, 但他们很快就陷入了困境.",
+      "在有个地方, 飞机似乎肯定要坠毁了.",
+      "只有在飞至 10,000 英尺的高度时, 它才能飞过这些ft头.",
+      "伯德马上命令他的助手们把两个沉重的食物袋扔掉.",
+      "于是飞机可以上升了, 它在离ft头 400 英尺的高度飞越了过去.",
+      "伯德这时知道他能够顺利飞抵 300 英里以外的南极了, 因为前面再没有ft了.",
+      "飞机可以毫无困难地飞过这片茫茫无际的白色原野!"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "Can 和 Be able to 的区别",
+        "content": [
+          "can/could 用于表示请求别人允许或答复时的情况",
+          "在表示天生的或学到的能力时，can/could 可用于现在时和过去时",
+          "表示将来的'能力'时，则用 will be able to",
+          "在谈到说话时正在发生的事时，一般不用 be able to",
+          "在表示成功地完成某一具体动作时，通常不用 could，而用 be able to"
+        ]
+      },
+      {
+        "title": "though/although 引导让步状语从句",
+        "content": [
+          "though/although 引导让步状语从句，表示'虽然...，尽管...'",
+          "例如：Although I felt sorry for him, I was secretly pleased.",
+          "though 和 although 可以互换使用",
+          "even though 语气更强，表示'即使...'"
+        ]
+      },
+      {
+        "title": "介词 at 的固定搭配",
+        "content": [
+          "表示时间：at first（开始时），at once（马上），at present（目前）",
+          "表示地点：at home（在家），at school（在学校）",
+          "表示程度：at least（至少），at any rate（不管怎样）",
+          "其他：at heart（内心里），at a loss（困惑不解）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "run into trouble",
+        "translation": "遇到麻烦，陷入困境",
+        "context": "表示遇到困难或问题",
+        "example": "They soon ran into serious trouble."
+      },
+      {
+        "phrase": "at one point",
+        "translation": "在某一时刻，在某一地方",
+        "context": "表示在特定时间或地点",
+        "example": "At one point, it seemed certain that their plane would crash."
+      },
+      {
+        "phrase": "clear the mountains",
+        "translation": "飞越山脉",
+        "context": "表示不接触地越过某物",
+        "example": "The plane cleared the mountains by 400 feet."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "It could only get over the mountains if it rose to 10,000 feet. This means it ___ over the mountains.",
+        "options": [
+          "would succeed in getting",
+          "got",
+          "was able to get",
+          "had got"
+        ],
+        "answer": 0,
+        "explanation": "could 与过去时态有关，强调可能性"
+      },
+      {
+        "question": "The plane was then able to rise. This means it ___.",
+        "options": [
+          "could rise",
+          "might rise",
+          "might succeed in rising",
+          "rose"
+        ],
+        "answer": 3,
+        "explanation": "rose 表示已经成为事实，没有情态词"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Byrd knew that he would be able to reach the South Pole. It would be ___.",
+        "answer": "possible",
+        "hint": "表示将来的可能性"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "历史背景",
+        "content": "1929年，美国探险家R.E.伯德成功飞越南极，这是人类航空史上的重要里程碑。这次飞行不仅展示了人类的勇气和探索精神，也证明了航空技术在极端环境下的可行性。伯德的这次探险为后来的极地科学研究奠定了基础。"
+      },
+      {
+        "title": "词汇扩展",
+        "content": "explorer（探险家）这个词不仅可以用在本文中描述极地探险者，还可以用来描述各种领域的探索者。例如：space explorer（太空探险家），underwater explorer（水下探险家）。相关的词还有exploration（探索）和explore（探索）等。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "pole",
+        "toggle": "n. 杆；极点；电极",
+        "isDanger": 0,
+        "phonetic": "pəʊl",
+        "meaning": "n. （地球的）极"
+      },
+      {
+        "word": "flight",
+        "toggle": "n. 飞行；班机；逃走",
+        "isDanger": 0,
+        "phonetic": "flaɪt",
+        "meaning": "n. 飞行"
+      },
+      {
+        "word": "explorer",
+        "toggle": "n. 探测者，探测器；探险家",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsplɔːrə",
+        "meaning": "n. 探险家"
+      },
+      {
+        "word": "lie",
+        "toggle": "vi. 说谎；位于；躺；展现",
+        "isDanger": 1,
+        "phonetic": "laɪ",
+        "meaning": "v. 处于"
+      },
+      {
+        "word": "serious",
+        "toggle": "adj. 严肃的，严重的；认真的；庄重的；危急的",
+        "isDanger": 0,
+        "phonetic": "ˈsɪəriəs",
+        "meaning": "adj. 严重的"
+      },
+      {
+        "word": "point",
+        "toggle": "n. 要点；尖端；得分；标点",
+        "isDanger": 1,
+        "phonetic": "pɔɪnt",
+        "meaning": "n. 地点"
+      },
+      {
+        "word": "seem",
+        "toggle": "vi. 似乎；像是；装作",
+        "isDanger": 0,
+        "phonetic": "siːm",
+        "meaning": "v. 似乎"
+      },
+      {
+        "word": "crash",
+        "toggle": "n. 碰撞；崩溃；坠落",
+        "isDanger": 1,
+        "phonetic": "kræʃ",
+        "meaning": "v. 坠毁"
+      },
+      {
+        "word": "sack",
+        "toggle": "n. 麻布袋；洗劫",
+        "isDanger": 0,
+        "phonetic": "sæk",
+        "meaning": "n. 袋子"
+      },
+      {
+        "word": "clear",
+        "toggle": "adj. 清楚的；清澈的；晴朗的；无罪的",
+        "isDanger": 1,
+        "phonetic": "klɪə(r)",
+        "meaning": "v. 越过"
+      },
+      {
+        "word": "aircraft",
+        "toggle": "n. 飞机，航空器",
+        "isDanger": 0,
+        "phonetic": "ˈeəkrɑːft",
+        "meaning": "n. 飞机"
+      },
+      {
+        "word": "endless",
+        "toggle": "adj. 无止境的；环状的；连续的；漫无目的的",
+        "isDanger": 0,
+        "phonetic": "ˈendləs",
+        "meaning": "adj. 无尽的"
+      },
+      {
+        "word": "plain",
+        "toggle": "adj. 平的；朴素的；简单的；清晰的",
+        "isDanger": 0,
+        "phonetic": "pleɪn",
+        "meaning": "n. 平原"
+      }
+    ]
+  }
+}

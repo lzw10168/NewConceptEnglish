@@ -1,0 +1,273 @@
+{
+  "id": "nce2--080",
+  "lessonNumber": "080",
+  "title": {
+    "english": "The Crystal Palace",
+    "chinese": "水晶宫"
+  },
+  "lessonInfo": "新概念英语－第2册－第080课",
+  "audioPath": "audio/nce2/080.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the Crystal Palace in 1936?",
+    "translation": "1936年水晶宫发生了什么？"
+  },
+  "editorNotes": "本课介绍了19世纪最不寻常的建筑之一——水晶宫。文章描述了水晶宫的建造背景、特点、展览内容以及它的历史意义。文章还介绍了与on相关的短语用法，以及be made of、remain等词汇的用法。本课还介绍了profit的多种用法，以及machinery作为集合名词的特点。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Perhaps the most extraordinary building of the nineteenth century was the Crystal Palace, which was built in Hyde Park for the Great Exhibition of 1851.",
+      "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
+      "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
+      "A great many goods were sent to the exhibition from various parts of the world.",
+      "There was also a great deal of machinery on display.",
+      "The most wonderful piece of machinery on show was Nasmyth's steam hammer.",
+      "Though in those days, traveling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.",
+      "On arriving in England, they were taken to the Crystal Palace by train.",
+      "There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.",
+      "Later, the Crystal Palace was moved to South London.",
+      "It remained one of the most famous buildings in the world until it was burnt down in 1936."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "19世纪最不寻常的建筑也许要数水晶宫了，它是为1851年的'世界博览会'而建在海德公园的。",
+      "这座水晶宫不同于世界上所有的其他建筑，因为它是用钢和玻璃建成的。",
+      "它是有史以来最高大的建筑物之一，因此，人们从各个国家纷纷前来参观。",
+      "大量的商品从世界各地运送到了博览会，",
+      "参展的还有很多机器，",
+      "其中最奇妙的是内史密斯的蒸汽锤。",
+      "尽管在当时旅行不像现在这么容易，但汽船还是把成千上万的参观者从欧洲大陆送过了英吉利海峡。",
+      "一到英国，火车就把他们送到了水晶宫。",
+      "参观的人数总共是600万。博览会的赢利用来建造博物馆和高等学校。",
+      "后来，'水晶宫'被移到了伦敦南部。",
+      "在1936年被焚毁之前，它一直是世界上最著名的建筑物之一。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "be made of的用法",
+        "content": [
+          "be made of… 用……制造（指原材料没有发生化学上的变化）",
+          "例如：The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.（这座水晶宫不同于世界上所有的其他建筑，因为它是用钢和玻璃建成的。）",
+          "The table is made of wood.（这张桌子是用木头做的。）",
+          "注意：be made of与be made from的区别：",
+          "be made of 表示原材料没有发生化学上的变化，成品中仍能看出原材料",
+          "be made from 表示原材料发生了化学上的变化，成品中已看不出原材料",
+          "例如：Paper is made from wood.（纸是用木头做的。）",
+          "Wine is made from grapes.（葡萄酒是用葡萄酿造的。）"
+        ]
+      },
+      {
+        "title": "of all time的用法",
+        "content": [
+          "of all time 空前的，有史以来（常与形容词的最高级连用，表示范围）",
+          "例如：It was one of the biggest buildings of all time.（它是有史以来最高大的建筑物之一。）",
+          "He is one of the greatest men of all time.（他是有史以来最伟大的人物之一。）",
+          "\"one of =最高级+复数名词\"结构的语气比直接用形容词最高级+名词结构要缓和些，不那么绝对。",
+          "例如：Yesterday was the hottest day of the year.（昨天是今年最热的一天。）",
+          "Yesterday was one of the hottest days of the year.（昨天是今年最热的日子之一。）"
+        ]
+      },
+      {
+        "title": "remain的用法",
+        "content": [
+          "remain 在这里为系动词，表示'保持不变，仍然'（后面可跟形容词、名词、动名词等）",
+          "例如：It remained one of the most famous buildings in the world until it was burnt down in 1936.（在1936年被焚毁之前，它一直是世界上最著名的建筑物之一。）",
+          "Why did you remain silent/quiet at the dinner party?（你为什么在晚宴上一直保持沉默/安静？）",
+          "They all remained standing while the manager talked.（经理讲话时，他们都一直站着。）",
+          "The weather remained fine for a week.（天气连续一周都很好。）"
+        ]
+      },
+      {
+        "title": "集合名词machinery的用法",
+        "content": [
+          "machinery n. 机器，机械装置（集合名词，与单数动词搭配）",
+          "例如：There was also a great deal of machinery on display.（参展的还有很多机器。）",
+          "某个具体的机器可用machine或者a piece of machinery来表示：",
+          "例如：This is a wonderful piece of machinery/a wonderful machine.（这是一台奇妙的机器。）",
+          "The factory has a lot of machinery.（这家工厂有很多机器。）",
+          "注意：集合名词通常用单数动词，但有时也可以用复数动词，特别是当集合名词被看作是由个体组成的集合时。"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "be different from",
+        "translation": "与……不同",
+        "context": "表示两个事物之间的差异",
+        "example": "The Crystal Palace was different from all other buildings in the world.（这座水晶宫不同于世界上所有的其他建筑。）"
+      },
+      {
+        "phrase": "on display/show",
+        "translation": "展出，陈列",
+        "context": "表示物品被展示或陈列",
+        "example": "There was also a great deal of machinery on display.（参展的还有很多机器。）"
+      },
+      {
+        "phrase": "in all",
+        "translation": "总共，合计",
+        "context": "表示总数或总计",
+        "example": "There were six million visitors in all.（参观的人数总共是600万。）"
+      },
+      {
+        "phrase": "on arriving",
+        "translation": "一到，到达时",
+        "context": "表示到达某个地方时",
+        "example": "On arriving in England, they were taken to the Crystal Palace by train.（一到英国，火车就把他们送到了水晶宫。）"
+      },
+      {
+        "phrase": "burn down",
+        "translation": "烧毁，烧成平地",
+        "context": "表示建筑物被完全烧毁",
+        "example": "It remained one of the most famous buildings in the world until it was burnt down in 1936.（在1936年被焚毁之前，它一直是世界上最著名的建筑物之一。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The Crystal Palace was different from all other buildings in the world because it ___ iron and glass.",
+        "options": [
+          "was made from",
+          "was made of",
+          "was made by",
+          "was made with"
+        ],
+        "answer": 1,
+        "explanation": "be made of 表示用某种材料制成，且成品中仍能看出原材料。"
+      },
+      {
+        "question": "There was a great deal of machinery ___ display at the exhibition.",
+        "options": [
+          "in",
+          "at",
+          "on",
+          "with"
+        ],
+        "answer": 2,
+        "explanation": "on display 表示展出，陈列。"
+      },
+      {
+        "question": "The Crystal Palace ___ one of the most famous buildings in the world until it was burnt down in 1936.",
+        "options": [
+          "stayed",
+          "kept",
+          "remained",
+          "continued"
+        ],
+        "answer": 2,
+        "explanation": "remain 作为系动词，表示保持不变，仍然。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The Crystal Palace was ___ from all other buildings in the world.",
+        "answer": "different",
+        "explanation": "be different from 表示与……不同。"
+      },
+      {
+        "sentence": "There were six million visitors ___ all.",
+        "answer": "in",
+        "explanation": "in all 表示总共，合计。"
+      },
+      {
+        "sentence": "The profits from the exhibition were used to build museums and ___.",
+        "answer": "colleges",
+        "explanation": "根据课文内容，博览会的赢利用来建造博物馆和高等学校。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. extraordinary、exhibition和various的用法：\n- extraordinary: 形容词，不平常的，非凡的\n  Perhaps the most extraordinary building of the nineteenth century was the Crystal Palace.（19世纪最不寻常的建筑也许要数水晶宫了。）\n\n- exhibition: 名词，展览\n  The Crystal Palace was built in Hyde Park for the Great Exhibition of 1851.（水晶宫是为1851年的'世界博览会'而建在海德公园的。）\n\n- various: 形容词，各种各样的\n  A great many goods were sent to the exhibition from various parts of the world.（大量的商品从世界各地运送到了博览会。）\n\n2. profit的用法：\n- profit n. 利润，赢利；得益\n  Stores haven't made as much profit as usual this year.（商店今年没有像往常一样赚那么多利润。）\n  The profits from the exhibition were used to build museums and colleges.（博览会的赢利用来建造博物馆和高等学校。）\n\n- profit vi. 获益，得益；获利\n  I have profited much from your advice/this book/living abroad.（我从你的建议/这本书/国外生活中获益良多。）\n\n3. 带on的短语：\n- on display/show 展出，陈列\n  This is the best dress on display/show.（这是展出的最好的衣服。）\n\n- on business 因公（与for pleasure相对）\n  Last month he went to New York on business and had little time to visit friends.（上个月他因公去了纽约，几乎没有时间拜访朋友。）\n\n- on foot 步行（与by bus，by car，by air等相对）\n  I usually go to work by car, but this morning I went on foot.（我通常开车上班，但今天早上我是步行去的。）\n\n- on duty 值班，值班的\n  It was Sunday and there was only one doctor on duty.（那天是星期天，只有一个医生值班。）\n\n- on the whole 总的看来，总的来说，大体上\n  On the whole, he is a hard-working student.（总的来说，他是一个勤奋的学生。）\n\n- on fire 起火，着火\n  Soon the whole building was on fire.（很快整个建筑都着火了。）\n\n- on purpose 故意地，有意地，特意地（与by chance相对）\n  They have come here on purpose to see you.（他们特意来这里看你。）\n  She broke the vase on purpose.（她故意打碎了花瓶。）\n\n- on the average 平均，通常\n  On the average, he works more than ten hours a day.（平均来说，他每天工作超过十个小时。）\n\n- on any account 无论如何，不管怎么说（通常用否定句）\n  Do not interrupt him on any account.（无论如何都不要打断他。）\n  You mustn't on any account sign the contract before you read it.（无论如何，你都不能在阅读合同之前签字。）\n\n- on second thought(s) 经重新考虑后（thought用单数或复数均可）\n  I intended to go to the party, but on second thought(s), I decided to stay at home.（我本打算去参加派对，但经过重新考虑，我决定待在家里。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "水晶宫（Crystal Palace）是19世纪最著名的建筑之一，也是维多利亚时代工业革命的象征。它最初是为了1851年在伦敦海德公园举办的'万国工业博览会'（Great Exhibition）而建造的。\n\n博览会的组织者是维多利亚女王的丈夫阿尔伯特亲王，他希望通过这次展览展示英国的工业实力和全球影响力。水晶宫由约瑟夫·帕克斯顿（Joseph Paxton）设计，采用了创新的建筑技术，大量使用铁和玻璃，创造了一个前所未有的巨大室内空间。\n\n水晶宫长564米，宽124米，高33米，覆盖面积超过7万平方米，相当于10个足球场的大小。它的设计灵感来自于帕克斯顿在查茨沃斯庄园（Chatsworth House）建造的温室。水晶宫的建筑风格代表了维多利亚时代对技术进步和工业化的乐观态度。\n\n1851年的万国工业博览会是世界上第一次国际博览会，吸引了来自世界各地的参展商和参观者。展览展出了超过10万件展品，包括最新的工业产品、艺术品和来自世界各地的奇珍异宝。展览持续了6个月，吸引了超过600万参观者，相当于当时英国人口的三分之一。\n\n博览会的成功为英国带来了巨大的经济利益，门票收入超过18万英镑（相当于今天的数百万英镑）。这些收入被用来在伦敦南肯辛顿（South Kensington）建立了一系列文化机构，包括维多利亚和阿尔伯特博物馆（Victoria and Albert Museum）、科学博物馆（Science Museum）和自然历史博物馆（Natural History Museum）等。\n\n1854年，水晶宫被移到了伦敦南部的西德纳姆（Sydenham），并进行了扩建。在那里，它继续作为展览和娱乐场所，直到1936年11月30日被大火烧毁。水晶宫的毁灭标志着维多利亚时代的一个象征性结束。\n\n水晶宫的建筑创新对现代建筑产生了深远的影响。它的铁和玻璃结构为后来的现代主义建筑铺平了道路，影响了从巴黎埃菲尔铁塔到现代购物中心和机场航站楼的设计。今天，虽然水晶宫已经不复存在，但它的名字和形象仍然代表着19世纪工业革命的辉煌成就。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "palace",
+        "toggle": "n. 宫殿；豪华住宅；宅邸",
+        "isDanger": 0,
+        "phonetic": "ˈpæləs",
+        "meaning": "n. 宫殿"
+      },
+      {
+        "word": "extraordinary",
+        "toggle": "adj. 特别的；非凡的；特派的；离奇的；临时的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈstrɔːd(ə)n(ə)ri",
+        "meaning": "adj. 不平常的，非凡的"
+      },
+      {
+        "word": "exhibition",
+        "toggle": "n. 展览，显示；展览会；展览品",
+        "isDanger": 0,
+        "phonetic": "ˌeksɪˈbɪʃ(ə)n",
+        "meaning": "n. 展览"
+      },
+      {
+        "word": "iron",
+        "toggle": "n. 熨斗；坚强；烙铁",
+        "isDanger": 0,
+        "phonetic": "ˈaɪən",
+        "meaning": "n. 铁"
+      },
+      {
+        "word": "various",
+        "toggle": "adj. 各种各样的；多方面的",
+        "isDanger": 0,
+        "phonetic": "ˈveəriəs",
+        "meaning": "adj. 各种各样的"
+      },
+      {
+        "word": "machinery",
+        "toggle": "n. 机械；机器；机构；机械装置",
+        "isDanger": 0,
+        "phonetic": "məˈʃiːnəri",
+        "meaning": "n. 机器"
+      },
+      {
+        "word": "display",
+        "toggle": "n. 显示；炫耀",
+        "isDanger": 0,
+        "phonetic": "dɪˈspleɪ",
+        "meaning": "n. 展览"
+      },
+      {
+        "word": "steam",
+        "toggle": "vt. 蒸，散发；用蒸汽处理",
+        "isDanger": 0,
+        "phonetic": "stiːm",
+        "meaning": "n. 蒸汽"
+      },
+      {
+        "word": "profit",
+        "toggle": "n. 利润；利益",
+        "isDanger": 0,
+        "phonetic": "ˈprɒfɪt",
+        "meaning": "n. 利润"
+      },
+      {
+        "word": "college",
+        "toggle": "n. 学院；学会；大学",
+        "isDanger": 0,
+        "phonetic": "ˈkɒlɪdʒ",
+        "meaning": "n. 学院"
+      }
+    ]
+  }
+}

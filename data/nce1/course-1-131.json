@@ -1,0 +1,205 @@
+{
+  "id": "nce1-131",
+  "lessonNumber": "131",
+  "title": {
+    "english": "Don't Be So Sure",
+    "chinese": "别太肯定"
+  },
+  "lessonInfo": "新概念英语－第1册－第131课",
+  "audioPath": "audio/nce1/131.mp3",
+  "listeningQuestion": {
+    "question": "Why do Harry and his wife usually end up staying at home for holidays?",
+    "translation": "为什么哈里和他的妻子通常最后都呆在家里度假？"
+  },
+  "editorNotes": "本课通过一段关于度假计划的对话，展示了如何讨论不确定的计划和可能性。课文重点介绍了情态动词may的用法，以及如何表达犹豫、担忧和不确定性。这些表达方式在讨论计划和可能性时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Roy:     Where are you going to spend your holidays this year, Harry?",
+      "Harry:   We may go abroad. I'm not sure. My wife wants to go to Egypt.I'd like to go there, too. We can't make up our minds.",
+      "Roy:     Will you travel by sea or by air?",
+      "Harry:   We may travel by sea.",
+      "Roy:     It's cheaper, isn't it?",
+      "Harry:   It may be cheaper, but it takes a long time.",
+      "Roy:     I'm sure you will enjoy yourselves.",
+      "Harry:   Don't be so sure. We may not go anywhere. My wife always worries too much. Who's going to look after the dog? Who's going to look after the house?Who's going to look after the garden?We have this problem every year.\r",
+      "In the end, we stay at home and look after everything!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "马丁：加里，今年你们打算去哪里度假？",
+      "加里：我们可能到国外去，但我不敢肯定。 我妻子想到埃及去，我也想去那儿。我们还拿不定主意。",
+      "马丁：你们乘船去，还是乘飞机去？",
+      "加里：我们可能乘船去。",
+      "马丁：这更便宜些，是吗？",
+      "加里：可能是便宜些，但花的时间长。",
+      "马丁：我肯定你们一定会玩得很痛快。",
+      "加里：别那么肯定。我们可能哪里也去不成。我妻子总是担心那的。谁来照看狗啦， 谁来看管房子啦，谁来照料花园啦， 我们每年都碰到这类问题。末了， 我们呆在家里来照看一切。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 度假计划讨论",
+        "children": [
+          "核心概念：如何讨论假期计划",
+          "常用表达：",
+          "- Where are you going to spend your holidays? 你打算在哪里度假？",
+          "- We may go abroad 我们可能出国",
+          "- I'm not sure 我不确定",
+          "使用场景：讨论假期计划时",
+          "注意事项：注意表达的不确定性"
+        ]
+      },
+      {
+        "heading": "2. 交通方式选择",
+        "children": [
+          "核心概念：如何讨论旅行方式",
+          "常用表达：",
+          "- Will you travel by sea or by air? 你们是乘船还是乘飞机？",
+          "- We may travel by sea 我们可能乘船",
+          "- It's cheaper, isn't it? 这样比较便宜，是吗？",
+          "使用场景：讨论出行方式时",
+          "注意事项：注意比较优劣的表达"
+        ]
+      },
+      {
+        "heading": "3. 担忧表达",
+        "children": [
+          "核心概念：如何表达担忧",
+          "常用表达：",
+          "- Who's going to look after...? 谁来照看...？",
+          "- My wife always worries too much 我妻子总是太担心",
+          "- We have this problem every year 我们每年都有这个问题",
+          "使用场景：表达顾虑和担忧时",
+          "注意事项：注意语气的委婉性"
+        ]
+      },
+      {
+        "heading": "4. 结果描述",
+        "children": [
+          "核心概念：如何描述最终结果",
+          "常用表达：",
+          "- In the end 最后",
+          "- We stay at home 我们呆在家里",
+          "- look after everything 照看一切",
+          "使用场景：描述最终决定时",
+          "注意事项：注意总结性表达"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 情态动词may的用法",
+        "children": [
+          "1. 表示可能性：We may go abroad",
+          "2. 用于不确定的陈述",
+          "3. 比will的语气更弱",
+          "4. 例句：It may be cheaper"
+        ]
+      },
+      {
+        "heading": "2. 否定形式may not",
+        "children": [
+          "1. 表示可能不会：We may not go anywhere",
+          "2. 用于否定的可能性",
+          "3. 比won't语气更弱",
+          "4. 例句：They may not come"
+        ]
+      },
+      {
+        "heading": "3. be going to表示计划",
+        "children": [
+          "1. 表示将来计划：Who's going to look after...?",
+          "2. 用于询问安排",
+          "3. 比will更强调计划性",
+          "4. 例句：We're going to stay at home"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 旅行相关词汇",
+        "children": [
+          "abroad adv. 国外：",
+          "- go abroad 出国",
+          "- study abroad 出国留学",
+          "holiday n. 假期：",
+          "- spend holidays 度假",
+          "- summer holiday 暑假"
+        ]
+      },
+      {
+        "heading": "2. 交通相关词汇",
+        "children": [
+          "travel v. 旅行：",
+          "- travel by sea 乘船旅行",
+          "- travel by air 乘飞机旅行",
+          "sea n. 海：",
+          "- by sea 乘船",
+          "- sea voyage 海上航行"
+        ]
+      },
+      {
+        "heading": "3. 家务相关词汇",
+        "children": [
+          "look after v. 照看：",
+          "- look after the house 照看房子",
+          "- look after the garden 照料花园",
+          "worry v. 担心：",
+          "- worry too much 太担心",
+          "- worry about 担心某事"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Egypt",
+        "toggle": "n.埃及",
+        "isDanger": 0,
+        "phonetic": "ˈiːdʒɪpt",
+        "meaning": "n. 埃及"
+      },
+      {
+        "word": "abroad",
+        "toggle": "adv. 到海外；在国外",
+        "isDanger": 0,
+        "phonetic": "əˈbrɔːd",
+        "meaning": "adv. 国外"
+      },
+      {
+        "word": "worry",
+        "toggle": "n. 烦恼；担心；撕咬",
+        "isDanger": 1,
+        "phonetic": "ˈwʌri",
+        "meaning": "v. 担忧"
+      },
+      {
+        "word": "Egyptian",
+        "toggle": "adj. 埃及的；埃及人的",
+        "isDanger": 0,
+        "phonetic": "iˈdʒɪpʃn",
+        "meaning": "n. 埃及人"
+      },
+      {
+        "word": "problem",
+        "toggle": "n. 难题；引起麻烦的人",
+        "isDanger": 0,
+        "phonetic": "ˈprɒbləm",
+        "meaning": "n. 麻烦"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

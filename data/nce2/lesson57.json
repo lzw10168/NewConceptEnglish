@@ -1,0 +1,200 @@
+{
+  "id": "nce2--057",
+  "lessonNumber": "057",
+  "title": {
+    "english": "Can I help you, madam?",
+    "chinese": "您需要帮助吗，夫人？"
+  },
+  "lessonInfo": "新概念英语－第2册－第057课",
+  "audioPath": "audio/nce2/057.mp3",
+  "listeningQuestion": {
+    "question": "Why did the woman return to the shop the following day?",
+    "translation": "这位妇女为什么第二天又回到商店？"
+  },
+  "editorNotes": "本课讲述了一位穿着牛仔裤的妇女在高档商店受到售货员轻蔑对待后，第二天穿着裘皮大衣回来报复的故事。文章主要使用了介词at、in、off和with的用法，以及make和let的用法区别。文章还涉及了多个与购物相关的词汇，如serve、scornfully、eager等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "A woman in jeans stood at the window of an expensive shop.",
+      "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
+      "The assistant who served her did not like the way she was dressed.",
+      "Glancing at her scornfully, he told her that the dress was sold.",
+      "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+      "After seeking out the rude assistant, she asked for the same dress.",
+      "Not realizing who she was, the assistant was eager to serve her this time.",
+      "With great difficulty, he climbed into the shop window to get the dress.",
+      "As soon as she saw it, the woman said she did not like it.",
+      "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "一位穿着牛仔裤的妇女站在一家高档商店的橱窗前。",
+      "她虽然犹豫了片刻，但终于还是走进了商店，要求把陈列在橱窗里的一件衣服拿给她看。",
+      "接待她的售货员不喜欢她的那副打扮。",
+      "轻蔑地看了她一眼后，便告诉她那件衣服已经卖出去了。",
+      "这位妇女怒气冲冲地走出了商店，决定第二天教训一下那个售货员。",
+      "第二天上午，她又来到这家商店，穿了一件裘皮大衣，一只手拎着一只手提包，另一只手拿着一把长柄伞。",
+      "找到那个无礼的售货员后，她还要看昨天的那件衣服。",
+      "那个售货员没有认出她是谁，这一回接待她的态度非常殷勤。",
+      "费了好大劲儿，他爬进橱窗去取那件衣服。",
+      "这位妇女对那件衣服只看一眼，就说不喜欢。",
+      "她开心地迫使那位售货员把橱窗里几乎所有的东西都拿了出来，最后才买下了她最先要看的那一件。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "介词at、in、off和with的用法",
+        "content": [
+          "at通常用于表示居住地点、停留地点、工作地点等，如：I'll see you at the station.",
+          "in表示里面或包围的含义，如：There were a lot of people in the street.",
+          "off常与动词连用，表示位置的变化，即'与...分离'，如：The lid came off easily.",
+          "描写人时，in通常用于表示穿着，后面加衣服或颜色，如：He looks handsome in that uniform.",
+          "with则表示身上的某个具体特征或随身带着、拿着什么，如：That man with long hair is supposed to be a poet."
+        ]
+      },
+      {
+        "title": "make和let的用法区别",
+        "content": [
+          "make+名词/代词+不带to的不定式，表示'迫使，致使'，如：She made the assistant bring almost everything.",
+          "在被动语态中含有上述意义的make后面必须带to，如：He was made to work fourteen hours a day.",
+          "let+名词/代词+不带to的不定式，表示'允许'，如：Let me try.",
+          "let一般不用于被动意义来表示'被允许'，这时可用allow，如：We were not allowed to speak."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "seek out",
+        "translation": "找出，找到",
+        "context": "表示寻找并找到某人或某物",
+        "example": "He sought out the thief in the crowd."
+      },
+      {
+        "phrase": "be eager to do sth",
+        "translation": "急于做某事",
+        "context": "表示急切地想要做某事",
+        "example": "The assistant was eager to serve her this time."
+      },
+      {
+        "phrase": "enjoy oneself doing sth",
+        "translation": "从...中得到乐趣",
+        "context": "表示从做某事中获得乐趣",
+        "example": "She enjoyed herself making the assistant bring almost everything in the window."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "After ___ out the rude assistant she asked for the same dress.",
+        "options": [
+          "she was seeking",
+          "she had sought",
+          "sought",
+          "when she sought"
+        ],
+        "answer": 1,
+        "explanation": "after后面可以接句子或V+ing，但不能接进行时态。"
+      },
+      {
+        "question": "She returned the following day. She returned the day ___.",
+        "options": [
+          "other",
+          "next",
+          "after",
+          "else"
+        ],
+        "answer": 2,
+        "explanation": "after可以放在句末作副词用，表示'之后'。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The ___ news made them ___.",
+        "answer": "exciting/excited",
+        "hint": "第一个空需要修饰news的形容词，第二个空需要表示人的感受的形容词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇扩展",
+        "content": "madam和ma'am的区别：madam是对妇女的尊称，表示'太太，夫人'；ma'am是madam的口语形式，也表示'夫人，太太，女士，小姐'。"
+      },
+      {
+        "title": "文化背景",
+        "content": "这个故事反映了社会中的偏见和歧视问题。在商业服务中，不应该以顾客的外表来判断其购买能力或价值。这个故事也展示了'以貌取人'的错误，以及人们如何通过智慧和策略来应对不公平的对待。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "madam",
+        "toggle": "n. 夫人；女士；鸨母",
+        "isDanger": 0,
+        "phonetic": "ˈmædəm",
+        "meaning": "n. （对妇女的尊称）太太，夫人"
+      },
+      {
+        "word": "jeans",
+        "toggle": "n. 牛仔裤；工装裤",
+        "isDanger": 0,
+        "phonetic": "dʒiːnz",
+        "meaning": "n. 牛仔裤"
+      },
+      {
+        "word": "hesitate",
+        "toggle": "vi. 踌躇，犹豫；不愿",
+        "isDanger": 1,
+        "phonetic": "ˈhezɪteɪt",
+        "meaning": "v. 犹豫，迟缓"
+      },
+      {
+        "word": "serve",
+        "toggle": "vt. 招待，供应；为 … 服务；对 … 有用；可作 … 用",
+        "isDanger": 1,
+        "phonetic": "sɜːv",
+        "meaning": "v. 接待（顾客）"
+      },
+      {
+        "word": "scornfully",
+        "toggle": "adv.轻蔑地,藐视地",
+        "isDanger": 0,
+        "phonetic": "ˈskɔːnfəli",
+        "meaning": "adv. 轻蔑地"
+      },
+      {
+        "word": "punish",
+        "toggle": "vt. 严厉对待；惩罚； [ 口 ] 贪婪地吃喝",
+        "isDanger": 0,
+        "phonetic": "ˈpʌnɪʃ",
+        "meaning": "v. 惩罚"
+      },
+      {
+        "word": "fur",
+        "toggle": "n. 毛皮；皮，皮子；软毛",
+        "isDanger": 0,
+        "phonetic": "fɜː(r)",
+        "meaning": "n. 裘皮"
+      },
+      {
+        "word": "eager",
+        "toggle": "adj. 渴望的；热心的；热切的",
+        "isDanger": 0,
+        "phonetic": "ˈiːɡə(r)",
+        "meaning": "adj. 热切的，热情的"
+      }
+    ]
+  }
+}

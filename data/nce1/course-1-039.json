@@ -1,0 +1,296 @@
+{
+  "id": "nce1-039",
+  "lessonNumber": "039",
+  "title": {
+    "english": "Don't drop it!",
+    "chinese": "别摔了！"
+  },
+  "lessonInfo": "新概念英语－第1册－第039课",
+  "audioPath": "audio/nce1/039.mp3",
+  "listeningQuestion": {
+    "question": "What are the different suggestions for where to put the vase?",
+    "translation": "对于花瓶的摆放位置有哪些不同的建议？"
+  },
+  "editorNotes": "本课通过一段关于摆放花瓶的对话，介绍了如何使用祈使句表达命令和建议，以及如何描述物品的位置。课文重点展示了'be going to'结构的实际应用，以及位置介词的使用方法。同时也包含了形容词的使用来描述物品的特征。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "What are you going to do with that vase, Penny?",
+      "I'm going to put it on this table, Sam.",
+      "Don't do that.",
+      "Give it to me.",
+      "What are you going to do with it?",
+      "I'm going to put it here, in front of the window.",
+      "Be careful.",
+      "Don't drop it!",
+      "Don't put it there, Sam.",
+      "Put it here, on this shelf.",
+      "There we are!",
+      "It's a lovely vase.",
+      "Those flowers are lovely, too."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "萨姆：你打算如何处理那花瓶？",
+      "彭妮：我打算把它放在这张桌子上，萨姆。",
+      "萨姆：不要放在那儿，把它给我。",
+      "彭妮：你打算怎么办？",
+      "萨姆：我准备把它入在这儿，放在窗前。",
+      "彭妮：小心点！别摔了！",
+      "彭妮：别放在那儿，萨姆。放在这儿，这个架子上。",
+      "萨姆：这只漂亮的花瓶。",
+      "彭妮：这些花也很漂亮啊。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问计划",
+        "children": [
+          "核心概念：询问他人的打算和计划",
+          "常用表达：",
+          "- What are you going to do with...? (你打算怎么处理...？)",
+          "- I'm going to put it... (我打算把它放...)",
+          "使用场景：",
+          "- 询问计划 | 表达意图 | 讨论安排",
+          "注意事项：",
+          "- 语气友好 | 表达清晰 | 回答具体"
+        ]
+      },
+      {
+        "heading": "2. 位置表达",
+        "children": [
+          "核心概念：描述物品的位置",
+          "常用表达：",
+          "- on this table (在这张桌子上)",
+          "- in front of the window (在窗户前面)",
+          "- on this shelf (在这个架子上)",
+          "使用场景：",
+          "- 摆放物品 | 指示位置 | 描述布局",
+          "注意事项：",
+          "- 介词使用 | 位置准确 | 指示清晰"
+        ]
+      },
+      {
+        "heading": "3. 提醒和警告",
+        "children": [
+          "核心概念：表达提醒和警告",
+          "常用表达：",
+          "- Be careful! (小心！)",
+          "- Don't drop it! (别摔了！)",
+          "- Don't put it there! (别放在那里！)",
+          "使用场景：",
+          "- 安全提醒 | 友善警告 | 防止意外",
+          "注意事项：",
+          "- 语气适当 | 表达及时 | 目的明确"
+        ]
+      },
+      {
+        "heading": "4. 赞美表达",
+        "children": [
+          "核心概念：表达赞美和欣赏",
+          "常用表达：",
+          "- It's a lovely vase. (这是一个漂亮的花瓶。)",
+          "- Those flowers are lovely, too. (那些花也很漂亮。)",
+          "使用场景：",
+          "- 赞美物品 | 表达欣赏 | 社交互动",
+          "注意事项：",
+          "- 语气真诚 | 表达恰当 | 互动自然"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 祈使句",
+        "children": [
+          "核心概念：",
+          "- 表达命令、请求或建议",
+          "- 包含肯定和否定形式",
+          "基本用法：",
+          "- 动词原形开头（肯定）",
+          "- Don't + 动词原形（否定）",
+          "实用例句：",
+          "- Give it to me. (把它给我。)",
+          "- Don't put it there. (别放在那里。)",
+          "注意事项：",
+          "- 语气变化 | 使用场合 | 表达效果"
+        ]
+      },
+      {
+        "heading": "2. be going to结构",
+        "children": [
+          "核心概念：",
+          "- 表示计划或打算",
+          "- 表示即将发生的事",
+          "基本用法：",
+          "- be going to + 动词原形",
+          "- 用于描述计划和意图",
+          "实用例句：",
+          "- I'm going to put it on this table. (我打算把它放在这张桌子上。)",
+          "- What are you going to do with it? (你打算怎么处理它？)",
+          "注意事项：",
+          "- 时态变化 | 疑问形式 | 否定形式"
+        ]
+      },
+      {
+        "heading": "3. 位置介词",
+        "children": [
+          "核心概念：",
+          "- 表示物体的位置关系",
+          "- 描述空间布局",
+          "基本用法：",
+          "- on（在...上面）",
+          "- in front of（在...前面）",
+          "- here/there（这里/那里）",
+          "实用例句：",
+          "- Put it here, on this shelf. (把它放在这里，这个架子上。)",
+          "- in front of the window (在窗户前面)",
+          "注意事项：",
+          "- 介词选择 | 位置关系 | 组合使用"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 位置词汇",
+        "children": [
+          "基本词汇：",
+          "- front (前面)",
+          "- in front of (在...前面)",
+          "- here/there (这里/那里)",
+          "常用搭配：",
+          "- put it here (放在这里)",
+          "- in front of the window (在窗户前面)",
+          "使用场景：",
+          "- 指示方位 | 描述位置 | 空间布局"
+        ]
+      },
+      {
+        "heading": "2. 物品描述",
+        "children": [
+          "基本词汇：",
+          "- vase (花瓶)",
+          "- flower (花)",
+          "- lovely (漂亮的)",
+          "常用搭配：",
+          "- lovely vase (漂亮的花瓶)",
+          "- lovely flowers (漂亮的花)",
+          "使用场景：",
+          "- 描述物品 | 表达赞美 | 室内装饰"
+        ]
+      },
+      {
+        "heading": "3. 动作动词",
+        "children": [
+          "基本词汇：",
+          "- drop (掉下，摔下)",
+          "- put (放置)",
+          "- give (给予)",
+          "常用搭配：",
+          "- don't drop it (别摔了)",
+          "- put it here (放在这里)",
+          "使用场景：",
+          "- 物品摆放 | 安全提醒 | 日常操作"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "front",
+        "toggle": "n. 前面；前线；正面",
+        "isDanger": 0,
+        "phonetic": "frʌnt",
+        "meaning": "n. 前面"
+      },
+      {
+        "word": "in front of",
+        "toggle": "在…前面; 当着…的面; 面前",
+        "isDanger": 0,
+        "phonetic": "ɪn frʌnt əv",
+        "meaning": "prep. 在…之前"
+      },
+      {
+        "word": "careful",
+        "toggle": "adj. 仔细的，小心的",
+        "isDanger": 0,
+        "phonetic": "ˈkeəf(ə)l",
+        "meaning": "adj. 小心的，仔细的"
+      },
+      {
+        "word": "be careful",
+        "toggle": "n. 注意; 当心，小心",
+        "isDanger": 0,
+        "phonetic": "bi ˈkeəf(ə)l",
+        "meaning": "v. 小心"
+      },
+      {
+        "word": "drop",
+        "toggle": "vt. 滴；使降低；随口漏出；使终止",
+        "isDanger": 0,
+        "phonetic": "drɒp",
+        "meaning": "v. 掉下"
+      },
+      {
+        "word": "vase",
+        "toggle": "n. 花瓶；瓶",
+        "isDanger": 0,
+        "phonetic": "vɑːz",
+        "meaning": "n. 花瓶"
+      },
+      {
+        "word": "flower",
+        "toggle": "n. 花；精华；开花植物",
+        "isDanger": 1,
+        "phonetic": "ˈflaʊə(r)",
+        "meaning": "n. 花"
+      },
+      {
+        "word": "show",
+        "toggle": "vt. 显示；演出；展出；说明",
+        "isDanger": 1,
+        "phonetic": "ʃəʊ",
+        "meaning": "v. 给…看"
+      },
+      {
+        "word": "send",
+        "toggle": "vt. 发送，寄；派遣；发射；使进入",
+        "isDanger": 1,
+        "phonetic": "send",
+        "meaning": "v. 送给"
+      },
+      {
+        "word": "post",
+        "toggle": "n. 岗位；邮件；标杆",
+        "isDanger": 1,
+        "phonetic": "pəʊst",
+        "meaning": "v. 寄送"
+      },
+      {
+        "word": "take",
+        "toggle": "vt. 拿，取；接受；采取；吃",
+        "isDanger": 1,
+        "phonetic": "teɪk",
+        "meaning": "v. 带给"
+      },
+      {
+        "word": "bring",
+        "toggle": "vt. 带来；引起；促使；使某人处于某种情况或境地",
+        "isDanger": 1,
+        "phonetic": "brɪŋ",
+        "meaning": "v. 带来"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

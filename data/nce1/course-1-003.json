@@ -1,0 +1,326 @@
+{
+  "id": "nce1-003",
+  "lessonNumber": "003",
+  "title": {
+    "english": "Sorry, sir.",
+    "chinese": "对不起，先生"
+  },
+  "lessonInfo": "新概念英语－第1册－第003课",
+  "audioPath": "audio/nce1/003.mp3",
+  "listeningQuestion": {
+    "question": "Does the gentleman get his umbrella back?",
+    "translation": "这位男士有没有要回他的雨伞？"
+  },
+  "editorNotes": "本课是新概念英语第一册的基础课程，通过衣帽间取物这一生活场景，介绍了服务交际中的重要表达方式。课文围绕一位顾客取回寄存物品的过程，展示了如何礼貌请求服务、如何应对服务失误、如何确认物品归属等实用交际功能。语法重点包括be动词的否定形式（isn't）和一般疑问句的构成。这些内容对于学习者在国外生活、旅行时的日常交际具有重要的实践意义，特别是在使用公共服务设施时非常有帮助。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "My coat and my umbrella please.",
+      "Here is my ticket.",
+      "Thank you, sir.",
+      "Number five.",
+      "Here's your umbrella and your coat.",
+      "This is not my umbrella.",
+      "Sorry sir.",
+      "Is this your umbrella?",
+      "No, it isn't.",
+      "Is this it?",
+      "Yes, it is.",
+      "Thank you very much."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "请把我的大衣和伞拿给我。",
+      "这是我（寄存东西）的牌子。",
+      "谢谢，先生。",
+      "是5号。",
+      "这是您的伞和大衣",
+      "这不是我的伞。",
+      "对不起，先生。",
+      "这把伞是您的吗？",
+      "不，不是！",
+      "这把是吗？",
+      "是，是这把",
+      "非常感谢。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 服务场景中的礼貌请求",
+        "children": [
+          "核心概念：在服务场景中如何礼貌地提出请求",
+          "使用场景：衣帽间取物品，餐厅点餐，商店购物，机场托运行李",
+          "实用例句：",
+          "- My coat and my umbrella, please. (请把我的大衣和伞拿给我)",
+          "- The bill, please. (请结账)",
+          "- A table for two, please. (请安排两人的座位)",
+          "使用注意事项：",
+          "- 在服务场合中可以省略动词，直接说出所需物品加please",
+          "- 语气要保持友好礼貌",
+          "- 可以加入Could you...等更礼貌的表达",
+          "- 记得出示相关凭证（如衣物寄存牌）"
+        ]
+      },
+      {
+        "heading": "2. 道歉和纠错表达",
+        "children": [
+          "核心概念：如何在服务中恰当处理错误和道歉",
+          "使用场景：拿错客人物品时，服务发生失误时，需要更正错误时",
+          "实用例句：",
+          "- Sorry, sir. (对不起，先生)",
+          "- I apologize for the mistake. (为这个错误道歉)",
+          "- Let me check again. (让我再检查一下)",
+          "交际技巧：",
+          "- 立即承认错误并道歉",
+          "- 主动提出解决方案",
+          "- 保持专业和耐心",
+          "文化背景：",
+          "- 英语国家服务业非常重视道歉的礼节",
+          "- Sorry和Excuse me的使用场合有所不同"
+        ]
+      },
+      {
+        "heading": "3. 确认和核实表达",
+        "children": [
+          "核心概念：如何确认物品归属和信息正确性",
+          "使用场景：确认物品所有权，核实信息准确性，重复确认要求",
+          "实用例句：",
+          "- Is this your umbrella? (这是您的伞吗？)",
+          "- Is this the right one? (这个是对的吗？)",
+          "- Let me confirm your number. (让我确认一下您的号码)",
+          "使用注意事项：",
+          "- 使用this/that指代物品时要注意距离",
+          "- 在确认过程中要保持耐心",
+          "- 遇到否定回答时要及时道歉并寻找正确物品"
+        ]
+      },
+      {
+        "heading": "4. 称谓和礼节用语",
+        "children": [
+          "核心概念：正确使用称谓和礼节性表达",
+          "使用场景：服务行业对客人的称呼，正式场合的称谓，书信和邮件中的称呼",
+          "实用例句：",
+          "- Thank you, sir. (谢谢您，先生)",
+          "- Good morning, madam. (早上好，女士)",
+          "- Dear Sir/Madam (亲爱的先生/女士)",
+          "文化背景：",
+          "- sir/madam在英语国家使用广泛，表示对客人的尊重",
+          "- 在美国，服务行业也经常使用更随意的称呼",
+          "- 英国对爵士头衔(Sir)的使用有严格规范"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. Be动词的否定形式",
+        "children": [
+          "核心概念：",
+          "- is + not = isn't",
+          "- am + not (无缩写形式)",
+          "- are + not = aren't",
+          "转换规则：",
+          "- 在be动词后加not构成否定",
+          "- 可使用缩写形式提高口语自然度",
+          "实用例句：",
+          "- This is not my umbrella. → This isn't my umbrella.",
+          "- I am not sure. (没有缩写形式)",
+          "- These are not mine. → These aren't mine.",
+          "常见误区：",
+          "- am not没有缩写形式",
+          "- 正式写作中应使用完整形式",
+          "扩展用法：",
+          "- 可用于表达物品归属：This isn't mine.",
+          "- 可用于表达状态：He isn't here.",
+          "- 可用于表达特征：It isn't blue."
+        ]
+      },
+      {
+        "heading": "2. 一般疑问句的构成和回答",
+        "children": [
+          "核心概念：",
+          "- 将be动词置于句首",
+          "- 用Yes/No回答",
+          "转换规则：",
+          "- 陈述句：This is your umbrella.",
+          "- 疑问句：Is this your umbrella?",
+          "实用例句：",
+          "- Is this your coat? → Yes, it is. / No, it isn't.",
+          "- Are these your books? → Yes, they are. / No, they aren't.",
+          "注意事项：",
+          "- 回答要与问句时态一致 | 代词要与问句主语对应",
+          "扩展用法：",
+          "- 用于确认身份：Are you Mr. Smith?",
+          "- 用于确认位置：Is it here?",
+          "- 用于确认状态：Is everything okay?"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 服务场所词汇",
+        "children": [
+          "cloakroom (n.) 衣帽间",
+          "基本含义：存放衣物、包包等的地方",
+          "常用搭配：",
+          "- cloakroom attendant (衣帽间服务员)",
+          "- cloakroom ticket (衣物寄存牌)",
+          "实用例句：",
+          "- Where is the cloakroom? (衣帽间在哪里？)",
+          "- Please keep your cloakroom ticket safe. (请保管好您的寄存牌)",
+          "使用场景：剧院衣帽间，餐厅衣帽间，机场行李寄存处"
+        ]
+      },
+      {
+        "heading": "2. 个人物品词汇",
+        "children": [
+          "umbrella (n.) 雨伞",
+          "基本含义：用来遮挡雨雪的工具",
+          "常用搭配：",
+          "- fold up the umbrella (收起雨伞)",
+          "- put up the umbrella (撑开雨伞)",
+          "实用例句：",
+          "- Could you lend me your umbrella? (能借我你的伞吗？)",
+          "- Don't forget your umbrella. (别忘了你的伞)",
+          "相关词组：",
+          "- umbrella stand (伞架)",
+          "- beach umbrella (沙滩伞)",
+          "- sun umbrella (遮阳伞)"
+        ]
+      },
+      {
+        "heading": "3. 礼貌用语词汇",
+        "children": [
+          "please (interj.) 请",
+          "基本含义：用于礼貌请求",
+          "常用搭配：",
+          "- Yes, please (好的，请)",
+          "- No, please (不用了，谢谢)",
+          "实用例句：",
+          "- Could you help me, please? (请您帮帮我好吗？)",
+          "- This way, please. (请这边走)",
+          "使用场景：服务请求，礼貌邀请，表达感谢"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "umbrella",
+        "toggle": "n. 雨伞；庇护；保护伞；伞形结构",
+        "isDanger": 0,
+        "phonetic": "ʌmˈbrelə",
+        "meaning": "n. 伞"
+      },
+      {
+        "word": "please",
+        "toggle": "vt. 使高兴，使满意；使喜欢",
+        "isDanger": 1,
+        "phonetic": "pliːz",
+        "meaning": "interj. 请"
+      },
+      {
+        "word": "here",
+        "toggle": "adv. 在这里；此时",
+        "isDanger": 1,
+        "phonetic": "hɪə(r)",
+        "meaning": "adv. 这里"
+      },
+      {
+        "word": "my",
+        "toggle": "pron. 我的",
+        "isDanger": 1,
+        "phonetic": "maɪ",
+        "meaning": "pron. 我的"
+      },
+      {
+        "word": "ticket",
+        "toggle": "n. 票；入场券，标签；证明书；（美）候选人名单； [ 口 ] 交通罚款单",
+        "isDanger": 0,
+        "phonetic": "ˈtɪkɪt",
+        "meaning": "n. 票"
+      },
+      {
+        "word": "number",
+        "toggle": "n. 号码；数字；数；算术；（杂志等的）期",
+        "isDanger": 1,
+        "phonetic": "ˈnʌmbə(r)",
+        "meaning": "n. 号码"
+      },
+      {
+        "word": "five",
+        "toggle": "n. 五，五个； [ 口 ] 五美元钞票",
+        "isDanger": 0,
+        "phonetic": "faɪv",
+        "meaning": "num. 五"
+      },
+      {
+        "word": "sorry",
+        "toggle": "adj. 对不起的，抱歉的；遗憾的",
+        "isDanger": 1,
+        "phonetic": "ˈsɒri",
+        "meaning": "interj. 对不起的"
+      },
+      {
+        "word": "sir",
+        "toggle": "n. 阁下，先生",
+        "isDanger": 0,
+        "phonetic": "sɜː(r)",
+        "meaning": "n. 先生"
+      },
+      {
+        "word": "cloakroom",
+        "toggle": "n.(剧场等)衣帽间,(车站等)行李站暂存处,<英>盥洗室,便所",
+        "isDanger": 0,
+        "phonetic": "ˈkləʊkruːm",
+        "meaning": "n. 衣帽存放处"
+      },
+      {
+        "word": "suit",
+        "toggle": "vt. 适合；使适应",
+        "isDanger": 0,
+        "phonetic": "suːt",
+        "meaning": "n. 一套衣服"
+      },
+      {
+        "word": "school",
+        "toggle": "n. 学校；学派；学院；鱼群",
+        "isDanger": 1,
+        "phonetic": "skuːl",
+        "meaning": "n. 学校"
+      },
+      {
+        "word": "teacher",
+        "toggle": "n. 教师；导师",
+        "isDanger": 0,
+        "phonetic": "ˈtiːtʃə(r)",
+        "meaning": "n. 老师"
+      },
+      {
+        "word": "son",
+        "toggle": "n. 儿子；男性后裔；孩子（对年轻人的称呼）",
+        "isDanger": 0,
+        "phonetic": "sʌn",
+        "meaning": "n. 儿子"
+      },
+      {
+        "word": "daughter",
+        "toggle": "n. 女儿；子代",
+        "isDanger": 0,
+        "phonetic": "ˈdɔːtə(r)",
+        "meaning": "n. 女儿"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "nce2--060",
+  "lessonNumber": "060",
+  "title": {
+    "english": "The future",
+    "chinese": "未来"
+  },
+  "lessonInfo": "新概念英语－第2册－第060课",
+  "audioPath": "audio/nce2/060.mp3",
+  "listeningQuestion": {
+    "question": "What did the fortune-teller tell the writer?",
+    "translation": "算命人告诉作者什么？"
+  },
+  "editorNotes": "本课讲述了一个人在乡村集市上拜访算命人的故事。算命人预言了他的未来，而这些预言恰好与实际情况相符。文章主要使用了现在进行时表示将来安排好的活动、时间状语从句中的时态用法，以及多个与算命和未来相关的词汇。文章还涉及了巧合与预言的主题，展示了人们对未来的好奇和预测。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
+      "I went into her tent and she told me to sit down.",
+      "After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you.",
+      "She will be arriving this evening and intends to stay for a few days.",
+      "The moment you leave this tent, you will get a big surprise.",
+      "A woman you know well will rush towards you.",
+      "She will speak to you and then she will lead you away from this place.",
+      "That is all.'",
+      "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
+      "'Where have you been hiding?' she asked impatiently.",
+      "'Your sister will be here in less than an hour and we must be at the station to meet her.",
+      "We are late already.'",
+      "As she walked away, I followed her out of the fair."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "在一个乡村集市上，我决定去拜访一位称作别林斯夫人的算命人。",
+      "我走进她的帐篷，她叫我坐下。",
+      "我给了她一些钱后，她便查看着一个水晶球说道：'您的一个亲戚就要来看您了。",
+      "她将于今天傍晚到达，并准备住上几天。",
+      "您一走出这个帐篷，就会大吃一惊。",
+      "一位您很熟悉的女人将向您冲来。",
+      "她会对您说点什么，然后带您离开这个地方。",
+      "就是这些。'",
+      "我一走出帐篷，就把别林斯基夫人给算卦的事忘得一干二净了，因为我的妻子正匆匆向我跑来。",
+      "'你躲到哪儿去了？'她不耐烦地问，",
+      "'再有不到一个小时你姐姐就要到这儿了，我们得去车站接她。",
+      "现在就已经晚了。'",
+      "当她走开时，我也跟着她出了集市。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "现在进行时表示将来安排好的活动",
+        "content": [
+          "在英语中，现在进行时也可用来表示为将来安排好的活动和事件，通常需要一个表示时间的状语（往往是不久的将来），如：He's arriving this evening.",
+          "arrive，come，go，leave等动词的进行式经常有这种用法，表示行程安排有关的'将到达，将离去'等意思，如：We're spending next winter in Australia.",
+          "当时间状语从句表示将来时，在after，as soon as，before，by the time，the moment，till，until和when等后面通常不用一般将来时而用一般现在时，如：The moment you leave this tent, you will get a big surprise."
+        ]
+      },
+      {
+        "title": "双重所有格和关系表达",
+        "content": [
+          "a relation of yours 表示'您的一个亲戚'，这是双重所有格的用法，如：A relation of yours is coming to see you.",
+          "relation 有多种含义：1) 关系，关联（不可数），如：I know little about the relation between time and space. 2) 国家、人民等之间的关系（可数），如：Friendly relations have been developed between the two cities. 3) 亲戚，亲属（可数），如：A near relation of yours is coming to see you.",
+          "That is all 在口语中表示'完了，就这些，事情就是这样'，如：He borrowed some money from me. That's all."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "the moment",
+        "translation": "一...就...",
+        "context": "表示时间，引导时间状语从句，相当于as soon as",
+        "example": "The moment you leave this tent, you will get a big surprise."
+      },
+      {
+        "phrase": "hurry towards sb.",
+        "translation": "向某人匆匆走去",
+        "context": "表示匆忙地向某人走去",
+        "example": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me."
+      },
+      {
+        "phrase": "in less than",
+        "translation": "不到，少于",
+        "context": "表示时间或数量的不足",
+        "example": "Your sister will be here in less than an hour and we must be at the station to meet her."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The moment you leave this tent, you ___ a big surprise.",
+        "options": [
+          "will get",
+          "would get",
+          "will have got",
+          "would have got"
+        ],
+        "answer": 0,
+        "explanation": "the moment引导的时间状语从句中，主句用一般将来时，从句用一般现在时表示将来。"
+      },
+      {
+        "question": "Your sister ___ here in less than an hour.",
+        "options": [
+          "is",
+          "will be",
+          "is being",
+          "has been"
+        ],
+        "answer": 1,
+        "explanation": "表示将来发生的事情，用一般将来时。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "We ___ next winter in Australia.",
+        "answer": "are spending",
+        "hint": "表示将来安排好的活动，用现在进行时"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇扩展",
+        "content": "由名词+名词构成的复合名词：第一个名词通常起形容词（或修饰语）的作用，而且一般都用单数。这类复合名词可以代替of结构，如a car key（汽车钥匙），a chair leg（椅子腿）；也可以理解为第一个名词指地点，第二个词指该地点中的东西，如a village pub（乡村酒吧），a world record（世界纪录）；也可以表示时间，如a Christmas card（圣诞卡），an evening dress（晚礼服）；也可以表示分类，如a horror film（恐怖电影），a flower shop（花店）；也可以表示材料，如a fur coat（裘皮大衣），a gold watch（金表）。"
+      },
+      {
+        "title": "文化背景",
+        "content": "算命和占卜在许多文化中都有悠久的历史。人们常常通过算命来寻求对未来的指引和安慰。这个故事展示了算命的一种常见形式——通过水晶球进行预测。虽然算命可能只是巧合，但故事中的预言恰好与实际情况相符，这反映了人们对命运和预言的复杂态度。同时，故事也暗示了人们对未来的好奇和不确定性，以及他们如何寻求各种方式来应对这种不确定性。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "future",
+        "toggle": "n. 未来；期货；前途；将来时",
+        "isDanger": 0,
+        "phonetic": "ˈfjuːtʃə(r)",
+        "meaning": "n. 未来，前途"
+      },
+      {
+        "word": "fair",
+        "toggle": "adj. 公平的；美丽的，白皙的；晴朗的",
+        "isDanger": 0,
+        "phonetic": "feə(r)",
+        "meaning": "n. 集市"
+      },
+      {
+        "word": "fortune-teller",
+        "toggle": "n. 算命者",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːtʃuːn telə(r)",
+        "meaning": "n. 算命人"
+      },
+      {
+        "word": "crystal",
+        "toggle": "n. 水晶；结晶，晶体；水晶饰品",
+        "isDanger": 1,
+        "phonetic": "ˈkrɪst(ə)l",
+        "meaning": "n. 水晶"
+      },
+      {
+        "word": "relation",
+        "toggle": "n. 关系；亲属关系；叙述；故事",
+        "isDanger": 0,
+        "phonetic": "rɪˈleɪʃ(ə)n",
+        "meaning": "n. 亲属"
+      },
+      {
+        "word": "impatiently",
+        "toggle": "adv. 无耐性地",
+        "isDanger": 0,
+        "phonetic": "ɪmˈpeɪʃntli",
+        "meaning": "adv. 不耐烦地"
+      }
+    ]
+  }
+}

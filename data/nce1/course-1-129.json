@@ -1,0 +1,251 @@
+{
+  "id": "nce1-129",
+  "lessonNumber": "129",
+  "title": {
+    "english": "70 Miles an Hour",
+    "chinese": "时速70英里"
+  },
+  "lessonInfo": "新概念英语－第1册－第129课",
+  "audioPath": "audio/nce1/129.mp3",
+  "listeningQuestion": {
+    "question": "Why did Harry miss the speed limit sign?",
+    "translation": "为什么哈里没看到限速标志？"
+  },
+  "editorNotes": "本课通过一段超速驾驶的情景对话，展示了如何处理与交通警察的沟通。课文重点介绍了情态动词must have been和can't have been的用法，以及如何在交通违规情况下进行恰当的对话。这些表达方式在日常驾驶和与执法人员交流时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Ann:        Look, Harry! That policeman's waving to you. He wants you to stop.",
+      "Policeman:  Where do you think you are? On a race track?You must have been driving at seventy miles an hour.",
+      "Harry:      I can't have been.",
+      "Policeman:  I was doing eighty when I overtook you.",
+      "Policeman:  Didn't you see the speed limit?",
+      "Harry:      I'm afraid I didn't, officer. I must have been dreaming .",
+      "Ann:        He wasn't dreaming, officer. I was telling him to drive slowly.",
+      "Harry:      That's why I didn't see the sign.",
+      "Policeman:  Let me see your driving-license and your insurance certificate.",
+      "Policeman:  I won't charge you this time. But you'd better not do it again!",
+      "Harry:      Thank you. I'll certainly be more careful.",
+      "Ann:        I told you to drive slowly, Harry.",
+      "Harry:      You always tell me to drive slowly, darling.",
+      "Ann:        Well, next time you'd better take my advice!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "安：瞧，加里！那个警察正朝你挥手呢。他要你停下来。",
+      "警察：你认为你现在是在哪儿？在赛车道上吗？你刚才一定是以每小时70英里的速度开车。",
+      "加里：我不会开得那么快的。",
+      "警察：我是以第小时80英里的速度赶上你的。",
+      "警察：难道你没看见限速牌吗？",
+      "加里：恐怕我没有看见，警官。我一定思想开小差了。",
+      "安：警官，他思想没有开小差。我刚才正告诉他开慢点。",
+      "加里：所以我才没看见那牌子。",
+      "警察：让我看一看你的驾驶执照。",
+      "警察：这次我就不罚你款了。但你最好不要再开得这样快。",
+      "加里：谢谢您。我以后一定会多加注意。",
+      "安：加里，我刚才叫你开慢点吧。",
+      "加里：你总是叫我开慢点，亲爱的。",
+      "安：好啦，下次你最好还是听从我的劝告！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 交通警示",
+        "children": [
+          "核心概念：如何描述和回应交通警示",
+          "常用表达：",
+          "- That policeman's waving to you 那个警察在向你招手",
+          "- He wants you to stop 他要你停下来",
+          "- You must have been driving at... 你一定是以...速度在开车",
+          "使用场景：遇到交通执法时",
+          "注意事项：注意语气要恭敬有礼"
+        ]
+      },
+      {
+        "heading": "2. 解释与辩解",
+        "children": [
+          "核心概念：如何解释和辩解情况",
+          "常用表达：",
+          "- I can't have been 我不可能...",
+          "- I'm afraid I didn't 恐怕我没有...",
+          "- I must have been dreaming 我一定是走神了",
+          "使用场景：解释违规原因时",
+          "注意事项：注意态度要诚恳"
+        ]
+      },
+      {
+        "heading": "3. 警告与承诺",
+        "children": [
+          "核心概念：如何表达警告和承诺",
+          "常用表达：",
+          "- You'd better not do it again 你最好不要再这样做了",
+          "- I'll certainly be more careful 我一定会更加小心",
+          "- Better take my advice 最好听我的建议",
+          "使用场景：接受警告和作出承诺时",
+          "注意事项：注意表达的诚意"
+        ]
+      },
+      {
+        "heading": "4. 速度描述",
+        "children": [
+          "核心概念：如何描述行车速度",
+          "常用表达：",
+          "- driving at seventy miles an hour 以每小时70英里的速度行驶",
+          "- doing eighty 开到80英里",
+          "- drive slowly 慢点开",
+          "使用场景：讨论行车速度时",
+          "注意事项：注意速度单位的表达"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. must have been表示过去推测",
+        "children": [
+          "1. 表示对过去的肯定推测：You must have been driving at seventy",
+          "2. 用于表达确信",
+          "3. 常用于描述过去发生的事",
+          "4. 例句：I must have been dreaming"
+        ]
+      },
+      {
+        "heading": "2. can't have been表示否定推测",
+        "children": [
+          "1. 表示对过去的否定推测：I can't have been",
+          "2. 用于强烈否定",
+          "3. 比must not have been更常用",
+          "4. 例句：He can't have seen the sign"
+        ]
+      },
+      {
+        "heading": "3. had better表示建议",
+        "children": [
+          "1. 表示强烈建议：You'd better not do it again",
+          "2. 暗含警告意味",
+          "3. 比should语气更强",
+          "4. 例句：You'd better take my advice"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 交通相关词汇",
+        "children": [
+          "speed n. 速度：",
+          "- speed limit 限速",
+          "- driving speed 行驶速度",
+          "track n. 轨道：",
+          "- race track 赛车道",
+          "- on track 在正轨上"
+        ]
+      },
+      {
+        "heading": "2. 驾驶相关词汇",
+        "children": [
+          "overtake v. 超车：",
+          "- overtake a car 超过一辆车",
+          "- dangerous overtaking 危险超车",
+          "driving licence n. 驾驶执照：",
+          "- show your driving licence 出示驾驶执照",
+          "- renew a driving licence 更新驾驶执照"
+        ]
+      },
+      {
+        "heading": "3. 警告相关词汇",
+        "children": [
+          "charge v. 罚款：",
+          "- charge someone 对某人罚款",
+          "- traffic charge 交通罚款",
+          "wave v. 挥手：",
+          "- wave to someone 向某人挥手",
+          "- wave down 示意停下"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "wave",
+        "toggle": "vi. 波动；起伏；摇动；呈波形；挥手示意",
+        "isDanger": 1,
+        "phonetic": "weɪv",
+        "meaning": "v. 招手"
+      },
+      {
+        "word": "track",
+        "toggle": "n. 足迹，踪迹；轨道；小道",
+        "isDanger": 1,
+        "phonetic": "træk",
+        "meaning": "n. 跑道"
+      },
+      {
+        "word": "mile",
+        "toggle": "n.英里,较大的距离",
+        "isDanger": 0,
+        "phonetic": "maɪl",
+        "meaning": "n. 英里"
+      },
+      {
+        "word": "overtake",
+        "toggle": "vt. 赶上；压倒；突然来袭",
+        "isDanger": 0,
+        "phonetic": "ˌəʊvəˈteɪk",
+        "meaning": "v. 从后面超越，超车"
+      },
+      {
+        "word": "speed",
+        "toggle": "vi. 加速，迅速前行；超速，加速；兴隆",
+        "isDanger": 1,
+        "phonetic": "spiːd",
+        "meaning": "n. 限速"
+      },
+      {
+        "word": "dream",
+        "toggle": "vi. 做梦，梦见；梦想；想到",
+        "isDanger": 1,
+        "phonetic": "driːm",
+        "meaning": "v. 做梦，思想不集中"
+      },
+      {
+        "word": "sign",
+        "toggle": "n. 符号；记号；迹象；手势",
+        "isDanger": 1,
+        "phonetic": "saɪn",
+        "meaning": "n. 标记，牌子"
+      },
+      {
+        "word": "driving licence",
+        "toggle": "n. 驾驶执照",
+        "isDanger": 0,
+        "phonetic": "ˈdraɪvɪŋ laɪs(ə)ns",
+        "meaning": "n. 驾驶执照"
+      },
+      {
+        "word": "charge",
+        "toggle": "n. 费用；掌管；控告；负载；电荷；命令",
+        "isDanger": 1,
+        "phonetic": "tʃɑːdʒ",
+        "meaning": "n. 罚款"
+      },
+      {
+        "word": "darling",
+        "toggle": "n. 心爱的人；亲爱的",
+        "isDanger": 0,
+        "phonetic": "ˈdɑːlɪŋ",
+        "meaning": "n. 亲爱的(用作表示称呼)"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

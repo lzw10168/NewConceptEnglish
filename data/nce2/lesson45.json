@@ -1,0 +1,187 @@
+{
+  "id": "nce2--045",
+  "lessonNumber": "045",
+  "title": {
+    "english": "A Clear Conscience",
+    "chinese": "问心无愧"
+  },
+  "lessonInfo": "新概念英语－第2册－第045课",
+  "audioPath": "audio/nce2/045.mp3",
+  "listeningQuestion": {
+    "question": "What did the man do with the money he found?",
+    "translation": "那个人是怎么处理他找到的钱的？"
+  },
+  "editorNotes": "本文讲述了一个关于诚实和良心的故事。主人公在街上捡到一笔钱，虽然没有人看见，但他仍然选择将钱交给警察局。这个故事展现了主人公高尚的道德品质和对诚实原则的坚持。文章中的语法要点包括过去完成时的使用，以及'it is/was + 形容词 + of sb. to do sth.'的结构。在实际使用中，'clear conscience'和'hand over'等短语在描述道德行为和物品转交时非常实用，掌握这些表达方式可以帮助我们更好地描述类似的道德困境和选择。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The whole village soon learnt that a large sum of money had been lost.",
+      "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post-office.",
+      "Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.",
+      "Three months passed, and then one morning, Sam found his wallet outside his front door.",
+      "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said: 'A thief, yes, but only 50 per cent a thief!'",
+      "Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'",
+      "In time, all Sam's money was paid back in this way.",
+      "The last note contained: 'I am 100 per cent honest now!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "整个村子很快知道，有一大笔钱丢失了。",
+      "当地的屠户萨姆·本顿在把存款送往邮局的途中把钱包丢了。",
+      "萨姆确信那钱包一定是被某个村民捡到了，可是却不见有人来送还给他。",
+      "3个月过去了，后来在一天早晨，萨姆在自己的大门外发现了他的钱包。",
+      "钱包是用报纸包着的，里面有他丢失的钱的一半，而且还附着一张纸条，上面写着：'一个小偷，是的，但只是一个50%的小偷！'",
+      "两个月后，又送来一些钱，仍附着一张纸条：'这次只是25%的小偷了！'",
+      "很快，萨姆的全部钱都用同样的方式还了回来。",
+      "最后的那张纸条上写着：'我现在是一个100%的诚实人了！'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "过去完成时",
+        "content": [
+          "过去完成时表示在过去某一时间点之前已经完成的动作",
+          "结构：had + 过去分词",
+          "例如：The wallet must have been found by one of the villagers.",
+          "过去完成时常用于表示过去某一时间点之前已经发生的事情"
+        ]
+      },
+      {
+        "title": "被动语态",
+        "content": [
+          "被动语态强调动作的承受者，而不是动作的执行者",
+          "结构：be + 过去分词",
+          "例如：The wallet had been wrapped up in newspaper.",
+          "被动语态常用于不知道动作执行者是谁，或者动作执行者不重要的情况"
+        ]
+      },
+      {
+        "title": "情态动词+完成时",
+        "content": [
+          "情态动词+完成时表示对过去事情的推测",
+          "例如：must have done（一定已经做了某事）",
+          "其他常见用法：should have done（本应该做某事），could have done（本可能做某事）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "clear conscience",
+        "translation": "问心无愧",
+        "context": "表示没有做错事，内心平静",
+        "example": "He had a clear conscience after returning the money."
+      },
+      {
+        "phrase": "hand over",
+        "translation": "交出，转交",
+        "context": "表示将某物交给他人",
+        "example": "He handed over the wallet to the police."
+      },
+      {
+        "phrase": "in time",
+        "translation": "最终，迟早",
+        "context": "表示经过一段时间后发生的事情",
+        "example": "In time, all Sam's money was paid back."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Sam was sure that the wallet must have been found by one of the villagers. This means ___.",
+        "options": [
+          "Sam was sure that one of the villagers had found the wallet",
+          "Sam was sure that one of the villagers would find the wallet",
+          "Sam was sure that one of the villagers was finding the wallet",
+          "Sam was sure that one of the villagers finds the wallet"
+        ],
+        "answer": 0,
+        "explanation": "must have been found 表示对过去事情的推测，意思是'一定已经被找到了'"
+      },
+      {
+        "question": "The wallet had been wrapped up in newspaper. This means ___.",
+        "options": [
+          "Someone had wrapped the wallet in newspaper",
+          "The wallet had wrapped itself in newspaper",
+          "The wallet was being wrapped in newspaper",
+          "The wallet would be wrapped in newspaper"
+        ],
+        "answer": 0,
+        "explanation": "had been wrapped 是被动语态的过去完成时，表示'已经被包起来了'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Sam ___ his wallet while taking his savings to the post-office.",
+        "answer": "had lost",
+        "hint": "表示在过去某一时间点之前已经完成的动作"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "在英语国家，诚实和诚信是非常重要的价值观。这篇文章通过一个简单的故事，展现了主人公在面对诱惑时选择诚实的高尚品质。这种道德选择在英语文化中受到高度赞扬，也反映了英语国家社会对个人诚信的重视。"
+      },
+      {
+        "title": "词汇扩展",
+        "content": "conscience（良心）这个词在英语中经常与道德和伦理相关。例如：guilty conscience（有罪的良心），bad conscience（不安的良心）。相关的词组还有：have a clear conscience（问心无愧），have no conscience（没有良心）等。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "clear",
+        "toggle": "adj. 清楚的；清澈的；晴朗的；无罪的",
+        "isDanger": 1,
+        "phonetic": "klɪə(r)",
+        "meaning": "adj. 无罪的，不亏心的"
+      },
+      {
+        "word": "conscience",
+        "toggle": "n. 道德心，良心",
+        "isDanger": 0,
+        "phonetic": "ˈkɒnʃəns",
+        "meaning": "n. 良心，道德心"
+      },
+      {
+        "word": "wallet",
+        "toggle": "n. 钱包，皮夹",
+        "isDanger": 0,
+        "phonetic": "ˈwɒlɪt",
+        "meaning": "n. 皮夹，钱夹"
+      },
+      {
+        "word": "savings",
+        "toggle": "n. 储蓄；存款；救助；节省物（saving 的复数形式）",
+        "isDanger": 0,
+        "phonetic": "ˈseɪvɪŋz",
+        "meaning": "n. 存款"
+      },
+      {
+        "word": "villager",
+        "toggle": "n. 乡村居民，村民",
+        "isDanger": 0,
+        "phonetic": "ˈvɪlɪdʒə(r)",
+        "meaning": "n. 村民"
+      },
+      {
+        "word": "per cent",
+        "toggle": "num.百分之…，百分数",
+        "isDanger": 0,
+        "phonetic": "pə ˈsent",
+        "meaning": "prep. 百分之……"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "id": "nce2--046",
+  "lessonNumber": "046",
+  "title": {
+    "english": "Expensive and uncomfortable",
+    "chinese": "既昂贵又难受"
+  },
+  "lessonInfo": "新概念英语－第2册－第046课",
+  "audioPath": "audio/nce2/046.mp3",
+  "listeningQuestion": {
+    "question": "Why did the man hide in the box?",
+    "translation": "这个人为什么要藏在箱子里？"
+  },
+  "editorNotes": "本课讲述了一个男子为了逃避支付机票费用而藏在货物箱中的故事。文章通过生动的叙述展现了这种行为的后果。在语法方面，重点介绍了与to、at、for和with等介词搭配的动词用法，这些搭配在英语中非常常见且重要。文章还涉及了一些重要的词汇用法，如account for、occur to、be astonished at等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
+      "No one could account for the fact that one of the boxes was extremely heavy.",
+      "It suddenly occurred to one of the workers to open up the box.",
+      "He was astonished at what he found.",
+      "A man was lying in the box on top of a pile of wooden goods.",
+      "He was so surprised at being discovered that he did not even try to run away.",
+      "After he was arrested, the man admitted hiding in the box before the plane left London.",
+      "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.",
+      "The man was ordered to pay $3,500 for the cost of the trip.",
+      "The normal price of a ticket is $2,000!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "当一架来自伦敦的飞机抵达悉尼机场时，工人们开始卸下装有服装的一批木箱。",
+      "其中有只箱子特别重，可谁也弄不清是怎么回事。",
+      "突然一个工人想到打开箱子看看。",
+      "看到的情景使他吃惊，箱内有一个人正躺在一堆毛织品之上。",
+      "他由于被人发现而感到非常吃惊，甚至都没有企图逃跑。",
+      "此人被逮捕后，承认他是在飞机离开伦敦前躲进箱里的。",
+      "他经历了一次漫长而又难受的旅程，因为他在那木箱里闷了18个多小时。",
+      "此人被责令交付旅费3,500英镑，而正常票价是2,000英镑！"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "与to连用的动词",
+        "content": [
+          "accustom(ed) to（习惯于）",
+          "amount to（达到）",
+          "appeal to（呼吁）",
+          "apply to/for（适用于）",
+          "attach(ed) to（附属于）",
+          "belong to（属于）",
+          "confess to（承认）",
+          "confine to（限制）",
+          "occur to（想到）",
+          "prefer to（更喜欢）"
+        ]
+      },
+      {
+        "title": "与at连用的动词",
+        "content": [
+          "amused at/by（对……感到有趣）",
+          "arrive at/in（到达）",
+          "astonish(ed) at/by（感到惊愕）",
+          "glance at（对……看一眼）",
+          "look at（看）",
+          "stare at（盯着……看）",
+          "wonder at/about（感到惊异）"
+        ]
+      },
+      {
+        "title": "与for连用的动词",
+        "content": [
+          "account for（说明(原因)）",
+          "ask for（请求）",
+          "apologize for（因……而道歉）",
+          "blame for（责备）",
+          "look for（寻找）",
+          "pay for（为……付款）",
+          "prepare for（准备）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "account for",
+        "translation": "说明原因，解释",
+        "context": "用于解释或说明某事的原因",
+        "example": "No one could account for the fact that one of the boxes was extremely heavy."
+      },
+      {
+        "phrase": "occur to",
+        "translation": "想到，想起",
+        "context": "表示突然想到某事",
+        "example": "It suddenly occurred to one of the workers to open up the box."
+      },
+      {
+        "phrase": "be astonished at",
+        "translation": "对……感到惊讶",
+        "context": "表示对某事感到非常吃惊",
+        "example": "He was astonished at what he found."
+      },
+      {
+        "phrase": "be confined to",
+        "translation": "被限制在",
+        "context": "表示被限制在某个空间内",
+        "example": "He had been confined to the wooden box for over eighteen hours."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why did the man hide in the box?",
+        "options": [
+          "to get to Sydney",
+          "because it contained woollen goods",
+          "to avoid paying the fare from London to Sydney",
+          "because no one would find him"
+        ],
+        "answer": 2,
+        "explanation": "根据课文内容，这个人藏在箱子里是为了逃避支付从伦敦到悉尼的机票费用。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The man was ordered to pay $3,500 ___ the cost of the trip.",
+        "answer": "for",
+        "hint": "表示'为...付款'的介词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "这个故事反映了某些人为了逃避支付高额机票费用而采取极端手段的现象。在航空旅行中，偷渡不仅违法，而且非常危险，可能会危及生命安全。正常购买机票不仅是法律要求，也是对自己生命负责的表现。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'account for'（解释原因）、'occur to'（想到）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "unload",
+        "toggle": "vt. 卸；摆脱 … 之负担；倾销",
+        "isDanger": 0,
+        "phonetic": "ˌʌnˈləʊd",
+        "meaning": "v. 卸（货）"
+      },
+      {
+        "word": "wooden",
+        "toggle": "adj. 木制的；僵硬的，呆板的",
+        "isDanger": 0,
+        "phonetic": "ˈwʊdn",
+        "meaning": "adj. 木制的"
+      },
+      {
+        "word": "extremely",
+        "toggle": "adv. 非常，极其；极端地",
+        "isDanger": 0,
+        "phonetic": "ɪkˈstriːmli",
+        "meaning": "adv. 非常，极其"
+      },
+      {
+        "word": "occur",
+        "toggle": "vi. 发生；出现；存在",
+        "isDanger": 1,
+        "phonetic": "əˈkɜː(r)",
+        "meaning": "v. 发生"
+      },
+      {
+        "word": "astonish",
+        "toggle": "vt. 使惊讶",
+        "isDanger": 0,
+        "phonetic": "əˈstɒnɪʃ",
+        "meaning": "v. 使惊讶"
+      },
+      {
+        "word": "pile",
+        "toggle": "n. 堆；大量；建筑群",
+        "isDanger": 0,
+        "phonetic": "paɪl",
+        "meaning": "n. 堆"
+      },
+      {
+        "word": "woollen",
+        "toggle": "n.毛织品adj.羊毛制的",
+        "isDanger": 0,
+        "phonetic": "ˈwʊlən",
+        "meaning": "n. 羊毛的"
+      },
+      {
+        "word": "goods",
+        "toggle": "n.货物（仅复数）,<美俚>工具",
+        "isDanger": 0,
+        "phonetic": "ɡʊdz",
+        "meaning": "n. （常用复数）货物，商品"
+      },
+      {
+        "word": "discover",
+        "toggle": "vt. 发现；发觉",
+        "isDanger": 0,
+        "phonetic": "dɪˈskʌvə(r)",
+        "meaning": "v. 发现"
+      },
+      {
+        "word": "admit",
+        "toggle": "vt. 承认；准许进入；可容纳",
+        "isDanger": 1,
+        "phonetic": "ədˈmɪt",
+        "meaning": "v. 承认"
+      },
+      {
+        "word": "confine",
+        "toggle": "n. 界限，边界",
+        "isDanger": 1,
+        "phonetic": "kənˈfaɪn",
+        "meaning": "v. 关在（一个狭小的空间里）"
+      },
+      {
+        "word": "normal",
+        "toggle": "adj. 正常的；正规的，标准的",
+        "isDanger": 1,
+        "phonetic": "ˈnɔːm(ə)l",
+        "meaning": "adj. 正常的，通常的"
+      }
+    ]
+  }
+}

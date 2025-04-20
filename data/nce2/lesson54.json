@@ -1,0 +1,292 @@
+{
+  "id": "nce2--054",
+  "lessonNumber": "054",
+  "title": {
+    "english": "Sticky fingers",
+    "chinese": "粘糊的手指"
+  },
+  "lessonInfo": "新概念英语－第2册－第054课",
+  "audioPath": "audio/nce2/054.mp3",
+  "listeningQuestion": {
+    "question": "Why was the writer annoyed when the telephone rang?",
+    "translation": "为什么电话铃响时作者感到烦恼？"
+  },
+  "editorNotes": "本课讲述了一个关于家庭主妇在制作肉馅饼时被电话打断的有趣故事。作者在送孩子上学、购物回家后，决定制作肉馅饼，但正当她手上沾满粘糊的面糊时，电话铃响了。她不得不接听电话，并花时间说服对方稍后再打来。刚挂断电话，门铃又响了，这次是邮递员要求她签收挂号信。在语法方面，重点介绍了冠词the、some和any的用法，以及形容词和副词的最高级形式。文章还涉及了一些重要的词汇用法，如sticky、mix、annoying和persuade等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "After breakfast, I sent the children to school and then I went to the shops.",
+      "It was still early when I returned home.",
+      "The children were at school, my husband was at work and the house was quiet.",
+      "So I decided to make some meat pies.",
+      "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.",
+      "At exactly that moment, the telephone rang.",
+      "Nothing could have been more annoying.",
+      "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+      "It took me ten minutes to persuade her to ring back later.",
+      "At last I hung up the receiver.",
+      "What a mess!",
+      "There was pastry on my fingers, on the telephone, and on the doorknobs.",
+      "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+      "This time it was the postman and he wanted me to sign for a registered letter!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "早饭后，我送孩子们上学，然后就去了商店。",
+      "我回到家时，时间还早。",
+      "孩子们在上学，我丈夫在上班，家里清静得很。",
+      "于是我决定做些肉馅饼。",
+      "不一会儿我就忙着调拌起了黄油和面粉，很快我的手上就沾满了粘粘的面糊。",
+      "恰恰在此时，电话铃响了。",
+      "没有什么能比这更烦人了。",
+      "我用两个沾满面糊的手指捏起了话筒。",
+      "当我听出是海伦·贝茨的声音时，非常丧气。",
+      "我用了10分钟的时间才说服她过会儿再来电话。",
+      "我终于挂上了话筒。",
+      "真是糟糕透了！我的手指上、电话机上以及门的把手上，都沾上了面糊。",
+      "我刚回到厨房，门铃又响了起来，响声足以把死人唤醒。",
+      "这次是邮递员，他要我签收一封挂号信！"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "冠词the、some和any的用法",
+        "content": [
+          "some和any可用于不可数名词及复数可数名词之前",
+          "some通常用于肯定句，any通常用于否定句或疑问句中",
+          "在期待得到肯定答复的疑问句中也可以用some",
+          "在肯定句中表示'随便哪个，任何一个'的含义时也可以用any",
+          "例如：These are the only meat pies I have. Do you want some of them? Yes, please. Any meat pies will do."
+        ]
+      },
+      {
+        "title": "形容词用于the之后表示群体",
+        "content": [
+          "有些形容词可以用于the之后（决不能用于a/an之后），表示作为整体的群体",
+          "如the blind（盲人）、the deaf（聋人）、the living（活着的人）、the dead（死者）、the rich（富人）、the poor（穷人）等",
+          "这些形容词后要跟复数动词，不可用这些形容词本身来指个体",
+          "例如：The Government always makes sure that the old are cared for.（政府总是确保老年人得到照顾）",
+          "如果想指单数个体，则可以说：Sam is a young man with a lot of money.（萨姆是一个有很多钱的年轻人）"
+        ]
+      },
+      {
+        "title": "零冠词用法",
+        "content": [
+          "当某些名词指其'主要目的'，即与其相关的动作时，要用零冠词（即名词前没有冠词）",
+          "这类名词有bed（床）、church（教堂）、class（课堂）、college（大学）、hospital（医院）、market（市场）、prison（监狱）、school（学校）、sea（海）、university（大学）、work（工作）等",
+          "但在特指的东西面前要用the，泛指同类事物中的任何一个时则用a",
+          "例如：The children were at school.（孩子们在上学）",
+          "例如：My husband was at work.（我丈夫在上班）"
+        ]
+      },
+      {
+        "title": "最高级形式",
+        "content": [
+          "在形容词/副词的最高级前面要用the",
+          "但当most表示'大多数'时它前面则不加the",
+          "the most表示'最'，most of the...表示'大部分的...'",
+          "例如：Nothing could have been more annoying.（没有什么能比这更烦人了）",
+          "例如：Most young men have to work hard.（大多数年轻人都必须努力工作）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "be busy doing sth.",
+        "translation": "忙于做某事",
+        "context": "表示某人正在忙于做某事",
+        "example": "In a short time I was busy mixing butter and flour."
+      },
+      {
+        "phrase": "be covered with...",
+        "translation": "盖满……",
+        "context": "表示某物被某物覆盖",
+        "example": "My hands were soon covered with sticky pastry."
+      },
+      {
+        "phrase": "at exactly that moment",
+        "translation": "就在那时，恰恰在此时",
+        "context": "表示某事恰好发生在某一时刻",
+        "example": "At exactly that moment, the telephone rang."
+      },
+      {
+        "phrase": "persuade sb. to do sth.",
+        "translation": "说服某人做某事",
+        "context": "表示成功说服某人做某事",
+        "example": "It took me ten minutes to persuade her to ring back later."
+      },
+      {
+        "phrase": "no sooner...than...",
+        "translation": "刚……就……",
+        "context": "表示两个动作紧接着发生，用于过去完成时",
+        "example": "I had no sooner got back to the kitchen than the doorbell rang."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Nothing could have been more annoying. It was ___ annoying thing that could have happened.",
+        "options": [
+          "the more",
+          "more",
+          "most",
+          "the most"
+        ],
+        "answer": 3,
+        "explanation": "nothing + be more annoying表达最高级含义，相当于the most annoying"
+      },
+      {
+        "question": "She was busy mixing butter and flour. She was ___.",
+        "options": [
+          "joining them",
+          "uniting them",
+          "unifying them",
+          "putting them together"
+        ],
+        "answer": 3,
+        "explanation": "mix表示'混合，拌和'，与putting them together意思相近"
+      },
+      {
+        "question": "She was dismayed when she heard Helen Bates. She felt ___.",
+        "options": [
+          "pity",
+          "sorry",
+          "ill",
+          "tired"
+        ],
+        "answer": 1,
+        "explanation": "dismayed表示'失望，泄气'，与felt sorry意思相近"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The children were ___ school, my husband was ___ work and the house was quiet.",
+        "answer": "at, at",
+        "hint": "表示'在上学'和'在上班'的介词短语"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "sticky的多种用法",
+        "content": "sticky除了表示'粘的'外，还可以表示'困难的，棘手的'，如a sticky situation（棘手的局面）。在口语中，sticky fingers还可以表示'偷窃的习惯'，如He has sticky fingers.（他有偷窃的习惯）。"
+      },
+      {
+        "title": "家庭主妇的日常",
+        "content": "本课描述了一位家庭主妇的日常活动，包括送孩子上学、购物、烹饪等。这些活动虽然看似简单，但在实际生活中常常会被各种意外打断，如电话、门铃等。文章通过幽默的方式展现了家庭主妇在忙碌家务时被打扰的烦恼，以及如何应对这些情况。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "sticky",
+        "toggle": "adj. 粘的；粘性的",
+        "isDanger": 0,
+        "phonetic": "ˈstɪki",
+        "meaning": "adj. 粘的"
+      },
+      {
+        "word": "finger",
+        "toggle": "n. 手指；指针，指状物",
+        "isDanger": 1,
+        "phonetic": "ˈfɪŋɡə(r)",
+        "meaning": "n. 手指"
+      },
+      {
+        "word": "pie",
+        "toggle": "n. 馅饼；饼图；爱说话的人",
+        "isDanger": 0,
+        "phonetic": "paɪ",
+        "meaning": "n. 馅饼"
+      },
+      {
+        "word": "mix",
+        "toggle": "vt. 使混和；配制；混淆；使结交",
+        "isDanger": 1,
+        "phonetic": "mɪks",
+        "meaning": "v. 混合，拌和"
+      },
+      {
+        "word": "pastry",
+        "toggle": "n. 油酥点心；面粉糕饼",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪstri",
+        "meaning": "n. 面糊"
+      },
+      {
+        "word": "annoying",
+        "toggle": "adj. 恼人的；讨厌的",
+        "isDanger": 0,
+        "phonetic": "əˈnɔɪɪŋ",
+        "meaning": "adj. 恼人的"
+      },
+      {
+        "word": "receiver",
+        "toggle": "n. 接收器；接受者；收信机；收款员，接待者",
+        "isDanger": 0,
+        "phonetic": "rɪˈsiːvə(r)",
+        "meaning": "n. 电话的话筒"
+      },
+      {
+        "word": "dismay",
+        "toggle": "n. 沮丧，灰心；惊慌",
+        "isDanger": 0,
+        "phonetic": "dɪsˈmeɪ",
+        "meaning": "v. 失望，泄气"
+      },
+      {
+        "word": "recognize",
+        "toggle": "vt. 承认；认出，识别",
+        "isDanger": 1,
+        "phonetic": "ˈrekəɡnaɪz",
+        "meaning": "v. 认出，听出"
+      },
+      {
+        "word": "persuade",
+        "toggle": "vt. 说服，劝说；使某人相信；劝某人做（不做）某事",
+        "isDanger": 0,
+        "phonetic": "pəˈsweɪd",
+        "meaning": "v. 说服，劝说"
+      },
+      {
+        "word": "mess",
+        "toggle": "n. 食堂，伙食团；混乱；脏乱的东西；困境",
+        "isDanger": 1,
+        "phonetic": "mes",
+        "meaning": "n. 乱七八糟"
+      },
+      {
+        "word": "doorknob",
+        "toggle": "n. 门把手",
+        "isDanger": 0,
+        "phonetic": "ˈdɔːnɒb",
+        "meaning": "n. 门把手"
+      },
+      {
+        "word": "sign",
+        "toggle": "n. 符号；记号；迹象；手势",
+        "isDanger": 1,
+        "phonetic": "saɪn",
+        "meaning": "v. 签字"
+      },
+      {
+        "word": "register",
+        "toggle": "vt. 记录；注册；登记；把 … 挂号；挂号邮寄；正式提出",
+        "isDanger": 1,
+        "phonetic": "ˈredʒɪstə(r)",
+        "meaning": "v. 挂号邮寄"
+      }
+    ]
+  }
+}

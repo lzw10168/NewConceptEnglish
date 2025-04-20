@@ -1,0 +1,265 @@
+{
+  "id": "nce2--026",
+  "lessonNumber": "026",
+  "title": {
+    "english": "The best art critics",
+    "chinese": "最佳艺术评论家"
+  },
+  "lessonInfo": "新概念英语－第2册－第026课",
+  "audioPath": "audio/nce2/026.mp3",
+  "listeningQuestion": {
+    "question": "What did the writer's sister notice about the picture?",
+    "translation": "作者的妹妹注意到了画的什么问题？"
+  },
+  "editorNotes": "本课讲述了一个艺术系学生和他7岁妹妹的故事，通过妹妹敏锐地发现画被倒挂的细节，说明小孩子往往比成年人更能欣赏现代艺术。课文重点介绍了art、critic、appreciate等词的用法，以及引号的使用规则。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I am an art student and I paint a lot of pictures.",
+      "Many people pretend that they understand modern art.",
+      "They always tell you what a picture is 'about'.",
+      "Of course, many pictures are not 'about' anything.",
+      "They are just pretty patterns.",
+      "We like them in the same way that we like pretty curtain material.",
+      "I think that young children often appreciate modern pictures better than anyone else.",
+      "They notice more.",
+      "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "She came into my room yesterday.",
+      "'What are you doing?' she asked.",
+      "'I'm hanging this picture on the wall,' I answered. 'It's a new one. Do you like it?'",
+      "She looked at it critically for a moment.",
+      "'It's all right,' she said, 'but isn't it upside down?'",
+      "I looked at it again.",
+      "She was right! It was!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我是个学艺术的学生，画了很多画。",
+      "有很多人装成很懂现代艺术的样子，",
+      "总是告诉你一幅画的'意思'是什么。",
+      "当然，有很多画是什么'意思'也没有的。",
+      "它们就是些好看的图案，",
+      "我们喜爱它们就像我们喜欢漂亮的窗帘布一样。",
+      "我觉得小孩子们往往比任何人都更能欣赏现代绘画，",
+      "他们观察到的东西更多。",
+      "我的妹妹只有7岁，但她总能说出我的画是好还是坏。",
+      "昨天她到我房里来了。",
+      "'你在干什么？'她问道。",
+      "'我正把这幅画挂在墙上，'我回答说。'这是一幅新画。你喜欢吗？'",
+      "她用批评的眼光看了一会儿。",
+      "'还可以吧，'她说，'可是它不是倒挂着的吗？'",
+      "我又看了一遍。",
+      "她说得对！确实是倒挂着的！"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "art",
+        "toggle": "n. 艺术；美术；艺术品",
+        "isDanger": 0,
+        "phonetic": "ɑːt",
+        "meaning": "n. 艺术"
+      },
+      {
+        "word": "critic",
+        "toggle": "n. 批评家，评论家；爱挑剔的人",
+        "isDanger": 1,
+        "phonetic": "ˈkrɪtɪk",
+        "meaning": "n. 评论家"
+      },
+      {
+        "word": "paint",
+        "toggle": "vt. 油漆；描绘；装饰；绘画",
+        "isDanger": 1,
+        "phonetic": "peɪnt",
+        "meaning": "v. 画"
+      },
+      {
+        "word": "pretend",
+        "toggle": "vt. 假装；伪称；假扮",
+        "isDanger": 1,
+        "phonetic": "prɪˈtend",
+        "meaning": "v. 假装"
+      },
+      {
+        "word": "pattern",
+        "toggle": "n. 模式；样品；图案",
+        "isDanger": 0,
+        "phonetic": "ˈpæt(ə)n",
+        "meaning": "n. 图案"
+      },
+      {
+        "word": "curtain",
+        "toggle": "n. 窗帘；幕",
+        "isDanger": 0,
+        "phonetic": "ˈkɜːt(ə)n",
+        "meaning": "n. 窗帘，幕布"
+      },
+      {
+        "word": "material",
+        "toggle": "adj. 物质的，实质性的；重要的；肉体的",
+        "isDanger": 1,
+        "phonetic": "məˈtɪəriəl",
+        "meaning": "n. 材料"
+      },
+      {
+        "word": "appreciate",
+        "toggle": "vt. 欣赏(appreciate music)；感激；鉴别(appreciate wine)；领会",
+        "isDanger": 1,
+        "phonetic": "əˈpriːʃieɪt",
+        "meaning": "v. 鉴赏"
+      },
+      {
+        "word": "notice",
+        "toggle": "n. 通知，布告；注意；公告",
+        "isDanger": 1,
+        "phonetic": "ˈnəʊtɪs",
+        "meaning": "v. 注意到"
+      },
+      {
+        "word": "whether",
+        "toggle": "conj. 是否；不论",
+        "isDanger": 1,
+        "phonetic": "ˈweðə(r)",
+        "meaning": "conj. 是否"
+      },
+      {
+        "word": "hang",
+        "toggle": "vt. 绞死；悬挂，垂下；使悬而未决；装饰",
+        "isDanger": 1,
+        "phonetic": "hæŋ",
+        "meaning": "v. 悬挂，吊"
+      },
+      {
+        "word": "critically",
+        "toggle": "adv. 危急地；精密地；批评性地；用钻研眼光地",
+        "isDanger": 0,
+        "phonetic": "ˈkrɪtɪkli",
+        "meaning": "adv. 批评地"
+      },
+      {
+        "word": "upside down",
+        "toggle": "颠倒；倒转；翻转",
+        "isDanger": 0,
+        "phonetic": "ˌʌpsaɪd ˈdaʊn",
+        "meaning": "adv. 上下颠倒地（两个同样的音连在一起时, 前面的音声去不读）"
+      },
+      {
+        "word": "upside",
+        "toggle": "n. 上部；上面；上边",
+        "isDanger": 0,
+        "phonetic": "ˈʌpsaɪd",
+        "meaning": "n. 优势"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "一般现在时的用法",
+        "content": [
+          "1. 表述现在的特征或状态",
+          "2. 表述经常性或习惯性的动作",
+          "3. 表述带有普遍性的情况",
+          "4. 表示普遍性真理",
+          "5. 与情绪、状态、思维活动相关的动词常用一般现在时，如：appear, appreciate, be, believe, feel, find, forget, hear, know, like, look like, notice, remember, resemble, see, think, understand等"
+        ]
+      },
+      {
+        "title": "引号的使用规则",
+        "content": [
+          "1. 引号位于句尾其他标点符号之外",
+          "2. 引语的第一个词以大写字母开头",
+          "3. said, asked等词后面用逗号，位于句尾时用句号",
+          "4. said, asked等词置于引语之间时，句子后半部分以小写字母开始",
+          "5. 新的说话人开始讲话时要另起一个段落"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "in the same way that",
+        "translation": "正如……一样",
+        "context": "表示两件事物或行为的相似性",
+        "example": "We like them in the same way that we like pretty curtain material."
+      },
+      {
+        "phrase": "better than anyone else",
+        "translation": "比其他任何人都……",
+        "context": "用比较级表示最高级",
+        "example": "Young children often appreciate modern pictures better than anyone else."
+      },
+      {
+        "phrase": "whether...or not",
+        "translation": "是否",
+        "context": "用于表示选择或不确定",
+        "example": "She always tells me whether my pictures are good or not."
+      },
+      {
+        "phrase": "upside down",
+        "translation": "上下颠倒地",
+        "context": "描述物体的颠倒状态",
+        "example": "Isn't it upside down?"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What is the writer's opinion about modern art?",
+        "options": [
+          "All modern art has deep meaning",
+          "Modern art is just pretty patterns",
+          "Only critics understand modern art",
+          "Modern art is too difficult to understand"
+        ],
+        "answer": 1,
+        "explanation": "从文中可以看出，作者认为很多现代艺术作品就是漂亮的图案，并不一定都有什么特别的含义。"
+      },
+      {
+        "question": "Why does the writer think young children are good art critics?",
+        "options": [
+          "They are more honest",
+          "They study art at school",
+          "They notice more details",
+          "They like pretty patterns"
+        ],
+        "answer": 2,
+        "explanation": "文中明确提到'They notice more'，说明小孩子能观察到更多的细节。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Many people _____ that they understand modern art.",
+        "answer": "pretend",
+        "hint": "表示'假装'的动词"
+      },
+      {
+        "sentence": "Young children often _____ modern pictures better than anyone else.",
+        "answer": "appreciate",
+        "hint": "表示'欣赏，鉴赏'的动词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "art的词族",
+        "content": "1. art n. 艺术；2. artist n. 艺术家；3. artistic adj. 艺术的；4. artiste n. 艺人；5. artificial adj. 人造的"
+      },
+      {
+        "title": "appreciate的用法区别",
+        "content": "1. appreciate + sth. - 感激某事；2. appreciate + doing - 喜欢做某事；3. 程度递增：like → love → enjoy → appreciate"
+      }
+    ]
+  }
+}

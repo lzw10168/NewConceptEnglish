@@ -1,0 +1,312 @@
+{
+  "id": "nce1-027",
+  "lessonNumber": "027",
+  "title": {
+    "english": "Mrs. Smith's living room",
+    "chinese": "史密斯夫人的客厅"
+  },
+  "lessonInfo": "新概念英语－第1册－第027课",
+  "audioPath": "audio/nce1/027.mp3",
+  "listeningQuestion": {
+    "question": "What items are there in Mrs. Smith's living room?",
+    "translation": "史密斯夫人的客厅里有哪些物品？"
+  },
+  "editorNotes": "本课通过描述一个客厅的场景，展示了如何描述房间布局和物品位置。课文重点介绍了There be句型的单复数形式，位置介词的使用，以及如何描述物品之间的空间关系。这些表达方式在描述室内环境时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mrs. Smith's living room is large.",
+      "There is a television in the room.",
+      "The television is near the window.",
+      "There are some magazines on the television.",
+      "There is a table in the room.",
+      "There are some newspapers on the table.",
+      "There are some armchairs in the room.",
+      "The armchairs are near the table.",
+      "There is a stereo in the room.",
+      "The stereo is near the door.",
+      "There are some books on the stereo.",
+      "There are some pictures in the room.",
+      "The pictures are on the wall."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "史密斯夫人的客厅很大。",
+      "客厅里有台电视机。",
+      "电视机靠近窗子。",
+      "电视机上放着几本杂志。",
+      "客厅里有张桌子。",
+      "桌上放着几份报纸。",
+      "客厅里有几把扶手椅。",
+      "那些扶手椅靠近桌子。",
+      "客厅里有台立体声音响。",
+      "音响靠近门。",
+      "音响上面有几本书。",
+      "客厅里有几幅画。",
+      "画挂在墙上。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 房间描述",
+        "children": [
+          "核心概念：描述房间特征和布局",
+          "常用表达：",
+          "- The living room is large. (客厅很大。)",
+          "- There is/are ... in the room. (房间里有...)",
+          "使用场景：",
+          "- 描述房间大小 | 介绍房间布局 | 展示空间特点",
+          "注意事项：",
+          "- 从整体到细节 | 空间布局清晰 | 描述要有条理"
+        ]
+      },
+      {
+        "heading": "2. 位置关系",
+        "children": [
+          "核心概念：描述物品位置关系",
+          "常用句型：",
+          "- near the window (靠近窗户)",
+          "- on the wall (在墙上)",
+          "使用场景：",
+          "- 指明位置 | 描述相对关系 | 说明物品摆放",
+          "注意事项：",
+          "- 介词使用准确 | 参照物明确 | 位置描述具体"
+        ]
+      },
+      {
+        "heading": "3. 物品数量",
+        "children": [
+          "核心概念：表达物品的数量",
+          "常用表达：",
+          "- some magazines (一些杂志)",
+          "- some pictures (一些图画)",
+          "使用场景：",
+          "- 描述数量 | 列举物品 | 说明多少",
+          "注意事项：",
+          "- some的用法 | 可数名词复数 | 数量词搭配"
+        ]
+      },
+      {
+        "heading": "4. 家具电器",
+        "children": [
+          "核心概念：描述家具和电器",
+          "常用表达：",
+          "- television (电视机)",
+          "- stereo (立体声音响)",
+          "使用场景：",
+          "- 描述家具 | 介绍电器 | 说明用途",
+          "注意事项：",
+          "- 名词单复数 | 冠词使用 | 功能描述"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. There be句型的单复数",
+        "children": [
+          "核心概念：",
+          "- 表示存在的句型",
+          "- 单复数形式",
+          "基本用法：",
+          "- There is + 单数名词",
+          "- There are + 复数名词",
+          "实用例句：",
+          "- There is a television in the room. (房间里有台电视机。)",
+          "- There are some magazines on the television. (电视机上有几本杂志。)",
+          "注意事项：",
+          "- 主谓一致 | 就近原则 | 数量表达"
+        ]
+      },
+      {
+        "heading": "2. 介词短语表示位置",
+        "children": [
+          "核心概念：",
+          "- 表示位置关系",
+          "- 不同介词的用法",
+          "基本用法：",
+          "- near + 地点/物体",
+          "- on + 表面",
+          "- in + 空间",
+          "实用例句：",
+          "- near the window (靠近窗户)",
+          "- on the wall (在墙上)",
+          "注意事项：",
+          "- 介词选择 | 搭配规则 | 空间关系"
+        ]
+      },
+      {
+        "heading": "3. 不定代词some",
+        "children": [
+          "核心概念：",
+          "- 表示不确定数量",
+          "- 用于肯定句",
+          "基本用法：",
+          "- some + 可数名词复数",
+          "- some + 不可数名词",
+          "实用例句：",
+          "- some magazines (一些杂志)",
+          "- some books (一些书)",
+          "注意事项：",
+          "- 可数不可数 | 复数形式 | 使用场合"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 家具电器类",
+        "children": [
+          "基本词汇：",
+          "- television (电视机)",
+          "- stereo (音响)",
+          "- armchair (扶手椅)",
+          "常用搭配：",
+          "- watch television (看电视)",
+          "- comfortable armchair (舒适的扶手椅)",
+          "使用场景：",
+          "- 描述家具 | 购买家电 | 布置房间"
+        ]
+      },
+      {
+        "heading": "2. 位置介词",
+        "children": [
+          "基本词汇：",
+          "- near (靠近)",
+          "- on (在...上)",
+          "- in (在...里)",
+          "常用搭配：",
+          "- near the door (靠近门)",
+          "- on the table (在桌子上)",
+          "使用场景：",
+          "- 指示方位 | 描述位置 | 说明关系"
+        ]
+      },
+      {
+        "heading": "3. 室内物品",
+        "children": [
+          "基本词汇：",
+          "- magazine (杂志)",
+          "- newspaper (报纸)",
+          "- picture (图画)",
+          "常用搭配：",
+          "- read magazines (看杂志)",
+          "- hang pictures (挂画)",
+          "使用场景：",
+          "- 阅读材料 | 室内装饰 | 日常活动"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "living room",
+        "toggle": "n. 起居室; 客厅;",
+        "isDanger": 0,
+        "phonetic": "'lɪvɪŋ ru:m",
+        "meaning": "n. 客厅"
+      },
+      {
+        "word": "near",
+        "toggle": "adj. 近的；近似的；亲近的",
+        "isDanger": 1,
+        "phonetic": "nɪə(r)",
+        "meaning": "prep. 靠近"
+      },
+      {
+        "word": "window",
+        "toggle": "n. 窗；窗口；窗户",
+        "isDanger": 0,
+        "phonetic": "ˈwɪndəʊ",
+        "meaning": "n. 窗户"
+      },
+      {
+        "word": "armchair",
+        "toggle": "n. 扶手椅",
+        "isDanger": 0,
+        "phonetic": "ˈɑːmtʃeə(r)",
+        "meaning": "n. 手扶椅"
+      },
+      {
+        "word": "door",
+        "toggle": "n. 门；家，户；门口；通道",
+        "isDanger": 0,
+        "phonetic": "dɔː(r)",
+        "meaning": "n. 门"
+      },
+      {
+        "word": "picture",
+        "toggle": "n. 照片，图画；景色；影片；化身",
+        "isDanger": 0,
+        "phonetic": "ˈpɪktʃə(r)",
+        "meaning": "n. 图画"
+      },
+      {
+        "word": "image",
+        "toggle": "n. 影像；肖像；想象；偶像",
+        "isDanger": 1,
+        "phonetic": "ˈɪmɪdʒ",
+        "meaning": "n. 图片"
+      },
+      {
+        "word": "photo",
+        "toggle": "n. 照片",
+        "isDanger": 0,
+        "phonetic": "ˈfəʊtəʊ",
+        "meaning": "n. 照片"
+      },
+      {
+        "word": "wall",
+        "toggle": "n. 墙壁，围墙；似墙之物",
+        "isDanger": 0,
+        "phonetic": "wɔːl",
+        "meaning": "n. 墙"
+      },
+      {
+        "word": "The Great Wall",
+        "toggle": "长城; 万里长城",
+        "isDanger": 0,
+        "phonetic": "ðə ɡreɪt wɔːl",
+        "meaning": "n. 长城"
+      },
+      {
+        "word": "trousers",
+        "toggle": "n. 裤子，长裤",
+        "isDanger": 0,
+        "phonetic": "ˈtraʊzəz",
+        "meaning": "n. 〔复数〕长裤"
+      },
+      {
+        "word": "shorts",
+        "toggle": "n. 短裤",
+        "isDanger": 0,
+        "phonetic": "ʃɔːts",
+        "meaning": "n. 短裤"
+      },
+      {
+        "word": "jeans",
+        "toggle": "n. 牛仔裤；工装裤",
+        "isDanger": 0,
+        "phonetic": "dʒiːnz",
+        "meaning": "n. 牛仔裤"
+      },
+      {
+        "word": "pants",
+        "toggle": "n.裤子,短裤",
+        "isDanger": 0,
+        "phonetic": "pænts",
+        "meaning": "n. 裤子"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

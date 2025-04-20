@@ -1,0 +1,343 @@
+{
+  "id": "nce1-029",
+  "lessonNumber": "029",
+  "title": {
+    "english": "Mrs. Jones's bedroom",
+    "chinese": "琼斯夫人的卧室"
+  },
+  "lessonInfo": "新概念英语－第1册－第029课",
+  "audioPath": "audio/nce1/029.mp3",
+  "listeningQuestion": {
+    "question": "What tasks does Amy need to do in the bedroom?",
+    "translation": "艾米需要在卧室做哪些事情？"
+  },
+  "editorNotes": "本课通过一个家务场景，展示了如何用英语表达日常生活中的整理和清洁指令。课文重点介绍了多个与房间整理相关的动词命令句，以及表示顺序的连接词的使用。这些表达方式在日常生活和家政服务中都非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Come in, Amy.",
+      "Shut the door, please.",
+      "This bedroom is very untidy.",
+      "What must I do, Mrs. Jones?",
+      "Open the window and air the room.",
+      "Then put these clothes in the wardrobe.",
+      "Then make the bed.",
+      "Dust the dressing table.",
+      "Then sweep the floor."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "琼斯夫人：进来，艾米。",
+      "琼斯夫人：请把门关上。",
+      "琼斯夫人：这卧室太不整洁了。",
+      "艾 米：我应该做些什么呢，琼斯夫人？",
+      "琼斯夫人：打开窗子，给房间通通风。",
+      "琼斯夫人：然后把这些衣服放进衣橱里去。",
+      "琼斯夫人：再把床整理一下。",
+      "琼斯夫人：掸掉梳妆台上的灰尘。",
+      "琼斯夫人：然后扫扫地。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 命令和请求",
+        "children": [
+          "核心概念：表达命令和请求",
+          "常用表达：",
+          "- Come in (进来)",
+          "- Shut the door, please (请关门)",
+          "使用场景：",
+          "- 日常指令 | 礼貌请求 | 工作安排",
+          "注意事项：",
+          "- 语气友善 | 加please更礼貌 | 动词原形开头"
+        ]
+      },
+      {
+        "heading": "2. 房间整理",
+        "children": [
+          "核心概念：房间整理的步骤",
+          "常用表达：",
+          "- air the room (给房间通风)",
+          "- make the bed (整理床铺)",
+          "使用场景：",
+          "- 家务指导 | 房间打扫 | 整理清洁",
+          "注意事项：",
+          "- 动作顺序 | 具体指令 | 清晰表达"
+        ]
+      },
+      {
+        "heading": "3. 顺序连接",
+        "children": [
+          "核心概念：表示先后顺序",
+          "常用表达：",
+          "- then (然后)",
+          "- and (和，接着)",
+          "使用场景：",
+          "- 步骤说明 | 顺序安排 | 任务分配",
+          "注意事项：",
+          "- 逻辑顺序 | 连接词使用 | 清晰过渡"
+        ]
+      },
+      {
+        "heading": "4. 状态描述",
+        "children": [
+          "核心概念：描述房间状态",
+          "常用表达：",
+          "- very untidy (很乱)",
+          "- clean and tidy (干净整洁)",
+          "使用场景：",
+          "- 环境描述 | 状态评价 | 整理要求",
+          "注意事项：",
+          "- 形容词使用 | 程度副词 | 对比表达"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 祈使句",
+        "children": [
+          "核心概念：",
+          "- 表达命令、请求或建议",
+          "- 动词原形开头",
+          "基本用法：",
+          "- 动词原形 + 其他成分",
+          "- Please + 动词原形 + 其他成分",
+          "实用例句：",
+          "- Open the window. (打开窗户。)",
+          "- Shut the door, please. (请关门。)",
+          "注意事项：",
+          "- 省略主语you | 动词原形 | 语气变化"
+        ]
+      },
+      {
+        "heading": "2. 情态动词must",
+        "children": [
+          "核心概念：",
+          "- 表示必须、应该",
+          "- 表达义务或需求",
+          "基本用法：",
+          "- must + 动词原形",
+          "- What must + 主语 + 动词原形",
+          "实用例句：",
+          "- What must I do? (我必须做什么？)",
+          "注意事项：",
+          "- 情态含义 | 否定形式 | 疑问句式"
+        ]
+      },
+      {
+        "heading": "3. 连接词then",
+        "children": [
+          "核心概念：",
+          "- 表示先后顺序",
+          "- 连接不同动作",
+          "基本用法：",
+          "- 句子 + then + 句子",
+          "- Then + 句子",
+          "实用例句：",
+          "- Then make the bed. (然后整理床铺。)",
+          "注意事项：",
+          "- 位置灵活 | 逻辑连贯 | 时序表达"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 房间整理动词",
+        "children": [
+          "基本词汇：",
+          "- air (通风)",
+          "- dust (掸灰)",
+          "- sweep (打扫)",
+          "常用搭配：",
+          "- air the room (给房间通风)",
+          "- dust the table (掸掉桌子上的灰)",
+          "使用场景：",
+          "- 家务劳动 | 清洁工作 | 房间整理"
+        ]
+      },
+      {
+        "heading": "2. 家具用品",
+        "children": [
+          "基本词汇：",
+          "- wardrobe (衣柜)",
+          "- dressing table (梳妆台)",
+          "- floor (地板)",
+          "常用搭配：",
+          "- put clothes in the wardrobe (把衣服放进衣柜)",
+          "- clean the dressing table (清理梳妆台)",
+          "使用场景：",
+          "- 房间布置 | 物品摆放 | 清洁维护"
+        ]
+      },
+      {
+        "heading": "3. 状态形容词",
+        "children": [
+          "基本词汇：",
+          "- untidy (凌乱的)",
+          "- tidy (整洁的)",
+          "- clean (干净的)",
+          "常用搭配：",
+          "- very untidy room (很乱的房间)",
+          "- keep tidy (保持整洁)",
+          "使用场景：",
+          "- 描述环境 | 评价状态 | 提出要求"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "shut",
+        "toggle": "vt. 关闭；停业；幽禁",
+        "isDanger": 0,
+        "phonetic": "ʃʌt",
+        "meaning": "v. 关门"
+      },
+      {
+        "word": "bedroom",
+        "toggle": "n. 卧室",
+        "isDanger": 0,
+        "phonetic": "ˈbedruːm",
+        "meaning": "n. 卧室"
+      },
+      {
+        "word": "untidy",
+        "toggle": "adj.不整洁的,凌乱的,不简练的,不整齐的",
+        "isDanger": 0,
+        "phonetic": "ʌnˈtaɪdi",
+        "meaning": "adj. 乱，不整齐"
+      },
+      {
+        "word": "tidy",
+        "toggle": "adj. 整齐的； [ 口 ] 相当大的",
+        "isDanger": 1,
+        "phonetic": "ˈtaɪdi",
+        "meaning": "adj. 整齐的"
+      },
+      {
+        "word": "must",
+        "toggle": "aux. 必须，一定；很可能；可以，应当",
+        "isDanger": 1,
+        "phonetic": "mʌst",
+        "meaning": "v. 必须，应该"
+      },
+      {
+        "word": "open",
+        "toggle": "adj. 营业着的；敞开的；空旷的；公开的；坦率的",
+        "isDanger": 1,
+        "phonetic": "ˈəʊpən",
+        "meaning": "v. 打开"
+      },
+      {
+        "word": "air",
+        "toggle": "n. 空气，大气；曲调；天空；样子",
+        "isDanger": 1,
+        "phonetic": "eə(r)",
+        "meaning": "v. 使…通风，换换空气"
+      },
+      {
+        "word": "put",
+        "toggle": "vt. 放；表达；移动；安置；赋予",
+        "isDanger": 1,
+        "phonetic": "pʊt",
+        "meaning": "v. 放置"
+      },
+      {
+        "word": "clothes",
+        "toggle": "n. 衣服",
+        "isDanger": 0,
+        "phonetic": "kləʊðz",
+        "meaning": "n. 衣服"
+      },
+      {
+        "word": "wardrobe",
+        "toggle": "n. 衣柜；全部戏装；行头",
+        "isDanger": 0,
+        "phonetic": "ˈwɔːdrəʊb",
+        "meaning": "n. 大衣柜"
+      },
+      {
+        "word": "closet",
+        "toggle": "n. 壁橱；议事室，密室；小房间",
+        "isDanger": 0,
+        "phonetic": "ˈklɒzɪt",
+        "meaning": "n. 衣柜"
+      },
+      {
+        "word": "dust",
+        "toggle": "n. 灰尘；尘埃；尘土",
+        "isDanger": 1,
+        "phonetic": "dʌst",
+        "meaning": "v. 掸掉灰尘"
+      },
+      {
+        "word": "sweep",
+        "toggle": "vt. 扫除；猛拉；掸去",
+        "isDanger": 0,
+        "phonetic": "swiːp",
+        "meaning": "v. 扫"
+      },
+      {
+        "word": "empty",
+        "toggle": "adj. 空的；无意义的；徒劳的；无知的",
+        "isDanger": 0,
+        "phonetic": "ˈempti",
+        "meaning": "v. 倒空，使…变空"
+      },
+      {
+        "word": "read",
+        "toggle": "vt. 阅读；读懂，理解",
+        "isDanger": 1,
+        "phonetic": "riːd",
+        "meaning": "v. 读"
+      },
+      {
+        "word": "sharpen",
+        "toggle": "vt. 削尖；使敏捷；加重；磨快",
+        "isDanger": 0,
+        "phonetic": "ˈʃɑːpən",
+        "meaning": "v. 削尖，使锋利"
+      },
+      {
+        "word": "put on",
+        "toggle": "表演(节目)，举办，展出，增加(体重)",
+        "isDanger": 0,
+        "phonetic": "pʊt ɒn",
+        "meaning": "v. 穿上"
+      },
+      {
+        "word": "take off",
+        "toggle": "脱掉; 起飞; （使）离开; 突然成功",
+        "isDanger": 0,
+        "phonetic": "teɪk ɒf",
+        "meaning": "v. 脱掉"
+      },
+      {
+        "word": "turn on",
+        "toggle": "打开（水、电视、收音机、灯、煤气等）; （使）感兴趣; （使）兴奋; 发动",
+        "isDanger": 0,
+        "phonetic": "tɜ:n ɒn",
+        "meaning": "v. 开(电灯)"
+      },
+      {
+        "word": "turn off",
+        "toggle": "（把…）关掉; 完成; 解雇; 转向",
+        "isDanger": 0,
+        "phonetic": "tɜ:n ɒf",
+        "meaning": "v. 关(电灯)"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

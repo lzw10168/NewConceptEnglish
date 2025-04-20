@@ -1,0 +1,233 @@
+{
+  "id": "nce2--009",
+  "lessonNumber": "009",
+  "title": {
+    "english": "A cold welcome",
+    "chinese": "冷遇"
+  },
+  "lessonInfo": "新概念英语－第2册－第009课",
+  "audioPath": "audio/nce2/009.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the Town Hall clock on New Year's Eve?",
+    "translation": "新年前夕市政厅的大钟发生了什么事？"
+  },
+  "editorNotes": "本课讲述了一个新年前夕发生的有趣故事，重点学习时间表达方式和介词的用法。故事展现了人们面对意外情况时的幽默态度。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "On Wednesday evening, we went to the Town Hall.",
+      "It was the last day of the year and a large crowd of people had gathered under the Town Hall clock.",
+      "It would strike twelve in twenty minutes' time.",
+      "Fifteen minutes passed and then, at five to twelve, the clock stopped.",
+      "The big minute hand did not move.",
+      "We waited and waited, but nothing happened.",
+      "Suddenly someone shouted.",
+      "'It's two minutes past twelve! The clock has stopped!'",
+      "I looked at my watch. It was true.",
+      "The big clock refused to welcome the New Year.",
+      "At that moment, everybody began to laugh and sing."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "星期三的晚上，我们去了市政厅。",
+      "那是一年的最后一天，一大群人聚集在市政厅的大钟下面。",
+      "再过20分钟，大钟将敲响12下。",
+      "15分钟过去了，而就在11点55分时，大钟停了。",
+      "那根巨大的分针不动了。",
+      "我们等啊等啊，可情况没有变化。",
+      "突然有人喊道。",
+      "'已经12点零2分了！那钟已经停了！'",
+      "我看了一下我的手表，果真如此。",
+      "那座大钟不愿意迎接新年。",
+      "此时，大家已经笑了起来，同时唱起了歌。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "welcome",
+        "toggle": "adj. 受欢迎的",
+        "isDanger": 0,
+        "phonetic": "ˈwelkəm",
+        "meaning": "n. 欢迎；v. 欢迎"
+      },
+      {
+        "word": "crowd",
+        "toggle": "vt. 挤满；将 … 塞进；催逼，催促",
+        "isDanger": 0,
+        "phonetic": "kraʊd",
+        "meaning": "n. 人群"
+      },
+      {
+        "word": "gather",
+        "toggle": "vt. 收集；使 … 聚集；收割；使 … 皱起",
+        "isDanger": 1,
+        "phonetic": "ˈɡæðə(r)",
+        "meaning": "v. 聚集"
+      },
+      {
+        "word": "hand",
+        "toggle": "n. 手，手艺；指针；插手；帮助",
+        "isDanger": 1,
+        "phonetic": "hænd",
+        "meaning": "n. （表或机器的）指针"
+      },
+      {
+        "word": "shout",
+        "toggle": "vi. 呼喊；喊叫；大声说",
+        "isDanger": 1,
+        "phonetic": "ʃaʊt",
+        "meaning": "v. 喊叫"
+      },
+      {
+        "word": "refuse",
+        "toggle": "n. 废物；垃圾",
+        "isDanger": 1,
+        "phonetic": "rɪˈfjuːz",
+        "meaning": "v. 拒绝"
+      },
+      {
+        "word": "laugh",
+        "toggle": "n. 笑；引人发笑的事或人",
+        "isDanger": 1,
+        "phonetic": "lɑːf",
+        "meaning": "v. 笑"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "引导时间状语的介词用法",
+        "content": [
+          "in用于：一天中的时段(in the morning)、周月年(in 1992)、季节(in summer)",
+          "on用于：星期(on Monday)、日期(on June 1st)、具体时间(on Wednesday evening)",
+          "at用于：确切时间(at five to twelve)、用餐时间(at lunch time)、特定时刻(at night)",
+          "during表示在...期间，强调整个时间段"
+        ]
+      },
+      {
+        "title": "时间表达方法",
+        "content": [
+          "整点：o'clock",
+          "过几分(<30)：past",
+          "差几分(>30)：to",
+          "quarter past/to：一刻钟",
+          "half past：半点"
+        ]
+      },
+      {
+        "title": "Any、Not...Any和No的用法",
+        "content": [
+          "any用于否定句和疑问句",
+          "not any = no，no语气更强",
+          "no可构成复合词：nobody, none, nothing",
+          "一个句子通常只能有一个否定词"
+        ]
+      },
+      {
+        "title": "动词重复表达",
+        "content": [
+          "waited and waited表示动作的重复",
+          "强调动作的持续性",
+          "表达等待时间的长久"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "at that moment",
+        "translation": "在那时",
+        "context": "表示特定时刻",
+        "example": "At that moment, everybody began to laugh."
+      },
+      {
+        "phrase": "refuse to do",
+        "translation": "拒绝做某事",
+        "context": "表示不愿意做某事",
+        "example": "The clock refused to welcome the New Year."
+      },
+      {
+        "phrase": "in minutes' time",
+        "translation": "在...分钟后",
+        "context": "表示将来的时间点",
+        "example": "It would strike twelve in twenty minutes' time."
+      },
+      {
+        "phrase": "nothing happened",
+        "translation": "什么也没发生",
+        "context": "表示没有变化",
+        "example": "We waited and waited, but nothing happened."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why did the people gather under the Town Hall clock?",
+        "options": [
+          "To protest",
+          "To celebrate the New Year",
+          "To watch a performance",
+          "To fix the clock"
+        ],
+        "answer": 1,
+        "explanation": "文中提到人们聚集是为了迎接新年"
+      },
+      {
+        "question": "What happened to the clock?",
+        "options": [
+          "It ran fast",
+          "It ran slow",
+          "It stopped",
+          "It struck too many times"
+        ],
+        "answer": 2,
+        "explanation": "文中提到the clock stopped"
+      },
+      {
+        "question": "How did people react when they realized the clock had stopped?",
+        "options": [
+          "They got angry",
+          "They were disappointed",
+          "They began to laugh and sing",
+          "They went home"
+        ],
+        "answer": 2,
+        "explanation": "文中提到everybody began to laugh and sing"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The clock would strike _____ in twenty minutes' time.",
+        "answer": "twelve",
+        "hint": "表示时间的数字"
+      },
+      {
+        "sentence": "A large _____ of people had gathered under the clock.",
+        "answer": "crowd",
+        "hint": "表示人群的名词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "新年传统",
+        "content": "在英国，新年倒计时是一个重要的传统。人们通常会聚集在市政厅或著名建筑物的大钟下，等待新年的到来。这个传统体现了人们对时间的重视和对新年的期待。"
+      },
+      {
+        "title": "英国幽默",
+        "content": "故事展现了英国人特有的幽默感。面对意外情况，人们没有抱怨或生气，而是选择用笑声和歌声来化解尴尬，体现了英国人积极乐观的生活态度。"
+      }
+    ]
+  }
+}

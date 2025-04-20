@@ -1,0 +1,430 @@
+{
+  "id": "nce1-053",
+  "lessonNumber": "053",
+  "title": {
+    "english": "An interesting climate",
+    "chinese": "有趣的气候"
+  },
+  "lessonInfo": "新概念英语－第1册－第053课",
+  "audioPath": "audio/nce1/053.mp3",
+  "listeningQuestion": {
+    "question": "What's the climate like in different parts of England?",
+    "translation": "听录音回答：英国不同地区的气候是怎样的？"
+  },
+  "editorNotes": "本课继续围绕天气和气候话题展开，通过一段对话介绍了如何描述一个国家或地区的气候特点。重点学习描述不同方位天气特征的表达方式，以及描述日出日落、昼夜长短的相关表达。这些表达对于进行跨文化交际非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "HANS:                  Where do you come from?",
+      "JIM:                     I come from England.",
+      "HANS:                  What's the climate like in your country?",
+      "Jim:                      It's mild（温和的）, but it's not always pleasant.",
+      "Jim:                      The weather's often cold in the North and windy in the East. It's often wet in the West and sometimes warm in the South.",
+      "Hans:                    Which seasons do you like best?",
+      "Jim:                      I like spring and summer. The days are long and the nights are short. The sun rises early and sets late.        I don't like autumn and winter.  The days are short and the nights are long. The sun rises late and sets early.  Our climate is not very good, but it's certainly interesting. It's our favorite subject of conversation."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "汉斯：你是哪国人？",
+      "吉姆：我是英国人。",
+      "汉斯：你们国家的气候怎么样？",
+      "吉姆：气候温和，但也不总是宜人的。",
+      "吉姆：北部的天气常常寒冷，",
+      "东部则常常刮风。",
+      "西部常下雨，南部有时则很暖和。",
+      "汉斯：你最喜欢哪些季节？",
+      "吉姆：我最喜欢春季和夏季。",
+      "因为此时白天短而夜晚长，",
+      "太阳升得迟而落得早。",
+      "虽然我们国家的气候并不很好，",
+      "但又确实很有意思。",
+      "天气是我们最喜欢谈论的话题"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 描述不同地区天气的表达",
+        "children": [
+          "核心概念：使用方位词描述不同地区的天气特点",
+          "常用表达：",
+          "- It's often cold in the North 北部常常很冷",
+          "- It's often wet in the West 西部常常下雨",
+          "- It's windy in the East 东部有风",
+          "- It's sometimes warm in the South 南部有时很暖和",
+          "使用场景：描述某个地区或国家不同地区的天气特点",
+          "注意事项：方位词作为特定地理位置时需要大写"
+        ]
+      },
+      {
+        "heading": "2. 描述气候总体特征",
+        "children": [
+          "核心概念：使用形容词描述气候的整体特点",
+          "常用表达：",
+          "- The climate is mild 气候温和",
+          "- It's not always pleasant 不总是宜人",
+          "- It's certainly interesting 确实很有趣",
+          "使用场景：概括性描述某地区的气候特点",
+          "注意事项：可以用but连接对比性的描述"
+        ]
+      },
+      {
+        "heading": "3. 描述昼夜变化",
+        "children": [
+          "核心概念：描述不同季节的昼夜长短变化",
+          "常用表达：",
+          "- The days are long/short 白天长/短",
+          "- The nights are long/short 夜晚长/短",
+          "- The sun rises early/late 太阳升得早/晚",
+          "- The sun sets early/late 太阳落得早/晚",
+          "使用场景：描述季节变化带来的昼夜长短变化",
+          "注意事项：注意动词rise和set的使用"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 方位词的使用",
+        "children": [
+          "1. 方位词作为特定地理位置时需要大写：North, South, East, West",
+          "2. 通常与定冠词the连用：in the North, in the South",
+          "3. 作为一般方向时小写：to the north, to the south",
+          "4. 方位词常与介词in搭配使用"
+        ]
+      },
+      {
+        "heading": "2. 频率副词的位置",
+        "children": [
+          "1. often 经常：It's often cold",
+          "2. always 总是：not always pleasant",
+          "3. sometimes 有时：sometimes warm",
+          "频率副词在句中的位置：主语 + 频率副词 + 一般动词，或主语 + be动词 + 频率副词"
+        ]
+      },
+      {
+        "heading": "3. What's...like句型",
+        "children": [
+          "1. 用于询问性质特征：What's the climate like?",
+          "2. 类似用法：What's the weather like?",
+          "3. 可用于询问人或事物的特点：What's she like?",
+          "4. 注意与How's the weather?的区别"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 天气描述词",
+        "children": [
+          "mild adj. 温和的：",
+          "- mild climate 温和的气候",
+          "- mild weather 温和的天气",
+          "pleasant adj. 宜人的：",
+          "- pleasant climate 宜人的气候",
+          "- pleasant day 愉快的一天"
+        ]
+      },
+      {
+        "heading": "2. 方位词",
+        "children": [
+          "North n. 北方：",
+          "- in the North 在北方",
+          "- northern region 北部地区",
+          "South n. 南方：",
+          "- in the South 在南方",
+          "- southern area 南部地区"
+        ]
+      },
+      {
+        "heading": "3. 时间相关词汇",
+        "children": [
+          "rise v. (太阳)升起：",
+          "- The sun rises early 太阳早升",
+          "- sunrise 日出",
+          "set v. (太阳)落下：",
+          "- The sun sets late 太阳晚落",
+          "- sunset 日落"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "mild",
+        "toggle": "adj. 温和的；轻微的；淡味的；文雅的；不含有害物质的的",
+        "isDanger": 0,
+        "phonetic": "maɪld",
+        "meaning": "adj. 温和的，温暖的"
+      },
+      {
+        "word": "always",
+        "toggle": "adv. 总是；永远，一直；常常",
+        "isDanger": 1,
+        "phonetic": "ˈɔːlweɪz",
+        "meaning": "adv. 总是"
+      },
+      {
+        "word": "north",
+        "toggle": "n. 北，北方",
+        "isDanger": 0,
+        "phonetic": "nɔːθ",
+        "meaning": "n. 北方"
+      },
+      {
+        "word": "south",
+        "toggle": "n. 南方，南边；南部",
+        "isDanger": 1,
+        "phonetic": "saʊθ",
+        "meaning": "n. 南方"
+      },
+      {
+        "word": "east",
+        "toggle": "n. 东方；东方国家；东风",
+        "isDanger": 0,
+        "phonetic": "iːst",
+        "meaning": "n. 东方"
+      },
+      {
+        "word": "west",
+        "toggle": "n. 西；西方；西部",
+        "isDanger": 1,
+        "phonetic": "west",
+        "meaning": "n. 西方"
+      },
+      {
+        "word": "wet",
+        "toggle": "adj. 潮湿的；有雨的",
+        "isDanger": 0,
+        "phonetic": "wet",
+        "meaning": "adj. 潮湿的"
+      },
+      {
+        "word": "season",
+        "toggle": "n. 时期；季节；赛季； vt. 给 … 调味；使适应； vi. 变得成熟；变干燥",
+        "isDanger": 0,
+        "phonetic": "ˈsiːz(ə)n",
+        "meaning": "n. 季节"
+      },
+      {
+        "word": "best",
+        "toggle": "n. 最好的人，最好的事物；最佳状态",
+        "isDanger": 1,
+        "phonetic": "best",
+        "meaning": "adv. 最"
+      },
+      {
+        "word": "night",
+        "toggle": "n. 夜晚，晚上；黑暗，黑夜",
+        "isDanger": 1,
+        "phonetic": "naɪt",
+        "meaning": "n. 夜晚"
+      },
+      {
+        "word": "rise",
+        "toggle": "vi. 上升；起立；高耸；增强",
+        "isDanger": 1,
+        "phonetic": "raɪz",
+        "meaning": "v. 升起"
+      },
+      {
+        "word": "set",
+        "toggle": "n. 集合；一套；布景；装置；趋势",
+        "isDanger": 1,
+        "phonetic": "set",
+        "meaning": "v. (太阳)落下去"
+      },
+      {
+        "word": "early",
+        "toggle": "adj. 早期的；早熟的",
+        "isDanger": 1,
+        "phonetic": "ˈɜːrli",
+        "meaning": "adv. 早"
+      },
+      {
+        "word": "late",
+        "toggle": "adj. 迟的；晚的；已故的；最近的",
+        "isDanger": 1,
+        "phonetic": "leɪt",
+        "meaning": "adv. 晚，迟"
+      },
+      {
+        "word": "interesting",
+        "toggle": "adj. 有趣的；引起兴趣的，令人关注的",
+        "isDanger": 0,
+        "phonetic": "ˈɪntrəstɪŋ",
+        "meaning": "adj. 有趣的，有意思的"
+      },
+      {
+        "word": "subject",
+        "toggle": "n. 主题；科目；国民；主语",
+        "isDanger": 1,
+        "phonetic": "ˈsʌbdʒɪkt",
+        "meaning": "n. 话题"
+      },
+      {
+        "word": "conversation",
+        "toggle": "n. 会话；交谈；社交",
+        "isDanger": 0,
+        "phonetic": "ˌkɒnvəˈseɪʃ(ə)n",
+        "meaning": "n. 谈话"
+      },
+      {
+        "word": "Australia",
+        "toggle": "n.澳洲,澳大利亚",
+        "isDanger": 0,
+        "phonetic": "ɒˈstreɪliə",
+        "meaning": "n. 澳大利亚"
+      },
+      {
+        "word": "Australian",
+        "toggle": "adj. 澳大利亚的，澳大利亚人的",
+        "isDanger": 0,
+        "phonetic": "ɒˈstreɪliən",
+        "meaning": "n. 澳大利亚人"
+      },
+      {
+        "word": "Austria",
+        "toggle": "n.奥地利(欧洲中部国家)",
+        "isDanger": 0,
+        "phonetic": "ˈɒstriə",
+        "meaning": "n. 奥地利"
+      },
+      {
+        "word": "Austrian",
+        "toggle": "adj. 奥地利的；奥地利人的",
+        "isDanger": 0,
+        "phonetic": "ˈɒstriən",
+        "meaning": "n. 奥地利人"
+      },
+      {
+        "word": "Canada",
+        "toggle": "n.加拿大",
+        "isDanger": 0,
+        "phonetic": "ˈkænədə",
+        "meaning": "n. 加拿大"
+      },
+      {
+        "word": "Canadian",
+        "toggle": "adj. 加拿大（人）的",
+        "isDanger": 0,
+        "phonetic": "kəˈneɪdiən",
+        "meaning": "n. 加拿大人"
+      },
+      {
+        "word": "China",
+        "toggle": "n. 中国",
+        "isDanger": 0,
+        "phonetic": "ˈtʃaɪnə",
+        "meaning": "n. 中国"
+      },
+      {
+        "word": "Finland",
+        "toggle": "n.芬兰[欧洲]",
+        "isDanger": 0,
+        "phonetic": "ˈfɪnlənd",
+        "meaning": "n. 芬兰"
+      },
+      {
+        "word": "Finnish",
+        "toggle": "adj. 芬兰的，芬兰语的",
+        "isDanger": 0,
+        "phonetic": "ˈfɪnɪʃ",
+        "meaning": "n. 芬兰人"
+      },
+      {
+        "word": "India",
+        "toggle": "n.印度(南亚国家),南亚次大陆(即印巴次大陆,简称次大陆,含印度、巴基斯坦、孟加拉国、尼泊尔、不丹、锡金等国)",
+        "isDanger": 0,
+        "phonetic": "ˈɪndiə",
+        "meaning": "n. 印度"
+      },
+      {
+        "word": "Indian",
+        "toggle": "adj. 印度的；印第安人的；印第安语的",
+        "isDanger": 0,
+        "phonetic": "ˈɪndiən",
+        "meaning": "n. 印度人"
+      },
+      {
+        "word": "Japan",
+        "toggle": "n.日本",
+        "isDanger": 0,
+        "phonetic": "dʒə'pæn",
+        "meaning": "n. 日本"
+      },
+      {
+        "word": "Nigeria",
+        "toggle": "n.尼日利亚(非洲中西部国家)",
+        "isDanger": 0,
+        "phonetic": "naɪˈdʒɪəriə",
+        "meaning": "n. 尼日利亚"
+      },
+      {
+        "word": "Nigerian",
+        "toggle": "n. 尼日利亚人",
+        "isDanger": 0,
+        "phonetic": "naɪˈdʒɪəriən",
+        "meaning": "n. 尼日利亚人"
+      },
+      {
+        "word": "Turkey",
+        "toggle": "n. 火鸡；失败之作；笨蛋",
+        "isDanger": 0,
+        "phonetic": "ˈtɜːki",
+        "meaning": "n. 土耳其"
+      },
+      {
+        "word": "Turkish",
+        "toggle": "adj. 土耳其人的，土耳其语的；土耳其的；突厥诸语言的",
+        "isDanger": 0,
+        "phonetic": "ˈtɜːkɪʃ",
+        "meaning": "n. 土耳其人"
+      },
+      {
+        "word": "Korea",
+        "toggle": "n.韩国,朝鲜",
+        "isDanger": 0,
+        "phonetic": "kəˈriə",
+        "meaning": "n. 韩国"
+      },
+      {
+        "word": "Polish",
+        "toggle": "n. 磨光，擦亮；上光剂，擦亮剂；优雅，精良",
+        "isDanger": 0,
+        "phonetic": "ˈpəʊlɪʃ",
+        "meaning": "n. 波兰人"
+      },
+      {
+        "word": "Poland",
+        "toggle": "n.波兰(中欧国家)",
+        "isDanger": 0,
+        "phonetic": "ˈpəʊlənd",
+        "meaning": "n. 波兰"
+      },
+      {
+        "word": "Thai",
+        "toggle": "n. 泰国人；泰国语",
+        "isDanger": 0,
+        "phonetic": "taɪ",
+        "meaning": "n. 泰国人"
+      },
+      {
+        "word": "Thailand",
+        "toggle": "n.泰国",
+        "isDanger": 0,
+        "phonetic": "ˈtaɪlænd",
+        "meaning": "n. 泰国"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

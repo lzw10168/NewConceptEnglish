@@ -1,0 +1,250 @@
+{
+  "id": "nce1-065",
+  "lessonNumber": "065",
+  "title": {
+    "english": "Not a baby",
+    "chinese": "不是小孩子了"
+  },
+  "lessonInfo": "新概念英语－第1册－第065课",
+  "audioPath": "audio/nce1/065.mp3",
+  "listeningQuestion": {
+    "question": "What time must Jill be home?",
+    "translation": "吉尔必须什么时候回家？"
+  },
+  "editorNotes": "本课围绕家庭对话展开，重点介绍父母与青少年子女之间关于外出时间的协商。课文涉及时间表达、情态动词must和can的用法，以及反身代词的使用。通过对话展示了家庭成员之间的互动和沟通方式，体现了父母对成长中子女的关心和适度放权。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "FATHER:    What are you going to do this evening,  Jill?",
+      "Jill:            I'm going to meet some friends, Dad.",
+      "FATHER:        You mustn't come home late. You must be home at half past ten.",
+      "Jill:         I can't get home so early, Dad.Can I have the key to the front door, please?",
+      "FATHER:        NO, you can't.",
+      "MOTHER:    Betty's eighteen years old, Tom. She's not a baby. Give her the key. She always comes home early.",
+      "FATHER:        Oh, all right!",
+      "FATHER:   Here you are.   But you mustn't come home after a quarter past eleven. Do you hear?",
+      "Jill:        Yes, Dad.",
+      "Jill:        Thanks, Mum.",
+      "MOTHER:       That's all right. Goodbye. Enjoy yourself!",
+      "Jill:        We always enjoy ourselves, Mum. Bye, bye."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "父亲：今晚你打算干什么，吉尔？",
+      "吉尔：我打算去看几个朋友，爸爸。",
+      "父亲：你不准回家太晚，你必须在10点半到家。",
+      "吉尔：这么早我到不了家，爸爸！",
+      "吉尔：我能带上前门的钥匙吗？",
+      "父亲：不行， 你不能带。",
+      "母亲：吉尔都18岁了，汤姆。她不是小孩子了。把钥匙给她吧。她总早早回家的。",
+      "父亲：那么，好吧！",
+      "父亲：拿去。但你不能超过11点1刻回家。听见了吗？",
+      "吉尔：听见了，爸爸。",
+      "吉尔：谢谢，妈妈。",
+      "母亲：不用谢。再见。好好玩吧！",
+      "吉尔：我们总是玩得很开心的，妈妈。再见。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 时间表达方式",
+        "children": [
+          "核心概念：准确时间的表达方式",
+          "常用表达：",
+          "- half past ten 10点半",
+          "- a quarter past eleven 11点15分",
+          "使用场景：描述具体时间点",
+          "注意事项：注意quarter和half的区别"
+        ]
+      },
+      {
+        "heading": "2. 请求与允许",
+        "children": [
+          "核心概念：如何礼貌地请求许可",
+          "常用表达：",
+          "- Can I have...? 我能要...吗？",
+          "- No, you can't 不行，你不能",
+          "使用场景：向父母或长辈请求许可",
+          "注意事项：语气要礼貌，表达要得体"
+        ]
+      },
+      {
+        "heading": "3. 父母子女沟通",
+        "children": [
+          "核心概念：家庭成员间的沟通方式",
+          "常用表达：",
+          "- She's not a baby 她不是小孩子了",
+          "- She always comes home early 她总是早早回家",
+          "使用场景：家庭成员间的商议和协调",
+          "注意事项：注意语气的缓和与转折"
+        ]
+      },
+      {
+        "heading": "4. 告别用语",
+        "children": [
+          "核心概念：告别时的礼貌用语",
+          "常用表达：",
+          "- Goodbye. Enjoy yourself! 再见，玩得开心！",
+          "- That's all right. Bye-bye 不用谢，再见",
+          "使用场景：离别时的寒暄",
+          "注意事项：注意使用反身代词"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 情态动词must和mustn't的用法",
+        "children": [
+          "1. must表示必须：You must be home at half past ten",
+          "2. mustn't表示禁止：You mustn't come home late",
+          "3. 用于父母对子女的要求：You must..., You mustn't...",
+          "4. 注意语气的强度：表示强制性要求"
+        ]
+      },
+      {
+        "heading": "2. 情态动词can表示请求和允许",
+        "children": [
+          "1. 请求许可：Can I have the key?",
+          "2. 允许：Yes, you can",
+          "3. 拒绝：No, you can't",
+          "4. 注意使用礼貌用语please"
+        ]
+      },
+      {
+        "heading": "3. 反身代词的使用",
+        "children": [
+          "1. 基本形式：yourself, ourselves",
+          "2. 表示强调：Enjoy yourself!",
+          "3. 表示动作的接受者：We always enjoy ourselves",
+          "4. 注意单复数的变化：self/selves"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 家庭称谓",
+        "children": [
+          "Dad n. 爸爸：",
+          "- Dad作为称呼时首字母大写",
+          "- father的昵称用法",
+          "Mum n. 妈妈：",
+          "- Mum作为称呼时首字母大写",
+          "- mother的昵称用法"
+        ]
+      },
+      {
+        "heading": "2. 反身代词系列",
+        "children": [
+          "myself pron. 我自己：",
+          "- by myself 我自己",
+          "yourself pron. 你自己：",
+          "- enjoy yourself 玩得开心",
+          "ourselves pron. 我们自己：",
+          "- enjoy ourselves 我们玩得开心"
+        ]
+      },
+      {
+        "heading": "3. 动词enjoy的用法",
+        "children": [
+          "enjoy v. 享受，玩得开心：",
+          "- enjoy oneself 玩得开心",
+          "- enjoy doing sth 享受做某事",
+          "- enjoy the party 享受派对",
+          "注意：常与反身代词连用"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "dad",
+        "toggle": "n. 爸爸；爹爹",
+        "isDanger": 0,
+        "phonetic": "dæd",
+        "meaning": "n. 爸(儿语)"
+      },
+      {
+        "word": "key",
+        "toggle": "n. 钥匙；关键；（打字机等的）键",
+        "isDanger": 1,
+        "phonetic": "kiː",
+        "meaning": "n. 钥匙"
+      },
+      {
+        "word": "baby",
+        "toggle": "n. 婴儿，婴孩；孩子气的人",
+        "isDanger": 0,
+        "phonetic": "ˈbeɪbi",
+        "meaning": "n. 婴儿"
+      },
+      {
+        "word": "hear",
+        "toggle": "vt. 审理；听说；听到，听",
+        "isDanger": 0,
+        "phonetic": "hɪə(r)",
+        "meaning": "v. 听见"
+      },
+      {
+        "word": "enjoy",
+        "toggle": "vt. 喜爱；欣赏，享受；使过得快活",
+        "isDanger": 1,
+        "phonetic": "ɪnˈdʒɔɪ",
+        "meaning": "v. 玩得快活"
+      },
+      {
+        "word": "yourself",
+        "toggle": "pron. 你自己",
+        "isDanger": 0,
+        "phonetic": "jɔːˈself",
+        "meaning": "pron. 你自己"
+      },
+      {
+        "word": "ourselves",
+        "toggle": "pron. 我们自己；我们亲自",
+        "isDanger": 0,
+        "phonetic": "ɑːˈselvz",
+        "meaning": "pron. 我们自己"
+      },
+      {
+        "word": "myself",
+        "toggle": "pron. 我自己；我亲自；我的正常的健康状况和正常情绪",
+        "isDanger": 0,
+        "phonetic": "maɪˈself",
+        "meaning": "pron. 我自己"
+      },
+      {
+        "word": "themselves",
+        "toggle": "pron. 他们自己；他们亲自",
+        "isDanger": 0,
+        "phonetic": "ðəmˈselvz",
+        "meaning": "pron. 他们自己"
+      },
+      {
+        "word": "himself",
+        "toggle": "pron. 他自己；他亲自，他本人",
+        "isDanger": 0,
+        "phonetic": "hɪmˈself",
+        "meaning": "pron. 他自己"
+      },
+      {
+        "word": "herself",
+        "toggle": "pron. 她自己（ she 的反身代词）；她亲自",
+        "isDanger": 0,
+        "phonetic": "hɜːˈself",
+        "meaning": "pron. 她自己"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

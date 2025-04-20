@@ -1,0 +1,385 @@
+{
+  "id": "nce1-035",
+  "lessonNumber": "035",
+  "title": {
+    "english": "Our village",
+    "chinese": "我们的村庄"
+  },
+  "lessonInfo": "新概念英语－第1册－第035课",
+  "audioPath": "audio/nce1/035.mp3",
+  "listeningQuestion": {
+    "question": "What are the locations mentioned in the description of the village?",
+    "translation": "描述村庄时提到了哪些地点？"
+  },
+  "editorNotes": "本课通过介绍照片的方式，展示了如何描述一个地方的位置和环境。课文重点介绍了表示位置关系的介词的使用，以及描述人物活动的现在进行时。这些表达方式在介绍地点和描述场景时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "This is a photograph of our village.",
+      "Our village is in a valley.",
+      "It is between two hills.",
+      "The village is on a river.",
+      "Here is another photograph of the village.",
+      "My wife and I are walking along the banks of the river.",
+      "We are on the left.",
+      "There is a boy in the water.",
+      "He is swimming across the river.",
+      "Here is another photograph.",
+      "This is the school building.",
+      "It is beside a park.",
+      "The park is on the right.",
+      "Some children are coming out of the building.",
+      "Some of them are going into the park."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "这是我们村庄的一张照片。",
+      "我们的村庄坐落在一个山谷之中。",
+      "它们于两座小山之间。",
+      "它靠近一条小河。",
+      "这是我们村庄的另一张照片。",
+      "我和妻子沿河岸走着。",
+      "我们在河的左侧。",
+      "河里面有个男孩。",
+      "他正横渡小河。",
+      "这是另一张照片。",
+      "这是学校大楼。",
+      "它位于公园的旁边。",
+      "公园在右面。",
+      "一些孩子正从楼里出来。",
+      "他们中有几个正走进公园。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 地理位置",
+        "children": [
+          "核心概念：描述地点位置",
+          "常用表达：",
+          "- in a valley (在山谷里)",
+          "- between two hills (在两座小山之间)",
+          "使用场景：",
+          "- 描述地理位置 | 说明空间关系 | 介绍环境特征",
+          "注意事项：",
+          "- 介词准确 | 方位清晰 | 描述具体"
+        ]
+      },
+      {
+        "heading": "2. 照片描述",
+        "children": [
+          "核心概念：介绍照片内容",
+          "常用表达：",
+          "- This is a photograph of... (这是...的照片)",
+          "- Here is another photograph (这是另一张照片)",
+          "使用场景：",
+          "- 展示照片 | 介绍图片 | 描述场景",
+          "注意事项：",
+          "- 指示词使用 | 顺序清晰 | 重点突出"
+        ]
+      },
+      {
+        "heading": "3. 方位表达",
+        "children": [
+          "核心概念：表示相对位置",
+          "常用表达：",
+          "- on the left (在左边)",
+          "- on the right (在右边)",
+          "使用场景：",
+          "- 指明方向 | 说明位置 | 描述布局",
+          "注意事项：",
+          "- 参照物明确 | 方位准确 | 表达简洁"
+        ]
+      },
+      {
+        "heading": "4. 动作描述",
+        "children": [
+          "核心概念：描述正在进行的活动",
+          "常用表达：",
+          "- coming out of (从...出来)",
+          "- going into (进入...)",
+          "使用场景：",
+          "- 描述活动 | 说明动向 | 表达过程",
+          "注意事项：",
+          "- 动作准确 | 方向明确 | 过程清晰"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 介词短语",
+        "children": [
+          "核心概念：",
+          "- 表示位置关系",
+          "- 表示空间方位",
+          "基本用法：",
+          "- in + 空间",
+          "- between + 两个物体",
+          "实用例句：",
+          "- in a valley (在山谷里)",
+          "- between two hills (在两座小山之间)",
+          "注意事项：",
+          "- 介词选择 | 搭配规则 | 空间概念"
+        ]
+      },
+      {
+        "heading": "2. 现在进行时",
+        "children": [
+          "核心概念：",
+          "- 表示正在进行的动作",
+          "- 描述当前状态",
+          "基本用法：",
+          "- be + 动词ing形式",
+          "- 表示此刻正在进行的动作",
+          "实用例句：",
+          "- We are walking along... (我们正在沿着...走)",
+          "- He is swimming across... (他正在横渡...)",
+          "注意事项：",
+          "- 动作持续性 | 时态一致 | 动词变化"
+        ]
+      },
+      {
+        "heading": "3. 指示代词",
+        "children": [
+          "核心概念：",
+          "- 指示特定事物",
+          "- 表示远近关系",
+          "基本用法：",
+          "- this/these (这个/这些)",
+          "- that/those (那个/那些)",
+          "实用例句：",
+          "- This is a photograph... (这是一张照片...)",
+          "- Here is another photograph... (这是另一张照片...)",
+          "注意事项：",
+          "- 单复数 | 远近区分 | 指代明确"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 地理环境",
+        "children": [
+          "基本词汇：",
+          "- village (村庄)",
+          "- valley (山谷)",
+          "- hill (小山)",
+          "常用搭配：",
+          "- in the village (在村子里)",
+          "- between hills (在山之间)",
+          "使用场景：",
+          "- 描述地形 | 介绍环境 | 说明位置"
+        ]
+      },
+      {
+        "heading": "2. 位置介词",
+        "children": [
+          "基本词汇：",
+          "- between (在...之间)",
+          "- beside (在...旁边)",
+          "- along (沿着)",
+          "常用搭配：",
+          "- along the banks (沿着河岸)",
+          "- beside a park (在公园旁边)",
+          "使用场景：",
+          "- 位置关系 | 方向指示 | 空间描述"
+        ]
+      },
+      {
+        "heading": "3. 建筑设施",
+        "children": [
+          "基本词汇：",
+          "- building (建筑物)",
+          "- school (学校)",
+          "- park (公园)",
+          "常用搭配：",
+          "- school building (学校建筑)",
+          "- in the park (在公园里)",
+          "使用场景：",
+          "- 描述建筑 | 介绍设施 | 说明功能"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "photograph",
+        "toggle": "vt. 为 … 拍照；使深深印入",
+        "isDanger": 0,
+        "phonetic": "ˈfəʊtəɡrɑːf",
+        "meaning": "n. 照片"
+      },
+      {
+        "word": "village",
+        "toggle": "n. 村庄；村民；（动物的）群落",
+        "isDanger": 0,
+        "phonetic": "ˈvɪlɪdʒ",
+        "meaning": "n. 村庄"
+      },
+      {
+        "word": "valley",
+        "toggle": "n. 流域；山谷；溪谷",
+        "isDanger": 0,
+        "phonetic": "ˈvæli",
+        "meaning": "n. 山谷"
+      },
+      {
+        "word": "country",
+        "toggle": "n. 国家；故乡",
+        "isDanger": 0,
+        "phonetic": "ˈkʌntri",
+        "meaning": "n. 乡村"
+      },
+      {
+        "word": "between",
+        "toggle": "prep. 在 … 之间",
+        "isDanger": 0,
+        "phonetic": "bɪˈtwiːn",
+        "meaning": "prep. 在…之间"
+      },
+      {
+        "word": "hill",
+        "toggle": "n. 小山；丘陵；斜坡；山冈",
+        "isDanger": 0,
+        "phonetic": "hɪl",
+        "meaning": "n. 小山"
+      },
+      {
+        "word": "mountain",
+        "toggle": "n. 山脉；山",
+        "isDanger": 0,
+        "phonetic": "ˈmaʊntən",
+        "meaning": "n. 大山"
+      },
+      {
+        "word": "another",
+        "toggle": "adj. 另外的；不同的；又一，另一",
+        "isDanger": 1,
+        "phonetic": "əˈnʌðə(r)",
+        "meaning": "prep. 另一个"
+      },
+      {
+        "word": "other",
+        "toggle": "adj. 其他的，另外的",
+        "isDanger": 1,
+        "phonetic": "ˈʌðə(r)",
+        "meaning": "prep. 另外的"
+      },
+      {
+        "word": "wife",
+        "toggle": "n. 妻子，已婚妇女；夫人",
+        "isDanger": 0,
+        "phonetic": "waɪf",
+        "meaning": "n. 妻子"
+      },
+      {
+        "word": "along",
+        "toggle": "adv. 向前；一起；来到",
+        "isDanger": 1,
+        "phonetic": "əˈlɒŋ",
+        "meaning": "prep. 沿着"
+      },
+      {
+        "word": "belong",
+        "toggle": "vi. 属于，应归入；适宜；应被放置；居住",
+        "isDanger": 1,
+        "phonetic": "bɪˈlɒŋ",
+        "meaning": "v. 属于"
+      },
+      {
+        "word": "bank",
+        "toggle": "n. 银行；岸；储库；浅滩",
+        "isDanger": 1,
+        "phonetic": "bæŋk",
+        "meaning": "n. 河岸"
+      },
+      {
+        "word": "water",
+        "toggle": "n. 水；雨水；海水；海域，大片的水",
+        "isDanger": 0,
+        "phonetic": "ˈwɔːtə(r)",
+        "meaning": "n. 水"
+      },
+      {
+        "word": "swim",
+        "toggle": "vi. 游泳；浸；漂浮；眩晕",
+        "isDanger": 1,
+        "phonetic": "swɪm",
+        "meaning": "v. 游泳"
+      },
+      {
+        "word": "across",
+        "toggle": "prep. 穿过；横穿",
+        "isDanger": 0,
+        "phonetic": "əˈkrɒs",
+        "meaning": "prep. 横过"
+      },
+      {
+        "word": "building",
+        "toggle": "n. 建筑；建筑物",
+        "isDanger": 0,
+        "phonetic": "ˈbɪldɪŋ",
+        "meaning": "n. 大楼，建筑物"
+      },
+      {
+        "word": "build",
+        "toggle": "vt. 建筑；建立",
+        "isDanger": 1,
+        "phonetic": "bɪld",
+        "meaning": "v. 建设"
+      },
+      {
+        "word": "park",
+        "toggle": "n. 公园；停车场",
+        "isDanger": 0,
+        "phonetic": "pɑːk",
+        "meaning": "n. 公园"
+      },
+      {
+        "word": "parking",
+        "toggle": "n. 停车",
+        "isDanger": 0,
+        "phonetic": "ˈpɑːkɪŋ",
+        "meaning": "n. 停车场"
+      },
+      {
+        "word": "into",
+        "toggle": "prep. 到 … 里；深入 … 之中；成为 … 状况；进入到 … 之内",
+        "isDanger": 1,
+        "phonetic": "ˈɪntuː",
+        "meaning": "prep. 进入"
+      },
+      {
+        "word": "enter",
+        "toggle": "vt. 进入；开始；参加",
+        "isDanger": 0,
+        "phonetic": "ˈentə(r)",
+        "meaning": "v. 进入"
+      },
+      {
+        "word": "beside",
+        "toggle": "prep. 在旁边；与 … 相比；和 … 无关",
+        "isDanger": 1,
+        "phonetic": "bɪˈsaɪd",
+        "meaning": "prep. 在…旁"
+      },
+      {
+        "word": "off",
+        "toggle": "prep. 离开；脱落",
+        "isDanger": 1,
+        "phonetic": "ɒf",
+        "meaning": "prep. 离开"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

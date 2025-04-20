@@ -1,0 +1,238 @@
+{
+  "id": "nce1-075",
+  "lessonNumber": "075",
+  "title": {
+    "english": "Uncomfortable shoes",
+    "chinese": "不舒服的鞋子"
+  },
+  "lessonInfo": "新概念英语－第1册－第075课",
+  "audioPath": "audio/nce1/075.mp3",
+  "listeningQuestion": {
+    "question": "Why can't the lady buy the shoes she wants?",
+    "translation": "为什么这位女士买不到她想要的鞋子？"
+  },
+  "editorNotes": "本课通过一段在鞋店的对话，展示了购物场景中的常用表达。课文涉及询问商品、描述物品特征、讨论时尚潮流等话题，同时介绍了过去时态的使用和fashion的相关表达。这些表达对于日常购物交际非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "LADY :           Have you any shoes like these?",
+      "SALESMAN: What size?",
+      "Lady:             Size five.",
+      "Salesman:       What colour?",
+      "Lady:             Black.",
+      "Salesman:       I'm sorry. We don't have it.",
+      "Lady:             But my sister bought this pair last month.",
+      "Salesman:       Did she buy them here?",
+      "Lady:             No, she bought them in the U.S.",
+      "Salesman:       We had some shoes like those a month ago, but we haven't any now.",
+      "Lady:             Can you get a pair for me please?",
+      "Salesman:       I'm afraid that I can't. They were in fashion last year and the year before last.But they're not in fashion this year.",
+      "Salesman:       These shoes are in fashion now.",
+      "Lady:             They look very uncomfortable.",
+      "Salesman:       They are very uncomfortable. But women always wear uncomfortable shoes!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "女 士：像这样的鞋子你们有吗？",
+      "售货员：什么尺码的？",
+      "女 士：5号的。",
+      "售货员：什么颜色？",
+      "女 士：黑的",
+      "售货员：对不起，我们没有。",
+      "女 士：但是，我姐姐上个月买到了这样的 一双。",
+      "售货员：她是在这儿买的吗？",
+      "女 士：不。她是在美国买的。",
+      "售货员：一个月前我们有这要的鞋。 但是现在没有了。",
+      "女 士：您能为我找一双吗？",
+      "售货员：恐怕不行。这鞋在去年和前年时兴，而今年已不流行了。",
+      "售货员：现在流行的是这种鞋子。",
+      "女 士：这种鞋子看上去很不舒适。",
+      "售货员：的确很不舒适。可是女人们总是穿不舒适的鞋子！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 购物询问用语",
+        "children": [
+          "核心概念：如何询问商品信息",
+          "常用表达：",
+          "- Have you any...? = Do you have any...? 你们有...吗？",
+          "- What size/colour? 什么尺码/颜色？",
+          "使用场景：在商店购物时询问商品",
+          "注意事项：美式英语更常用Do you have，英式英语两种都可以"
+        ]
+      },
+      {
+        "heading": "2. 时尚相关表达",
+        "children": [
+          "核心概念：描述时尚潮流",
+          "常用表达：",
+          "- be in fashion 流行",
+          "- They were in fashion last year 去年很流行",
+          "使用场景：讨论时尚趋势",
+          "注意事项：注意时态的变化"
+        ]
+      },
+      {
+        "heading": "3. 表达歉意和委婉拒绝",
+        "children": [
+          "核心概念：如何礼貌地表示无法满足顾客需求",
+          "常用表达：",
+          "- I'm sorry. We don't have it. 对不起，我们没有。",
+          "- I'm afraid that I can't. 恐怕不行。",
+          "使用场景：无法满足顾客要求时",
+          "注意事项：语气要委婉友好"
+        ]
+      },
+      {
+        "heading": "4. 描述物品特征",
+        "children": [
+          "核心概念：如何描述物品的特点",
+          "常用表达：",
+          "- They look very uncomfortable 看起来很不舒服",
+          "- They are very uncomfortable 确实很不舒服",
+          "使用场景：评价商品特征",
+          "注意事项：look表示外观感觉，are表示实际情况"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生的事情：bought, were",
+          "2. 过去时间标志词：last month, last year",
+          "3. 否定形式：haven't any, don't have",
+          "4. 注意时态一致性"
+        ]
+      },
+      {
+        "heading": "2. 现在时和过去时的对比",
+        "children": [
+          "1. 现在时：are in fashion now",
+          "2. 过去时：were in fashion last year",
+          "3. 时态转换规则",
+          "4. 时间状语的配合使用"
+        ]
+      },
+      {
+        "heading": "3. 情态动词can的使用",
+        "children": [
+          "1. 表示请求：Can you get...?",
+          "2. 表示可能性：I can't (get)",
+          "3. 否定形式：can't/cannot",
+          "4. 注意语气的礼貌程度"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 购物相关词汇",
+        "children": [
+          "size n. 尺码：",
+          "- What size? 什么尺码？",
+          "- size five 5号尺码",
+          "pair n. 一双：",
+          "- a pair of shoes 一双鞋",
+          "- get a pair 买一双"
+        ]
+      },
+      {
+        "heading": "2. 时尚用语",
+        "children": [
+          "fashion n. 时尚，流行：",
+          "- in fashion 流行的",
+          "- out of fashion 过时的",
+          "- last year's fashion 去年的流行款式"
+        ]
+      },
+      {
+        "heading": "3. 描述性词汇",
+        "children": [
+          "comfortable/uncomfortable adj. 舒适的/不舒适的：",
+          "- look comfortable 看起来舒适",
+          "- feel uncomfortable 感觉不舒服",
+          "- wear comfortable shoes 穿舒适的鞋子"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "ago",
+        "toggle": "adv. 以前，以往",
+        "isDanger": 1,
+        "phonetic": "əˈɡəʊ",
+        "meaning": "adv. 以前"
+      },
+      {
+        "word": "buy",
+        "toggle": "vt. 购买；获得；贿赂",
+        "isDanger": 0,
+        "phonetic": "baɪ",
+        "meaning": "v. 买"
+      },
+      {
+        "word": "pair",
+        "toggle": "n. 一对，一双，一副",
+        "isDanger": 0,
+        "phonetic": "peə(r)",
+        "meaning": "n. 双，对"
+      },
+      {
+        "word": "fashion",
+        "toggle": "n. 样式；时尚；时装；时髦人物",
+        "isDanger": 0,
+        "phonetic": "ˈfæʃ(ə)n",
+        "meaning": "n. (服装的)流行式样"
+      },
+      {
+        "word": "uncomfortable",
+        "toggle": "adj. 不安的；不舒服的",
+        "isDanger": 0,
+        "phonetic": "ʌnˈkʌmftəb(ə)l",
+        "meaning": "adj. 不舒服的"
+      },
+      {
+        "word": "comfortable",
+        "toggle": "adj. 舒适的，舒服的",
+        "isDanger": 0,
+        "phonetic": "ˈkʌmftəb(ə)l",
+        "meaning": "adj. 舒适的"
+      },
+      {
+        "word": "wear",
+        "toggle": "vt. 穿着，戴；磨损",
+        "isDanger": 1,
+        "phonetic": "weə(r)",
+        "meaning": "v. 穿着 wore"
+      },
+      {
+        "word": "put on",
+        "toggle": "表演(节目)，举办，展出，增加(体重)",
+        "isDanger": 0,
+        "phonetic": "pʊt ɒn",
+        "meaning": "v. 穿上"
+      },
+      {
+        "word": "take off",
+        "toggle": "脱掉; 起飞; （使）离开; 突然成功",
+        "isDanger": 0,
+        "phonetic": "teɪk ɒf",
+        "meaning": "v. 脱下"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

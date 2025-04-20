@@ -1,0 +1,225 @@
+{
+  "id": "nce2--051",
+  "lessonNumber": "051",
+  "title": {
+    "english": "Reward for Virtue",
+    "chinese": "美德的报偿"
+  },
+  "lessonInfo": "新概念英语－第2册－第051课",
+  "audioPath": "audio/nce2/051.mp3",
+  "listeningQuestion": {
+    "question": "What did Hugh's parcel contain?",
+    "translation": "休的包裹里装的是什么？"
+  },
+  "editorNotes": "本课讲述了一个关于节食的有趣故事。休一直很胖，最近决定开始节食，但他无法坚持严格的饮食计划，偷偷地奖励自己吃巧克力和糖果。在语法方面，重点介绍了一般过去时的用法，以及一些常见词汇的区别，如raise和rise，lay和lie，以及beat和win的区别。文章还涉及了一些重要的词汇用法，如reward、virtue、diet、forbid等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.",
+      "He began his diet a week ago.",
+      "First of all, he wrote out a long list of all the foods which were forbidden.",
+      "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate; and sweets.",
+      "Yesterday I paid him a visit.",
+      "I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "It was obvious that he was very embarrassed.",
+      "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "Then he showed me the contents of the parcel.",
+      "It contained five large bars of chocolate and three bags of sweets!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我的朋友休一直很胖，但是近来情况变得越发糟糕，以致他决定节食。",
+      "他是一星期前开始节食的。",
+      "首先，他开列了一张长长的单子，上面列了所有禁吃的食物。",
+      "这张单子上的大多数食物都是休喜欢吃的：黄油、土豆、米饭、啤酒、牛奶、巧克力和糖果。",
+      "昨天我去看望了他。",
+      "我按响了门铃。当看到休仍和往常一样胖时，我并不感到惊奇。",
+      "他把我领进屋，慌忙把一个大包藏到了桌子下面。",
+      "显然他感到很尴尬。",
+      "当我问他正干什么时，他内疚地笑了，然后把那个大包拿到了桌上。",
+      "他解释说，他的饮食控制得太严格了，以致不得不偶尔奖赏自己一下。",
+      "接着他给我看了包里的东西。",
+      "里面装了5大块巧克力和3袋糖果！"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "一般过去时",
+        "content": [
+          "一般过去时表示过去某个时间发生的动作或状态",
+          "与一般过去时常用的词有once和recently",
+          "recently在表示'最近一段时期'时也可以与现在完成时连用",
+          "一般过去时可以用于时间状语从句中",
+          "一般过去时可以用于与最近的打算比较时",
+          "例如：He began his diet a week ago.（他是一星期前开始节食的）"
+        ]
+      },
+      {
+        "title": "raise和rise的区别",
+        "content": [
+          "raise作动词时只能作及物动词，必须跟宾语，表示'举起，往上提，使……升高'等含义",
+          "rise作动词时通常为不及物动词，表示'起立，起床，（日、月等）升起'等含义",
+          "例如：Will those who agree with me please raise their hands?（同意我的人请举手）",
+          "例如：The sun has already risen!（太阳已经升起来了）"
+        ]
+      },
+      {
+        "title": "lay和lie的区别",
+        "content": [
+          "lay（laid，laid）是及物动词，表示'置，搁，铺，准备'",
+          "lie（lay，lain）是不及物动词，表示'躺，平卧'",
+          "例如：I laid your clothes on the bed.（我把你的衣服放在床上了）",
+          "例如：Are you going to spend the whole morning lying in bed?（你要在床上躺一上午吗？）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "go on a diet",
+        "translation": "节食",
+        "context": "表示开始控制饮食以减轻体重",
+        "example": "He decided to go on a diet."
+      },
+      {
+        "phrase": "write out",
+        "translation": "写出，全部写出",
+        "context": "表示完整地写出某物",
+        "example": "He wrote out a long list of all the foods which were forbidden."
+      },
+      {
+        "phrase": "pay sb. a visit",
+        "translation": "拜访某人",
+        "context": "表示去探望某人",
+        "example": "Yesterday I paid him a visit."
+      },
+      {
+        "phrase": "as...as ever",
+        "translation": "像往常一样，照旧，依然",
+        "context": "表示状态没有改变",
+        "example": "Hugh was still as fat as ever."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "How long ago ___ his diet?",
+        "options": [
+          "will he begin",
+          "has he begun",
+          "was he beginning",
+          "did he begin"
+        ],
+        "answer": 3,
+        "explanation": "因为有ago的词，一定不用完成时，用一般过去时"
+      },
+      {
+        "question": "He was very embarrassed. He felt ___.",
+        "options": [
+          "shy",
+          "shameful",
+          "hot",
+          "uncomfortable"
+        ],
+        "answer": 3,
+        "explanation": "uncomfortable表示'不舒服的，不放松的'，与embarrassed（尴尬的）意思相近"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "He ___ the parcel on the desk.",
+        "answer": "put",
+        "hint": "表示'放置'的动词，过去式为put"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "本课涉及几组容易混淆的词汇：1) raise（及物动词，举起）和rise（不及物动词，升起）；2) lay（及物动词，放置）和lie（不及物动词，躺）；3) beat（打败对手）和win（赢得比赛、奖项等）。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'go on a diet'（节食）、'pay sb. a visit'（拜访某人）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "reward",
+        "toggle": "n. 报酬；酬谢；报答",
+        "isDanger": 0,
+        "phonetic": "rɪˈwɔːd",
+        "meaning": "n. 报偿 v. 给奖赏"
+      },
+      {
+        "word": "virtue",
+        "toggle": "n. 美德；优点；贞操；功效",
+        "isDanger": 0,
+        "phonetic": "ˈvɜːtʃuː",
+        "meaning": "n. 美德"
+      },
+      {
+        "word": "diet",
+        "toggle": "n. 饮食；食物；规定饮食",
+        "isDanger": 1,
+        "phonetic": "ˈdaɪət",
+        "meaning": "n. 节食"
+      },
+      {
+        "word": "forbid",
+        "toggle": "vt. 禁止；妨碍，阻止",
+        "isDanger": 1,
+        "phonetic": "fəˈbɪd",
+        "meaning": "v. 禁止"
+      },
+      {
+        "word": "hurriedly",
+        "toggle": "adv. 仓促地；匆忙地",
+        "isDanger": 0,
+        "phonetic": "ˈhʌrɪdli",
+        "meaning": "adv. 匆忙地"
+      },
+      {
+        "word": "embarrass",
+        "toggle": "vt. 使局促不安；使困窘；阻碍",
+        "isDanger": 0,
+        "phonetic": "ɪmˈbærəs",
+        "meaning": "v. 使尴尬"
+      },
+      {
+        "word": "guiltily",
+        "toggle": "adv.罪地,有罪地",
+        "isDanger": 0,
+        "phonetic": "ˈɡɪltɪli",
+        "meaning": "adv. 内疚地"
+      },
+      {
+        "word": "strict",
+        "toggle": "adj. 严格的；精确的；绝对的；详细的",
+        "isDanger": 0,
+        "phonetic": "strɪkt",
+        "meaning": "adj. 严格的"
+      },
+      {
+        "word": "occasionally",
+        "toggle": "adv. 偶而，间或",
+        "isDanger": 0,
+        "phonetic": "əˈkeɪʒnəli",
+        "meaning": "adv. 偶尔地"
+      }
+    ]
+  }
+}

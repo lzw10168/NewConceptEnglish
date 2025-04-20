@@ -1,0 +1,189 @@
+{
+  "id": "nce2--094",
+  "lessonNumber": "094",
+  "title": {
+    "english": "Future champions",
+    "chinese": "未来的冠军"
+  },
+  "lessonInfo": "新概念英语－第2册－第094课",
+  "audioPath": "audio/nce2/094.mp3",
+  "listeningQuestion": {
+    "question": "What special ability do the children in Los Angeles develop?",
+    "translation": "洛杉矶的孩子们发展了什么特殊能力？"
+  },
+  "editorNotes": "本课讲述了儿童早期游泳训练的情况，特别介绍了洛杉矶特殊游泳池中儿童的学习过程。文章重点描述了孩子们惊人的水下适应能力和特殊的训练方法。语法上涉及被动语态、时间状语从句等结构，以及一些重要短语的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Experiments have proved that children can be instructed in swimming at a very early age.",
+      "At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.",
+      "Babies of two months old do not appear to be reluctant to enter the water.",
+      "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.",
+      "A game that is very popular with these young swimmers is the underwater tricycle race.",
+      "Tricycles are lined up on the floor of the pool seven feet under water.",
+      "The children compete against each other to reach the other end of the pool.",
+      "Many pedal their tricycles, but most of them prefer to push or drag them.",
+      "Some children can cover the whole length of the pool without coming up for breath even once.",
+      "Whether they will ever become future Olympic champions, only time will tell.",
+      "Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "实验证明，儿童在很小的时候就可以开始学习游泳。",
+      "在洛杉矶的一个特设的游泳池里，孩子们甚至还没有学会走路时就已经能熟练地在水下屏住呼吸了。",
+      "两个月的婴儿并未显得不愿意入水。",
+      "他们很快就适应了游泳，以致能捡起池底的物品。",
+      "这些幼小的游泳运动员非常喜爱的一种游戏是水下三轮车比赛。",
+      "三轮车并排放在7英尺深的游泳池底上。",
+      "孩子们比赛看谁先到达游泳池的另一端。",
+      "很多孩子用脚蹬车，但多数孩子更愿意推或是拉着三轮车。",
+      "有些孩子能够跑完游泳池的全长而不用露出水面换气。",
+      "他们将来是否能成为奥林匹克的冠军，这只能由时间来作出回答。",
+      "与此同时，他们对我们中的那些游不了5码就已喘不过气来的人应该是种鼓舞。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "被动语态",
+        "content": [
+          "本课使用被动语态描述儿童的游泳教学。",
+          "例如：can be instructed, are lined up等。",
+          "被动语态强调动作的承受者。"
+        ]
+      },
+      {
+        "title": "时间状语从句",
+        "content": [
+          "使用before引导的时间状语从句。",
+          "例如：even before they can walk",
+          "表示在某个时间点之前发生的动作。"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "hold one's breath",
+        "translation": "屏住呼吸",
+        "context": "用于描述暂时停止呼吸的动作",
+        "example": "The children become expert at holding their breath under water."
+      },
+      {
+        "phrase": "be accustomed to",
+        "translation": "习惯于",
+        "context": "表示对某事物已经适应或习惯",
+        "example": "They are so accustomed to swimming that they can pick up weights."
+      },
+      {
+        "phrase": "line up",
+        "translation": "排成行/排队",
+        "context": "用于描述物体或人的排列",
+        "example": "Tricycles are lined up on the floor of the pool."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What game do the young swimmers enjoy?",
+        "options": [
+          "Regular swimming races",
+          "Underwater tricycle race",
+          "Weight lifting",
+          "Breath holding contests"
+        ],
+        "answer": 1,
+        "explanation": "文中提到这些幼小的游泳运动员非常喜爱水下三轮车比赛。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The children ___ against each other to reach the other end of the pool.",
+        "answer": "compete",
+        "hint": "表示竞争、比赛的动作"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "早期教育",
+        "content": "本课展示了儿童早期教育的可能性，特别是在运动技能方面。文章通过游泳训练的例子，说明了儿童具有惊人的学习能力和适应能力。这种早期训练不仅培养了孩子们的运动技能，也为他们未来的发展打下了基础。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "instruct",
+        "toggle": "vt. 命令；教授；指导；通知",
+        "isDanger": 1,
+        "phonetic": "ɪnˈstrʌkt",
+        "meaning": "v. 指导，传授"
+      },
+      {
+        "word": "Los Angeles",
+        "toggle": "洛杉矶",
+        "isDanger": 0,
+        "phonetic": "lɔ:s ˈeɪndʒəlz",
+        "meaning": "n. 洛杉矶"
+      },
+      {
+        "word": "reluctant",
+        "toggle": "adj. 勉强的；不情愿的；［罕］顽抗的",
+        "isDanger": 0,
+        "phonetic": "rɪˈlʌktənt",
+        "meaning": "adj. 勉强的，不愿意的"
+      },
+      {
+        "word": "weight",
+        "toggle": "n. 重量，重力；砝码；重要性；负担",
+        "isDanger": 0,
+        "phonetic": "weɪt",
+        "meaning": "n. 重物"
+      },
+      {
+        "word": "underwater",
+        "toggle": "adj. 在水中的；水面下的",
+        "isDanger": 0,
+        "phonetic": "ˌʌndəˈwɔːtə(r)",
+        "meaning": "adj. 水下的"
+      },
+      {
+        "word": "tricycle",
+        "toggle": "n.三轮车,机器三轮车",
+        "isDanger": 0,
+        "phonetic": "ˈtraɪsɪk(ə)l",
+        "meaning": "n. 三轮车"
+      },
+      {
+        "word": "compete",
+        "toggle": "vi. 竞争；比赛；对抗",
+        "isDanger": 1,
+        "phonetic": "kəmˈpiːt",
+        "meaning": "v. 比赛，对抗"
+      },
+      {
+        "word": "yard",
+        "toggle": "n. 码（英制中丈量长度单位， 1 码 =3 英尺）； [ 海 ] 帆桁；院子；庭院",
+        "isDanger": 0,
+        "phonetic": "jɑːd",
+        "meaning": "n. 码"
+      },
+      {
+        "word": "gasp",
+        "toggle": "vi. 喘息；喘气；渴望",
+        "isDanger": 0,
+        "phonetic": "ɡɑːsp",
+        "meaning": "v. 喘气"
+      }
+    ]
+  }
+}

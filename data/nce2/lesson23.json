@@ -1,0 +1,188 @@
+{
+  "id": "nce2--023",
+  "lessonNumber": "023",
+  "title": {
+    "english": "A new house",
+    "chinese": "新居"
+  },
+  "lessonInfo": "新概念英语－第2册－第023课",
+  "audioPath": "audio/nce2/023.mp3",
+  "listeningQuestion": {
+    "question": "What will surprise the writer's sister when she comes to England?",
+    "translation": "作者的姐姐来英国时，什么事会让她感到惊讶？"
+  },
+  "editorNotes": "本课讲述了一个关于新居的故事，重点介绍了complete、modern、strange等词的用法，以及there is和it is的区别。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I had a letter from my sister yesterday. She lives in Nigeria.",
+      "In her letter, she said that she would come to England next year.",
+      "If she comes, she will get a surprise.",
+      "We are now living in a beautiful new house in the country.",
+      "Work on it had begun before my sister left.",
+      "The house was completed five months ago.",
+      "In my letter, I told her that she could stay with us.",
+      "The house has many large rooms and there is a lovely garden.",
+      "It is a very modern house, so it looks strange to some people.",
+      "It must be the only modern house in the district."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "昨天我收到了姐姐的一封信，她住在尼日利亚。",
+      "在信中她说她明年将到英国来。",
+      "如果她来了，她会感到非常惊奇了。",
+      "我们现在住在乡间的一栋漂亮的新住宅里。",
+      "这栋房子在我姐姐离开之前就已动工了，",
+      "是在5个月以前竣工的。",
+      "我在信中告诉她，她可以和我们住在一起。",
+      "这栋房子里有许多房间，还有一个漂亮的花园。",
+      "它是一栋非常现代化的住宅，因此在有些人看来很古怪。",
+      "它肯定是这个地区唯一的一栋现代化住宅。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "complete",
+        "toggle": "adj. 完全的；完整的；彻底的",
+        "isDanger": 1,
+        "phonetic": "kəmˈpliːt",
+        "meaning": "v. 完成"
+      },
+      {
+        "word": "modern",
+        "toggle": "adj. 现代的，近代的；时髦的",
+        "isDanger": 0,
+        "phonetic": "ˈmɒd(ə)n",
+        "meaning": "adj. 新式的，与以往不同的"
+      },
+      {
+        "word": "strange",
+        "toggle": "adj. 陌生的；奇怪的；外行的",
+        "isDanger": 0,
+        "phonetic": "streɪndʒ",
+        "meaning": "adj. 奇怪的"
+      },
+      {
+        "word": "district",
+        "toggle": "n. 区域；行政区；地方",
+        "isDanger": 0,
+        "phonetic": "ˈdɪstrɪkt",
+        "meaning": "n. 地区"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "get a surprise的用法",
+        "content": [
+          "1. get a surprise 感到惊奇（surprise作可数名词，指'令人惊奇的事'）",
+          "2. to one's surprise = I get a shock 吃了一惊",
+          "3. surprise也可以作不可数名词，表示'惊讶' - She looked at the man in surprise"
+        ]
+      },
+      {
+        "title": "形容词词序",
+        "content": [
+          "1. 离名词最近的词跟该词的关系最密切",
+          "2. 冠词必须放在最前面",
+          "3. 例如：a beautiful new house, a big red flag"
+        ]
+      },
+      {
+        "title": "There is 和 It is的区别",
+        "content": [
+          "1. there be结构用于说明或询问人或物的存在",
+          "2. 在用there表示存在后，用it或人称代词作进一步说明",
+          "3. it作为'虚主语'表示时间、距离、天气等概念时，不能用there be结构",
+          "4. 例如：There's a bus coming, but it's full."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "work on",
+        "translation": "从事于……的工作",
+        "context": "work作抽象的不可数名词时，'……的工作'后面必须用介词on",
+        "example": "Work on the new building had begun."
+      },
+      {
+        "phrase": "stay with",
+        "translation": "跟……暂住在一起",
+        "context": "表示临时居住",
+        "example": "He stayed with his uncle last week."
+      },
+      {
+        "phrase": "complete the building",
+        "translation": "完成建筑",
+        "context": "表示建筑工程的完工",
+        "example": "The house was completed five months ago."
+      },
+      {
+        "phrase": "be strange to",
+        "translation": "对……感到陌生/奇怪",
+        "context": "表示对某事物不熟悉",
+        "example": "The house looks strange to some people."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "When was the house completed?",
+        "options": [
+          "Before the sister left",
+          "Five months ago",
+          "Last year",
+          "Next year"
+        ],
+        "answer": 1,
+        "explanation": "文中明确提到'The house was completed five months ago'"
+      },
+      {
+        "question": "Why does the house look strange to some people?",
+        "options": [
+          "Because it is too big",
+          "Because it is in the country",
+          "Because it is very modern",
+          "Because it has many rooms"
+        ],
+        "answer": 2,
+        "explanation": "文中说'It is a very modern house, so it looks strange to some people'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The house was _____ five months ago.",
+        "answer": "completed",
+        "hint": "表示'完成'的动词"
+      },
+      {
+        "sentence": "It must be the only _____ house in the district.",
+        "answer": "modern",
+        "hint": "表示'现代化的'的形容词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词语辨析",
+        "content": "complete和finish都表示'完成'，但complete更多用于建筑工程等大型项目的完工，而finish更常用于日常事务的完成，如finish homework（完成作业）。"
+      },
+      {
+        "title": "地区相关词汇辨析",
+        "content": "district（地区）通常指行政划分的区域，area（地段）指某个范围的区域，region（地带）则指具有某些共同特征的较大区域。"
+      }
+    ]
+  }
+}

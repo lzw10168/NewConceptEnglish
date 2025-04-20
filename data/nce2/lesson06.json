@@ -1,0 +1,210 @@
+{
+  "id": "nce2--006",
+  "lessonNumber": "006",
+  "title": {
+    "english": "Percy Buttons",
+    "chinese": "珀西·巴顿斯"
+  },
+  "lessonInfo": "新概念英语－第2册－第006课",
+  "audioPath": "audio/nce2/006.mp3",
+  "listeningQuestion": {
+    "question": "What does Percy Buttons do in return for food and beer?",
+    "translation": "珀西·巴顿斯用什么来回报食物和啤酒？"
+  },
+  "editorNotes": "本课讲述了一个有趣的乞丐故事，重点学习冠词的用法以及短语动词的使用。故事展现了英国社会中一个独特的街头人物形象。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I have just moved to a house in Bridge Street.",
+      "Yesterday a beggar knocked at my door.",
+      "He asked me for a meal and a glass of beer.",
+      "In return for this, the beggar stood on his head and sang songs.",
+      "I gave him a meal.",
+      "He ate the food and drank the beer.",
+      "Then he put a piece of cheese in his pocket and went away.",
+      "Later a neighbour told me about him.",
+      "Everybody knows him.",
+      "His name is Percy Buttons.",
+      "He calls at every house in the street once a month and always asks for a meal and a glass of beer."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我刚刚搬进了大桥街的一所房子。",
+      "昨天一个乞丐来敲我的门。",
+      "问我要一顿饭和一杯啤酒。",
+      "作为回报，那乞丐头顶地倒立起来，嘴里还唱着歌。",
+      "我给了他一顿饭。",
+      "他把食物吃完，又喝了酒。",
+      "然后把一块乳酪装进衣袋里走了。",
+      "后来，一位邻居告诉了我他的情况。",
+      "大家都认识他。",
+      "他叫珀西·巴顿斯。",
+      "他每月对这条街上的每户人家光顾一次，总是请求给他一顿饭和一杯啤酒。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "beggar",
+        "toggle": "n. 乞丐；穷人； [ 英口 ] 家伙",
+        "isDanger": 0,
+        "phonetic": "ˈbeɡə(r)",
+        "meaning": "n. 乞丐"
+      },
+      {
+        "word": "food",
+        "toggle": "n. 食物；养料",
+        "isDanger": 0,
+        "phonetic": "fuːd",
+        "meaning": "n. 食物"
+      },
+      {
+        "word": "pocket",
+        "toggle": "n. 口袋；钱；容器",
+        "isDanger": 0,
+        "phonetic": "ˈpɒkɪt",
+        "meaning": "n. 衣服口袋"
+      },
+      {
+        "word": "call",
+        "toggle": "vi. 呼叫；拜访；叫牌",
+        "isDanger": 1,
+        "phonetic": "kɔːl",
+        "meaning": "v. 拜访，光顾"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "冠词的使用（A, The and Some）",
+        "content": [
+          "不定冠词a/an用于表示不确定的某个人或物（可数名词单数）",
+          "定冠词the用于表示特定的或上文提到过的人或物",
+          "姓名、地名、国名（非复合词）以及月份、星期等前面通常不加冠词",
+          "第一次提到某物用a/an，再次提到同一物用the"
+        ]
+      },
+      {
+        "title": "短语动词的用法",
+        "content": [
+          "动词加上介词或副词后形成新的意义",
+          "knock at - 敲门；knock off - 下班/打折",
+          "call at - 拜访；call on - 拜访某人",
+          "put on - 穿上；take off - 脱下"
+        ]
+      },
+      {
+        "title": "频率表达",
+        "content": [
+          "once a month表示每月一次",
+          "频率词的位置通常在一般动词后，be动词前",
+          "对频率提问用how often"
+        ]
+      },
+      {
+        "title": "tell和say的区别",
+        "content": [
+          "tell后直接加人称宾语：tell sb. something",
+          "say后不直接加人称宾语，需要加to：say something to sb.",
+          "tell about用于告诉关于...的事情"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "in return for",
+        "translation": "作为...的回报",
+        "context": "表示交换或报答",
+        "example": "In return for your help, I'll buy you lunch."
+      },
+      {
+        "phrase": "stand on one's head",
+        "translation": "倒立",
+        "context": "字面意思是头朝下站立",
+        "example": "The circus performer stood on his head for five minutes."
+      },
+      {
+        "phrase": "once a month",
+        "translation": "每月一次",
+        "context": "表示定期发生的频率",
+        "example": "The committee meets once a month."
+      },
+      {
+        "phrase": "knock at the door",
+        "translation": "敲门",
+        "context": "表示到访或请求进入",
+        "example": "Someone is knocking at the door."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What did Percy Buttons do in return for food and beer?",
+        "options": [
+          "He told stories",
+          "He stood on his head and sang songs",
+          "He cleaned the house",
+          "He danced"
+        ],
+        "answer": 1,
+        "explanation": "文中明确提到：In return for this, the beggar stood on his head and sang songs."
+      },
+      {
+        "question": "How often does Percy Buttons visit houses in the street?",
+        "options": [
+          "Every day",
+          "Every week",
+          "Once a month",
+          "Twice a month"
+        ],
+        "answer": 2,
+        "explanation": "文中提到：He calls at every house in the street once a month."
+      },
+      {
+        "question": "A neighbour told me about him. He ___ Percy Buttons was a beggar.",
+        "options": [
+          "told",
+          "said me",
+          "told to me",
+          "said"
+        ],
+        "answer": 3,
+        "explanation": "tell和say的用法区别：say后不能直接加人称宾语"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The beggar ___ at my door yesterday.",
+        "answer": "knocked",
+        "hint": "表示敲门的动词"
+      },
+      {
+        "sentence": "Percy Buttons visits every house ___ a month.",
+        "answer": "once",
+        "hint": "表示频率的词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "英国街头艺人文化",
+        "content": "在英国，街头艺人是一种独特的文化现象。他们通过表演技艺来换取报酬，这种行为通常被视为一种体面的谋生方式，而不仅仅是单纯的乞讨。Percy Buttons就是这样一个既要饭又提供娱乐的特殊人物。"
+      },
+      {
+        "title": "英国社区文化",
+        "content": "故事反映了英国社区之间的紧密联系。邻居之间互相了解，对于像Percy Buttons这样的街头人物也都很熟悉，体现了社区的凝聚力和包容性。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "id": "nce1-021",
+  "lessonNumber": "021",
+  "title": {
+    "english": "Which book?",
+    "chinese": "哪本书？"
+  },
+  "lessonInfo": "新概念英语－第1册－第021课",
+  "audioPath": "audio/nce1/021.mp3",
+  "listeningQuestion": {
+    "question": "What color is the book that the husband wants?",
+    "translation": "丈夫想要的是什么颜色的书？"
+  },
+  "editorNotes": "本课通过一个简单的对话场景，展示了如何询问和指出具体物品。课文重点介绍了指示代词的使用，以及如何用颜色和位置来描述和区分物品。这些表达方式在日常生活中非常实用，特别是在需要明确指出某个特定物品时。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Give me a book please, Jane.",
+      "Which book?",
+      "This one?",
+      "No, not that one. The red one.",
+      "This one?",
+      "Yes, please.",
+      "Here you are.",
+      "Thank you."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "丈夫：请拿本书给我，简。",
+      "妻子：哪一本？",
+      "妻子：是这本吗？",
+      "丈夫：不，不是那本。是那本红皮的。",
+      "妻子：这本吗？",
+      "丈夫：是的，请给我。",
+      "妻子：给你。",
+      "丈夫：谢谢。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 请求与给予",
+        "children": [
+          "核心概念：表达请求和给予",
+          "常用表达：",
+          "- Give me ... please (请给我...)",
+          "- Here you are (给你)",
+          "使用场景：",
+          "- 请求物品 | 传递物品 | 借用物品",
+          "注意事项：",
+          "- 加上please更礼貌 | 注意语气友善 | 可以加上称呼"
+        ]
+      },
+      {
+        "heading": "2. 询问与确认",
+        "children": [
+          "核心概念：询问具体物品",
+          "常用句型：",
+          "- Which ...? (哪一个...?)",
+          "- This one? (这个吗?)",
+          "使用场景：",
+          "- 选择物品 | 确认选择 | 澄清疑问",
+          "注意事项：",
+          "- 语气要友善 | 可以用手势辅助 | 注意礼貌用语"
+        ]
+      },
+      {
+        "heading": "3. 描述与区分",
+        "children": [
+          "核心概念：用特征描述物品",
+          "常用表达：",
+          "- The red one (红色的那个)",
+          "- Not that one (不是那个)",
+          "使用场景：",
+          "- 区分相似物品 | 指出特定物品 | 纠正错误选择",
+          "注意事项：",
+          "- 使用明确特征 | 可以组合多个特征 | 注意指示词的使用"
+        ]
+      },
+      {
+        "heading": "4. 表达感谢",
+        "children": [
+          "核心概念：感谢他人帮助",
+          "常用表达：",
+          "- Thank you (谢谢你)",
+          "- Thanks (谢谢)",
+          "使用场景：",
+          "- 收到物品后 | 得到帮助后 | 请求完成后",
+          "注意事项：",
+          "- 语气真诚 | 可以加上称呼 | 根据场合选择用语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 特殊疑问词which",
+        "children": [
+          "核心概念：",
+          "- which用于选择性提问",
+          "- 用于有限选择范围",
+          "基本用法：",
+          "- Which + 名词...?",
+          "- Which one...?",
+          "实用例句：",
+          "- Which book? (哪本书？)",
+          "- Which one? (哪一个？)",
+          "注意事项：",
+          "- 选择范围明确 | 答句方式灵活 | 可以简略回答"
+        ]
+      },
+      {
+        "heading": "2. 指示代词",
+        "children": [
+          "核心概念：",
+          "- this/that的用法",
+          "- one的替代作用",
+          "基本用法：",
+          "- this one (这个)",
+          "- that one (那个)",
+          "实用例句：",
+          "- This one? (这个吗？)",
+          "- Not that one. (不是那个。)",
+          "注意事项：",
+          "- 近指用this | 远指用that | one避免重复"
+        ]
+      },
+      {
+        "heading": "3. 形容词修饰",
+        "children": [
+          "核心概念：",
+          "- 颜色形容词",
+          "- 形容词+one",
+          "基本用法：",
+          "- The + 形容词 + one",
+          "- 形容词位置",
+          "实用例句：",
+          "- The red one. (红色的那个。)",
+          "注意事项：",
+          "- 冠词使用 | 词序规则 | 多个形容词顺序"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 指示词",
+        "children": [
+          "基本词汇：",
+          "- this (这个)",
+          "- that (那个)",
+          "- one (代指物品)",
+          "常用搭配：",
+          "- this one (这个)",
+          "- that one (那个)",
+          "使用场景：",
+          "- 指出物品 | 选择物品 | 区分物品"
+        ]
+      },
+      {
+        "heading": "2. 颜色词",
+        "children": [
+          "基本词汇：",
+          "- red (红色的)",
+          "- blue (蓝色的)",
+          "- green (绿色的)",
+          "常用搭配：",
+          "- the red one (红色的那个)",
+          "- red book (红色的书)",
+          "使用场景：",
+          "- 描述物品 | 区分物品 | 选择物品"
+        ]
+      },
+      {
+        "heading": "3. 交际用语",
+        "children": [
+          "请求用语：",
+          "- Give me ... please (请给我...)",
+          "- Please (请)",
+          "回应用语：",
+          "- Here you are (给你)",
+          "- Thank you (谢谢)",
+          "使用场景：",
+          "- 请求帮助 | 物品交接 | 表达感谢"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "give",
+        "toggle": "vt. 给；授予；让步；产生；举办",
+        "isDanger": 1,
+        "phonetic": "ɡɪv",
+        "meaning": "v. 给"
+      },
+      {
+        "word": "one",
+        "toggle": "pron. 任何人；一个人",
+        "isDanger": 1,
+        "phonetic": "wʌn",
+        "meaning": "pron. 一个"
+      },
+      {
+        "word": "which",
+        "toggle": "pron. 哪 / 那一个；哪 / 那一些",
+        "isDanger": 1,
+        "phonetic": "wɪtʃ",
+        "meaning": "pron. 哪一个"
+      },
+      {
+        "word": "empty",
+        "toggle": "adj. 空的；无意义的；徒劳的；无知的",
+        "isDanger": 0,
+        "phonetic": "ˈempti",
+        "meaning": "adj. 空的"
+      },
+      {
+        "word": "full",
+        "toggle": "adj. 完全的，完整的；满的，充满的；丰满的；丰富的；详尽的；完美的",
+        "isDanger": 1,
+        "phonetic": "fʊl",
+        "meaning": "adj. 满的"
+      },
+      {
+        "word": "large",
+        "toggle": "adj. 大的；广博的；多数的",
+        "isDanger": 0,
+        "phonetic": "lɑːdʒ",
+        "meaning": "adj. 大的"
+      },
+      {
+        "word": "little",
+        "toggle": "adj. 小的；短暂的；很少的；小巧可爱的",
+        "isDanger": 1,
+        "phonetic": "ˈlɪt(ə)l",
+        "meaning": "adj. 小的"
+      },
+      {
+        "word": "sharp",
+        "toggle": "adj. 急剧的；锋利的；刺耳的；敏捷的；强烈的",
+        "isDanger": 1,
+        "phonetic": "ʃɑːp",
+        "meaning": "adj. 尖的，锋利的"
+      },
+      {
+        "word": "blunt",
+        "toggle": "adj. 钝的，不锋利的；生硬的；直率的",
+        "isDanger": 0,
+        "phonetic": "blʌnt",
+        "meaning": "adj. 钝的"
+      },
+      {
+        "word": "small",
+        "toggle": "adj. 少的，小的；不重要的；几乎没有的；微弱的；幼小的",
+        "isDanger": 0,
+        "phonetic": "smɔːl",
+        "meaning": "adj. 小的"
+      },
+      {
+        "word": "big",
+        "toggle": "adj. 大的；重要的；量大的",
+        "isDanger": 1,
+        "phonetic": "bɪɡ",
+        "meaning": "adj. 大的"
+      },
+      {
+        "word": "box",
+        "toggle": "n. 箱，盒子；包厢；一拳",
+        "isDanger": 0,
+        "phonetic": "bɒks",
+        "meaning": "n. 盒子，箱子"
+      },
+      {
+        "word": "glass",
+        "toggle": "n. 玻璃；镜子；玻璃制品",
+        "isDanger": 0,
+        "phonetic": "ɡlɑːs",
+        "meaning": "n. 杯子"
+      },
+      {
+        "word": "cup",
+        "toggle": "n. 杯子；奖杯；酒杯",
+        "isDanger": 0,
+        "phonetic": "kʌp",
+        "meaning": "n. 茶杯"
+      },
+      {
+        "word": "bottle",
+        "toggle": "n. 瓶子；一瓶的容量",
+        "isDanger": 0,
+        "phonetic": "ˈbɒt(ə)l",
+        "meaning": "n. 瓶子"
+      },
+      {
+        "word": "tin",
+        "toggle": "n. 锡；罐头，罐；马口铁",
+        "isDanger": 0,
+        "phonetic": "tɪn",
+        "meaning": "n. 罐头"
+      },
+      {
+        "word": "knife",
+        "toggle": "n. 刀；匕首",
+        "isDanger": 0,
+        "phonetic": "naɪf",
+        "meaning": "n. 刀子"
+      },
+      {
+        "word": "fork",
+        "toggle": "n. 餐叉；叉；耙",
+        "isDanger": 0,
+        "phonetic": "fɔːk",
+        "meaning": "n. 叉子"
+      },
+      {
+        "word": "chopsticks",
+        "toggle": "n.筷子",
+        "isDanger": 0,
+        "phonetic": "ˈtʃɒpstɪks",
+        "meaning": "n. 筷子"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

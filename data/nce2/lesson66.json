@@ -1,0 +1,305 @@
+{
+  "id": "nce2--066",
+  "lessonNumber": "066",
+  "title": {
+    "english": "Sweet as honey!",
+    "chinese": "像蜜一样甜！"
+  },
+  "lessonInfo": "新概念英语－第2册－第066课",
+  "audioPath": "audio/nce2/066.mp3",
+  "listeningQuestion": {
+    "question": "Why was the fourth engine in perfect condition?",
+    "translation": "为什么第四台发动机完好无损？"
+  },
+  "editorNotes": "本课讲述了一个关于二战时期兰开斯特轰炸机的有趣故事。1963年，一架轰炸机在太平洋的瓦立斯岛坠毁，26年后被重新发现。当修复人员打开包装箱时，发现第四台发动机完好无损，原来是一群蜜蜂把发动机当作了蜂房，用蜂蜡将其完整保存。文章通过这个意外的发现，展示了使役式的用法（have sth. done）以及集合名词的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+      "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed.",
+      "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+      "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+      "The French authorities had the plane packaged and moved in parts back to France.",
+      "Now a group of enthusiasts are going to have the plane restored.",
+      "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt.",
+      "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition.",
+      "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "1963年，一架兰开斯特轰炸机在瓦立斯岛坠毁。那是南太平洋中一个很偏僻的小岛，位于萨摩亚群岛以西，距离群岛还有很长一段距离。",
+      "飞机损坏的程度并不严重，但是，多年来这起飞机失事已被遗忘，飞机残骸也没受到破坏。",
+      "于是，到了1989年，飞机失事26年后，在对小岛的一次航空勘查中那架飞机被意外地发现了。",
+      "到了那个时候，状况良好的兰开斯特轰炸机实属罕见，值得抢救。",
+      "法国政府让人把飞机包装起来，一部分一部分地搬回法国。",
+      "一群热心人计划修复这架飞机。",
+      "该飞机装配有4台罗尔斯-罗伊斯的默林发动机，但是他们只需要修复其中的3台。",
+      "想一想他们所感受到的惊奇和兴奋——当他们拆开包装箱时，他们发现第4台发动机就像蜂蜜一样甜——发动机完好无损。",
+      "一群蜜蜂把发动机当作了蜂房，发动机在蜂蜡中被完整地保存了下来。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "使役式",
+        "content": [
+          "使役式：have + 名词/宾语代词 + 动词过去分词，表示让某人做某事或遭遇某事。",
+          "例如：The French authorities had the plane packaged and moved in parts back to France.（法国政府让人把飞机包装起来，一部分一部分地搬回法国。）",
+          "have sth. done的另一个意思是'遭遇不幸'",
+          "例如：I have my leg broken.（我摔断了腿。）",
+          "While I'm away, I'll have you looked after.（我不在的时候，我会让人照顾你的。）"
+        ]
+      },
+      {
+        "title": "集合名词",
+        "content": [
+          "集合名词表示由若干个体组成的集合体，如family（家庭），team（队），crew（全体工作人员），audience（观众）等。",
+          "强调整体时用单数动词，强调个体时用复数动词。",
+          "例如：The national team is travelling to London tomorrow.（国家代表队将于明天去伦敦。）",
+          "The team are all highly talented young people.（全队人员都是天赋极高的年轻人。）",
+          "My family are watching TV.（我的家人正在看电视。）",
+          "My family is happy.（我的家庭很幸福。）"
+        ]
+      },
+      {
+        "title": "方位介词",
+        "content": [
+          "in表示隶属关系",
+          "例如：Haerbin's in the north of China.（哈尔滨在中国的北部。）",
+          "on表示与一个地方有接触面",
+          "例如：Korea is on the north of China.（朝鲜在中国的北部。）",
+          "to表示相离的概念",
+          "例如：Japan is to the east of China.（日本在中国的东部。）",
+          "west of = to the west of（west of前面没有任何词修饰时，表示相离的概念）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "over the years",
+        "translation": "这些年来",
+        "context": "表示在过去的几年期间",
+        "example": "Over the years, the crash was forgotten and the wreck remained undisturbed."
+      },
+      {
+        "phrase": "in reasonable condition",
+        "translation": "状况尚好",
+        "context": "表示状态还可以，过得去",
+        "example": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing."
+      },
+      {
+        "phrase": "be worth doing",
+        "translation": "值得做...",
+        "context": "表示具有做某事的价值",
+        "example": "A Lancaster bomber in reasonable condition was rare and worth rescuing."
+      },
+      {
+        "phrase": "turn...into...",
+        "translation": "把...变成...",
+        "context": "表示将某物转换成另一物",
+        "example": "A colony of bees had turned the engine into a hive."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Only three of the four Rolls Royce Merlin engines ___ rebuilt.",
+        "options": [
+          "will have to be",
+          "need have been",
+          "are being",
+          "had to be"
+        ],
+        "answer": 0,
+        "explanation": "情态动词need只用于否定句和疑问句中，要用在肯定句中肯定是实义动词need to do。这里表示将来需要做某事，所以用will have to be。"
+      },
+      {
+        "question": "___ the years that followed, the crash was forgotten.",
+        "options": [
+          "Between",
+          "During",
+          "While",
+          "Among"
+        ],
+        "answer": 1,
+        "explanation": "over the years = during the years，表示在这些年期间。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The French authorities had the plane ___ and moved in parts back to France.",
+        "answer": "packaged",
+        "explanation": "使用使役式have sth. done，表示让别人做某事。"
+      },
+      {
+        "sentence": "A colony of bees had ___ the engine into a hive.",
+        "answer": "turned",
+        "explanation": "turn...into...表示把某物转换成另一物。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Wreck的用法：\n- wreck强调坏了没用的东西（一个坏了的整体，完整的）\n- wreckage强调坏成碎片的东西\n\n2. Package的用法：\n- v. 把...打包\n- n. 大包\n- package deal：一揽子交易\n- pack：n. 小包；v. 把...打成小包\n- parcel：n. 包裹（邮局邮寄）\n\n3. Preserve的用法：\n- v. 保护，保存（经过特殊手段而保存下来）\n- preserved bean curd：豆腐乳\n- preserved fruit：果脯\n- preserved meat：腊肉\n- keep：保存，保持\n- store：储存，保存（以便日后使用）"
+      },
+      {
+        "title": "文化背景",
+        "content": "兰开斯特轰炸机（Lancaster Bomber）是英国在第二次世界大战期间使用的一种重型轰炸机。它由阿弗罗公司（Avro）制造，是英国皇家空军最重要的轰炸机之一。兰开斯特轰炸机以其强大的载弹能力和出色的性能而闻名，在二战期间执行了许多重要的轰炸任务。本文中提到的罗尔斯-罗伊斯默林发动机（Rolls-Royce Merlin engine）是兰开斯特轰炸机的核心部件，这种发动机以其可靠性和强大的动力输出而著称。文章通过一个意外的发现，展示了战争遗物如何被大自然以独特的方式保存下来，同时也反映了人们对历史文物的保护和修复工作。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "Lancaster",
+        "toggle": "n.兰喀斯特式（飞）机",
+        "isDanger": 0,
+        "phonetic": "ˈlæŋkəstə(r)",
+        "meaning": "n. 兰开斯特"
+      },
+      {
+        "word": "bomber",
+        "toggle": "n. 轰炸机；投弹手",
+        "isDanger": 0,
+        "phonetic": "ˈbɒmə(r)",
+        "meaning": "n. 轰炸机"
+      },
+      {
+        "word": "remote",
+        "toggle": "adj. 遥远的；偏僻的；疏远的",
+        "isDanger": 0,
+        "phonetic": "rɪˈməʊt",
+        "meaning": "adj. 偏僻的"
+      },
+      {
+        "word": "Pacific",
+        "toggle": "n. 太平洋",
+        "isDanger": 0,
+        "phonetic": "pəˈsɪfɪk",
+        "meaning": "n. 太平洋"
+      },
+      {
+        "word": "damage",
+        "toggle": "vi. 损害；损毁；赔偿金",
+        "isDanger": 0,
+        "phonetic": "ˈdæmɪdʒ",
+        "meaning": "v. 毁坏"
+      },
+      {
+        "word": "wreck",
+        "toggle": "n. 失事；残骸；破坏； [ 口 ] 失去健康的人",
+        "isDanger": 1,
+        "phonetic": "rek",
+        "meaning": "n. 残骸"
+      },
+      {
+        "word": "rediscover",
+        "toggle": "vt. 重新发现；再发现",
+        "isDanger": 0,
+        "phonetic": "ˌriːdɪˈskʌvə(r)",
+        "meaning": "v. 重新发现"
+      },
+      {
+        "word": "aerial",
+        "toggle": "adj. 空气的；空中的，航空的；空想的",
+        "isDanger": 0,
+        "phonetic": "ˈeəriəl",
+        "meaning": "adj. 航空的"
+      },
+      {
+        "word": "survey",
+        "toggle": "n. 调查；测量；纵览；审视",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːveɪ",
+        "meaning": "n. 调查"
+      },
+      {
+        "word": "rescue",
+        "toggle": "vt. 营救；援救",
+        "isDanger": 0,
+        "phonetic": "ˈreskjuː",
+        "meaning": "v. 营救（＝save）"
+      },
+      {
+        "word": "package",
+        "toggle": "n. 包，包裹；套装软件，程序包",
+        "isDanger": 1,
+        "phonetic": "ˈpækɪdʒ",
+        "meaning": "v. 把……打包"
+      },
+      {
+        "word": "enthusiast",
+        "toggle": "n. 狂热者，热心家",
+        "isDanger": 0,
+        "phonetic": "ɪnˈθjuːziæst",
+        "meaning": "n. 热心人"
+      },
+      {
+        "word": "restore",
+        "toggle": "vt. 修复；恢复；归还",
+        "isDanger": 1,
+        "phonetic": "rɪˈstɔː(r)",
+        "meaning": "v. 修复（修并且复原,如对艺术品的修复）"
+      },
+      {
+        "word": "imagine",
+        "toggle": "vt. 想像；猜想；臆断",
+        "isDanger": 1,
+        "phonetic": "ɪˈmædʒɪn",
+        "meaning": "v. 想像"
+      },
+      {
+        "word": "packing case",
+        "toggle": "n. 装运货物的箱子",
+        "isDanger": 0,
+        "phonetic": "ˈpækɪŋ keɪs",
+        "meaning": "n. 包装箱"
+      },
+      {
+        "word": "colony",
+        "toggle": "n. 殖民地；移民队",
+        "isDanger": 0,
+        "phonetic": "ˈkɒləni",
+        "meaning": "n. 群"
+      },
+      {
+        "word": "bee",
+        "toggle": "n. 蜜蜂，蜂；勤劳的人(as busy as a bee)",
+        "isDanger": 0,
+        "phonetic": "biː",
+        "meaning": "n. 蜂"
+      },
+      {
+        "word": "hive",
+        "toggle": "vi. 群居；入蜂房；生活在蜂房中",
+        "isDanger": 0,
+        "phonetic": "haɪv",
+        "meaning": "n. 蜂房"
+      },
+      {
+        "word": "preserve",
+        "toggle": "vt. 保存；保护；维持；禁猎；腌",
+        "isDanger": 1,
+        "phonetic": "prɪˈzɜːv",
+        "meaning": "v. 保护"
+      },
+      {
+        "word": "beeswax",
+        "toggle": "n.蜂蜡 vt.上蜂蜡",
+        "isDanger": 0,
+        "phonetic": "ˈbiːzwæks",
+        "meaning": "n. 蜂蜡"
+      }
+    ]
+  }
+}

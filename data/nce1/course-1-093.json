@@ -1,0 +1,281 @@
+{
+  "id": "nce1-093",
+  "lessonNumber": "093",
+  "title": {
+    "english": "Our new neighbor",
+    "chinese": "我们的新邻居"
+  },
+  "lessonInfo": "新概念英语－第1册－第093课",
+  "audioPath": "audio/nce1/093.mp3",
+  "listeningQuestion": {
+    "question": "What is Mr. Hill's job?",
+    "translation": "希尔先生是做什么工作的？"
+  },
+  "editorNotes": "本课通过介绍一位飞行员邻居的工作和生活，展示了如何描述他人的职业经历和未来计划。课文涉及职业介绍、时间安排、地点表达等内容，同时介绍了一般将来时和现在完成时的使用。这些表达对于描述他人经历和计划非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mr Hill is our new next-door neighbour. He's a pilot.",
+      "He was in the R.A.F.(皇家空军)",
+      "He will fly to New York next month.",
+      "The month after next he will fly to Tokyo.",
+      "At the moment（现在）,  he's in Madrid. He flew to Spain a week ago.",
+      "He will return to London the week after next.",
+      "He's only forty-one years old, and he has already been to nearly every country in the world.",
+      "Mr Hill is a very lucky man. But his wife isn't very lucky. She usually stays at home!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "Mr Hill是我们新搬来的隔壁邻居。他是个飞行员。",
+      "他曾在皇家空军任职。",
+      "下个月他将飞往纽约。",
+      "再下个月他将飞往东京。",
+      "现在他在马德里。他是一星期以前飞到西班牙的。",
+      "再下个星期他将返回伦敦。",
+      "他只有41岁，但他却过世界上几乎每一个国家。",
+      "Mr Hill是个很幸运的人。但他的妻子运气不很好。她总是呆在家里！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 职业描述",
+        "children": [
+          "核心概念：如何介绍他人的职业背景",
+          "常用表达：",
+          "- He's a pilot 他是个飞行员",
+          "- He was in the R.A.F. 他曾在皇家空军服役",
+          "- He's only forty-one years old 他只有41岁",
+          "使用场景：介绍他人的职业经历",
+          "注意事项：注意时态的准确使用"
+        ]
+      },
+      {
+        "heading": "2. 未来计划表达",
+        "children": [
+          "核心概念：如何表达未来的工作安排",
+          "常用表达：",
+          "- He will fly to New York next month 下个月他将飞往纽约",
+          "- The month after next 下下个月",
+          "- He will return to London 他将返回伦敦",
+          "使用场景：描述未来的工作计划",
+          "注意事项：注意时间词的准确使用"
+        ]
+      },
+      {
+        "heading": "3. 经历描述",
+        "children": [
+          "核心概念：如何描述过去的经历",
+          "常用表达：",
+          "- He flew to Spain a week ago 他一周前飞到了西班牙",
+          "- He has already been to nearly every country 他已经去过几乎每个国家",
+          "- At the moment, he's in Madrid 目前，他在马德里",
+          "使用场景：描述他人的经历和现状",
+          "注意事项：注意不同时态的选择"
+        ]
+      },
+      {
+        "heading": "4. 对比表达",
+        "children": [
+          "核心概念：如何表达对比",
+          "常用表达：",
+          "- Mr. Hill is a very lucky man 希尔先生很幸运",
+          "- But his wife isn't very lucky 但他妻子运气不好",
+          "- She usually stays at home 她通常呆在家里",
+          "使用场景：对比不同人的情况",
+          "注意事项：注意表达的委婉性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般将来时的使用",
+        "children": [
+          "1. 表示计划：He will fly to New York",
+          "2. 表示预测：He will return to London",
+          "3. 与时间状语的搭配",
+          "4. 否定和疑问形式"
+        ]
+      },
+      {
+        "heading": "2. 现在完成时的使用",
+        "children": [
+          "1. 表示经历：has been to nearly every country",
+          "2. 与already的搭配",
+          "3. 表示完成的动作",
+          "4. 与时间状语的关系"
+        ]
+      },
+      {
+        "heading": "3. 一般现在时的使用",
+        "children": [
+          "1. 表示习惯：She usually stays at home",
+          "2. 表示现状：He's a pilot",
+          "3. 与频率副词的搭配",
+          "4. 描述现状和事实"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 职业相关词汇",
+        "children": [
+          "pilot n. 飞行员：",
+          "- airline pilot 航空公司飞行员",
+          "- be a pilot 当飞行员",
+          "R.A.F. n. 皇家空军：",
+          "- in the R.A.F. 在皇家空军服役",
+          "- join the R.A.F. 加入皇家空军"
+        ]
+      },
+      {
+        "heading": "2. 地点词汇",
+        "children": [
+          "fly v. 飞行：",
+          "- fly to Tokyo 飞往东京",
+          "- fly to Spain 飞往西班牙",
+          "return v. 返回：",
+          "- return to London 返回伦敦",
+          "- return home 返回家"
+        ]
+      },
+      {
+        "heading": "3. 时间词汇",
+        "children": [
+          "next adj. 下一个：",
+          "- next month 下个月",
+          "- the month after next 下下个月",
+          "ago adv. 以前：",
+          "- a week ago 一周前",
+          "- long ago 很久以前"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "pilot",
+        "toggle": "n. 领航员；飞行员",
+        "isDanger": 0,
+        "phonetic": "ˈpaɪlət",
+        "meaning": "n. 飞行员"
+      },
+      {
+        "word": "return",
+        "toggle": "vt. 返回；报答； n. 返回；归还；回球； vi. 返回；报答； adj. 报答的；回程的；返回的",
+        "isDanger": 1,
+        "phonetic": "rɪˈtɜːn",
+        "meaning": "v. 返回"
+      },
+      {
+        "word": "New York",
+        "toggle": "纽约",
+        "isDanger": 0,
+        "phonetic": "njuː jɔːk",
+        "meaning": "n. 纽约"
+      },
+      {
+        "word": "Tokyo",
+        "toggle": "n.东京(日本首都)",
+        "isDanger": 0,
+        "phonetic": "ˈtəʊkiəʊ",
+        "meaning": "n. 东京"
+      },
+      {
+        "word": "Madrid",
+        "toggle": "n.马德里(西班牙首都)",
+        "isDanger": 0,
+        "phonetic": "məˈdrɪd",
+        "meaning": "n. 马德里"
+      },
+      {
+        "word": "fly",
+        "toggle": "vi. 飞；飘扬；驾驶飞机",
+        "isDanger": 1,
+        "phonetic": "flaɪ",
+        "meaning": "v. 飞行"
+      },
+      {
+        "word": "Athens",
+        "toggle": "n.雅典(希腊首都)",
+        "isDanger": 0,
+        "phonetic": "ˈæθɪnz",
+        "meaning": "n. 雅典"
+      },
+      {
+        "word": "Berlin",
+        "toggle": "柏林",
+        "isDanger": 0,
+        "phonetic": "bɜːˈlɪn",
+        "meaning": "n. 柏林"
+      },
+      {
+        "word": "Bahrain",
+        "toggle": "巴林",
+        "isDanger": 0,
+        "phonetic": "bɑːˈreɪn",
+        "meaning": "n. 巴林"
+      },
+      {
+        "word": "Bombay",
+        "toggle": "孟买(印度马哈拉施特拉邦首府)",
+        "isDanger": 0,
+        "phonetic": "bɒmˈbeɪ",
+        "meaning": "n. 孟买"
+      },
+      {
+        "word": "Geneva",
+        "toggle": "n.日内瓦",
+        "isDanger": 0,
+        "phonetic": "dʒɪˈniːvə",
+        "meaning": "n. 日内瓦"
+      },
+      {
+        "word": "Moscow",
+        "toggle": "n.莫斯科",
+        "isDanger": 0,
+        "phonetic": "ˈmɒskəʊ",
+        "meaning": "n. 莫斯科"
+      },
+      {
+        "word": "Rome",
+        "toggle": "罗马",
+        "isDanger": 0,
+        "phonetic": "rəʊm",
+        "meaning": "n. 罗马"
+      },
+      {
+        "word": "Seoul",
+        "toggle": "n. 汉城，首尔（韩国首都）",
+        "isDanger": 0,
+        "phonetic": "səʊl",
+        "meaning": "n. 汉城"
+      },
+      {
+        "word": "Stockholm",
+        "toggle": "斯德哥尔摩",
+        "isDanger": 0,
+        "phonetic": "ˈstɒkhəʊm",
+        "meaning": "n. 斯德哥尔摩"
+      },
+      {
+        "word": "Sydney",
+        "toggle": "悉尼",
+        "isDanger": 0,
+        "phonetic": "ˈsɪdni",
+        "meaning": "n. 悉尼"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

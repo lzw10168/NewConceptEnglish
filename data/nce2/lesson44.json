@@ -1,0 +1,213 @@
+{
+  "id": "nce2--044",
+  "lessonNumber": "044",
+  "title": {
+    "english": "Through the Forest",
+    "chinese": "穿过森林"
+  },
+  "lessonInfo": "新概念英语－第2册－第044课",
+  "audioPath": "audio/nce2/044.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the woman in the forest?",
+    "translation": "那个女人在森林里发生了什么？"
+  },
+  "editorNotes": "本文讲述了一个女人在森林中迷路并最终获救的故事。文章通过细腻的描写展现了主人公在森林中的恐惧和无助，以及她如何通过保持冷静和机智最终获救。文章中的语法要点包括过去完成时的使用，以及'as if'引导的方式状语从句。在实际使用中，'lose one's way'和'keep one's head'等短语在描述困境和应对方式时非常实用，掌握这些表达方式可以帮助我们更好地描述类似的经历。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.",
+      "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.",
+      "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.",
+      "Mrs. Sterling got so angry that she ran after them.",
+      "She was soon out of breath, but she continued to run.",
+      "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "The men got such a fright that they dropped the bag and ran away.",
+      "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "安.斯特林夫人在穿过森林追赶两个男人时, 她并没有考虑到所冒的风险.",
+      "刚才, 当她和孩子们正在森林边上野餐的时候, 这两个人冲到她跟前, 企图抢走她的手提包.",
+      "在争抢中, 手提包的带断了, 包落入这两个人手里, 他们拔腿跑进了树林.",
+      "斯特林夫人非常气愤, 向着他们追了过去.",
+      "只追了一会儿便上气不接下气了, 但她还是继续追赶.",
+      "当她赶上他们时, 发现他们已经坐了下来, 正翻着包里的东西. 于是她直冲过去.",
+      "这两个人吓了一跳, 扔下提包逃跑了.",
+      "'这提包带需要修理,' 斯特林夫人事后说道, '不过他们什么也没偷走.'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "动名词的用法",
+        "content": [
+          "动名词可以做主语、宾语、介词宾语等",
+          "例如：Washing the car made me tired.",
+          "动名词可以用于'动词+介词'之后",
+          "例如：look forward to doing sth.（期待做某事）",
+          "在start，begin，continue等后面，既可以用不定式又可以用动名词"
+        ]
+      },
+      {
+        "title": "need/want + 动名词",
+        "content": [
+          "在need，want之后，动名词形式具有被动的含义",
+          "相当于被动的不定式",
+          "例如：My shirt needs mending. = My shirt needs to be mended.",
+          "Those windows want washing. = Those windows want to be washed."
+        ]
+      },
+      {
+        "title": "catch和run的用法",
+        "content": [
+          "catch可以表示'抓住、捉住、逮住'，也可以表示'（及时）赶上、追上'",
+          "run加上不同的小品词可以表达'追赶，逃跑'等多种含义",
+          "例如：catch up with（追上），run away（逃跑）",
+          "run straight at（直冲向）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "out of breath",
+        "translation": "上气不接下气，喘不上气",
+        "context": "表示呼吸急促，气喘吁吁",
+        "example": "She was soon out of breath, but she continued to run."
+      },
+      {
+        "phrase": "go through",
+        "translation": "（仔细地）搜查，翻看",
+        "context": "表示仔细检查或浏览",
+        "example": "They were going through the contents of the bag."
+      },
+      {
+        "phrase": "take a risk",
+        "translation": "冒险",
+        "context": "表示承担风险",
+        "example": "Mrs. Sterling did not think of the risk she was taking."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "They were going through the contents of the bag. ___ she ran straight at them.",
+        "options": [
+          "For this",
+          "That's because",
+          "That's why",
+          "That's so"
+        ],
+        "answer": 2,
+        "explanation": "that's why 表示'这就是为什么...'，用来解释原因"
+      },
+      {
+        "question": "They got such a fright. They were ___.",
+        "options": [
+          "so frightful",
+          "such frightened",
+          "so frightened",
+          "such fright"
+        ],
+        "answer": 2,
+        "explanation": "so + adj./adv.；such + n. 表示程度"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The strap needs ___. It ___.",
+        "answer": [
+          "mending",
+          "has to be mended"
+        ],
+        "hint": "need + 动名词表示被动含义"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "这篇文章展现了一个普通女性在面对危险时的勇气和决心。在英语国家，个人财产的保护和自卫是很受重视的观念。文章中的斯特林夫人展现出了不轻易放弃的精神，这种品质在英语文化中很受推崇。"
+      },
+      {
+        "title": "词汇扩展",
+        "content": "risk（风险）这个词不仅可以用在本文中描述危险情况，还可以用在商业、投资等领域。例如：business risk（商业风险），investment risk（投资风险）。相关的词组还有：take a risk（冒险），at risk（处于危险中）等。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "forest",
+        "toggle": "vt. 植树于，使成为森林",
+        "isDanger": 0,
+        "phonetic": "ˈfɒrɪst",
+        "meaning": "n. 森林"
+      },
+      {
+        "word": "risk",
+        "toggle": "n. 危险；风险；冒险",
+        "isDanger": 0,
+        "phonetic": "rɪsk",
+        "meaning": "n. 危险，冒险"
+      },
+      {
+        "word": "picnic",
+        "toggle": "n. 野餐",
+        "isDanger": 0,
+        "phonetic": "ˈpɪknɪk",
+        "meaning": "n. 野餐"
+      },
+      {
+        "word": "edge",
+        "toggle": "n. 边缘；刀刃；优势；锋利",
+        "isDanger": 1,
+        "phonetic": "edʒ",
+        "meaning": "n. 边缘"
+      },
+      {
+        "word": "strap",
+        "toggle": "vt. 用带捆绑；用皮条抽打；约束",
+        "isDanger": 0,
+        "phonetic": "stræp",
+        "meaning": "n. 带，皮带"
+      },
+      {
+        "word": "possession",
+        "toggle": "n. 财产；拥有；领地；自制；着迷",
+        "isDanger": 0,
+        "phonetic": "pəˈzeʃ(ə)n",
+        "meaning": "n. 所有"
+      },
+      {
+        "word": "breath",
+        "toggle": "n. 呼吸，气息；一口气，（呼吸的）一次；微风；瞬间，瞬息；迹象； [ 语 ] 无声音，气音",
+        "isDanger": 0,
+        "phonetic": "breθ",
+        "meaning": "n. 呼吸"
+      },
+      {
+        "word": "contents",
+        "toggle": "n. 内容; （书、讲话、节目等的）主题; 含量; 所含之物( content的名词复数 )",
+        "isDanger": 0,
+        "phonetic": "ˈkɒntents",
+        "meaning": "n. （常用复数）内有的物品"
+      },
+      {
+        "word": "mend",
+        "toggle": "vt. 修理，修补；改善；修改",
+        "isDanger": 0,
+        "phonetic": "mend",
+        "meaning": "v. 修理"
+      }
+    ]
+  }
+}

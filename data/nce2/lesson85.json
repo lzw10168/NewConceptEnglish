@@ -1,0 +1,312 @@
+{
+  "id": "nce2--085",
+  "lessonNumber": "085",
+  "title": {
+    "english": "Never too old to learn",
+    "chinese": "活到老学到老"
+  },
+  "lessonInfo": "新概念英语－第2册－第085课",
+  "audioPath": "audio/nce2/085.mp3",
+  "listeningQuestion": {
+    "question": "What will Mr. Page do after he retires?",
+    "translation": "佩奇先生退休后会做什么？"
+  },
+  "editorNotes": "本课讲述了一位即将退休的校长斯图亚特·佩奇先生的故事。他执教了40年，学生们准备为他举办告别宴会并赠送礼物。退休后，他将致力于园艺，这对他来说是一种全新的爱好。本课介绍了多个与教育、退休和爱好相关的词汇，如inform、headmaster、contribute、devote等，以及一些常用短语如in one's honour、devote oneself to等。本课还介绍了too和enough的用法区别。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
+      "Pupils of the school, old and new, will be sending him a present to mark the occasion.",
+      "All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.",
+      "We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.",
+      "A great many former pupils will be attending a farewell dinner in his honour next Thursday.",
+      "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years.",
+      "After he has retired, he will devote himself to gardening.",
+      "For him, this will be an entirely new hobby.",
+      "But this does not matter, for, as he has often remarked, one is never too old to learn."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我刚刚收到母校的一封信，通知我说以前的校长斯图亚特·佩奇先生下星期就退休了。",
+      "为了纪念这个日子，学校的学生——无论老同学还是新同学——将送他一件礼物。",
+      "所有凑钱买此礼品的人都将自己的名字签在一本大签名簿上，签名簿将被送到校长的家里。",
+      "我们不会忘记佩奇先生对我们既有耐心又充满理解，也不会忘记在我们不愿去上学时他给予我们的亲切鼓励。",
+      "很多老同学都准备参加下星期四为他举行的告别宴会。",
+      "佩奇先生退休的前一天正好是他执教满40年的日子，这真是奇妙的巧合。",
+      "他退休后，将致力于园艺。",
+      "对于他来说，这将是一种全新的爱好。",
+      "但这没有关系，因为正如他常说的那样，人要活到老学到老。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "inform的用法",
+        "content": [
+          "inform v. 告诉，通知",
+          "1. vt. 通知，告知",
+          "inform sb. of/about sth. 通知某人……",
+          "例如：Who informed you about/of this?（谁告诉你这件事的？）",
+          "inform that… 通知……",
+          "例如：He was informed that he would receive an extra thousand pounds a year.（他被告知每年将获得额外的一千英镑。）",
+          "2. vi. 告发，检举（与against/on连用）",
+          "例如：He used to inform against his classmates.（他过去常常告发他的同学。）",
+          "Several people have informed on him.（几个人告发了他。）"
+        ]
+      },
+      {
+        "title": "devote的用法",
+        "content": [
+          "devote v. 致力于",
+          "devote to + doing 致力于……（to是介词）",
+          "例如：I devote myself to teaching.（我致力于教学。）",
+          "He devoted himself to making money.（他致力于赚钱。）",
+          "注意：类似的用法还有object to + doing sth.（反对做某事）"
+        ]
+      },
+      {
+        "title": "farewell的用法",
+        "content": [
+          "farewell n. 告别，再见；adj. 告别（比goodbye更正式）",
+          "例如：Farewell!（再会！一路平安！）",
+          "He said farewell to his mother and got on the plane.（他向母亲告别后登上了飞机。）",
+          "When Frank retired, they held a farewell party.（当弗兰克退休时，他们举行了一场告别派对。）"
+        ]
+      },
+      {
+        "title": "honour的用法",
+        "content": [
+          "honour n. 敬意",
+          "guard of honour 仪仗队",
+          "in one's honour 为纪念某人，对某人表示尊重",
+          "例如：We will give him a party in his honour.（我们将为他举办一场派对以示敬意。）",
+          "We will give him a dinner in his honour.（我们将为他举办一场晚宴以示敬意。）",
+          "It's my honour.（是我的荣幸）",
+          "It's my honour to do sth. 做某件事情是我的荣幸",
+          "例如：It's my honour to talk with you.（和你交谈是我的荣幸。）",
+          "I'm honoured to do sth. 我感到荣幸",
+          "例如：I'm honoured to talk with you.（和你交谈我感到荣幸。）",
+          "I'm honoured to stand here and give you lessons.（站在这里给你们上课我感到荣幸。）",
+          "I'm honoured to be your teacher.（成为你们的老师我感到荣幸。）"
+        ]
+      },
+      {
+        "title": "too和enough的用法",
+        "content": [
+          "too adv. 太，过分",
+          "enough adv. 足够，十分",
+          "too和enough都可作程度副词，但too通常位于它所修饰的形容词/分词之前，enough则位于它所修饰的词之后。在含有不定式的句型里，too经常具有否定的含义，enough则表示达到必要的程度：",
+          "例如：He is too heavy for me to lift.（他太重了，我举不动。）",
+          "The pear is ripe enough for me to eat.（这个梨已经熟得可以吃了。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "mark the occasion",
+        "translation": "纪念这一时刻",
+        "context": "表示为了纪念某个特殊的日子或事件",
+        "example": "Pupils of the school, old and new, will be sending him a present to mark the occasion.（为了纪念这个日子，学校的学生——无论老同学还是新同学——将送他一件礼物。）"
+      },
+      {
+        "phrase": "contribute towards/to",
+        "translation": "为……捐款，提供给……",
+        "context": "表示为某事提供资金或帮助",
+        "example": "All those who have contributed towards the gift will sign their names in a large album.（所有凑钱买此礼品的人都将自己的名字签在一本大签名簿上。）"
+      },
+      {
+        "phrase": "remember sb. for sth.",
+        "translation": "因为……记住某人，记得……的……",
+        "context": "表示因为某人的某种品质或行为而记住他",
+        "example": "We shall all remember Mr. Page for his patience and understanding.（我们不会忘记佩奇先生对我们既有耐心又充满理解。）"
+      },
+      {
+        "phrase": "in one's honour",
+        "translation": "为向……表示敬意，为纪念某人",
+        "context": "表示为了向某人表示敬意而举办活动",
+        "example": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.（很多老同学都准备参加下星期四为他举行的告别宴会。）"
+      },
+      {
+        "phrase": "devote oneself to",
+        "translation": "致力于……，献身于，专心于",
+        "context": "表示将时间和精力投入到某事中",
+        "example": "After he has retired, he will devote himself to gardening.（他退休后，将致力于园艺。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What will Mr. Page do after he retires?",
+        "options": [
+          "He will travel around the world",
+          "He will write a book about education",
+          "He will devote himself to gardening",
+          "He will continue teaching part-time"
+        ],
+        "answer": 2,
+        "explanation": "根据课文第七句，他退休后，将致力于园艺。"
+      },
+      {
+        "question": "How long will Mr. Page have been teaching when he retires?",
+        "options": [
+          "Thirty years",
+          "Thirty-five years",
+          "Forty years",
+          "Forty-five years"
+        ],
+        "answer": 2,
+        "explanation": "根据课文第六句，佩奇先生退休的前一天正好是他执教满40年的日子。"
+      },
+      {
+        "question": "What is Mr. Page's motto according to the text?",
+        "options": [
+          "Education is the key to success",
+          "One is never too old to learn",
+          "Patience is a virtue",
+          "Life is a journey"
+        ],
+        "answer": 1,
+        "explanation": "根据课文最后一句，正如他常说的那样，人要活到老学到老。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "I have just received a letter from my old school, ___ me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
+        "answer": "informing",
+        "explanation": "根据课文第一句，我刚刚收到母校的一封信，通知我说以前的校长斯图亚特·佩奇先生下星期就退休了。"
+      },
+      {
+        "sentence": "All those who have ___ towards the gift will sign their names in a large album.",
+        "answer": "contributed",
+        "explanation": "根据课文第三句，所有凑钱买此礼品的人都将自己的名字签在一本大签名簿上。"
+      },
+      {
+        "sentence": "After he has retired, he will ___ himself to gardening.",
+        "answer": "devote",
+        "explanation": "根据课文第七句，他退休后，将致力于园艺。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "present和gift的区别：\n\npresent和gift都表示'礼物，赠品'，但gift相对要正式些：\n- She has just received a beautiful birthday present.（她刚刚收到一份漂亮的生日礼物。）\n- He made a gift of $60,000 to his old school.（他向母校捐赠了6万美元。）\n\n在某些场合，gift比present更正式，特别是在表示捐赠或大额礼物时：\n- The foundation made a gift of $1 million to the university.（基金会向大学捐赠了100万美元。）\n- The company presented each employee with a small gift at Christmas.（公司在圣诞节向每位员工赠送了一份小礼物。）\n\n在口语中，present更常用：\n- What did you get for your birthday? I got lots of presents.（你生日收到了什么？我收到了很多礼物。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "在英国的教育体系中，校长（headmaster/headmistress）是学校的管理者和领导者，负责学校的日常运营、教学质量和学生发展。校长的退休通常是一个重要的场合，学校会组织各种活动来感谢他们多年的服务和贡献。\n\n课文中提到的'告别宴会'（farewell dinner）是一种常见的退休仪式，通常由学校、同事或学生组织，以表达对即将退休者的敬意和感谢。这种活动不仅是对个人成就的认可，也是学校社区团结和传承的体现。\n\n'活到老学到老'（Never too old to learn）是一句广为流传的谚语，强调了终身学习的重要性。在现代社会，随着科技的发展和知识的更新，终身学习的理念越来越受到重视。许多退休人士选择学习新的技能或发展新的爱好，这不仅丰富了他们的退休生活，也保持了大脑的活跃和社交的活力。\n\n园艺（gardening）是许多退休人士喜爱的活动，它不仅提供了户外活动的机会，也能带来成就感和美的享受。在英国，园艺是一种非常流行的爱好，许多家庭都有自己的花园，人们会花很多时间和精力来打理。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "inform",
+        "toggle": "vt. 通知；告诉；报告",
+        "isDanger": 1,
+        "phonetic": "ɪnˈfɔːm",
+        "meaning": "v. 告诉，通知"
+      },
+      {
+        "word": "headmaster",
+        "toggle": "n. 校长",
+        "isDanger": 0,
+        "phonetic": "ˌhedˈmɑːstə(r)",
+        "meaning": "n. 校长"
+      },
+      {
+        "word": "contribute",
+        "toggle": "vt. 捐献；贡献，出力；投稿",
+        "isDanger": 1,
+        "phonetic": "kənˈtrɪbjuːt",
+        "meaning": "v. 捐助，援助"
+      },
+      {
+        "word": "gift",
+        "toggle": "n. 礼物；赠品；天赋",
+        "isDanger": 0,
+        "phonetic": "ɡɪft",
+        "meaning": "n. 礼物，赠品"
+      },
+      {
+        "word": "album",
+        "toggle": "n. 相簿；唱片集；集邮簿；签名纪念册",
+        "isDanger": 0,
+        "phonetic": "ˈælbəm",
+        "meaning": "n. 签名簿，相册"
+      },
+      {
+        "word": "patience",
+        "toggle": "n. 耐性，耐心；忍耐，容忍",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪʃ(ə)ns",
+        "meaning": "n. 耐心"
+      },
+      {
+        "word": "encouragement",
+        "toggle": "n. 鼓励",
+        "isDanger": 0,
+        "phonetic": "ɪnˈkʌrɪdʒmənt",
+        "meaning": "n. 鼓励"
+      },
+      {
+        "word": "farewell",
+        "toggle": "n. 告别，辞别；再会；再见",
+        "isDanger": 0,
+        "phonetic": "ˌfeəˈwel",
+        "meaning": "n. 告别"
+      },
+      {
+        "word": "honour",
+        "toggle": "n.尊敬,敬意,荣誉,光荣vt.尊敬,给以荣誉",
+        "isDanger": 0,
+        "phonetic": "ˈɒnə(r)",
+        "meaning": "n. 敬意"
+      },
+      {
+        "word": "coincidence",
+        "toggle": "n. 巧合；一致；同时发生",
+        "isDanger": 0,
+        "phonetic": "kəʊˈɪnsɪdəns",
+        "meaning": "n. 巧合"
+      },
+      {
+        "word": "total",
+        "toggle": "adj. 全部的；整个的；完全的",
+        "isDanger": 1,
+        "phonetic": "ˈtəʊt(ə)l",
+        "meaning": "n. 总数"
+      },
+      {
+        "word": "devote",
+        "toggle": "vt. 奉献；致力于",
+        "isDanger": 1,
+        "phonetic": "dɪˈvəʊt",
+        "meaning": "v. 致力于"
+      },
+      {
+        "word": "gardening",
+        "toggle": "n. 园艺；园林工人的工作",
+        "isDanger": 0,
+        "phonetic": "ˈɡɑːdnɪŋ",
+        "meaning": "n. 园艺"
+      },
+      {
+        "word": "hobby",
+        "toggle": "n. 嗜好；业余爱好",
+        "isDanger": 0,
+        "phonetic": "ˈhɒbi",
+        "meaning": "n. 爱好，嗜好"
+      }
+    ]
+  }
+}

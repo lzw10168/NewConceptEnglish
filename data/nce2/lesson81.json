@@ -1,0 +1,302 @@
+{
+  "id": "nce2--081",
+  "lessonNumber": "081",
+  "title": {
+    "english": "Escape",
+    "chinese": "逃脱"
+  },
+  "lessonInfo": "新概念英语－第2册－第081课",
+  "audioPath": "audio/nce2/081.mp3",
+  "listeningQuestion": {
+    "question": "What did the prisoner do after knocking the driver to the ground?",
+    "translation": "战俘把司机打倒在地后做了什么？"
+  },
+  "editorNotes": "本课讲述了一个战俘成功逃脱的故事。文章描述了他如何杀死卫兵、换上卫兵的衣服、在军营前大胆走动，以及最终如何抢走军官的汽车逃脱。文章介绍了多个与军事和行动相关的词汇，如march、salute、blaze等，以及一些常用短语如up and down、here and there、stand to attention等。本课还介绍了cloth、clothes和clothing的区别，以及salute和greet、clear和clean的区别。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
+      "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
+      "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.",
+      "He could hear shouting in the camp itself.",
+      "Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.",
+      "At that moment, a large black car with four officers inside it, stopped at the camp gates.",
+      "The officers got out and the prisoner stood to attention and saluted as they passed.",
+      "When they had gone, the driver of the car came towards him.",
+      "The man obviously wanted to talk.",
+      "He was rather elderly with grey hair and clear blue eyes.",
+      "The prisoner felt sorry for him, but there was nothing else he could do.",
+      "As the man came near, the prisoner knocked him to the ground with a sharp blow.",
+      "Then, jumping into the car, he drove off as quickly as he could."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "那个战俘杀死卫兵以后，迅速地把尸体拖进了灌木丛。",
+      "他在黑暗中忙活了一阵儿，很快就换上了死者的衣服。",
+      "现在他身穿蓝军装，肩扛步枪，在军营门前大胆地来回走看。",
+      "他听得军营里面的喧闹声。",
+      "那里灯米通明，人们在东奔西跑：他们刚刚发现有一个俘虏跑了。",
+      "正在此时，一辆黑色大轿车在军营门口停了下来。里面坐了4个军官。",
+      "军官们下了车，战俘立正站好，并在他们从他面前经过时敬了礼。",
+      "他们走后，汽车司机向他走来，",
+      "这人显然是想聊天。",
+      "他上了年纪，有着灰白的头发和明亮的蓝眼睛。",
+      "战俘为他感到惋惜，但却没有别的选择。",
+      "当这个人走近时，战俘一拳把他打倒在地，",
+      "然后跳进车里，以最快的速度把车开走了。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "march的用法",
+        "content": [
+          "march v. 行进",
+          "① v.（部队）行军，行进",
+          "② v.（威风凛凛/从容不迫地）走，迅速地走",
+          "例如：Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.（现在他身穿蓝军装，肩扛步枪，在军营门前大胆地来回走看。）",
+          "Jane marched out of the room without saying a word.（简一言不发地走出了房间。）"
+        ]
+      },
+      {
+        "title": "change into的用法",
+        "content": [
+          "change into 换（衣）",
+          "例如：Working rapidly in the darkness, he soon changed into the dead man's clothes.（他在黑暗中忙活了一阵儿，很快就换上了死者的衣服。）",
+          "He changed into his new dress and went to the party.（他换上新衣服去参加派对。）"
+        ]
+      },
+      {
+        "title": "up and down的用法",
+        "content": [
+          "up and down 来回，前后",
+          "例如：Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.（现在他身穿蓝军装，肩扛步枪，在军营门前大胆地来回走看。）",
+          "He was worried about his mother and walked up and down in the room.（他担心他的母亲，在房间里来回走动。）"
+        ]
+      },
+      {
+        "title": "here and there的用法",
+        "content": [
+          "here and there 到处，四处",
+          "例如：Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.（那里灯米通明，人们在东奔西跑：他们刚刚发现有一个俘虏跑了。）",
+          "They went here and there looking for the lost child.（他们到处寻找那个丢失的孩子。）"
+        ]
+      },
+      {
+        "title": "stand to/at attention的用法",
+        "content": [
+          "stand to/at attention 立正",
+          "例如：The officers got out and the prisoner stood to attention and saluted as they passed.（军官们下了车，战俘立正站好，并在他们从他面前经过时敬了礼。）",
+          "The students stood at/to attention while the headmaster made a speech.（校长讲话时，学生们立正站好。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "prisoner of war",
+        "translation": "战俘（缩写为POW）",
+        "context": "指在战争中被俘的士兵",
+        "example": "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.（那个战俘杀死卫兵以后，迅速地把尸体拖进了灌木丛。）"
+      },
+      {
+        "phrase": "up and down",
+        "translation": "来回，前后",
+        "context": "表示在某个区域内来回移动",
+        "example": "The prisoner marched boldly up and down in front of the camp.（战俘在军营门前大胆地来回走看。）"
+      },
+      {
+        "phrase": "here and there",
+        "translation": "到处，四处",
+        "context": "表示在多个地方移动或分布",
+        "example": "Lights were blazing and men were running here and there.（那里灯米通明，人们在东奔西跑。）"
+      },
+      {
+        "phrase": "stand to/at attention",
+        "translation": "立正",
+        "context": "军事用语，表示立正站好",
+        "example": "The prisoner stood to attention and saluted as they passed.（战俘立正站好，并在他们从他面前经过时敬了礼。）"
+      },
+      {
+        "phrase": "knock sb. to the ground",
+        "translation": "把某人打倒在地",
+        "context": "表示用力击打使某人倒地",
+        "example": "As the man came near, the prisoner knocked him to the ground with a sharp blow.（当这个人走近时，战俘一拳把他打倒在地。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What did the prisoner do after killing the guard?",
+        "options": [
+          "He ran away immediately",
+          "He dragged the guard into the bushes",
+          "He shouted for help",
+          "He went back to the camp"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第一句，战俘杀死卫兵后，迅速地把尸体拖进了灌木丛。"
+      },
+      {
+        "question": "What was the prisoner wearing when he marched in front of the camp?",
+        "options": [
+          "His own clothes",
+          "A blue uniform",
+          "A black uniform",
+          "A grey uniform"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第三句，战俘身穿蓝军装，肩扛步枪，在军营门前大胆地来回走看。"
+      },
+      {
+        "question": "What did the prisoner do when the officers passed?",
+        "options": [
+          "He ran away",
+          "He hid behind a bush",
+          "He stood to attention and saluted",
+          "He attacked them"
+        ],
+        "answer": 2,
+        "explanation": "根据课文第七句，军官们下了车，战俘立正站好，并在他们从他面前经过时敬了礼。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The prisoner ___ the guard into the bushes after killing him.",
+        "answer": "dragged",
+        "explanation": "根据课文第一句，战俘杀死卫兵后，迅速地把尸体拖进了灌木丛。"
+      },
+      {
+        "sentence": "The prisoner marched ___ and ___ in front of the camp.",
+        "answer": "up, down",
+        "explanation": "根据课文第三句，战俘在军营门前大胆地来回走看。"
+      },
+      {
+        "sentence": "The prisoner ___ to attention and saluted as the officers passed.",
+        "answer": "stood",
+        "explanation": "根据课文第七句，战俘立正站好，并在军官们从他面前经过时敬了礼。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. cloth、clothes和clothing的区别：\n- cloth n. 布，布料（不可数名词）\n  There's enough cloth for a skirt.（有足够的布料做一条裙子。）\n  Do you think the cloth will wear well?（你认为这布料会耐穿吗？）\n\n- cloth n. 抹布，桌布（可数名词）\n  Wipe up the mess with a cloth.（用抹布擦干净这团乱。）\n\n- clothes n. 衣服，服装（后面动词用复数形式）\n  My clothes are mostly bought from abroad.（我的衣服大多是从国外买的。）\n\n- clothing n. 服装的总称（不可数名词，包括衣服、鞋、帽等）\n  He still needs some winter clothing.（他还需要一些冬装。）\n\n2. salute和greet的区别：\n- salute v. 行军礼，（向……）敬礼\n  The guard saluted as the officers passed.（当军官们经过时，卫兵敬了礼。）\n  The guard saluted the officers.（卫兵向军官们敬了礼。）\n\n- greet v. 打招呼，欢迎，迎接\n  When we arrived, the whole family stood up to greet us.（当我们到达时，全家人站起来迎接我们。）\n  He greeted Dan with a nod.（他向丹点头打招呼。）\n\n3. clear和clean的区别：\n- clear adj. 清澈的，明亮的，晴朗的\n  He was rather elderly with clear blue eyes.（他上了年纪，有着明亮的蓝眼睛。）\n  Seeing that it was a clear day, he drove to the countryside.（看到天气晴朗，他开车去了乡下。）\n\n- clear adj. 清楚的，明确的，明了的\n  I want to make it clear that I'm not paying the bill.（我想明确表示我不会付账。）\n\n- clear adj. 畅通的，无障碍的，无危险的\n  You can drive fast only when you are on a clear road.（只有在道路畅通时，你才能开快车。）\n\n- clean adj. 干净的\n  These cups are not very clean.（这些杯子不太干净。）\n\n- clean adj. 无污点的，无犯罪历史的\n  He has a clean record.（他一贯表现很好（没有前科）。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "战俘（Prisoner of War，简称POW）是指在战争中被敌方俘虏的军事人员。根据《日内瓦公约》，战俘应受到人道主义待遇，包括提供食物、住所、医疗照顾等，并禁止对其进行虐待或强迫劳动。\n\n在历史上，战俘逃脱的故事屡见不鲜。最著名的战俘逃脱事件之一是二战期间的'大逃亡'（The Great Escape），1944年3月，76名盟军战俘从德国Stalag Luft III战俘营成功逃脱，虽然大多数人在几天内被重新抓获，但这一事件成为了勇气和团结的象征。\n\n本课中的战俘通过伪装成卫兵成功逃脱，这是一种常见的逃脱策略。在战争和冲突中，伪装和欺骗常常被用作生存和逃脱的手段。这种策略不仅需要勇气，还需要机智和冷静的头脑。\n\n战俘逃脱的故事在文学和电影中经常出现，如《肖申克的救赎》（The Shawshank Redemption）、《大逃亡》（The Great Escape）等作品都描绘了战俘或囚犯的逃脱经历。这些故事不仅展示了人类的求生本能，也反映了对自由的渴望和对压迫的反抗。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "prisoner",
+        "toggle": "n. 囚犯，犯人；刑事被告；俘虏",
+        "isDanger": 0,
+        "phonetic": "ˈprɪz(ə)nə(r)",
+        "meaning": "n. 囚犯"
+      },
+      {
+        "word": "bush",
+        "toggle": "n.矮树丛,(机械)衬套",
+        "isDanger": 0,
+        "phonetic": "bʊʃ",
+        "meaning": "n. 灌木丛"
+      },
+      {
+        "word": "rapidly",
+        "toggle": "adv. 迅速地；很快地；立即",
+        "isDanger": 0,
+        "phonetic": "ˈræpɪdli",
+        "meaning": "adv. 迅速地"
+      },
+      {
+        "word": "uniform",
+        "toggle": "adj. 一致的；统一的；相同的；始终如一的；均衡的",
+        "isDanger": 0,
+        "phonetic": "ˈjuːnɪfɔːm",
+        "meaning": "n. 制服"
+      },
+      {
+        "word": "rifle",
+        "toggle": "n. 步枪；来复枪",
+        "isDanger": 0,
+        "phonetic": "ˈraɪf(ə)l",
+        "meaning": "n. 来福枪，步枪"
+      },
+      {
+        "word": "shoulder",
+        "toggle": "n. 肩，肩膀；肩部",
+        "isDanger": 0,
+        "phonetic": "ˈʃəʊldə(r)",
+        "meaning": "n. 肩"
+      },
+      {
+        "word": "march",
+        "toggle": "n. 进行曲；行军，进军；示威游行",
+        "isDanger": 0,
+        "phonetic": "mɑːtʃ",
+        "meaning": "v. 行进"
+      },
+      {
+        "word": "boldly",
+        "toggle": "adv. 大胆地；冒失地；显眼地",
+        "isDanger": 0,
+        "phonetic": "ˈbəʊldli",
+        "meaning": "adj. 大胆地"
+      },
+      {
+        "word": "blaze",
+        "toggle": "vt. 在树皮上刻路标；公开宣布",
+        "isDanger": 0,
+        "phonetic": "bleɪz",
+        "meaning": "v. 闪耀"
+      },
+      {
+        "word": "salute",
+        "toggle": "n. 敬礼；致敬，欢迎",
+        "isDanger": 0,
+        "phonetic": "səˈluːt",
+        "meaning": "v. 行礼"
+      },
+      {
+        "word": "elderly",
+        "toggle": "adj. 过了中年的；稍老的；上了年纪的",
+        "isDanger": 0,
+        "phonetic": "ˈeldəli",
+        "meaning": "adj. 上了年纪的"
+      },
+      {
+        "word": "grey",
+        "toggle": "adj. 灰色的；（头发）灰白的",
+        "isDanger": 0,
+        "phonetic": "ɡreɪ",
+        "meaning": "adj. 灰白的"
+      },
+      {
+        "word": "sharp",
+        "toggle": "adj. 急剧的；锋利的；刺耳的；敏捷的；强烈的",
+        "isDanger": 1,
+        "phonetic": "ʃɑːp",
+        "meaning": "adj. 猛烈的"
+      },
+      {
+        "word": "blow",
+        "toggle": "n. 吹；殴打；打击",
+        "isDanger": 1,
+        "phonetic": "bləʊ",
+        "meaning": "n. 打击"
+      }
+    ]
+  }
+}

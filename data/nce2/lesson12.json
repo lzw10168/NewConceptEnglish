@@ -1,0 +1,193 @@
+{
+  "id": "nce2--012",
+  "lessonNumber": "012",
+  "title": {
+    "english": "Goodbye and good luck",
+    "chinese": "再见，一路顺风"
+  },
+  "lessonInfo": "新概念英语－第2册－第012课",
+  "audioPath": "audio/nce2/012.mp3",
+  "listeningQuestion": {
+    "question": "What will Captain Alison do?",
+    "translation": "艾利森船长要做什么？"
+  },
+  "editorNotes": "本课讲述了一个关于船长参加横渡大西洋比赛的故事，介绍了一般将来时的用法和be+副词的表语结构。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+      "We'll meet him at the harbour early in the morning.",
+      "He will be in his small boat, Topsail.",
+      "Topsail is a famous little boat.",
+      "It has sailed across the Atlantic many times.",
+      "Captain Alison will set out at eight o'clock, so we'll have plenty of time.",
+      "We'll see his boat and then we'll say goodbye to him.",
+      "He will be away for two months.",
+      "We are very proud of him.",
+      "He will take part in an important race across the Atlantic."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我们的邻居查尔斯·艾利森船长明天就要从朴次茅斯启航了。",
+      "明天一大早我们将在码头为他送行。",
+      "他将乘坐他的'涛波赛'号小艇。",
+      "'涛波赛'号是艘有名的小艇。",
+      "它已经多次横渡大西洋。",
+      "艾利森船长将于8点钟启航，因此我们有充裕的时间。",
+      "我们将参观他的船，然后和他告别。",
+      "他要离开两个月。",
+      "我们真为他感到自豪。",
+      "他将参加一次重大的横渡大西洋的比赛。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "luck",
+        "toggle": "n. 运气；幸运；带来好运的东西",
+        "isDanger": 0,
+        "phonetic": "lʌk",
+        "meaning": "n. 运气，幸运"
+      },
+      {
+        "word": "captain",
+        "toggle": "n. 船长；队长，首领；上尉；海军上校",
+        "isDanger": 0,
+        "phonetic": "ˈkæptɪn",
+        "meaning": "n. 船长"
+      },
+      {
+        "word": "sail",
+        "toggle": "vi. 航行；启航，开船",
+        "isDanger": 0,
+        "phonetic": "seɪl",
+        "meaning": "v. 航行"
+      },
+      {
+        "word": "harbour",
+        "toggle": "n. 港口；避难所，避风港",
+        "isDanger": 0,
+        "phonetic": "ˈhɑːbə(r)",
+        "meaning": "n. 港口"
+      },
+      {
+        "word": "proud",
+        "toggle": "adj. 自豪的；自负的；得意的",
+        "isDanger": 0,
+        "phonetic": "praʊd",
+        "meaning": "adj. 自豪"
+      },
+      {
+        "word": "important",
+        "toggle": "adj. 重要的，重大的；有地位的；有权力的",
+        "isDanger": 1,
+        "phonetic": "ɪmˈpɔːt(ə)nt",
+        "meaning": "adj. 重要的"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "一般将来时的基本用法",
+        "content": "一般将来时表示将要发生的动作或存在的状态。基本结构为shall/will + 动词原形，如'will sail', 'will meet'等。shall常用于第一人称，will可用于所有人称。"
+      },
+      {
+        "title": "时间短语的表达",
+        "content": "在表示时间的短语in the morning前可以加上early, late等副词，以便确切地表示时间。如early in the morning表示'一大早'。"
+      },
+      {
+        "title": "be+副词构成的表语",
+        "content": "动词be与不同的副词连用可表达不同的意义：be in(在家)，be out(出去)，be away(离开)，be back(回来)等。如He will be away for two months."
+      },
+      {
+        "title": "set+副词构成的短语动词",
+        "content": "set与副词构成多个常用短语：set out/set off(出发)，set up(建立)等。如Captain Alison will set out at eight o'clock."
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "good luck",
+        "translation": "祝你好运",
+        "context": "用于祝愿他人好运",
+        "example": "Good luck with your race!"
+      },
+      {
+        "phrase": "take part in",
+        "translation": "参加，参与",
+        "context": "表示参与某项活动",
+        "example": "He will take part in an important race."
+      },
+      {
+        "phrase": "be proud of",
+        "translation": "为...感到自豪",
+        "context": "表示对某人或某事感到骄傲",
+        "example": "We are very proud of him."
+      },
+      {
+        "phrase": "plenty of",
+        "translation": "充足的，足够的",
+        "context": "表示数量充足",
+        "example": "We'll have plenty of time."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "When will Captain Alison set out?",
+        "options": [
+          "At seven o'clock",
+          "At eight o'clock",
+          "Early in the morning",
+          "Late in the morning"
+        ],
+        "answer": 1,
+        "explanation": "课文中明确提到Captain Alison will set out at eight o'clock。"
+      },
+      {
+        "question": "How long will Captain Alison be away?",
+        "options": [
+          "One month",
+          "Two months",
+          "Three months",
+          "Four months"
+        ],
+        "answer": 1,
+        "explanation": "课文中提到He will be away for two months。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Topsail _____ across the Atlantic many times.",
+        "answer": "has sailed",
+        "hint": "使用现在完成时，表示过去发生且持续到现在的动作"
+      },
+      {
+        "sentence": "We are very _____ of him.",
+        "answer": "proud",
+        "hint": "形容词，表示自豪的感觉"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "横渡大西洋比赛",
+        "content": "横渡大西洋的帆船比赛是一项极具挑战性的水上运动项目。参赛者需要面对各种天气条件和海况，这不仅需要专业的航海技术，还需要极大的勇气和毅力。"
+      },
+      {
+        "title": "航海用语",
+        "content": "本课涉及多个航海相关词汇：sail(航行)，harbour(港口)，boat(小船)等。在航海活动中，这些词汇的准确使用非常重要。port和harbour都表示港口，但port通常指较大的商业港口，而harbour可以指任何供船只停泊的港湾。"
+      }
+    ]
+  }
+}

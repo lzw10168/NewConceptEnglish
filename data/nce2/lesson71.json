@@ -1,0 +1,270 @@
+{
+  "id": "nce2--071",
+  "lessonNumber": "071",
+  "title": {
+    "english": "A famous clock",
+    "chinese": "一个著名的大钟"
+  },
+  "lessonInfo": "新概念英语－第2册－第071课",
+  "audioPath": "audio/nce2/071.mp3",
+  "listeningQuestion": {
+    "question": "Why did Big Ben fail to give the correct time once?",
+    "translation": "为什么大本钟有一次没有报出正确的时间？"
+  },
+  "editorNotes": "本课介绍了伦敦著名的大本钟（Big Ben）。文章讲述了这座钟的历史背景、命名由来、准确性和一次有趣的故障。大本钟是伦敦的标志性建筑，通过英国广播公司（BBC）的广播，它的钟声传遍全世界。文章通过这个生动的故事，展示了虚拟语气、被动语态、形容词与介词搭配等语法结构，以及一些表示'命名'、'负责'、'故障'和'减速'的表达方式。文章还展示了如何描述历史事件和建筑特征，以及一些常见的英语表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.",
+      "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
+      "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
+      "It is not only of immense size, but is extremely accurate as well.",
+      "Officials from Greenwich Observatory have the clock checked twice a day.",
+      "On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower.",
+      "Big Ben has rarely gone wrong.",
+      "Once, however, it failed to give the correct time.",
+      "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "当你游览伦敦时，首先看到的东西之一就是'大本'钟，即那座从英国广播公司的广播中全世界都可以听到它的声音的著名大钟。",
+      "如果不是国会大厦在1834年被焚毁的话，这座大钟永远也不会建造。",
+      "'大本'钟得名于本杰明·霍尔爵士，因为当建造新的国会大厦时，他负责建造大钟。",
+      "此钟不仅外型巨大，而且走时也非常准确。",
+      "格林尼治天文台的官员们每天两次派人矫正此钟。",
+      "当大钟打点的时候，你可以从英国广播公司的广播中听到，因为钟塔上接了麦克风。",
+      "'大本'钟很少出差错。",
+      "然而有一次，它却把时间报错。",
+      "在钟塔上干活的一位油漆工把一只油漆桶挂在了一根指针上，把钟弄慢了！"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "虚拟语气",
+        "content": [
+          "虚拟语气用于表示与事实相反的假设或不可能发生的事情。在if从句中，如果表示与过去事实相反，使用had + 过去分词；主句使用would/could/might + have + 过去分词。",
+          "例如：If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.（如果国会大厦在1834年没有被焚毁，这座大钟就永远不会被建造。）",
+          "If I had known about the meeting, I would have attended it.（如果我知道有会议，我就会参加了。）",
+          "If she had studied harder, she would have passed the exam.（如果她学习更努力，她就会通过考试了。）"
+        ]
+      },
+      {
+        "title": "被动语态",
+        "content": [
+          "被动语态用于强调动作的承受者或结果，而不是动作的执行者。被动语态由be + 过去分词构成。",
+          "例如：The Houses of Parliament had been burned down in 1834.（国会大厦在1834年被焚毁。）",
+          "Officials from Greenwich Observatory have the clock checked twice a day.（格林尼治天文台的官员们每天两次派人矫正此钟。）",
+          "The book was written by a famous author.（这本书是由一位著名作家写的。）"
+        ]
+      },
+      {
+        "title": "形容词与of连用",
+        "content": [
+          "形容词与of连用表示人或物的特征。",
+          "例如：It is not only of immense size, but is extremely accurate as well.（此钟不仅外型巨大，而且走时也非常准确。）",
+          "This letter is of great importance.（这封信非常重要。）",
+          "We are of the same age.（我们年龄相同。）"
+        ]
+      },
+      {
+        "title": "现在完成时",
+        "content": [
+          "现在完成时用于表示过去发生的动作对现在造成的影响或结果。现在完成时由have/has + 过去分词构成。",
+          "例如：Big Ben has rarely gone wrong.（大本钟很少出差错。）",
+          "I have finished my homework.（我已经完成了作业。）",
+          "She has lived in London for ten years.（她在伦敦住了十年了。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "take one's name from",
+        "translation": "以...命名",
+        "context": "表示某物以某人或某物命名",
+        "example": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock."
+      },
+      {
+        "phrase": "be responsible for",
+        "translation": "对...负责",
+        "context": "表示对某事负有责任",
+        "example": "Sir Benjamin Hall who was responsible for the making of the clock."
+      },
+      {
+        "phrase": "be of...",
+        "translation": "具有...特征",
+        "context": "表示人或物的特征",
+        "example": "It is not only of immense size, but is extremely accurate as well."
+      },
+      {
+        "phrase": "go wrong",
+        "translation": "出故障，出毛病",
+        "context": "表示机器等发生故障",
+        "example": "Big Ben has rarely gone wrong."
+      },
+      {
+        "phrase": "slow down",
+        "translation": "减速，慢下来",
+        "context": "表示使某物减速或慢下来",
+        "example": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!"
+      },
+      {
+        "phrase": "burn down",
+        "translation": "烧毁，烧成平地",
+        "context": "表示建筑物被完全烧毁",
+        "example": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Big Ben takes its name from Sir Benjamin Hall. It ___ Sir Benjamin Hall.",
+        "options": [
+          "names",
+          "calls",
+          "is called after",
+          "is named"
+        ],
+        "answer": 2,
+        "explanation": "take one's name from表示以某人或某物命名，所以选is called after。"
+      },
+      {
+        "question": "Sir Benjamin Hall was responsible for the making of the clock. He ___ the clock.",
+        "options": [
+          "made",
+          "ordered",
+          "had made",
+          "was in charge of making"
+        ],
+        "answer": 3,
+        "explanation": "be responsible for表示对某事负有责任，所以选was in charge of making。"
+      },
+      {
+        "question": "Big Ben has rarely gone wrong. It has ___.",
+        "options": [
+          "stopped",
+          "broken",
+          "failed",
+          "malfunctioned"
+        ],
+        "answer": 3,
+        "explanation": "go wrong表示出故障，所以选malfunctioned。"
+      },
+      {
+        "question": "The painter slowed it down. He ___.",
+        "options": [
+          "slowed it",
+          "slowed down",
+          "slowed it down",
+          "slowed down it"
+        ],
+        "answer": 2,
+        "explanation": "slow down表示减速，所以选slowed it down。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Big Ben ___ its name from Sir Benjamin Hall.",
+        "answer": "takes",
+        "explanation": "take one's name from表示以某人或某物命名。"
+      },
+      {
+        "sentence": "Sir Benjamin Hall was ___ for the making of the clock.",
+        "answer": "responsible",
+        "explanation": "be responsible for表示对某事负有责任。"
+      },
+      {
+        "sentence": "Big Ben has rarely ___ wrong.",
+        "answer": "gone",
+        "explanation": "go wrong表示出故障。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Official, Employee和Shop assistant的区别：\n- official: 官员，公务员，高级官员\n  Bank officials get high salaries.（银行官员薪水很高。）\n  Before he retired, Jeremy had been a government official.（在退休前，杰里米是一名政府官员。）\n\n- employee: 雇员，雇工（包括各个层次的）\n  Later he became a government employee.（后来他成为了一名政府雇员。）\n\n- shop assistant: 零售店的店员（美语中用salesclerk）\n  The shop assistant who served her did not like the way she was dressed.（接待她的店员不喜欢她的穿着方式。）\n\n2. Hang/Hung和Hang/Hanged的区别：\n- hang（hung，hung）: 悬挂\n  I'm hanging this picture on the wall.（我正在把这张画挂在墙上。）\n\n- hang（hanged，hanged）: 绞死，吊死，上吊\n  As he has murdered three men, he ought to be hanged.（因为他谋杀了三个人，他应该被绞死。）\n  I wonder why she hanged herself.（我想知道她为什么上吊自杀。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "大本钟（Big Ben）是伦敦最著名的地标之一，位于威斯敏斯特宫（Palace of Westminster）的北端。虽然大本钟通常指的是钟楼上的大钟，但实际上'Big Ben'是钟楼内最大的钟的昵称，而钟楼本身被称为'伊丽莎白塔'（Elizabeth Tower）。\n\n大本钟建于1859年，是为了纪念本杰明·霍尔爵士（Sir Benjamin Hall）而命名的，他是负责监督钟楼建造的专员。钟楼高96米，钟面直径7米，钟重13.5吨。\n\n大本钟的钟声通过英国广播公司（BBC）的广播传遍全世界，成为英国的国际象征之一。每年新年，数百万人在电视上观看大本钟敲响午夜钟声。\n\n格林尼治天文台（Greenwich Observatory）位于伦敦东南部的格林尼治公园内，是英国最古老的天文台之一。它建于1675年，用于天文观测和航海导航。格林尼治时间（GMT）就是从这里开始的，它是世界标准时间的基准。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "parliament",
+        "toggle": "n. 议会，国会",
+        "isDanger": 0,
+        "phonetic": "ˈpɑːləmənt",
+        "meaning": "n. 议会，国会"
+      },
+      {
+        "word": "erect",
+        "toggle": "vt. 使竖立；建造；安装",
+        "isDanger": 0,
+        "phonetic": "ɪˈrekt",
+        "meaning": "v. 建起"
+      },
+      {
+        "word": "accurate",
+        "toggle": "adj. 精确的",
+        "isDanger": 0,
+        "phonetic": "ˈækjərət",
+        "meaning": "adj. 准确的"
+      },
+      {
+        "word": "official",
+        "toggle": "adj. 正式的；官方的；公务的",
+        "isDanger": 0,
+        "phonetic": "əˈfɪʃ(ə)l",
+        "meaning": "n. 官员，行政人员"
+      },
+      {
+        "word": "Greenwich",
+        "toggle": "n.格林威治(位于英国伦敦东南部,为本初子午线所经之地,原设有英国皇家格林威治天文台),格林威治镇(位于美国康涅狄格州)",
+        "isDanger": 0,
+        "phonetic": "ˈɡrenɪtʃ",
+        "meaning": "n. 格林尼治"
+      },
+      {
+        "word": "observatory",
+        "toggle": "n. 瞭望台；气象台；天文台",
+        "isDanger": 0,
+        "phonetic": "əbˈzɜːvətri",
+        "meaning": "n. 天文台"
+      },
+      {
+        "word": "check",
+        "toggle": "vi. 证明无误；核对无误；将军（象棋）",
+        "isDanger": 0,
+        "phonetic": "tʃek",
+        "meaning": "v. 检查"
+      },
+      {
+        "word": "microphone",
+        "toggle": "n. 扩音器，麦克风",
+        "isDanger": 0,
+        "phonetic": "ˈmaɪkrəfəʊn",
+        "meaning": "n. 扩音器，麦克风"
+      },
+      {
+        "word": "tower",
+        "toggle": "n. 塔；高楼；堡垒",
+        "isDanger": 0,
+        "phonetic": "ˈtaʊə(r)",
+        "meaning": "v. 塔"
+      }
+    ]
+  }
+}

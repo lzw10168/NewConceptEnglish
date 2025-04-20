@@ -1,0 +1,250 @@
+{
+  "id": "nce2--039",
+  "lessonNumber": "039",
+  "title": {
+    "english": "Am I all right?",
+    "chinese": "我好了吗？"
+  },
+  "lessonInfo": "新概念英语－第2册－第039课",
+  "audioPath": "audio/nce2/039.mp3",
+  "listeningQuestion": {
+    "question": "Why did Mr. Gilbert telephone the hospital exchange?",
+    "translation": "为什么吉尔伯特先生打电话到医院交换台？"
+  },
+  "editorNotes": "本课讲述了一个病人通过电话询问自己手术情况的有趣故事。重点学习直接引语和间接引语的转换，以及一些常用词汇的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.",
+      "The following day, the patient asked for a bedside telephone.",
+      "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
+      "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.",
+      "He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.",
+      "He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks.",
+      "Then Dr. Millington asked the caller if he was a relative of the patient.",
+      "'No,' the patient answered, 'I am Mr. John Gilbert.'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "当约翰·吉尔伯特住院的时候，他问医生他的手术是否成功，但医生拒绝告诉他。",
+      "第二天，这位病人要了一部床头电话。",
+      "当房里只剩他一个人时，他挂通了医院的交换台，要求与米灵顿医生讲话。",
+      "当这位医生接过电话时，吉尔伯特先生说他想询问一个病人的情况，是一位名叫约翰·吉尔伯特的先生。",
+      "他问吉尔伯特先生的手术是否成功，医生告诉他手术很成功。",
+      "然后他又问吉尔伯特先生什么时候可以回家，医生说他在医院还必须再住上两个星期。",
+      "之后，米灵顿医生问打电话的人是否是病人的亲属。",
+      "'不是，'病人回答说，'我就是约翰·吉尔伯特先生。'"
+    ]
+  },
+  "newwords": {
+    "heading": "生词和短语",
+    "notes": [
+      {
+        "word": "operation",
+        "toggle": "n. 操作；手术；经营；运算",
+        "isDanger": 0,
+        "phonetic": "ˌɒpəˈreɪʃ(ə)n",
+        "meaning": "n. 手术"
+      },
+      {
+        "word": "successful",
+        "toggle": "adj. 成功的；一帆风顺的",
+        "isDanger": 0,
+        "phonetic": "səkˈsesf(ə)l",
+        "meaning": "adj. 成功的"
+      },
+      {
+        "word": "following",
+        "toggle": "adj. 其次的，接着的；下面的",
+        "isDanger": 1,
+        "phonetic": "ˈfɒləʊɪŋ",
+        "meaning": "adj. 下一个"
+      },
+      {
+        "word": "patient",
+        "toggle": "adj. 有耐性的，能容忍的",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪʃ(ə)nt",
+        "meaning": "n. 病人"
+      },
+      {
+        "word": "alone",
+        "toggle": "adj. 单独的；孤独的；独自的",
+        "isDanger": 0,
+        "phonetic": "əˈləʊn",
+        "meaning": "adj. 独自的"
+      },
+      {
+        "word": "exchange",
+        "toggle": "n. 交换；兑换；交易所；交流",
+        "isDanger": 1,
+        "phonetic": "ɪksˈtʃeɪndʒ",
+        "meaning": "n. （电话的）交换台"
+      },
+      {
+        "word": "inquire",
+        "toggle": "vt. 询问；问明；查究",
+        "isDanger": 1,
+        "phonetic": "ɪnˈkwaɪə(r)",
+        "meaning": "v. 询问，打听"
+      },
+      {
+        "word": "certain",
+        "toggle": "adj. 某一；确信；无疑的；有把握的；必然的",
+        "isDanger": 1,
+        "phonetic": "ˈsɜːt(ə)n",
+        "meaning": "adj. 某个"
+      },
+      {
+        "word": "caller",
+        "toggle": "n. 呼叫者；打电话者；访客；召集员",
+        "isDanger": 0,
+        "phonetic": "ˈkɔːlə(r)",
+        "meaning": "n. 打电话的人"
+      },
+      {
+        "word": "relative",
+        "toggle": "adj. 相对的；有关系的；成比例的",
+        "isDanger": 1,
+        "phonetic": "ˈrelətɪv",
+        "meaning": "n. 亲戚"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点",
+    "notes": [
+      {
+        "title": "直接引语和间接引语",
+        "content": "直接引语的疑问句变为间接引语的疑问句时引号和问号不再使用，且直接疑问句中的倒装语序在转述疑问句里要还原为陈述句语序（主语+动词），有必要还要改变时态。转述一般疑问句时必须使用if或whether，不可省略，助动词do/does和did在转述疑问句里消失了。"
+      },
+      {
+        "title": "so的用法",
+        "content": "so在这里是代词，代替前面的动词不定式（to tell him whether…）。它一般出现在believe，do，expect，hope，say，tell，think，appear等之后。例如：Is it true that John has had an operation? I am afraid so./I believe so./I think so./It seems so."
+      },
+      {
+        "title": "ask for的用法",
+        "content": "ask for表示'请求，索要，要求（得到某个东西）'。在课文中，'asked for a bedside telephone'表示'要了一部床头电话'，而'asked for Doctor Millington'表示'要求与米灵顿医生通话'。"
+      },
+      {
+        "title": "another的用法",
+        "content": "another作为限定词表示'另一个，再一个'的时候，通常与可数的单数名词连用，不和复数形式连用；但是后面可以跟基数词/few+复数名词（它们被当成一个整体）。例如：I need another three driving lessons before my test. 考试前我还需上3节驾驶课。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语",
+    "notes": [
+      {
+        "phrase": "all right",
+        "translation": "安然无恙的，良好的",
+        "context": "当指人的健康状况时使用",
+        "example": "I was not very well last week, but I feel all right now."
+      },
+      {
+        "phrase": "the following day",
+        "translation": "第二天",
+        "context": "表示紧接着的，其次的",
+        "example": "The following day, the patient asked for a bedside telephone."
+      },
+      {
+        "phrase": "ask for",
+        "translation": "请求，索要，要求",
+        "context": "表示要求得到某个东西或要求某人来",
+        "example": "The patient asked for a bedside telephone."
+      },
+      {
+        "phrase": "for another two weeks",
+        "translation": "再两个星期",
+        "context": "表示额外的时间",
+        "example": "He would have to stay in hospital for another two weeks."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "John Gilbert was in hospital. He was taken ___ hospital last week.",
+        "options": [
+          "at",
+          "in",
+          "to",
+          "on"
+        ],
+        "answer": 2,
+        "explanation": "take sb. to hospital 送某人去医院"
+      },
+      {
+        "question": "___? A bedside telephone.",
+        "options": [
+          "For what did he ask",
+          "What did he ask",
+          "For what did he ask for",
+          "What did he ask for"
+        ],
+        "answer": 3,
+        "explanation": "for what 因为……（在疑问句中＝why），ask for 要求得到"
+      },
+      {
+        "question": "He will have to stay in hospital. That's what he ___.",
+        "options": [
+          "has done",
+          "must do",
+          "must be doing",
+          "must have done"
+        ],
+        "answer": 1,
+        "explanation": "must+ v.(原形)＝have to 不得不；很可能（对现在或者将来的推测）"
+      },
+      {
+        "question": "He was alone. He was ___.",
+        "options": [
+          "on his own",
+          "lonely",
+          "with himself",
+          "unique"
+        ],
+        "answer": 0,
+        "explanation": "on one's own ＝ alone"
+      },
+      {
+        "question": "He inquired about a patient. He wanted ___.",
+        "options": [
+          "informations",
+          "information",
+          "knowledges",
+          "knowledge"
+        ],
+        "answer": 1,
+        "explanation": "information 是不可数名词，表示'信息'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The doctor refused to tell him whether his operation had been successful, ___ he asked.",
+        "answer": "but",
+        "hint": "表示转折的连词"
+      },
+      {
+        "sentence": "He telephoned the hospital exchange and asked ___ Doctor Millington.",
+        "answer": "for",
+        "hint": "表示要求某人来的介词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容",
+    "notes": [
+      {
+        "title": "医院文化",
+        "content": "在英语国家的医院中，医生通常会向病人隐瞒一些病情信息，特别是当病情严重时。这种做法被称为'仁慈的谎言'，目的是减轻病人的心理负担。本课中的故事反映了病人对自身病情信息的渴望。"
+      },
+      {
+        "title": "电话礼仪",
+        "content": "在英语国家，打电话时通常需要先自我介绍，然后说明打电话的目的。本课中吉尔伯特先生通过假装是别人来获取信息，这是一种巧妙但不太诚实的方式。"
+      }
+    ]
+  }
+}

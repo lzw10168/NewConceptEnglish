@@ -1,0 +1,240 @@
+{
+  "id": "nce2--037",
+  "lessonNumber": "037",
+  "title": {
+    "english": "The Olympic Games",
+    "chinese": "奥林匹克运动会"
+  },
+  "lessonInfo": "新概念英语－第2册－第037课",
+  "audioPath": "audio/nce2/037.mp3",
+  "listeningQuestion": {
+    "question": "When will the Olympic Games be held in this country?",
+    "translation": "奥运会将在什么时候在这个国家举办？"
+  },
+  "editorNotes": "本课讲述了一个国家准备举办奥运会的故事。课文使用了将来完成时等时态，介绍了一些重要的语法点，如'look'的短语用法等。同时展示了举办大型体育赛事需要的各种准备工作。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The Olympic Games will be held in our country in four years' time.",
+      "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.",
+      "They will also be building new roads and a special railway line.",
+      "The Games will be held just outside the capital and the whole area will be called 'Olympic City'.",
+      "Workers will have completed the new roads by the end of this year.",
+      "By the end of next year, they will have finished work on the new stadium.",
+      "The fantastic modern buildings have been designed by Kurt Gunter.",
+      "Everybody will be watching anxiously as the new buildings go up.",
+      "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "4年以后，奥林匹克运动会将在我们国家举行。",
+      "由于将有大批的人到我们国家来，所以政府准备建造一些新的饭店、一个大型体育场和一个新的奥运会标准游泳池。",
+      "他们还将修筑一些新的道路和一条铁路专线。",
+      "奥运会就在首都市郊举办，整个地区将被称作'奥林匹克城'。",
+      "工人们将在今年年底前把新路铺好。",
+      "到明年年底，他们将把新体育场建成。",
+      "这些巨大的现代化建筑是由库尔特·冈特设计的。",
+      "大家都将急切地注视着新建筑的建成。",
+      "我们都非常激动，盼望着奥运会的到来，因为在这个国家里还从未举办过奥运会。"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "olympic",
+        "toggle": "adj. 奥林匹斯山的，奥林匹亚的；奥林匹克的",
+        "isDanger": 0,
+        "phonetic": "əˈlɪmpɪk",
+        "meaning": "adj. 奥林匹克的"
+      },
+      {
+        "word": "hold",
+        "toggle": "vt. 持有；保存；拥有；拘留；约束或控制",
+        "isDanger": 1,
+        "phonetic": "həʊld",
+        "meaning": "v. 召开"
+      },
+      {
+        "word": "government",
+        "toggle": "n. 政府；管辖；政体",
+        "isDanger": 0,
+        "phonetic": "ˈɡʌvənmənt",
+        "meaning": "n. 政府"
+      },
+      {
+        "word": "immense",
+        "toggle": "adj. 巨大的，广大的；无边无际的； [ 口 ] 非常好的",
+        "isDanger": 0,
+        "phonetic": "ɪˈmens",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "stadium",
+        "toggle": "n. 露天大型运动场；体育场",
+        "isDanger": 0,
+        "phonetic": "ˈsteɪdiəm",
+        "meaning": "n. 露天体育场"
+      },
+      {
+        "word": "standard",
+        "toggle": "n. 标准；度量衡标准；旗；水准",
+        "isDanger": 0,
+        "phonetic": "ˈstændəd",
+        "meaning": "n. 标准"
+      },
+      {
+        "word": "capital",
+        "toggle": "n. 首都，省会；大写字母；资金；资本家",
+        "isDanger": 0,
+        "phonetic": "ˈkæpɪt(ə)l",
+        "meaning": "n. 首都"
+      },
+      {
+        "word": "fantastic",
+        "toggle": "adj. 奇异的；极好的；空想的；不可思议的",
+        "isDanger": 1,
+        "phonetic": "fænˈtæstɪk",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "design",
+        "toggle": "vt. 设计；计划；构思",
+        "isDanger": 1,
+        "phonetic": "dɪˈzaɪn",
+        "meaning": "v. 设计"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "将来完成时",
+        "content": [
+          "will have + 过去分词，表示到将来某一时刻已经完成的动作",
+          "常与by和not...till/until连用",
+          "例句：Workers will have completed the new roads by the end of this year"
+        ]
+      },
+      {
+        "title": "look的短语用法",
+        "content": [
+          "look forward to: 期待（后接名词、代词或动名词）",
+          "look out: 当心，留神",
+          "look up: 查阅；拜访",
+          "例句：We are looking forward to the Olympic Games"
+        ]
+      },
+      {
+        "title": "as的用法",
+        "content": [
+          "作为连词，可表示原因，通常位于句首",
+          "也可表示时间，相当于while",
+          "例句：As a great many people will be visiting the country..."
+        ]
+      },
+      {
+        "title": "时间表达",
+        "content": [
+          "in four years' time: 四年之后",
+          "by the end of this year: 到今年年底前",
+          "例句：The Olympic Games will be held in our country in four years' time"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "look forward to",
+        "translation": "期待",
+        "context": "表示对未来事件的期待",
+        "example": "We are looking forward to the Olympic Games."
+      },
+      {
+        "phrase": "by the end of",
+        "translation": "到...为止",
+        "context": "表示在某个时间点之前",
+        "example": "Workers will have completed the new roads by the end of this year."
+      },
+      {
+        "phrase": "a great many",
+        "translation": "许多，大量",
+        "context": "表示数量很多",
+        "example": "A great many people will be visiting the country."
+      },
+      {
+        "phrase": "go up",
+        "translation": "建起来",
+        "context": "表示建筑物正在建造",
+        "example": "Everybody will be watching anxiously as the new buildings go up."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "When will the Olympic Games be held in this country?",
+        "options": [
+          "In two years' time",
+          "In three years' time",
+          "In four years' time",
+          "In five years' time"
+        ],
+        "answer": 2,
+        "explanation": "课文开头提到The Olympic Games will be held in our country in four years' time."
+      },
+      {
+        "question": "What will be completed by the end of this year?",
+        "options": [
+          "The new stadium",
+          "The new roads",
+          "The new hotels",
+          "The swimming pool"
+        ],
+        "answer": 1,
+        "explanation": "课文提到Workers will have completed the new roads by the end of this year."
+      },
+      {
+        "question": "Who designed the new buildings?",
+        "options": [
+          "The government",
+          "The workers",
+          "Kurt Gunter",
+          "The Olympic Committee"
+        ],
+        "answer": 2,
+        "explanation": "课文提到The fantastic modern buildings have been designed by Kurt Gunter."
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The Olympic Games will be _____ in our country in four years' time.",
+        "answer": "held",
+        "hint": "表示'举行'的动词"
+      },
+      {
+        "sentence": "The whole area will be called '_____ City'.",
+        "answer": "Olympic",
+        "hint": "与奥运会相关的形容词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词语辨析",
+        "content": "immense, fantastic, huge等都表示'巨大的'，但用法不同：immense强调无边无际；fantastic强调令人惊叹；huge强调体积庞大。"
+      },
+      {
+        "title": "文化背景",
+        "content": "奥运会是世界上最大的综合性运动会，举办国往往会投入大量资源进行基础设施建设，这不仅为赛事服务，也能促进举办城市的发展。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "nce2--014",
+  "lessonNumber": "014",
+  "title": {
+    "english": "Do you speak English?",
+    "chinese": "你会说英语吗？"
+  },
+  "lessonInfo": "新概念英语－第2册－第014课",
+  "audioPath": "audio/nce2/014.mp3",
+  "listeningQuestion": {
+    "question": "What language did they speak at first?",
+    "translation": "他们一开始用什么语言交谈？"
+  },
+  "editorNotes": "本课讲述了一个有趣的搭便车经历，重点介绍了过去完成时的用法，以及一些常见词组的区别用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I had an amusing experience last year.",
+      "After I had left a small village in the south of France, I drove on to the next town.",
+      "On the way, a young man waved to me.",
+      "I stopped and he asked me for a lift.",
+      "As soon as he had got into the car, I said good morning to him in French and he replied in the same language.",
+      "Apart from a few words, I do not know any French at all.",
+      "Neither of us spoke during the journey.",
+      "I had nearly reached the town, when the young man suddenly said, very slowly, 'Do you speak English?'",
+      "As I soon learnt, he was English himself!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "去年我有过一次有趣的经历。",
+      "在离开法国南部的一个小村庄后，我继续驶往下一个城镇。",
+      "途中，一个青年人向我招手。",
+      "我把车停下，他向我提出要求搭车。",
+      "他一上车，我就用法语向他问早上好，他也同样用法语回答我。",
+      "除了个别几个单词外，我根本不会法语。",
+      "旅途中我们谁也没讲话。",
+      "就要到达那个镇时，那青年突然开了口，慢慢地说道：'你会讲英语吗？'",
+      "我很快了解到，他自己就是个英国人！"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "experience",
+        "toggle": "n. 经验；经历；体验",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspɪəriəns",
+        "meaning": "n. 经历"
+      },
+      {
+        "word": "wave",
+        "toggle": "vi. 波动；起伏；摇动；呈波形；挥手示意",
+        "isDanger": 1,
+        "phonetic": "weɪv",
+        "meaning": "v. 招手"
+      },
+      {
+        "word": "lift",
+        "toggle": "vt. 举起；提升；空运；鼓舞； [ 口 ] 抄袭",
+        "isDanger": 0,
+        "phonetic": "lɪft",
+        "meaning": "v. 搭便车"
+      },
+      {
+        "word": "reply",
+        "toggle": "vi. 回答；回击；答辩",
+        "isDanger": 0,
+        "phonetic": "rɪˈplaɪ",
+        "meaning": "v. 回答"
+      },
+      {
+        "word": "language",
+        "toggle": "n. 语言；语言文字；表达能力",
+        "isDanger": 0,
+        "phonetic": "ˈlæŋɡwɪdʒ",
+        "meaning": "n. 语言"
+      },
+      {
+        "word": "journey",
+        "toggle": "n. 旅行；行程",
+        "isDanger": 0,
+        "phonetic": "ˈdʒɜːni",
+        "meaning": "n. 旅行"
+      },
+      {
+        "word": "amusing",
+        "toggle": "adj. 有趣的，好玩的；引人发笑的",
+        "isDanger": 0,
+        "phonetic": "əˈmjuːzɪŋ",
+        "meaning": "adj. 好笑的，有趣的"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "过去完成时的基本用法",
+        "content": "过去完成时由had+过去分词构成，表示过去某时或某动作发生之前已经完成的动作或情况。如'After I had left a small village'表示在'drove on'这个动作之前已经完成的动作。"
+      },
+      {
+        "title": "时间连词的用法",
+        "content": "after和as soon as引导的从句中，如果主句是过去时，从句常用过去完成时，表示先后发生的动作。如'As soon as he had got into the car, I said...'。"
+      },
+      {
+        "title": "apart from的用法",
+        "content": "apart from表示'除...以外'，可以放在句首。如'Apart from a few words, I do not know any French at all'。与except for的区别在于，apart from更常用于句首。"
+      },
+      {
+        "title": "反身代词的强调用法",
+        "content": "反身代词（如himself）放在句尾时起强调作用。如'he was English himself'强调'他自己就是个英国人'。"
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "drive on",
+        "translation": "继续开往",
+        "context": "表示继续前进",
+        "example": "After the stop, we drove on to the next city."
+      },
+      {
+        "phrase": "wave to sb.",
+        "translation": "向某人招手",
+        "context": "表示打招呼或示意",
+        "example": "The young man waved to me from the roadside."
+      },
+      {
+        "phrase": "ask for a lift",
+        "translation": "请求搭便车",
+        "context": "表示寻求搭车帮助",
+        "example": "He asked for a lift because there were no buses."
+      },
+      {
+        "phrase": "not ... at all",
+        "translation": "一点也不",
+        "context": "用于强调否定",
+        "example": "I do not know any French at all."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What did the writer do when he saw the young man?",
+        "options": [
+          "He drove faster",
+          "He stopped the car",
+          "He waved back",
+          "He spoke English"
+        ],
+        "answer": 1,
+        "explanation": "课文中提到'I stopped and he asked me for a lift'。"
+      },
+      {
+        "question": "Why didn't they talk during the journey?",
+        "options": [
+          "They were angry with each other",
+          "They were too tired",
+          "They thought they couldn't understand each other",
+          "They didn't want to talk"
+        ],
+        "answer": 2,
+        "explanation": "从上下文可以推断，他们都以为对方只会说法语，所以没有交谈。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The writer had an _____ experience last year.",
+        "answer": "amusing",
+        "hint": "形容这次经历有趣的形容词"
+      },
+      {
+        "sentence": "Apart from a few words, the writer didn't know any _____ at all.",
+        "answer": "French",
+        "hint": "这里指的是法语"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "搭便车文化",
+        "content": "在西方国家，搭便车（hitchhiking）是一种常见的旅行方式，尤其在年轻人中比较流行。搭便车者通常会用拇指向上的手势（thumb lift）示意过往车辆。"
+      },
+      {
+        "title": "语言交际",
+        "content": "本课展示了语言交际中的有趣现象：有时人们会因为语言障碍而产生误解，但这些误解往往会带来意想不到的趣味性。同时也说明了在国际交往中掌握英语的重要性。"
+      }
+    ]
+  }
+}

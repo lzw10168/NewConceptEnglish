@@ -1,0 +1,236 @@
+{
+  "id": "nce1-083",
+  "lessonNumber": "083",
+  "title": {
+    "english": "Going on a holiday",
+    "chinese": "准备去度假"
+  },
+  "lessonInfo": "新概念英语－第1册－第083课",
+  "audioPath": "audio/nce1/083.mp3",
+  "listeningQuestion": {
+    "question": "Why doesn't John want to have lunch with Tom and Peggy?",
+    "translation": "为什么约翰不想和汤姆、佩吉一起吃午饭？"
+  },
+  "editorNotes": "本课通过一段关于度假准备的对话，展示了日常社交和假期相关的表达。课文涉及待客礼仪、时间表达、假期安排等话题，同时介绍了现在完成时和一般过去时的对比使用。这些表达对于社交场合和假期规划非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Peggy:     Hello, John. Come in.",
+      "Tom:       Hello, John. We're having lunch. Do you want to have lunch with us?",
+      "John:       No thank you, Tom. I've already had lunch. I had lunch at half past twelve.",
+      "Peggy:     Have a cup of coffee then.",
+      "John:       I've just had a cup, thank you. I had one after my lunch.",
+      "Tom:       Let's go into the living-room, Peggy. We can have our coffee there.",
+      "Peggy:       Excuse the mess, John. This room's very untidy. We're packing our suitcases. We're going to leave tomorrow. Tom and I are going to have a holiday.",
+      "John:       Aren't you lucky!",
+      "Tom:       When are you going to have a holiday, John?",
+      "John:       I don't know. I've already had my holiday this year.",
+      "Peggy:     Where did you go?",
+      "John:       I stayed at home!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "卡罗尔：你好，萨姆。进来吧。",
+      "汤 姆：你好，萨姆。我们正在吃午饭，",
+      "你跟我们一起吃午饭好吗？",
+      "萨 姆：不，汤姆，谢谢。我已经吃过饭了。我在12点半吃的。",
+      "卡罗尔：那么喝杯咖啡吧。",
+      "萨 姆：我刚喝了一杯，谢谢。我是在饭后喝的。",
+      "汤 姆：我们到客厅里去吧，",
+      "卡罗尔。我们可以在那里喝咖啡。",
+      "卡罗尔：屋子很乱，请原谅，萨姆。屋子里乱七八糟。我们正在收拾手提箱。明天我们就要走了。我和汤姆准备去度假。",
+      "萨 姆：你们真幸运！",
+      "汤 姆：萨姆，你准备什么时候去度假？",
+      "萨 姆：我不知道。今年我已度过假了。",
+      "卡罗尔：你去哪儿了？",
+      "萨 姆：我呆在这里了！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 待客礼仪用语",
+        "children": [
+          "核心概念：如何礼貌待客和回应邀请",
+          "常用表达：",
+          "- Come in 请进",
+          "- Do you want to have lunch with us? 要和我们一起吃午饭吗？",
+          "- No thank you... I've already had lunch 不用了，谢谢...我已经吃过了",
+          "使用场景：邀请客人和回应邀请时",
+          "注意事项：注意使用礼貌用语和合适的理由"
+        ]
+      },
+      {
+        "heading": "2. 时间表达",
+        "children": [
+          "核心概念：如何表达具体时间和时间顺序",
+          "常用表达：",
+          "- at half past twelve 在12点半",
+          "- I've just had... 我刚刚...",
+          "- after my lunch 在午饭后",
+          "使用场景：描述事件发生的时间",
+          "注意事项：注意时间介词的正确使用"
+        ]
+      },
+      {
+        "heading": "3. 度假相关表达",
+        "children": [
+          "核心概念：如何谈论假期安排",
+          "常用表达：",
+          "- going to have a holiday 准备去度假",
+          "- I've already had my holiday 我已经度过假了",
+          "- Where did you go? 你去哪儿了？",
+          "使用场景：讨论假期计划时",
+          "注意事项：注意时态的正确使用"
+        ]
+      },
+      {
+        "heading": "4. 道歉和解释",
+        "children": [
+          "核心概念：如何礼貌地道歉和解释",
+          "常用表达：",
+          "- Excuse the mess 请原谅房间很乱",
+          "- This room's very untidy 这个房间很乱",
+          "- We're packing our suitcases 我们正在收拾行李箱",
+          "使用场景：为不理想的情况道歉时",
+          "注意事项：注意语气要诚恳友好"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在完成时的使用",
+        "children": [
+          "1. 表示已完成：I've already had lunch",
+          "2. 表示刚刚完成：I've just had a cup",
+          "3. 与一般过去时的区别",
+          "4. already和just的位置"
+        ]
+      },
+      {
+        "heading": "2. 现在进行时的使用",
+        "children": [
+          "1. 表示正在进行：We're having lunch",
+          "2. 表示进行中的准备：We're packing",
+          "3. 与一般现在时的区别",
+          "4. 动词ing形式的变化"
+        ]
+      },
+      {
+        "heading": "3. be going to的使用",
+        "children": [
+          "1. 表示计划：We're going to leave tomorrow",
+          "2. 表示近期打算：going to have a holiday",
+          "3. 与will的区别",
+          "4. 疑问句形式：When are you going to...?"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 房间状态词汇",
+        "children": [
+          "mess n. 杂乱：",
+          "- make a mess 弄乱",
+          "- in a mess 乱七八糟",
+          "untidy adj. 凌乱的：",
+          "- untidy room 凌乱的房间",
+          "- keep tidy 保持整洁"
+        ]
+      },
+      {
+        "heading": "2. 假期相关词汇",
+        "children": [
+          "holiday n. 假期：",
+          "- have a holiday 度假",
+          "- go on holiday 去度假",
+          "- summer holiday 暑假",
+          "pack v. 打包：",
+          "- pack suitcases 收拾行李箱",
+          "- pack for a trip 为旅行打包"
+        ]
+      },
+      {
+        "heading": "3. 时间副词",
+        "children": [
+          "already adv. 已经：",
+          "- have already done 已经做过了",
+          "- it's already done 已经完成了",
+          "just adv. 刚刚：",
+          "- have just finished 刚刚完成",
+          "- just now 刚才"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "mess",
+        "toggle": "n. 食堂，伙食团；混乱；脏乱的东西；困境",
+        "isDanger": 1,
+        "phonetic": "mes",
+        "meaning": "n. 杂乱，凌乱"
+      },
+      {
+        "word": "disorderly",
+        "toggle": "adj. 混乱的，无秩序的；骚乱的；无法无天的",
+        "isDanger": 0,
+        "phonetic": "dɪsˈɔːdəli",
+        "meaning": "adj. 混乱的"
+      },
+      {
+        "word": "pack",
+        "toggle": "n. 包裹；一副；一群；包装；背包",
+        "isDanger": 1,
+        "phonetic": "pæk",
+        "meaning": "v. 包装，打包，装箱"
+      },
+      {
+        "word": "pack up",
+        "toggle": "打包; 收拾; <非正>停止工作; 停止运转",
+        "isDanger": 0,
+        "phonetic": "pæk ʌp",
+        "meaning": "v. 打包"
+      },
+      {
+        "word": "suitcase",
+        "toggle": "n. 手提箱；衣箱",
+        "isDanger": 0,
+        "phonetic": "ˈsuːtkeɪs",
+        "meaning": "n. 手提箱"
+      },
+      {
+        "word": "leave",
+        "toggle": "vt. 离开；留下；委托；遗忘",
+        "isDanger": 1,
+        "phonetic": "liːv",
+        "meaning": "v. 离开"
+      },
+      {
+        "word": "already",
+        "toggle": "adv. 已经，早已；先前",
+        "isDanger": 0,
+        "phonetic": "ɔːlˈredi",
+        "meaning": "adv. 已经"
+      },
+      {
+        "word": "ready",
+        "toggle": "adj. 准备好；情愿的；现成的；迅速的；快要 … 的",
+        "isDanger": 0,
+        "phonetic": "ˈredi",
+        "meaning": "adj. 准备好的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

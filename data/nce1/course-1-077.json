@@ -1,0 +1,228 @@
+{
+  "id": "nce1-077",
+  "lessonNumber": "077",
+  "title": {
+    "english": "Terrible toothache",
+    "chinese": "要命的牙痛"
+  },
+  "lessonInfo": "新概念英语－第1册－第077课",
+  "audioPath": "audio/nce1/077.mp3",
+  "listeningQuestion": {
+    "question": "Why can't Mr. Croft see the dentist immediately?",
+    "translation": "为什么克罗夫特先生不能立即见到牙医？"
+  },
+  "editorNotes": "本课通过一段在牙医诊所的对话，展示了预约就医的常用表达。课文涉及预约时间、表达紧急程度、礼貌请求等话题，同时介绍了情态动词can的多种用法和must的使用。这些表达对于日常医疗就诊场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Nurse:            Good morning, Mr Croft.",
+      "Mr Croft:        Good morning, nurse. I want to see the dentist, please.",
+      "Nurse:            Have you an appointment?（有预约吗？）",
+      "Mr Croft:        No, I haven't .",
+      "Nurse:          Is it urgent?",
+      "Mr Croft:        Yes, it is . It's very urgent. I feel awful. I have a terrible toothache.",
+      "Nurse:           Can you come at 10 am on Monday, April 24th?",
+      "Mr Croft:        I must see the dentist now, nurse.",
+      "Nurse:           The dentist is very busy at the moment. Can you come at 2:00 PM?",
+      "Mr Croft:        That's very late. Can't the dentist see me now?",
+      "Nurse:            I'm afraid that he can't , Mr Croft. Can't you wait till this afternoon?",
+      "Mr Croft:       I can wait, but my toothache can't !"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "护 士：早上好，克罗夫特先生。",
+      "克罗夫特先生：早上好，护士。我想见牙科医生。",
+      "护 士：您约好了吗？",
+      "克罗夫特先生：没有。",
+      "护 士：急吗？",
+      "克罗夫特先生：是的，很急。我难受极了,牙痛得要命。",
+      "护 士：您在4月24日星期一上午10点钟来行吗？",
+      "克罗夫特先生：我必须现在就见牙科医生，护士。",
+      "护 士：牙科医生这会儿很忙。您下午两点钟来行吗？",
+      "克罗夫特先生：那就太晚了。牙科医生现在就不能给我看一下吗？",
+      "护 士：恐怕不能，克罗夫特先生。您就不能等到今天下午吗？",
+      "克罗夫特先生：我倒是可以等。可是我的牙痛等不了啊！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 预约就医用语",
+        "children": [
+          "核心概念：如何进行医疗预约",
+          "常用表达：",
+          "- Have you an appointment? 您有预约吗？",
+          "- Can you come at...? 您能在...来吗？",
+          "使用场景：医院、诊所等预约场合",
+          "注意事项：预约时注意说明具体时间和日期"
+        ]
+      },
+      {
+        "heading": "2. 表达紧急程度",
+        "children": [
+          "核心概念：如何表达事情的紧急程度",
+          "常用表达：",
+          "- Is it urgent? 是急事吗？",
+          "- It's very urgent. 非常紧急。",
+          "- I feel awful. 我感觉很难受。",
+          "使用场景：需要紧急就医或处理时",
+          "注意事项：用语要得体，避免过于夸张"
+        ]
+      },
+      {
+        "heading": "3. 礼貌请求与婉拒",
+        "children": [
+          "核心概念：如何礼貌地提出请求和回应",
+          "常用表达：",
+          "- I want to see... please. 我想见...，请。",
+          "- I'm afraid that he can't. 恐怕他不能。",
+          "- Can't you wait till...? 您就不能等到...吗？",
+          "使用场景：需要他人帮助或无法满足对方要求时",
+          "注意事项：语气要委婉友好"
+        ]
+      },
+      {
+        "heading": "4. 幽默表达",
+        "children": [
+          "核心概念：如何用幽默化解尴尬",
+          "常用表达：",
+          "- I can wait, but my toothache can't! 我能等，但我的牙痛等不了！",
+          "使用场景：缓解紧张气氛时",
+          "注意事项：注意场合，不是所有场合都适合开玩笑"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 情态动词can的多种用法",
+        "children": [
+          "1. 表示请求：Can you come at...?",
+          "2. 表示可能性：I can wait.",
+          "3. 否定形式：can't/cannot",
+          "4. 疑问句：Can't you wait?"
+        ]
+      },
+      {
+        "heading": "2. 情态动词must的使用",
+        "children": [
+          "1. 表示必要性：I must see the dentist now.",
+          "2. 强调紧迫性",
+          "3. 与can的区别",
+          "4. 使用场景"
+        ]
+      },
+      {
+        "heading": "3. 时间介词的使用",
+        "children": [
+          "1. at用于具体时间点：at 10 am",
+          "2. on用于具体日期：on Monday",
+          "3. till表示截止时间：till this afternoon",
+          "4. 时间介词的组合使用"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 医疗相关词汇",
+        "children": [
+          "dentist n. 牙医：",
+          "- see the dentist 看牙医",
+          "- visit a dentist 去看牙医",
+          "toothache n. 牙痛：",
+          "- have a terrible toothache 牙痛得厉害",
+          "- suffer from toothache 遭受牙痛之苦"
+        ]
+      },
+      {
+        "heading": "2. 预约相关词汇",
+        "children": [
+          "appointment n. 预约：",
+          "- make an appointment 预约",
+          "- have an appointment 有预约",
+          "- keep an appointment 准时赴约"
+        ]
+      },
+      {
+        "heading": "3. 时间表达词汇",
+        "children": [
+          "urgent adj. 紧急的：",
+          "- It's urgent 很紧急",
+          "- an urgent matter 紧急事件",
+          "moment n. 时刻：",
+          "- at the moment 此刻",
+          "- wait for a moment 等一会儿"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "appointment",
+        "toggle": "n. 任命；约定；任命的职位",
+        "isDanger": 0,
+        "phonetic": "əˈpɔɪntmənt",
+        "meaning": "n. 约会，预约"
+      },
+      {
+        "word": "booking",
+        "toggle": "n. 预订；预约；演出契约",
+        "isDanger": 0,
+        "phonetic": "ˈbʊkɪŋ",
+        "meaning": "n. 预定"
+      },
+      {
+        "word": "date",
+        "toggle": "n. 日期；约会；年代；枣椰子",
+        "isDanger": 0,
+        "phonetic": "deɪt",
+        "meaning": "n. 约会"
+      },
+      {
+        "word": "till",
+        "toggle": "n. 放钱的抽屉；备用现金；冰碛",
+        "isDanger": 1,
+        "phonetic": "tɪl",
+        "meaning": "prep. 直到…为止"
+      },
+      {
+        "word": "still",
+        "toggle": "adv. 更；仍然；静止地",
+        "isDanger": 1,
+        "phonetic": "stɪl",
+        "meaning": "adv. 仍然"
+      },
+      {
+        "word": "until",
+        "toggle": "conj. 在 … 以前；直到 … 时",
+        "isDanger": 1,
+        "phonetic": "ʌnˈtɪl",
+        "meaning": "prep. 直到……为止"
+      },
+      {
+        "word": "til",
+        "toggle": "n. 胡麻",
+        "isDanger": 0,
+        "phonetic": "tɪl",
+        "meaning": "n. 芝麻"
+      },
+      {
+        "word": "urgent",
+        "toggle": "adj. 紧急的；急迫的",
+        "isDanger": 0,
+        "phonetic": "ˈɜːdʒənt",
+        "meaning": "adj. 紧急的，急迫的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

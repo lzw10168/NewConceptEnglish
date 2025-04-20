@@ -1,0 +1,198 @@
+{
+  "id": "nce1-107",
+  "lessonNumber": "107",
+  "title": {
+    "english": "It's too small",
+    "chinese": "太小了"
+  },
+  "lessonInfo": "新概念英语－第1册－第107课",
+  "audioPath": "audio/nce1/107.mp3",
+  "listeningQuestion": {
+    "question": "Why didn't the lady buy the green dress?",
+    "translation": "这位女士为什么没有买绿色的连衣裙？"
+  },
+  "editorNotes": "本课通过一段购物对话，展示了如何描述衣服的尺寸、颜色和款式。课文涉及服装选择、个人喜好表达和购物交际等功能，同时介绍了形容词比较级和程度副词的使用。这些表达对于日常购物场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Assistant:        Do you like this dress, madam?",
+      "Lady:             I like the colour very much. It's a lovely dress, but it's too small for me.",
+      "Assistant:        What about this one? It's a lovely dress. It's very smart.Short skirts are in fashion now. Would you like to try it?",
+      "Lady:             All right.",
+      "Lady:             I'm afraid this green dress is too small for me as well. It's smaller than the blue one.",
+      "Lady:             I don't like the colour either. It doesn't suit me at all. I think the blue dress is prettier.",
+      "Lady:             Could you show me another blue dress?I want a dress like that one, but it must be my size.",
+      "Assistant:        I'm afraid I haven't got a larger dress. This is the largest dress in the shop."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "店员：夫人，您喜欢这件衣服吗？",
+      "女士：我很喜欢这颜色。这件漂亮的衣服，可是对我来说太小了。",
+      "店员：这件怎么样？这是件漂亮的衣服，它很时髦。短裙现在很流行。您要试一试吗？",
+      "女士：好吧。",
+      "店员：恐怕这件绿色的我穿着也太小了。它比那件蓝色的还要小。",
+      "女士：我也不喜欢这种颜色。这颜色我穿根本不合适。我认为那件蓝色的更漂亮些。",
+      "女士：您能再给我看一件蓝色的吗？我想一件和那件一样的，但必须是我的尺寸。",
+      "店员：恐怕没有更大的了。 这是店里最大一件。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问喜好",
+        "children": [
+          "核心概念：如何询问和表达对商品的喜好",
+          "常用表达：",
+          "- Do you like this dress? 您喜欢这件衣服吗？",
+          "- I like the colour very much 我很喜欢这个颜色",
+          "- I don't like the colour either 我也不喜欢这个颜色",
+          "使用场景：购物时询问和表达喜好",
+          "注意事项：注意使用礼貌用语和委婉表达"
+        ]
+      },
+      {
+        "heading": "2. 尺寸描述",
+        "children": [
+          "核心概念：如何描述衣服尺寸",
+          "常用表达：",
+          "- It's too small for me 对我来说太小了",
+          "- It's smaller than the blue one 比蓝色的那件小",
+          "- It must be my size 必须是我的尺寸",
+          "- This is the largest dress 这是最大的一件",
+          "使用场景：描述衣服合身程度",
+          "注意事项：注意比较级和最高级的使用"
+        ]
+      },
+      {
+        "heading": "3. 款式评价",
+        "children": [
+          "核心概念：如何评价服装款式",
+          "常用表达：",
+          "- It's a lovely dress 这是件漂亮的衣服",
+          "- It's very smart 很时髦",
+          "- Short skirts are in fashion now 短裙现在很流行",
+          "使用场景：评价服装款式和流行趋势",
+          "注意事项：注意表达个人观点的方式"
+        ]
+      },
+      {
+        "heading": "4. 试衣服务",
+        "children": [
+          "核心概念：如何请求和提供试衣服务",
+          "常用表达：",
+          "- Would you like to try it? 您要试试吗？",
+          "- Could you show me another one? 您能给我看看另一件吗？",
+          "- I want a dress like that one 我想要一件像那件的",
+          "使用场景：试衣和寻找替代商品时",
+          "注意事项：注意服务态度和礼貌用语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 形容词比较级的使用",
+        "children": [
+          "1. 比较级形式：smaller than",
+          "2. 最高级形式：the largest",
+          "3. 比较级的构成规则",
+          "4. 常见错误分析"
+        ]
+      },
+      {
+        "heading": "2. 程度副词的使用",
+        "children": [
+          "1. too的用法：too small",
+          "2. very的用法：very smart",
+          "3. 程度副词的位置",
+          "4. 不同程度的表达"
+        ]
+      },
+      {
+        "heading": "3. 情态动词的使用",
+        "children": [
+          "1. would的用法：Would you like",
+          "2. could的用法：Could you show me",
+          "3. must的用法：must be my size",
+          "4. 情态动词的礼貌用语"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 服装词汇",
+        "children": [
+          "dress n. 连衣裙：",
+          "- lovely dress 漂亮的连衣裙",
+          "- blue dress 蓝色连衣裙",
+          "skirt n. 裙子：",
+          "- short skirt 短裙",
+          "- skirts are in fashion 裙子很流行"
+        ]
+      },
+      {
+        "heading": "2. 颜色词汇",
+        "children": [
+          "colour n. 颜色：",
+          "- like the colour 喜欢这个颜色",
+          "- green dress 绿色连衣裙",
+          "blue adj. 蓝色的：",
+          "- blue one 蓝色的那件",
+          "- another blue dress 另一件蓝色连衣裙"
+        ]
+      },
+      {
+        "heading": "3. 购物用语",
+        "children": [
+          "size n. 尺寸：",
+          "- my size 我的尺寸",
+          "- larger size 更大的尺寸",
+          "fashion n. 流行：",
+          "- in fashion 流行",
+          "- fashion now 现在的流行"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "madam",
+        "toggle": "n. 夫人；女士；鸨母",
+        "isDanger": 0,
+        "phonetic": "ˈmædəm",
+        "meaning": "n. 夫人，女士(对妇女的尊称)"
+      },
+      {
+        "word": "as well",
+        "toggle": "adv.也， 还有",
+        "isDanger": 1,
+        "phonetic": "æz wel",
+        "meaning": "adv. 同样"
+      },
+      {
+        "word": "suit",
+        "toggle": "vt. 适合；使适应",
+        "isDanger": 0,
+        "phonetic": "suːt",
+        "meaning": "v. 适于"
+      },
+      {
+        "word": "pretty",
+        "toggle": "adj. 漂亮的；可爱的；优美的",
+        "isDanger": 0,
+        "phonetic": "ˈprɪti",
+        "meaning": "adj. 漂亮的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

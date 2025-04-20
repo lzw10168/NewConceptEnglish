@@ -1,0 +1,295 @@
+{
+  "id": "nce1-067",
+  "lessonNumber": "067",
+  "title": {
+    "english": "The weekend",
+    "chinese": "周末"
+  },
+  "lessonInfo": "新概念英语－第1册－第067课",
+  "audioPath": "audio/nce1/067.mp3",
+  "listeningQuestion": {
+    "question": "How many days was Jimmy absent from school last week?",
+    "translation": "上周吉米缺课几天？"
+  },
+  "editorNotes": "本课围绕日常生活对话展开，重点介绍过去时态的使用，以及商店名称的表达方式。通过两位女士的对话，展示了英语中询问过去事件、谈论假期计划的表达方式，同时涉及各类商店的英文说法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "MRS JOHNSON:\tHello. Were you at the butcher's?",
+      "MRS WILLIAMS:\tYes. I was. Were you at the butcher's ,too?",
+      "MRS JOHNSON:\tNo, I wasn't. I was at the greengrocer's.  How's Jimmy today?",
+      "MRS WILLIAMS:\tHe's very well, thank you.",
+      "MRS JOHNSON:\tWas he absent from school last week?",
+      "MRS WILLIAMS:\tYes, he was. He was absent on Monday, Tuesday, Wednesday and Thursday. How are you all keeping?",
+      "MRS JOHNSON:\tVery well, thank you. We're going to spend three days in the country. We're going to stay at my mother's for the week-end.",
+      "MRS WILLIAMS:\tFriday, Saturday and Sunday in the country! Aren't you lucky!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "约翰逊夫人：您好。刚才您在肉店里吗？",
+      "威廉斯夫人：是的，我在肉店里。 您也在肉店里吗？",
+      "约翰逊夫人：不， 我不是。 我在蔬菜水果店里。 吉米今天怎么样？",
+      "威廉斯夫人：他很好，谢谢您。",
+      "约翰逊夫人：上星期他没上学吧？",
+      "威廉斯夫人：是的，他没上学。他星期一、星期二、星期三和星期四没去上学。你们身体都好吗？",
+      "约翰逊夫人：很好，谢谢您。我们打算到乡下去三三，在我母亲家度周末。",
+      "威廉斯夫人：星期五、星期六和星期日在乡下过！你们真幸运啊！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 商店名称的表达",
+        "children": [
+          "核心概念：商店名称的所有格形式",
+          "常用表达：",
+          "- the butcher's 肉店",
+          "- the greengrocer's 蔬菜水果店",
+          "使用场景：表示去过某个商店",
+          "注意事项：商店名称后面省略了shop一词"
+        ]
+      },
+      {
+        "heading": "2. 询问过去事件",
+        "children": [
+          "核心概念：使用was/were提问和回答",
+          "常用表达：",
+          "- Were you at...? 你在...吗？",
+          "- Yes, I was. / No, I wasn't. 是的，我在。/ 不，我不在。",
+          "使用场景：询问某人过去的位置或状态",
+          "注意事项：注意人称的变化和对应的was/were形式"
+        ]
+      },
+      {
+        "heading": "3. 谈论假期计划",
+        "children": [
+          "核心概念：表达即将进行的计划",
+          "常用表达：",
+          "- We're going to spend... 我们打算度过...",
+          "- We're going to stay at... 我们打算住在...",
+          "使用场景：讨论周末或假期安排",
+          "注意事项：使用be going to表示计划"
+        ]
+      },
+      {
+        "heading": "4. 表达羡慕",
+        "children": [
+          "核心概念：表达对他人好事的羡慕",
+          "常用表达：",
+          "- Aren't you lucky! 你真幸运！",
+          "- What a nice weekend! 多么好的周末！",
+          "使用场景：对他人的好运表示羡慕",
+          "注意事项：注意语气的表达方式"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般过去时be动词",
+        "children": [
+          "1. 肯定形式：was (I/he/she/it), were (you/we/they)",
+          "2. 否定形式：wasn't, weren't",
+          "3. 疑问形式：Was/Were + 主语...?",
+          "4. 注意人称的变化和相应的形式"
+        ]
+      },
+      {
+        "heading": "2. be going to结构",
+        "children": [
+          "1. 表示计划：be going to + 动词原形",
+          "2. 表示打算：We're going to spend...",
+          "3. 表示即将发生：be going to stay",
+          "4. 注意时态的一致性"
+        ]
+      },
+      {
+        "heading": "3. 反意疑问句",
+        "children": [
+          "1. 基本结构：陈述句 + 反意疑问",
+          "2. 示例：Aren't you lucky!",
+          "3. 表示惊叹或感叹的用法",
+          "4. 注意语气的表达"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 商店类别",
+        "children": [
+          "butcher's n. 肉店：",
+          "- at the butcher's 在肉店",
+          "greengrocer's n. 蔬菜水果店：",
+          "- at the greengrocer's 在蔬菜水果店",
+          "注意：表示商店时用所有格形式"
+        ]
+      },
+      {
+        "heading": "2. 时间词组",
+        "children": [
+          "weekend n. 周末：",
+          "- spend the weekend 度过周末",
+          "- for the weekend 在周末",
+          "weekday n. 工作日：",
+          "- on weekdays 在工作日"
+        ]
+      },
+      {
+        "heading": "3. 动词用法",
+        "children": [
+          "spend v. 度过，花费：",
+          "- spend time 花时间",
+          "- spend three days 度过三天",
+          "keep v. 保持：",
+          "- keep well 保持健康"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "greengrocer",
+        "toggle": "n.蔬菜水果商,菜贩",
+        "isDanger": 0,
+        "phonetic": "ˈɡriːnɡrəʊsə(r)",
+        "meaning": "n. 蔬菜水果零售商"
+      },
+      {
+        "word": "grocer",
+        "toggle": "n. 杂货店；食品商",
+        "isDanger": 0,
+        "phonetic": "ˈɡrəʊsə",
+        "meaning": "n. 食品杂货商"
+      },
+      {
+        "word": "absent",
+        "toggle": "adj. 缺席的；缺少的；心不在焉的；茫然的",
+        "isDanger": 0,
+        "phonetic": "ˈæbsənt",
+        "meaning": "adj. 缺席的"
+      },
+      {
+        "word": "Monday",
+        "toggle": "n.星期一",
+        "isDanger": 0,
+        "phonetic": "ˈmʌndeɪ",
+        "meaning": "n. 星期一"
+      },
+      {
+        "word": "Tuesday",
+        "toggle": "n.星期二",
+        "isDanger": 0,
+        "phonetic": "ˈtjuːzdeɪ",
+        "meaning": "n. 星期二"
+      },
+      {
+        "word": "Wednesday",
+        "toggle": "n.星期三",
+        "isDanger": 0,
+        "phonetic": "ˈwenzdeɪ",
+        "meaning": "n. 星期三"
+      },
+      {
+        "word": "Thursday",
+        "toggle": "n.星期四",
+        "isDanger": 0,
+        "phonetic": "ˈθɜːzdeɪ",
+        "meaning": "n. 星期四"
+      },
+      {
+        "word": "Friday",
+        "toggle": "n.星期五",
+        "isDanger": 0,
+        "phonetic": "ˈfraɪdeɪ",
+        "meaning": "n. 星期五"
+      },
+      {
+        "word": "Saturday",
+        "toggle": "n.星期六",
+        "isDanger": 0,
+        "phonetic": "ˈsætədeɪ",
+        "meaning": "n. 星期六"
+      },
+      {
+        "word": "Sunday",
+        "toggle": "n.星期日",
+        "isDanger": 0,
+        "phonetic": "ˈsʌndeɪ",
+        "meaning": "n. 星期日"
+      },
+      {
+        "word": "keep",
+        "toggle": "vt. 保持；遵守；经营；饲养",
+        "isDanger": 1,
+        "phonetic": "kiːp",
+        "meaning": "v. (身体健康)处于(状况)"
+      },
+      {
+        "word": "spend",
+        "toggle": "vt. 花费；度过，消磨（时光）；用尽；浪费",
+        "isDanger": 1,
+        "phonetic": "spend",
+        "meaning": "v. .度过"
+      },
+      {
+        "word": "weekend",
+        "toggle": "n. 周末，周末休假；周末聚会",
+        "isDanger": 0,
+        "phonetic": "ˌwiːkˈend",
+        "meaning": "n. 周末"
+      },
+      {
+        "word": "weekday",
+        "toggle": "n. 平日，工作日",
+        "isDanger": 0,
+        "phonetic": "ˈwiːkdeɪ",
+        "meaning": "n. 平日"
+      },
+      {
+        "word": "country",
+        "toggle": "n. 国家；故乡",
+        "isDanger": 0,
+        "phonetic": "ˈkʌntri",
+        "meaning": "n. 乡村"
+      },
+      {
+        "word": "lucky",
+        "toggle": "adj. 幸运的；侥幸的",
+        "isDanger": 0,
+        "phonetic": "ˈlʌki",
+        "meaning": "adj. 幸运的"
+      },
+      {
+        "word": "church",
+        "toggle": "n. 教堂；礼拜；教派",
+        "isDanger": 0,
+        "phonetic": "tʃɜːtʃ",
+        "meaning": "n. 教堂"
+      },
+      {
+        "word": "dairy",
+        "toggle": "n. 乳品店；制酪场；牛奶及乳品业；乳牛；奶制品",
+        "isDanger": 0,
+        "phonetic": "ˈdeəri",
+        "meaning": "n. 乳品店"
+      },
+      {
+        "word": "baker",
+        "toggle": "n. 面包师；面包工人；（便携式）烘炉",
+        "isDanger": 0,
+        "phonetic": "ˈbeɪkə(r)",
+        "meaning": "n. 面包师傅"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

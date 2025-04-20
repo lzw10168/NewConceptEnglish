@@ -329,7 +329,7 @@ class NCEScraper:
         self.session = requests.Session()
         # Create directories if they don't exist
         os.makedirs("data", exist_ok=True)
-        os.makedirs("audio", exist_ok=True)
+        os.makedirs("audio/nce1", exist_ok=True)
         self.get_vocabulary = get_vocabulary  # 保存为实例方法
 
     def download_mp3(self, mp3_url, lesson_id):
@@ -337,7 +337,7 @@ class NCEScraper:
         try:
             response = self.session.get(f"{self.base_url}/{mp3_url}")
             if response.status_code == 200:
-                file_path = f"audio/{lesson_id}.mp3"
+                file_path = f"audio/nce1/{lesson_id}.mp3"
                 with open(file_path, "wb") as f:
                     f.write(response.content)
                 return file_path
@@ -503,13 +503,13 @@ class NCEScraper:
                 
             # Initialize structured_content - 移除vocabulary字段
             structured_content = {
-                "editorNotes": [],            # 小编笔记
+                "editorNotes": "",            # 小编笔记
                 "dialogueText": [],           # 课文 - the actual lesson dialogue
                 "translation": [],            # 翻译
                 "notesOnText": {},            # 课文详注
                 "grammarNotes": {},           # 语法
                 "wordStudy": {},              # 词汇学习
-                "additionalContent": []       # Other content
+                "vocabulary": {}              # 词汇
             }
             
             # Keep track of divs we've already processed
@@ -596,14 +596,23 @@ class NCEScraper:
                             "heading": content_item["heading"],
                             "lines": translation_lines
                         })
-                    elif not ("详注" in heading or "语法" in heading or "词汇" in heading):
-                        # Don't process sections we already handled
-                        structured_content["additionalContent"].append(content_item)
+                    # elif not ("详注" in heading or "语法" in heading or "词汇" in heading):
+                    #     # Don't process sections we already handled
+                    #     structured_content["additionalContent"].append(content_item)
             
             # 在构建lesson_data之前，获取vocabulary数据
             vocabulary_json = self.get_vocabulary(lesson_id)
             vocabulary_data = json.loads(vocabulary_json)
-            
+            vocabulary_data["heading"] = "相关词汇 Related words"
+            structured_content["vocabulary"] = vocabulary_data
+            # structured_content["words"] = {
+            #     "heading": "相关词汇 Related words",
+            #     "words": vocabulary_data
+            # }
+            # del structured_content["editorNotes"]
+            # del structured_content["notesOnText"]
+            # del structured_content["grammarNotes"]
+            # del structured_content["wordStudy"]
             # Build the complete lesson data
             lesson_data = {
                 "id": lesson_id,
@@ -616,11 +625,10 @@ class NCEScraper:
                 "audioPath": audio_path,
                 "listeningQuestion": tape_question,
                 "content": structured_content,
-                "vocabulary": vocabulary_data  # 添加vocabulary数据
             }
             
             # Save to JSON file
-            with open(f"data/{lesson_id}.json", "w", encoding="utf-8") as f:
+            with open(f"data/nce1/{lesson_id}.json", "w", encoding="utf-8") as f:
                 json.dump(lesson_data, f, ensure_ascii=False, indent=2)
                 
             return lesson_data
@@ -652,19 +660,80 @@ if __name__ == "__main__":
         "course-1-013",
         "course-1-015",
         "course-1-017",
-        
-        # Add more lesson IDs as needed
+        "course-1-019",
+        "course-1-021",
+        "course-1-023",
+        "course-1-025",
+        "course-1-027",
+        "course-1-029",
+        "course-1-031",
+        "course-1-033",
+        "course-1-035",
+        "course-1-037",
+        "course-1-039",
+        "course-1-041", 
+        "course-1-043",
+        "course-1-045",
+        "course-1-047",
+        "course-1-049",
+        "course-1-051",
+        "course-1-053",
+        "course-1-055",
+        "course-1-057",
+        "course-1-059",
+        "course-1-061",
+        "course-1-063",
+        "course-1-065", 
+        "course-1-067",
+        "course-1-069",
+        "course-1-071",
+        "course-1-073",
+        "course-1-075",
+        "course-1-077",
+        "course-1-079",
+        "course-1-081",
+        "course-1-083",
+        "course-1-085",
+        "course-1-087",
+        "course-1-089",
+        "course-1-091", 
+        "course-1-093",
+        "course-1-095",
+        "course-1-097",
+        "course-1-099",
+        "course-1-101",   
+        "course-1-103",
+        "course-1-105",
+        "course-1-107",
+        "course-1-109",
+        "course-1-111",
+        "course-1-113",
+        "course-1-115",
+        "course-1-117",
+        "course-1-119",
+        "course-1-121",
+        "course-1-123",
+        "course-1-125",
+        "course-1-127",
+        "course-1-129",
+        "course-1-131",
+        "course-1-133",
+        "course-1-135",
+        "course-1-137",
+        "course-1-139",
+        "course-1-141",
+        "course-1-143",        
     ]
     
     scraper = NCEScraper()
     
     # Scrape a single lesson
-    lesson_data = scraper.scrape_lesson("course-1-001")
-    if lesson_data:
-        print(f"Scraped lesson: {lesson_data['title']['english']} - {lesson_data['title']['chinese']}")
-        print(f"Audio downloaded to: {lesson_data['audioPath']}")
-        print(f"Data saved to: data/{lesson_data['id']}.json")
+    # lesson_data = scraper.scrape_lesson("course-1-001")
+    # if lesson_data:
+    #     print(f"Scraped lesson: {lesson_data['title']['english']} - {lesson_data['title']['chinese']}")
+    #     print(f"Audio downloaded to: {lesson_data['audioPath']}")
+    #     print(f"Data saved to: data/{lesson_data['id']}.json")
     
     # Uncomment to scrape all lessons
-    # results = scraper.scrape_all_lessons(lesson_ids)
-    # print(f"Scraped {len(results)} lessons successfully")
+    results = scraper.scrape_all_lessons(lesson_ids)
+    print(f"Scraped {len(results)} lessons successfully")

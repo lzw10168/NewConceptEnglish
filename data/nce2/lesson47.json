@@ -1,0 +1,205 @@
+{
+  "id": "nce2--047",
+  "lessonNumber": "047",
+  "title": {
+    "english": "A thirsty ghost",
+    "chinese": "一个贪杯的鬼魂"
+  },
+  "lessonInfo": "新概念英语－第2册－第047课",
+  "audioPath": "audio/nce2/047.mp3",
+  "listeningQuestion": {
+    "question": "Why is Mr. Thompson selling the pub?",
+    "translation": "汤普森先生为什么要卖掉这个酒吧？"
+  },
+  "editorNotes": "本课讲述了一个关于闹鬼酒吧的有趣故事。文章通过汤普森先生的经历，生动地描述了一个'贪杯的鬼魂'的所作所为。在语法方面，重点介绍了情态动词must的用法，以及一些常见的时间表达方式。文章还涉及了一些重要的词汇用法，如haunt、suggest、accept等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "A public house which was recently bought by Mr. Ian Thompson is up for sale.",
+      "Mr.Thompson is going to sell it because it is haunted.",
+      "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.",
+      "The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.",
+      "Though Mr.Thompson had turned the lights off before he went to bed, they were on in the morning.",
+      "He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.",
+      "When I suggested that some villagers must have come in for a free drink, Mr.Thompson shook his head.",
+      "The villagers have told him that they will not accept the pub even if he gives it away."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "伊恩·汤普森先生最近才买的一个小酒店现在又要卖出去。",
+      "汤普森先生之所以想卖它，是因为那里常闹鬼。",
+      "他告诉我有天夜里他怎么也睡不着，因为他听到酒吧里传来一阵奇怪的响声。",
+      "第二天早上，他发现酒吧间的门被椅子堵上了，家具也被挪动过。",
+      "虽然汤普森临睡觉时把灯关了，但早晨灯却都亮着。",
+      "他还说他发现了5只空的威士忌瓶子，肯定是鬼魂昨天晚上喝的。",
+      "当我暗示说一定是村里有些人来喝不花钱的酒时，汤普森先生摇了摇头。",
+      "村里的人已经告诉他，即使他把小酒店白送人，他们也不要。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "情态动词must的用法",
+        "content": [
+          "must + 动词原形：表示必须做某事",
+          "must + have + 过去分词：表示对过去事情的推测",
+          "must be：表示对现在情况的推测",
+          "must have been：表示对过去情况的推测"
+        ]
+      },
+      {
+        "title": "时间表达",
+        "content": [
+          "the night before：前一天晚上",
+          "last night：昨天晚上",
+          "the day before：前一天",
+          "yesterday：昨天",
+          "the next day：下一天",
+          "tomorrow：明天"
+        ]
+      },
+      {
+        "title": "感官动词用法",
+        "content": [
+          "hear/see/feel/watch/notice + 宾语 + 现在分词：表示动作正在进行",
+          "hear/see/feel/watch/notice + 宾语 + 动词原形：表示动作已经发生",
+          "例如：I heard someone knocking at the door.（我听到有人正在敲门）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "up for sale",
+        "translation": "待售，供出售",
+        "context": "表示某物正在出售中",
+        "example": "A public house which was recently bought by Mr. Ian Thompson is up for sale."
+      },
+      {
+        "phrase": "shake one's head",
+        "translation": "摇头",
+        "context": "表示不同意或否定",
+        "example": "When I suggested that some villagers must have come in for a free drink, Mr.Thompson shook his head."
+      },
+      {
+        "phrase": "give away",
+        "translation": "赠送，免费送出",
+        "context": "表示免费赠送某物",
+        "example": "They will not accept the pub even if he gives it away."
+      },
+      {
+        "phrase": "even if",
+        "translation": "即使，纵然",
+        "context": "表示让步条件",
+        "example": "I won't have dinner with him even if he pays for it."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "In Mr. Thompson's opinion, the ghost ___ whisky.",
+        "options": [
+          "must drink",
+          "has got to drink",
+          "has to drink",
+          "should drink"
+        ],
+        "answer": 0,
+        "explanation": "must + 动词原形可以表示推测，表示'很可能'的意思。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The pub is ___ for sale because it is haunted.",
+        "answer": "up",
+        "hint": "表示'待售'的短语"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "在英国，pub（public house的缩写）是重要的社交场所，不仅是喝酒的地方，也是人们聚会、交流的场所。每个pub都有其独特的氛围和历史，有些pub甚至会有闹鬼的传说，这些传说往往成为pub的特色之一。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'up for sale'（待售）、'shake one's head'（摇头）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "thirsty",
+        "toggle": "adj. 口渴的，口干的；渴望的，热望的",
+        "isDanger": 0,
+        "phonetic": "ˈθɜːsti",
+        "meaning": "adj. 贪杯的"
+      },
+      {
+        "word": "ghost",
+        "toggle": "n. 鬼，幽灵",
+        "isDanger": 0,
+        "phonetic": "ɡəʊst",
+        "meaning": "n. 鬼魂"
+      },
+      {
+        "word": "haunt",
+        "toggle": "vt. 常出没于 … ；萦绕于 … ；经常去 …",
+        "isDanger": 0,
+        "phonetic": "hɔːnt",
+        "meaning": "v. （鬼）来访，闹鬼"
+      },
+      {
+        "word": "block",
+        "toggle": "n. 块；街区；障碍物；大厦",
+        "isDanger": 1,
+        "phonetic": "blɒk",
+        "meaning": "v. 堵"
+      },
+      {
+        "word": "furniture",
+        "toggle": "n. 家具；设备；储藏物",
+        "isDanger": 0,
+        "phonetic": "ˈfɜːnɪtʃə(r)",
+        "meaning": "n. 家具"
+      },
+      {
+        "word": "whisky",
+        "toggle": "n. 威士忌酒",
+        "isDanger": 0,
+        "phonetic": "ˈwɪski",
+        "meaning": "n. 威士忌酒"
+      },
+      {
+        "word": "suggest",
+        "toggle": "vt. 提议，建议；启发；使人想起",
+        "isDanger": 1,
+        "phonetic": "səˈdʒest",
+        "meaning": "v. 暗示"
+      },
+      {
+        "word": "shake",
+        "toggle": "vt. 摇动；动摇；震动",
+        "isDanger": 1,
+        "phonetic": "ʃeɪk",
+        "meaning": "v. 摇动"
+      },
+      {
+        "word": "accept",
+        "toggle": "vt. 接受；承认；承担；承兑；容纳",
+        "isDanger": 1,
+        "phonetic": "əkˈsept",
+        "meaning": "v. 接受"
+      }
+    ]
+  }
+}

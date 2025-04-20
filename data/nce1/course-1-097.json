@@ -1,0 +1,248 @@
+{
+  "id": "nce1-097",
+  "lessonNumber": "097",
+  "title": {
+    "english": "A small blue case",
+    "chinese": "一个蓝色的小箱子"
+  },
+  "lessonInfo": "新概念英语－第1册－第097课",
+  "audioPath": "audio/nce1/097.mp3",
+  "listeningQuestion": {
+    "question": "What happened when Mr. Hall got his case back?",
+    "translation": "霍尔先生取回箱子时发生了什么？"
+  },
+  "editorNotes": "本课通过一段寻找遗失行李的对话，展示了如何描述物品特征和处理失物认领。课文涉及物品描述、身份确认、费用支付等内容，同时介绍了一般过去时和所有格的使用。这些表达对于处理日常遗失物品的情况非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mr Hall:     I left a suitcase on the train to London the other day.",
+      "Attendant:  Can you describe it, sir?",
+      "Mr Hall:   It's a small blue case and it's got a zip. There's a label on the handle with my name and address on it.",
+      "Attendant: Is this case yours?",
+      "Mr Hall:   No, that's not mine.",
+      "Attendant:     What about this one? This one's got a label.",
+      "Mr Hall:        Let me see it.",
+      "Attendant:     What's you name and address?",
+      "Mr Hall:      David Hall,83, Bridge Street.",
+      "Attendant:    That's right. D.N.Hall.83.Bridge Street.",
+      "Attendant:       Three pound and fifty pence please.",
+      "Mr Hall:          Here you are.",
+      "Attendant:       Thank you.",
+      "Mr Hall:          Hey!",
+      "Attendant:       What's the matter?",
+      "Mr Hall:          This case doesn't belong to me! You've given me the wrong case!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "霍尔先生：几天前我把一只手提箱忘在开往伦敦的火车上了。",
+      "服 务 员：先生，您能描述一下它是什么样子的吗？",
+      "霍尔先生：是只蓝色的小箱子，上面有拉链。箱把上有一标签，上面写着我的姓名和住址。",
+      "服 务 员：这箱子是您的吗？",
+      "霍尔先生：不，那不是我的。",
+      "服 务 员：这只是不是？这只箱子有张标签。",
+      "霍尔先生：让我看看。",
+      "服 务 员：您的姓名和住址？",
+      "霍尔先生：大卫.霍尔，大桥街83号。",
+      "服 务 员：那就对了。D.N.霍尔，大桥街83号。",
+      "服 务 员：请付3英镑50便士。",
+      "霍尔先生：给您。",
+      "服 务 员：谢谢您。",
+      "霍尔先生：嗨！",
+      "服 务 员：怎么回事？",
+      "霍尔先生：这箱子不是我的！您给错了！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 物品描述",
+        "children": [
+          "核心概念：如何描述物品特征",
+          "常用表达：",
+          "- It's a small blue case 这是一个蓝色的小箱子",
+          "- It's got a zip 它有拉链",
+          "- There's a label on the handle 把手上有标签",
+          "使用场景：描述遗失物品时",
+          "注意事项：注意描述的顺序（大小、颜色、特征）"
+        ]
+      },
+      {
+        "heading": "2. 身份确认",
+        "children": [
+          "核心概念：如何确认物品所有权",
+          "常用表达：",
+          "- Is this case yours? 这是您的箱子吗？",
+          "- What's your name and address? 您的姓名和地址是什么？",
+          "- That's not mine 那不是我的",
+          "使用场景：认领失物时",
+          "注意事项：注意使用正确的所有格形式"
+        ]
+      },
+      {
+        "heading": "3. 费用支付",
+        "children": [
+          "核心概念：如何表达金额和支付",
+          "常用表达：",
+          "- Three pound and fifty pence please 请付3英镑50便士",
+          "- Here you are 给您",
+          "- Thank you 谢谢",
+          "使用场景：支付服务费用时",
+          "注意事项：注意金额的准确表达"
+        ]
+      },
+      {
+        "heading": "4. 问题处理",
+        "children": [
+          "核心概念：如何表达和处理问题",
+          "常用表达：",
+          "- What's the matter? 怎么回事？",
+          "- This case doesn't belong to me! 这箱子不是我的！",
+          "- You've given me the wrong case! 你给错箱子了！",
+          "使用场景：发现问题时",
+          "注意事项：注意表达的礼貌性和明确性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生：I left a suitcase",
+          "2. 表示过去状态：That's not mine",
+          "3. 与时间状语的搭配",
+          "4. 否定和疑问形式"
+        ]
+      },
+      {
+        "heading": "2. 所有格的使用",
+        "children": [
+          "1. 形容词性物主代词：my, your, his",
+          "2. 名词所有格：with my name",
+          "3. 独立形容词性物主代词：mine, yours",
+          "4. 所属关系的表达"
+        ]
+      },
+      {
+        "heading": "3. 现在完成时的使用",
+        "children": [
+          "1. 表示完成：You've given me",
+          "2. 表示结果：This case doesn't belong to me",
+          "3. 与一般过去时的区别",
+          "4. 否定形式的构成"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 物品词汇",
+        "children": [
+          "case n. 箱子：",
+          "- blue case 蓝色箱子",
+          "- small case 小箱子",
+          "label n. 标签：",
+          "- on the label 在标签上",
+          "- with a label 带标签的"
+        ]
+      },
+      {
+        "heading": "2. 动作词汇",
+        "children": [
+          "leave v. 遗留，忘记：",
+          "- left on the train 忘在火车上",
+          "- leave behind 遗留下",
+          "belong v. 属于：",
+          "- belong to me 属于我",
+          "- doesn't belong to 不属于"
+        ]
+      },
+      {
+        "heading": "3. 描述词汇",
+        "children": [
+          "describe v. 描述：",
+          "- describe it 描述它",
+          "- can you describe 您能描述吗",
+          "wrong adj. 错误的：",
+          "- wrong case 错误的箱子",
+          "- give wrong 给错"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "leave",
+        "toggle": "vt. 离开；留下；委托；遗忘",
+        "isDanger": 1,
+        "phonetic": "liːv",
+        "meaning": "v. 遗留"
+      },
+      {
+        "word": "describe",
+        "toggle": "vt. 描述，形容；描绘",
+        "isDanger": 1,
+        "phonetic": "dɪˈskraɪb",
+        "meaning": "v. 描述"
+      },
+      {
+        "word": "zip",
+        "toggle": "n. 拉链；活力，精力；尖啸声，撕裂声； [ 计 ] 一种程序压缩的档案文件格式",
+        "isDanger": 0,
+        "phonetic": "zɪp",
+        "meaning": "n. 拉链"
+      },
+      {
+        "word": "label",
+        "toggle": "vt. 标注；贴标签于",
+        "isDanger": 0,
+        "phonetic": "ˈleɪb(ə)l",
+        "meaning": "n. 标签"
+      },
+      {
+        "word": "handle",
+        "toggle": "n. 柄；把手；手感；口实",
+        "isDanger": 0,
+        "phonetic": "ˈhænd(ə)l",
+        "meaning": "n. 提手，把手"
+      },
+      {
+        "word": "address",
+        "toggle": "vt. 写姓名地址；向 … 致辞；演说；从事；忙于",
+        "isDanger": 0,
+        "phonetic": "əˈdres",
+        "meaning": "n. 地址"
+      },
+      {
+        "word": "pence",
+        "toggle": "n. penny的复数",
+        "isDanger": 0,
+        "phonetic": "pens",
+        "meaning": "n. penny的复数形式"
+      },
+      {
+        "word": "penny",
+        "toggle": "n.便士,<美> 分",
+        "isDanger": 0,
+        "phonetic": "ˈpeni",
+        "meaning": "n. 便士"
+      },
+      {
+        "word": "belong",
+        "toggle": "vi. 属于，应归入；适宜；应被放置；居住",
+        "isDanger": 1,
+        "phonetic": "bɪˈlɒŋ",
+        "meaning": "v. 属于"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

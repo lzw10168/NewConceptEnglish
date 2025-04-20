@@ -1,0 +1,335 @@
+{
+  "id": "nce2--070",
+  "lessonNumber": "070",
+  "title": {
+    "english": "Red for danger",
+    "chinese": "危险的红色"
+  },
+  "lessonInfo": "新概念英语－第2册－第070课",
+  "audioPath": "audio/nce2/070.mp3",
+  "listeningQuestion": {
+    "question": "Why did the bull charge at the drunk?",
+    "translation": "为什么公牛冲向醉汉？"
+  },
+  "editorNotes": "本课讲述了一个醉汉在斗牛场上的意外事件。一个醉汉突然闯入斗牛场中央，挥舞着红帽子并大声说粗话，激怒了公牛。虽然醉汉看似自信地避开了公牛的冲击，但最终还是被工作人员拖到安全地带。文章通过这个生动的故事，展示了形容词与不同介词搭配的用法，如sensitive to、unaware of、busy with等，以及一些表示'突然'和'同情'的表达方式。文章还展示了如何描述危险情况和紧急反应，以及一些常见的英语表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "The crowd began to shout, but the drunk was unaware of the danger.",
+      "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
+      "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.",
+      "The crowd suddenly grew quiet.",
+      "The drunk, however, seemed quite sure of himself.",
+      "When the bull got close to him, he clumsily stepped aside to let it pass.",
+      "The crowd broke into cheers and the drunk bowed.",
+      "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety.",
+      "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "在一次斗牛时，一个醉汉突然溜达到斗牛场中间。",
+      "人们开始大叫起来，但醉汉却没有意识到危险。",
+      "当时那公牛正忙于对付斗牛士，但突然它看见了醉汉，只见他正大声说着粗鲁的话，手里挥动着一顶红帽子。",
+      "对挑衅显然非常敏感的公牛完全撇开斗牛士，直奔醉汉而来。",
+      "观众突然静了下来。",
+      "可这醉汉像是很有把握似的。",
+      "当公牛逼近他时，他踉跄地往旁边一闪，牛扑空了。",
+      "观众欢呼起来，醉汉向人们鞠躬致谢。",
+      "然而，此时已有3个人进入斗牛场，迅速把醉汉拉到安全的地方。",
+      "好像连牛也在为他感到遗憾，因为它一直同情地看着醉汉，直到他的背影消逝，才重新将注意力转向斗牛士。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "形容词与for连用",
+        "content": [
+          "与for连用的形容词：eager for（渴望），enough for（足够），famous for（以……而闻名），fit for（合适），grateful for/to（因……而感激），qualified for/in（能胜任），ready for/to（准备好），responsible for（对……负责），sorry for（对……感到遗憾），sufficient for（充足的），thankful for/to（感谢），valid for（有效期为……）",
+          "例如：We have enough apples for the children.（我们有足够的苹果给孩子们。）",
+          "They were eager for the performance to begin.（他们渴望表演开始。）",
+          "My aunt is famous for her beauty.（我姑姑以美貌闻名。）"
+        ]
+      },
+      {
+        "title": "形容词与with连用",
+        "content": [
+          "与with连用的形容词：angry with sb./at sth.（因某人或某事生气），busy with/at（忙于……），consistent with（与……一致），content with（对……满足），familiar with/to（与……熟悉），patient with（有耐心），popular with（为……所喜爱）",
+          "例如：Why was Mary angry with you?（玛丽为什么生你的气？）",
+          "She wasn't content with her life.（她对生活不满意。）",
+          "Uncle Sam is always popular with children.（山姆叔叔总是受孩子们欢迎。）"
+        ]
+      },
+      {
+        "title": "形容词与of连用",
+        "content": [
+          "与of连用的形容词：afraid of（害怕），ahead of（在……前面），aware of（知道），capable of（能够），careful of/with（小心），certain of（确信），conscious of（意识到），envious of（妒忌），fond of（爱好），guilty of（有……罪的），ignorant of（不了解），independent of（独立于），jealous of（妒忌），kind of/to（对……和蔼），north/south/east/west of（在……的北/南/东/西面），short of（缺乏），shy of（顾虑），sure of（肯定），worthy of（值得）",
+          "例如：She is careful of her clothes.（她注意衣着。）",
+          "I was short of money at that time.（那时我缺钱。）"
+        ]
+      },
+      {
+        "title": "形容词与to连用",
+        "content": [
+          "与to连用的形容词：close to（接近于），contrary to（与……相反），cruel to（对……残忍），dear to（对……很重要），equal to（与……相等），faithful to（忠于……），fatal to（对……是致命的），harmful to（对……有害的），identical to（与……相同的），indifferent to（对……不关心），inferior to（劣于……），liable to（对……有义务的），new to（对……没有经验），obedient to（对……服从），obvious to（对……清楚的），polite to（对……有礼貌），previous to（先于），rude to（对……粗暴无礼），sensitive to（对……敏感），similar to（与……相似），useful to（对……有用）",
+          "例如：Most people are sensitive to criticism.（大多数人对批评都很敏感。）",
+          "Though the bicycle is old, it is very dear to me.（虽然这辆自行车破旧，但我很珍视它。）",
+          "All these words are new to me.（所有这些单词我都是第一次遇到。）",
+          "It's obvious to everyone that he's lying.（大家都清楚他在撒谎。）",
+          "My car is similar to yours.（我的车与你的车相似。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "be unaware of",
+        "translation": "不知道，没有觉察...",
+        "context": "表示不知道或没有觉察到某事",
+        "example": "The drunk was unaware of the danger."
+      },
+      {
+        "phrase": "catch sight of",
+        "translation": "突然看到...",
+        "context": "表示突然看到某人或某物",
+        "example": "The bull suddenly caught sight of the drunk who was shouting rude remarks."
+      },
+      {
+        "phrase": "be sure of oneself",
+        "translation": "有自信心",
+        "context": "表示对自己有信心",
+        "example": "The drunk, however, seemed quite sure of himself."
+      },
+      {
+        "phrase": "sensitive to",
+        "translation": "对...敏感",
+        "context": "表示对某事敏感",
+        "example": "Apparently sensitive to criticism, the bull forgot all about the matador."
+      },
+      {
+        "phrase": "charge at",
+        "translation": "向...攻击",
+        "context": "表示向某人或某物攻击",
+        "example": "The bull forgot all about the matador and charged at the drunk."
+      },
+      {
+        "phrase": "break into",
+        "translation": "突然发出，突然...起来",
+        "context": "表示突然发出某种声音或情绪",
+        "example": "The crowd broke into cheers and the drunk bowed."
+      },
+      {
+        "phrase": "look on",
+        "translation": "旁观，观看",
+        "context": "表示旁观某事",
+        "example": "The bull looked on sympathetically until the drunk was out of the way."
+      },
+      {
+        "phrase": "out of the way",
+        "translation": "不碍事，不挡路",
+        "context": "表示不碍事或不挡路",
+        "example": "The bull looked on sympathetically until the drunk was out of the way."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The drunk was unaware of the danger. He ___ the danger.",
+        "options": [
+          "knew about",
+          "saw",
+          "didn't know about",
+          "recognized"
+        ],
+        "answer": 2,
+        "explanation": "be unaware of表示不知道或没有觉察到某事，所以选didn't know about。"
+      },
+      {
+        "question": "The bull was busy with the matador. It was ___ the matador.",
+        "options": [
+          "attacking",
+          "fighting",
+          "playing with",
+          "practising with"
+        ],
+        "answer": 1,
+        "explanation": "be busy with表示忙于某事，在斗牛场中，公牛忙于与斗牛士搏斗，所以选fighting。"
+      },
+      {
+        "question": "The drunk seemed sure of himself. He seemed ___.",
+        "translation": "自信的",
+        "options": [
+          "confident",
+          "nervous",
+          "worried",
+          "afraid"
+        ],
+        "answer": 0,
+        "explanation": "be sure of oneself表示有自信心，所以选confident。"
+      },
+      {
+        "question": "The crowd broke into cheers. The crowd ___.",
+        "options": [
+          "shouted",
+          "laughed",
+          "applauded",
+          "cried"
+        ],
+        "answer": 2,
+        "explanation": "break into cheers表示突然欢呼起来，所以选applauded（鼓掌）。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The drunk was ___ of the danger.",
+        "answer": "unaware",
+        "explanation": "be unaware of表示不知道或没有觉察到某事。"
+      },
+      {
+        "sentence": "The bull was ___ with the matador at the time.",
+        "answer": "busy",
+        "explanation": "be busy with表示忙于某事。"
+      },
+      {
+        "sentence": "The bull was ___ to criticism.",
+        "answer": "sensitive",
+        "explanation": "be sensitive to表示对某事敏感。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Sensitive的用法：\n- adj. 敏感的，神经过敏的，易生气的，介意的（常与to+名词连用）\n- Mary is sensitive to smells.（玛丽对气味很敏感。）\n- You're too sensitive.（你太敏感了（太容易生气）。）\n- Mary has a sensitive ear.（玛丽有敏感的耳朵。）\n\n2. Charge的用法：\n- v. 冲上去\n- vt. &vi. 要价，收费\n- They charged us too much for repairs.（他们修理收费太高。）\n- How much do you charge for this dress?（这件连衣裙多少钱？）\n- vt. 指控，指责\n- The police charged him with murder.（警察指控他谋杀。）\n- He charged Gary with speeding.（他指责加里超速。）\n- vt. &vt. 猛攻，冲向，冲锋，向前冲\n- The bull charged at the drunk.（公牛冲向醉汉。）\n\n3. Bow的用法：\n- v. 鞠躬\n- vt. &vt. 鞠躬，欠身，低下（头等）\n- The crowd broke into cheers and the drunk bowed.（观众欢呼起来，醉汉向人们鞠躬致谢。）\n- As she couldn't answer the question, she bowed her head.（因为她回答不了这个问题，她低下了头。）\n- vi. 让步，屈服，服从\n- Why did you bow to their decision?（你为什么屈服于他们的决定？）\n- He finally bowed before money and married the other girl.（他最终屈服于金钱，娶了另一个女孩。）\n- vt. 压弯，压倒\n- My mother is bowed with age.（我母亲因年老而腰弯背驼。）\n- The little tree is bowed with snow.（小树被雪压弯了。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "斗牛是西班牙的传统活动，已有数百年的历史。在斗牛表演中，斗牛士（matador）与公牛进行对抗，展示勇气和技巧。斗牛通常在圆形竞技场（ring）中进行，观众坐在看台上观看。\n\n斗牛士通常穿着华丽的服装，手持红布（muleta）和剑。公牛对红色特别敏感，所以斗牛士用红布来引导公牛的行动。斗牛表演通常分为几个阶段，最后斗牛士会用剑刺死公牛。\n\n虽然斗牛在西班牙仍然很受欢迎，但在许多国家，包括西班牙的一些地区，斗牛已被禁止，因为它被认为是对动物的残忍行为。文章中的醉汉闯入斗牛场是一个危险的行为，因为公牛可能会攻击任何它认为具有威胁的人或物。\n\n此外，文章中的醉汉挥舞红帽子是一个特别危险的行为，因为公牛对红色特别敏感。在斗牛中，红色象征着危险和挑衅，所以醉汉的行为实际上是在挑衅公牛。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "bullfight",
+        "toggle": "n.斗牛(流行于西班牙和南美)",
+        "isDanger": 0,
+        "phonetic": "ˈbʊlfaɪt",
+        "meaning": "n. 斗牛"
+      },
+      {
+        "word": "drunk",
+        "toggle": "v. 喝酒（ drink 的过去分词）",
+        "isDanger": 0,
+        "phonetic": "drʌŋk",
+        "meaning": "n. 醉汉"
+      },
+      {
+        "word": "wander",
+        "toggle": "vi. 徘徊；漫步；离题；迷路",
+        "isDanger": 0,
+        "phonetic": "ˈwɒndə(r)",
+        "meaning": "v. 溜达，乱走"
+      },
+      {
+        "word": "ring",
+        "toggle": "vi. 按铃；敲钟；回响；成环形",
+        "isDanger": 1,
+        "phonetic": "rɪŋ",
+        "meaning": "n. 圆形竞技场地"
+      },
+      {
+        "word": "unaware",
+        "toggle": "adj. 不知道的，无意的；未察觉到的",
+        "isDanger": 0,
+        "phonetic": "ˌʌnəˈweə(r)",
+        "meaning": "adj. 不知道的，未觉察的"
+      },
+      {
+        "word": "bull",
+        "toggle": "n. 公牛；看好股市者；粗壮如牛的人； [ 俚 ] 胡说八道；印玺",
+        "isDanger": 0,
+        "phonetic": "bʊl",
+        "meaning": "n. 公牛"
+      },
+      {
+        "word": "matador",
+        "toggle": "n.斗牛士",
+        "isDanger": 0,
+        "phonetic": "ˈmætədɔː(r)",
+        "meaning": "n. 斗牛士"
+      },
+      {
+        "word": "remark",
+        "toggle": "n. 言辞；注意",
+        "isDanger": 1,
+        "phonetic": "rɪˈmɑːk",
+        "meaning": "n. 评论；言语"
+      },
+      {
+        "word": "apparently",
+        "toggle": "adv. 显然地；似乎，表面上",
+        "isDanger": 0,
+        "phonetic": "əˈpærəntli",
+        "meaning": "adv. 明显地"
+      },
+      {
+        "word": "sensitive",
+        "toggle": "adj. 敏感的；感光的；灵敏的；易受伤害的",
+        "isDanger": 0,
+        "phonetic": "ˈsensətɪv",
+        "meaning": "adj. 敏感的"
+      },
+      {
+        "word": "criticism",
+        "toggle": "n. 批评；苛求；考证",
+        "isDanger": 0,
+        "phonetic": "ˈkrɪtɪsɪzəm",
+        "meaning": "n. 批评"
+      },
+      {
+        "word": "charge",
+        "toggle": "n. 费用；掌管；控告；负载；电荷；命令",
+        "isDanger": 1,
+        "phonetic": "tʃɑːdʒ",
+        "meaning": "v. 冲上去"
+      },
+      {
+        "word": "clumsily",
+        "toggle": "adv. 笨拙地；粗陋地",
+        "isDanger": 0,
+        "phonetic": "ˈklʌmzɪli",
+        "meaning": "adv. 笨拙地"
+      },
+      {
+        "word": "bow",
+        "toggle": "n. 弓；鞠躬；船首",
+        "isDanger": 0,
+        "phonetic": "bəʊ",
+        "meaning": "v. 鞠躬"
+      },
+      {
+        "word": "safety",
+        "toggle": "n. 安全；保险；安全设备；保险装置；安打",
+        "isDanger": 0,
+        "phonetic": "ˈseɪfti",
+        "meaning": "n. 安全地带"
+      },
+      {
+        "word": "sympathetically",
+        "toggle": "adv. 悲怜地，怜悯地；富有同情心地",
+        "isDanger": 0,
+        "phonetic": "ˌsɪmpəˈθetɪkli",
+        "meaning": "adv. 同情地"
+      }
+    ]
+  }
+}

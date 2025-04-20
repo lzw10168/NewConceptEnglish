@@ -1,0 +1,183 @@
+{
+  "id": "nce2--048",
+  "lessonNumber": "048",
+  "title": {
+    "english": "Did you want to tell me something?",
+    "chinese": "你想告诉我什么吗？"
+  },
+  "lessonInfo": "新概念英语－第2册－第048课",
+  "audioPath": "audio/nce2/048.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the writer at the dentist's?",
+    "translation": "作者在牙医那里发生了什么？"
+  },
+  "editorNotes": "本课讲述了一个有趣的牙医就诊经历。文章通过生动的叙述展现了牙医在病人无法说话时仍不断提问的尴尬场面，以及最后发现拔错牙的意外情况。在语法方面，重点介绍了关系副词where的用法，以及一些常见的时间表达方式。文章还涉及了一些重要的词汇用法，如pull、collect、nod等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Dentists always ask questions when it is impossible for you to answer.",
+      "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "I tried to say something, but my mouth was full of cotton wool.",
+      "He knew I collected match boxes and asked me whether my collection was growing.",
+      "He then asked me how my brother was and whether I liked my new job in London.",
+      "In answer to these questions I either nodded or made strange noises.",
+      "Meanwhile, my tongue was busy searching out the hole where the tooth had been.",
+      "I suddenly felt very worried, but could not say anything.",
+      "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "牙科医生们总是在你无法作出回答的时候向你提出问题。",
+      "我的牙科医生刚刚给我拔掉了一颗牙，叫我休息一会儿。",
+      "我想说点什么，但我嘴里塞满了药棉。",
+      "他知道我收集火柴盒，于是问我收藏的火柴盒是否在增加。",
+      "接着他又问我的兄弟近来如何，问我是否喜欢伦敦的新工作。",
+      "作为对这些问题的回答，我不是点头，就是发出奇怪的声音。",
+      "与此同时，我的舌头正在忙着寻找刚拔掉的那颗牙的伤口。",
+      "我突然非常着急起来，但却什么也说不出来。",
+      "当那位牙医最后将药棉从我嘴中取出时，我总算有可能告诉他，他拔错了牙。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "关系副词where的用法",
+        "content": [
+          "where = 介词 + which",
+          "where引导定语从句，修饰表示地点的名词",
+          "例如：This is the river where I swim.（这是我游泳的河流）",
+          "where在从句中作地点状语"
+        ]
+      },
+      {
+        "title": "时间表达",
+        "content": [
+          "meanwhile = at the same time = in the mean time：表示同时",
+          "meanwhile不能连接两个句子，但表示意思上的承接",
+          "例如：He won't come until ten o'clock. Meanwhile you can have a rest."
+        ]
+      },
+      {
+        "title": "be busy doing结构",
+        "content": [
+          "be busy doing sth.：忙于做某事",
+          "例如：My tongue was busy searching out the hole where the tooth had been.",
+          "这个结构表示正在忙于做某事"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "pull one's leg",
+        "translation": "开某人玩笑",
+        "context": "表示开玩笑或戏弄某人",
+        "example": "You are pulling my leg.（你在开我玩笑）"
+      },
+      {
+        "phrase": "in answer to",
+        "translation": "作为对……的回答",
+        "context": "表示对某事的回应",
+        "example": "In answer to these questions I either nodded or made strange noises."
+      },
+      {
+        "phrase": "search out",
+        "translation": "找出，搜寻",
+        "context": "表示寻找或搜索某物",
+        "example": "My tongue was busy searching out the hole where the tooth had been."
+      },
+      {
+        "phrase": "nod off",
+        "translation": "打盹，打瞌睡",
+        "context": "表示困倦时点头打盹",
+        "example": "He used to nod off during the French class."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Meanwhile my tongue was busy...",
+        "options": [
+          "However",
+          "In the mean time",
+          "Nevertheless",
+          "Although"
+        ],
+        "answer": 1,
+        "explanation": "meanwhile = at the same time = in the mean time，表示同时发生的事。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "In answer ___ these questions I either nodded or made strange noises.",
+        "answer": "to",
+        "hint": "表示'作为对...的回答'的介词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "在英语国家，看牙医是一种常见的医疗体验。牙医通常会与病人交谈以缓解紧张情绪，但有时这种交谈可能会在病人无法说话时造成尴尬。这个故事幽默地描述了这种常见情况。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'pull one's leg'（开玩笑）、'nod off'（打盹）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "pull",
+        "toggle": "vt. 拉；拖；拔",
+        "isDanger": 1,
+        "phonetic": "pʊl",
+        "meaning": "v. 拔"
+      },
+      {
+        "word": "cotton wool",
+        "toggle": "药棉，脱脂棉",
+        "isDanger": 0,
+        "phonetic": "ˌkɒtn ˈwʊl",
+        "meaning": "n. 药棉"
+      },
+      {
+        "word": "collect",
+        "toggle": "vt. 收集；募捐",
+        "isDanger": 1,
+        "phonetic": "kəˈlekt",
+        "meaning": "v. 搜集"
+      },
+      {
+        "word": "collection",
+        "toggle": "n. 收藏品；募捐；征收；采集，聚集",
+        "isDanger": 0,
+        "phonetic": "kəˈlekʃ(ə)n",
+        "meaning": "n. 收藏品，收集品"
+      },
+      {
+        "word": "nod",
+        "toggle": "n. 点头；打盹；摆动",
+        "isDanger": 0,
+        "phonetic": "nɒd",
+        "meaning": "v. 点头"
+      },
+      {
+        "word": "meanwhile",
+        "toggle": "adv. 同时，其间",
+        "isDanger": 0,
+        "phonetic": "ˈmiːnwaɪl",
+        "meaning": "adv. 同时"
+      }
+    ]
+  }
+}

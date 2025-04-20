@@ -1,0 +1,389 @@
+{
+  "id": "nce1-033",
+  "lessonNumber": "033",
+  "title": {
+    "english": "A fine day",
+    "chinese": "晴天"
+  },
+  "lessonInfo": "新概念英语－第1册－第033课",
+  "audioPath": "audio/nce1/033.mp3",
+  "listeningQuestion": {
+    "question": "What are the different family members looking at?",
+    "translation": "琼斯一家的成员们各自在看什么？"
+  },
+  "editorNotes": "本课通过描述一个家庭在晴天外出的场景，展示了如何描述天气、环境和人物活动。课文重点介绍了现在进行时的延伸用法，以及表达位置关系的各种介词的使用。这些表达方式在描述日常生活场景和户外活动时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "It's a fine day today.",
+      "There are some clouds in the sky, but the sun is shining.",
+      "Mr Jones's with his family.",
+      "They are walking over the bridge.",
+      "There are some boats on the river.",
+      "Mr Jones and his wife are looking at them.",
+      "Sally is looking at a big ship.",
+      "The ship is going under the bridge.",
+      "Tim is looking at an aeroplane.",
+      "The aeroplane is flying over the river."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "今天天气好。",
+      "天空中飘着几朵云，但阳光灿烂。",
+      "琼斯先生同他的家人在一起。",
+      "他们正在过桥。",
+      "河上有几艘船。",
+      "琼斯先生和他的妻子正在看这些船。",
+      "莎莉正在观看一艘大船。",
+      "那船正从桥下驶过。",
+      "蒂姆正望着一架飞机。",
+      "飞机正从河上飞过。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 天气描述",
+        "children": [
+          "核心概念：描述天气状况",
+          "常用表达：",
+          "- It's a fine day (天气晴朗)",
+          "- The sun is shining (阳光灿烂)",
+          "使用场景：",
+          "- 谈论天气 | 描述自然现象 | 户外活动",
+          "注意事项：",
+          "- 天气词汇 | 自然现象 | 表达准确"
+        ]
+      },
+      {
+        "heading": "2. 位置移动",
+        "children": [
+          "核心概念：描述位置和移动",
+          "常用表达：",
+          "- walking over the bridge (过桥)",
+          "- going under the bridge (从桥下过)",
+          "使用场景：",
+          "- 描述运动 | 指明方向 | 说明位置",
+          "注意事项：",
+          "- 介词使用 | 动作描述 | 方向准确"
+        ]
+      },
+      {
+        "heading": "3. 观察描述",
+        "children": [
+          "核心概念：描述观察行为",
+          "常用表达：",
+          "- looking at boats (看船)",
+          "- looking at an aeroplane (看飞机)",
+          "使用场景：",
+          "- 描述注意力 | 表达兴趣 | 说明关注点",
+          "注意事项：",
+          "- 动作持续 | 对象明确 | 表达生动"
+        ]
+      },
+      {
+        "heading": "4. 环境描写",
+        "children": [
+          "核心概念：描述周围环境",
+          "常用表达：",
+          "- clouds in the sky (天上的云)",
+          "- boats on the river (河上的船)",
+          "使用场景：",
+          "- 描述景色 | 介绍环境 | 说明背景",
+          "注意事项：",
+          "- 细节描写 | 空间关系 | 整体印象"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. There be句型",
+        "children": [
+          "核心概念：",
+          "- 表示存在",
+          "- 描述位置",
+          "基本用法：",
+          "- There is/are + 名词",
+          "- 表示某物存在于某处",
+          "实用例句：",
+          "- There are some clouds in the sky. (天上有几朵云。)",
+          "- There are some boats on the river. (河上有几艘船。)",
+          "注意事项：",
+          "- 单复数一致 | some的用法 | 位置表达"
+        ]
+      },
+      {
+        "heading": "2. 现在进行时",
+        "children": [
+          "核心概念：",
+          "- 表示正在进行的动作",
+          "- 描述当前状态",
+          "基本用法：",
+          "- 主语 + is/are + 动词ing",
+          "- 表示此刻正在进行的动作",
+          "实用例句：",
+          "- They are walking over the bridge. (他们正在过桥。)",
+          "- The ship is going under the bridge. (轮船正从桥下驶过。)",
+          "注意事项：",
+          "- 动作持续性 | 时态一致 | 动词变化"
+        ]
+      },
+      {
+        "heading": "3. 介词用法",
+        "children": [
+          "核心概念：",
+          "- 表示位置关系",
+          "- 表示运动方向",
+          "基本用法：",
+          "- over (在...上方)",
+          "- under (在...下方)",
+          "实用例句：",
+          "- flying over the river (在河上飞)",
+          "- going under the bridge (从桥下过)",
+          "注意事项：",
+          "- 介词选择 | 搭配规则 | 空间概念"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 天气词汇",
+        "children": [
+          "基本词汇：",
+          "- fine (晴朗的)",
+          "- cloud (云)",
+          "- sun (太阳)",
+          "常用搭配：",
+          "- fine day (晴天)",
+          "- sunny day (阳光明媚的日子)",
+          "使用场景：",
+          "- 天气预报 | 日常对话 | 户外活动"
+        ]
+      },
+      {
+        "heading": "2. 交通工具",
+        "children": [
+          "基本词汇：",
+          "- boat (小船)",
+          "- ship (轮船)",
+          "- aeroplane (飞机)",
+          "常用搭配：",
+          "- by boat (乘船)",
+          "- big ship (大船)",
+          "使用场景：",
+          "- 交通方式 | 旅行工具 | 运输方式"
+        ]
+      },
+      {
+        "heading": "3. 动作动词",
+        "children": [
+          "基本词汇：",
+          "- walk (走)",
+          "- look (看)",
+          "- fly (飞)",
+          "常用搭配：",
+          "- walk over (走过)",
+          "- look at (看)",
+          "使用场景：",
+          "- 日常活动 | 观察行为 | 运动描述"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "day",
+        "toggle": "n. 一天；白昼；时期",
+        "isDanger": 1,
+        "phonetic": "deɪ",
+        "meaning": "n. 日子"
+      },
+      {
+        "word": "daily",
+        "toggle": "adj. 每日的；日常的",
+        "isDanger": 0,
+        "phonetic": "ˈdeɪli",
+        "meaning": "adj. 每天的"
+      },
+      {
+        "word": "fly",
+        "toggle": "vi. 飞；飘扬；驾驶飞机",
+        "isDanger": 1,
+        "phonetic": "flaɪ",
+        "meaning": "v. 飞"
+      },
+      {
+        "word": "cloud",
+        "toggle": "n. 云；云状物；一大群；阴云；黑斑",
+        "isDanger": 0,
+        "phonetic": "klaʊd",
+        "meaning": "n. 云"
+      },
+      {
+        "word": "sky",
+        "toggle": "n. 天空；顶点",
+        "isDanger": 1,
+        "phonetic": "skaɪ",
+        "meaning": "n. 天空"
+      },
+      {
+        "word": "sun",
+        "toggle": "n. 太阳",
+        "isDanger": 1,
+        "phonetic": "sʌn",
+        "meaning": "n. 太阳"
+      },
+      {
+        "word": "shine",
+        "toggle": "vi. 照耀；显露；出众",
+        "isDanger": 0,
+        "phonetic": "ʃaɪn",
+        "meaning": "v. 照耀"
+      },
+      {
+        "word": "with",
+        "toggle": "prep. 用；支持；随着；和 … 在一起",
+        "isDanger": 1,
+        "phonetic": "wɪð",
+        "meaning": "prep. 和…在一起"
+      },
+      {
+        "word": "family",
+        "toggle": "n. 家庭；家族；家属；亲属；子女；僚属",
+        "isDanger": 0,
+        "phonetic": "ˈfæməli",
+        "meaning": "n. 家庭(成员)"
+      },
+      {
+        "word": "walk",
+        "toggle": "n. 步行，走；散步",
+        "isDanger": 0,
+        "phonetic": "wɔːk",
+        "meaning": "v. 走路，步行"
+      },
+      {
+        "word": "hike",
+        "toggle": "vi. 远足；上升；徒步旅行",
+        "isDanger": 0,
+        "phonetic": "haɪk",
+        "meaning": "v. 徒步"
+      },
+      {
+        "word": "over",
+        "toggle": "adv. 结束；越过；从头到尾",
+        "isDanger": 1,
+        "phonetic": "ˈəʊvə(r)",
+        "meaning": "prep. 跨越，在…之上"
+      },
+      {
+        "word": "across",
+        "toggle": "prep. 穿过；横穿",
+        "isDanger": 0,
+        "phonetic": "əˈkrɒs",
+        "meaning": "prep. (平面)跨越"
+      },
+      {
+        "word": "bridge",
+        "toggle": "n. 桥；桥牌；船桥；桥接器",
+        "isDanger": 0,
+        "phonetic": "brɪdʒ",
+        "meaning": "n. 桥"
+      },
+      {
+        "word": "boat",
+        "toggle": "n. 小船；轮船",
+        "isDanger": 0,
+        "phonetic": "bəʊt",
+        "meaning": "n. 船"
+      },
+      {
+        "word": "ship",
+        "toggle": "vt. 运送，乘船；以船运送",
+        "isDanger": 0,
+        "phonetic": "ʃɪp",
+        "meaning": "n. 轮船"
+      },
+      {
+        "word": "river",
+        "toggle": "n. 河，江",
+        "isDanger": 0,
+        "phonetic": "ˈrɪvə(r)",
+        "meaning": "n. 河"
+      },
+      {
+        "word": "aeroplane",
+        "toggle": "n. <英> 飞机",
+        "isDanger": 0,
+        "phonetic": "ˈeərəpleɪn",
+        "meaning": "n. 飞机(英)"
+      },
+      {
+        "word": "airplane",
+        "toggle": "n. 飞机",
+        "isDanger": 0,
+        "phonetic": "ˈeəpleɪn",
+        "meaning": "n. 飞机(美)"
+      },
+      {
+        "word": "sleep",
+        "toggle": "vi. 睡，睡觉",
+        "isDanger": 1,
+        "phonetic": "sliːp",
+        "meaning": "v. 睡觉"
+      },
+      {
+        "word": "asleep",
+        "toggle": "adj. 睡着的；麻木的；长眠的",
+        "isDanger": 0,
+        "phonetic": "əˈsliːp",
+        "meaning": "adj. 睡着的"
+      },
+      {
+        "word": "shave",
+        "toggle": "vt. 剃；修面；掠过",
+        "isDanger": 1,
+        "phonetic": "ʃeɪv",
+        "meaning": "v. 刮脸"
+      },
+      {
+        "word": "cry",
+        "toggle": "vt. 叫喊；哭出；大声说",
+        "isDanger": 0,
+        "phonetic": "kraɪ",
+        "meaning": "v. 哭，喊"
+      },
+      {
+        "word": "wash",
+        "toggle": "n. 洗涤；洗的衣服；冲积物；化妆水",
+        "isDanger": 1,
+        "phonetic": "wɒʃ",
+        "meaning": "v. 洗"
+      },
+      {
+        "word": "wait",
+        "toggle": "vt. 等候；推迟；延缓",
+        "isDanger": 0,
+        "phonetic": "weɪt",
+        "meaning": "v. 等"
+      },
+      {
+        "word": "jump",
+        "toggle": "n. 跳跃；暴涨；惊跳",
+        "isDanger": 0,
+        "phonetic": "dʒʌmp",
+        "meaning": "v. 跳"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

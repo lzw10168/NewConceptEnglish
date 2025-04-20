@@ -1,0 +1,265 @@
+{
+  "id": "nce2--075",
+  "lessonNumber": "075",
+  "title": {
+    "english": "SOS",
+    "chinese": "呼救信号"
+  },
+  "lessonInfo": "新概念英语－第2册－第075课",
+  "audioPath": "audio/nce2/075.mp3",
+  "listeningQuestion": {
+    "question": "How did the woman send a signal for help?",
+    "translation": "这位妇女是如何发出求救信号的？"
+  },
+  "editorNotes": "本课讲述了一架轻型客机坠毁后，一位年轻母亲和她的两个婴儿在严寒中求生的故事。文章描述了这位母亲如何利用有限的资源保护孩子，以及她如何在雪地上踩出'SOS'信号寻求救援。文章通过这个惊险的求生故事，展示了表示'变成'的不同动词用法，以及一些常见的英语表达方式。文章还展示了如何描述紧急情况和求生技巧，以及一些常见的英语表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
+      "The only passengers, a young woman and her two baby daughters, were unhurt.",
+      "It was the middle of winter. Snow lay thick on the ground.",
+      "The woman knew that the nearest village was miles away.",
+      "When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find.",
+      "During the night, it got terribly cold.",
+      "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.",
+      "Early next morning, she heard planes passing overhead and wondered how she could send a signal.",
+      "Then she had an idea. She stamped out the letters 'SOS' in the snow.",
+      "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.",
+      "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "不久前，一架轻型客机偏离了航线，在山区坠毁，飞行员丧生。",
+      "机上仅有的乘客，一位年轻的妇女和她的两个女婴却平安无事。",
+      "此时正值隆冬季节，地上积着厚厚的雪。",
+      "这位妇女知道，即使最近的村庄也有数英里远。",
+      "天黑下来的时候，她把提箱当作小床，把两个孩子放了进去，又把所有能找到的衣服都盖在了孩子们身上。",
+      "夜里，天冷得厉害。",
+      "这位妇女尽可能地靠近孩子，甚至自己也想钻进箱子里去，只是箱子太小了。",
+      "第二天一大早，她听到头顶上有飞机飞过，但不知道怎样才能发个信号。",
+      "后来她有了一个主意。她在雪地上踩出了'SOS'这三个字母。",
+      "幸运得很，一位飞行员看到这个信号，用无线电给最近的城镇发了报。",
+      "不久，一架直升飞机飞抵飞机失事现场，来搭救这几个幸存者。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "表示'变成'的不同动词用法",
+        "content": [
+          "grow: 表示'（逐渐）变得'，比get要正式些",
+          "例如：He has grown fat.（他变胖了。）",
+          "He has grown to like studying mathematics.（他逐渐喜欢上了学习数学。）",
+          "grow dark（变黑）grow = get slowly（慢慢变得）",
+          "turn: 表示'把（状态、性质）改变（成）...'或'使变颜色'等",
+          "例如：Leaves will turn yellow in autumn.（树叶在秋天会变黄。）",
+          "A colony of bees had turned the engine into a hive.（一群蜜蜂把发动机变成了蜂巢。）",
+          "His face turned red.（他的脸变红了。）",
+          "go: 表示'变成（某种状态）'，通常表示不好的变化",
+          "例如：Some foods go bad easily.（有些食物容易变质。）",
+          "The milk went sour.（牛奶变酸了。）",
+          "get: 在口语中使用较多，表示'成为（某种状态）'，强调的是变化的过程（一下子变得）",
+          "例如：Things got so bad recently that he decided to go on a diet.（最近情况变得如此糟糕，他决定节食。）",
+          "天气变化，一般用get，get cold（变冷）",
+          "come: 可表示'变成，成为，达到'等，与true连用时表示'实现'",
+          "例如：Her dream to swim across the channel has come true.（她横渡海峡的梦想实现了。）",
+          "come + true/right/loose",
+          "The dream comes true.（梦想成真。）",
+          "Take it easy. Everything will come right.（别担心，一切都会好起来的。）",
+          "come loose（变松动）",
+          "fall: 可表示'变成...的状态'",
+          "例如：fall + asleep/ill（坠入梦乡/病倒了）",
+          "You fell asleep while I was talking to you.（我在和你说话时，你睡着了。）",
+          "He fell ill last week, so he didn't come to your wedding.（他上周病倒了，所以没来参加你的婚礼。）"
+        ]
+      },
+      {
+        "title": "as...as sb. can/could结构",
+        "content": [
+          "as...as sb. can/could = as...as possible（尽可能的...）",
+          "例如：The woman kept as near as she could to the children.（这位妇女尽可能地靠近孩子。）",
+          "He got through as much food as he could and set out.（他尽可能多地吃了食物，然后出发了。）",
+          "Tell Jim to come to my office as soon as he can.（告诉吉姆尽快来我的办公室。）",
+          "near to = close to（靠近）"
+        ]
+      },
+      {
+        "title": "It was not long before + 从句结构",
+        "content": [
+          "It was not long before + 从句表示'不久就...'（指过去）",
+          "例如：It was not long before a helicopter arrived on the scene.（不久，一架直升飞机就到达了现场。）",
+          "It was not long before he went abroad.（不久他就出国了。）",
+          "It was not long before I finished my homework.（不久我就完成了作业。）",
+          "It will not be long before...表示'不久就...'（将来可能发生的事）",
+          "例如：It will not be long before he gets over his illness.（不久他就会康复。）",
+          "before long表示'不久以后'（一般将来时，从现在算不久以后会怎么样）",
+          "例如：Before long, he will go abroad.（不久以后，他就会出国。）",
+          "shortly before表示'...之前不久'",
+          "shortly after表示'...之后立即'"
+        ]
+      },
+      {
+        "title": "hear sb. doing sth.结构",
+        "content": [
+          "hear sb. doing sth.表示'听见某人正在做某事'",
+          "例如：Early next morning, she heard planes passing overhead.（第二天一大早，她听到头顶上有飞机飞过。）",
+          "I heard someone knocking at the door.（我听见有人在敲门。）",
+          "类似的感官动词还有：see, watch, notice, feel等",
+          "例如：I saw him crossing the street.（我看见他正在过马路。）",
+          "I felt the house shaking.（我感觉房子在摇晃。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "fly off course",
+        "translation": "飞行偏离航线",
+        "context": "表示飞机偏离预定航线",
+        "example": "When a light passenger plane flew off course some time ago, it crashed in the mountains."
+      },
+      {
+        "phrase": "turn...into...",
+        "translation": "把...变成...",
+        "context": "表示将一种东西转变为另一种东西",
+        "example": "When it grew dark, she turned a suitcase into a bed and put the children inside it."
+      },
+      {
+        "phrase": "stamp out",
+        "translation": "踩出",
+        "context": "表示用脚踩出某种形状或图案",
+        "example": "She stamped out the letters 'SOS' in the snow."
+      },
+      {
+        "phrase": "on the scene",
+        "translation": "在现场",
+        "context": "表示在事件发生的地点",
+        "example": "It was not long before a helicopter arrived on the scene to rescue the survivors."
+      },
+      {
+        "phrase": "SOS",
+        "translation": "国际通用的呼救信号",
+        "context": "表示紧急求救",
+        "example": "SOS = Save Our Souls（救救我们的灵魂）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "It got terribly cold. The cold was ___.",
+        "options": [
+          "frightening",
+          "horrifying",
+          "shocking",
+          "frightful"
+        ],
+        "answer": 3,
+        "explanation": "frightful = terrible（可怕的，糟糕的）。frightening表示'让人产生吓了一跳的感觉'；horrifying表示'令人恐惧的'；shocking表示'令人震惊的（坏事）'。"
+      },
+      {
+        "question": "You would be irritated if you watched the mail ___ on your desk every day.",
+        "options": [
+          "putting up",
+          "to be put up",
+          "to pile up",
+          "pile up"
+        ],
+        "answer": 3,
+        "explanation": "see sb. do/doing sth.结构。put up = set up（搭建）；pile up（堆起来）。"
+      },
+      {
+        "question": "We shall set Jim ___ the passage.",
+        "options": [
+          "explaining",
+          "explained",
+          "to explain",
+          "explain"
+        ],
+        "answer": 2,
+        "explanation": "set sb. to do sth.（派某人做某事）。set sb. doing = cause（导致...）。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "When it ___ dark, she turned a suitcase into a bed.",
+        "answer": "grew",
+        "explanation": "grow dark表示'变黑'，grow表示'逐渐变得'。"
+      },
+      {
+        "sentence": "The woman kept as ___ as she could to the children.",
+        "answer": "near",
+        "explanation": "as...as sb. can/could结构表示'尽可能的...'。"
+      },
+      {
+        "sentence": "She ___ out the letters 'SOS' in the snow.",
+        "answer": "stamped",
+        "explanation": "stamp out表示'踩出'。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Survivor的用法：\n- survivor: 名词，幸存者（指人）\n  The helicopter arrived to rescue the survivors of the plane crash.（直升飞机到达现场营救飞机失事的幸存者。）\n  There were no survivors from the shipwreck.（船难中没有幸存者。）\n\n- survival: 名词，幸存的东西\n  The survival of the fittest.（适者生存。）\n\n- survive: 动词，生存；存活下来\n  I learn how to live, but now I know how to survive.（我学会了如何生活，但现在我知道如何生存。）\n  I survived after the fire.（我在火灾后活了下来。）\n  survive + sth.(灾难): 经过某种灾难还存在，还活着\n  I survived the fire.（我在火灾中活了下来。）\n  The house survived the earthquake.（房子在地震中幸存下来。）\n\n2. Scene的用法：\n- scene: 名词，（事件发生的）地点，现场\n  A helicopter soon arrived on the scene to rescue the survivors.（一架直升飞机很快飞抵出事现场，搭救幸存者。）\n  These things were found at the scene of the murder.（这些东西在谋杀现场被发现。）\n\n- scene: 名词，风景，景色；景象\n  A beautiful scene always makes me delighted.（美丽的景色总是让我高兴。）\n  I have just seen a sad scene.（我刚刚看到了一个悲伤的景象。）\n\n3. Kill的用法：\n- kill: 动词，杀（仅表示死了，不一定是人为的杀死，有可能是火灾等）\n  Fire in Tokyo. Five people killed. Ten persons injured.（东京发生火灾。五人死亡，十人受伤。）\n\n- murder: 动词，谋杀（故意杀死）\n  He was murdered in his own home.（他在自己的家中被谋杀。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "SOS是国际通用的呼救信号，起源于摩尔斯电码。虽然许多人认为SOS代表'Save Our Souls'（救救我们的灵魂）或'Save Our Ship'（救救我们的船），但实际上它只是一个简单的信号，由三个短信号、三个长信号和三个短信号组成（...---...），在摩尔斯电码中易于识别和记忆。\n\n在紧急情况下，人们会使用各种方法发出求救信号。除了SOS外，还有国际通用的求救手势（如举起双臂形成V形）、使用镜子反射阳光、点燃三堆火等。在雪地上踩出SOS是一种常见的求救方法，因为字母足够大，可以从空中看到。\n\n直升飞机救援是山区和海上救援的重要方式。直升飞机可以悬停在空中，不需要跑道就能降落，因此特别适合在难以到达的地方进行救援。在紧急情况下，直升飞机救援可以大大缩短救援时间，提高生存率。\n\n在极端环境下生存需要智慧和勇气。本课中的母亲展示了在危机中保护孩子的本能，以及利用有限资源创造生存条件的智慧。她的故事也提醒我们，在紧急情况下保持冷静和创造力的重要性。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "thick",
+        "toggle": "n. 最拥挤部份；活动最多部份；事物的粗大浓密部份",
+        "isDanger": 0,
+        "phonetic": "θɪk",
+        "meaning": "adj. 厚的"
+      },
+      {
+        "word": "signal",
+        "toggle": "n. 信号；暗号；导火线",
+        "isDanger": 1,
+        "phonetic": "ˈsɪɡnəl",
+        "meaning": "n. 信号"
+      },
+      {
+        "word": "stamp",
+        "toggle": "n. 邮票；印记；跺脚；标志",
+        "isDanger": 0,
+        "phonetic": "stæmp",
+        "meaning": "v. 跺，踩"
+      },
+      {
+        "word": "helicopter",
+        "toggle": "n. 直升飞机",
+        "isDanger": 0,
+        "phonetic": "ˈhelɪkɒptə(r)",
+        "meaning": "n. 直升飞机"
+      },
+      {
+        "word": "scene",
+        "toggle": "n. 情景；景象；场面；事件",
+        "isDanger": 0,
+        "phonetic": "siːn",
+        "meaning": "n. 现场"
+      },
+      {
+        "word": "survivor",
+        "toggle": "n. 生还者；幸存者；残存物",
+        "isDanger": 0,
+        "phonetic": "səˈvaɪvə(r)",
+        "meaning": "n. 幸存者"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "id": "nce1-133",
+  "lessonNumber": "133",
+  "title": {
+    "english": "Sensational News",
+    "chinese": "爆炸性新闻"
+  },
+  "lessonInfo": "新概念英语－第1册－第133课",
+  "audioPath": "audio/nce1/133.mp3",
+  "listeningQuestion": {
+    "question": "What did Miss Marsh tell the reporters about her future plans?",
+    "translation": "马什小姐告诉记者她对未来有什么计划？"
+  },
+  "editorNotes": "本课通过一段新闻采访和报道的对比，展示了直接引语和间接引语的使用。课文重点介绍了新闻报道的写作方式，以及如何将对话转换为报道形式。这些表达方式在新闻写作和转述他人话语时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Reporter: Have you just made a new film, Miss Marsh?",
+      "Miss Marsh: Yes, I have.",
+      "Reporter: Are you going to make another?",
+      "Miss Marsh: No, I'm not.",
+      "Miss Marsh: I'm going to retire.",
+      "Miss Marsh: I feel very tired.",
+      "Miss Marsh: I don't want to make another film for a long time.",
+      "Kate: Let's buy a newspaper, Millie.",
+      "Kate: Listen to this!",
+      "'Karen Marsh: Sensational News!",
+      "By our reporter, Alan Jones.",
+      "Miss Karen Marsh arrived at London Airport today.",
+      "She was wearing a blue dress and a mink coat.",
+      "She told me she had just made a new film.",
+      "She said she was not going to make another.",
+      "She said she was going to retire.",
+      "She told reporters she felt very tired and didn't want to make another film for a long time.'",
+      "Millie: Well, fancy that, Kate!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "记 者：您刚拍完一部新电影吗，马什小姐？",
+      "马什小姐：是的，我刚拍完。",
+      "记 者：您准备再拍一部吗？",
+      "马什小姐：不，我不准备拍了。",
+      "马什小姐：我准备退休了。",
+      "马什小姐：我感觉累得很。",
+      "马什小姐：我早就不想再拍片子了。",
+      "凯 特：我们买份报纸吧，莉兹。",
+      "凯 特：你听这段：",
+      "《卡伦·马什：爆炸性新闻！",
+      "本报记者艾伦·琼斯报导。",
+      "卡伦·马什今天到达伦敦机场。",
+      "她穿着一身蓝色的套装和一件貂皮大衣。",
+      "她告诉我她刚拍完一部新片子。",
+      "她说她不准备再拍电影了。",
+      "她说她准备退休。",
+      "她告诉记者她感到很疲劳，早就不想再拍电影了。》",
+      "莉 兹：真想不到，凯特！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 采访对话",
+        "children": [
+          "核心概念：如何进行新闻采访",
+          "常用表达：",
+          "- Have you just...? 你是不是刚刚...？",
+          "- Are you going to...? 你准备...吗？",
+          "- I'm going to... 我准备...",
+          "使用场景：进行采访提问时",
+          "注意事项：注意提问的礼貌性"
+        ]
+      },
+      {
+        "heading": "2. 新闻报道",
+        "children": [
+          "核心概念：如何撰写新闻报道",
+          "常用表达：",
+          "- By our reporter 由本报记者报道",
+          "- She was wearing... 她穿着...",
+          "- She told reporters... 她告诉记者们...",
+          "使用场景：撰写新闻报道时",
+          "注意事项：注意细节描写的重要性"
+        ]
+      },
+      {
+        "heading": "3. 转述他人话语",
+        "children": [
+          "核心概念：如何转述对话内容",
+          "常用表达：",
+          "- She said she was... 她说她...",
+          "- She told me she had... 她告诉我她...",
+          "- She said she felt... 她说她感觉...",
+          "使用场景：转述他人话语时",
+          "注意事项：注意时态的变化"
+        ]
+      },
+      {
+        "heading": "4. 表达感受",
+        "children": [
+          "核心概念：如何表达个人感受",
+          "常用表达：",
+          "- I feel very tired 我感觉很累",
+          "- I don't want to... 我不想...",
+          "- Well, fancy that! 真想不到！",
+          "使用场景：表达个人感受时",
+          "注意事项：注意语气的真实性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 直接引语转间接引语",
+        "children": [
+          "1. 人称代词的变化：I → she/he",
+          "2. 时态的变化：am/is → was",
+          "3. 连接词的使用：that的添加",
+          "4. 例句：'I am tired' → She said (that) she was tired"
+        ]
+      },
+      {
+        "heading": "2. 现在完成时",
+        "children": [
+          "1. 表示刚完成的动作：have just made",
+          "2. 与现在的关联",
+          "3. 常与just连用",
+          "4. 例句：I have just made a new film"
+        ]
+      },
+      {
+        "heading": "3. be going to表示计划",
+        "children": [
+          "1. 表示打算或计划：I'm going to retire",
+          "2. 用于近期打算",
+          "3. 表示主观意愿",
+          "4. 例句：She is going to retire"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 新闻相关词汇",
+        "children": [
+          "reporter n. 记者：",
+          "- news reporter 新闻记者",
+          "- sports reporter 体育记者",
+          "news n. 新闻：",
+          "- sensational news 爆炸性新闻",
+          "- breaking news 突发新闻"
+        ]
+      },
+      {
+        "heading": "2. 服装相关词汇",
+        "children": [
+          "dress n. 连衣裙：",
+          "- blue dress 蓝色连衣裙",
+          "- wear a dress 穿连衣裙",
+          "coat n. 外套：",
+          "- mink coat 貂皮大衣",
+          "- winter coat 冬季外套"
+        ]
+      },
+      {
+        "heading": "3. 职业相关词汇",
+        "children": [
+          "retire v. 退休：",
+          "- plan to retire 计划退休",
+          "- retire early 提前退休",
+          "film n. 电影：",
+          "- make a film 拍电影",
+          "- new film 新电影"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "reporter",
+        "toggle": "n. 记者",
+        "isDanger": 0,
+        "phonetic": "rɪˈpɔːtə(r)",
+        "meaning": "n. 记者"
+      },
+      {
+        "word": "sensational",
+        "toggle": "adj. 轰动的；使人感动的；非常好的；耸人听闻的",
+        "isDanger": 0,
+        "phonetic": "senˈseɪʃən(ə)l",
+        "meaning": "adj. 爆炸性的，耸人听闻的"
+      },
+      {
+        "word": "mink coat",
+        "toggle": "n. 貂皮大衣",
+        "isDanger": 0,
+        "phonetic": "mɪŋk kəʊt",
+        "meaning": "n. 貂皮大衣"
+      },
+      {
+        "word": "mink",
+        "toggle": "n. 貂；貂皮衣",
+        "isDanger": 0,
+        "phonetic": "mɪŋk",
+        "meaning": "n. 貂皮"
+      },
+      {
+        "word": "journalist",
+        "toggle": "n. 记日志者；新闻工作者；报人",
+        "isDanger": 0,
+        "phonetic": "ˈdʒɜːnəlɪst",
+        "meaning": "n. 新闻工作者"
+      },
+      {
+        "word": "report",
+        "toggle": "n. 报告；报道；成绩单",
+        "isDanger": 0,
+        "phonetic": "rɪˈpɔːt",
+        "meaning": "n. 报告"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

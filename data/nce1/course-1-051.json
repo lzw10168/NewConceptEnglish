@@ -1,0 +1,422 @@
+{
+  "id": "nce1-051",
+  "lessonNumber": "051",
+  "title": {
+    "english": "A pleasant climate",
+    "chinese": "宜人的气候"
+  },
+  "lessonInfo": "新概念英语－第1册－第051课",
+  "audioPath": "audio/nce1/051.mp3",
+  "listeningQuestion": {
+    "question": "What's the weather like in Greece during different seasons?",
+    "translation": "听录音回答：希腊在不同季节的天气是怎样的？"
+  },
+  "editorNotes": "本课介绍了如何用英语描述不同季节的天气和气候特点。通过一段关于希腊气候的对话，学习询问和描述天气的表达方式，掌握季节、月份和天气词汇的使用。同时了解如何使用频率副词来描述天气变化，为日常交际中谈论天气话题打下基础。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "HANS:                 Where do you come from?",
+      "DIMITRI:            I come from Greece.",
+      "HANS:                 What's the climate like in your country?",
+      "DIMITRI:              It's very pleasant.",
+      "Hans:                    What's the weather like in spring?",
+      "DIMITRI:             It's often windy in March. It's always warm in April and May, but it rains sometimes.",
+      "HANS:                  What's it like in summer?",
+      "DIMITRI:             It's always hot in June, July and August. The sun shines every day.",
+      "HANS:                Is it cold or warm in autumn?",
+      "DIMITRI:             It's always warm in September and October. It's often cold in November and it rains sometimes.",
+      "HANS:                  Is it very cold in winter?",
+      "DIMITRI:             It's often cold in December, January and February. It snows sometimes."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "汉 斯：你是哪国人？",
+      "迪米特里：我是希腊人。",
+      "汉 斯：你们的国家的气候是怎么样？",
+      "迪米特里：气候非常宜人。",
+      "汉 斯：春季的天气怎么样？",
+      "迪米特里：3月里常常刮风。4月和5月的天气总暖洋洋的，但有时下雨。",
+      "汉 斯：夏季的天气如何呢？",
+      "迪米特里：6月、7月和8月的天气总是炎热的 每天都出太阳。",
+      "汉 斯：秋季的天气是冷还是暖呢？",
+      "迪米特里：9月和10月总是很暖和，11月常常就冷了，而且有时下雨。",
+      "汉 斯：冬季的天气很冷吗？",
+      "迪米特里：12月、1月和2月常常很冷，有时还下雪。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问天气",
+        "children": [
+          "核心概念：询问天气的表达方式",
+          "常用表达：",
+          "- What's the climate like...? 气候怎么样？",
+          "- What's the weather like...? 天气怎么样？",
+          "- What's it like in summer? 夏天天气如何？",
+          "使用场景：",
+          "- 询问某地气候、询问季节天气、了解天气变化",
+          "注意事项：",
+          "- like用于询问性质和特点、注意时态的使用"
+        ]
+      },
+      {
+        "heading": "2. 描述天气",
+        "children": [
+          "核心概念：天气描述的基本表达",
+          "常用表达：",
+          "- It's very pleasant. 非常宜人。",
+          "- It's often windy/warm/cold. 常常刮风/暖和/寒冷。",
+          "- The sun shines every day. 每天都有阳光。",
+          "使用场景：",
+          "- 描述当前天气、描述季节特点、表达天气变化",
+          "注意事项：",
+          "- 使用频率副词、注意时态一致性"
+        ]
+      },
+      {
+        "heading": "3. 季节变化",
+        "children": [
+          "核心概念：描述季节特征",
+          "常用表达：",
+          "- in spring/summer/autumn/winter 在春/夏/秋/冬季",
+          "- in March/April/May 在三月/四月/五月",
+          "使用场景：",
+          "- 描述季节变化、说明月份天气、表达气候特点",
+          "注意事项：",
+          "- 介词in的使用、月份首字母大写"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 频率副词的使用",
+        "children": [
+          "1. always 总是：表示100%的频率",
+          "2. often 经常：表示较高频率",
+          "3. sometimes 有时：表示偶尔发生",
+          "4. 频率副词在一般现在时中的位置：主语 + 频率副词 + 动词"
+        ]
+      },
+      {
+        "heading": "2. What's...like? 句型",
+        "children": [
+          "1. 用于询问性质、特点",
+          "2. like在此不表示'喜欢'",
+          "3. 常见问句：",
+          "   - What's the weather like?",
+          "   - What's the climate like?",
+          "4. 回答方式：It's + 形容词"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 天气词汇",
+        "children": [
+          "weather n. 天气：",
+          "- sunny weather 晴朗的天气",
+          "- bad weather 坏天气",
+          "climate n. 气候：",
+          "- mild climate 温和的气候",
+          "- tropical climate 热带气候"
+        ]
+      },
+      {
+        "heading": "2. 季节词汇",
+        "children": [
+          "spring n. 春季：",
+          "- in early spring 在初春",
+          "- spring flowers 春花",
+          "summer n. 夏季：",
+          "- hot summer 炎热的夏天",
+          "- summer holiday 暑假"
+        ]
+      },
+      {
+        "heading": "3. 天气描述",
+        "children": [
+          "pleasant adj. 宜人的：",
+          "- pleasant climate 宜人的气候",
+          "- pleasant day 愉快的一天",
+          "windy adj. 有风的：",
+          "- windy day 刮风的日子",
+          "- windy weather 有风的天气"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Greece",
+        "toggle": "n.希腊（欧洲南部国家）",
+        "isDanger": 0,
+        "phonetic": "ɡriːs",
+        "meaning": "n. 希腊"
+      },
+      {
+        "word": "climate",
+        "toggle": "n. 气候；风气；思潮；风土",
+        "isDanger": 1,
+        "phonetic": "ˈklaɪmət",
+        "meaning": "n. 气候"
+      },
+      {
+        "word": "country",
+        "toggle": "n. 国家；故乡",
+        "isDanger": 0,
+        "phonetic": "ˈkʌntri",
+        "meaning": "n. 国家"
+      },
+      {
+        "word": "pleasant",
+        "toggle": "adj. 令人愉快的，舒适的；讨人喜欢的，和蔼可亲的",
+        "isDanger": 1,
+        "phonetic": "ˈplez(ə)nt",
+        "meaning": "adj. 宜人的"
+      },
+      {
+        "word": "weather",
+        "toggle": "n. 天气；气象；处境；气候",
+        "isDanger": 1,
+        "phonetic": "ˈweðə(r)",
+        "meaning": "n. 天气"
+      },
+      {
+        "word": "spring",
+        "toggle": "n. 春天；弹簧；泉水；跳跃；活力",
+        "isDanger": 1,
+        "phonetic": "sprɪŋ",
+        "meaning": "n. 春季"
+      },
+      {
+        "word": "windy",
+        "toggle": "adj. 多风的，有风的；腹胀的；吹牛的",
+        "isDanger": 0,
+        "phonetic": "ˈwɪndi",
+        "meaning": "adj. 有风的"
+      },
+      {
+        "word": "warm",
+        "toggle": "adj. 温暖的；热情的",
+        "isDanger": 1,
+        "phonetic": "wɔːm",
+        "meaning": "adj. 温暖的"
+      },
+      {
+        "word": "rain",
+        "toggle": "n. 雨；雨天；雨季；下雨",
+        "isDanger": 1,
+        "phonetic": "reɪn",
+        "meaning": "v. 下雨"
+      },
+      {
+        "word": "sometimes",
+        "toggle": "adv. 有时，间或",
+        "isDanger": 0,
+        "phonetic": "ˈsʌmtaɪmz",
+        "meaning": "adv. 有时"
+      },
+      {
+        "word": "summer",
+        "toggle": "n. 夏季；全盛时期",
+        "isDanger": 0,
+        "phonetic": "ˈsʌmə(r)",
+        "meaning": "n. 夏天"
+      },
+      {
+        "word": "autumn",
+        "toggle": "n. 秋天；成熟期；渐衰期，凋落期",
+        "isDanger": 0,
+        "phonetic": "ˈɔːtəm",
+        "meaning": "n. 秋天"
+      },
+      {
+        "word": "winter",
+        "toggle": "n. 冬季；年岁；萧条期",
+        "isDanger": 0,
+        "phonetic": "ˈwɪntə(r)",
+        "meaning": "n. 冬天"
+      },
+      {
+        "word": "snow",
+        "toggle": "n. 雪，积雪；下雪",
+        "isDanger": 0,
+        "phonetic": "snəʊ",
+        "meaning": "v. 下雪"
+      },
+      {
+        "word": "January",
+        "toggle": "n.一月(略作Jan)",
+        "isDanger": 0,
+        "phonetic": "ˈdʒænjuəri",
+        "meaning": "n. 一月"
+      },
+      {
+        "word": "February",
+        "toggle": "n.二月(略作Feb)",
+        "isDanger": 0,
+        "phonetic": "ˈfebruəri",
+        "meaning": "n. 二月"
+      },
+      {
+        "word": "march",
+        "toggle": "n. 进行曲；行军，进军；示威游行",
+        "isDanger": 0,
+        "phonetic": "mɑːtʃ",
+        "meaning": "n. 三月"
+      },
+      {
+        "word": "April",
+        "toggle": "n.四月(略作Apr)",
+        "isDanger": 0,
+        "phonetic": "ˈeɪprəl",
+        "meaning": "n. 四月"
+      },
+      {
+        "word": "may",
+        "toggle": "aux. 可能，可以；愿意",
+        "isDanger": 1,
+        "phonetic": "may",
+        "meaning": "n. 五月"
+      },
+      {
+        "word": "June",
+        "toggle": "n.六月(略作Jun)",
+        "isDanger": 0,
+        "phonetic": "dʒuːn",
+        "meaning": "n. 六月"
+      },
+      {
+        "word": "July",
+        "toggle": "n.七月(略作Jul)",
+        "isDanger": 0,
+        "phonetic": "dʒʊˈlaɪ",
+        "meaning": "n. 七月"
+      },
+      {
+        "word": "august",
+        "toggle": "adj.令人敬畏的,威严的n.八月(略作Aug) August 八月",
+        "isDanger": 0,
+        "phonetic": "ɔːˈɡʌst",
+        "meaning": "n. 八月"
+      },
+      {
+        "word": "September",
+        "toggle": "n.九月(略作Sep)",
+        "isDanger": 0,
+        "phonetic": "sepˈtembə(r)",
+        "meaning": "n. 九月"
+      },
+      {
+        "word": "October",
+        "toggle": "n.十月(略作Oct)",
+        "isDanger": 0,
+        "phonetic": "ɒkˈtəʊbə(r)",
+        "meaning": "n. 十月"
+      },
+      {
+        "word": "November",
+        "toggle": "n.十一月(略作Nov)",
+        "isDanger": 0,
+        "phonetic": "nəʊˈvembə(r)",
+        "meaning": "n. 十一月"
+      },
+      {
+        "word": "December",
+        "toggle": "n.十二月(略作Dec)",
+        "isDanger": 0,
+        "phonetic": "dɪˈsembə(r)",
+        "meaning": "n. 十二月"
+      },
+      {
+        "word": "the U.S.",
+        "toggle": "n. 美利坚合众国，美国",
+        "isDanger": 0,
+        "phonetic": "ði ju:ˈes",
+        "meaning": "n. 美国"
+      },
+      {
+        "word": "Brazil",
+        "toggle": "n.巴西",
+        "isDanger": 0,
+        "phonetic": "brəˈzɪl",
+        "meaning": "n. 巴西"
+      },
+      {
+        "word": "Holland",
+        "toggle": "n.荷兰,漂白亚麻布",
+        "isDanger": 0,
+        "phonetic": "ˈhɒlənd",
+        "meaning": "n. 荷兰"
+      },
+      {
+        "word": "England",
+        "toggle": "n.英格兰(英国的主要部分),英格兰和威尔士,英国",
+        "isDanger": 0,
+        "phonetic": "ˈɪŋɡlənd",
+        "meaning": "n. 英国"
+      },
+      {
+        "word": "France",
+        "toggle": "n.法国,法兰西",
+        "isDanger": 0,
+        "phonetic": "frɑːns",
+        "meaning": "n. 法国"
+      },
+      {
+        "word": "Germany",
+        "toggle": "n.德国",
+        "isDanger": 0,
+        "phonetic": "ˈdʒɜːməni",
+        "meaning": "n. 德国"
+      },
+      {
+        "word": "Italy",
+        "toggle": "n.意大利(欧洲南部国家)",
+        "isDanger": 0,
+        "phonetic": "'ɪtəlɪ",
+        "meaning": "n. 意大利"
+      },
+      {
+        "word": "Norway",
+        "toggle": "n.挪威(北欧国家)",
+        "isDanger": 0,
+        "phonetic": "ˈnɔːweɪ",
+        "meaning": "n. 挪威"
+      },
+      {
+        "word": "Russia",
+        "toggle": "n.俄国,俄罗斯,苏联",
+        "isDanger": 0,
+        "phonetic": "ˈrʌʃə",
+        "meaning": "n. 俄罗斯"
+      },
+      {
+        "word": "Spain",
+        "toggle": "n.西班牙(欧洲南部国家)",
+        "isDanger": 0,
+        "phonetic": "speɪn",
+        "meaning": "n. 西班牙"
+      },
+      {
+        "word": "Sweden",
+        "toggle": "n.瑞典",
+        "isDanger": 0,
+        "phonetic": "ˈswiːd(ə)n",
+        "meaning": "n. 瑞典"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

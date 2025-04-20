@@ -1,0 +1,251 @@
+{
+  "id": "nce1-135",
+  "lessonNumber": "135",
+  "title": {
+    "english": "The Latest Report",
+    "chinese": "最新报道"
+  },
+  "lessonInfo": "新概念英语－第1册－第135课",
+  "audioPath": "audio/nce1/135.mp3",
+  "listeningQuestion": {
+    "question": "What surprising information did Kate reveal about Carlos?",
+    "translation": "凯特透露了关于卡洛斯什么令人惊讶的信息？"
+  },
+  "editorNotes": "本课继续通过新闻采访和报道的对比，深入展示了情态动词may、might和would的用法，以及直接引语转换为间接引语时的时态变化。课文还介绍了如何报道婚姻相关新闻，这些表达方式在新闻写作和社交场合都很实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Reporter:        Are you really going to retire, Miss marsh?",
+      "Miss Marsh:    I may. I can't make up my mind. I shall have to ask my future husband. He won't let me make another film.",
+      "Reporter:        Your future husband, Miss Marsh?",
+      "Miss Marsh:   Yes. Let me introduce him to you. His name is Carlos. We are going to get married next week.\r",
+      "Kate:             Look, Millie!    Here's another report about Karen Marsh. Listen:",
+      "\"Karen Marsh: The Latest. At her London Hotel today Miss Marsh told reporters she might retire. She said she couldn't make up her mind. She said she would have to ask her future husband. She said her future husband would not let her make another film. Then she introduced us to Carlos and told us they would get married next week.\"",
+      "Millie:             That's sensational news, isn't it, Kate?",
+      "Kate:It certainly is. He'll be her sixth husband!\r",
+      "Reporter:        Your future husband, Miss Marsh?",
+      "Miss Marsh:   Yes. Let me introduce him to you. His name is Carlos. We are going to get married next week.\r",
+      "Kate:             Look, Millie!    Here's another report about Karen Marsh. Listen:",
+      "“ Karen Marsh: The Latest. At her London Hotel today Miss Marsh told reporters she might retire. She said she couldn't make up her mind. She said she would have to ask her future husband. She said her future husband would not let her make another film. Then she introduced us to Carlos and told us they would get married next week.”",
+      "Millie:             That's sensational news, isn't it, Kate?",
+      "Kate:It certainly is. He'll be her sixth husband!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "记者：马什小姐，您真的准备退休吗？",
+      "马什小姐：有可能退。我还拿不定主意。我得问一下我的未婚夫。他不会再让我拍电影了。",
+      "记者：您的未婚夫，马什小姐？",
+      "马什小姐：是的，让我把他给你们介绍一下。他叫卡洛斯。下星期我们就要结婚了。",
+      "凯特：看啊，莉兹！这又有一篇关于卡伦.马什的报道。你听:",
+      "\"卡伦. 马什：最新消息。今天在伦敦旅馆，马什小姐告诉记者她可能要退休。她说她还拿不定主意。她说她得问问她的未婚夫。她说她的未婚夫不会再让她拍电影。 然后她把我们介绍给卡洛斯，并告诉我们说他们下星期结婚。\"",
+      "莉兹：这真是条轰动的消息，是不是，凯特？",
+      "凯特：当然啦。他将是她的第6个丈夫！",
+      "记者：您的未婚夫，马什小姐？",
+      "马什小姐：是的，让我把他给你们介绍一下。他叫卡洛斯。下星期我们就要结婚了。",
+      "凯特：看啊，莉兹！这又有一篇关于卡伦.马什的报道。你听:",
+      "\"卡伦. 马什：最新消息。今天在伦敦旅馆，马什小姐告诉记者她可能要退休。她说她还拿不定主意。她说她得问问她的未婚夫。她说她的未婚夫不会再让她拍电影。 然后她把我们介绍给卡洛斯，并告诉我们说他们下星期结婚。\"",
+      "莉兹：这真是条轰动的消息，是不是，凯特？",
+      "凯特：当然啦。他将是她的第6个丈夫！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 可能性表达",
+        "children": [
+          "核心概念：如何表达不确定性",
+          "常用表达：",
+          "- I may... 我可能...",
+          "- I can't make up my mind 我拿不定主意",
+          "- I might retire 我可能要退休",
+          "使用场景：表达不确定的计划时",
+          "注意事项：注意语气的委婉性"
+        ]
+      },
+      {
+        "heading": "2. 婚姻相关表达",
+        "children": [
+          "核心概念：如何讨论婚姻计划",
+          "常用表达：",
+          "- future husband 未婚夫",
+          "- going to get married 准备结婚",
+          "- Let me introduce him 让我介绍他",
+          "使用场景：讨论婚姻话题时",
+          "注意事项：注意表达的礼貌性"
+        ]
+      },
+      {
+        "heading": "3. 新闻报道转述",
+        "children": [
+          "核心概念：如何转述新闻内容",
+          "常用表达：",
+          "- The Latest 最新消息",
+          "- told reporters 告诉记者",
+          "- introduced us to 把...介绍给我们",
+          "使用场景：转述新闻报道时",
+          "注意事项：注意时态和人称的变化"
+        ]
+      },
+      {
+        "heading": "4. 惊讶表达",
+        "children": [
+          "核心概念：如何表达惊讶",
+          "常用表达：",
+          "- That's sensational news 这是条轰动的消息",
+          "- It certainly is 当然是",
+          "- isn't it? 是不是？",
+          "使用场景：对新闻表示惊讶时",
+          "注意事项：注意语气的真实性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. may和might的用法",
+        "children": [
+          "1. 表示可能性：I may retire → she might retire",
+          "2. might比may更不确定",
+          "3. 用于间接引语时的变化",
+          "4. 例句：I may go → She said she might go"
+        ]
+      },
+      {
+        "heading": "2. would表示将来",
+        "children": [
+          "1. 用于间接引语中的将来：will → would",
+          "2. 表示过去的将来",
+          "3. 常用于转述他人的话",
+          "4. 例句：We will get married → She said they would get married"
+        ]
+      },
+      {
+        "heading": "3. be going to的间接引语",
+        "children": [
+          "1. 表示计划：are going to → were going to",
+          "2. 用于转述计划",
+          "3. 表示确定的打算",
+          "4. 例句：We are going to get married → She said they were going to get married"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 婚姻相关词汇",
+        "children": [
+          "marry v. 结婚：",
+          "- get married 结婚",
+          "- married life 婚姻生活",
+          "husband n. 丈夫：",
+          "- future husband 未婚夫",
+          "- sixth husband 第六任丈夫"
+        ]
+      },
+      {
+        "heading": "2. 新闻相关词汇",
+        "children": [
+          "latest adj. 最新的：",
+          "- the latest news 最新消息",
+          "- latest report 最新报道",
+          "hotel n. 饭店：",
+          "- London hotel 伦敦饭店",
+          "- hotel room 饭店房间"
+        ]
+      },
+      {
+        "heading": "3. 介绍相关词汇",
+        "children": [
+          "introduce v. 介绍：",
+          "- introduce someone to 把某人介绍给",
+          "- self-introduction 自我介绍",
+          "future adj. 未来的：",
+          "- future plans 未来计划",
+          "- in the future 在未来"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "future",
+        "toggle": "n. 未来；期货；前途；将来时",
+        "isDanger": 0,
+        "phonetic": "ˈfjuːtʃə(r)",
+        "meaning": "n. 未来的"
+      },
+      {
+        "word": "feature",
+        "toggle": "n. 容貌；特色，特征；特写或专题节目",
+        "isDanger": 0,
+        "phonetic": "ˈfiːtʃə(r)",
+        "meaning": "n. 特点"
+      },
+      {
+        "word": "get married",
+        "toggle": "结婚：成为夫妻的意思。",
+        "isDanger": 0,
+        "phonetic": "ɡet ˈmærid",
+        "meaning": "n. 结婚"
+      },
+      {
+        "word": "wed",
+        "toggle": "vt. 娶；嫁；与 ... 结婚",
+        "isDanger": 0,
+        "phonetic": "wed",
+        "meaning": "v. 结婚"
+      },
+      {
+        "word": "hotel",
+        "toggle": "n. 旅馆，饭店；客栈",
+        "isDanger": 0,
+        "phonetic": "həʊˈtel",
+        "meaning": "n. 饭店"
+      },
+      {
+        "word": "latest",
+        "toggle": "adj. 最近的，最新的；<古>最迟的，最后的",
+        "isDanger": 0,
+        "phonetic": "ˈleɪtɪst",
+        "meaning": "adj. 最新的"
+      },
+      {
+        "word": "introduce",
+        "toggle": "vt. 介绍；引进；采用；提出",
+        "isDanger": 0,
+        "phonetic": "ˌɪntrəˈdjuːs",
+        "meaning": "v. 介绍"
+      },
+      {
+        "word": "description",
+        "toggle": "n. 描述，描写；说明书；类型",
+        "isDanger": 0,
+        "phonetic": "dɪˈskrɪpʃn",
+        "meaning": "n. 描述"
+      },
+      {
+        "word": "married",
+        "toggle": "adj. 已婚的，有配偶的；婚姻的，夫妇的；密切结合的",
+        "isDanger": 0,
+        "phonetic": "ˈmærid",
+        "meaning": "adj. 已婚的"
+      },
+      {
+        "word": "marry",
+        "toggle": "vt. 娶；嫁；与 … 结婚",
+        "isDanger": 0,
+        "phonetic": "ˈmæri",
+        "meaning": "v. 结婚"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "id": "nce2--077",
+  "lessonNumber": "077",
+  "title": {
+    "english": "A successful operation",
+    "chinese": "一次成功的手术"
+  },
+  "lessonInfo": "新概念英语－第2册－第077课",
+  "audioPath": "audio/nce2/077.mp3",
+  "listeningQuestion": {
+    "question": "What did the doctors find inside the mummy?",
+    "translation": "医生在木乃伊内部发现了什么？"
+  },
+  "editorNotes": "本课讲述了一具埃及木乃伊接受手术的故事。文章通过描述医生对一具公元前800年的埃及妇女木乃伊进行手术的过程，展示了现在完成时和过去完成时的用法，以及一些常见的英语表达方式。文章还介绍了B.C.和A.D.的区别，skin、leather和complexion的区别，以及wax和candle的区别。本课还介绍了last和prove的用法，以及that的指代用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.",
+      "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
+      "As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
+      "The only way to do this was to operate.",
+      "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.",
+      "The doctors removed a section of the mummy and sent it to a laboratory.",
+      "They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.",
+      "This god which has the head of a cow was normally placed inside a mummy.",
+      "The doctors have not yet decided how the woman died.",
+      "They feared that the mummy would fall to pieces when they cut it open, but fortunately this has not happened.",
+      "The mummy successfully survived the operation."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "死于公元前800年的一位埃及妇女的木乃伊刚刚接受了一次手术。",
+      "这是曾在底比斯神殿里当过歌手的赛潘姆特的木乃伊。",
+      "由于在给这个木乃伊拍摄的X光片子上有点奇怪的斑点，所以，医生们一直试图搞清这位妇女是否死于一种罕见的疾病。",
+      "搞清的唯一办法就是手术。",
+      "手术持续了4个多小时，非常难做，因为皮肤上覆盖着一层硬硬的树脂。",
+      "医生们从木乃伊身上取下一个切片，送去化验。",
+      "他们还发现了X光片所没有显示的东西：一个蜡制的杜瓦木特夫神小塑像。",
+      "这种牛头人身的神像通常被放在木乃伊体内。",
+      "医生们至今还未确定这位妇女的死因。",
+      "他们曾担心在把木乃伊切开后，它会散成碎片，但幸运得很，这种情况并未发生。",
+      "这具木乃伊成功地经受了这次手术。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "last的用法",
+        "content": [
+          "last作不及物动词时，表示'持续，延续'，常跟一个表示时间的名词或短语，没有被动语态。",
+          "last可以直接加时间或加for+时间。",
+          "例如：The meeting lasts (for) three hours.（会议持续三个小时。）",
+          "The war between the two countries lasted (for) over three years.（两国之间的战争持续了三年多。）",
+          "The operation, which lasted for over four hours, proved to be very difficult.（手术持续了4个多小时，非常难做。）",
+          "last作形容词时，表示'最后的，最近的'。",
+          "例如：This is the last chance.（这是最后的机会。）",
+          "I saw him last week.（我上周见过他。）"
+        ]
+      },
+      {
+        "title": "prove的用法",
+        "content": [
+          "prove作不及物动词时，表示'显示，表明'，后面可跟形容词或to be + 形容词。",
+          "例如：It proves difficult to do the job by herself.（独自完成这项工作证明是困难的。）",
+          "It proves to be difficult.（事实证明是困难的。）",
+          "prove作及物动词时，表示'证明，证实'，后面可跟从句、形容词、名词、不定式等。",
+          "例如：I will prove it to you.（我将会证明给你看。）",
+          "We've been trying to sell our house, but it's proved to be very difficult.（我们一直试图卖掉我们的房子，但事实证明非常困难。）",
+          "You should first prove that you bought these goods here.（你应该首先证明你是在这里买的这些商品。）",
+          "The operation, which lasted for over four hours, proved to be very difficult.（手术持续了4个多小时，事实证明非常难做。）"
+        ]
+      },
+      {
+        "title": "that的指代用法",
+        "content": [
+          "that可以用来指代上文当中出现的名词，尤其是在比较状语从句中。",
+          "例如：The mummy is that of Shepenmut.（这是赛潘姆特的木乃伊。that指代the mummy）",
+          "The cost of living here is lower than that in London.（这里的生活费用比伦敦的低。that指代the cost of living）",
+          "that of和those of一般用于较正式的文体中。",
+          "例如：The weather of Beijing is colder than that of Guangzhou.（北京的天气比广州的冷。that指代the weather）",
+          "The texts of Book Two are more difficult than those of Book One.（第二册的课文比第一册的难。those指代the texts）",
+          "The area of the USA is larger than that of Britain.（美国的面积比英国的大。that指代the area）"
+        ]
+      },
+      {
+        "title": "die的用法",
+        "content": [
+          "die是瞬间动词，不能和段时间连用。要和段时间连用，就必须变成系表结构be dead。",
+          "例如：He has been dead for three years.（他已经死了三年了。正确）",
+          "He has died for three years.（他已经死了三年了。错误）",
+          "die of + 内因，表示'死于...'。",
+          "例如：die of hunger（死于饥饿）",
+          "die of grief（死于悲哀）",
+          "die of a rare disease（死于一种罕见的疾病）",
+          "die from + 外因，表示'死于...'。",
+          "例如：die from wound（死于枪伤）",
+          "die from the heart disease（死于心脏病）",
+          "在日常生活表达当中，die of和die from可以互换。",
+          "例如：He died of/from the heart disease.（他死于心脏病。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "take plates of",
+        "translation": "给...拍片子",
+        "context": "表示拍摄X光片或照片",
+        "example": "As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.（由于在给这个木乃伊拍摄的X光片子上有点奇怪的斑点，所以，医生们一直试图搞清这位妇女是否死于一种罕见的疾病。）"
+      },
+      {
+        "phrase": "find out",
+        "translation": "查明，发现",
+        "context": "表示通过调查或研究了解某事",
+        "example": "Doctors have been trying to find out whether the woman died of a rare disease.（医生们一直试图搞清这位妇女是否死于一种罕见的疾病。）"
+      },
+      {
+        "phrase": "fall to pieces",
+        "translation": "碎成碎片，散掉",
+        "context": "表示物体破碎或关系破裂",
+        "example": "They feared that the mummy would fall to pieces when they cut it open.（他们曾担心在把木乃伊切开后，它会散成碎片。）"
+      },
+      {
+        "phrase": "cut open",
+        "translation": "切开",
+        "context": "表示将物体切开",
+        "example": "They feared that the mummy would fall to pieces when they cut it open.（他们曾担心在把木乃伊切开后，它会散成碎片。）"
+      },
+      {
+        "phrase": "B.C.",
+        "translation": "公元前",
+        "context": "表示基督诞生前的年份",
+        "example": "The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.（死于公元前800年的一位埃及妇女的木乃伊刚刚接受了一次手术。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The operation ___ for over four hours.",
+        "options": [
+          "lasted",
+          "has lasted",
+          "was lasting",
+          "had lasted"
+        ],
+        "answer": 0,
+        "explanation": "last作不及物动词时，表示'持续，延续'，这里用一般过去时表示过去发生的动作。"
+      },
+      {
+        "question": "The doctors have been trying to find out ___ the woman died.",
+        "options": [
+          "what",
+          "how",
+          "when",
+          "where"
+        ],
+        "answer": 1,
+        "explanation": "how在这里是对of sth.提问的，表示'如何，怎样'。"
+      },
+      {
+        "question": "The mummy successfully ___ the operation.",
+        "options": [
+          "survived",
+          "survives",
+          "has survived",
+          "is surviving"
+        ],
+        "answer": 0,
+        "explanation": "survive作及物动词时，表示'幸免于，从...中活下来'，这里用一般过去时表示过去发生的动作。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The mummy is ___ of Shepenmut who was once a singer in the Temple of Thebes.",
+        "answer": "that",
+        "explanation": "that用来指代上文当中出现的名词the mummy。"
+      },
+      {
+        "sentence": "The operation, which lasted for over four hours, ___ to be very difficult because of the hard resin which covered the skin.",
+        "answer": "proved",
+        "explanation": "prove作不及物动词时，表示'显示，表明'，这里用一般过去时表示过去发生的动作。"
+      },
+      {
+        "sentence": "They feared that the mummy would fall to pieces when they cut it open, but ___ this has not happened.",
+        "answer": "fortunately",
+        "explanation": "fortunately表示'幸运地，幸亏'，用来表示转折。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. B.C.和A.D.的区别：\n- B.C. = Before Christ，公元前（位于年代之后）\n  The Romans invaded England in 55 B.C.（罗马人在公元前55年入侵英格兰。）\n  The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.（死于公元前800年的一位埃及妇女的木乃伊刚刚接受了一次手术。）\n\n- A.D. = anno Domini(=in the year of the Lord=since Christ was born)，公元（位于年代之前）\n  George I died in A.D. 1727.（乔治一世死于公元1727年。）\n\n2. Skin、Leather和Complexion的区别：\n- skin: 名词，人体的皮肤；指某人是什么颜色的皮肤（可与complexion互换）\n  We are wet to the skin.（我们浑身湿透了。）\n  He has a dark skin/complexion.（他皮肤黝黑。）\n\n- leather: 名词，皮革\n  Shoes made of real leather have become very expensive.（真皮鞋子变得非常贵。）\n  This sofa is made from real leather.（这个沙发是用真皮做的。）\n\n- complexion: 名词，肤色\n  Look at her rosy cheeks. She has a lovely complexion.（看看她红润的脸颊。她肤色很好。）\n\n3. Wax和Candle的区别：\n- wax: 名词，蜡（不可数名词）\n  All the figures in this shop are made of wax.（这家商店里的所有塑像都是用蜡做的。）\n  They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.（他们还发现了X光片所没有显示的东西：一个蜡制的杜瓦木特夫神小塑像。）\n\n- candle: 名词，蜡烛（可数名词）\n  I keep a candle by my bed in case the lights go out suddenly.（我在床边放了一支蜡烛，以防灯突然熄灭。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "木乃伊（mummy）是古埃及人保存死者遗体的一种方法。古埃及人相信，人死后灵魂会离开身体，但会在适当的时候回到身体中，因此他们发明了制作木乃伊的技术，以保持尸体不腐烂。\n\n制作木乃伊的过程非常复杂，通常需要70天左右。首先，将死者的内脏取出，放在特殊的罐子中；然后，用盐和香料处理尸体，使其脱水；最后，用亚麻布包裹尸体，并涂上树脂，以防止腐烂。\n\n古埃及人相信，木乃伊体内应该放置各种护身符和神像，以保护死者的灵魂。在本课中提到的杜瓦木特夫神（Duamutef）是古埃及神话中的一位神，通常被描绘为牛头人身的形象。他是荷鲁斯的四个儿子之一，负责保护死者的胃。\n\n现代科技的发展使得科学家能够通过X光、CT扫描等技术，在不破坏木乃伊的情况下，研究古埃及人的生活方式、健康状况和死因。在本课中，医生们通过手术从木乃伊身上取下一个切片，送去化验，以确定这位妇女是否死于一种罕见的疾病。\n\n古埃及文明是人类历史上最古老的文明之一，大约始于公元前3100年，持续了3000多年。古埃及人建造了金字塔、狮身人面像等宏伟的建筑，发明了象形文字，发展了医学、天文学、数学等学科，对人类文明的发展做出了重要贡献。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "mummy",
+        "toggle": "n. 木乃伊；干瘪的人； [ 口 ] 妈妈",
+        "isDanger": 0,
+        "phonetic": "ˈmʌmi",
+        "meaning": "n. 木乃伊"
+      },
+      {
+        "word": "Egyptian",
+        "toggle": "adj. 埃及的；埃及人的",
+        "isDanger": 0,
+        "phonetic": "iˈdʒɪpʃn",
+        "meaning": "adj. 埃及的"
+      },
+      {
+        "word": "temple",
+        "toggle": "n. 庙宇；寺院；神殿；太阳穴",
+        "isDanger": 0,
+        "phonetic": "ˈtemp(ə)l",
+        "meaning": "n. 庙"
+      },
+      {
+        "word": "mark",
+        "toggle": "n. 马克；符号；痕迹；标志",
+        "isDanger": 1,
+        "phonetic": "mɑːk",
+        "meaning": "n. 斑点"
+      },
+      {
+        "word": "plate",
+        "toggle": "n. 金属板；碟；金属牌；感光底片",
+        "isDanger": 1,
+        "phonetic": "pleɪt",
+        "meaning": "n. （照相）底片"
+      },
+      {
+        "word": "disease",
+        "toggle": "n. 病，疾病；弊病",
+        "isDanger": 0,
+        "phonetic": "dɪˈziːz",
+        "meaning": "n. 疾病"
+      },
+      {
+        "word": "last",
+        "toggle": "n. 末尾，最后；上个；鞋楦（做鞋的模型）",
+        "isDanger": 1,
+        "phonetic": "lɑːst",
+        "meaning": "v. 持续"
+      },
+      {
+        "word": "prove",
+        "toggle": "vt. 证明；检验；显示",
+        "isDanger": 1,
+        "phonetic": "pruːv",
+        "meaning": "v. 显示出"
+      },
+      {
+        "word": "resin",
+        "toggle": "n. 树脂；松香",
+        "isDanger": 0,
+        "phonetic": "ˈrezɪn",
+        "meaning": "n. 树脂"
+      },
+      {
+        "word": "skin",
+        "toggle": "n. 皮肤；外皮",
+        "isDanger": 1,
+        "phonetic": "skɪn",
+        "meaning": "n. 皮肤"
+      },
+      {
+        "word": "section",
+        "toggle": "n. 章节；地区；截面；部门",
+        "isDanger": 0,
+        "phonetic": "ˈsekʃ(ə)n",
+        "meaning": "n. 切片"
+      },
+      {
+        "word": "figure",
+        "toggle": "n. 图形；数字；（人的）体形；人物；画像；价格",
+        "isDanger": 0,
+        "phonetic": "ˈfɪɡə(r)",
+        "meaning": "n. （人的）体形；人像"
+      },
+      {
+        "word": "normally",
+        "toggle": "adv. 正常地；通常地，一般地",
+        "isDanger": 0,
+        "phonetic": "ˈnɔːməli",
+        "meaning": "adv. 通常地"
+      },
+      {
+        "word": "survive",
+        "toggle": "vt. 比 ... 活得长；幸免于；幸存；生还",
+        "isDanger": 0,
+        "phonetic": "səˈvaɪv",
+        "meaning": "v. 幸免于"
+      }
+    ]
+  }
+}

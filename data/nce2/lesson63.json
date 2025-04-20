@@ -1,0 +1,235 @@
+{
+  "id": "nce2--063",
+  "lessonNumber": "063",
+  "title": {
+    "english": "She was not amused",
+    "chinese": "她并不觉得好笑"
+  },
+  "lessonInfo": "新概念英语－第2册－第063课",
+  "audioPath": "audio/nce2/063.mp3",
+  "listeningQuestion": {
+    "question": "Why did Jenny want to go home after her father's speech?",
+    "translation": "为什么珍妮在父亲演讲后想回家？"
+  },
+  "editorNotes": "本课讲述了一个关于幽默感的有趣故事。杰里米·汉普登以其绝妙的幽默感而闻名，但在女儿的眼中，他的幽默演讲却变成了被众人嘲笑的场景。文章通过对比成人和儿童对幽默的不同理解，展示了幽默感的主观性和年龄差异。文章使用了多种语法结构，包括定语从句、插入语、方式状语从句等，以及多个与社交和情感表达相关的词汇。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Jeremy Hampden has a large circle of friends and is very popular at parties.",
+      "Everybody admires him for his great sense of humour -- everybody, that is, except his six-year-old daughter, Jenny.",
+      "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+      "This is the sort of thing that Jeremy loves.",
+      "He prepared the speech carefully and went to the wedding with Jenny.",
+      "He had included a large number of funny stories in the speech and, of course, it was a great success.",
+      "As soon as he had finished, Jenny told him she wanted to go home.",
+      "Jeremy was a little disappointed by this but he did as his daughter asked.",
+      "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "To his surprise, she said she hadn't.",
+      "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "杰里米·汉普登交际甚广, 是各种聚会上深受大家欢迎的人.",
+      "人人都钦佩他那绝妙的幽默感——人人, 就是说, 除他 6 岁的女儿珍妮之外的每一个人.",
+      "最近, 杰里米的一个最亲密的朋友请他在一个婚礼上祝词.",
+      "这正是杰里米喜欢做的事情.",
+      "他认真准备了讲稿, 带着珍妮一道去参加了婚礼.",
+      "他的祝词里面加进了大量逗人的故事, 自然大获成功.",
+      "他刚一讲完, 珍妮就对他说她要回家.",
+      "这不免使杰里米有点扫兴, 但他还是按照女儿的要求做了.",
+      "在回家的路上, 他问珍妮是否喜欢他的祝词.",
+      "使他吃惊的是, 她说她不喜欢.",
+      "杰里米问她为何不喜欢, 她说她不愿意看到那么多的人嘲笑他!"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "插入语",
+        "content": [
+          "插入语是插入句子中间，对句子进行补充说明的成分。",
+          "常见的插入语结构：that is（也就是说），namely（即），for example（例如）等。",
+          "插入语通常用逗号与句子其他部分隔开。",
+          "例如：Everybody admires him for his great sense of humour -- everybody, that is, except his six-year-old daughter, Jenny.（人人都钦佩他那绝妙的幽默感——人人，就是说，除他6岁的女儿珍妮之外的每一个人。）",
+          "插入语可以放在句子中间，也可以放在句末，但通常不会放在句首。"
+        ]
+      },
+      {
+        "title": "方式状语从句",
+        "content": [
+          "方式状语从句表示动作发生的方式，常用as引导。",
+          "as引导的方式状语从句表示'按照...的方式'，'如同...那样'。",
+          "例如：Jeremy was a little disappointed by this but he did as his daughter asked.（这不免使杰里米有点扫兴，但他还是按照女儿的要求做了。）",
+          "as引导的方式状语从句可以放在主句之前或之后。",
+          "常见的as引导的方式状语从句结构：do as you are told（按你被告知的做），act as you like（按你喜欢的方式行动）等。"
+        ]
+      },
+      {
+        "title": "定语从句",
+        "content": [
+          "定语从句用来修饰名词或代词，通常由关系代词（who, whom, whose, which, that）或关系副词（where, when, why）引导。",
+          "定语从句可以放在其所修饰的整个句子的后面，但要注意避免产生歧义。",
+          "例如：When Jeremy Hampden, who is greatly admired for his great sense of humour, was invited to make a speech at a wedding reception, he immediately agreed to do so.（当以其绝妙的幽默感而备受钦佩的杰里米·汉普登被邀请在婚礼上致辞时，他立即同意了。）",
+          "定语从句中的关系代词在从句中作主语时，不能省略。",
+          "定语从句中的关系代词在从句中作宾语时，可以省略。"
+        ]
+      },
+      {
+        "title": "情态动词",
+        "content": [
+          "情态动词后接动词原形构成谓语。",
+          "常见的情态动词包括：can, could, may, might, must, shall, should, will, would等。",
+          "情态动词表示说话人对动作或状态的态度，如能力、可能性、必要性、许可等。",
+          "例如：Simple photographic lenses can't form sharp, undistorted images over a wide field.（简单的摄影镜头无法在广阔的视野中形成清晰、不失真的图像。）",
+          "情态动词没有第三人称单数形式，也没有过去式（除了can变为could，may变为might等）。"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "have a large circle of friends",
+        "translation": "有一个很大的朋友圈子，交际很广",
+        "context": "表示某人有很多朋友，社交圈子广泛",
+        "example": "Jeremy Hampden has a large circle of friends and is very popular at parties."
+      },
+      {
+        "phrase": "admire sb. for sth.",
+        "translation": "因为...钦佩某人",
+        "context": "表示因为某人的某种品质或成就而钦佩他",
+        "example": "Everybody admires him for his great sense of humour."
+      },
+      {
+        "phrase": "sense of humour",
+        "translation": "幽默感",
+        "context": "表示理解和欣赏幽默的能力",
+        "example": "George has no sense of humour. He is a man without humour."
+      },
+      {
+        "phrase": "laugh at",
+        "translation": "嘲笑",
+        "context": "表示嘲笑某人或某事",
+        "example": "If you go round saying things like that, everyone will laugh at you."
+      },
+      {
+        "phrase": "think highly of",
+        "translation": "高度赞扬，对...评价很高",
+        "context": "表示对某人或某事有很高的评价",
+        "example": "Everyone admires him. They think highly of him."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "___ Jenny, everyone admires him for his great sense of humour.",
+        "options": [
+          "Except for",
+          "Apart",
+          "Except",
+          "Unless"
+        ],
+        "answer": 0,
+        "explanation": "except for = apart from，表示'除了...之外'。unless表示'除非'，不适用于此语境。"
+      },
+      {
+        "question": "Jeremy was a little disappointed. He was ___ disappointed.",
+        "options": [
+          "little",
+          "somehow",
+          "enough",
+          "somewhat"
+        ],
+        "answer": 3,
+        "explanation": "somewhat = a little，表示'有一些，有一点'。a little与形容词或副词连用，表示'少量，少许'。"
+      },
+      {
+        "question": "Everyone admires him. They ___ him.",
+        "options": [
+          "think highly of",
+          "laugh at",
+          "estimate",
+          "esteem"
+        ],
+        "answer": 0,
+        "explanation": "think highly of表示'高度赞扬，对...评价很高'。laugh at表示'嘲笑'，与admire意思相反。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Simple photographic lenses can't ___ sharp, undistorted images over a wide field.",
+        "answer": "form",
+        "explanation": "情态动词后接动词原形构成谓语。"
+      },
+      {
+        "sentence": "Of all the factors affecting agricultural yields, weather is the one ___ the most.",
+        "answer": "that influences farmers",
+        "explanation": "that引导定语从句，修饰the one。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Admire的用法：\n- admire sb. for sth.：因为...钦佩某人\n- admire sth.：欣赏，观赏\n- admire sb.：(口语)夸奖，称赞\n\n2. Sort和Kind的区别：\n- sort：种类，类型（常与of连用）\n- kind：种类（有特殊特征的）\n- sort和kind有时可以互换，但在某些情况下用sort：\n  * that sort of person：那种人\n  * sort可含有讽刺意味\n\n3. Prepare的用法：\n- prepare sth.：准备做...，后面跟内容有关系\n- prepare for sth.：为...作准备，后面不一定跟内容有关系"
+      },
+      {
+        "title": "文化背景",
+        "content": "幽默感在不同文化和个人之间有着不同的理解和表达方式。本文通过一个父亲和女儿对幽默的不同理解，展示了幽默感的主观性和年龄差异。在英语国家，幽默感被视为一种重要的社交技能，能够缓解紧张气氛，增进人际关系。然而，幽默也可能被误解，特别是当涉及到文化差异或年龄差异时。本文还涉及了婚礼致辞这一文化习俗，在英语国家，婚礼致辞通常包括对新人的祝福和幽默的故事，以活跃气氛。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "circle",
+        "toggle": "n. 圆；圆形物；循环，周期；圈子",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːk(ə)l",
+        "meaning": "n. 圈子"
+      },
+      {
+        "word": "admire",
+        "toggle": "vt. 钦佩；赞美",
+        "isDanger": 1,
+        "phonetic": "ədˈmaɪə(r)",
+        "meaning": "v. 赞美，钦佩"
+      },
+      {
+        "word": "close",
+        "toggle": "adj. 亲密的；亲近的；紧密的",
+        "isDanger": 1,
+        "phonetic": "kləʊz",
+        "meaning": "adj. 亲密的"
+      },
+      {
+        "word": "wedding",
+        "toggle": "n. 结婚；婚礼，婚宴；结合",
+        "isDanger": 0,
+        "phonetic": "ˈwedɪŋ",
+        "meaning": "n. 婚礼"
+      },
+      {
+        "word": "reception",
+        "toggle": "n. 接待；接收；招待会；感受；反应",
+        "isDanger": 0,
+        "phonetic": "rɪˈsepʃ(ə)n",
+        "meaning": "n. 招待会"
+      },
+      {
+        "word": "sort",
+        "toggle": "n. 种类；方式；品质",
+        "isDanger": 0,
+        "phonetic": "sɔːt",
+        "meaning": "n. 种类"
+      }
+    ]
+  }
+}

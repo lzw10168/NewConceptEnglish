@@ -1,0 +1,299 @@
+{
+  "id": "nce1-109",
+  "lessonNumber": "109",
+  "title": {
+    "english": "A good idea",
+    "chinese": "好主意"
+  },
+  "lessonInfo": "新概念英语－第1册－第109课",
+  "audioPath": "audio/nce1/109.mp3",
+  "listeningQuestion": {
+    "question": "What did Betty suggest when Jane found the cigarette box empty?",
+    "translation": "当简发现烟盒是空的时，贝蒂建议她做什么？"
+  },
+  "editorNotes": "本课通过一段朋友间的日常对话，展示了如何表达建议和礼貌请求。课文涉及饮品准备、数量表达和友好建议等交际功能，同时介绍了情态动词和数量词的使用。这些表达对于日常社交场合非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Betty:      Shall I make some coffee, Jane?",
+      "Jane:       That's a good idea, Betty.",
+      "Betty:      It's ready. Do you want any milk?",
+      "Jane:       Just a little please.",
+      "Betty:      What about some sugar? Two teaspoonfuls?",
+      "Jane:       No, less than that. One and a half teaspoonfuls please. That's enough for me.",
+      "Jane:       That was very nice.",
+      "Betty:      Would you like some more?",
+      "Jane:       Yes, please.",
+      "Jane:       I'd like a cigarette, too. May I have one?",
+      "Betty:      Of course. I think there are a few in that box.",
+      "Jane:       I'm afraid it's empty.",
+      "Betty:      What a pity!（真遗憾）",
+      "Jane:       It doesn't matter.",
+      "Betty:      Have a biscuit instead. Eat more and smoke less!",
+      "Jane:       That's very good advice!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "夏洛特：我来煮点咖啡好吗，简？",
+      "简：这是个好主意，夏洛特。",
+      "夏洛特：咖啡好了，你要放点奶吗？",
+      "简：请稍加一点。",
+      "夏洛特：加些糖怎么样？两茶匙行吗？",
+      "简：不，再少一些。请放一勺儿半。那对我已足够了。",
+      "简：太好了。",
+      "夏洛特：你再来点吗？",
+      "简：好的，请再来一点。",
+      "简：我还想抽枝烟。可以给我一枝吗？",
+      "夏洛特：当然可以。我想那个盒子里有一些。",
+      "简：恐怕盒子是空的。",
+      "夏洛特：真遗憾！",
+      "简：没关",
+      "夏洛特：那就吃块饼干吧。多吃点，少抽点！",
+      "简：这是极好的忠告啊！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 提出建议",
+        "children": [
+          "核心概念：如何提出和回应建议",
+          "常用表达：",
+          "- Shall I make some coffee? 我来煮点咖啡好吗？",
+          "- That's a good idea 这是个好主意",
+          "- Have a biscuit instead 那就吃块饼干吧",
+          "- That's very good advice 这是很好的建议",
+          "使用场景：提出和接受建议时",
+          "注意事项：注意使用礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 数量表达",
+        "children": [
+          "核心概念：如何表达具体数量",
+          "常用表达：",
+          "- Just a little please 请稍加一点",
+          "- Two teaspoonfuls 两茶匙",
+          "- One and a half teaspoonfuls 一勺半",
+          "- A few in that box 盒子里有几个",
+          "使用场景：描述具体数量时",
+          "注意事项：注意数量词的准确使用"
+        ]
+      },
+      {
+        "heading": "3. 礼貌请求",
+        "children": [
+          "核心概念：如何礼貌地提出请求",
+          "常用表达：",
+          "- Would you like some more? 你想再来点吗？",
+          "- May I have one? 我能要一个吗？",
+          "- Of course 当然可以",
+          "使用场景：请求或提供物品时",
+          "注意事项：注意使用合适的情态动词"
+        ]
+      },
+      {
+        "heading": "4. 遗憾与安慰",
+        "children": [
+          "核心概念：如何表达遗憾和安慰",
+          "常用表达：",
+          "- I'm afraid it's empty 恐怕是空的",
+          "- What a pity! 真遗憾！",
+          "- It doesn't matter 没关系",
+          "使用场景：表达遗憾或安慰他人时",
+          "注意事项：注意语气的友好和委婉"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 情态动词的使用",
+        "children": [
+          "1. shall的用法：Shall I make...?",
+          "2. may的用法：May I have...?",
+          "3. would的用法：Would you like...?",
+          "4. 情态动词的礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 数量词的使用",
+        "children": [
+          "1. a little的用法：just a little",
+          "2. a few的用法：a few in that box",
+          "3. some的用法：some coffee",
+          "4. 可数与不可数名词"
+        ]
+      },
+      {
+        "heading": "3. 比较级和最高级",
+        "children": [
+          "1. less than的用法",
+          "2. more的用法",
+          "3. 形容词的比较级",
+          "4. 副词的比较级"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 饮品相关词汇",
+        "children": [
+          "coffee n. 咖啡：",
+          "- make coffee 煮咖啡",
+          "- have some coffee 喝点咖啡",
+          "milk n. 牛奶：",
+          "- want milk 要牛奶",
+          "- add milk 加牛奶"
+        ]
+      },
+      {
+        "heading": "2. 数量词汇",
+        "children": [
+          "teaspoonful n. 一茶匙的量：",
+          "- two teaspoonfuls 两茶匙",
+          "- one and a half 一个半",
+          "little adj. 少的：",
+          "- a little milk 一点牛奶",
+          "- less sugar 更少的糖"
+        ]
+      },
+      {
+        "heading": "3. 社交用语",
+        "children": [
+          "advice n. 建议：",
+          "- good advice 好建议",
+          "- give advice 给建议",
+          "idea n. 主意：",
+          "- good idea 好主意",
+          "- have an idea 有个主意"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "idea",
+        "toggle": "n. 主意；概念；想法",
+        "isDanger": 0,
+        "phonetic": "aɪˈdɪə",
+        "meaning": "n. 主意"
+      },
+      {
+        "word": "a little",
+        "toggle": "adv. 少量地，稍许地",
+        "isDanger": 0,
+        "phonetic": "ə ˈlɪtl",
+        "meaning": "adv. 少许(用于不可数名词之前)"
+      },
+      {
+        "word": "little",
+        "toggle": "adj. 小的；短暂的；很少的；小巧可爱的",
+        "isDanger": 1,
+        "phonetic": "ˈlɪt(ə)l",
+        "meaning": "adv. 少得几乎没有"
+      },
+      {
+        "word": "teaspoonful",
+        "toggle": "n.一茶匙的量",
+        "isDanger": 0,
+        "phonetic": "ˈtiːspuːnfʊl",
+        "meaning": "n. 一满茶匙"
+      },
+      {
+        "word": "spoon",
+        "toggle": "n. 匙，勺子；一杓的量",
+        "isDanger": 0,
+        "phonetic": "spuːn",
+        "meaning": "n. 茶匙"
+      },
+      {
+        "word": "less",
+        "toggle": "adv. 较少地；较小地；更小地",
+        "isDanger": 0,
+        "phonetic": "les",
+        "meaning": "adj. (little的比较级)校少的，更小的"
+      },
+      {
+        "word": "a few",
+        "toggle": "少许， 少数; 一点点; 些许",
+        "isDanger": 0,
+        "phonetic": "ə fjuː",
+        "meaning": "adv. 几个(用于可数名词之前)"
+      },
+      {
+        "word": "pity",
+        "toggle": "n. 怜悯，同情；遗憾",
+        "isDanger": 1,
+        "phonetic": "ˈpɪti",
+        "meaning": "n. 遗憾"
+      },
+      {
+        "word": "instead",
+        "toggle": "adv. 代替；反而",
+        "isDanger": 0,
+        "phonetic": "ɪnˈsted",
+        "meaning": "adv. 代替"
+      },
+      {
+        "word": "advice",
+        "toggle": "n. 通知；忠告；建议；劝告",
+        "isDanger": 0,
+        "phonetic": "ədˈvaɪs",
+        "meaning": "n. 建议，忠告"
+      },
+      {
+        "word": "voice",
+        "toggle": "n. 声音；愿望；嗓音；发言权",
+        "isDanger": 0,
+        "phonetic": "vɔɪs",
+        "meaning": "n. (人的)声音"
+      },
+      {
+        "word": "most",
+        "toggle": "adv. 最；最多；非常，极其；几乎",
+        "isDanger": 0,
+        "phonetic": "məʊst",
+        "meaning": "adj. (many,much的最高级)最多的"
+      },
+      {
+        "word": "least",
+        "toggle": "adj. 最小的；最少的（ little 的最高级）",
+        "isDanger": 0,
+        "phonetic": "liːst",
+        "meaning": "adj. (little的最高级)最小的，最少的"
+      },
+      {
+        "word": "best",
+        "toggle": "n. 最好的人，最好的事物；最佳状态",
+        "isDanger": 1,
+        "phonetic": "best",
+        "meaning": "adj. (good的最高级)最好的"
+      },
+      {
+        "word": "worse",
+        "toggle": "n.(人或事)较坏者,更坏的事,更恶劣的事,败北adj.更坏的,更恶劣的adv.更坏地,更恶劣地",
+        "isDanger": 0,
+        "phonetic": "wɜːs",
+        "meaning": "adj. (bad的比较级)更坏的"
+      },
+      {
+        "word": "worst",
+        "toggle": "adj.最坏的,最差的adv.最坏,最差",
+        "isDanger": 0,
+        "phonetic": "wɜːst",
+        "meaning": "adj. (bad的最高级)最坏的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

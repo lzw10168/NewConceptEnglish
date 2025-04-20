@@ -1,0 +1,270 @@
+{
+  "id": "nce2--053",
+  "lessonNumber": "053",
+  "title": {
+    "english": "Hot snake",
+    "chinese": "触电的蛇"
+  },
+  "lessonInfo": "新概念英语－第2册－第053课",
+  "audioPath": "audio/nce2/053.mp3",
+  "listeningQuestion": {
+    "question": "How did the fire start?",
+    "translation": "火灾是如何开始的？"
+  },
+  "editorNotes": "本课讲述了一个关于森林火灾起因的有趣故事。消防队员扑灭了加利福尼亚的一场森林大火后，一直在寻找起火原因。他们排除了常见的起火原因如碎玻璃和烟头，最终发现是一条蛇缠绕在高压电线上，导致电火花落到地面引发火灾。在语法方面，重点介绍了一般过去时、现在完成时与现在完成进行时的区别，以及throw to、throw at和throw away等短语的用法。文章还涉及了一些重要的词汇用法，如hot、cause、examine和accidentally等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "At last firemen have put out a big forest fire in California.",
+      "Since then, they have been trying to find out how the fire began.",
+      "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "They were also quite sure that a cigarette end did not start the fire.",
+      "This morning, however, a firemen accidentally discovered the cause.",
+      "He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.",
+      "In this way, he was able to solve the mystery.",
+      "The explanation was simple but very unusual.",
+      "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+      "The snake then wound itself round the wires.",
+      "When it did so, it sent sparks down to the ground and these immediately started a fire."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "消防队员们终于扑灭了加利福尼亚的一场森林大火。",
+      "从那时起，他们一直试图找出起火的原因。",
+      "森林火灾时常由破碎的玻璃或人们随手扔掉的香烟头引起。",
+      "昨天，消防队员仔细查看了地面，但未能发现碎玻璃。",
+      "他们还十分肯定火灾也不是由烟头引起的。",
+      "然而今天上午，一个消防队员偶然发现了起火的原因。",
+      "他发现了缠绕在16,000伏高压线上的一条死蛇。",
+      "就这样，他解开了起火之谜。",
+      "解释很简单，却异乎寻常。",
+      "一只鸟把蛇从地上抓起来，然后把它扔到了电线上。",
+      "于是蛇就缠住了几根电线。",
+      "当它这样做时，把火花送到了地面，这些火花立刻引起了一场大火。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "一般过去时、现在完成时与现在完成进行时",
+        "content": [
+          "一般过去时通常与一个表示确切的时间的状语连用",
+          "现在完成时则有时与表示一段时间的状语连用，有时不需要时间状语",
+          "现在完成进行时则有时与表示一段时间的状语连用，有时与all+表示时间的名词连用",
+          "现在完成时与一般过去时中既可以用状态动词（表示存在、拥有、感情、思想、需求等的动词）也可以用行为动词",
+          "现在完成进行时则通常与行为动词连用"
+        ]
+      },
+      {
+        "title": "Throw to，Throw at和Throw away的区别",
+        "content": [
+          "throw to (sb.)：扔给（某人）",
+          "throw at：对准某一目标扔",
+          "throw away：扔掉，丢弃",
+          "例如：He threw the ball to me and I caught it.（他把球扔给我，我接住了）",
+          "例如：The boy threw a stone at the window and broke it.（男孩朝窗户扔了一块石头，打破了窗户）",
+          "例如：Many people throw away cigarette ends carelessly.（许多人随意丢弃烟头）"
+        ]
+      },
+      {
+        "title": "Cause和Reason的区别",
+        "content": [
+          "cause作名词时表示'原因，起因'，与介词of连用",
+          "cause作动词时表示'使……产生/发生，引起'，可接sth.或sb. to do sth.",
+          "reason作名词时表示'理由，原因'，与介词for连用",
+          "reason后面通常跟why引导的从句",
+          "reason作动词时表示'推理，劝导，说服'，常用reason with sb."
+        ]
+      },
+      {
+        "title": "Drop和Fall的区别",
+        "content": [
+          "drop可作及物动词和不及物动词，表示'（使）掉下，（使）落下，放下'，强调的是不小心掉下来",
+          "fall只作不及物动词，表示'落下，（雨、雪）下，降，跌倒，摔倒'，强调的是掉下来的概念，动作",
+          "例如：As he walked past the tree, an apple dropped from it.（当他走过那棵树时，一个苹果从树上掉了下来）",
+          "例如：I fell and hurt myself.（我摔倒了，伤到了自己）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "put out a fire",
+        "translation": "扑灭火",
+        "context": "表示扑灭、熄灭或关掉火",
+        "example": "At last firemen have put out a big forest fire in California."
+      },
+      {
+        "phrase": "find out",
+        "translation": "找出，发现，查出",
+        "context": "表示经过研究、努力等找出或发现某事",
+        "example": "Since then, they have been trying to find out how the fire began."
+      },
+      {
+        "phrase": "be sure that",
+        "translation": "对……很有把握",
+        "context": "表示对某事有把握或确信",
+        "example": "They were also quite sure that a cigarette end did not start the fire."
+      },
+      {
+        "phrase": "in this way",
+        "translation": "就这样，以这种方式",
+        "context": "表示以某种方式做某事",
+        "example": "In this way, he was able to solve the mystery."
+      },
+      {
+        "phrase": "do so",
+        "translation": "这么做",
+        "context": "表示做前面提到过的动作或事情",
+        "example": "When it did so, it sent sparks down to the ground and these immediately started a fire."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "He was able to solve the mystery. He ___.",
+        "options": [
+          "could if he wanted to",
+          "could but he didn't want to",
+          "succeeded in solving it",
+          "didn't succeed in solving it"
+        ],
+        "answer": 2,
+        "explanation": "be able to = can, succeed in doing表示成功做某事"
+      },
+      {
+        "question": "In this way he was able to solve the mystery. ___ he did it.",
+        "options": [
+          "That's so",
+          "Like this",
+          "That's how",
+          "So"
+        ],
+        "answer": 2,
+        "explanation": "in this way = that's how表示'以这种方式'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The firemen have been trying to ___ how the fire began.",
+        "answer": "find out",
+        "hint": "表示'找出，发现，查出'的短语"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "hot的多种用法",
+        "content": "hot除了表示'热的'外，还有多种含义：新鲜的（hot cake热蛋糕）、棘手的（hot potato棘手的问题）、带电的（hot snake触电的蛇）等。在商业用语中，'It sells like hot cakes'表示某物畅销。"
+      },
+      {
+        "title": "森林火灾的常见原因",
+        "content": "森林火灾通常由人为因素引起，如随意丢弃的烟头、碎玻璃反射阳光、露营篝火未完全熄灭等。本课中提到的由动物引起的火灾虽然罕见，但也提醒我们在分析问题时不应局限于常见原因，有时需要跳出常规思维。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "hot",
+        "toggle": "adj. 热的；辣的；热情的；激动的；紧迫的",
+        "isDanger": 1,
+        "phonetic": "hɒt",
+        "meaning": "adj. 带电的，充电的"
+      },
+      {
+        "word": "fireman",
+        "toggle": "n. 消防队员；救火队员；锅炉工",
+        "isDanger": 0,
+        "phonetic": "ˈfaɪəmən",
+        "meaning": "n. 消防队员"
+      },
+      {
+        "word": "cause",
+        "toggle": "n. 原因；事业；目标",
+        "isDanger": 1,
+        "phonetic": "kɔːz",
+        "meaning": "v. 引起 n. 原因"
+      },
+      {
+        "word": "examine",
+        "toggle": "vt. 调查；考试；检查； [ 计算机 ] 检测",
+        "isDanger": 1,
+        "phonetic": "ɪɡˈzæmɪn",
+        "meaning": "v. 检查"
+      },
+      {
+        "word": "accidentally",
+        "toggle": "adv. 偶然地；意外地",
+        "isDanger": 0,
+        "phonetic": "ˌæksɪˈdentəli",
+        "meaning": "adv. 意外地，偶然地"
+      },
+      {
+        "word": "remains",
+        "toggle": "n. 残余；遗骸",
+        "isDanger": 0,
+        "phonetic": "rɪˈmeɪnz",
+        "meaning": "n. 尸体，残骸"
+      },
+      {
+        "word": "wire",
+        "toggle": "n. 金属丝；电线；电报",
+        "isDanger": 0,
+        "phonetic": "ˈwaɪə(r)",
+        "meaning": "n. 电线"
+      },
+      {
+        "word": "volt",
+        "toggle": "n.(马术中的)环骑,[击剑]闪避,[电工]伏特",
+        "isDanger": 0,
+        "phonetic": "vəʊlt",
+        "meaning": "n. 伏特（电压单位）"
+      },
+      {
+        "word": "power line",
+        "toggle": "n. 电力线; 输电线; 电源线",
+        "isDanger": 0,
+        "phonetic": "ˈpaʊə laɪn",
+        "meaning": "n. 电力线"
+      },
+      {
+        "word": "solve",
+        "toggle": "vt. 解决；解答；溶解",
+        "isDanger": 1,
+        "phonetic": "sɒlv",
+        "meaning": "v. 解决"
+      },
+      {
+        "word": "mystery",
+        "toggle": "n. 神秘，秘密；神秘的事物；奥秘",
+        "isDanger": 0,
+        "phonetic": "ˈmɪst(ə)ri",
+        "meaning": "n. 谜（无法接受地, 解释不了的）"
+      },
+      {
+        "word": "snatch",
+        "toggle": "n. 抢夺；小量；抓举",
+        "isDanger": 0,
+        "phonetic": "snætʃ",
+        "meaning": "v. 抓住"
+      },
+      {
+        "word": "spark",
+        "toggle": "n. 火花；闪光；朝气",
+        "isDanger": 0,
+        "phonetic": "spɑːk",
+        "meaning": "n. 电火花"
+      }
+    ]
+  }
+}

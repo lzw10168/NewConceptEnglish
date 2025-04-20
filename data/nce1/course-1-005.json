@@ -1,0 +1,453 @@
+{
+  "id": "nce1-005",
+  "lessonNumber": "005",
+  "title": {
+    "english": "Nice to meet you",
+    "chinese": "很高兴见到你。"
+  },
+  "lessonInfo": "新概念英语－第1册－第005课",
+  "audioPath": "audio/nce1/005.mp3",
+  "listeningQuestion": {
+    "question": "Is Chang-woo Chinese?",
+    "translation": "昌宇是中国人吗？"
+  },
+  "editorNotes": "本课介绍了在英语课堂上的一个典型场景：老师向班级介绍一位新同学，并进行相互认识。课文展示了正式场合中的基本社交礼仪，包括问候语、介绍他人和回应介绍等。语法重点包括人称代词的使用和国籍形容词。这些内容对于初学者在社交场合建立基本交际能力非常重要，也帮助学习者了解不同文化背景下的礼貌用语。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "MR. BLAKE: Good morning.",
+      "STUDENTS:  Good morning, Mr. Blake.",
+      "MR. BLAKE: This is Miss Sophie Dupont. Sophie is a new student.She is French.",
+      "MR. BLAKE: Sophie, this is Hans.He is German.",
+      "HANS:      Nice to meet you.",
+      "MR. BLAKE: And this is Naoko. She's Japanese.",
+      "NAOKO:     Nice to meet you.",
+      "MR. BLAKE: And this is Chang-woo.  He's Korean.",
+      "CHANG-WOO: Nice to meet you.",
+      "MR. BLAKE: And this is Luming. He is Chinese.",
+      "LUMNG:     Nice to meet you.",
+      "MR. BLAKE: And this is Xiaohui.She's Chinese, too.",
+      "XIAOHUI:   Nice to meet you."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "布莱克先生：早上好。",
+      "学      生：早上好，布莱克先生。",
+      "布莱克先生：这位是索菲娅.杜邦小姐。索菲娅是个新学生。她是法国人。",
+      "布莱克先生：索菲娅，这位是汉斯。他是德国人。",
+      "汉      斯：很高兴见到你。",
+      "布莱克先生：这位是直子。她是日本人。",
+      "直      子：很高兴见到你。",
+      "布莱克先生：这位是昌宇。他是韩国人。",
+      "昌      宇：很高兴见到你。",
+      "布莱克先生：这位是鲁明。他是中国人。",
+      "鲁      明：很高兴见到你。",
+      "布莱克先生：这位是晓惠。她也是中国人。",
+      "晓      惠：很高兴见到你。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 日常问候语",
+        "children": [
+          "核心概念：不同时间段的问候语使用",
+          "使用场景：",
+          "- 早晨见面：Good morning",
+          "- 下午见面：Good afternoon",
+          "- 晚上见面：Good evening",
+          "实用例句：",
+          "- Good morning, everyone! (早上好，大家！)",
+          "- Good afternoon, sir. (下午好，先生。)",
+          "- Good evening, ladies and gentlemen. (晚上好，女士们先生们。)",
+          "使用注意事项：",
+          "- 回应时使用相同的问候语 | 非正式场合可简单使用Hello",
+          "文化背景：",
+          "- 英语国家重视每日问候礼仪",
+          "- 问候语反映了时间的概念"
+        ]
+      },
+      {
+        "heading": "2. 介绍他人",
+        "children": [
+          "核心概念：正式和非正式场合的介绍方式",
+          "使用场景：",
+          "- 介绍新同学/同事 | 社交场合相互认识 | 商务会议上的介绍",
+          "实用例句：",
+          "- This is Mr./Ms. [姓名]. (这位是[姓名]先生/女士。)",
+          "- Let me introduce [姓名]. (让我介绍[姓名]。)",
+          "- I'd like you to meet [姓名]. (我想让你认识[姓名]。)",
+          "使用注意事项：",
+          "- 正式场合使用称谓词(Mr./Ms./Miss)",
+          "- 介绍时可补充身份信息",
+          "- 注意称谓的使用规范"
+        ]
+      },
+      {
+        "heading": "3. 称谓词使用",
+        "children": [
+          "核心概念：英语中的基本称谓词及其用法",
+          "常用称谓词：",
+          "- Mr. (先生) - 适用于所有男性",
+          "- Mrs. (太太) - 已婚女性",
+          "- Miss (小姐) - 未婚女性",
+          "- Ms. (女士) - 不确定婚姻状况时",
+          "使用规则：",
+          "- 称谓词+姓氏",
+          "- 不能单独使用Mr./Mrs./Miss",
+          "- sir/madam可单独使用",
+          "文化差异：",
+          "- 英语国家重视称谓的正确使用",
+          "- 称谓反映社会地位和关系"
+        ]
+      },
+      {
+        "heading": "4. 初次见面用语",
+        "children": [
+          "核心概念：不同场合的见面寒暄用语",
+          "使用场景：",
+          "- 非正式场合：Nice to meet you",
+          "- 正式场合：How do you do?",
+          "- 商务场合：Pleased to meet you",
+          "回应方式：",
+          "- Nice to meet you, too",
+          "- How do you do?",
+          "- Pleased to meet you, too",
+          "使用注意事项：",
+          "- How do you do? 是问候语而非疑问句 | 可配合握手等礼仪动作",
+          "文化背景：",
+          "- 英语国家重视初次见面的礼仪",
+          "- 不同场合选择不同的见面用语"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 特殊疑问句",
+        "children": [
+          "核心概念：",
+          "- 以疑问词引导的问句",
+          "- 用于获取特定信息",
+          "基本结构：",
+          "- 疑问词 + 助动词 + 主语 + 主动词",
+          "常用疑问词：",
+          "- what: 询问事物",
+          "- who: 询问人",
+          "- when: 询问时间",
+          "- where: 询问地点",
+          "- why: 询问原因",
+          "- how: 询问方式",
+          "实用例句：",
+          "- What nationality are you? (你是哪国人？)",
+          "- What is your name? (你叫什么名字？)",
+          "- What do you do? (你是做什么的？)",
+          "注意事项：",
+          "- 疑问词必须放在句首 | 需要使用助动词 | 答句要完整"
+        ]
+      },
+      {
+        "heading": "2. 不定冠词 a/an",
+        "children": [
+          "核心概念：",
+          "- 用于单数可数名词前",
+          "- 表示不确定的人或物",
+          "使用规则：",
+          "- a 用于辅音音素前 | an 用于元音音素前",
+          "实用例句：",
+          "- She is a new student. (她是一名新学生。)",
+          "- He is an English teacher. (他是一名英语老师。)",
+          "常见误区：",
+          "- 看发音而非拼写",
+          "- 只用于单数可数名词",
+          "扩展用法：",
+          "- 表示职业：a doctor",
+          "- 表示类别：an animal",
+          "- 表示数量：a dozen"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 问候语词组",
+        "children": [
+          "good morning/afternoon/evening",
+          "基本含义：一天中不同时段的问候语",
+          "常用搭配：",
+          "- Good morning, everyone!",
+          "- Have a good morning",
+          "- Good morning to you",
+          "使用场景：",
+          "- 学校/办公室 | 商务场合 | 日常社交",
+          "相关词组：",
+          "- Hello/Hi (非正式问候)",
+          "- Good day (较正式)",
+          "- Morning! (非正式缩略)"
+        ]
+      },
+      {
+        "heading": "2. 国籍词汇",
+        "children": [
+          "核心词汇：French, German, Japanese, Korean, Chinese",
+          "使用规则：",
+          "- 国籍词首字母大写 | 形容词和名词形式相同 | 不加冠词表示复数国民",
+          "实用例句：",
+          "- She is French. (她是法国人。)",
+          "- They are Chinese. (他们是中国人。)",
+          "注意事项：",
+          "- 区分国家名和国籍词 | 作形容词时位置",
+          "相关表达：",
+          "- 语言：French language",
+          "- 文化：Chinese culture"
+        ]
+      },
+      {
+        "heading": "3. 社交用语",
+        "children": [
+          "nice to meet you",
+          "基本含义：初次见面的礼貌用语",
+          "常用变体：",
+          "- Pleased to meet you",
+          "- Great to meet you",
+          "- Wonderful meeting you",
+          "使用场景：",
+          "- 正式介绍 | 商务会面 | 社交场合",
+          "回应方式：",
+          "- Nice to meet you, too",
+          "- Likewise",
+          "- Same here (非正式)"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Mr.",
+        "toggle": "n. 先生（用作男子姓氏或姓名前的称呼）",
+        "isDanger": 0,
+        "phonetic": "ˈmɪstər",
+        "meaning": "n. 先生"
+      },
+      {
+        "word": "miss",
+        "toggle": "vt. 漏掉；错过；想念",
+        "isDanger": 1,
+        "phonetic": "mɪs",
+        "meaning": "n. 小姐"
+      },
+      {
+        "word": "good",
+        "toggle": "adj. 愉快的；好的；虔诚的；优良的",
+        "isDanger": 1,
+        "phonetic": "ɡʊd",
+        "meaning": "adj. 好"
+      },
+      {
+        "word": "morning",
+        "toggle": "n. 早晨； [ 诗 ] 初期；黎明",
+        "isDanger": 0,
+        "phonetic": "ˈmɔːnɪŋ",
+        "meaning": "n. 早晨"
+      },
+      {
+        "word": "new",
+        "toggle": "adj. 新的，新鲜的；更新的；初见的",
+        "isDanger": 0,
+        "phonetic": "njuː",
+        "meaning": "adj. 新的"
+      },
+      {
+        "word": "student",
+        "toggle": "n. 学生；学者",
+        "isDanger": 0,
+        "phonetic": "ˈstjuːd(ə)nt",
+        "meaning": "n. 学生"
+      },
+      {
+        "word": "French",
+        "toggle": "adj. 法国的；法语的；法国人的",
+        "isDanger": 0,
+        "phonetic": "frentʃ",
+        "meaning": "n. 法国人"
+      },
+      {
+        "word": "German",
+        "toggle": "adj. 德国的；德语的，德国人的",
+        "isDanger": 0,
+        "phonetic": "'dʒɜːmən",
+        "meaning": "n. 德国人"
+      },
+      {
+        "word": "nice",
+        "toggle": "adj. 精密的；美好的；细微的；和蔼的",
+        "isDanger": 1,
+        "phonetic": "naɪs",
+        "meaning": "adj. 美好的"
+      },
+      {
+        "word": "meet",
+        "toggle": "vt. 遇见；满足；对付",
+        "isDanger": 1,
+        "phonetic": "miːt",
+        "meaning": "v. 遇见"
+      },
+      {
+        "word": "too",
+        "toggle": "adv. 也；太；非常；还；过度；很",
+        "isDanger": 1,
+        "phonetic": "tuː",
+        "meaning": "adj. 也"
+      },
+      {
+        "word": "Japanese",
+        "toggle": "adj. 日本（人）的；日语的",
+        "isDanger": 0,
+        "phonetic": "dʒæpə'ni:z",
+        "meaning": "n. 日本人"
+      },
+      {
+        "word": "Korean",
+        "toggle": "adj. 韩国人的；韩国语的；朝鲜人的；朝鲜语的",
+        "isDanger": 0,
+        "phonetic": "kə'riən",
+        "meaning": "n. 韩国人"
+      },
+      {
+        "word": "Chinese",
+        "toggle": "n. 中文，汉语；中国人",
+        "isDanger": 0,
+        "phonetic": "tʃaɪˈniːz",
+        "meaning": "n. 中国人"
+      },
+      {
+        "word": "make",
+        "toggle": "vt. 制造；构成；使得；获得；引起；进行；布置，准备，整理；认为；安排；形成",
+        "isDanger": 1,
+        "phonetic": "meɪk",
+        "meaning": "n. (产品的)牌号"
+      },
+      {
+        "word": "Sweden",
+        "toggle": "n.瑞典",
+        "isDanger": 0,
+        "phonetic": "ˈswiːd(ə)n",
+        "meaning": "n. 瑞典"
+      },
+      {
+        "word": "England",
+        "toggle": "n.英格兰(英国的主要部分),英格兰和威尔士,英国",
+        "isDanger": 0,
+        "phonetic": "ˈɪŋɡlənd",
+        "meaning": "n. 英国"
+      },
+      {
+        "word": "English",
+        "toggle": "adj. 英国人的；英国的；英文的",
+        "isDanger": 0,
+        "phonetic": "'ɪŋɡlɪʃ",
+        "meaning": "adj. 英国的"
+      },
+      {
+        "word": "America",
+        "toggle": "n.<美>美国,美洲(包括北美和南美洲)",
+        "isDanger": 0,
+        "phonetic": "ə'merɪkə",
+        "meaning": "n. 美国"
+      },
+      {
+        "word": "American",
+        "toggle": "n. 美国人",
+        "isDanger": 0,
+        "phonetic": "əˈmerɪkən",
+        "meaning": "adj. 美国的"
+      },
+      {
+        "word": "Italy",
+        "toggle": "n.意大利(欧洲南部国家)",
+        "isDanger": 0,
+        "phonetic": "'ɪtəlɪ",
+        "meaning": "n. 意大利"
+      },
+      {
+        "word": "Swedish",
+        "toggle": "adj. 瑞典的；瑞典语的；瑞典人的",
+        "isDanger": 0,
+        "phonetic": "'swi:dɪʃ",
+        "meaning": "adj. 瑞典的"
+      },
+      {
+        "word": "Italian",
+        "toggle": "adj. 意大利的；意大利文化的；意大利语的",
+        "isDanger": 0,
+        "phonetic": "ɪˈtælɪən",
+        "meaning": "adj. 意大利的"
+      },
+      {
+        "word": "Volvo",
+        "toggle": "沃尔沃[富豪]汽车",
+        "isDanger": 0,
+        "phonetic": "'vɔlvəu",
+        "meaning": "n. 沃尔沃"
+      },
+      {
+        "word": "Peugeot",
+        "toggle": "n. 标致汽车（公司名）",
+        "isDanger": 0,
+        "phonetic": "pjuːˈʒoʊ",
+        "meaning": "n. 标致"
+      },
+      {
+        "word": "Mercedes",
+        "toggle": "默西迪丝（女子名）; 梅塞德斯（奔驰）",
+        "isDanger": 0,
+        "phonetic": "məˈsɪdi:z",
+        "meaning": "n. 梅赛德斯"
+      },
+      {
+        "word": "Toyota",
+        "toggle": "丰田汽车",
+        "isDanger": 0,
+        "phonetic": "tɔɪˈəʊtə",
+        "meaning": "n. 丰田"
+      },
+      {
+        "word": "Daewoo",
+        "toggle": "n. 大宇（韩国产轿车品牌名）",
+        "isDanger": 0,
+        "phonetic": "´da:wu:",
+        "meaning": "n. 大宇"
+      },
+      {
+        "word": "mini",
+        "toggle": "n. 迷你型；微型汽车；超短裙",
+        "isDanger": 0,
+        "phonetic": "ˈmɪni",
+        "meaning": "n. 迷你"
+      },
+      {
+        "word": "ford",
+        "toggle": "n.浅滩 v.徒涉",
+        "isDanger": 0,
+        "phonetic": "fɔːd",
+        "meaning": "n. 福特"
+      },
+      {
+        "word": "fiat",
+        "toggle": "n. 命令；许可；政法",
+        "isDanger": 0,
+        "phonetic": "ˈfiːæt",
+        "meaning": "n. 菲亚特"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

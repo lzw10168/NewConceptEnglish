@@ -1,0 +1,273 @@
+{
+  "id": "nce1-069",
+  "lessonNumber": "069",
+  "title": {
+    "english": "The car race",
+    "chinese": "汽车比赛"
+  },
+  "lessonInfo": "新概念英语－第1册－第069课",
+  "audioPath": "audio/nce1/069.mp3",
+  "listeningQuestion": {
+    "question": "Who was the winner of the car race?",
+    "translation": "谁是汽车比赛的获胜者？"
+  },
+  "editorNotes": "本课以一场汽车比赛为背景，介绍了there be句型的过去时态用法，以及描述比赛场景的相关表达。通过一个生动的叙事，展示了英语中表达数量、位置和比赛结果的多种方式，同时也体现了日常生活中的幽默元素。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "There is a car race near our town every year. In 1995, there was a very big race.",
+      "There were hundreds of people there. My wife and I were at the race. Our friends, Julie and Jack were there, too. You can see us in the crowd. We are standing on the left.",
+      "There were twenty cars in the race. There were English cars, French cars, German cars, Italian cars, American cars and Japanese cars.",
+      "It was an exciting finish. The winner was Billy Stewart. He was in car number fifteen. Five other cars were just behind him.",
+      "On the way home, my wife said to me, 'Don't drive so quickly! You're not Billy Stewart!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "在我们镇子附近每年都有一场汽车比赛。1995年举行了一次盛大的比赛。",
+      "许许多多人都去了赛场。我和我的妻子也去了。我们的朋友朱莉和杰克也去了。你可以在人群中看到我们。我们站在左面。",
+      "参加比赛的有20辆汽车。有英国、法国、德国、意大利和日本的汽车。",
+      "比赛的结尾是激动人心的。获胜者是比利.斯图尔特。他在第15号车里，其他5辆汽车跟在他后面。",
+      "在回家的途中，我妻子对我说：'别开得这样快！你可不是比利.斯图尔特！'"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 时间和频率表达",
+        "children": [
+          "核心概念：表达事件发生的时间和频率",
+          "常用表达：",
+          "- every year 每年",
+          "- in 1995 在1995年",
+          "使用场景：描述定期活动或特定时间",
+          "注意事项：年份前用介词in"
+        ]
+      },
+      {
+        "heading": "2. 位置描述",
+        "children": [
+          "核心概念：描述人或物的位置",
+          "常用表达：",
+          "- in the crowd 在人群中",
+          "- on the left 在左边",
+          "- just behind him 就在他后面",
+          "使用场景：指明位置和方位",
+          "注意事项：注意介词的准确使用"
+        ]
+      },
+      {
+        "heading": "3. 比赛描述",
+        "children": [
+          "核心概念：描述比赛的场景和结果",
+          "常用表达：",
+          "- an exciting finish 激动人心的结局",
+          "- the winner was... 获胜者是...",
+          "- car number fifteen 15号车",
+          "使用场景：描述比赛过程和结果",
+          "注意事项：注意序数词的使用"
+        ]
+      },
+      {
+        "heading": "4. 幽默警告",
+        "children": [
+          "核心概念：用幽默方式表达警告",
+          "常用表达：",
+          "- Don't drive so quickly! 别开那么快！",
+          "- You're not... 你不是...",
+          "使用场景：轻松方式表达提醒或警告",
+          "注意事项：注意语气的轻松幽默"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. there be句型的过去时态",
+        "children": [
+          "1. 肯定形式：There was/were...",
+          "2. 单数用was：There was a very big race",
+          "3. 复数用were：There were hundreds of people",
+          "4. 注意主谓一致"
+        ]
+      },
+      {
+        "heading": "2. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生的事：The winner was...",
+          "2. 描述过去的状态：We were at the race",
+          "3. 叙述过去的动作：My wife said...",
+          "4. 注意时态的一致性"
+        ]
+      },
+      {
+        "heading": "3. 祈使句的否定形式",
+        "children": [
+          "1. 基本结构：Don't + 动词原形",
+          "2. 表示禁止：Don't drive so quickly!",
+          "3. 语气的强弱变化",
+          "4. 注意表达的礼貌程度"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 比赛相关词汇",
+        "children": [
+          "race n. 比赛：",
+          "- car race 汽车比赛",
+          "- horse race 赛马",
+          "winner n. 获胜者：",
+          "- the winner of the race 比赛的获胜者",
+          "finish n. 结尾，结束：",
+          "- an exciting finish 激动人心的结局"
+        ]
+      },
+      {
+        "heading": "2. 方位词组",
+        "children": [
+          "behind prep. 在...后面：",
+          "- just behind him 就在他后面",
+          "way n. 路途，方向：",
+          "- on the way home 在回家路上",
+          "left n. 左边：",
+          "- on the left 在左边"
+        ]
+      },
+      {
+        "heading": "3. 描述性词语",
+        "children": [
+          "exciting adj. 令人兴奋的：",
+          "- an exciting race 激动人心的比赛",
+          "- an exciting finish 激动人心的结局",
+          "quickly adv. 快速地：",
+          "- drive quickly 快速驾驶"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "year",
+        "toggle": "n. 年；历年；年度",
+        "isDanger": 1,
+        "phonetic": "jɪə(r)",
+        "meaning": "n. 年"
+      },
+      {
+        "word": "race",
+        "toggle": "n. 种族，人种；家庭，门弟；属，种",
+        "isDanger": 1,
+        "phonetic": "reɪs",
+        "meaning": "n. 比赛"
+      },
+      {
+        "word": "town",
+        "toggle": "n. 城镇，市镇；市内商业区",
+        "isDanger": 0,
+        "phonetic": "taʊn",
+        "meaning": "n. 城镇"
+      },
+      {
+        "word": "down town",
+        "toggle": "（从郊区或郊外高地）进城",
+        "isDanger": 0,
+        "phonetic": "daʊn taʊn",
+        "meaning": "n. 市中心"
+      },
+      {
+        "word": "crowd",
+        "toggle": "vt. 挤满；将 … 塞进；催逼，催促",
+        "isDanger": 0,
+        "phonetic": "kraʊd",
+        "meaning": "n. 人群"
+      },
+      {
+        "word": "stand",
+        "toggle": "vi. 位于；站立；停滞",
+        "isDanger": 1,
+        "phonetic": "stænd",
+        "meaning": "v. 站立"
+      },
+      {
+        "word": "exciting",
+        "toggle": "adj. 使人激动的；令人兴奋的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsaɪtɪŋ",
+        "meaning": "adj. 使人激动的"
+      },
+      {
+        "word": "exit",
+        "toggle": "n. 出口，通道；退场",
+        "isDanger": 1,
+        "phonetic": "ˈeksɪt",
+        "meaning": "n. 出口"
+      },
+      {
+        "word": "just",
+        "toggle": "adv. 正好，恰好；只是，仅仅；刚才，刚刚；实在；刚要",
+        "isDanger": 1,
+        "phonetic": "dʒʌst",
+        "meaning": "adv. 正好，恰好"
+      },
+      {
+        "word": "finish",
+        "toggle": "vt. 完成；结束；用完",
+        "isDanger": 0,
+        "phonetic": "ˈfɪnɪʃ",
+        "meaning": "n. 结尾，结束"
+      },
+      {
+        "word": "done",
+        "toggle": "adj. 完成的；煮熟的",
+        "isDanger": 0,
+        "phonetic": "dʌn",
+        "meaning": "v. 完成"
+      },
+      {
+        "word": "winner",
+        "toggle": "n. 胜利者",
+        "isDanger": 0,
+        "phonetic": "ˈwɪnə(r)",
+        "meaning": "n. 获胜者"
+      },
+      {
+        "word": "behind",
+        "toggle": "prep. 支持；落后于；晚于",
+        "isDanger": 1,
+        "phonetic": "bɪˈhaɪnd",
+        "meaning": "prep. 在…之后"
+      },
+      {
+        "word": "way",
+        "toggle": "n. 道路；方法；方向；习惯；行业",
+        "isDanger": 1,
+        "phonetic": "weɪ",
+        "meaning": "n. 路途"
+      },
+      {
+        "word": "stationer",
+        "toggle": "n. 文具店；文具商",
+        "isDanger": 0,
+        "phonetic": "ˈsteɪʃənə(r)",
+        "meaning": "n. 文具店"
+      },
+      {
+        "word": "Denmark",
+        "toggle": "n.丹麦(北欧国家,首都哥本哈根)",
+        "isDanger": 0,
+        "phonetic": "ˈdenmɑːk",
+        "meaning": "n. 丹麦"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

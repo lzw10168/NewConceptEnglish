@@ -1,0 +1,481 @@
+{
+  "id": "nce1-103",
+  "lessonNumber": "103",
+  "title": {
+    "english": "The Intelligence test",
+    "chinese": "智力测试"
+  },
+  "lessonInfo": "新概念英语－第1册－第103课",
+  "audioPath": "audio/nce1/103.mp3",
+  "listeningQuestion": {
+    "question": "What did Harry and Dick think about their exam results?",
+    "translation": "哈里和迪克对他们的考试结果有什么看法？"
+  },
+  "editorNotes": "本课通过两个学生讨论考试结果的对话，展示了如何谈论考试体验和表达担忧。课文涉及考试评价、情感表达和安慰鼓励等交际功能，同时介绍了比较级和情态动词的使用。这些表达对于学生生活中的考试交流非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Harry:     How was the examination, Dick?",
+      "Dick:       Not too bad. I think I passed in English and Mathematics. The questions were very easy. How about you, Harry?",
+      "Harry:     The English and Maths papers weren't easy enough for me. I hope I haven't failed.",
+      "Dick:       I think I failed the Intelligence Test. I could answer sixteen of the questions. They were very easy. But I couldn't answer the rest.  They were too difficult for me.",
+      "Harry:       Intelligence tests are awful, aren't they?",
+      "Dick:       I hate them. I'm sure I've got a low I.Q.",
+      "Harry:     Oh, cheer up（振作点）! Perhaps we didn't do too badly. The guy next to me wrote his name at the top of the paper.",
+      "Dick:       Yes?",
+      "Harry:     Then he sat there and looked at it for three hours! He didn't write a word!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "加 里：考试考得怎样，理查德？",
+      "理查德：不算太坏，我想我的英语和数学及格了。题目很容易。加里，你怎么样？",
+      "加 里：英语和数学试题对我来说不很容易。我希望别不及格。",
+      "理查德：我想我的法语及不了格，我能回答其中的16道题。这些题很容易。但我回答不出其它的题。那些题对我来说太难了。",
+      "加 里：法语太可怕了，你说呢？",
+      "理查德：我讨厌法语。我的法语成绩肯定很低。",
+      "加 里：啊，别灰心！或许我们考得还不太糟。我旁边那人只在试卷顶端写自己的名字。",
+      "理查德：是吗？",
+      "加 里：然后他就坐在那里，对着考卷看了3个小时，一个字也没写！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 考试评价表达",
+        "children": [
+          "核心概念：如何评价考试难度和表现",
+          "常用表达：",
+          "- How was the examination? 考试考得怎样？",
+          "- Not too bad 不算太差",
+          "- The questions were very easy 题目很容易",
+          "- I think I passed/failed 我想我及格了/没及格",
+          "使用场景：讨论考试结果时",
+          "注意事项：注意使用委婉的表达方式"
+        ]
+      },
+      {
+        "heading": "2. 难度描述",
+        "children": [
+          "核心概念：如何描述试题难度",
+          "常用表达：",
+          "- easy enough 足够容易",
+          "- too difficult for me 对我来说太难了",
+          "- I could/couldn't answer 我能/不能回答",
+          "- The rest (of the questions) 剩下的（题目）",
+          "使用场景：描述试题难度时",
+          "注意事项：注意使用比较级和程度词"
+        ]
+      },
+      {
+        "heading": "3. 情感表达",
+        "children": [
+          "核心概念：如何表达考试相关情感",
+          "常用表达：",
+          "- I hope I haven't failed 我希望别不及格",
+          "- I hate them 我讨厌它们",
+          "- I'm sure I've got a low I.Q. 我肯定智商很低",
+          "使用场景：表达对考试的情感时",
+          "注意事项：注意表达的语气和程度"
+        ]
+      },
+      {
+        "heading": "4. 安慰鼓励",
+        "children": [
+          "核心概念：如何安慰和鼓励他人",
+          "常用表达：",
+          "- Cheer up! 振作起来！",
+          "- Perhaps we didn't do too badly 也许我们考得还不错",
+          "- Intelligence tests are awful 智力测试很糟糕",
+          "使用场景：安慰考试失利的同学时",
+          "注意事项：注意使用积极的语气"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 形容词比较级的使用",
+        "children": [
+          "1. enough的位置：easy enough",
+          "2. too的用法：too difficult",
+          "3. 比较级的构成",
+          "4. 常见错误分析"
+        ]
+      },
+      {
+        "heading": "2. 情态动词的使用",
+        "children": [
+          "1. could表示能力：could answer",
+          "2. couldn't表示不能：couldn't answer",
+          "3. 情态动词的否定形式",
+          "4. 情态动词的时态变化"
+        ]
+      },
+      {
+        "heading": "3. 现在完成时",
+        "children": [
+          "1. 表示结果：have failed",
+          "2. 表示经历：have got",
+          "3. 否定形式：haven't failed",
+          "4. 疑问句形式"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 考试相关词汇",
+        "children": [
+          "examination n. 考试：",
+          "- take an examination 参加考试",
+          "- pass an examination 通过考试",
+          "test n. 测试：",
+          "- intelligence test 智力测试",
+          "- take a test 参加测试"
+        ]
+      },
+      {
+        "heading": "2. 学科词汇",
+        "children": [
+          "mathematics n. 数学：",
+          "- study mathematics 学习数学",
+          "- good at mathematics 擅长数学",
+          "English n. 英语：",
+          "- English paper 英语试卷",
+          "- learn English 学习英语"
+        ]
+      },
+      {
+        "heading": "3. 评价词汇",
+        "children": [
+          "difficult adj. 困难的：",
+          "- too difficult 太难了",
+          "- find sth difficult 觉得某事困难",
+          "easy adj. 容易的：",
+          "- very easy 很容易",
+          "- easy enough 足够容易"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "exam",
+        "toggle": "n. 测验；考试",
+        "isDanger": 0,
+        "phonetic": "ɪɡˈzæm",
+        "meaning": "n. 考试"
+      },
+      {
+        "word": "test",
+        "toggle": "n. 检验；试验",
+        "isDanger": 1,
+        "phonetic": "test",
+        "meaning": "n. 测试"
+      },
+      {
+        "word": "text",
+        "toggle": "n. 文本；课文；主题； vt. 发短信",
+        "isDanger": 0,
+        "phonetic": "tekst",
+        "meaning": "n. 文本"
+      },
+      {
+        "word": "pass",
+        "toggle": "n. 及格；经过；护照；途径； [ 体 ] 传球； vi. 经过；传递；变化；终止； vt. 通过；经过；传递",
+        "isDanger": 1,
+        "phonetic": "pɑːs",
+        "meaning": "v. 及格，通过"
+      },
+      {
+        "word": "mathematics",
+        "toggle": "n. 数学；数学运算",
+        "isDanger": 0,
+        "phonetic": "ˌmæθəˈmætɪks",
+        "meaning": "n. 数学"
+      },
+      {
+        "word": "compute",
+        "toggle": "vt. 计算；估算；用计算机计算",
+        "isDanger": 0,
+        "phonetic": "kəmˈpjuːt",
+        "meaning": "n. 计算"
+      },
+      {
+        "word": "math",
+        "toggle": "n. 数学（等于 mathematics ）",
+        "isDanger": 0,
+        "phonetic": "mæθ",
+        "meaning": "n. 数学"
+      },
+      {
+        "word": "question",
+        "toggle": "n. 问题，疑问；询问；疑问句",
+        "isDanger": 0,
+        "phonetic": "ˈkwestʃən",
+        "meaning": "n. 问题"
+      },
+      {
+        "word": "easy",
+        "toggle": "adj. 容易的；舒适的",
+        "isDanger": 1,
+        "phonetic": "ˈiːzi",
+        "meaning": "adj. 容易的"
+      },
+      {
+        "word": "enough",
+        "toggle": "adv. 足够地，充足地",
+        "isDanger": 0,
+        "phonetic": "ɪˈnʌf",
+        "meaning": "adv. 足够地"
+      },
+      {
+        "word": "extra",
+        "toggle": "adv. 特别地，非常；另外;n.群众演员",
+        "isDanger": 1,
+        "phonetic": "ˈekstrə",
+        "meaning": "adj. 额外的"
+      },
+      {
+        "word": "fail",
+        "toggle": "vi. 失败，不及格；衰退；缺乏；破产",
+        "isDanger": 0,
+        "phonetic": "feɪl",
+        "meaning": "adj. 未及格，失败"
+      },
+      {
+        "word": "failure",
+        "toggle": "n. 失败；故障；失败者；破产",
+        "isDanger": 0,
+        "phonetic": "ˈfeɪljə(r)",
+        "meaning": "n. 失败"
+      },
+      {
+        "word": "answer",
+        "toggle": "vt. 符合；回答",
+        "isDanger": 0,
+        "phonetic": "ˈɑːnsə(r)",
+        "meaning": "v. 回答"
+      },
+      {
+        "word": "respond",
+        "toggle": "vi. 回答；作出反应；承担责任",
+        "isDanger": 0,
+        "phonetic": "rɪˈspɒnd",
+        "meaning": "v. 响应"
+      },
+      {
+        "word": "response",
+        "toggle": "n. 响应；反应；回答",
+        "isDanger": 0,
+        "phonetic": "rɪˈspɒns",
+        "meaning": "n. 回复"
+      },
+      {
+        "word": "mark",
+        "toggle": "n. 马克；符号；痕迹；标志",
+        "isDanger": 1,
+        "phonetic": "mɑːk",
+        "meaning": "n. 分数"
+      },
+      {
+        "word": "score",
+        "toggle": "n. 刻痕；配乐；分数；二十",
+        "isDanger": 0,
+        "phonetic": "skɔː(r)",
+        "meaning": "n. 得分"
+      },
+      {
+        "word": "rest",
+        "toggle": "vt. 使休息，使轻松；把 … 寄托于",
+        "isDanger": 1,
+        "phonetic": "rest",
+        "meaning": "n. 其他的东西"
+      },
+      {
+        "word": "difficult",
+        "toggle": "adj. 困难的；不随和的；执拗的",
+        "isDanger": 0,
+        "phonetic": "ˈdɪfɪkəlt",
+        "meaning": "adj. 困难的"
+      },
+      {
+        "word": "hate",
+        "toggle": "vt. 憎恨；厌恶；遗憾",
+        "isDanger": 0,
+        "phonetic": "heɪt",
+        "meaning": "v. 讨厌"
+      },
+      {
+        "word": "low",
+        "toggle": "adj. 低的，浅的；粗俗的；卑贱的；消沉的",
+        "isDanger": 0,
+        "phonetic": "ləʊ",
+        "meaning": "adj. 低的"
+      },
+      {
+        "word": "cheer",
+        "toggle": "vt. 欢呼；使高兴；为 … 加油",
+        "isDanger": 0,
+        "phonetic": "tʃɪə(r)",
+        "meaning": "v. 振作，振奋"
+      },
+      {
+        "word": "guy",
+        "toggle": "n. 男人，家伙",
+        "isDanger": 0,
+        "phonetic": "ɡaɪ",
+        "meaning": "n. 家伙，人"
+      },
+      {
+        "word": "top",
+        "toggle": "n. 顶部，顶端；上部；首席；陀螺",
+        "isDanger": 0,
+        "phonetic": "tɒp",
+        "meaning": "n. 上方，顶部"
+      },
+      {
+        "word": "clever",
+        "toggle": "adj. 聪明的；机灵的；熟练的",
+        "isDanger": 0,
+        "phonetic": "ˈklevə(r)",
+        "meaning": "adj. 聪明的"
+      },
+      {
+        "word": "smart",
+        "toggle": "n. 痛苦；刺痛",
+        "isDanger": 0,
+        "phonetic": "smɑːt",
+        "meaning": "adj. 聪明的"
+      },
+      {
+        "word": "intelligent",
+        "toggle": "adj. 聪明的；智能的；理解力强的",
+        "isDanger": 0,
+        "phonetic": "ɪnˈtelɪdʒənt",
+        "meaning": "adj. 有智力的"
+      },
+      {
+        "word": "stupid",
+        "toggle": "adj. 愚蠢的；麻木的；乏味的",
+        "isDanger": 0,
+        "phonetic": "ˈstjuːpɪd",
+        "meaning": "adj. 笨的"
+      },
+      {
+        "word": "foolish",
+        "toggle": "adj. 愚蠢的；傻的",
+        "isDanger": 0,
+        "phonetic": "ˈfuːlɪʃ",
+        "meaning": "adj. 愚蠢的"
+      },
+      {
+        "word": "fool",
+        "toggle": "vi. 开玩笑；欺骗；戏弄",
+        "isDanger": 0,
+        "phonetic": "fuːl",
+        "meaning": "n. 笨蛋"
+      },
+      {
+        "word": "cheap",
+        "toggle": "adj. 便宜的； [ 口 ] 小气的；不值钱的",
+        "isDanger": 1,
+        "phonetic": "tʃiːp",
+        "meaning": "adj. 便宜的"
+      },
+      {
+        "word": "expensive",
+        "toggle": "adj. 昂贵的；花钱的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspensɪv",
+        "meaning": "adj. 贵的"
+      },
+      {
+        "word": "inexpensive",
+        "toggle": "adj. 便宜的",
+        "isDanger": 0,
+        "phonetic": "ˌɪnɪkˈspensɪv",
+        "meaning": "adj. 不贵的"
+      },
+      {
+        "word": "fresh",
+        "toggle": "adj. 新鲜的；无经验的；淡水的；清新的",
+        "isDanger": 1,
+        "phonetic": "freʃ",
+        "meaning": "adj. 新鲜的"
+      },
+      {
+        "word": "stale",
+        "toggle": "adj. 不新鲜的；陈腐的",
+        "isDanger": 0,
+        "phonetic": "steɪl",
+        "meaning": "adj. 变馊的"
+      },
+      {
+        "word": "sour",
+        "toggle": "adj. 酸的；酸臭的；讨厌的；刺耳的；发酵的",
+        "isDanger": 0,
+        "phonetic": "ˈsaʊə(r)",
+        "meaning": "adj. 酸味的"
+      },
+      {
+        "word": "loud",
+        "toggle": "adj. 大声的，高声的；不断的；喧吵的",
+        "isDanger": 1,
+        "phonetic": "laʊd",
+        "meaning": "adj. 大声的"
+      },
+      {
+        "word": "high",
+        "toggle": "adj. 高的；高级的；高音调的；崇高的",
+        "isDanger": 0,
+        "phonetic": "haɪ",
+        "meaning": "adj. 高的"
+      },
+      {
+        "word": "hard",
+        "toggle": "adj. 困难的；硬的；猛烈的；确实的；努力的；辛苦的；冷酷无情的；严厉的",
+        "isDanger": 0,
+        "phonetic": "hɑːd",
+        "meaning": "adj. 硬的"
+      },
+      {
+        "word": "sweet",
+        "toggle": "adj. 甜的；悦耳的；芳香的；亲切的； n. 糖果；乐趣；芳香；宝贝；（俚）酷毙了",
+        "isDanger": 0,
+        "phonetic": "swiːt",
+        "meaning": "adj. 甜的"
+      },
+      {
+        "word": "soft",
+        "toggle": "adj. 温柔的，温和的；软的，柔软的；笨的；软弱的",
+        "isDanger": 0,
+        "phonetic": "sɒft",
+        "meaning": "adj. 软的"
+      },
+      {
+        "word": "salt",
+        "toggle": "n. 盐；风趣，刺激性",
+        "isDanger": 0,
+        "phonetic": "sɔːlt",
+        "meaning": "adj. 咸的"
+      },
+      {
+        "word": "paper",
+        "toggle": "n. 纸；文件；报纸；论文",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪpə",
+        "meaning": "n. 考卷"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

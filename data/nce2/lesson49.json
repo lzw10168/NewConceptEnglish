@@ -1,0 +1,248 @@
+{
+  "id": "nce2--049",
+  "lessonNumber": "049",
+  "title": {
+    "english": "The end of a dream",
+    "chinese": "梦的终结"
+  },
+  "lessonInfo": "新概念英语－第2册－第049课",
+  "audioPath": "audio/nce2/049.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the young man's bed?",
+    "translation": "年轻人的床发生了什么？"
+  },
+  "editorNotes": "本课讲述了一个年轻人在德黑兰的故事。他为了摆脱睡地板的困扰，攒钱买了一张真正的床，却因为天气炎热把床搬到了屋顶。一场暴风雨导致床被吹落摔碎，但年轻人却奇迹般地没有受伤。在语法方面，重点介绍了复合句的语序，包括连词连接的复合句、分词结构的复合句和不定式结构的复合句。文章还涉及了一些重要的词汇用法，如tired、real、spring、mattress等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.",
+      "For the first time in his life, he became the proud owner of a bed which had springs and a mattress.",
+      "Because the weather was very hot, he carried the bed on to the roof of his house.",
+      "He slept very well for the first two nights, but on the third night, a storm blew up.",
+      "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+      "The young man did not wake up until the bed had struck the ground.",
+      "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+      "When he woke up, he was still on the mattress.",
+      "Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house.",
+      "After he had put it on the floor, he promptly went to sleep again."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "德黑兰的一个年轻人由于对睡地板感到厌倦，于是积蓄多年买了一张真正的床。",
+      "他平生第一次自豪地拥有了一张既有弹簧又带床垫的床。",
+      "由于天气很热，他便把床搬到了他的屋顶上。",
+      "头两天晚上，他睡得非常好。但第三天晚上起了风暴。",
+      "一阵大风把床从屋顶上刮了下来，把它摔碎在下面的院子里。",
+      "那年轻人直到床撞到地上才醒了过来。",
+      "尽管床摔成了碎片，但年轻人却奇迹般地没有受伤。",
+      "他醒来时，仍然躺在床垫上。",
+      "年轻人看了一眼周围的碎木片和碎金属片，伤心地捡起了床垫，把它拿进了屋。",
+      "他把床垫往地板上一放，很快又睡着了。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "复合句的语序",
+        "content": [
+          "复合句可用两种方法构成：",
+          "1. 用连词把从句与主句连接起来",
+          "2. 用分词结构或不定式",
+          "连词连接的复合句包括：",
+          "- 名词从句（作主语、宾语或表语）",
+          "- 关系从句（由who, whom, that, which, whose引导）",
+          "- 状语从句（时间、地点、方式、原因、条件、让步、目的、结果、比较等）"
+        ]
+      },
+      {
+        "title": "分词结构的复合句",
+        "content": [
+          "现在分词结构可代替时间从句、原因从句、关系从句等",
+          "现在分词结构仅限两个动作主语一致时使用",
+          "过去分词结构常用于正式文体，代替被动语态",
+          "例如：Feeling tired, I went to bed earlier than usual."
+        ]
+      },
+      {
+        "title": "不定式结构的复合句",
+        "content": [
+          "通常代替表示目的或条件的状语从句",
+          "例如：To get into university you have to pass a number of examinations."
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "be tired of",
+        "translation": "对……感到厌倦",
+        "context": "表示对某事感到厌烦",
+        "example": "Tired of sleeping on the floor, a young man saved up for years."
+      },
+      {
+        "phrase": "save up",
+        "translation": "攒钱，储蓄",
+        "context": "表示存钱",
+        "example": "He saved up for years to buy a real bed."
+      },
+      {
+        "phrase": "blow up",
+        "translation": "风越刮越大",
+        "context": "表示暴风雨出现并加剧",
+        "example": "A storm blew up on the third night."
+      },
+      {
+        "phrase": "glance at",
+        "translation": "扫视，看一眼",
+        "context": "表示快速看一眼",
+        "example": "Glancing at the bits of wood and metal that lay around him..."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "___ the hot weather, he couldn't sleep indoors.",
+        "options": [
+          "Because",
+          "Because of",
+          "As",
+          "For"
+        ],
+        "answer": 1,
+        "explanation": "because, as, for后接句子，不能加词组；because of后接名词，表示'因为...'"
+      },
+      {
+        "question": "How ___ did he sleep?",
+        "options": [
+          "good",
+          "well",
+          "good",
+          "nice"
+        ],
+        "answer": 1,
+        "explanation": "how对形容词或副词提问，这里是对程度副词well提问"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "He looked at the bits of wood and metal ___ around him.",
+        "answer": "lying",
+        "hint": "表示'躺着'的不及物动词的现在分词形式"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "在德黑兰这样的城市，由于气候炎热，人们有时会选择在屋顶睡觉。这是一个常见的文化习俗，但也可能带来一些意外风险，就像故事中描述的那样。"
+      },
+      {
+        "title": "实用表达",
+        "content": "本课中的一些表达方式在日常英语中非常实用，如'be tired of'（对...感到厌倦）、'save up'（攒钱）等。这些表达不仅用于书面语，在口语交际中也经常使用。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "tired",
+        "toggle": "adj. 疲倦的；厌倦的，厌烦的",
+        "isDanger": 0,
+        "phonetic": "ˈtaɪəd",
+        "meaning": "adj. 厌烦的"
+      },
+      {
+        "word": "real",
+        "toggle": "adj. 真实的；实在的；实际的",
+        "isDanger": 1,
+        "phonetic": "ˈriːəl",
+        "meaning": "adj. 真正的"
+      },
+      {
+        "word": "owner",
+        "toggle": "n. 所有者；物主",
+        "isDanger": 0,
+        "phonetic": "ˈəʊnə(r)",
+        "meaning": "n. 主人"
+      },
+      {
+        "word": "spring",
+        "toggle": "n. 春天；弹簧；泉水；跳跃；活力",
+        "isDanger": 1,
+        "phonetic": "sprɪŋ",
+        "meaning": "n. 弹簧"
+      },
+      {
+        "word": "mattress",
+        "toggle": "n. 床垫；褥子；空气垫",
+        "isDanger": 0,
+        "phonetic": "ˈmætrəs",
+        "meaning": "n. 床垫"
+      },
+      {
+        "word": "gust",
+        "toggle": "n. 一阵狂风；风味；趣味",
+        "isDanger": 1,
+        "phonetic": "ɡʌst",
+        "meaning": "n. 一阵风"
+      },
+      {
+        "word": "sweep",
+        "toggle": "vt. 扫除；猛拉；掸去",
+        "isDanger": 0,
+        "phonetic": "swiːp",
+        "meaning": "v. 扫，刮"
+      },
+      {
+        "word": "courtyard",
+        "toggle": "n. 庭院，院子；天井",
+        "isDanger": 0,
+        "phonetic": "ˈkɔːtjɑːd",
+        "meaning": "n. 院子"
+      },
+      {
+        "word": "smash",
+        "toggle": "vt. 使破产；粉碎；溃裂",
+        "isDanger": 1,
+        "phonetic": "smæʃ",
+        "meaning": "v. 碰碎，摔碎"
+      },
+      {
+        "word": "miraculously",
+        "toggle": "adv.奇迹般地；神奇地",
+        "isDanger": 0,
+        "phonetic": "mɪˈrækjələsli",
+        "meaning": "adv. 奇迹般地"
+      },
+      {
+        "word": "unhurt",
+        "toggle": "adj.没有受伤的,未受损的",
+        "isDanger": 0,
+        "phonetic": "ʌnˈhɜːt",
+        "meaning": "adj. 没有受伤的"
+      },
+      {
+        "word": "glance",
+        "toggle": "n. 一瞥；一滑；闪光",
+        "isDanger": 0,
+        "phonetic": "ɡlɑːns",
+        "meaning": "v. 扫视"
+      },
+      {
+        "word": "promptly",
+        "toggle": "adv. 迅速地；敏捷地；立即地(不耽搁的)",
+        "isDanger": 0,
+        "phonetic": "ˈprɒmptli",
+        "meaning": "adv. 迅速地"
+      }
+    ]
+  }
+}

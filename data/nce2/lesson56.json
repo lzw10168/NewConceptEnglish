@@ -1,0 +1,222 @@
+{
+  "id": "nce2--056",
+  "lessonNumber": "056",
+  "title": {
+    "english": "Faster than sound!",
+    "chinese": "比声音还快！"
+  },
+  "lessonInfo": "新概念英语－第2册－第056课",
+  "audioPath": "audio/nce2/056.mp3",
+  "listeningQuestion": {
+    "question": "What was the speed of the winning car?",
+    "translation": "获胜的汽车速度是多少？"
+  },
+  "editorNotes": "本课讲述了一个关于老式汽车比赛的故事。文章主要使用了比较关系的表达方式，包括as...as、the same as、different from等结构。文章还涉及了多个与汽车相关的词汇，如speed、course、rival等，以及一些形容词的用法区别，如handsome、beautiful、pretty等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Once a year, a race is held for old cars.",
+      "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
+      "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "The most unusual car was a Benz which had only three wheels.",
+      "Built in 1885, it was the oldest car taking part.",
+      "After a great many loud explosions, the race began.",
+      "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!",
+      "A few cars, however, completed the race.",
+      "The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.",
+      "It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.",
+      "The race gave everyone a great deal of pleasure.",
+      "It was very different from modern car races but no less exciting."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "旧式汽车的比赛每年举行一次。",
+      "去年有很多汽车参加了这项比赛。比赛开始之前，人们异常激动。",
+      "最漂亮的汽车之一是罗尔斯-罗伊斯生产的银鬼汽车。",
+      "而最不寻常的一辆则要属只有3只轮子的奔驰牌汽车了。",
+      "该车造于1885年，是参赛车中最老的一辆。",
+      "在好一阵喧闹的爆炸声之后，比赛开始了。",
+      "很多汽车在途中就抛了锚，而有些驾驶员花在汽车底下的时间比坐在汽车里面的时间还长。",
+      "然而还是有几辆汽车跑完了全程。",
+      "获胜的那辆车达到了时速40英里——远远超过任何对手。",
+      "它在接近终点时，冲下了山坡，驾驶员费了好大劲才把车停下来。",
+      "这次比赛使每个人都挺开心。",
+      "它虽然与现代汽车比赛大不相同，但激动人心的程度并不亚于现代汽车大赛。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "比较关系的表达",
+        "content": [
+          "as...as表示'和...一样'，如：as fast as sound",
+          "the same (...) as表示'与...相同/同样'，如：the same mistake as Tom",
+          "not so...as/not as...as表示'不如...'，如：not so fast as sound",
+          "different from表示'与...不同'，前面可加very、much、a little等修饰语"
+        ]
+      },
+      {
+        "title": "数量词的用法",
+        "content": [
+          "a lot of既可与复数可数名词连用也可与不可数名词连用",
+          "a great/good deal of后接不可数名词",
+          "a great/good/large number of后接复数名词",
+          "a great/good many of后接复数名词"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "break down",
+        "translation": "抛锚，出故障",
+        "context": "用于描述机械故障或车辆抛锚",
+        "example": "My car broke down on the way to work."
+      },
+      {
+        "phrase": "have trouble (in) doing sth",
+        "translation": "做...有困难",
+        "context": "表示做某事遇到困难",
+        "example": "They had some trouble finding out the cause of the fire."
+      },
+      {
+        "phrase": "take part (in)",
+        "translation": "参加，参与",
+        "context": "表示参与某项活动",
+        "example": "I didn't take part in their conversation."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "A lot of cars entered for this race. There were ___ cars in it.",
+        "options": [
+          "much",
+          "lot of",
+          "lots of",
+          "plenty"
+        ],
+        "answer": 2,
+        "explanation": "lots of = a lot of，可以修饰可数名词复数。"
+      },
+      {
+        "question": "It reached a speed of forty miles an hour. It ___ forty miles an hour.",
+        "options": [
+          "ran",
+          "ran with",
+          "went at",
+          "drove with"
+        ],
+        "answer": 2,
+        "explanation": "表示速度时，使用介词at。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "It was the oldest car taking part. There wasn't ___ one.",
+        "answer": "an older",
+        "hint": "表示比较级的否定形式"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "形容词辨析",
+        "content": "handsome、beautiful、pretty、good-looking的区别：handsome一般用来形容男子或制作精良的物品；beautiful强调内在和外在美的统一，多用于形容女子、孩童、花草等；pretty强调外表美丽，多用于形容女孩和小孩；good-looking男女均适用，表示外表好看。"
+      },
+      {
+        "title": "文化背景",
+        "content": "老式汽车比赛是一种独特的汽车文化活动，它不仅展示了汽车工业的发展历史，也让人们欣赏到经典汽车的独特魅力。这种比赛虽然速度不如现代赛车，但更具观赏性和历史价值。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "sound",
+        "toggle": "vt. 使发声；听（诊）；测量，测 … 深；宣告；试探",
+        "isDanger": 1,
+        "phonetic": "saʊnd",
+        "meaning": "n. 声音"
+      },
+      {
+        "word": "excitement",
+        "toggle": "n. 刺激；兴奋；令人兴奋的事物",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsaɪtmənt",
+        "meaning": "n. 激动，兴奋"
+      },
+      {
+        "word": "handsome",
+        "toggle": "adj. （男子）英俊的；大方的，慷慨的；可观的；健美而端庄的",
+        "isDanger": 0,
+        "phonetic": "ˈhænsəm",
+        "meaning": "adj. 漂亮的；美观的"
+      },
+      {
+        "word": "Rolls-Royce",
+        "toggle": "n. 劳斯莱斯（罗尔斯-罗伊斯）",
+        "isDanger": 0,
+        "phonetic": "ˌrəʊlz ˈrɔɪs",
+        "meaning": "n. 罗尔斯--罗伊斯"
+      },
+      {
+        "word": "Benz",
+        "toggle": "n.奔驰牌汽车",
+        "isDanger": 0,
+        "phonetic": "benz",
+        "meaning": "n. 奔驰"
+      },
+      {
+        "word": "wheel",
+        "toggle": "n. 车轮；方向盘；转动",
+        "isDanger": 0,
+        "phonetic": "wiːl",
+        "meaning": "n. 轮子"
+      },
+      {
+        "word": "explosion",
+        "toggle": "n. 爆炸；爆发；激增",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspləʊʒ(ə)n",
+        "meaning": "n. 爆炸，轰响"
+      },
+      {
+        "word": "course",
+        "toggle": "n. 进程；过程；道路；一道菜",
+        "isDanger": 1,
+        "phonetic": "kɔːs",
+        "meaning": "n. 跑道；行程"
+      },
+      {
+        "word": "rival",
+        "toggle": "n. 竞争者；对手",
+        "isDanger": 1,
+        "phonetic": "ˈraɪv(ə)l",
+        "meaning": "n. 对手"
+      },
+      {
+        "word": "speed",
+        "toggle": "vi. 加速，迅速前行；超速，加速；兴隆",
+        "isDanger": 1,
+        "phonetic": "spiːd",
+        "meaning": "v. 疾驶"
+      },
+      {
+        "word": "downhill",
+        "toggle": "adv. 下坡；向下；每况愈下",
+        "isDanger": 0,
+        "phonetic": "ˌdaʊnˈhɪl",
+        "meaning": "adv. 下坡"
+      }
+    ]
+  }
+}

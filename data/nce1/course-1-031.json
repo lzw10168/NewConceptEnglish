@@ -1,0 +1,365 @@
+{
+  "id": "nce1-031",
+  "lessonNumber": "031",
+  "title": {
+    "english": "Where's Sally?",
+    "chinese": "萨莉在哪儿？"
+  },
+  "lessonInfo": "新概念英语－第1册－第031课",
+  "audioPath": "audio/nce1/031.mp3",
+  "listeningQuestion": {
+    "question": "What are the three people (and one animal) doing in the garden?",
+    "translation": "花园里的三个人（和一只动物）在做什么？"
+  },
+  "editorNotes": "本课通过一段关于花园活动的对话，展示了现在进行时的基本用法。课文重点介绍了如何描述正在进行的动作，以及询问他人位置和动作的表达方式。这些表达方式在日常交际中非常实用，特别是在描述即时场景时。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Where's Sally, Jack?",
+      "She's in the garden, Jane.",
+      "What's she doing?",
+      "She's sitting under the tree.",
+      "Is Tim in the garden, too?",
+      "Yes, he is.",
+      "He's climbing the tree.",
+      "I beg your pardon?",
+      "Who's climbing the tree.",
+      "Tim is.",
+      "What about the dog?",
+      "The dog's in the garden, too.",
+      "It's running across the grass.",
+      "It's running after a cat."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "简：杰克，萨莉在哪儿？",
+      "杰克：她在花园里，简。",
+      "简：她在干什么？",
+      "杰克：她正在树荫下坐着。",
+      "简：蒂姆也在花园里吗？",
+      "杰克：是的，他也在花园里。他正在爬树。",
+      "简：你说什么？谁在爬树？",
+      "杰克：蒂姆在爬树。",
+      "简：那么狗呢？",
+      "杰克：狗也在花园里。它正在草地上跑，在追一只猫。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问位置",
+        "children": [
+          "核心概念：询问和回答位置",
+          "常用表达：",
+          "- Where's...? (…在哪里？)",
+          "- She's/He's in... (他/她在…)",
+          "使用场景：",
+          "- 寻找他人 | 描述位置 | 指明方向",
+          "注意事项：",
+          "- 缩略形式 | 介词使用 | 回答完整性"
+        ]
+      },
+      {
+        "heading": "2. 询问动作",
+        "children": [
+          "核心概念：询问和描述正在进行的动作",
+          "常用表达：",
+          "- What's she doing? (她在做什么？)",
+          "- She's sitting... (她正在坐…)",
+          "使用场景：",
+          "- 描述当前动作 | 解释活动 | 报告情况",
+          "注意事项：",
+          "- 现在进行时 | 动作细节 | 准确描述"
+        ]
+      },
+      {
+        "heading": "3. 确认信息",
+        "children": [
+          "核心概念：确认和澄清信息",
+          "常用表达：",
+          "- I beg your pardon? (请再说一遍？)",
+          "- Who's...? (谁在…？)",
+          "使用场景：",
+          "- 听不清时 | 需要确认 | 表示疑惑",
+          "注意事项：",
+          "- 礼貌用语 | 重复要点 | 明确对象"
+        ]
+      },
+      {
+        "heading": "4. 补充询问",
+        "children": [
+          "核心概念：询问更多信息",
+          "常用表达：",
+          "- What about...? (那么…呢？)",
+          "- ...too (…也)",
+          "使用场景：",
+          "- 延续话题 | 补充信息 | 拓展对话",
+          "注意事项：",
+          "- 话题连贯 | 表达简洁 | 自然过渡"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 现在进行时",
+        "children": [
+          "核心概念：",
+          "- 表示正在进行的动作",
+          "- be动词 + 动词ing形式",
+          "基本用法：",
+          "- 主语 + is/are + 动词ing",
+          "- 表示说话时正在进行的动作",
+          "实用例句：",
+          "- She's sitting under the tree. (她正坐在树下。)",
+          "- He's climbing the tree. (他正在爬树。)",
+          "注意事项：",
+          "- 动词变化 | 时态特征 | 使用场合"
+        ]
+      },
+      {
+        "heading": "2. 特殊疑问句",
+        "children": [
+          "核心概念：",
+          "- 以特殊疑问词开头",
+          "- 询问具体信息",
+          "基本用法：",
+          "- Where + is/are + 主语",
+          "- What + is/are + 主语 + doing",
+          "实用例句：",
+          "- Where's Sally? (萨莉在哪里？)",
+          "- What's she doing? (她在做什么？)",
+          "注意事项：",
+          "- 词序规则 | 疑问词选择 | 答句完整"
+        ]
+      },
+      {
+        "heading": "3. 介词短语",
+        "children": [
+          "核心概念：",
+          "- 表示位置关系",
+          "- 表示动作方向",
+          "基本用法：",
+          "- under + 地点/物体",
+          "- across + 场所/空间",
+          "实用例句：",
+          "- under the tree (在树下)",
+          "- across the grass (穿过草地)",
+          "注意事项：",
+          "- 介词选择 | 搭配规则 | 意义准确"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 位置介词",
+        "children": [
+          "基本词汇：",
+          "- under (在…下面)",
+          "- across (穿过)",
+          "- in (在…里面)",
+          "常用搭配：",
+          "- under the tree (在树下)",
+          "- across the grass (穿过草地)",
+          "使用场景：",
+          "- 描述位置 | 指示方向 | 说明关系"
+        ]
+      },
+      {
+        "heading": "2. 动作动词",
+        "children": [
+          "基本词汇：",
+          "- sit (坐)",
+          "- climb (爬)",
+          "- run (跑)",
+          "常用搭配：",
+          "- sit under (坐在…下)",
+          "- climb the tree (爬树)",
+          "使用场景：",
+          "- 描述活动 | 说明动作 | 表达行为"
+        ]
+      },
+      {
+        "heading": "3. 场所用词",
+        "children": [
+          "基本词汇：",
+          "- garden (花园)",
+          "- grass (草地)",
+          "- tree (树)",
+          "常用搭配：",
+          "- in the garden (在花园里)",
+          "- on the grass (在草地上)",
+          "使用场景：",
+          "- 环境描述 | 位置说明 | 场景介绍"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "garden",
+        "toggle": "n. 菜园；花园",
+        "isDanger": 0,
+        "phonetic": "ˈɡɑːd(ə)n",
+        "meaning": "n. 花园"
+      },
+      {
+        "word": "under",
+        "toggle": "prep. 低于，少于；在 ... 之下",
+        "isDanger": 1,
+        "phonetic": "ˈʌndə(r)",
+        "meaning": "prep. 在…之下"
+      },
+      {
+        "word": "tree",
+        "toggle": "n. 树；树状物；木料",
+        "isDanger": 0,
+        "phonetic": "triː",
+        "meaning": "n. 树"
+      },
+      {
+        "word": "climb",
+        "toggle": "vi. 攀登；爬；上升",
+        "isDanger": 0,
+        "phonetic": "klaɪm",
+        "meaning": "v. 爬，攀登"
+      },
+      {
+        "word": "who",
+        "toggle": "pron. 谁",
+        "isDanger": 1,
+        "phonetic": "huː",
+        "meaning": "pron. 谁"
+      },
+      {
+        "word": "run",
+        "toggle": "vi. 奔跑；运转；经营",
+        "isDanger": 1,
+        "phonetic": "rʌn",
+        "meaning": "v. 跑"
+      },
+      {
+        "word": "grass",
+        "toggle": "n. 草；草地，草坪",
+        "isDanger": 1,
+        "phonetic": "ɡrɑːs",
+        "meaning": "n. 草，草地"
+      },
+      {
+        "word": "after",
+        "toggle": "adv. 后来，以后",
+        "isDanger": 1,
+        "phonetic": "ˈɑːftə(r)",
+        "meaning": "prep. 在…之后"
+      },
+      {
+        "word": "cat",
+        "toggle": "n. 猫；猫科动物",
+        "isDanger": 0,
+        "phonetic": "kæt",
+        "meaning": "n. 猫"
+      },
+      {
+        "word": "type",
+        "toggle": "n. 类型，品种；样式；模范",
+        "isDanger": 0,
+        "phonetic": "taɪp",
+        "meaning": "v. 打字"
+      },
+      {
+        "word": "letter",
+        "toggle": "n. 字母，文字；信；字面意义；证书；文学，学问",
+        "isDanger": 1,
+        "phonetic": "ˈletə(r)",
+        "meaning": "n. 信"
+      },
+      {
+        "word": "basket",
+        "toggle": "n. 篮子；（篮球比赛的）得分；一篮之量；篮筐； vt. 装入篮",
+        "isDanger": 0,
+        "phonetic": "ˈbɑːskɪt",
+        "meaning": "n. 篮子"
+      },
+      {
+        "word": "basketball",
+        "toggle": "n. 篮球；篮球运动",
+        "isDanger": 0,
+        "phonetic": "ˈbɑːskɪtbɔːl",
+        "meaning": "n. 篮球"
+      },
+      {
+        "word": "eat",
+        "toggle": "vt. 吃，喝；腐蚀；烦扰",
+        "isDanger": 1,
+        "phonetic": "iːt",
+        "meaning": "v. 吃"
+      },
+      {
+        "word": "bone",
+        "toggle": "n. 骨；骨骼；香烟；一首歌； vt. 剔去 ... 的骨；施骨肥于； vi. 苦学；专心致志",
+        "isDanger": 1,
+        "phonetic": "bəʊn",
+        "meaning": "n. 骨头"
+      },
+      {
+        "word": "clean",
+        "toggle": "adj. 清洁的，干净的；清白的",
+        "isDanger": 1,
+        "phonetic": "kliːn",
+        "meaning": "v. 清洗"
+      },
+      {
+        "word": "tooth",
+        "toggle": "n. 牙齿",
+        "isDanger": 0,
+        "phonetic": "tuːθ",
+        "meaning": "n. 牙齿"
+      },
+      {
+        "word": "cook",
+        "toggle": "vt. 烹调，煮",
+        "isDanger": 0,
+        "phonetic": "kʊk",
+        "meaning": "v. 做(饭菜)"
+      },
+      {
+        "word": "milk",
+        "toggle": "n. 牛奶；乳状物",
+        "isDanger": 0,
+        "phonetic": "mɪlk",
+        "meaning": "n. 牛奶"
+      },
+      {
+        "word": "meal",
+        "toggle": "n. 一餐，一顿饭；膳食",
+        "isDanger": 0,
+        "phonetic": "miːl",
+        "meaning": "n. 饭，一顿饭"
+      },
+      {
+        "word": "drink",
+        "toggle": "vt. 喝，饮；吸收；举杯庆贺",
+        "isDanger": 1,
+        "phonetic": "drɪŋk",
+        "meaning": "v. 喝"
+      },
+      {
+        "word": "tap",
+        "toggle": "vt. 轻敲；轻打；装上嘴子",
+        "isDanger": 0,
+        "phonetic": "tæp",
+        "meaning": "n. (水)龙头"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

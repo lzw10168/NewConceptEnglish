@@ -1,0 +1,293 @@
+{
+  "id": "nce2--069",
+  "lessonNumber": "069",
+  "title": {
+    "english": "But not murder!",
+    "chinese": "但不是谋杀！"
+  },
+  "lessonInfo": "新概念英语－第2册－第069课",
+  "audioPath": "audio/nce2/069.mp3",
+  "listeningQuestion": {
+    "question": "Why did the examiner say 'you have just killed that child'?",
+    "translation": "为什么主考人说'你刚刚把那个小孩压死了'？"
+  },
+  "editorNotes": "本课讲述了一个驾驶考试的故事。主人公在第三次参加驾驶执照考试时，虽然前面的表现很好，但在最后的紧急情况测试中反应太慢，导致'撞死'了一个假设突然横穿马路的小孩。文章通过这个生动的故事，展示了被动语态的各种用法，特别是'介词+动名词'结构中的被动语态，以及一些表示'练习'和'娱乐'的动词的区别。文章还展示了如何表达对过去事情的猜测，以及一些常见的英语表达方式。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "I was being tested for a driving licence for the third time.",
+      "I had been asked to drive in heavy traffic and had done so successfully.",
+      "After having been instructed to drive out of town, I began to acquire confidence.",
+      "Sure that I had passed, I was almost beginning to enjoy my test.",
+      "The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing, Mr. Eames. Let us suppose that a child suddenly crosses the road in front of you. As soon as I tap on the window, you must stop within five feet.'",
+      "I continued driving and after some time, the examiner tapped loudly.",
+      "Though the sound could be heard clearly, it took me a long time to react.",
+      "I suddenly pressed the brake pedal and we were both thrown forward.",
+      "The examiner looked at me sadly.",
+      "'Mr. Eames,' he said, in a mournful voice, 'you have just killed that child!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我第3次接受驾驶执照考试。",
+      "按照要求在车辆拥挤的路上驾驶，我圆满地完成了。",
+      "在接到把车开出城的指令后，我开始有了信心。",
+      "确信我已通过考试，所以我几乎开始喜欢起这次考试。",
+      "主考人对我的驾驶想必是满意的，因为他微笑着说：'埃姆斯先生，只剩1项了。让我们假设一个小孩子突然在你前面穿过马路。我一敲车窗，你必须把车停在5英尺之内。'",
+      "我继续往前开着。过了一会儿，主考人砰砰地敲了起来。",
+      "虽然声音听得很清楚，但我过了好一会儿才作出反应。",
+      "我突然用力踩紧刹车踏板，结果我俩的身体都向前冲去。",
+      "主考人伤心地看着我。",
+      "'埃姆斯先生，'他以悲伤的声调说，'你刚刚把那个小孩压死了！'"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "被动语态在'介词+动名词'结构中的用法",
+        "content": [
+          "被动语态可以用于'介词+动名词'结构中，在英语中是很正式的用法，一般不用于口语。",
+          "'介词（after，before，on）+动名词'这个结构通常相当于一个时间状语从句。",
+          "如果两个动作中有一个在另一个开始之前已经完成，则可以用'after +动名词的完成式'表示第一个动作。",
+          "如果只表示先后顺序，则可用'after/before +动名词'结构。",
+          "'on +动名词'通常表示两个动作几乎同时发生。",
+          "例如：The man called the police after being robbed.（那个人被抢劫后报了警。）",
+          "He killed a child before being arrested.（他在被捕前杀了一个小孩。）",
+          "On/After being told that her mother was seriously ill, she hurried back to England.（在被告知母亲病重后，她急忙赶回英国。）"
+        ]
+      },
+      {
+        "title": "被动语态用于want后面的不定式",
+        "content": [
+          "被动语态用于want后面的不定式中时，to be可以省略。",
+          "want后跟被动语态时往往表示希望别人完成所说的动作。",
+          "例如：I want the luggage fetched from the hotel this afternoon.（我希望今天下午有人从旅馆把行李取来。）"
+        ]
+      },
+      {
+        "title": "过去进行时的被动语态",
+        "content": [
+          "被动语态可用于过去进行时，以强调动作的持续性。",
+          "例如：I was being tested for a driving licence for the third time.（我第3次接受驾驶执照考试。）",
+          "I was being asked about the film all day yesterday.（昨天一整天都有人问我关于那部电影的事。）"
+        ]
+      },
+      {
+        "title": "表示对过去事情的猜测",
+        "content": [
+          "must have been +过去分词表示对过去事情的猜测，意为'想必，一定'。",
+          "例如：The examiner must have been pleased with my performance.（主考人对我的驾驶想必是满意的。）",
+          "He must have forgotten about the meeting.（他一定是忘记了会议。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "be tested for",
+        "translation": "接受...的测试",
+        "context": "表示接受某种测试",
+        "example": "I was being tested for a driving licence for the third time."
+      },
+      {
+        "phrase": "heavy traffic",
+        "translation": "交通拥挤",
+        "context": "表示交通繁忙",
+        "example": "I had been asked to drive in heavy traffic and had done so successfully."
+      },
+      {
+        "phrase": "acquire confidence",
+        "translation": "获得信心",
+        "context": "表示获得信心",
+        "example": "I began to acquire confidence."
+      },
+      {
+        "phrase": "be pleased with",
+        "translation": "对...满意",
+        "context": "表示对某事或某人满意",
+        "example": "The examiner must have been pleased with my performance."
+      },
+      {
+        "phrase": "let us suppose that...",
+        "translation": "让我们假设...",
+        "context": "表示假设某种情况",
+        "example": "Let us suppose that a child suddenly crosses the road in front of you."
+      },
+      {
+        "phrase": "as soon as",
+        "translation": "一...就...",
+        "context": "表示两个动作几乎同时发生",
+        "example": "As soon as I tap on the window, you must stop within five feet."
+      },
+      {
+        "phrase": "in a ... voice",
+        "translation": "以...的声调",
+        "context": "表示说话的语气",
+        "example": "He said, in a mournful voice, 'you have just killed that child!'"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "The writer was being tested for a driving licence for the ___ time.",
+        "options": [
+          "first",
+          "second",
+          "third",
+          "fourth"
+        ],
+        "answer": 2,
+        "explanation": "文章开头明确提到'I was being tested for a driving licence for the third time.'"
+      },
+      {
+        "question": "The examiner must have been pleased with my performance. He ___ pleased with it.",
+        "options": [
+          "had to be",
+          "was probably",
+          "was certainly",
+          "should have been"
+        ],
+        "answer": 1,
+        "explanation": "must have been表示对过去事情的猜测，意为'想必，一定'，所以选was probably。"
+      },
+      {
+        "question": "I began to acquire confidence. I began to ___ confident.",
+        "options": [
+          "feel",
+          "be",
+          "feel like",
+          "think"
+        ],
+        "answer": 0,
+        "explanation": "acquire confidence获得信心，相当于feel confident感到有信心。"
+      },
+      {
+        "question": "The examiner tapped loudly. He ___ on the window.",
+        "options": [
+          "knocked",
+          "hit",
+          "beat",
+          "struck"
+        ],
+        "answer": 0,
+        "explanation": "tap v.轻敲，knock v.敲，hit v.打，beat v.打，strike v.打，敲。tap和knock最接近，都表示轻敲。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "I was being ___ for a driving licence for the third time.",
+        "answer": "tested",
+        "explanation": "be tested for表示接受某种测试。"
+      },
+      {
+        "sentence": "After having been ___ to drive out of town, I began to acquire confidence.",
+        "answer": "instructed",
+        "explanation": "be instructed to do sth.表示被指示做某事。"
+      },
+      {
+        "sentence": "The examiner must have been ___ with my performance.",
+        "answer": "pleased",
+        "explanation": "be pleased with表示对某事或某人满意。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "1. Practice和Advice的区别：\n- practice n.（反复的）练习，实践，实行\n- practise vt.& vi. 练习，经常做\n- advice n. 忠告，劝告，建议（不可数名词）\n- advise vt.& vi. 劝告，向……提供提议\n\n2. Enjoy, Entertain和Amuse的区别：\n- enjoy vt. 欣赏，喜爱，享受……之乐（后跟名词、动名词或反身代词，用于主动语态）\n- entertain vt. 款待，招待，请客；使……快乐，给……娱乐（=amuse）\n- amuse vt. 逗乐，逗笑（常用于被动语态）\n\n3. Acquire的用法：\n- v. 取得，获得，学到（知识、技术、语言等），养成（习惯等）\n- acquire a habit of doing sth. 养成……的习惯\n- acquire confidence 获得信心\n- Mary acquired a good knowledge of Chinese in five years' time. 玛丽在五年内获得了良好的中文知识。"
+      },
+      {
+        "title": "文化背景",
+        "content": "在英国，驾驶考试是一个严格的过程，包括理论考试和实际驾驶考试。实际驾驶考试通常持续约40分钟，考官会评估考生的驾驶技能、安全意识和对交通规则的理解。考试中，考官会要求考生执行各种任务，如平行停车、三点掉头、紧急停车等。\n\n文章中的'紧急情况测试'是驾驶考试中的一个重要部分，旨在测试考生在紧急情况下的反应能力。在英国，驾驶考试失败率较高，许多人需要多次尝试才能通过。这种严格的考试制度反映了英国对道路安全的重视。\n\n此外，文章中的考官使用了'you have just killed that child!'这样的夸张表达，是为了强调反应速度在驾驶中的重要性，以及反应迟缓可能带来的严重后果。这种教学方式虽然可能令人紧张，但确实能有效地让考生记住安全驾驶的重要性。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "murder",
+        "toggle": "vt. 谋杀，凶杀",
+        "isDanger": 0,
+        "phonetic": "ˈmɜːdə(r)",
+        "meaning": "n. 谋杀"
+      },
+      {
+        "word": "instruct",
+        "toggle": "vt. 命令；教授；指导；通知",
+        "isDanger": 1,
+        "phonetic": "ɪnˈstrʌkt",
+        "meaning": "v. 命令，指示"
+      },
+      {
+        "word": "acquire",
+        "toggle": "vt. 获得；学到；取得；捕获",
+        "isDanger": 0,
+        "phonetic": "əˈkwaɪə(r)",
+        "meaning": "v. 取得，获得"
+      },
+      {
+        "word": "confidence",
+        "toggle": "n. 信心；信任；秘密",
+        "isDanger": 0,
+        "phonetic": "ˈkɒnfɪdəns",
+        "meaning": "n. 信心"
+      },
+      {
+        "word": "examiner",
+        "toggle": "n. 主考人；检验员；审查员",
+        "isDanger": 0,
+        "phonetic": "ɪɡˈzæmɪnə(r)",
+        "meaning": "n. 主考人"
+      },
+      {
+        "word": "suppose",
+        "toggle": "vt. 假设；认为；推想；让（虚拟语气）",
+        "isDanger": 1,
+        "phonetic": "səˈpəʊz",
+        "meaning": "v. 假设"
+      },
+      {
+        "word": "tap",
+        "toggle": "vt. 轻敲；轻打；装上嘴子",
+        "isDanger": 0,
+        "phonetic": "tæp",
+        "meaning": "v. 轻敲"
+      },
+      {
+        "word": "react",
+        "toggle": "vi. 反应；影响；反抗；起反作用",
+        "isDanger": 1,
+        "phonetic": "riˈækt",
+        "meaning": "v. 反应"
+      },
+      {
+        "word": "brake",
+        "toggle": "vi. 刹车",
+        "isDanger": 0,
+        "phonetic": "breɪk",
+        "meaning": "n. 刹车"
+      },
+      {
+        "word": "pedal",
+        "toggle": "vi. 踩踏板；骑车",
+        "isDanger": 0,
+        "phonetic": "ˈped(ə)l",
+        "meaning": "n. 踏板"
+      },
+      {
+        "word": "mournful",
+        "toggle": "adj. 悲哀的；令人惋惜的",
+        "isDanger": 0,
+        "phonetic": "ˈmɔːnf(ə)l",
+        "meaning": "adj. 悲哀的"
+      }
+    ]
+  }
+}

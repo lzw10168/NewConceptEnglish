@@ -1,0 +1,207 @@
+{
+  "id": "nce1-139",
+  "lessonNumber": "139",
+  "title": {
+    "english": "Is That You, John?",
+    "chinese": "是你吗，约翰？"
+  },
+  "lessonInfo": "新概念英语－第1册－第139课",
+  "audioPath": "audio/nce1/139.mp3",
+  "listeningQuestion": {
+    "question": "Why did the misunderstanding happen between Mr. Grimes and John Smith?",
+    "translation": "格雷厄姆先生和约翰·史密斯之间为什么会产生误会？"
+  },
+  "editorNotes": "本课通过一个因同名引起的误会，生动展示了电话交谈中的常用表达方式。课文重点介绍了电话用语、身份确认的表达方式，以及附加疑问句的使用。这些表达方式在日常电话沟通中非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mr Grimes:     Is that you, John?",
+      "John Smith:   Yes, speaking.",
+      "Mr Grimes:   Tell Mary we shall be late for dinner this evening.",
+      "John Smith:   I'm afraid I don't understand.",
+      "Mr Grimes:   Hasn't Mary told you? She invited betty and me to dinner this evening. I said I would be at your house at six o'clock, but the boss wants me to do some extra work. I'll have to stay at the office. I don't know when I shall finish. Oh, and by the way, my wife wants to know if Mary needs any help.",
+      "John Smith:    I don't know what you're talking about.",
+      "Mr Grimes:        That is John Smith, isn't it?",
+      "John Smith:       Yes, I'm John Smith.",
+      "Mr Grimes:       You are John Smith, the engineer, aren't you?",
+      "John Smith:       That's right.",
+      "Mr Grimes:       You work for the Overseas Engineering Company, don't you?",
+      "John Smith:    No, I don't. I'm John Smith the telephone engineer and I'm repairing your telephone line."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "格雷厄姆.特纳：是你吗，约翰？",
+      "约 翰.史 密斯：是我，请讲。",
+      "格雷厄姆.特纳：你告诉玛丽，今晚吃饭将晚到一会儿。",
+      "约 翰.史 密斯：恐怕我还不明白您的意思。",
+      "格雷厄姆.特纳：玛丽没有告诉你吗？她邀请我和夏洛特今晚去吃饭。我说过我6点到你家， 但老板要我加班。我不得不留在办公室，不知道什么时候才能结束。喔，顺便问一问，我妻子想知道玛丽是否需要帮忙。",
+      "约 翰.史 密斯：我不知道您在说些什么。",
+      "格雷厄姆.特纳：你是约翰.史密斯，对吗？",
+      "约 翰.史密 斯： 是的，我是约翰.史密斯。",
+      "格雷厄姆.特纳：你是工程师约翰.史密斯， 对吗？",
+      "约 翰.史 密斯：对。",
+      "格雷厄姆.特纳：你在海外工程公司上班，是吗？",
+      "约 翰.史 密斯：不，不是。我是电话工程师约翰.史密斯，我正在修理您的电话线。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 电话用语",
+        "children": [
+          "核心概念：电话交谈的基本用语",
+          "常用表达：",
+          "- Is that you...? 是你吗...？",
+          "- Yes, speaking. 是的，我在听。",
+          "- I'm afraid I don't understand. 恐怕我不明白。",
+          "使用场景：接听电话时",
+          "注意事项：注意礼貌用语的使用"
+        ]
+      },
+      {
+        "heading": "2. 身份确认",
+        "children": [
+          "核心概念：如何确认对方身份",
+          "常用表达：",
+          "- That is John Smith, isn't it? 你是约翰·史密斯，对吗？",
+          "- You are..., aren't you? 你是...，对吗？",
+          "- You work for..., don't you? 你在...工作，是吗？",
+          "使用场景：需要确认对方身份时",
+          "注意事项：使用附加疑问句礼貌确认"
+        ]
+      },
+      {
+        "heading": "3. 传达信息",
+        "children": [
+          "核心概念：如何传达和澄清信息",
+          "常用表达：",
+          "- Tell Mary we shall be late... 告诉玛丽我们会晚到...",
+          "- I don't know what you're talking about. 我不知道你在说什么。",
+          "- By the way... 顺便说一下...",
+          "使用场景：传达或澄清信息时",
+          "注意事项：信息要清晰准确"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 附加疑问句",
+        "children": [
+          "1. 基本结构：陈述句 + 简短问句",
+          "2. 肯定句后接否定疑问",
+          "3. 否定句后接肯定疑问",
+          "4. 例句：That is John Smith, isn't it?"
+        ]
+      },
+      {
+        "heading": "2. 一般将来时",
+        "children": [
+          "1. 表示将来：shall/will + 动词原形",
+          "2. 表示计划：be going to",
+          "3. 表示预测：will/shall",
+          "4. 例句：We shall be late for dinner"
+        ]
+      },
+      {
+        "heading": "3. 现在进行时",
+        "children": [
+          "1. 表示此刻正在进行的动作",
+          "2. 结构：be + doing",
+          "3. 表示临时性动作",
+          "4. 例句：I'm repairing your telephone line"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 职业相关词汇",
+        "children": [
+          "engineer n. 工程师：",
+          "- telephone engineer 电话工程师",
+          "- engineering company 工程公司",
+          "boss n. 老板：",
+          "- the boss wants me to... 老板要我...",
+          "- work for the boss 为老板工作"
+        ]
+      },
+      {
+        "heading": "2. 电话相关词汇",
+        "children": [
+          "line n. 线路：",
+          "- telephone line 电话线",
+          "- repair the line 修理线路",
+          "speaking v. 通话：",
+          "- Yes, speaking 是的，我在听",
+          "- speaking on the phone 在打电话"
+        ]
+      },
+      {
+        "heading": "3. 时间相关词汇",
+        "children": [
+          "late adj. 迟到的：",
+          "- be late for dinner 晚餐迟到",
+          "- late this evening 今晚晚些时候",
+          "extra adj. 额外的：",
+          "- extra work 额外的工作",
+          "- do some extra work 做一些额外工作"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "extra",
+        "toggle": "adv. 特别地，非常；另外;n.群众演员",
+        "isDanger": 1,
+        "phonetic": "ˈekstrə",
+        "meaning": "adj. 额外的"
+      },
+      {
+        "word": "engineer",
+        "toggle": "n. 工程师；工兵；火车司机",
+        "isDanger": 0,
+        "phonetic": "ˌendʒɪˈnɪə(r)",
+        "meaning": "n. 工程师"
+      },
+      {
+        "word": "overseas",
+        "toggle": "adv. 在海外，海外",
+        "isDanger": 0,
+        "phonetic": "ˌəʊvəˈsiːz",
+        "meaning": "adj. 海外的，国外的"
+      },
+      {
+        "word": "engineering",
+        "toggle": "n. 工程，工程学",
+        "isDanger": 0,
+        "phonetic": "ˌendʒɪˈnɪərɪŋ",
+        "meaning": "n. 工程"
+      },
+      {
+        "word": "company",
+        "toggle": "n. 公司；陪伴，同伴；连队",
+        "isDanger": 0,
+        "phonetic": "ˈkʌmpəni",
+        "meaning": "n. 公司"
+      },
+      {
+        "word": "line",
+        "toggle": "n. 绳；排；路线，航线",
+        "isDanger": 1,
+        "phonetic": "laɪn",
+        "meaning": "n. 线路"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

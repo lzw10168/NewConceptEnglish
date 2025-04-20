@@ -1,0 +1,164 @@
+{
+  "id": "nce2--018",
+  "lessonNumber": "018",
+  "title": {
+    "english": "He often does this!",
+    "chinese": "他经常这样做！"
+  },
+  "lessonInfo": "新概念英语－第2册－第018课",
+  "audioPath": "audio/nce2/018.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the man's bag?",
+    "translation": "那个人的包发生了什么事？"
+  },
+  "editorNotes": "本课讲述了一个在乡村小酒店就餐时发生的趣事，重点介绍了have的多种用法，以及give的几个固定搭配。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "After I had had lunch at a village pub, I looked for my bag.",
+      "I had left it on a chair beside the door and now it wasn't there!",
+      "As I was looking for it, the landlord came in.",
+      "'Did you have a good meal?' he asked.",
+      "'Yes, thank you,' I answered, 'but I can't pay the bill. I haven't got my bag.'",
+      "The landlord smiled and immediately went out.",
+      "In a few minutes he returned with my bag and gave it back to me.",
+      "'I'm very sorry,' he said. 'My dog had taken in into the garden. He often does this!'"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "我在一家乡村小酒店吃过午饭后，就找我的提包。",
+      "我曾把它放在门边的椅子上，可这会儿不见了！",
+      "当我正在寻找时，酒店老板走了进来。",
+      "'您吃得好吗？'他问。",
+      "'很好，谢谢。'我回答，'但我付不了帐，我的提包没有了。'",
+      "酒店老板笑了笑，马上走了出去。",
+      "一会儿工夫他拿着我的提包回来了，把它还给了我。",
+      "'实在抱歉，'他说，'我的狗把它弄到花园里去了，他常干这种事！'"
+    ]
+  },
+  "newwords": {
+    "heading": "New words and expressions 生词和短语",
+    "notes": [
+      {
+        "word": "pub",
+        "toggle": "n. 酒馆；客栈",
+        "isDanger": 0,
+        "phonetic": "pʌb",
+        "meaning": "n. 小酒店"
+      },
+      {
+        "word": "landlord",
+        "toggle": "n. 房东，老板；地主",
+        "isDanger": 0,
+        "phonetic": "ˈlændlɔːd",
+        "meaning": "n. 店主"
+      },
+      {
+        "word": "bill",
+        "toggle": "n. 帐单；法案；广告；钞票；票据；清单",
+        "isDanger": 0,
+        "phonetic": "bɪl",
+        "meaning": "n. 帐单"
+      }
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "have的用法",
+        "content": [
+          "1. have作为助动词构成各种完成时和完成进行时",
+          "2. have还可以作完全动词，当作'具有、拥有'讲时，它和have got通常可以互换",
+          "3. have作完全动词时，还可以表示eat、drink、enjoy、take等意思，这时它是行为动词",
+          "4. 在英国英语中的疑问句和否定句中have（具有）的用法与be相同，即可以不用助动词do或did"
+        ]
+      },
+      {
+        "title": "give的固定搭配",
+        "content": [
+          "1. give away: 赠送",
+          "2. give in: 上交，呈交；屈服，让步，投降",
+          "3. give up doing sth.: 放弃，抛弃",
+          "4. give up: 交出，让出"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "have a good meal",
+        "translation": "吃顿好饭",
+        "context": "用于询问或描述用餐体验",
+        "example": "Did you have a good meal?"
+      },
+      {
+        "phrase": "give back",
+        "translation": "归还",
+        "context": "表示将物品还给原主人",
+        "example": "He gave back my book yesterday."
+      },
+      {
+        "phrase": "beside and besides",
+        "translation": "在旁边；此外",
+        "context": "beside表示位置，besides表示此外",
+        "example": "Come and sit beside me. Besides, I have something to tell you."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Where did the man leave his bag?",
+        "options": [
+          "On the table",
+          "On a chair beside the door",
+          "In the garden",
+          "In the pub"
+        ],
+        "answer": 1,
+        "explanation": "文中提到'I had left it on a chair beside the door'"
+      },
+      {
+        "question": "Who took the bag into the garden?",
+        "options": [
+          "The landlord",
+          "The customer",
+          "The dog",
+          "Nobody"
+        ],
+        "answer": 2,
+        "explanation": "文中提到'My dog had taken in into the garden'"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "After I had had lunch at a village _____, I looked for my bag.",
+        "answer": "pub",
+        "hint": "指小酒店"
+      },
+      {
+        "sentence": "The _____ smiled and immediately went out.",
+        "answer": "landlord",
+        "hint": "指酒店店主"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "英国的pub文化是其社会生活中非常重要的一部分。pub不仅是喝酒的地方，也是提供餐食和社交的场所。"
+      },
+      {
+        "title": "语言点拓展",
+        "content": "英语中提到宠物时，通常用he或she而不是it，这反映了英语国家人们对待宠物的态度。"
+      }
+    ]
+  }
+}

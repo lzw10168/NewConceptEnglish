@@ -1,0 +1,291 @@
+{
+  "id": "nce2--084",
+  "lessonNumber": "084",
+  "title": {
+    "english": "On strike",
+    "chinese": "罢工"
+  },
+  "lessonInfo": "新概念英语－第2册－第084课",
+  "audioPath": "audio/nce2/084.mp3",
+  "listeningQuestion": {
+    "question": "Why are the busmen going on strike?",
+    "translation": "公共汽车司机为什么要罢工？"
+  },
+  "editorNotes": "本课讲述了一个关于公共汽车司机罢工的故事。司机们决定下星期罢工，直到就工资和工作条件问题达成全面协议。为了应对这一情况，私人汽车车主提供免费乘车服务，大学生自愿驾驶公共汽车。本课介绍了多个与罢工和交通相关的词汇，如strike、busman、relieve、pressure等，以及一些常用短语如go on strike、be due to、to some extent等。本课还介绍了it作先行宾语的用法。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Busmen have decided to go on strike next week.",
+      "The strike is due to begin on Tuesday.",
+      "No one knows how long it will last.",
+      "The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions.",
+      "Most people believe that the strike will last for at least a week.",
+      "Many owners of private cars are going to offer 'free rides' to people on their way to work.",
+      "This will relieve pressure on the trains to some extent.",
+      "Meanwhile, a number of university students have volunteered to drive buses while the strike lasts.",
+      "All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test.",
+      "The students are going to take the test in two days' time.",
+      "Even so, people are going to find it difficult to get to work.",
+      "But so far, the public has expressed its gratitude to the students in letters to the Press.",
+      "Only one or two people have objected that the students will drive too fast!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "公共汽车司机决定下星期罢工。",
+      "罢工定于星期二开始，谁也不知道会持续多久。",
+      "司机们声称此次罢工将一直持续到就工资和工作条件问题达成全面协议的时候为止。",
+      "多数人认为此次罢工至少会持续一个星期。",
+      "很多私人汽车的车主正准备为乘车上班的人们提供'免费乘车'的服务，这将在某种程度上减轻对火车的压力。",
+      "与此同时，有一部分大学生自愿在罢工期间驾驶公共汽车。",
+      "所有的学生都是开车的能手，但在驾驶公共汽车之前，他们必须通过一项专门测验。",
+      "学生们准备在两天后就接受测验。",
+      "即使这样，人们仍会感到上班有困难。",
+      "但到目前为止，公众已经向新闻界写信表达他们对学生们的感激之情了。",
+      "只有一两个人提出反对意见，说学生们会把车开得太快！"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "it作先行宾语",
+        "content": [
+          "在主语+动词+宾语+宾语补足语的句型中，常用it作先行宾语，真正的宾语为后面的动词不定式或从句：",
+          "例如：People are going to find it difficult to get to work.（人们仍会感到上班有困难。）",
+          "常用这种结构的动词有：find，think，consider，feel，make，keep等：",
+          "She felt it right for them to arrest the thief.（她认为他们逮捕小偷是对的。）",
+          "They consider it impossible to finish the work in three days.（他们认为三天内完成这项工作是不可能的。）"
+        ]
+      },
+      {
+        "title": "be due to的用法",
+        "content": [
+          "be due to do sth. 定于（某时做某事）：",
+          "例如：The strike is due to begin on Tuesday.（罢工定于星期二开始。）",
+          "The plane is due (to arrive) in London at 9 o'clock.（飞机定于9点到达伦敦。）",
+          "be due to +n. 由于……，因为……：",
+          "Our delay was due to the heavy traffic.（我们的延误是由于交通拥堵。）"
+        ]
+      },
+      {
+        "title": "object的用法",
+        "content": [
+          "object that… 提出异议，反对：",
+          "例如：Only one or two people have objected that the students will drive too fast!（只有一两个人提出反对意见，说学生们会把车开得太快！）",
+          "They objected that the book was too difficult for them.（他们提出异议说这本书对他们来说太难了。）",
+          "object to 名词/动名词 反对，不喜欢，不赞成：",
+          "A lot of people object to smoking in public places.（很多人反对在公共场所吸烟。）",
+          "Do you object to my sitting beside you?（你反对我坐在你旁边吗？）"
+        ]
+      },
+      {
+        "title": "relieve的用法",
+        "content": [
+          "relieve vt. 减轻",
+          "1. 缓解，减轻：",
+          "This will relieve pressure on the trains to some extent.（这将在某种程度上减轻对火车的压力。）",
+          "This medicine has relieved my toothache.（这种药减轻了我的牙痛。）",
+          "2. 使……宽心/宽慰，松一口气：",
+          "He was much relieved to hear that the operation had been successful.（听到手术成功，他松了一口气。）",
+          "The news relieved the whole family.（这个消息让全家人都松了一口气。）"
+        ]
+      },
+      {
+        "title": "volunteer的用法",
+        "content": [
+          "volunteer vt. &vi. 自动提出，自愿：",
+          "例如：Some college students have volunteered to drive buses while the strike lasts.（一些大学生自愿在罢工期间驾驶公共汽车。）",
+          "After the fire, many people volunteered their services.（火灾后，许多人自愿提供服务。）",
+          "Frank has volunteered for the army.（弗兰克自愿参军。）",
+          "volunteer n. 自愿参加者，志愿者：",
+          "Are there any volunteers for a try?（有自愿试一试的人吗？）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "go on strike",
+        "translation": "举行罢工",
+        "context": "表示工人开始罢工",
+        "example": "Busmen have decided to go on strike next week.（公共汽车司机决定下星期罢工。）"
+      },
+      {
+        "phrase": "on strike",
+        "translation": "在罢工",
+        "context": "表示正在罢工状态",
+        "example": "It is not clear yet when the teachers on strike will return to their classrooms.（目前还不清楚罢工的教师何时会回到教室。）"
+      },
+      {
+        "phrase": "be due to do sth.",
+        "translation": "定于（某时做某事）",
+        "context": "表示预定或安排好的时间",
+        "example": "The strike is due to begin on Tuesday.（罢工定于星期二开始。）"
+      },
+      {
+        "phrase": "to some extent",
+        "translation": "在某种程度上",
+        "context": "表示部分程度",
+        "example": "This will relieve pressure on the trains to some extent.（这将在某种程度上减轻对火车的压力。）"
+      },
+      {
+        "phrase": "free ride",
+        "translation": "免费乘车",
+        "context": "表示不收费的乘车服务",
+        "example": "Many owners of private cars are going to offer 'free rides' to people on their way to work.（很多私人汽车的车主正准备为乘车上班的人们提供'免费乘车'的服务。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "When is the busmen's strike due to begin?",
+        "options": [
+          "On Monday",
+          "On Tuesday",
+          "On Wednesday",
+          "On Thursday"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第二句，罢工定于星期二开始。"
+      },
+      {
+        "question": "What have university students volunteered to do during the strike?",
+        "options": [
+          "Offer free rides",
+          "Drive buses",
+          "Write letters to the Press",
+          "Negotiate with the busmen"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第八句，一部分大学生自愿在罢工期间驾驶公共汽车。"
+      },
+      {
+        "question": "What is the main objection some people have to the student drivers?",
+        "options": [
+          "They are not experienced enough",
+          "They will drive too fast",
+          "They don't know the routes",
+          "They will cause more traffic problems"
+        ],
+        "answer": 1,
+        "explanation": "根据课文最后一句，只有一两个人提出反对意见，说学生们会把车开得太快！"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Busmen have decided to ___ on strike next week.",
+        "answer": "go",
+        "explanation": "根据课文第一句，公共汽车司机决定下星期罢工。"
+      },
+      {
+        "sentence": "This will ___ pressure on the trains to some extent.",
+        "answer": "relieve",
+        "explanation": "根据课文第七句，这将在某种程度上减轻对火车的压力。"
+      },
+      {
+        "sentence": "People are going to find ___ difficult to get to work.",
+        "answer": "it",
+        "explanation": "根据课文第十一句，人们仍会感到上班有困难。这里使用了it作先行宾语。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "Press的用法：\n\nPress n. 新闻界（集合名词）\n- Ian is a member of the press.（伊恩是新闻界的一员。）\n- The press is/are waiting to see the president.（记者们在等着见总统。）\n\n注意：Press作为集合名词，谓语动词可以用单数或复数形式。\n\n其他常见的集合名词：\n- family（家庭）：The family is/are having dinner.（一家人正在吃晚饭。）\n- team（队）：The team is/are playing well.（这支队伍打得很好。）\n- government（政府）：The government has/have decided to increase taxes.（政府已决定增加税收。）\n- audience（观众）：The audience was/were very enthusiastic.（观众非常热情。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "罢工（strike）是工人为了争取更好的工作条件、工资或福利而采取的集体行动。在英国，罢工是一种合法的劳工行动，但必须遵循特定的法律程序。\n\n在英国，公共汽车司机（busmen）的罢工可能会对城市交通造成严重影响，因为公共汽车是许多人日常通勤的主要交通工具。当公共汽车服务中断时，人们通常会转向其他交通方式，如火车、地铁、出租车或私家车。\n\n课文中提到的'免费乘车'（free rides）是一种常见的互助行为，在交通中断期间，拥有私家车的人会自愿搭载需要上班的人，以减轻公共交通的压力。\n\n大学生自愿驾驶公共汽车的情况在英国历史上确实发生过。例如，在1979年的公共汽车司机罢工期间，一些大学生确实自愿驾驶公共汽车，以帮助维持基本的公共交通服务。这种行为不仅展示了年轻人的社会责任感，也反映了在危机时刻人们之间的互助精神。\n\n然而，正如课文中提到的，这种临时解决方案也存在一些问题，如学生司机的驾驶技术和经验可能不如专业司机，这可能会引发安全方面的担忧。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "strike",
+        "toggle": "vi. 罢工；打，打击；敲，敲击；抓；穿透；打动",
+        "isDanger": 1,
+        "phonetic": "straɪk",
+        "meaning": "n. 罢工"
+      },
+      {
+        "word": "busman",
+        "toggle": "n.公共汽车司机,售票员",
+        "isDanger": 0,
+        "phonetic": "ˈbʌsmən",
+        "meaning": "n. 公共汽车司机"
+      },
+      {
+        "word": "state",
+        "toggle": "n. 情形；国家；州",
+        "isDanger": 1,
+        "phonetic": "steɪt",
+        "meaning": "v. 正式提出，宣布"
+      },
+      {
+        "word": "agreement",
+        "toggle": "n. 协议；同意，一致",
+        "isDanger": 0,
+        "phonetic": "əˈɡriːmənt",
+        "meaning": "n. 协议"
+      },
+      {
+        "word": "relieve",
+        "toggle": "vt. 解除，减轻；使不单调乏味；换 … 的班；解围；使放心",
+        "isDanger": 0,
+        "phonetic": "rɪˈliːv",
+        "meaning": "v. 减轻"
+      },
+      {
+        "word": "pressure",
+        "toggle": "n. 压力；压迫，压强",
+        "isDanger": 1,
+        "phonetic": "ˈpreʃə(r)",
+        "meaning": "n. 压力，麻烦"
+      },
+      {
+        "word": "extent",
+        "toggle": "n. 范围；程度；长度",
+        "isDanger": 0,
+        "phonetic": "ɪkˈstent",
+        "meaning": "n. 程度"
+      },
+      {
+        "word": "volunteer",
+        "toggle": "n. 志愿者；志愿兵",
+        "isDanger": 0,
+        "phonetic": "ˌvɒlənˈtɪə(r)",
+        "meaning": "v. 自动提出，自愿"
+      },
+      {
+        "word": "gratitude",
+        "toggle": "n. 感谢的心情",
+        "isDanger": 0,
+        "phonetic": "ˈɡrætɪtjuːd",
+        "meaning": "n. 感激"
+      },
+      {
+        "word": "press",
+        "toggle": "vt. 压；按；紧抱；逼迫",
+        "isDanger": 0,
+        "phonetic": "pres",
+        "meaning": "n. 新闻界"
+      },
+      {
+        "word": "object",
+        "toggle": "n. 宾语；客体；目标；物体",
+        "isDanger": 1,
+        "phonetic": "ˈɒbdʒɪkt",
+        "meaning": "v. 不赞成，反对"
+      }
+    ]
+  }
+}

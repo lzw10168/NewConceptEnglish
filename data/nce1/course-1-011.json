@@ -1,0 +1,310 @@
+{
+  "id": "nce1-011",
+  "lessonNumber": "011",
+  "title": {
+    "english": "Is this your shirt?",
+    "chinese": "这是你的衬衫吗？"
+  },
+  "lessonInfo": "新概念英语－第1册－第011课",
+  "audioPath": "audio/nce1/011.mp3",
+  "listeningQuestion": {
+    "question": "Whose shirt is white?",
+    "translation": "谁的衬衣是白色的？"
+  },
+  "editorNotes": "本课通过一段课堂对话，介绍了物品所有关系的表达方式。课文重点展示了疑问代词whose的用法，以及物品颜色、所有格形容词等表达方式。这些表达对于日常生活中询问和确认物品归属非常实用，是基础交际能力的重要组成部分。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "TEACHER: Whose shirt is that?",
+      "TEACHER: Is this your shirt, Dave?",
+      "DAVE:    No. Sir. It's not my shirt.",
+      "DAVE:    This is my shirt. My shirt's blue.",
+      "TEACHER: Is this shirt Tim's?",
+      "DAVE:    Perhaps it is, sir. Tim's shirt's white.",
+      "TEACHER: Tim!",
+      "TIM:     Yes, sir?",
+      "TEACHER: Is this your shirt?",
+      "TIM:     Yes, sir.",
+      "TEACHER: Here you are. Catch!",
+      "TIM:     Thank you, sir."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "老师：那是谁的衬衫？",
+      "老师：戴夫，这是你的衬衫吗？",
+      "戴夫：不，先生。这不是我的衬衫。",
+      "戴夫：这是我的衬衫。我的衬衫是蓝色的。",
+      "老师：这件衬衫是蒂姆的吗？",
+      "戴夫：也许是，先生。蒂姆的衬衫是白色的。",
+      "老师：蒂姆！",
+      "蒂姆：什么事，先生？",
+      "老师：这是你的衬衫吗？",
+      "蒂姆：是的，先生。",
+      "老师：给你。接着！",
+      "蒂姆：谢谢您，先生。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 询问物品所属",
+        "children": [
+          "核心概念：使用whose询问物品归属",
+          "常用句型：",
+          "- Whose + 名词 + is + that/this? (那/这是谁的...?)",
+          "- Is this + 名词 + 所有格? (这是某人的...吗?)",
+          "使用场景：",
+          "- 寻找失物 | 确认物品归属 | 课堂管理",
+          "注意事项：",
+          "- 注意this和that的区别 | 所有格形式要正确",
+          "文化背景：",
+          "- 尊重他人物品",
+          "- 及时归还失物"
+        ]
+      },
+      {
+        "heading": "2. 物品描述",
+        "children": [
+          "核心概念：描述物品的颜色和特征",
+          "常用表达：",
+          "- It's + 颜色 (它是...颜色的)",
+          "- My/His/Her + 名词 + is + 颜色 (我/他/她的...是...颜色的)",
+          "实用例句：",
+          "- My shirt's blue. (我的衬衫是蓝色的)",
+          "- Tim's shirt's white. (蒂姆的衬衫是白色的)",
+          "使用注意：",
+          "- 颜色词作形容词",
+          "- 可用缩略形式",
+          "- 注意语序"
+        ]
+      },
+      {
+        "heading": "3. 礼貌用语",
+        "children": [
+          "核心概念：课堂交际中的礼貌用语",
+          "常用表达：",
+          "- Sir (先生，对老师的尊称)",
+          "- Thank you, sir (谢谢您，先生)",
+          "- Here you are (给你)",
+          "使用场景：",
+          "- 课堂对话 | 回应老师 | 表示感谢",
+          "注意事项：",
+          "- 保持礼貌态度 | 语气要恭敬 | 场合适当性"
+        ]
+      },
+      {
+        "heading": "4. 不确定表达",
+        "children": [
+          "核心概念：表达不确定的语气",
+          "常用词语：",
+          "- Perhaps (也许)",
+          "- Maybe (可能)",
+          "- Probably (大概)",
+          "使用场景：",
+          "- 猜测情况 | 委婉回答 | 避免绝对",
+          "注意事项：",
+          "- 语气要委婉 | 表达要谨慎 | 避免武断"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 疑问代词whose的用法",
+        "children": [
+          "核心概念：",
+          "- whose用于询问所属关系",
+          "- 可作主格和宾格",
+          "基本结构：",
+          "- Whose + 名词 + is/are...?",
+          "- Whose is/are + 名词?",
+          "实用例句：",
+          "- Whose shirt is that? (那是谁的衬衫？)",
+          "- Whose book is this? (这是谁的书？)",
+          "注意事项：",
+          "- 注意单复数一致 | 区分this/that用法 | 答句要完整"
+        ]
+      },
+      {
+        "heading": "2. 所有格形容词",
+        "children": [
+          "核心概念：",
+          "- 表示所属关系",
+          "- 修饰名词使用",
+          "常见形式：",
+          "- my/your/his/her/its/our/their",
+          "- 名词's (表示所属)",
+          "使用规则：",
+          "- 直接修饰名词 | 不需要冠词 | 注意人称对应",
+          "注意事项：",
+          "- 区分形容词性和代词性所有格 | 注意发音连读"
+        ]
+      },
+      {
+        "heading": "3. be动词的否定形式",
+        "children": [
+          "核心概念：",
+          "- 在be动词后加not",
+          "- 表示否定含义",
+          "基本结构：",
+          "- is not/isn't",
+          "- am not",
+          "- are not/aren't",
+          "实用例句：",
+          "- It's not my shirt. (这不是我的衬衫)",
+          "- This isn't your book. (这不是你的书)",
+          "注意事项：",
+          "- 缩略形式的使用 | 语气语调的变化 | 答句的完整性"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 物品词汇",
+        "children": [
+          "基本词汇：",
+          "- shirt (衬衫)",
+          "- blouse (女式衬衫)",
+          "- tie (领带)",
+          "常用搭配：",
+          "- wear a shirt (穿衬衫)",
+          "- button up the shirt (扣上衬衫)",
+          "使用场景：",
+          "- 着装描述 | 购物场合 | 日常穿搭"
+        ]
+      },
+      {
+        "heading": "2. 颜色词",
+        "children": [
+          "基本颜色：",
+          "- blue (蓝色的)",
+          "- white (白色的)",
+          "常用搭配：",
+          "- light blue (浅蓝色)",
+          "- dark blue (深蓝色)",
+          "- pure white (纯白色)",
+          "使用场景：",
+          "- 描述物品 | 表达喜好 | 购物选择"
+        ]
+      },
+      {
+        "heading": "3. 交际用语",
+        "children": [
+          "礼貌用语：",
+          "- sir (先生)",
+          "- thank you (谢谢)",
+          "- here you are (给你)",
+          "动作词语：",
+          "- catch (接住)",
+          "- take (拿)",
+          "使用场景：",
+          "- 课堂互动 | 日常交际 | 物品传递"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "whose",
+        "toggle": "pron. 谁的（疑问代词）",
+        "isDanger": 1,
+        "phonetic": "huːz",
+        "meaning": "pron. 谁的"
+      },
+      {
+        "word": "blue",
+        "toggle": "adj. 蓝色的；忧郁的，沮丧的；下流的",
+        "isDanger": 0,
+        "phonetic": "bluː",
+        "meaning": "adj. 蓝色的"
+      },
+      {
+        "word": "perhaps",
+        "toggle": "adv. 也许；可能",
+        "isDanger": 0,
+        "phonetic": "pəˈhæps",
+        "meaning": "adv. 大概"
+      },
+      {
+        "word": "white",
+        "toggle": "adj. 白色的；白种的；纯洁的",
+        "isDanger": 1,
+        "phonetic": "waɪt",
+        "meaning": "adj. 白色的"
+      },
+      {
+        "word": "catch",
+        "toggle": "vt. 赶上；抓住；感染；了解",
+        "isDanger": 1,
+        "phonetic": "kætʃ",
+        "meaning": "v. 抓住"
+      },
+      {
+        "word": "father",
+        "toggle": "n. 父亲，爸爸；神父；祖先；前辈",
+        "isDanger": 0,
+        "phonetic": "ˈfɑːðə(r)",
+        "meaning": "n. 父亲"
+      },
+      {
+        "word": "mother",
+        "toggle": "n. 母亲；大娘；女修道院院长",
+        "isDanger": 0,
+        "phonetic": "ˈmʌðə(r)",
+        "meaning": "n. 母亲"
+      },
+      {
+        "word": "blouse",
+        "toggle": "n. 宽松的上衣；女装衬衫",
+        "isDanger": 0,
+        "phonetic": "blaʊz",
+        "meaning": "n. 女衬衫"
+      },
+      {
+        "word": "sister",
+        "toggle": "n. 姐妹；修女；护士",
+        "isDanger": 0,
+        "phonetic": "ˈsɪstə(r)",
+        "meaning": "n. 姐，妹"
+      },
+      {
+        "word": "tie",
+        "toggle": "vt. 系；打结；约束；与 … 成平局",
+        "isDanger": 1,
+        "phonetic": "taɪ",
+        "meaning": "n. 领带"
+      },
+      {
+        "word": "brother",
+        "toggle": "n. 兄弟；战友；同事",
+        "isDanger": 0,
+        "phonetic": "ˈbrʌðə(r)",
+        "meaning": "n. 兄，弟"
+      },
+      {
+        "word": "his",
+        "toggle": "pron. 他的",
+        "isDanger": 1,
+        "phonetic": "hɪz",
+        "meaning": "pron. 他的"
+      },
+      {
+        "word": "her",
+        "toggle": "pron. 她的；她",
+        "isDanger": 0,
+        "phonetic": "hɜː(r)",
+        "meaning": "pron. 她的"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

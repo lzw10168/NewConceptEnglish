@@ -1,0 +1,235 @@
+{
+  "id": "nce1-087",
+  "lessonNumber": "087",
+  "title": {
+    "english": "A car crash",
+    "chinese": "车祸"
+  },
+  "lessonInfo": "新概念英语－第1册－第087课",
+  "audioPath": "audio/nce1/087.mp3",
+  "listeningQuestion": {
+    "question": "What happened to Mr. Wood's car?",
+    "translation": "伍德先生的车怎么了？"
+  },
+  "editorNotes": "本课通过一段在汽车修理厂的对话，展示了如何询问和描述车辆维修状况。课文涉及车辆识别、时间表达、事故描述等内容，同时介绍了过去时态和现在进行时的使用。这些表达对于处理车辆相关事务非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Mr Wood:       Is my car ready yet?",
+      "Attendant:       I don't know, sir.  What's the licence number of your car?",
+      "Mr Wood:     It's LFZ 312 G.",
+      "Attendant:     When did you bring it to us?",
+      "Mr Wood:       I brought it here three days ago.",
+      "Attendant:     Ah yes, I remember now.",
+      "Mr Wood:     Have your mechanics finished yet?",
+      "Attendant:     No, they're still working on it. Let's go into the garage and have a look at it.",
+      "Attendant:     Isn't that your car?",
+      "Mr Wood:     Well, it was my car.",
+      "Attendant:     Didn't you have a crash?",
+      "Mr Wood:     That's right. She drove it into a lamp post（电线杆）. Can your mechanics repair it?",
+      "Attendant:     Well, they're trying to repair it, sir. But to tell you the truth, you need a new car."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "伍德先生：我的汽车修好了吗？",
+      "服 务 员：我不知道，先生。您的汽车牌号是多少？",
+      "伍德先生：是 LFZ312G。",
+      "服 务 员：您什么时候送来的？",
+      "伍德先生：3天前。",
+      "服 务 员：啊，是的，我现在记起来了。",
+      "伍德先生：你们的机械师修好了吗？",
+      "服 务 员：没有，他们还在修呢。我们到车库去看一下吧。",
+      "服 务 员：这难道不是您的车吗？",
+      "伍德先生：唔，这曾是我的车。",
+      "服 务 员：难说您没有出车祸吗？",
+      "伍德先生：是啊。我把汽车撞在电线杆上了。你们的机械师能修好吗？",
+      "服 务 员：啊，他们正设法修呢，先生。不过说实在的，您需要一辆新车了。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 车辆维修相关表达",
+        "children": [
+          "核心概念：如何询问和描述车辆维修状况",
+          "常用表达：",
+          "- Is my car ready yet? 我的车修好了吗？",
+          "- They're still working on it 他们还在修",
+          "- Can your mechanics repair it? 你们的机械师能修好吗？",
+          "使用场景：在修车厂询问车辆维修情况时",
+          "注意事项：注意使用适当的时态表达维修状态"
+        ]
+      },
+      {
+        "heading": "2. 车辆识别表达",
+        "children": [
+          "核心概念：如何识别和确认车辆信息",
+          "常用表达：",
+          "- What's the licence number of your car? 您的汽车牌号是多少？",
+          "- Isn't that your car? 那不是您的车吗？",
+          "- It was my car 那曾是我的车",
+          "使用场景：需要确认车辆信息时",
+          "注意事项：注意车牌号的表达方式"
+        ]
+      },
+      {
+        "heading": "3. 事故描述",
+        "children": [
+          "核心概念：如何描述车辆事故",
+          "常用表达：",
+          "- Didn't you have a crash? 您没有出车祸吗？",
+          "- She drove it into a lamp post 她把车撞在电线杆上了",
+          "- You need a new car 您需要一辆新车了",
+          "使用场景：描述交通事故时",
+          "注意事项：注意使用委婉的表达方式"
+        ]
+      },
+      {
+        "heading": "4. 时间表达",
+        "children": [
+          "核心概念：如何表达时间和状态",
+          "常用表达：",
+          "- three days ago 三天前",
+          "- yet 已经...了吗",
+          "- still 仍然",
+          "使用场景：描述时间和进行状态时",
+          "注意事项：注意时间状语的位置"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在进行时的使用",
+        "children": [
+          "1. 表示正在进行：they're still working on it",
+          "2. 表示尝试：they're trying to repair it",
+          "3. 与yet的搭配使用",
+          "4. 进行时态的否定形式"
+        ]
+      },
+      {
+        "heading": "2. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生：I brought it here",
+          "2. 表示过去状态：it was my car",
+          "3. 过去时态的否定疑问句",
+          "4. 时间状语的使用"
+        ]
+      },
+      {
+        "heading": "3. 反意疑问句",
+        "children": [
+          "1. Isn't that...? 难道不是...？",
+          "2. Didn't you...? 难道你没有...？",
+          "3. 表示确认的用法",
+          "4. 语气的表达"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 车辆相关词汇",
+        "children": [
+          "car n. 汽车：",
+          "- new car 新车",
+          "- my car 我的车",
+          "garage n. 车库；修车厂：",
+          "- in the garage 在车库里",
+          "- go to the garage 去修车厂"
+        ]
+      },
+      {
+        "heading": "2. 维修词汇",
+        "children": [
+          "repair v. 修理：",
+          "- repair a car 修理汽车",
+          "- can repair 能修理",
+          "mechanic n. 机械师：",
+          "- car mechanic 汽车修理工",
+          "- your mechanics 你们的机械师"
+        ]
+      },
+      {
+        "heading": "3. 事故词汇",
+        "children": [
+          "crash n. 碰撞：",
+          "- car crash 车祸",
+          "- have a crash 出车祸",
+          "lamp post n. 电线杆：",
+          "- drive into a lamp post 撞上电线杆",
+          "- hit a lamp post 撞到电线杆"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "attendant",
+        "toggle": "adj. 伴随的；侍候的",
+        "isDanger": 0,
+        "phonetic": "əˈtendənt",
+        "meaning": "n. 接待员"
+      },
+      {
+        "word": "bring",
+        "toggle": "vt. 带来；引起；促使；使某人处于某种情况或境地",
+        "isDanger": 1,
+        "phonetic": "brɪŋ",
+        "meaning": "v. 带来，送来"
+      },
+      {
+        "word": "garage",
+        "toggle": "n. 车库；汽车修理厂；飞机库",
+        "isDanger": 0,
+        "phonetic": "ˈɡærɑːʒ",
+        "meaning": "n. 车库，汽车修理厂"
+      },
+      {
+        "word": "crash",
+        "toggle": "n. 碰撞；崩溃；坠落",
+        "isDanger": 1,
+        "phonetic": "kræʃ",
+        "meaning": "n. 碰撞"
+      },
+      {
+        "word": "lamp-post",
+        "toggle": "n. 灯杆，路灯柱",
+        "isDanger": 0,
+        "phonetic": "ˈlæmp pəʊst",
+        "meaning": "n. 灯杆"
+      },
+      {
+        "word": "repair",
+        "toggle": "vi. 修复；修理",
+        "isDanger": 0,
+        "phonetic": "rɪˈpeə(r)",
+        "meaning": "v. 修理"
+      },
+      {
+        "word": "try",
+        "toggle": "vt. 试验；审判；考验；试图，努力",
+        "isDanger": 1,
+        "phonetic": "traɪ",
+        "meaning": "v. 努力，设法"
+      },
+      {
+        "word": "lamp",
+        "toggle": "n. 灯；照射器",
+        "isDanger": 0,
+        "phonetic": "læmp",
+        "meaning": "n. 灯"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

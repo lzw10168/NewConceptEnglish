@@ -1,0 +1,6518 @@
+{
+  "lesson01": {
+    "words": [
+      {
+        "word": "private",
+        "toggle": "adj. 私人的；私有的；私下的",
+        "isDanger": 1,
+        "phonetic": "ˈpraɪvət",
+        "meaning": "adj. 私人的"
+      },
+      {
+        "word": "conversation",
+        "toggle": "n. 会话；交谈；社交",
+        "isDanger": 0,
+        "phonetic": "ˌkɒnvəˈseɪʃ(ə)n",
+        "meaning": "n. 谈话"
+      },
+      {
+        "word": "theatre",
+        "toggle": "n. 剧场，戏院",
+        "isDanger": 0,
+        "phonetic": "ˈθɪətə(r)",
+        "meaning": "n. 剧场，戏院"
+      },
+      {
+        "word": "seat",
+        "toggle": "n. 座位；所在地；职位",
+        "isDanger": 0,
+        "phonetic": "siːt",
+        "meaning": "n. 座位"
+      },
+      {
+        "word": "angry",
+        "toggle": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+        "isDanger": 0,
+        "phonetic": "ˈæŋɡri",
+        "meaning": "adj. 生气的"
+      },
+      {
+        "word": "attention",
+        "toggle": "n. 注意力；关心；立正！（口令）",
+        "isDanger": 0,
+        "phonetic": "əˈtenʃ(ə)n",
+        "meaning": "n. 注意"
+      },
+      {
+        "word": "angrily",
+        "toggle": "adv. 愤怒地",
+        "isDanger": 0,
+        "phonetic": "ˈæŋɡrəli",
+        "meaning": "adv. 生气地"
+      },
+      {
+        "word": "bear",
+        "toggle": "vi. 结果实；承受",
+        "isDanger": 1,
+        "phonetic": "beə(r)",
+        "meaning": "v. 容忍"
+      },
+      {
+        "word": "business",
+        "toggle": "n. 商业；生意；交易；事情",
+        "isDanger": 0,
+        "phonetic": "ˈbɪznəs",
+        "meaning": "n. 事"
+      },
+      {
+        "word": "rudely",
+        "toggle": "adv. 无礼地；粗暴地",
+        "isDanger": 0,
+        "phonetic": "ˈruːdli",
+        "meaning": "adv. 无礼地，粗鲁地"
+      },
+      {
+        "word": "play",
+        "toggle": "vt. 演奏；播放；游戏；扮演；同 … 比赛",
+        "isDanger": 1,
+        "phonetic": "pleɪ",
+        "meaning": "n. 戏"
+      }
+    ]
+  },
+  "lesson02": {
+    "words": [
+      {
+        "word": "until",
+        "toggle": "conj. 在 … 以前；直到 … 时",
+        "isDanger": 1,
+        "phonetic": "ʌnˈtɪl",
+        "meaning": "prep. 直到"
+      },
+      {
+        "word": "outside",
+        "toggle": "adj. 外面的，外部的；外来的",
+        "isDanger": 1,
+        "phonetic": "ˌaʊtˈsaɪd",
+        "meaning": "adv. 外面"
+      },
+      {
+        "word": "ring",
+        "toggle": "vi. 按铃；敲钟；回响；成环形",
+        "isDanger": 1,
+        "phonetic": "rɪŋ",
+        "meaning": "v. （铃、电话等）响（rang, rung）"
+      },
+      {
+        "word": "aunt",
+        "toggle": "n. 伯母；阿姨；舅妈；姑妈",
+        "isDanger": 0,
+        "phonetic": "ɑːnt",
+        "meaning": "n. 姑，姨，婶，舅母"
+      },
+      {
+        "word": "repeat",
+        "toggle": "vt. 重复；复制；背诵",
+        "isDanger": 1,
+        "phonetic": "rɪˈpiːt",
+        "meaning": "v. 重复"
+      }
+    ]
+  },
+  "lesson03": {
+    "words": [
+      {
+        "word": "send",
+        "toggle": "vt. 发送，寄；派遣；发射；使进入",
+        "isDanger": 1,
+        "phonetic": "send",
+        "meaning": "v. 寄 , 送寄"
+      },
+      {
+        "word": "postcard",
+        "toggle": "n. 明信片",
+        "isDanger": 0,
+        "phonetic": "ˈpəʊstkɑːd",
+        "meaning": "n. 明信片"
+      },
+      {
+        "word": "spoil",
+        "toggle": "vt. 溺爱；糟蹋；掠夺",
+        "isDanger": 1,
+        "phonetic": "spɔɪl",
+        "meaning": "v. 使索然无味, 损坏"
+      },
+      {
+        "word": "museum",
+        "toggle": "n. 博物馆",
+        "isDanger": 0,
+        "phonetic": "mjuˈziːəm",
+        "meaning": "n. 博物馆"
+      },
+      {
+        "word": "public",
+        "toggle": "adj. 公用的；公众的；公立的；政府的",
+        "isDanger": 1,
+        "phonetic": "ˈpʌblɪk",
+        "meaning": "adj. 公共的"
+      },
+      {
+        "word": "friendly",
+        "toggle": "adj. 友好的；亲切的；支持的；融洽的，和睦的",
+        "isDanger": 0,
+        "phonetic": "ˈfrendli",
+        "meaning": "adj. 友好的"
+      },
+      {
+        "word": "waiter",
+        "toggle": "n. 服务员，侍者",
+        "isDanger": 0,
+        "phonetic": "ˈweɪtə(r)",
+        "meaning": "n. 服务员, 招待员"
+      },
+      {
+        "word": "lend",
+        "toggle": "vt. 贷；增添，提供；把 … 借给",
+        "isDanger": 0,
+        "phonetic": "lend",
+        "meaning": "v. 借、给"
+      },
+      {
+        "word": "decision",
+        "toggle": "n. 决定，决心；决议",
+        "isDanger": 0,
+        "phonetic": "dɪˈsɪʒ(ə)n",
+        "meaning": "n. 决定"
+      },
+      {
+        "word": "whole",
+        "toggle": "adj. 完整的；纯粹的",
+        "isDanger": 0,
+        "phonetic": "həʊl",
+        "meaning": "adj. 整个的"
+      },
+      {
+        "word": "single",
+        "toggle": "adj. 单一的；单身的；单程的",
+        "isDanger": 1,
+        "phonetic": "ˈsɪŋɡ(ə)l",
+        "meaning": "adj. 唯一的, 单一的"
+      },
+      {
+        "word": "decide",
+        "toggle": "vt. 决定；判决；解决",
+        "isDanger": 1,
+        "phonetic": "dɪˈsaɪd",
+        "meaning": "v. 决定"
+      }
+    ]
+  },
+  "lesson04": {
+    "words": [
+      {
+        "word": "exciting",
+        "toggle": "adj. 使人激动的；令人兴奋的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsaɪtɪŋ",
+        "meaning": "adj. 令人兴奋的"
+      },
+      {
+        "word": "receive",
+        "toggle": "vt. 收到；接待；接纳",
+        "isDanger": 1,
+        "phonetic": "rɪˈsiːv",
+        "meaning": "v. 接收，收到"
+      },
+      {
+        "word": "firm",
+        "toggle": "adj. 坚定的；结实的；牢固的；严格的",
+        "isDanger": 1,
+        "phonetic": "fɜːm",
+        "meaning": "n. 商行，公司"
+      },
+      {
+        "word": "different",
+        "toggle": "adj. 不同的；个别的，与众不同的",
+        "isDanger": 0,
+        "phonetic": "ˈdɪfrənt",
+        "meaning": "adj. 不同的"
+      },
+      {
+        "word": "centre",
+        "toggle": "n. （地理位置）中间，中心点",
+        "isDanger": 0,
+        "phonetic": "ˈsentə(r)",
+        "meaning": "n. 中心"
+      },
+      {
+        "word": "abroad",
+        "toggle": "adv. 到海外；在国外",
+        "isDanger": 0,
+        "phonetic": "əˈbrɔːd",
+        "meaning": "adv. 在国外"
+      }
+    ]
+  },
+  "lesson05": {
+    "words": [
+      {
+        "word": "pigeon",
+        "toggle": "n. 鸽子",
+        "isDanger": 0,
+        "phonetic": "ˈpɪdʒɪn",
+        "meaning": "n. 鸽子"
+      },
+      {
+        "word": "message",
+        "toggle": "n. 消息；预言；启示；广告词；差使",
+        "isDanger": 0,
+        "phonetic": "ˈmesɪdʒ",
+        "meaning": "n. 信息"
+      },
+      {
+        "word": "cover",
+        "toggle": "vt. 包括；涉及；采访，报导",
+        "isDanger": 1,
+        "phonetic": "ˈkʌvə(r)",
+        "meaning": "v. 越过"
+      },
+      {
+        "word": "distance",
+        "toggle": "n. 距离；远方；疏远；间隔",
+        "isDanger": 0,
+        "phonetic": "ˈdɪstəns",
+        "meaning": "n. 距离"
+      },
+      {
+        "word": "request",
+        "toggle": "n. 请求；需要",
+        "isDanger": 0,
+        "phonetic": "rɪˈkwest",
+        "meaning": "n. 要求，请求"
+      },
+      {
+        "word": "spare part",
+        "toggle": "n. 备件",
+        "isDanger": 0,
+        "phonetic": "ˌspeə ˈpɑːt",
+        "meaning": "n. 备件"
+      },
+      {
+        "word": "service",
+        "toggle": "n. 服务，服侍；服役；仪式",
+        "isDanger": 1,
+        "phonetic": "ˈsɜːvɪs",
+        "meaning": "n. 业务，服务"
+      }
+    ]
+  },
+  "lesson06": {
+    "words": [
+      {
+        "word": "beggar",
+        "toggle": "n. 乞丐；穷人； [ 英口 ] 家伙",
+        "isDanger": 0,
+        "phonetic": "ˈbeɡə(r)",
+        "meaning": "n. 乞丐"
+      },
+      {
+        "word": "food",
+        "toggle": "n. 食物；养料",
+        "isDanger": 0,
+        "phonetic": "fuːd",
+        "meaning": "n. 食物"
+      },
+      {
+        "word": "pocket",
+        "toggle": "n. 口袋；钱；容器",
+        "isDanger": 0,
+        "phonetic": "ˈpɒkɪt",
+        "meaning": "n. 衣服口袋"
+      },
+      {
+        "word": "call",
+        "toggle": "vi. 呼叫；拜访；叫牌",
+        "isDanger": 1,
+        "phonetic": "kɔːl",
+        "meaning": "v. 拜访，光顾"
+      }
+    ]
+  },
+  "lesson07": {
+    "words": [
+      {
+        "word": "detective",
+        "toggle": "adj. 侦探的",
+        "isDanger": 0,
+        "phonetic": "dɪˈtektɪv",
+        "meaning": "n. 侦探"
+      },
+      {
+        "word": "airport",
+        "toggle": "n. 机场；航空站",
+        "isDanger": 0,
+        "phonetic": "ˈeəpɔːt",
+        "meaning": "n. 机场"
+      },
+      {
+        "word": "expect",
+        "toggle": "vt. 预料；期望；指望； [ 口 ] 认为",
+        "isDanger": 1,
+        "phonetic": "ɪkˈspekt",
+        "meaning": "v. 期待，等待"
+      },
+      {
+        "word": "valuable",
+        "toggle": "adj. 贵重的；有价值的；可估价的",
+        "isDanger": 0,
+        "phonetic": "ˈvæljuəb(ə)l",
+        "meaning": "adj. 贵重的"
+      },
+      {
+        "word": "parcel",
+        "toggle": "n. 包裹，小包",
+        "isDanger": 0,
+        "phonetic": "ˈpɑːs(ə)l",
+        "meaning": "n. 包裹"
+      },
+      {
+        "word": "diamond",
+        "toggle": "n. 钻石，金刚石；菱形；方块牌",
+        "isDanger": 0,
+        "phonetic": "ˈdaɪmənd",
+        "meaning": "n. 钻石"
+      },
+      {
+        "word": "steal",
+        "toggle": "v.偷,窃取,偷窃,偷盗",
+        "isDanger": 1,
+        "phonetic": "stiːl",
+        "meaning": "v. 偷"
+      },
+      {
+        "word": "main",
+        "toggle": "n. 主要部分，要点；体力；总管道",
+        "isDanger": 0,
+        "phonetic": "meɪn",
+        "meaning": "adj. 主要的"
+      },
+      {
+        "word": "airfield",
+        "toggle": "n. 飞机场",
+        "isDanger": 0,
+        "phonetic": "ˈeəfiːld",
+        "meaning": "n. 飞机起落的场地"
+      },
+      {
+        "word": "guard",
+        "toggle": "n. 警戒；守卫；护卫队；防护装置",
+        "isDanger": 1,
+        "phonetic": "ɡɑːd",
+        "meaning": "n. 警戒，守卫"
+      },
+      {
+        "word": "precious",
+        "toggle": "adj. 宝贵的；珍贵的；矫揉造作的",
+        "isDanger": 0,
+        "phonetic": "ˈpreʃəs",
+        "meaning": "adj. 珍贵的"
+      },
+      {
+        "word": "stone",
+        "toggle": "n. 石头；宝石；结石",
+        "isDanger": 0,
+        "phonetic": "stəʊn",
+        "meaning": "n. 石子"
+      },
+      {
+        "word": "sand",
+        "toggle": "n. 沙；沙子；沙滩；沙地；沙洲",
+        "isDanger": 0,
+        "phonetic": "sænd",
+        "meaning": "n. 沙子"
+      }
+    ]
+  },
+  "lesson08": {
+    "words": [
+      {
+        "word": "competition",
+        "toggle": "n. 竞争；比赛，竞赛",
+        "isDanger": 0,
+        "phonetic": "ˌkɒmpəˈtɪʃ(ə)n",
+        "meaning": "n. 比赛，竞赛"
+      },
+      {
+        "word": "neat",
+        "toggle": "adj. 整洁的；未搀水的；优雅的；灵巧的；齐整的；平滑的",
+        "isDanger": 1,
+        "phonetic": "niːt",
+        "meaning": "adj. 整齐的，整洁的"
+      },
+      {
+        "word": "path",
+        "toggle": "n. 小路；道路；轨道",
+        "isDanger": 0,
+        "phonetic": "pɑːθ",
+        "meaning": "n. 小路，小径"
+      },
+      {
+        "word": "wooden",
+        "toggle": "adj. 木制的；僵硬的，呆板的",
+        "isDanger": 0,
+        "phonetic": "ˈwʊdn",
+        "meaning": "adj. 木头的"
+      },
+      {
+        "word": "pool",
+        "toggle": "n. 联营；水塘；撞球；共同资金",
+        "isDanger": 0,
+        "phonetic": "puːl",
+        "meaning": "n. 水池"
+      }
+    ]
+  },
+  "lesson09": {
+    "words": [
+      {
+        "word": "welcome",
+        "toggle": "adj. 受欢迎的",
+        "isDanger": 0,
+        "phonetic": "ˈwelkəm",
+        "meaning": "n. 欢迎；v. 欢迎"
+      },
+      {
+        "word": "crowd",
+        "toggle": "vt. 挤满；将 … 塞进；催逼，催促",
+        "isDanger": 0,
+        "phonetic": "kraʊd",
+        "meaning": "n. 人群"
+      },
+      {
+        "word": "gather",
+        "toggle": "vt. 收集；使 … 聚集；收割；使 … 皱起",
+        "isDanger": 1,
+        "phonetic": "ˈɡæðə(r)",
+        "meaning": "v. 聚集"
+      },
+      {
+        "word": "hand",
+        "toggle": "n. 手，手艺；指针；插手；帮助",
+        "isDanger": 1,
+        "phonetic": "hænd",
+        "meaning": "n. （表或机器的）指针"
+      },
+      {
+        "word": "shout",
+        "toggle": "vi. 呼喊；喊叫；大声说",
+        "isDanger": 1,
+        "phonetic": "ʃaʊt",
+        "meaning": "v. 喊叫"
+      },
+      {
+        "word": "refuse",
+        "toggle": "n. 废物；垃圾",
+        "isDanger": 1,
+        "phonetic": "rɪˈfjuːz",
+        "meaning": "v. 拒绝"
+      },
+      {
+        "word": "laugh",
+        "toggle": "n. 笑；引人发笑的事或人",
+        "isDanger": 1,
+        "phonetic": "lɑːf",
+        "meaning": "v. 笑"
+      }
+    ]
+  },
+  "lesson10": {
+    "words": [
+      {
+        "word": "jazz",
+        "toggle": "n. 爵士乐，爵士舞；喧闹",
+        "isDanger": 0,
+        "phonetic": "dʒæz",
+        "meaning": "n. 爵士音乐"
+      },
+      {
+        "word": "musical",
+        "toggle": "adj. 音乐的；悦耳的",
+        "isDanger": 0,
+        "phonetic": "ˈmjuːzɪk(ə)l",
+        "meaning": "adj. 音乐的"
+      },
+      {
+        "word": "instrument",
+        "toggle": "n. 仪器；器械；工具；手段；乐器",
+        "isDanger": 0,
+        "phonetic": "ˈɪnstrəmənt",
+        "meaning": "n. 乐器"
+      },
+      {
+        "word": "clavichord",
+        "toggle": "n.翼琴(钢琴的前身)",
+        "isDanger": 0,
+        "phonetic": "ˈklævɪkɔːd",
+        "meaning": "n. 古钢琴"
+      },
+      {
+        "word": "recently",
+        "toggle": "adv. 最近；新近",
+        "isDanger": 1,
+        "phonetic": "ˈriːs(ə)ntli",
+        "meaning": "adv. 最近"
+      },
+      {
+        "word": "damage",
+        "toggle": "vi. 损害；损毁；赔偿金",
+        "isDanger": 0,
+        "phonetic": "ˈdæmɪdʒ",
+        "meaning": "v. 损坏"
+      },
+      {
+        "word": "key",
+        "toggle": "n. 钥匙；关键；（打字机等的）键",
+        "isDanger": 1,
+        "phonetic": "kiː",
+        "meaning": "n. 琴键"
+      },
+      {
+        "word": "string",
+        "toggle": "n. 线，细绳；一串，一行",
+        "isDanger": 0,
+        "phonetic": "strɪŋ",
+        "meaning": "n. （乐器的）弦"
+      },
+      {
+        "word": "shock",
+        "toggle": "n. 打击；震动；震惊；休克；禾束堆",
+        "isDanger": 0,
+        "phonetic": "ʃɒk",
+        "meaning": "v. 使不悦或生气，震惊"
+      },
+      {
+        "word": "allow",
+        "toggle": "vt. 允许；认可；给予",
+        "isDanger": 0,
+        "phonetic": "əˈlaʊ",
+        "meaning": "v. 允许，让"
+      },
+      {
+        "word": "touch",
+        "toggle": "vt. 接触；触动；使轻度受害",
+        "isDanger": 1,
+        "phonetic": "tʌtʃ",
+        "meaning": "v. 触摸"
+      }
+    ]
+  },
+  "lesson11": {
+    "words": [
+      {
+        "word": "turn",
+        "toggle": "vt. 转动，使旋转；转弯；兑换；翻过来",
+        "isDanger": 1,
+        "phonetic": "tɜːn",
+        "meaning": "n. 行为，举止"
+      },
+      {
+        "word": "deserve",
+        "toggle": "vi. 应受，应得",
+        "isDanger": 1,
+        "phonetic": "dɪˈzɜːv",
+        "meaning": "v. 应得到，值得"
+      },
+      {
+        "word": "lawyer",
+        "toggle": "n. 律师；法学家",
+        "isDanger": 0,
+        "phonetic": "ˈlɔɪə(r)",
+        "meaning": "n. 律师"
+      },
+      {
+        "word": "bank",
+        "toggle": "n. 银行；岸；储库；浅滩",
+        "isDanger": 1,
+        "phonetic": "bæŋk",
+        "meaning": "n. 银行"
+      },
+      {
+        "word": "salary",
+        "toggle": "vt. 给 ... 加薪；给 ... 薪水",
+        "isDanger": 0,
+        "phonetic": "ˈsæləri",
+        "meaning": "n. 工资"
+      },
+      {
+        "word": "immediately",
+        "toggle": "adv. 直接地；立即，立刻",
+        "isDanger": 0,
+        "phonetic": "ɪˈmiːdiətli",
+        "meaning": "adv. 立刻"
+      }
+    ]
+  },
+  "lesson12": {
+    "words": [
+      {
+        "word": "luck",
+        "toggle": "n. 运气；幸运；带来好运的东西",
+        "isDanger": 0,
+        "phonetic": "lʌk",
+        "meaning": "n. 运气，幸运"
+      },
+      {
+        "word": "captain",
+        "toggle": "n. 船长；队长，首领；上尉；海军上校",
+        "isDanger": 0,
+        "phonetic": "ˈkæptɪn",
+        "meaning": "n. 船长"
+      },
+      {
+        "word": "sail",
+        "toggle": "vi. 航行；启航，开船",
+        "isDanger": 0,
+        "phonetic": "seɪl",
+        "meaning": "v. 航行"
+      },
+      {
+        "word": "harbour",
+        "toggle": "n. 港口；避难所，避风港",
+        "isDanger": 0,
+        "phonetic": "ˈhɑːbə(r)",
+        "meaning": "n. 港口"
+      },
+      {
+        "word": "proud",
+        "toggle": "adj. 自豪的；自负的；得意的",
+        "isDanger": 0,
+        "phonetic": "praʊd",
+        "meaning": "adj. 自豪"
+      },
+      {
+        "word": "important",
+        "toggle": "adj. 重要的，重大的；有地位的；有权力的",
+        "isDanger": 1,
+        "phonetic": "ɪmˈpɔːt(ə)nt",
+        "meaning": "adj. 重要的"
+      }
+    ]
+  },
+  "lesson13": {
+    "words": [
+      {
+        "word": "group",
+        "toggle": "n. 组；团体",
+        "isDanger": 0,
+        "phonetic": "ɡruːp",
+        "meaning": "n. 小组，团体"
+      },
+      {
+        "word": "pop singer",
+        "toggle": "流行歌手",
+        "isDanger": 0,
+        "phonetic": "pɒp ˈsɪŋə(r)",
+        "meaning": "n. 流行歌手"
+      },
+      {
+        "word": "club",
+        "toggle": "n. 俱乐部，社团；夜总会；（扑克牌中的）梅花；棍棒",
+        "isDanger": 0,
+        "phonetic": "klʌb",
+        "meaning": "n. 俱乐部"
+      },
+      {
+        "word": "performance",
+        "toggle": "n. 性能；表演；执行；绩效",
+        "isDanger": 0,
+        "phonetic": "pəˈfɔːməns",
+        "meaning": "n. 演出"
+      },
+      {
+        "word": "occasion",
+        "toggle": "n. 场合；时机，机会；理由",
+        "isDanger": 0,
+        "phonetic": "əˈkeɪʒ(ə)n",
+        "meaning": "n. 场合"
+      }
+    ]
+  },
+  "lesson14": {
+    "words": [
+      {
+        "word": "experience",
+        "toggle": "n. 经验；经历；体验",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspɪəriəns",
+        "meaning": "n. 经历"
+      },
+      {
+        "word": "wave",
+        "toggle": "vi. 波动；起伏；摇动；呈波形；挥手示意",
+        "isDanger": 1,
+        "phonetic": "weɪv",
+        "meaning": "v. 招手"
+      },
+      {
+        "word": "lift",
+        "toggle": "vt. 举起；提升；空运；鼓舞； [ 口 ] 抄袭",
+        "isDanger": 0,
+        "phonetic": "lɪft",
+        "meaning": "v. 搭便车"
+      },
+      {
+        "word": "reply",
+        "toggle": "vi. 回答；回击；答辩",
+        "isDanger": 0,
+        "phonetic": "rɪˈplaɪ",
+        "meaning": "v. 回答"
+      },
+      {
+        "word": "language",
+        "toggle": "n. 语言；语言文字；表达能力",
+        "isDanger": 0,
+        "phonetic": "ˈlæŋɡwɪdʒ",
+        "meaning": "n. 语言"
+      },
+      {
+        "word": "journey",
+        "toggle": "n. 旅行；行程",
+        "isDanger": 0,
+        "phonetic": "ˈdʒɜːni",
+        "meaning": "n. 旅行"
+      },
+      {
+        "word": "amusing",
+        "toggle": "adj. 有趣的，好玩的；引人发笑的",
+        "isDanger": 0,
+        "phonetic": "əˈmjuːzɪŋ",
+        "meaning": "adj. 好笑的，有趣的"
+      }
+    ]
+  },
+  "lesson15": {
+    "words": [
+      {
+        "word": "secretary",
+        "toggle": "n. 秘书；书记；大臣；部长",
+        "isDanger": 0,
+        "phonetic": "ˈsekrət(ə)ri",
+        "meaning": "n. 秘书"
+      },
+      {
+        "word": "nervous",
+        "toggle": "adj. 神经的；紧张不安的；强健有力的",
+        "isDanger": 0,
+        "phonetic": "ˈnɜːvəs",
+        "meaning": "adj. 精神紧张的"
+      },
+      {
+        "word": "afford",
+        "toggle": "vt. 给予，提供；买得起",
+        "isDanger": 0,
+        "phonetic": "əˈfɔːd",
+        "meaning": "v. 负担得起"
+      },
+      {
+        "word": "weak",
+        "toggle": "adj. 疲软的；虚弱的；无力的；不牢固的",
+        "isDanger": 0,
+        "phonetic": "wiːk",
+        "meaning": "adj. 弱的"
+      },
+      {
+        "word": "interrupt",
+        "toggle": "vt. 中断；妨碍；插嘴；打断",
+        "isDanger": 1,
+        "phonetic": "ˌɪntəˈrʌpt",
+        "meaning": "v. 插话，打断"
+      }
+    ]
+  },
+  "lesson16": {
+    "words": [
+      {
+        "word": "park",
+        "toggle": "n. 公园；停车场",
+        "isDanger": 0,
+        "phonetic": "pɑːk",
+        "meaning": "v. 停放（汽车）"
+      },
+      {
+        "word": "traffic",
+        "toggle": "n. 交通；贸易；运输；通信量",
+        "isDanger": 0,
+        "phonetic": "ˈtræfɪk",
+        "meaning": "n. 交通"
+      },
+      {
+        "word": "ticket",
+        "toggle": "n. 票；入场券，标签；证明书；（美）候选人名单； [ 口 ] 交通罚款单",
+        "isDanger": 0,
+        "phonetic": "ˈtɪkɪt",
+        "meaning": "n. 交通违规罚款单"
+      },
+      {
+        "word": "note",
+        "toggle": "n. 笔记；注解；便笺；照会；音符；调子；票据；纸币",
+        "isDanger": 1,
+        "phonetic": "nəʊt",
+        "meaning": "n. 便条"
+      },
+      {
+        "word": "area",
+        "toggle": "n. 面积；区域，地区；范围",
+        "isDanger": 0,
+        "phonetic": "ˈeəriə",
+        "meaning": "n. 地段"
+      },
+      {
+        "word": "sign",
+        "toggle": "n. 符号；记号；迹象；手势",
+        "isDanger": 1,
+        "phonetic": "saɪn",
+        "meaning": "n. 指示牌"
+      },
+      {
+        "word": "reminder",
+        "toggle": "n. 暗示；提醒的人 / 物；催单",
+        "isDanger": 0,
+        "phonetic": "rɪˈmaɪndə(r)",
+        "meaning": "n. 提示"
+      },
+      {
+        "word": "fail",
+        "toggle": "vi. 失败，不及格；衰退；缺乏；破产",
+        "isDanger": 0,
+        "phonetic": "feɪl",
+        "meaning": "v. 无视，忘记"
+      },
+      {
+        "word": "obey",
+        "toggle": "vt. 服从，听从；按照 …… 行动",
+        "isDanger": 0,
+        "phonetic": "əˈbeɪ",
+        "meaning": "v. 服从"
+      },
+      {
+        "word": "polite",
+        "toggle": "adj. 有礼貌的，客气的；文雅的；上流的；优雅的",
+        "isDanger": 0,
+        "phonetic": "pəˈlaɪt",
+        "meaning": "adj. 有礼貌的"
+      }
+    ]
+  },
+  "lesson17": {
+    "words": [
+      {
+        "word": "appear",
+        "toggle": "vi. 出现；似乎；显得； [ 法 ] 出庭",
+        "isDanger": 1,
+        "phonetic": "əˈpɪə(r)",
+        "meaning": "v. 登场，扮演"
+      },
+      {
+        "word": "stage",
+        "toggle": "n. 舞台；戏剧；驿站；阶段",
+        "isDanger": 0,
+        "phonetic": "steɪdʒ",
+        "meaning": "n. 舞台"
+      },
+      {
+        "word": "bright",
+        "toggle": "adj. 明亮的，鲜明的；聪明的；愉快的",
+        "isDanger": 1,
+        "phonetic": "braɪt",
+        "meaning": "adj. 鲜艳的"
+      },
+      {
+        "word": "stocking",
+        "toggle": "n. 长袜",
+        "isDanger": 0,
+        "phonetic": "ˈstɒkɪŋ",
+        "meaning": "n. （女用）长筒袜(棉的, 绒的, 并不是现在的丝袜)"
+      },
+      {
+        "word": "sock",
+        "toggle": "n. 短袜；一击",
+        "isDanger": 0,
+        "phonetic": "sɒk",
+        "meaning": "n. 短袜"
+      }
+    ]
+  },
+  "lesson18": {
+    "words": [
+      {
+        "word": "pub",
+        "toggle": "n. 酒馆；客栈",
+        "isDanger": 0,
+        "phonetic": "pʌb",
+        "meaning": "n. 小酒店"
+      },
+      {
+        "word": "landlord",
+        "toggle": "n. 房东，老板；地主",
+        "isDanger": 0,
+        "phonetic": "ˈlændlɔːd",
+        "meaning": "n. 店主"
+      },
+      {
+        "word": "bill",
+        "toggle": "n. 帐单；法案；广告；钞票；票据；清单",
+        "isDanger": 0,
+        "phonetic": "bɪl",
+        "meaning": "n. 帐单"
+      }
+    ]
+  },
+  "lesson19": {
+    "words": [
+      {
+        "word": "hurry",
+        "toggle": "n. 匆忙，急忙",
+        "isDanger": 0,
+        "phonetic": "ˈhʌri",
+        "meaning": "v. 匆忙"
+      },
+      {
+        "word": "ticket office",
+        "toggle": "n. 票房，售票处",
+        "isDanger": 0,
+        "phonetic": "ˈtɪkɪt ˈɒfɪs",
+        "meaning": "n. 售票处"
+      },
+      {
+        "word": "pity",
+        "toggle": "n. 怜悯，同情；遗憾",
+        "isDanger": 1,
+        "phonetic": "ˈpɪti",
+        "meaning": "n. 令人遗憾的事"
+      },
+      {
+        "word": "exclaim",
+        "toggle": "vi. 呼喊，惊叫；大声叫嚷",
+        "isDanger": 0,
+        "phonetic": "ɪkˈskleɪm",
+        "meaning": "v. 大声说"
+      },
+      {
+        "word": "return",
+        "toggle": "vt. 返回；报答； n. 返回；归还；回球； vi. 返回；报答； adj. 报答的；回程的；返回的",
+        "isDanger": 1,
+        "phonetic": "rɪˈtɜːn",
+        "meaning": "v. 退回"
+      },
+      {
+        "word": "sadly",
+        "toggle": "adv. 悲哀地；悲痛地",
+        "isDanger": 0,
+        "phonetic": "ˈsædli",
+        "meaning": "adv. 悲哀地，丧气地"
+      }
+    ]
+  },
+  "lesson20": {
+    "words": [
+      {
+        "word": "fisherman",
+        "toggle": "n. 渔夫；渔人",
+        "isDanger": 0,
+        "phonetic": "ˈfɪʃəmən",
+        "meaning": "n. 钓鱼人，渔民"
+      },
+      {
+        "word": "boot",
+        "toggle": "vt. 使穿靴；引导；踢；解雇",
+        "isDanger": 1,
+        "phonetic": "buːt",
+        "meaning": "n. 靴子"
+      },
+      {
+        "word": "waste",
+        "toggle": "n. 废物；浪费；荒地；损耗；地面风化物",
+        "isDanger": 0,
+        "phonetic": "weɪst",
+        "meaning": "n. 浪费"
+      },
+      {
+        "word": "realize",
+        "toggle": "vt. 实现；了解；将某物卖得；认识到",
+        "isDanger": 1,
+        "phonetic": "ˈriːəlaɪz",
+        "meaning": "v. 意识到"
+      },
+      {
+        "word": "catch",
+        "toggle": "vt. 赶上；抓住；感染；了解",
+        "isDanger": 1,
+        "phonetic": "kætʃ",
+        "meaning": "v. 抓到"
+      }
+    ]
+  },
+  "lesson21": {
+    "words": [
+      {
+        "word": "mad",
+        "toggle": "adj. 疯狂的；愚蠢的；着迷的；发疯的",
+        "isDanger": 1,
+        "phonetic": "mæd",
+        "meaning": "adj. 发疯"
+      },
+      {
+        "word": "reason",
+        "toggle": "n. 理由；理性；动机",
+        "isDanger": 1,
+        "phonetic": "ˈriːz(ə)n",
+        "meaning": "n. 原因"
+      },
+      {
+        "word": "sum",
+        "toggle": "n. 总数；金额",
+        "isDanger": 1,
+        "phonetic": "sʌm",
+        "meaning": "n. 量"
+      },
+      {
+        "word": "determined",
+        "toggle": "adj. 坚决的；决定了的",
+        "isDanger": 0,
+        "phonetic": "dɪˈtɜːmɪnd",
+        "meaning": "adj. 坚定的，下决心的"
+      }
+    ]
+  },
+  "lesson22": {
+    "words": [
+      {
+        "word": "dream",
+        "toggle": "vi. 做梦，梦见；梦想；想到",
+        "isDanger": 1,
+        "phonetic": "driːm",
+        "meaning": "v. 做梦，梦想"
+      },
+      {
+        "word": "age",
+        "toggle": "n. 年龄；时代；阶段；寿命，使用年限",
+        "isDanger": 1,
+        "phonetic": "eɪdʒ",
+        "meaning": "n. 年龄"
+      },
+      {
+        "word": "channel",
+        "toggle": "vt. 引导，开导；形成河道",
+        "isDanger": 1,
+        "phonetic": "ˈtʃæn(ə)l",
+        "meaning": "n. 海峡"
+      },
+      {
+        "word": "throw",
+        "toggle": "vt. 抛；投；掷",
+        "isDanger": 0,
+        "phonetic": "θrəʊ",
+        "meaning": "v. 扔，抛"
+      }
+    ]
+  },
+  "lesson23": {
+    "words": [
+      {
+        "word": "complete",
+        "toggle": "adj. 完全的；完整的；彻底的",
+        "isDanger": 1,
+        "phonetic": "kəmˈpliːt",
+        "meaning": "v. 完成"
+      },
+      {
+        "word": "modern",
+        "toggle": "adj. 现代的，近代的；时髦的",
+        "isDanger": 0,
+        "phonetic": "ˈmɒd(ə)n",
+        "meaning": "adj. 新式的，与以往不同的"
+      },
+      {
+        "word": "strange",
+        "toggle": "adj. 陌生的；奇怪的；外行的",
+        "isDanger": 0,
+        "phonetic": "streɪndʒ",
+        "meaning": "adj. 奇怪的"
+      },
+      {
+        "word": "district",
+        "toggle": "n. 区域；行政区；地方",
+        "isDanger": 0,
+        "phonetic": "ˈdɪstrɪkt",
+        "meaning": "n. 地区"
+      }
+    ]
+  },
+  "lesson24": {
+    "words": [
+      {
+        "word": "manager",
+        "toggle": "n. 经理；管理人员",
+        "isDanger": 0,
+        "phonetic": "ˈmænɪdʒə(r)",
+        "meaning": "n. 经理"
+      },
+      {
+        "word": "upset",
+        "toggle": "vt. 颠覆；扰乱；使心烦",
+        "isDanger": 0,
+        "phonetic": "ˌʌpˈset",
+        "meaning": "adj. 不安"
+      },
+      {
+        "word": "sympathetic",
+        "toggle": "adj. 同情的；赞同的；和谐的；合意的； [ 物 ] 共鸣的； [ 解 ] 交感神经的",
+        "isDanger": 1,
+        "phonetic": "ˌsɪmpəˈθetɪk",
+        "meaning": "adj. 表示同情的"
+      },
+      {
+        "word": "complain",
+        "toggle": "vi. 发牢骚；投诉；诉说",
+        "isDanger": 1,
+        "phonetic": "kəmˈpleɪn",
+        "meaning": "v. 抱怨"
+      },
+      {
+        "word": "wicked",
+        "toggle": "adj. 邪恶的；顽皮的；恶劣的；不道德的",
+        "isDanger": 0,
+        "phonetic": "ˈwɪkɪd",
+        "meaning": "adj. 很坏的，邪恶的"
+      },
+      {
+        "word": "contain",
+        "toggle": "vt. 包含；容纳；控制；牵制（敌军）",
+        "isDanger": 0,
+        "phonetic": "kənˈteɪn",
+        "meaning": "v. 包含，内装"
+      },
+      {
+        "word": "honesty",
+        "toggle": "n. 诚实，正直",
+        "isDanger": 0,
+        "phonetic": "ˈɒnəsti",
+        "meaning": "n. 诚实"
+      }
+    ]
+  },
+  "lesson25": {
+    "words": [
+      {
+        "word": "railway",
+        "toggle": "n. （英）铁路；铁道部门；轨道",
+        "isDanger": 0,
+        "phonetic": "ˈreɪlweɪ",
+        "meaning": "n. 铁路"
+      },
+      {
+        "word": "porter",
+        "toggle": "n. 门房；守门人；服务员；行李搬运工",
+        "isDanger": 0,
+        "phonetic": "ˈpɔːtə(r)",
+        "meaning": "n. 搬运工"
+      },
+      {
+        "word": "foreigner",
+        "toggle": "n. 外地人，外国人",
+        "isDanger": 0,
+        "phonetic": "ˈfɒrənə(r)",
+        "meaning": "n. 外国人"
+      },
+      {
+        "word": "wonder",
+        "toggle": "n. 惊奇；奇迹；惊愕",
+        "isDanger": 1,
+        "phonetic": "ˈwʌndə(r)",
+        "meaning": "v. 感到奇怪"
+      },
+      {
+        "word": "several",
+        "toggle": "adj. 几个的；各自的",
+        "isDanger": 1,
+        "phonetic": "ˈsevrəl",
+        "meaning": "pron. 几个"
+      },
+      {
+        "word": "quantifier",
+        "toggle": "n.数量词,量词",
+        "isDanger": 0,
+        "phonetic": "ˈkwɒntɪfaɪə",
+        "meaning": "n. 数量词"
+      }
+    ]
+  },
+  "lesson26": {
+    "words": [
+      {
+        "word": "art",
+        "toggle": "n. 艺术；美术；艺术品",
+        "isDanger": 0,
+        "phonetic": "ɑːt",
+        "meaning": "n. 艺术"
+      },
+      {
+        "word": "critic",
+        "toggle": "n. 批评家，评论家；爱挑剔的人",
+        "isDanger": 1,
+        "phonetic": "ˈkrɪtɪk",
+        "meaning": "n. 评论家"
+      },
+      {
+        "word": "paint",
+        "toggle": "vt. 油漆；描绘；装饰；绘画",
+        "isDanger": 1,
+        "phonetic": "peɪnt",
+        "meaning": "v. 画"
+      },
+      {
+        "word": "pretend",
+        "toggle": "vt. 假装；伪称；假扮",
+        "isDanger": 1,
+        "phonetic": "prɪˈtend",
+        "meaning": "v. 假装"
+      },
+      {
+        "word": "pattern",
+        "toggle": "n. 模式；样品；图案",
+        "isDanger": 0,
+        "phonetic": "ˈpæt(ə)n",
+        "meaning": "n. 图案"
+      },
+      {
+        "word": "curtain",
+        "toggle": "n. 窗帘；幕",
+        "isDanger": 0,
+        "phonetic": "ˈkɜːt(ə)n",
+        "meaning": "n. 窗帘，幕布"
+      },
+      {
+        "word": "material",
+        "toggle": "adj. 物质的，实质性的；重要的；肉体的",
+        "isDanger": 1,
+        "phonetic": "məˈtɪəriəl",
+        "meaning": "n. 材料"
+      },
+      {
+        "word": "appreciate",
+        "toggle": "vt. 欣赏(appreciate music)；感激；鉴别(appreciate wine)；领会",
+        "isDanger": 1,
+        "phonetic": "əˈpriːʃieɪt",
+        "meaning": "v. 鉴赏"
+      },
+      {
+        "word": "notice",
+        "toggle": "n. 通知，布告；注意；公告",
+        "isDanger": 1,
+        "phonetic": "ˈnəʊtɪs",
+        "meaning": "v. 注意到"
+      },
+      {
+        "word": "whether",
+        "toggle": "conj. 是否；不论",
+        "isDanger": 1,
+        "phonetic": "ˈweðə(r)",
+        "meaning": "conj. 是否"
+      },
+      {
+        "word": "hang",
+        "toggle": "vt. 绞死；悬挂，垂下；使悬而未决；装饰",
+        "isDanger": 1,
+        "phonetic": "hæŋ",
+        "meaning": "v. 悬挂，吊"
+      },
+      {
+        "word": "critically",
+        "toggle": "adv. 危急地；精密地；批评性地；用钻研眼光地",
+        "isDanger": 0,
+        "phonetic": "ˈkrɪtɪkli",
+        "meaning": "adv. 批评地"
+      },
+      {
+        "word": "upside down",
+        "toggle": "颠倒；倒转；翻转",
+        "isDanger": 0,
+        "phonetic": "ˌʌpsaɪd ˈdaʊn",
+        "meaning": "adv. 上下颠倒地（两个同样的音连在一起时, 前面的音声去不读）"
+      },
+      {
+        "word": "upside",
+        "toggle": "n. 上部；上面；上边",
+        "isDanger": 0,
+        "phonetic": "ˈʌpsaɪd",
+        "meaning": "n. 优势"
+      }
+    ]
+  },
+  "lesson27": {
+    "words": [
+      {
+        "word": "tent",
+        "toggle": "n. 帐篷；住处；帷幕",
+        "isDanger": 0,
+        "phonetic": "tent",
+        "meaning": "n. 帐篷"
+      },
+      {
+        "word": "field",
+        "toggle": "n. 领域；牧场；旷野；战场；运动场",
+        "isDanger": 0,
+        "phonetic": "fiːld",
+        "meaning": "n. 田地，田野"
+      },
+      {
+        "word": "smell",
+        "toggle": "vi. 嗅，闻；有 … 气味（异味、怪味）",
+        "isDanger": 0,
+        "phonetic": "smel",
+        "meaning": "v. 闻起来"
+      },
+      {
+        "word": "wonderful",
+        "toggle": "adj. 奇妙的；极好的",
+        "isDanger": 0,
+        "phonetic": "ˈwʌndəf(ə)l",
+        "meaning": "adj. 极好的"
+      },
+      {
+        "word": "campfire",
+        "toggle": "n. 营火；营火会",
+        "isDanger": 0,
+        "phonetic": "ˈkæmpfaɪə(r)",
+        "meaning": "n. 营火，篝火"
+      },
+      {
+        "word": "creep",
+        "toggle": "vi. 爬行；慢慢地移动；起鸡皮疙瘩；蔓延",
+        "isDanger": 1,
+        "phonetic": "kriːp",
+        "meaning": "v. 爬行"
+      },
+      {
+        "word": "sleeping bag",
+        "toggle": "n. （野外用的）睡袋",
+        "isDanger": 0,
+        "phonetic": "ˈsliːpɪŋ bæɡ",
+        "meaning": "n. 睡袋"
+      },
+      {
+        "word": "comfortable",
+        "toggle": "adj. 舒适的，舒服的",
+        "isDanger": 0,
+        "phonetic": "ˈkʌmftəb(ə)l",
+        "meaning": "adj. 舒适的，安逸的"
+      },
+      {
+        "word": "soundly",
+        "toggle": "adv. 健全地；完全地；稳健地；彻底地；牢固地",
+        "isDanger": 0,
+        "phonetic": "ˈsaʊndli",
+        "meaning": "adv. 香甜地"
+      },
+      {
+        "word": "leap",
+        "toggle": "vi. 跳，跳跃",
+        "isDanger": 0,
+        "phonetic": "liːp",
+        "meaning": "v. 跳跃，跳起"
+      },
+      {
+        "word": "heavily",
+        "toggle": "adv. 沉重地；沉闷地；猛烈地",
+        "isDanger": 0,
+        "phonetic": "ˈhevɪli",
+        "meaning": "adv. 大量地"
+      },
+      {
+        "word": "stream",
+        "toggle": "n. 溪流；流动；光线；潮流",
+        "isDanger": 0,
+        "phonetic": "striːm",
+        "meaning": "n. 小溪"
+      },
+      {
+        "word": "form",
+        "toggle": "n. 形式，形状；形态，外形；表格；方式",
+        "isDanger": 1,
+        "phonetic": "fɔːm",
+        "meaning": "v. 形成"
+      },
+      {
+        "word": "wind",
+        "toggle": "vt. 缠绕；上发条；吹号角；使弯曲；绕住或缠住某人",
+        "isDanger": 1,
+        "phonetic": "wɪnd",
+        "meaning": "v. 蜿蜒"
+      },
+      {
+        "word": "right",
+        "toggle": "adj. 正确的；右方的；直接的",
+        "isDanger": 1,
+        "phonetic": "raɪt",
+        "meaning": "adv. 正好"
+      }
+    ]
+  },
+  "lesson28": {
+    "words": [
+      {
+        "word": "rare",
+        "toggle": "adj. 半熟的；稀有的；稀薄的",
+        "isDanger": 0,
+        "phonetic": "reə(r)",
+        "meaning": "adj. 罕见的"
+      },
+      {
+        "word": "ancient",
+        "toggle": "adj. 古代的；古老的，过时的；年老的",
+        "isDanger": 0,
+        "phonetic": "ˈeɪnʃənt",
+        "meaning": "adj. 古代的，古老的"
+      },
+      {
+        "word": "myth",
+        "toggle": "n. 神话；虚构的人，虚构的事",
+        "isDanger": 0,
+        "phonetic": "mɪθ",
+        "meaning": "n. 神话故事"
+      },
+      {
+        "word": "trouble",
+        "toggle": "n. 麻烦；动乱；烦恼；故障",
+        "isDanger": 0,
+        "phonetic": "ˈtrʌb(ə)l",
+        "meaning": "n. 麻烦"
+      },
+      {
+        "word": "effect",
+        "toggle": "n. 效果；作用；影响",
+        "isDanger": 1,
+        "phonetic": "ɪˈfekt",
+        "meaning": "n. 结果，效果"
+      },
+      {
+        "word": "Medusa",
+        "toggle": "n.[动]水母,水母体",
+        "isDanger": 0,
+        "phonetic": "mɪˈdjuːzə",
+        "meaning": "n. 美杜莎（古希腊神话中 3 位蛇发女怪这一）"
+      },
+      {
+        "word": "Gorgon",
+        "toggle": "n.[希神] 蛇发女怪,可怕的女人,丑妇",
+        "isDanger": 0,
+        "phonetic": "ˈɡɔːɡən",
+        "meaning": "n. （古希腊神话）3 位蛇发女怪之一（凡见其貌者都会变成石头）"
+      }
+    ]
+  },
+  "lesson29": {
+    "words": [
+      {
+        "word": "taxi",
+        "toggle": "vi. 乘出租车；滑行",
+        "isDanger": 0,
+        "phonetic": "ˈtæksi",
+        "meaning": "n. 出租汽车"
+      },
+      {
+        "word": "Pilatus Porter",
+        "toggle": "n.皮勒特斯·波特（飞机机名）",
+        "isDanger": 0,
+        "phonetic": "pɪˈleɪtəs ˈpɔrtər",
+        "meaning": "n. 皮勒特斯 波特（飞机名）"
+      },
+      {
+        "word": "land",
+        "toggle": "n. 陆地；地面；国土",
+        "isDanger": 1,
+        "phonetic": "lænd",
+        "meaning": "v. 着陆 (不及物)"
+      },
+      {
+        "word": "plough",
+        "toggle": "v. 耕，犁；（用或仿佛用犁）划出（沟或线）",
+        "isDanger": 0,
+        "phonetic": "plaʊ",
+        "meaning": "v. 耕地"
+      },
+      {
+        "word": "lonely",
+        "toggle": "adj. 寂寞的；偏僻的",
+        "isDanger": 0,
+        "phonetic": "ˈləʊnli",
+        "meaning": "adj. 偏僻的, 人迹罕见的(地方)"
+      },
+      {
+        "word": "Welsh",
+        "toggle": "adj. 威尔士的；威尔士人的；威尔士语的",
+        "isDanger": 0,
+        "phonetic": "welʃ",
+        "meaning": "adj. 威尔士的"
+      },
+      {
+        "word": "roof",
+        "toggle": "n. 屋顶；最高处，顶部；最高限度",
+        "isDanger": 0,
+        "phonetic": "ruːf",
+        "meaning": "n. 楼顶 (从外面看)"
+      },
+      {
+        "word": "block",
+        "toggle": "n. 块；街区；障碍物；大厦",
+        "isDanger": 1,
+        "phonetic": "blɒk",
+        "meaning": "n. 块, 一座大楼"
+      },
+      {
+        "word": "flat",
+        "toggle": "adj. 平坦的；单调的；浅的；扁平的",
+        "isDanger": 1,
+        "phonetic": "flæt",
+        "meaning": "n. 公寓房"
+      },
+      {
+        "word": "desert",
+        "toggle": "vt. 遗弃；放弃；逃跑",
+        "isDanger": 1,
+        "phonetic": "ˈdezət",
+        "meaning": "v. 废弃"
+      }
+    ]
+  },
+  "lesson30": {
+    "words": [
+      {
+        "word": "polo",
+        "toggle": "n. 水球；马球",
+        "isDanger": 0,
+        "phonetic": "ˈpəʊləʊ",
+        "meaning": "n. 水球"
+      },
+      {
+        "word": "Wayle",
+        "toggle": "n.韦尔",
+        "isDanger": 0,
+        "phonetic": "weil",
+        "meaning": "n. 威尔（河名）"
+      },
+      {
+        "word": "cut",
+        "toggle": "n. 伤口；切口；削减；（服装等的）式样； [ 体育 ] 削球；切入； vt. 切割；削减；缩短；刺痛； vi. 切割；相交；切牌；停拍；不出席； adj. 割下的；雕过的；缩减的",
+        "isDanger": 1,
+        "phonetic": "kʌt",
+        "meaning": "v. 穿过"
+      },
+      {
+        "word": "row",
+        "toggle": "n. 行，排；吵闹；划船；街道",
+        "isDanger": 0,
+        "phonetic": "rəʊ",
+        "meaning": "v. 划（船）"
+      },
+      {
+        "word": "kick",
+        "toggle": "vt. 踢；反冲，朝后座",
+        "isDanger": 0,
+        "phonetic": "kɪk",
+        "meaning": "v. 踢"
+      },
+      {
+        "word": "towards",
+        "toggle": "prep. 朝，向；有助于；对于",
+        "isDanger": 1,
+        "phonetic": "təˈwɔːdz",
+        "meaning": "prep. 朝，向"
+      },
+      {
+        "word": "nearly",
+        "toggle": "adv. 差不多，几乎；密切地",
+        "isDanger": 0,
+        "phonetic": "ˈnɪəli",
+        "meaning": "adv. 几乎"
+      },
+      {
+        "word": "sight",
+        "toggle": "n. 视力；眼界；景象；见解",
+        "isDanger": 1,
+        "phonetic": "saɪt",
+        "meaning": "n. 眼界，视域"
+      }
+    ]
+  },
+  "lesson31": {
+    "words": [
+      {
+        "word": "retire",
+        "toggle": "vi. 退休；撤退；退却",
+        "isDanger": 1,
+        "phonetic": "rɪˈtaɪə(r)",
+        "meaning": "v. 退休"
+      },
+      {
+        "word": "company",
+        "toggle": "n. 公司；陪伴，同伴；连队",
+        "isDanger": 0,
+        "phonetic": "ˈkʌmpəni",
+        "meaning": "n. 公司"
+      },
+      {
+        "word": "bicycle",
+        "toggle": "n. 自行车",
+        "isDanger": 0,
+        "phonetic": "ˈbaɪsɪk(ə)l",
+        "meaning": "n. 自行车"
+      },
+      {
+        "word": "save",
+        "toggle": "vt. 节省；保存；解救；储蓄",
+        "isDanger": 1,
+        "phonetic": "seɪv",
+        "meaning": "v. 积蓄"
+      },
+      {
+        "word": "workshop",
+        "toggle": "n. 工场；车间；讲习班；研讨会",
+        "isDanger": 0,
+        "phonetic": "ˈwɜːkʃɒp",
+        "meaning": "n. 车间"
+      },
+      {
+        "word": "helper",
+        "toggle": "n. 助手，帮手",
+        "isDanger": 0,
+        "phonetic": "ˈhelpə(r)",
+        "meaning": "n. 帮手，助手"
+      },
+      {
+        "word": "employ",
+        "toggle": "vt. 使用，采用；雇用；使忙于，使从事于",
+        "isDanger": 0,
+        "phonetic": "ɪmˈplɔɪ",
+        "meaning": "v. 雇佣"
+      },
+      {
+        "word": "grandson",
+        "toggle": "n. 孙子；外孙",
+        "isDanger": 0,
+        "phonetic": "ˈɡrænsʌn",
+        "meaning": "n. 孙子"
+      },
+      {
+        "word": "success",
+        "toggle": "n. 成功，成就；胜利；大获成功的人或事物",
+        "isDanger": 0,
+        "phonetic": "səkˈses",
+        "meaning": "n. 成功"
+      },
+      {
+        "word": "experience",
+        "toggle": "n. 经验；经历；体验",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspɪəriəns",
+        "meaning": "n. 经历"
+      },
+      {
+        "word": "work",
+        "toggle": "n. 工作；职业；产品；行为；文学、音乐或艺术作品；工厂；操作； [ 物 ] 功",
+        "isDanger": 1,
+        "phonetic": "wɜːk",
+        "meaning": "n. 工作"
+      }
+    ]
+  },
+  "lesson32": {
+    "words": [
+      {
+        "word": "once",
+        "toggle": "adv. 一次；曾经",
+        "isDanger": 0,
+        "phonetic": "wʌns",
+        "meaning": "adv. 曾经，以前"
+      },
+      {
+        "word": "temptation",
+        "toggle": "n. 引诱；诱惑物",
+        "isDanger": 0,
+        "phonetic": "tempˈteɪʃ(ə)n",
+        "meaning": "n. 诱惑"
+      },
+      {
+        "word": "article",
+        "toggle": "n. 物品；文章；冠词；条款",
+        "isDanger": 0,
+        "phonetic": "ˈɑːtɪk(ə)l",
+        "meaning": "n. 物品，东西"
+      },
+      {
+        "word": "wrap",
+        "toggle": "vt. 包；隐藏；缠绕；掩护",
+        "isDanger": 1,
+        "phonetic": "ræp",
+        "meaning": "v. 包裹"
+      },
+      {
+        "word": "simply",
+        "toggle": "adv. 简单地；朴素地；简直；仅仅；坦白地",
+        "isDanger": 0,
+        "phonetic": "ˈsɪmpli",
+        "meaning": "adv. 仅仅"
+      },
+      {
+        "word": "arrest",
+        "toggle": "vt. 吸引；逮捕；阻止",
+        "isDanger": 0,
+        "phonetic": "əˈrest",
+        "meaning": "v. 逮捕"
+      }
+    ]
+  },
+  "lesson33": {
+    "words": [
+      {
+        "word": "darkness",
+        "toggle": "n. 黑暗；模糊；无知；阴郁",
+        "isDanger": 0,
+        "phonetic": "ˈdɑːknəs",
+        "meaning": "n. 黑暗"
+      },
+      {
+        "word": "explain",
+        "toggle": "v. 说明；解释",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspleɪn",
+        "meaning": "v. 解释，叙述"
+      },
+      {
+        "word": "coast",
+        "toggle": "vi. 沿岸航行；滑行",
+        "isDanger": 0,
+        "phonetic": "kəʊst",
+        "meaning": "n. 海滨"
+      },
+      {
+        "word": "storm",
+        "toggle": "n. 暴风雨；大动荡",
+        "isDanger": 0,
+        "phonetic": "stɔːm",
+        "meaning": "n. 暴风雨"
+      },
+      {
+        "word": "towards",
+        "toggle": "prep. 朝，向；有助于；对于",
+        "isDanger": 1,
+        "phonetic": "təˈwɔːdz",
+        "meaning": "prep. 向，朝；接近"
+      },
+      {
+        "word": "rock",
+        "toggle": "n. 岩石；暗礁；摇滚乐",
+        "isDanger": 0,
+        "phonetic": "rɒk",
+        "meaning": "n. 岩石，礁石"
+      },
+      {
+        "word": "shore",
+        "toggle": "vt. 用支柱撑住；支撑，使稳住",
+        "isDanger": 0,
+        "phonetic": "ʃɔː(r)",
+        "meaning": "n. 海岸"
+      },
+      {
+        "word": "light",
+        "toggle": "n. 光，光亮；灯",
+        "isDanger": 1,
+        "phonetic": "laɪt",
+        "meaning": "n. 灯光"
+      },
+      {
+        "word": "ahead",
+        "toggle": "adj. 向前；在前的；领先； adv. 向前的；领先的",
+        "isDanger": 1,
+        "phonetic": "əˈhed",
+        "meaning": "adv. 在前面"
+      },
+      {
+        "word": "cliff",
+        "toggle": "n. 绝壁；悬崖",
+        "isDanger": 0,
+        "phonetic": "klɪf",
+        "meaning": "n. 峭壁"
+      },
+      {
+        "word": "struggle",
+        "toggle": "vi. 挣扎；奋斗，努力",
+        "isDanger": 0,
+        "phonetic": "ˈstrʌɡ(ə)l",
+        "meaning": "v. 挣扎"
+      },
+      {
+        "word": "hospital",
+        "toggle": "n. 医院",
+        "isDanger": 0,
+        "phonetic": "ˈhɒspɪt(ə)l",
+        "meaning": "n. 医院"
+      }
+    ]
+  },
+  "lesson34": {
+    "words": [
+      {
+        "word": "station",
+        "toggle": "n. 站；地位；身分；驻地",
+        "isDanger": 0,
+        "phonetic": "ˈsteɪʃ(ə)n",
+        "meaning": "n. （警察）局"
+      },
+      {
+        "word": "most",
+        "toggle": "adv. 最；最多；非常，极其；几乎",
+        "isDanger": 0,
+        "phonetic": "məʊst",
+        "meaning": "adv. 相当，非常"
+      }
+    ]
+  },
+  "lesson35": {
+    "words": [
+      {
+        "word": "while",
+        "toggle": "conj. 当…的时候；虽然；然而",
+        "isDanger": 0,
+        "phonetic": "waɪl",
+        "meaning": "n. 一段时间"
+      },
+      {
+        "word": "regret",
+        "toggle": "n. 遗憾；抱歉；悲叹",
+        "isDanger": 1,
+        "phonetic": "rɪˈɡret",
+        "meaning": "v. 后悔"
+      },
+      {
+        "word": "far",
+        "toggle": "adv. 很；到很远的距离；遥远地；到很深的程度；久远地",
+        "isDanger": 0,
+        "phonetic": "fɑː(r)",
+        "meaning": "adv. 非常"
+      },
+      {
+        "word": "rush",
+        "toggle": "n. 匆促；急流；冲进；灯心草",
+        "isDanger": 0,
+        "phonetic": "rʌʃ",
+        "meaning": "v. 冲"
+      },
+      {
+        "word": "act",
+        "toggle": "vt. 扮演；装作，举动像",
+        "isDanger": 1,
+        "phonetic": "ækt",
+        "meaning": "v. 行动"
+      },
+      {
+        "word": "straight",
+        "toggle": "adj. 直的；正直的；整齐的；连续的；笔直的",
+        "isDanger": 0,
+        "phonetic": "streɪt",
+        "meaning": "adv. 径直"
+      },
+      {
+        "word": "fright",
+        "toggle": "n. 惊吓；惊骇",
+        "isDanger": 1,
+        "phonetic": "fraɪt",
+        "meaning": "n. 害怕"
+      },
+      {
+        "word": "battered",
+        "toggle": "adj. 磨损的；弄垮的；破旧的；受到虐待的",
+        "isDanger": 0,
+        "phonetic": "ˈbætəd",
+        "meaning": "adj. 撞坏的"
+      },
+      {
+        "word": "shortly",
+        "toggle": "adv. 立刻；简短地；唐突地",
+        "isDanger": 1,
+        "phonetic": "ˈʃɔːtli",
+        "meaning": "adv. 很快，不久"
+      },
+      {
+        "word": "afterwards",
+        "toggle": "adv. 然后；后来",
+        "isDanger": 0,
+        "phonetic": "ˈɑːftəwədz",
+        "meaning": "adv. 以后"
+      }
+    ]
+  },
+  "lesson36": {
+    "words": [
+      {
+        "word": "record",
+        "toggle": "vt. 记录，记载；将 ... 录音；标明",
+        "isDanger": 0,
+        "phonetic": "ˈrekɔːd",
+        "meaning": "n. 记录"
+      },
+      {
+        "word": "strong",
+        "toggle": "adj. 强壮的；擅长的；坚强的；牢固的",
+        "isDanger": 1,
+        "phonetic": "strɒŋ",
+        "meaning": "adj. 强壮的"
+      },
+      {
+        "word": "swimmer",
+        "toggle": "n. 游泳者",
+        "isDanger": 0,
+        "phonetic": "ˈswɪmə(r)",
+        "meaning": "n. 游泳运动员"
+      },
+      {
+        "word": "succeed",
+        "toggle": "vi. 成功；继承；继任；兴旺",
+        "isDanger": 0,
+        "phonetic": "səkˈsiːd",
+        "meaning": "v. 成功"
+      },
+      {
+        "word": "train",
+        "toggle": "n. 火车；行列；长队；裙裾",
+        "isDanger": 1,
+        "phonetic": "treɪn",
+        "meaning": "v. 训练"
+      },
+      {
+        "word": "anxiously",
+        "toggle": "adv. 不安地，忧虑地",
+        "isDanger": 0,
+        "phonetic": "ˈæŋkʃəsli",
+        "meaning": "adv. 焦急地"
+      },
+      {
+        "word": "intend",
+        "toggle": "vt. 打算；意指；想要",
+        "isDanger": 1,
+        "phonetic": "ɪnˈtend",
+        "meaning": "v. 打算"
+      },
+      {
+        "word": "solid",
+        "toggle": "adj. 固体的；结实的；可靠的；一致的；立体的",
+        "isDanger": 0,
+        "phonetic": "ˈsɒlɪd",
+        "meaning": "adj. 固体的，硬的"
+      }
+    ]
+  },
+  "lesson37": {
+    "words": [
+      {
+        "word": "olympic",
+        "toggle": "adj. 奥林匹斯山的，奥林匹亚的；奥林匹克的",
+        "isDanger": 0,
+        "phonetic": "əˈlɪmpɪk",
+        "meaning": "adj. 奥林匹克的"
+      },
+      {
+        "word": "hold",
+        "toggle": "vt. 持有；保存；拥有；拘留；约束或控制",
+        "isDanger": 1,
+        "phonetic": "həʊld",
+        "meaning": "v. 召开"
+      },
+      {
+        "word": "government",
+        "toggle": "n. 政府；管辖；政体",
+        "isDanger": 0,
+        "phonetic": "ˈɡʌvənmənt",
+        "meaning": "n. 政府"
+      },
+      {
+        "word": "immense",
+        "toggle": "adj. 巨大的，广大的；无边无际的； [ 口 ] 非常好的",
+        "isDanger": 0,
+        "phonetic": "ɪˈmens",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "stadium",
+        "toggle": "n. 露天大型运动场；体育场",
+        "isDanger": 0,
+        "phonetic": "ˈsteɪdiəm",
+        "meaning": "n. 露天体育场"
+      },
+      {
+        "word": "standard",
+        "toggle": "n. 标准；度量衡标准；旗；水准",
+        "isDanger": 0,
+        "phonetic": "ˈstændəd",
+        "meaning": "n. 标准"
+      },
+      {
+        "word": "capital",
+        "toggle": "n. 首都，省会；大写字母；资金；资本家",
+        "isDanger": 0,
+        "phonetic": "ˈkæpɪt(ə)l",
+        "meaning": "n. 首都"
+      },
+      {
+        "word": "fantastic",
+        "toggle": "adj. 奇异的；极好的；空想的；不可思议的",
+        "isDanger": 1,
+        "phonetic": "fænˈtæstɪk",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "design",
+        "toggle": "vt. 设计；计划；构思",
+        "isDanger": 1,
+        "phonetic": "dɪˈzaɪn",
+        "meaning": "v. 设计"
+      }
+    ]
+  },
+  "lesson38": {
+    "words": [
+      {
+        "word": "except",
+        "toggle": "vt. 不计；把 … 除外",
+        "isDanger": 1,
+        "phonetic": "ɪkˈsept",
+        "meaning": "prep. 除了"
+      },
+      {
+        "word": "Mediterranean",
+        "toggle": "n. 地中海",
+        "isDanger": 0,
+        "phonetic": "ˌmedɪtəˈreɪniən",
+        "meaning": "n. 地中海"
+      },
+      {
+        "word": "complain",
+        "toggle": "vi. 发牢骚；投诉；诉说",
+        "isDanger": 1,
+        "phonetic": "kəmˈpleɪn",
+        "meaning": "v. 抱怨"
+      },
+      {
+        "word": "continually",
+        "toggle": "adv. 频繁地；不断地",
+        "isDanger": 1,
+        "phonetic": "kənˈtɪnjuəli",
+        "meaning": "adv. 不断地"
+      },
+      {
+        "word": "bitterly",
+        "toggle": "adv. 残酷地；怨恨地；苦涩地，悲痛的",
+        "isDanger": 0,
+        "phonetic": "ˈbɪtəli",
+        "meaning": "adv. 刺骨地"
+      },
+      {
+        "word": "sunshine",
+        "toggle": "n. 阳光；愉快；晴天；快活",
+        "isDanger": 0,
+        "phonetic": "ˈsʌnʃaɪn",
+        "meaning": "n. 阳光"
+      },
+      {
+        "word": "settle",
+        "toggle": "vi. 定居；下陷；解决；沉淀",
+        "isDanger": 1,
+        "phonetic": "ˈset(ə)l",
+        "meaning": "v. 安顿"
+      },
+      {
+        "word": "though",
+        "toggle": "adv. 可是，虽然；然而；不过",
+        "isDanger": 0,
+        "phonetic": "ðəʊ",
+        "meaning": "conj. 虽然、尽管"
+      }
+    ]
+  },
+  "lesson39": {
+    "words": [
+      {
+        "word": "operation",
+        "toggle": "n. 操作；手术；经营；运算",
+        "isDanger": 0,
+        "phonetic": "ˌɒpəˈreɪʃ(ə)n",
+        "meaning": "n. 手术"
+      },
+      {
+        "word": "successful",
+        "toggle": "adj. 成功的；一帆风顺的",
+        "isDanger": 0,
+        "phonetic": "səkˈsesf(ə)l",
+        "meaning": "adj. 成功的"
+      },
+      {
+        "word": "following",
+        "toggle": "adj. 其次的，接着的；下面的",
+        "isDanger": 1,
+        "phonetic": "ˈfɒləʊɪŋ",
+        "meaning": "adj. 下一个"
+      },
+      {
+        "word": "patient",
+        "toggle": "adj. 有耐性的，能容忍的",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪʃ(ə)nt",
+        "meaning": "n. 病人"
+      },
+      {
+        "word": "alone",
+        "toggle": "adj. 单独的；孤独的；独自的",
+        "isDanger": 0,
+        "phonetic": "əˈləʊn",
+        "meaning": "adj. 独自的"
+      },
+      {
+        "word": "exchange",
+        "toggle": "n. 交换；兑换；交易所；交流",
+        "isDanger": 1,
+        "phonetic": "ɪksˈtʃeɪndʒ",
+        "meaning": "n. （电话的）交换台"
+      },
+      {
+        "word": "inquire",
+        "toggle": "vt. 询问；问明；查究",
+        "isDanger": 1,
+        "phonetic": "ɪnˈkwaɪə(r)",
+        "meaning": "v. 询问，打听"
+      },
+      {
+        "word": "certain",
+        "toggle": "adj. 某一；确信；无疑的；有把握的；必然的",
+        "isDanger": 1,
+        "phonetic": "ˈsɜːt(ə)n",
+        "meaning": "adj. 某个"
+      },
+      {
+        "word": "caller",
+        "toggle": "n. 呼叫者；打电话者；访客；召集员",
+        "isDanger": 0,
+        "phonetic": "ˈkɔːlə(r)",
+        "meaning": "n. 打电话的人"
+      },
+      {
+        "word": "relative",
+        "toggle": "adj. 相对的；有关系的；成比例的",
+        "isDanger": 1,
+        "phonetic": "ˈrelətɪv",
+        "meaning": "n. 亲戚"
+      }
+    ]
+  },
+  "lesson40": {
+    "words": [
+      {
+        "word": "hostess",
+        "toggle": "n. 女主人，女老板；舞女；女服务员；女房东",
+        "isDanger": 0,
+        "phonetic": "ˈhəʊstəs",
+        "meaning": "n. 女主人"
+      },
+      {
+        "word": "unsmiling",
+        "toggle": "adj.不笑的,面无笑容的,严肃的",
+        "isDanger": 0,
+        "phonetic": "ˌʌnˈsmaɪlɪŋ",
+        "meaning": "adj. 不笑的，严肃的"
+      },
+      {
+        "word": "tight",
+        "toggle": "adj. 紧的；绷紧的；没空的；密封的；严厉的；麻烦的；吝啬的",
+        "isDanger": 0,
+        "phonetic": "taɪt",
+        "meaning": "adj. 紧身的"
+      },
+      {
+        "word": "fix",
+        "toggle": "vt. 安装；修理；使固定；准备",
+        "isDanger": 1,
+        "phonetic": "fɪks",
+        "meaning": "v. 凝视"
+      },
+      {
+        "word": "globe",
+        "toggle": "n. 地球仪；地球；球体",
+        "isDanger": 1,
+        "phonetic": "ɡləʊb",
+        "meaning": "n. 地球"
+      },
+      {
+        "word": "despair",
+        "toggle": "n. 绝望；令人绝望的人或事",
+        "isDanger": 1,
+        "phonetic": "dɪˈspeə(r)",
+        "meaning": "n. 绝望"
+      }
+    ]
+  },
+  "lesson41": {
+    "words": [
+      {
+        "word": "rude",
+        "toggle": "adj. 粗鲁的；无礼的；狂暴的；未开化的",
+        "isDanger": 0,
+        "phonetic": "ruːd",
+        "meaning": "adj. 无礼的"
+      },
+      {
+        "word": "mirror",
+        "toggle": "n. 镜子；真实的写照；榜样",
+        "isDanger": 0,
+        "phonetic": "ˈmɪrə(r)",
+        "meaning": "n. 镜子"
+      },
+      {
+        "word": "hole",
+        "toggle": "n. 洞，孔；洞穴，穴；突破口",
+        "isDanger": 0,
+        "phonetic": "həʊl",
+        "meaning": "n. 孔"
+      },
+      {
+        "word": "remark",
+        "toggle": "n. 言辞；注意",
+        "isDanger": 1,
+        "phonetic": "rɪˈmɑːk",
+        "meaning": "v. 评说"
+      },
+      {
+        "word": "remind",
+        "toggle": "vt. 提醒；使想起",
+        "isDanger": 1,
+        "phonetic": "rɪˈmaɪnd",
+        "meaning": "v. 提醒"
+      },
+      {
+        "word": "lighthouse",
+        "toggle": "n. 灯塔",
+        "isDanger": 0,
+        "phonetic": "ˈlaɪthaʊs",
+        "meaning": "n. 灯塔"
+      }
+    ]
+  },
+  "lesson42": {
+    "words": [
+      {
+        "word": "musical",
+        "toggle": "adj. 音乐的；悦耳的",
+        "isDanger": 0,
+        "phonetic": "ˈmjuːzɪk(ə)l",
+        "meaning": "adj. 精通音乐的"
+      },
+      {
+        "word": "market",
+        "toggle": "n. 集市；市场；商店；销路；股票市场；行情；市面",
+        "isDanger": 0,
+        "phonetic": "ˈmɑːkɪt",
+        "meaning": "n. 市场，集市"
+      },
+      {
+        "word": "snake charmer",
+        "toggle": "n.弄蛇人",
+        "isDanger": 0,
+        "phonetic": "ˈsneɪk tʃɑːmə(r)",
+        "meaning": "n. 玩蛇者（通常借音乐控制）"
+      },
+      {
+        "word": "pipe",
+        "toggle": "n. 烟斗；管；笛",
+        "isDanger": 1,
+        "phonetic": "paɪp",
+        "meaning": "n. （吹奏的）管乐器"
+      },
+      {
+        "word": "tune",
+        "toggle": "n. 和谐；曲调；心情",
+        "isDanger": 1,
+        "phonetic": "tjuːn",
+        "meaning": "n. 曲调"
+      },
+      {
+        "word": "glimpse",
+        "toggle": "n. 一瞥(无意中)，一看",
+        "isDanger": 0,
+        "phonetic": "ɡlɪmps",
+        "meaning": "n. 一瞥"
+      },
+      {
+        "word": "snake",
+        "toggle": "n. 蛇；阴险的人",
+        "isDanger": 0,
+        "phonetic": "sneɪk",
+        "meaning": "n. 蛇"
+      },
+      {
+        "word": "movement",
+        "toggle": "n. 运动；乐章；活动；运转",
+        "isDanger": 0,
+        "phonetic": "ˈmuːvmənt",
+        "meaning": "n. 动作"
+      },
+      {
+        "word": "continue",
+        "toggle": "vi. 仍旧，连续；继续，延续",
+        "isDanger": 1,
+        "phonetic": "kənˈtɪnjuː",
+        "meaning": "v. 继续"
+      },
+      {
+        "word": "dance",
+        "toggle": "n. 舞蹈；舞曲；舞会",
+        "isDanger": 0,
+        "phonetic": "dɑːns",
+        "meaning": "v. 跳舞"
+      },
+      {
+        "word": "obviously",
+        "toggle": "adv. 明显地",
+        "isDanger": 0,
+        "phonetic": "ˈɒbviəsli",
+        "meaning": "adv. 显然"
+      },
+      {
+        "word": "difference",
+        "toggle": "n. 差异；不同；争执",
+        "isDanger": 0,
+        "phonetic": "ˈdɪfrəns",
+        "meaning": "n. 差别"
+      },
+      {
+        "word": "Indian",
+        "toggle": "adj. 印度的；印第安人的；印第安语的",
+        "isDanger": 0,
+        "phonetic": "ˈɪndiən",
+        "meaning": "adj. 印度的"
+      }
+    ]
+  },
+  "lesson43": {
+    "words": [
+      {
+        "word": "pole",
+        "toggle": "n. 杆；极点；电极",
+        "isDanger": 0,
+        "phonetic": "pəʊl",
+        "meaning": "n. （地球的）极"
+      },
+      {
+        "word": "flight",
+        "toggle": "n. 飞行；班机；逃走",
+        "isDanger": 0,
+        "phonetic": "flaɪt",
+        "meaning": "n. 飞行"
+      },
+      {
+        "word": "explorer",
+        "toggle": "n. 探测者，探测器；探险家",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsplɔːrə",
+        "meaning": "n. 探险家"
+      },
+      {
+        "word": "lie",
+        "toggle": "vi. 说谎；位于；躺；展现",
+        "isDanger": 1,
+        "phonetic": "laɪ",
+        "meaning": "v. 处于"
+      },
+      {
+        "word": "serious",
+        "toggle": "adj. 严肃的，严重的；认真的；庄重的；危急的",
+        "isDanger": 0,
+        "phonetic": "ˈsɪəriəs",
+        "meaning": "adj. 严重的"
+      },
+      {
+        "word": "point",
+        "toggle": "n. 要点；尖端；得分；标点",
+        "isDanger": 1,
+        "phonetic": "pɔɪnt",
+        "meaning": "n. 地点"
+      },
+      {
+        "word": "seem",
+        "toggle": "vi. 似乎；像是；装作",
+        "isDanger": 0,
+        "phonetic": "siːm",
+        "meaning": "v. 似乎"
+      },
+      {
+        "word": "crash",
+        "toggle": "n. 碰撞；崩溃；坠落",
+        "isDanger": 1,
+        "phonetic": "kræʃ",
+        "meaning": "v. 坠毁"
+      },
+      {
+        "word": "sack",
+        "toggle": "n. 麻布袋；洗劫",
+        "isDanger": 0,
+        "phonetic": "sæk",
+        "meaning": "n. 袋子"
+      },
+      {
+        "word": "clear",
+        "toggle": "adj. 清楚的；清澈的；晴朗的；无罪的",
+        "isDanger": 1,
+        "phonetic": "klɪə(r)",
+        "meaning": "v. 越过"
+      },
+      {
+        "word": "aircraft",
+        "toggle": "n. 飞机，航空器",
+        "isDanger": 0,
+        "phonetic": "ˈeəkrɑːft",
+        "meaning": "n. 飞机"
+      },
+      {
+        "word": "endless",
+        "toggle": "adj. 无止境的；环状的；连续的；漫无目的的",
+        "isDanger": 0,
+        "phonetic": "ˈendləs",
+        "meaning": "adj. 无尽的"
+      },
+      {
+        "word": "plain",
+        "toggle": "adj. 平的；朴素的；简单的；清晰的",
+        "isDanger": 0,
+        "phonetic": "pleɪn",
+        "meaning": "n. 平原"
+      }
+    ]
+  },
+  "lesson44": {
+    "words": [
+      {
+        "word": "forest",
+        "toggle": "vt. 植树于，使成为森林",
+        "isDanger": 0,
+        "phonetic": "ˈfɒrɪst",
+        "meaning": "n. 森林"
+      },
+      {
+        "word": "risk",
+        "toggle": "n. 危险；风险；冒险",
+        "isDanger": 0,
+        "phonetic": "rɪsk",
+        "meaning": "n. 危险，冒险"
+      },
+      {
+        "word": "picnic",
+        "toggle": "n. 野餐",
+        "isDanger": 0,
+        "phonetic": "ˈpɪknɪk",
+        "meaning": "n. 野餐"
+      },
+      {
+        "word": "edge",
+        "toggle": "n. 边缘；刀刃；优势；锋利",
+        "isDanger": 1,
+        "phonetic": "edʒ",
+        "meaning": "n. 边缘"
+      },
+      {
+        "word": "strap",
+        "toggle": "vt. 用带捆绑；用皮条抽打；约束",
+        "isDanger": 0,
+        "phonetic": "stræp",
+        "meaning": "n. 带，皮带"
+      },
+      {
+        "word": "possession",
+        "toggle": "n. 财产；拥有；领地；自制；着迷",
+        "isDanger": 0,
+        "phonetic": "pəˈzeʃ(ə)n",
+        "meaning": "n. 所有"
+      },
+      {
+        "word": "breath",
+        "toggle": "n. 呼吸，气息；一口气，（呼吸的）一次；微风；瞬间，瞬息；迹象； [ 语 ] 无声音，气音",
+        "isDanger": 0,
+        "phonetic": "breθ",
+        "meaning": "n. 呼吸"
+      },
+      {
+        "word": "contents",
+        "toggle": "n. 内容; （书、讲话、节目等的）主题; 含量; 所含之物( content的名词复数 )",
+        "isDanger": 0,
+        "phonetic": "ˈkɒntents",
+        "meaning": "n. （常用复数）内有的物品"
+      },
+      {
+        "word": "mend",
+        "toggle": "vt. 修理，修补；改善；修改",
+        "isDanger": 0,
+        "phonetic": "mend",
+        "meaning": "v. 修理"
+      }
+    ]
+  },
+  "lesson45": {
+    "words": [
+      {
+        "word": "clear",
+        "toggle": "adj. 清楚的；清澈的；晴朗的；无罪的",
+        "isDanger": 1,
+        "phonetic": "klɪə(r)",
+        "meaning": "adj. 无罪的，不亏心的"
+      },
+      {
+        "word": "conscience",
+        "toggle": "n. 道德心，良心",
+        "isDanger": 0,
+        "phonetic": "ˈkɒnʃəns",
+        "meaning": "n. 良心，道德心"
+      },
+      {
+        "word": "wallet",
+        "toggle": "n. 钱包，皮夹",
+        "isDanger": 0,
+        "phonetic": "ˈwɒlɪt",
+        "meaning": "n. 皮夹，钱夹"
+      },
+      {
+        "word": "savings",
+        "toggle": "n. 储蓄；存款；救助；节省物（saving 的复数形式）",
+        "isDanger": 0,
+        "phonetic": "ˈseɪvɪŋz",
+        "meaning": "n. 存款"
+      },
+      {
+        "word": "villager",
+        "toggle": "n. 乡村居民，村民",
+        "isDanger": 0,
+        "phonetic": "ˈvɪlɪdʒə(r)",
+        "meaning": "n. 村民"
+      },
+      {
+        "word": "per cent",
+        "toggle": "num.百分之…，百分数",
+        "isDanger": 0,
+        "phonetic": "pə ˈsent",
+        "meaning": "prep. 百分之……"
+      }
+    ]
+  },
+  "lesson46": {
+    "words": [
+      {
+        "word": "unload",
+        "toggle": "vt. 卸；摆脱 … 之负担；倾销",
+        "isDanger": 0,
+        "phonetic": "ˌʌnˈləʊd",
+        "meaning": "v. 卸（货）"
+      },
+      {
+        "word": "wooden",
+        "toggle": "adj. 木制的；僵硬的，呆板的",
+        "isDanger": 0,
+        "phonetic": "ˈwʊdn",
+        "meaning": "adj. 木制的"
+      },
+      {
+        "word": "extremely",
+        "toggle": "adv. 非常，极其；极端地",
+        "isDanger": 0,
+        "phonetic": "ɪkˈstriːmli",
+        "meaning": "adv. 非常，极其"
+      },
+      {
+        "word": "occur",
+        "toggle": "vi. 发生；出现；存在",
+        "isDanger": 1,
+        "phonetic": "əˈkɜː(r)",
+        "meaning": "v. 发生"
+      },
+      {
+        "word": "astonish",
+        "toggle": "vt. 使惊讶",
+        "isDanger": 0,
+        "phonetic": "əˈstɒnɪʃ",
+        "meaning": "v. 使惊讶"
+      },
+      {
+        "word": "pile",
+        "toggle": "n. 堆；大量；建筑群",
+        "isDanger": 0,
+        "phonetic": "paɪl",
+        "meaning": "n. 堆"
+      },
+      {
+        "word": "woollen",
+        "toggle": "n.毛织品adj.羊毛制的",
+        "isDanger": 0,
+        "phonetic": "ˈwʊlən",
+        "meaning": "n. 羊毛的"
+      },
+      {
+        "word": "goods",
+        "toggle": "n.货物（仅复数）,<美俚>工具",
+        "isDanger": 0,
+        "phonetic": "ɡʊdz",
+        "meaning": "n. （常用复数）货物，商品"
+      },
+      {
+        "word": "discover",
+        "toggle": "vt. 发现；发觉",
+        "isDanger": 0,
+        "phonetic": "dɪˈskʌvə(r)",
+        "meaning": "v. 发现"
+      },
+      {
+        "word": "admit",
+        "toggle": "vt. 承认；准许进入；可容纳",
+        "isDanger": 1,
+        "phonetic": "ədˈmɪt",
+        "meaning": "v. 承认"
+      },
+      {
+        "word": "confine",
+        "toggle": "n. 界限，边界",
+        "isDanger": 1,
+        "phonetic": "kənˈfaɪn",
+        "meaning": "v. 关在（一个狭小的空间里）"
+      },
+      {
+        "word": "normal",
+        "toggle": "adj. 正常的；正规的，标准的",
+        "isDanger": 1,
+        "phonetic": "ˈnɔːm(ə)l",
+        "meaning": "adj. 正常的，通常的"
+      }
+    ]
+  },
+  "lesson47": {
+    "words": [
+      {
+        "word": "thirsty",
+        "toggle": "adj. 口渴的，口干的；渴望的，热望的",
+        "isDanger": 0,
+        "phonetic": "ˈθɜːsti",
+        "meaning": "adj. 贪杯的"
+      },
+      {
+        "word": "ghost",
+        "toggle": "n. 鬼，幽灵",
+        "isDanger": 0,
+        "phonetic": "ɡəʊst",
+        "meaning": "n. 鬼魂"
+      },
+      {
+        "word": "haunt",
+        "toggle": "vt. 常出没于 … ；萦绕于 … ；经常去 …",
+        "isDanger": 0,
+        "phonetic": "hɔːnt",
+        "meaning": "v. （鬼）来访，闹鬼"
+      },
+      {
+        "word": "block",
+        "toggle": "n. 块；街区；障碍物；大厦",
+        "isDanger": 1,
+        "phonetic": "blɒk",
+        "meaning": "v. 堵"
+      },
+      {
+        "word": "furniture",
+        "toggle": "n. 家具；设备；储藏物",
+        "isDanger": 0,
+        "phonetic": "ˈfɜːnɪtʃə(r)",
+        "meaning": "n. 家具"
+      },
+      {
+        "word": "whisky",
+        "toggle": "n. 威士忌酒",
+        "isDanger": 0,
+        "phonetic": "ˈwɪski",
+        "meaning": "n. 威士忌酒"
+      },
+      {
+        "word": "suggest",
+        "toggle": "vt. 提议，建议；启发；使人想起",
+        "isDanger": 1,
+        "phonetic": "səˈdʒest",
+        "meaning": "v. 暗示"
+      },
+      {
+        "word": "shake",
+        "toggle": "vt. 摇动；动摇；震动",
+        "isDanger": 1,
+        "phonetic": "ʃeɪk",
+        "meaning": "v. 摇动"
+      },
+      {
+        "word": "accept",
+        "toggle": "vt. 接受；承认；承担；承兑；容纳",
+        "isDanger": 1,
+        "phonetic": "əkˈsept",
+        "meaning": "v. 接受"
+      }
+    ]
+  },
+  "lesson48": {
+    "words": [
+      {
+        "word": "pull",
+        "toggle": "vt. 拉；拖；拔",
+        "isDanger": 1,
+        "phonetic": "pʊl",
+        "meaning": "v. 拔"
+      },
+      {
+        "word": "cotton wool",
+        "toggle": "药棉，脱脂棉",
+        "isDanger": 0,
+        "phonetic": "ˌkɒtn ˈwʊl",
+        "meaning": "n. 药棉"
+      },
+      {
+        "word": "collect",
+        "toggle": "vt. 收集；募捐",
+        "isDanger": 1,
+        "phonetic": "kəˈlekt",
+        "meaning": "v. 搜集"
+      },
+      {
+        "word": "collection",
+        "toggle": "n. 收藏品；募捐；征收；采集，聚集",
+        "isDanger": 0,
+        "phonetic": "kəˈlekʃ(ə)n",
+        "meaning": "n. 收藏品，收集品"
+      },
+      {
+        "word": "nod",
+        "toggle": "n. 点头；打盹；摆动",
+        "isDanger": 0,
+        "phonetic": "nɒd",
+        "meaning": "v. 点头"
+      },
+      {
+        "word": "meanwhile",
+        "toggle": "adv. 同时，其间",
+        "isDanger": 0,
+        "phonetic": "ˈmiːnwaɪl",
+        "meaning": "adv. 同时"
+      }
+    ]
+  },
+  "lesson49": {
+    "words": [
+      {
+        "word": "tired",
+        "toggle": "adj. 疲倦的；厌倦的，厌烦的",
+        "isDanger": 0,
+        "phonetic": "ˈtaɪəd",
+        "meaning": "adj. 厌烦的"
+      },
+      {
+        "word": "real",
+        "toggle": "adj. 真实的；实在的；实际的",
+        "isDanger": 1,
+        "phonetic": "ˈriːəl",
+        "meaning": "adj. 真正的"
+      },
+      {
+        "word": "owner",
+        "toggle": "n. 所有者；物主",
+        "isDanger": 0,
+        "phonetic": "ˈəʊnə(r)",
+        "meaning": "n. 主人"
+      },
+      {
+        "word": "spring",
+        "toggle": "n. 春天；弹簧；泉水；跳跃；活力",
+        "isDanger": 1,
+        "phonetic": "sprɪŋ",
+        "meaning": "n. 弹簧"
+      },
+      {
+        "word": "mattress",
+        "toggle": "n. 床垫；褥子；空气垫",
+        "isDanger": 0,
+        "phonetic": "ˈmætrəs",
+        "meaning": "n. 床垫"
+      },
+      {
+        "word": "gust",
+        "toggle": "n. 一阵狂风；风味；趣味",
+        "isDanger": 1,
+        "phonetic": "ɡʌst",
+        "meaning": "n. 一阵风"
+      },
+      {
+        "word": "sweep",
+        "toggle": "vt. 扫除；猛拉；掸去",
+        "isDanger": 0,
+        "phonetic": "swiːp",
+        "meaning": "v. 扫，刮"
+      },
+      {
+        "word": "courtyard",
+        "toggle": "n. 庭院，院子；天井",
+        "isDanger": 0,
+        "phonetic": "ˈkɔːtjɑːd",
+        "meaning": "n. 院子"
+      },
+      {
+        "word": "smash",
+        "toggle": "vt. 使破产；粉碎；溃裂",
+        "isDanger": 1,
+        "phonetic": "smæʃ",
+        "meaning": "v. 碰碎，摔碎"
+      },
+      {
+        "word": "miraculously",
+        "toggle": "adv.奇迹般地；神奇地",
+        "isDanger": 0,
+        "phonetic": "mɪˈrækjələsli",
+        "meaning": "adv. 奇迹般地"
+      },
+      {
+        "word": "unhurt",
+        "toggle": "adj.没有受伤的,未受损的",
+        "isDanger": 0,
+        "phonetic": "ʌnˈhɜːt",
+        "meaning": "adj. 没有受伤的"
+      },
+      {
+        "word": "glance",
+        "toggle": "n. 一瞥；一滑；闪光",
+        "isDanger": 0,
+        "phonetic": "ɡlɑːns",
+        "meaning": "v. 扫视"
+      },
+      {
+        "word": "promptly",
+        "toggle": "adv. 迅速地；敏捷地；立即地(不耽搁的)",
+        "isDanger": 0,
+        "phonetic": "ˈprɒmptli",
+        "meaning": "adv. 迅速地"
+      }
+    ]
+  },
+  "lesson50": {
+    "words": [
+      {
+        "word": "ride",
+        "toggle": "vi. 骑马；乘车；漂浮；依靠",
+        "isDanger": 1,
+        "phonetic": "raɪd",
+        "meaning": "n. 旅行"
+      },
+      {
+        "word": "excursion",
+        "toggle": "n. 短程旅行；远足；离题；偏移；游览圆",
+        "isDanger": 0,
+        "phonetic": "ɪkˈskɜːʃn",
+        "meaning": "n. 远足"
+      },
+      {
+        "word": "conductor",
+        "toggle": "n. 导体；售票员；领导者；管理人",
+        "isDanger": 0,
+        "phonetic": "kənˈdʌktə(r)",
+        "meaning": "n. 售票员"
+      },
+      {
+        "word": "view",
+        "toggle": "n. 风景；意见；视野；观察",
+        "isDanger": 0,
+        "phonetic": "vjuː",
+        "meaning": "n. 景色"
+      }
+    ]
+  },
+  "lesson51": {
+    "words": [
+      {
+        "word": "reward",
+        "toggle": "n. 报酬；酬谢；报答",
+        "isDanger": 0,
+        "phonetic": "rɪˈwɔːd",
+        "meaning": "n. 报偿 v. 给奖赏"
+      },
+      {
+        "word": "virtue",
+        "toggle": "n. 美德；优点；贞操；功效",
+        "isDanger": 0,
+        "phonetic": "ˈvɜːtʃuː",
+        "meaning": "n. 美德"
+      },
+      {
+        "word": "diet",
+        "toggle": "n. 饮食；食物；规定饮食",
+        "isDanger": 1,
+        "phonetic": "ˈdaɪət",
+        "meaning": "n. 节食"
+      },
+      {
+        "word": "forbid",
+        "toggle": "vt. 禁止；妨碍，阻止",
+        "isDanger": 1,
+        "phonetic": "fəˈbɪd",
+        "meaning": "v. 禁止"
+      },
+      {
+        "word": "hurriedly",
+        "toggle": "adv. 仓促地；匆忙地",
+        "isDanger": 0,
+        "phonetic": "ˈhʌrɪdli",
+        "meaning": "adv. 匆忙地"
+      },
+      {
+        "word": "embarrass",
+        "toggle": "vt. 使局促不安；使困窘；阻碍",
+        "isDanger": 0,
+        "phonetic": "ɪmˈbærəs",
+        "meaning": "v. 使尴尬"
+      },
+      {
+        "word": "guiltily",
+        "toggle": "adv.罪地,有罪地",
+        "isDanger": 0,
+        "phonetic": "ˈɡɪltɪli",
+        "meaning": "adv. 内疚地"
+      },
+      {
+        "word": "strict",
+        "toggle": "adj. 严格的；精确的；绝对的；详细的",
+        "isDanger": 0,
+        "phonetic": "strɪkt",
+        "meaning": "adj. 严格的"
+      },
+      {
+        "word": "occasionally",
+        "toggle": "adv. 偶而，间或",
+        "isDanger": 0,
+        "phonetic": "əˈkeɪʒnəli",
+        "meaning": "adv. 偶尔地"
+      }
+    ]
+  },
+  "lesson52": {
+    "words": [
+      {
+        "word": "temporarily",
+        "toggle": "adv. 临时地，临时",
+        "isDanger": 0,
+        "phonetic": "ˈtemprərəli",
+        "meaning": "adv. 暂时地"
+      },
+      {
+        "word": "inch",
+        "toggle": "n. 英寸；身高；少许",
+        "isDanger": 0,
+        "phonetic": "ɪntʃ",
+        "meaning": "n. 英寸（度量单位）"
+      },
+      {
+        "word": "space",
+        "toggle": "n. 空间；距离；太空",
+        "isDanger": 1,
+        "phonetic": "speɪs",
+        "meaning": "n. 空间"
+      },
+      {
+        "word": "actually",
+        "toggle": "adv. 实际上；事实上",
+        "isDanger": 0,
+        "phonetic": "ˈæktʃuəli",
+        "meaning": "adv. 实际上"
+      }
+    ]
+  },
+  "lesson53": {
+    "words": [
+      {
+        "word": "hot",
+        "toggle": "adj. 热的；辣的；热情的；激动的；紧迫的",
+        "isDanger": 1,
+        "phonetic": "hɒt",
+        "meaning": "adj. 带电的，充电的"
+      },
+      {
+        "word": "fireman",
+        "toggle": "n. 消防队员；救火队员；锅炉工",
+        "isDanger": 0,
+        "phonetic": "ˈfaɪəmən",
+        "meaning": "n. 消防队员"
+      },
+      {
+        "word": "cause",
+        "toggle": "n. 原因；事业；目标",
+        "isDanger": 1,
+        "phonetic": "kɔːz",
+        "meaning": "v. 引起 n. 原因"
+      },
+      {
+        "word": "examine",
+        "toggle": "vt. 调查；考试；检查； [ 计算机 ] 检测",
+        "isDanger": 1,
+        "phonetic": "ɪɡˈzæmɪn",
+        "meaning": "v. 检查"
+      },
+      {
+        "word": "accidentally",
+        "toggle": "adv. 偶然地；意外地",
+        "isDanger": 0,
+        "phonetic": "ˌæksɪˈdentəli",
+        "meaning": "adv. 意外地，偶然地"
+      },
+      {
+        "word": "remains",
+        "toggle": "n. 残余；遗骸",
+        "isDanger": 0,
+        "phonetic": "rɪˈmeɪnz",
+        "meaning": "n. 尸体，残骸"
+      },
+      {
+        "word": "wire",
+        "toggle": "n. 金属丝；电线；电报",
+        "isDanger": 0,
+        "phonetic": "ˈwaɪə(r)",
+        "meaning": "n. 电线"
+      },
+      {
+        "word": "volt",
+        "toggle": "n.(马术中的)环骑,[击剑]闪避,[电工]伏特",
+        "isDanger": 0,
+        "phonetic": "vəʊlt",
+        "meaning": "n. 伏特（电压单位）"
+      },
+      {
+        "word": "power line",
+        "toggle": "n. 电力线; 输电线; 电源线",
+        "isDanger": 0,
+        "phonetic": "ˈpaʊə laɪn",
+        "meaning": "n. 电力线"
+      },
+      {
+        "word": "solve",
+        "toggle": "vt. 解决；解答；溶解",
+        "isDanger": 1,
+        "phonetic": "sɒlv",
+        "meaning": "v. 解决"
+      },
+      {
+        "word": "mystery",
+        "toggle": "n. 神秘，秘密；神秘的事物；奥秘",
+        "isDanger": 0,
+        "phonetic": "ˈmɪst(ə)ri",
+        "meaning": "n. 谜（无法接受地, 解释不了的）"
+      },
+      {
+        "word": "snatch",
+        "toggle": "n. 抢夺；小量；抓举",
+        "isDanger": 0,
+        "phonetic": "snætʃ",
+        "meaning": "v. 抓住"
+      },
+      {
+        "word": "spark",
+        "toggle": "n. 火花；闪光；朝气",
+        "isDanger": 0,
+        "phonetic": "spɑːk",
+        "meaning": "n. 电火花"
+      }
+    ]
+  },
+  "lesson54": {
+    "words": [
+      {
+        "word": "sticky",
+        "toggle": "adj. 粘的；粘性的",
+        "isDanger": 0,
+        "phonetic": "ˈstɪki",
+        "meaning": "adj. 粘的"
+      },
+      {
+        "word": "finger",
+        "toggle": "n. 手指；指针，指状物",
+        "isDanger": 1,
+        "phonetic": "ˈfɪŋɡə(r)",
+        "meaning": "n. 手指"
+      },
+      {
+        "word": "pie",
+        "toggle": "n. 馅饼；饼图；爱说话的人",
+        "isDanger": 0,
+        "phonetic": "paɪ",
+        "meaning": "n. 馅饼"
+      },
+      {
+        "word": "mix",
+        "toggle": "vt. 使混和；配制；混淆；使结交",
+        "isDanger": 1,
+        "phonetic": "mɪks",
+        "meaning": "v. 混合，拌和"
+      },
+      {
+        "word": "pastry",
+        "toggle": "n. 油酥点心；面粉糕饼",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪstri",
+        "meaning": "n. 面糊"
+      },
+      {
+        "word": "annoying",
+        "toggle": "adj. 恼人的；讨厌的",
+        "isDanger": 0,
+        "phonetic": "əˈnɔɪɪŋ",
+        "meaning": "adj. 恼人的"
+      },
+      {
+        "word": "receiver",
+        "toggle": "n. 接收器；接受者；收信机；收款员，接待者",
+        "isDanger": 0,
+        "phonetic": "rɪˈsiːvə(r)",
+        "meaning": "n. 电话的话筒"
+      },
+      {
+        "word": "dismay",
+        "toggle": "n. 沮丧，灰心；惊慌",
+        "isDanger": 0,
+        "phonetic": "dɪsˈmeɪ",
+        "meaning": "v. 失望，泄气"
+      },
+      {
+        "word": "recognize",
+        "toggle": "vt. 承认；认出，识别",
+        "isDanger": 1,
+        "phonetic": "ˈrekəɡnaɪz",
+        "meaning": "v. 认出，听出"
+      },
+      {
+        "word": "persuade",
+        "toggle": "vt. 说服，劝说；使某人相信；劝某人做（不做）某事",
+        "isDanger": 0,
+        "phonetic": "pəˈsweɪd",
+        "meaning": "v. 说服，劝说"
+      },
+      {
+        "word": "mess",
+        "toggle": "n. 食堂，伙食团；混乱；脏乱的东西；困境",
+        "isDanger": 1,
+        "phonetic": "mes",
+        "meaning": "n. 乱七八糟"
+      },
+      {
+        "word": "doorknob",
+        "toggle": "n. 门把手",
+        "isDanger": 0,
+        "phonetic": "ˈdɔːnɒb",
+        "meaning": "n. 门把手"
+      },
+      {
+        "word": "sign",
+        "toggle": "n. 符号；记号；迹象；手势",
+        "isDanger": 1,
+        "phonetic": "saɪn",
+        "meaning": "v. 签字"
+      },
+      {
+        "word": "register",
+        "toggle": "vt. 记录；注册；登记；把 … 挂号；挂号邮寄；正式提出",
+        "isDanger": 1,
+        "phonetic": "ˈredʒɪstə(r)",
+        "meaning": "v. 挂号邮寄"
+      }
+    ]
+  },
+  "lesson55": {
+    "words": [
+      {
+        "word": "gold",
+        "toggle": "n. 金，黄金；金币；金色",
+        "isDanger": 0,
+        "phonetic": "ɡəʊld",
+        "meaning": "n. 金子"
+      },
+      {
+        "word": "mine",
+        "toggle": "n. 矿山，矿井；矿，矿藏；地雷，水雷",
+        "isDanger": 1,
+        "phonetic": "maɪn",
+        "meaning": "n. 矿"
+      },
+      {
+        "word": "treasure",
+        "toggle": "n. 财富，财产；财宝；珍品",
+        "isDanger": 0,
+        "phonetic": "ˈtreʒə(r)",
+        "meaning": "n. 财宝"
+      },
+      {
+        "word": "revealer",
+        "toggle": "n.启示者",
+        "isDanger": 0,
+        "phonetic": "rɪˈvi:lə",
+        "meaning": "n. 探测器"
+      },
+      {
+        "word": "invent",
+        "toggle": "vt. 发明；创造；虚构",
+        "isDanger": 1,
+        "phonetic": "ɪnˈvent",
+        "meaning": "v. 发明"
+      },
+      {
+        "word": "detect",
+        "toggle": "vt. 发现；察觉；探测",
+        "isDanger": 1,
+        "phonetic": "dɪˈtekt",
+        "meaning": "v. 探测"
+      },
+      {
+        "word": "bury",
+        "toggle": "vt. 埋葬；隐藏",
+        "isDanger": 1,
+        "phonetic": "ˈberi",
+        "meaning": "v. 埋藏"
+      },
+      {
+        "word": "cave",
+        "toggle": "vt. 使凹陷，使塌落；在 … 挖洞穴",
+        "isDanger": 0,
+        "phonetic": "keɪv",
+        "meaning": "n. 山洞"
+      },
+      {
+        "word": "seashore",
+        "toggle": "n.海岸,海滨",
+        "isDanger": 0,
+        "phonetic": "ˈsiːʃɔː(r)",
+        "meaning": "n. 海岸"
+      },
+      {
+        "word": "pirate",
+        "toggle": "n. 海盗；盗版；侵犯专利权者",
+        "isDanger": 0,
+        "phonetic": "ˈpaɪrət",
+        "meaning": "n. 海盗"
+      },
+      {
+        "word": "arm",
+        "toggle": "n. 手臂；袖子；武器；装备",
+        "isDanger": 1,
+        "phonetic": "ɑːm",
+        "meaning": "v. 武装"
+      },
+      {
+        "word": "soil",
+        "toggle": "n. 土壤；土地；国家；温床；务农；粪便",
+        "isDanger": 1,
+        "phonetic": "sɔɪl",
+        "meaning": "n. 泥土"
+      },
+      {
+        "word": "entrance",
+        "toggle": "n. 入口；进入",
+        "isDanger": 0,
+        "phonetic": "ˈentrəns",
+        "meaning": "n. 入口"
+      },
+      {
+        "word": "finally",
+        "toggle": "adv. 终于；最后；决定性地",
+        "isDanger": 0,
+        "phonetic": "ˈfaɪnəli",
+        "meaning": "adv. 最后"
+      },
+      {
+        "word": "worthless",
+        "toggle": "adj. 无价值的；卑微的；不值钱的",
+        "isDanger": 0,
+        "phonetic": "ˈwɜːθləs",
+        "meaning": "adj. 毫无价值的"
+      },
+      {
+        "word": "thoroughly",
+        "toggle": "adv. 彻底地，完全地",
+        "isDanger": 0,
+        "phonetic": "ˈθʌrəli",
+        "meaning": "adv. 彻底地"
+      },
+      {
+        "word": "trunk",
+        "toggle": "n. 树干；躯干；象鼻；汽车车尾的行李箱",
+        "isDanger": 0,
+        "phonetic": "trʌŋk",
+        "meaning": "n. 行李箱"
+      },
+      {
+        "word": "confident",
+        "toggle": "adj. 自信的；确信的",
+        "isDanger": 0,
+        "phonetic": "ˈkɒnfɪdənt",
+        "meaning": "adj. 有信心的"
+      },
+      {
+        "word": "value",
+        "toggle": "n. 价值；价格；重要性；值；确切涵义",
+        "isDanger": 1,
+        "phonetic": "ˈvæljuː",
+        "meaning": "n. 价值"
+      }
+    ]
+  },
+  "lesson56": {
+    "words": [
+      {
+        "word": "sound",
+        "toggle": "vt. 使发声；听（诊）；测量，测 … 深；宣告；试探",
+        "isDanger": 1,
+        "phonetic": "saʊnd",
+        "meaning": "n. 声音"
+      },
+      {
+        "word": "excitement",
+        "toggle": "n. 刺激；兴奋；令人兴奋的事物",
+        "isDanger": 0,
+        "phonetic": "ɪkˈsaɪtmənt",
+        "meaning": "n. 激动，兴奋"
+      },
+      {
+        "word": "handsome",
+        "toggle": "adj. （男子）英俊的；大方的，慷慨的；可观的；健美而端庄的",
+        "isDanger": 0,
+        "phonetic": "ˈhænsəm",
+        "meaning": "adj. 漂亮的；美观的"
+      },
+      {
+        "word": "Rolls-Royce",
+        "toggle": "n. 劳斯莱斯（罗尔斯-罗伊斯）",
+        "isDanger": 0,
+        "phonetic": "ˌrəʊlz ˈrɔɪs",
+        "meaning": "n. 罗尔斯--罗伊斯"
+      },
+      {
+        "word": "Benz",
+        "toggle": "n.奔驰牌汽车",
+        "isDanger": 0,
+        "phonetic": "benz",
+        "meaning": "n. 奔驰"
+      },
+      {
+        "word": "wheel",
+        "toggle": "n. 车轮；方向盘；转动",
+        "isDanger": 0,
+        "phonetic": "wiːl",
+        "meaning": "n. 轮子"
+      },
+      {
+        "word": "explosion",
+        "toggle": "n. 爆炸；爆发；激增",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspləʊʒ(ə)n",
+        "meaning": "n. 爆炸，轰响"
+      },
+      {
+        "word": "course",
+        "toggle": "n. 进程；过程；道路；一道菜",
+        "isDanger": 1,
+        "phonetic": "kɔːs",
+        "meaning": "n. 跑道；行程"
+      },
+      {
+        "word": "rival",
+        "toggle": "n. 竞争者；对手",
+        "isDanger": 1,
+        "phonetic": "ˈraɪv(ə)l",
+        "meaning": "n. 对手"
+      },
+      {
+        "word": "speed",
+        "toggle": "vi. 加速，迅速前行；超速，加速；兴隆",
+        "isDanger": 1,
+        "phonetic": "spiːd",
+        "meaning": "v. 疾驶"
+      },
+      {
+        "word": "downhill",
+        "toggle": "adv. 下坡；向下；每况愈下",
+        "isDanger": 0,
+        "phonetic": "ˌdaʊnˈhɪl",
+        "meaning": "adv. 下坡"
+      }
+    ]
+  },
+  "lesson57": {
+    "words": [
+      {
+        "word": "madam",
+        "toggle": "n. 夫人；女士；鸨母",
+        "isDanger": 0,
+        "phonetic": "ˈmædəm",
+        "meaning": "n. （对妇女的尊称）太太，夫人"
+      },
+      {
+        "word": "jeans",
+        "toggle": "n. 牛仔裤；工装裤",
+        "isDanger": 0,
+        "phonetic": "dʒiːnz",
+        "meaning": "n. 牛仔裤"
+      },
+      {
+        "word": "hesitate",
+        "toggle": "vi. 踌躇，犹豫；不愿",
+        "isDanger": 1,
+        "phonetic": "ˈhezɪteɪt",
+        "meaning": "v. 犹豫，迟缓"
+      },
+      {
+        "word": "serve",
+        "toggle": "vt. 招待，供应；为 … 服务；对 … 有用；可作 … 用",
+        "isDanger": 1,
+        "phonetic": "sɜːv",
+        "meaning": "v. 接待（顾客）"
+      },
+      {
+        "word": "scornfully",
+        "toggle": "adv.轻蔑地,藐视地",
+        "isDanger": 0,
+        "phonetic": "ˈskɔːnfəli",
+        "meaning": "adv. 轻蔑地"
+      },
+      {
+        "word": "punish",
+        "toggle": "vt. 严厉对待；惩罚； [ 口 ] 贪婪地吃喝",
+        "isDanger": 0,
+        "phonetic": "ˈpʌnɪʃ",
+        "meaning": "v. 惩罚"
+      },
+      {
+        "word": "fur",
+        "toggle": "n. 毛皮；皮，皮子；软毛",
+        "isDanger": 0,
+        "phonetic": "fɜː(r)",
+        "meaning": "n. 裘皮"
+      },
+      {
+        "word": "eager",
+        "toggle": "adj. 渴望的；热心的；热切的",
+        "isDanger": 0,
+        "phonetic": "ˈiːɡə(r)",
+        "meaning": "adj. 热切的，热情的"
+      }
+    ]
+  },
+  "lesson58": {
+    "words": [
+      {
+        "word": "blessing",
+        "toggle": "n. 祝福；祷告；赐福",
+        "isDanger": 0,
+        "phonetic": "ˈblesɪŋ",
+        "meaning": "n. 福分，福气"
+      },
+      {
+        "word": "disguise",
+        "toggle": "vt. 假装；掩饰；隐瞒",
+        "isDanger": 0,
+        "phonetic": "dɪsˈɡaɪz",
+        "meaning": "n. 伪装"
+      },
+      {
+        "word": "tiny",
+        "toggle": "adj. 微小的；很少的",
+        "isDanger": 0,
+        "phonetic": "ˈtaɪni",
+        "meaning": "adj. 极小的"
+      },
+      {
+        "word": "possess",
+        "toggle": "vt. 持有；控制；迷住；使掌握",
+        "isDanger": 0,
+        "phonetic": "pəˈzes",
+        "meaning": "v. 拥有"
+      },
+      {
+        "word": "cursed",
+        "toggle": "adj.被诅咒的,邪恶的",
+        "isDanger": 0,
+        "phonetic": "kɜːst",
+        "meaning": "adj. 可恨的"
+      },
+      {
+        "word": "increase",
+        "toggle": "n. 增加，增长；提高",
+        "isDanger": 1,
+        "phonetic": "ɪnˈkriːs",
+        "meaning": "v. 增加"
+      },
+      {
+        "word": "plant",
+        "toggle": "n. 工厂，车间；植物；庄稼；设备",
+        "isDanger": 1,
+        "phonetic": "plɑːnt",
+        "meaning": "v. 种植"
+      },
+      {
+        "word": "church",
+        "toggle": "n. 教堂；礼拜；教派",
+        "isDanger": 0,
+        "phonetic": "tʃɜːtʃ",
+        "meaning": "n. 教堂"
+      },
+      {
+        "word": "evil",
+        "toggle": "adj. 邪恶的；有害的；不幸的；讨厌的",
+        "isDanger": 0,
+        "phonetic": "ˈiːv(ə)l",
+        "meaning": "adj. 坏的"
+      },
+      {
+        "word": "reputation",
+        "toggle": "n. 声望；名声，名誉",
+        "isDanger": 0,
+        "phonetic": "ˌrepjuˈteɪʃ(ə)n",
+        "meaning": "n. 名声"
+      },
+      {
+        "word": "claim",
+        "toggle": "vi. 提出要求",
+        "isDanger": 1,
+        "phonetic": "kleɪm",
+        "meaning": "v. 以…为其后果"
+      },
+      {
+        "word": "victim",
+        "toggle": "n. 牺牲者；受害人；牺牲品",
+        "isDanger": 0,
+        "phonetic": "ˈvɪktɪm",
+        "meaning": "n. 受害者，牺牲品"
+      },
+      {
+        "word": "vicar",
+        "toggle": "n. 教区牧师，教堂牧师；传教牧师；代理人",
+        "isDanger": 0,
+        "phonetic": "ˈvɪkə(r)",
+        "meaning": "n. 教区牧师"
+      },
+      {
+        "word": "source",
+        "toggle": "n. 来源；原始资料；水源",
+        "isDanger": 0,
+        "phonetic": "sɔːs",
+        "meaning": "n. 来源"
+      },
+      {
+        "word": "income",
+        "toggle": "n. 收入，收益；所得",
+        "isDanger": 0,
+        "phonetic": "ˈɪnkʌm",
+        "meaning": "n. 收入"
+      },
+      {
+        "word": "trunk",
+        "toggle": "n. 树干；躯干；象鼻；汽车车尾的行李箱",
+        "isDanger": 0,
+        "phonetic": "trʌŋk",
+        "meaning": "n. 树干"
+      },
+      {
+        "word": "gain",
+        "toggle": "n. 收获；增加；利润",
+        "isDanger": 1,
+        "phonetic": "ɡeɪn",
+        "meaning": "v. 受益"
+      }
+    ]
+  },
+  "lesson59": {
+    "words": [
+      {
+        "word": "bark",
+        "toggle": "vt. 咆哮；吠叫； [ 口 ] 咳嗽",
+        "isDanger": 0,
+        "phonetic": "bɑːk",
+        "meaning": "v. 狗叫"
+      },
+      {
+        "word": "press",
+        "toggle": "vt. 压；按；紧抱；逼迫",
+        "isDanger": 0,
+        "phonetic": "pres",
+        "meaning": "v. 按，压"
+      },
+      {
+        "word": "paw",
+        "toggle": "vt. 抓，扒；亲昵地抚摸",
+        "isDanger": 0,
+        "phonetic": "pɔː",
+        "meaning": "n. 脚爪"
+      },
+      {
+        "word": "latch",
+        "toggle": "vi. 闭锁；占有，抓住",
+        "isDanger": 0,
+        "phonetic": "lætʃ",
+        "meaning": "n. 门闩"
+      },
+      {
+        "word": "expert",
+        "toggle": "adj. 熟练的；内行的；老练的",
+        "isDanger": 1,
+        "phonetic": "ˈekspɜːt",
+        "meaning": "n. 专家"
+      },
+      {
+        "word": "develop",
+        "toggle": "vt. 开发；使成长；进步；使显影",
+        "isDanger": 0,
+        "phonetic": "dɪˈveləp",
+        "meaning": "v. 养成"
+      },
+      {
+        "word": "habit",
+        "toggle": "n. 习惯，习性；嗜好",
+        "isDanger": 1,
+        "phonetic": "ˈhæbɪt",
+        "meaning": "n. 习惯"
+      },
+      {
+        "word": "remove",
+        "toggle": "vt. 移动，迁移；开除；调动",
+        "isDanger": 0,
+        "phonetic": "rɪˈmuːv",
+        "meaning": "v. 拆掉，取下"
+      }
+    ]
+  },
+  "lesson60": {
+    "words": [
+      {
+        "word": "future",
+        "toggle": "n. 未来；期货；前途；将来时",
+        "isDanger": 0,
+        "phonetic": "ˈfjuːtʃə(r)",
+        "meaning": "n. 未来，前途"
+      },
+      {
+        "word": "fair",
+        "toggle": "adj. 公平的；美丽的，白皙的；晴朗的",
+        "isDanger": 0,
+        "phonetic": "feə(r)",
+        "meaning": "n. 集市"
+      },
+      {
+        "word": "fortune-teller",
+        "toggle": "n. 算命者",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːtʃuːn telə(r)",
+        "meaning": "n. 算命人"
+      },
+      {
+        "word": "crystal",
+        "toggle": "n. 水晶；结晶，晶体；水晶饰品",
+        "isDanger": 1,
+        "phonetic": "ˈkrɪst(ə)l",
+        "meaning": "n. 水晶"
+      },
+      {
+        "word": "relation",
+        "toggle": "n. 关系；亲属关系；叙述；故事",
+        "isDanger": 0,
+        "phonetic": "rɪˈleɪʃ(ə)n",
+        "meaning": "n. 亲属"
+      },
+      {
+        "word": "impatiently",
+        "toggle": "adv. 无耐性地",
+        "isDanger": 0,
+        "phonetic": "ɪmˈpeɪʃntli",
+        "meaning": "adv. 不耐烦地"
+      }
+    ]
+  },
+  "lesson61": {
+    "words": [
+      {
+        "word": "Hubble",
+        "toggle": "n.小瘤、（Hubble）哈勃",
+        "isDanger": 0,
+        "phonetic": "ˈhʌb(ə)l",
+        "meaning": "n. 哈勃"
+      },
+      {
+        "word": "telescope",
+        "toggle": "vt. 压缩；使套叠",
+        "isDanger": 0,
+        "phonetic": "ˈtelɪskəʊp",
+        "meaning": "n. 望远镜"
+      },
+      {
+        "word": "launch",
+        "toggle": "vt. 发射（导弹、火箭等）；发起，发动；使 … 下水",
+        "isDanger": 1,
+        "phonetic": "lɔːntʃ",
+        "meaning": "v. 发射"
+      },
+      {
+        "word": "space",
+        "toggle": "n. 空间；距离；太空",
+        "isDanger": 1,
+        "phonetic": "speɪs",
+        "meaning": "n. 空间"
+      },
+      {
+        "word": "NASA",
+        "toggle": "美国国家航空航天局(National Aeronautics and Space Administration)",
+        "isDanger": 0,
+        "phonetic": "ˈnæsə",
+        "meaning": "n. (National Aeronautics and Space Administration) 国家航空和航天局"
+      },
+      {
+        "word": "billion",
+        "toggle": "n. 十亿；大量",
+        "isDanger": 0,
+        "phonetic": "ˈbɪljən",
+        "meaning": "n. 10 亿"
+      },
+      {
+        "word": "faulty",
+        "toggle": "adj. 有缺点的；有错误的",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːlti",
+        "meaning": "adj. 有错误的"
+      },
+      {
+        "word": "astronaut",
+        "toggle": "n. 宇航员，航天员；太空旅行者",
+        "isDanger": 0,
+        "phonetic": "ˈæstrənɔːt",
+        "meaning": "n. 宇航员"
+      },
+      {
+        "word": "shuttle",
+        "toggle": "n. 梭子；穿梭；穿梭班机、公共汽车等；航天飞机",
+        "isDanger": 0,
+        "phonetic": "ˈʃʌt(ə)l",
+        "meaning": "n. 航天飞机"
+      },
+      {
+        "word": "endeavour",
+        "toggle": "n.<英>尽力,竭力",
+        "isDanger": 0,
+        "phonetic": "ɪnˈdevə(r)",
+        "meaning": "n. Endeavour “奋进”号"
+      },
+      {
+        "word": "robot-arm",
+        "toggle": "n. 机器手",
+        "isDanger": 0,
+        "phonetic": "'rəubɔt a:m",
+        "meaning": "n. 机器手"
+      },
+      {
+        "word": "grab",
+        "toggle": "vt. 攫取；霸占；将 … 深深吸引",
+        "isDanger": 0,
+        "phonetic": "ɡræb",
+        "meaning": "v. 抓"
+      },
+      {
+        "word": "atmosphere",
+        "toggle": "n. 气氛；大气；空气",
+        "isDanger": 0,
+        "phonetic": "ˈætməsfɪə(r)",
+        "meaning": "n. 大气层"
+      },
+      {
+        "word": "distant",
+        "toggle": "adj. 遥远的；冷漠的；远隔的",
+        "isDanger": 0,
+        "phonetic": "ˈdɪstənt",
+        "meaning": "adj. 遥远的"
+      },
+      {
+        "word": "galaxy",
+        "toggle": "n. 银河；星系；银河系；一群显赫的人",
+        "isDanger": 0,
+        "phonetic": "ˈɡæləksi",
+        "meaning": "n. 星系"
+      },
+      {
+        "word": "universe",
+        "toggle": "n. 宇宙；世界；领域",
+        "isDanger": 0,
+        "phonetic": "ˈjuːnɪvɜːs",
+        "meaning": "n. 宇宙"
+      },
+      {
+        "word": "eagle eye",
+        "toggle": "鹰眼：敏锐的观察力或洞察力。",
+        "isDanger": 0,
+        "phonetic": "ˌiːɡl ˈaɪ",
+        "meaning": "n. 鹰眼"
+      }
+    ]
+  },
+  "lesson62": {
+    "words": [
+      {
+        "word": "control",
+        "toggle": "n. 控制；管理；抑制；操纵装置",
+        "isDanger": 1,
+        "phonetic": "kənˈtrəʊl",
+        "meaning": "n. 控制"
+      },
+      {
+        "word": "smoke",
+        "toggle": "n. 烟；抽烟；无常的事物",
+        "isDanger": 0,
+        "phonetic": "sməʊk",
+        "meaning": "n. 烟"
+      },
+      {
+        "word": "desolate",
+        "toggle": "adj. 荒凉的；无人烟的",
+        "isDanger": 0,
+        "phonetic": "ˈdesələt",
+        "meaning": "adj. 荒凉的"
+      },
+      {
+        "word": "threaten",
+        "toggle": "vt. 威胁；恐吓；预示",
+        "isDanger": 1,
+        "phonetic": "ˈθret(ə)n",
+        "meaning": "v. 威胁"
+      },
+      {
+        "word": "surrounding",
+        "toggle": "adj. 周围的，附近的",
+        "isDanger": 0,
+        "phonetic": "səˈraʊndɪŋ",
+        "meaning": "adj. 周围的"
+      },
+      {
+        "word": "destruction",
+        "toggle": "n. 破坏，毁灭；摧毁",
+        "isDanger": 0,
+        "phonetic": "dɪˈstrʌkʃ(ə)n",
+        "meaning": "n. 破坏，毁灭"
+      },
+      {
+        "word": "flood",
+        "toggle": "vt. 淹没；充满；溢出",
+        "isDanger": 0,
+        "phonetic": "flʌd",
+        "meaning": "n. 洪水，水灾"
+      },
+      {
+        "word": "authority",
+        "toggle": "n. 权威；权力；当局",
+        "isDanger": 0,
+        "phonetic": "ɔːˈθɒrəti",
+        "meaning": "n. （常用复数）当局"
+      },
+      {
+        "word": "grass-seed",
+        "toggle": "n.草籽",
+        "isDanger": 0,
+        "phonetic": "'gra:s'si:d",
+        "meaning": "n. 草籽"
+      },
+      {
+        "word": "spray",
+        "toggle": "n. 水沫；喷雾；喷雾器",
+        "isDanger": 0,
+        "phonetic": "spreɪ",
+        "meaning": "v. 喷撒"
+      },
+      {
+        "word": "quantity",
+        "toggle": "n. 量，数量；总量；大量",
+        "isDanger": 0,
+        "phonetic": "ˈkwɒntəti",
+        "meaning": "n. 量"
+      },
+      {
+        "word": "root",
+        "toggle": "n. 根；根源；祖先；词根",
+        "isDanger": 1,
+        "phonetic": "ruːt",
+        "meaning": "n. 根"
+      },
+      {
+        "word": "century",
+        "toggle": "n. 世纪，百年；（板球）一百分",
+        "isDanger": 0,
+        "phonetic": "ˈsentʃəri",
+        "meaning": "n. 世纪"
+      },
+      {
+        "word": "patch",
+        "toggle": "n. 眼罩；斑点；碎片；小块土地",
+        "isDanger": 0,
+        "phonetic": "pætʃ",
+        "meaning": "n. 小片"
+      },
+      {
+        "word": "blacken",
+        "toggle": "vt. 使变黑；诽谤，诋毁",
+        "isDanger": 0,
+        "phonetic": "ˈblækən",
+        "meaning": "v. 变黑，发暗"
+      }
+    ]
+  },
+  "lesson63": {
+    "words": [
+      {
+        "word": "circle",
+        "toggle": "n. 圆；圆形物；循环，周期；圈子",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːk(ə)l",
+        "meaning": "n. 圈子"
+      },
+      {
+        "word": "admire",
+        "toggle": "vt. 钦佩；赞美",
+        "isDanger": 1,
+        "phonetic": "ədˈmaɪə(r)",
+        "meaning": "v. 赞美，钦佩"
+      },
+      {
+        "word": "close",
+        "toggle": "adj. 亲密的；亲近的；紧密的",
+        "isDanger": 1,
+        "phonetic": "kləʊz",
+        "meaning": "adj. 亲密的"
+      },
+      {
+        "word": "wedding",
+        "toggle": "n. 结婚；婚礼，婚宴；结合",
+        "isDanger": 0,
+        "phonetic": "ˈwedɪŋ",
+        "meaning": "n. 婚礼"
+      },
+      {
+        "word": "reception",
+        "toggle": "n. 接待；接收；招待会；感受；反应",
+        "isDanger": 0,
+        "phonetic": "rɪˈsepʃ(ə)n",
+        "meaning": "n. 招待会"
+      },
+      {
+        "word": "sort",
+        "toggle": "n. 种类；方式；品质",
+        "isDanger": 0,
+        "phonetic": "sɔːt",
+        "meaning": "n. 种类"
+      }
+    ]
+  },
+  "lesson64": {
+    "words": [
+      {
+        "word": "tunnel",
+        "toggle": "n. 隧道；坑道；洞穴通道",
+        "isDanger": 0,
+        "phonetic": "ˈtʌn(ə)l",
+        "meaning": "n. 隧道"
+      },
+      {
+        "word": "port",
+        "toggle": "n. 港口，口岸；左舷；舱门；（计算机的）端口",
+        "isDanger": 1,
+        "phonetic": "pɔːt",
+        "meaning": "n. 港口"
+      },
+      {
+        "word": "ventilate",
+        "toggle": "vt.使通风,给...装通风设备",
+        "isDanger": 1,
+        "phonetic": "ˈventɪleɪt",
+        "meaning": "v. 通风"
+      },
+      {
+        "word": "chimney",
+        "toggle": "n. 烟囱",
+        "isDanger": 0,
+        "phonetic": "ˈtʃɪmni",
+        "meaning": "n. 烟囱"
+      },
+      {
+        "word": "sea level",
+        "toggle": "n. 海平面; ; 潮位; 海面",
+        "isDanger": 0,
+        "phonetic": "ˈsiː lev(ə)l",
+        "meaning": "n. 海平面"
+      },
+      {
+        "word": "double",
+        "toggle": "n. 两倍； [ 计 ] 双精度型",
+        "isDanger": 1,
+        "phonetic": "ˈdʌb(ə)l",
+        "meaning": "adj. 双的"
+      },
+      {
+        "word": "ventilation",
+        "toggle": "n. 空气流通；通风设备",
+        "isDanger": 0,
+        "phonetic": "ˌventɪˈleɪʃn",
+        "meaning": "n. 通风"
+      },
+      {
+        "word": "fear",
+        "toggle": "n. 害怕；担心；恐惧；敬畏",
+        "isDanger": 1,
+        "phonetic": "fɪə(r)",
+        "meaning": "v. 害怕"
+      },
+      {
+        "word": "invasion",
+        "toggle": "n. 侵犯；入侵，侵略；侵袭",
+        "isDanger": 0,
+        "phonetic": "ɪnˈveɪʒ(ə)n",
+        "meaning": "n. 入侵，侵略"
+      },
+      {
+        "word": "officially",
+        "toggle": "adv. 作为公务员；官方地；正式地",
+        "isDanger": 0,
+        "phonetic": "əˈfɪʃəli",
+        "meaning": "adv. 正式地"
+      },
+      {
+        "word": "connect",
+        "toggle": "vt. 连接；联合；关连",
+        "isDanger": 1,
+        "phonetic": "kəˈnekt",
+        "meaning": "v. 连接"
+      },
+      {
+        "word": "European",
+        "toggle": "adj. 欧洲的；欧洲人的",
+        "isDanger": 0,
+        "phonetic": "ˌjʊərəˈpiːən",
+        "meaning": "adj. 欧洲的"
+      },
+      {
+        "word": "continent",
+        "toggle": "n. 大陆，洲，陆地",
+        "isDanger": 0,
+        "phonetic": "ˈkɒntɪnənt",
+        "meaning": "n. 大陆"
+      }
+    ]
+  },
+  "lesson65": {
+    "words": [
+      {
+        "word": "versus",
+        "toggle": "prep. 对；与 ... 相对；对抗",
+        "isDanger": 0,
+        "phonetic": "ˈvɜːsəs",
+        "meaning": "prep. V.S.对 (对抗的概念)"
+      },
+      {
+        "word": "Christmas",
+        "toggle": "n. 圣诞节",
+        "isDanger": 0,
+        "phonetic": "ˈkrɪsməs",
+        "meaning": "n. 圣诞节"
+      },
+      {
+        "word": "circus",
+        "toggle": "n. 马戏团；马戏",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːkəs",
+        "meaning": "n. 马戏团"
+      },
+      {
+        "word": "present",
+        "toggle": "vt. 呈现；介绍；提出；赠送",
+        "isDanger": 1,
+        "phonetic": "ˈprez(ə)nt",
+        "meaning": "n. 礼物"
+      },
+      {
+        "word": "accompany",
+        "toggle": "vt. 陪伴，伴随；伴奏",
+        "isDanger": 1,
+        "phonetic": "əˈkʌmpəni",
+        "meaning": "v. 陪伴, 随行"
+      },
+      {
+        "word": "approach",
+        "toggle": "n. 接近；方法；途径",
+        "isDanger": 0,
+        "phonetic": "əˈprəʊtʃ",
+        "meaning": "v. 走近"
+      },
+      {
+        "word": "ought",
+        "toggle": "aux. 应该，应当；大概",
+        "isDanger": 1,
+        "phonetic": "ɔːt",
+        "meaning": "v. 应该"
+      },
+      {
+        "word": "weigh",
+        "toggle": "vt. 权衡；考虑；称 … 重量",
+        "isDanger": 0,
+        "phonetic": "weɪ",
+        "meaning": "v. 重"
+      },
+      {
+        "word": "fortunate",
+        "toggle": "adj. 幸运的；侥幸的；带来幸运的；吉祥的",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːtʃənət",
+        "meaning": "adj. 幸运的"
+      }
+    ]
+  },
+  "lesson66": {
+    "words": [
+      {
+        "word": "Lancaster",
+        "toggle": "n.兰喀斯特式（飞）机",
+        "isDanger": 0,
+        "phonetic": "ˈlæŋkəstə(r)",
+        "meaning": "n. 兰开斯特"
+      },
+      {
+        "word": "bomber",
+        "toggle": "n. 轰炸机；投弹手",
+        "isDanger": 0,
+        "phonetic": "ˈbɒmə(r)",
+        "meaning": "n. 轰炸机"
+      },
+      {
+        "word": "remote",
+        "toggle": "adj. 遥远的；偏僻的；疏远的",
+        "isDanger": 0,
+        "phonetic": "rɪˈməʊt",
+        "meaning": "adj. 偏僻的"
+      },
+      {
+        "word": "Pacific",
+        "toggle": "n. 太平洋",
+        "isDanger": 0,
+        "phonetic": "pəˈsɪfɪk",
+        "meaning": "n. 太平洋"
+      },
+      {
+        "word": "damage",
+        "toggle": "vi. 损害；损毁；赔偿金",
+        "isDanger": 0,
+        "phonetic": "ˈdæmɪdʒ",
+        "meaning": "v. 毁坏"
+      },
+      {
+        "word": "wreck",
+        "toggle": "n. 失事；残骸；破坏； [ 口 ] 失去健康的人",
+        "isDanger": 1,
+        "phonetic": "rek",
+        "meaning": "n. 残骸"
+      },
+      {
+        "word": "rediscover",
+        "toggle": "vt. 重新发现；再发现",
+        "isDanger": 0,
+        "phonetic": "ˌriːdɪˈskʌvə(r)",
+        "meaning": "v. 重新发现"
+      },
+      {
+        "word": "aerial",
+        "toggle": "adj. 空气的；空中的，航空的；空想的",
+        "isDanger": 0,
+        "phonetic": "ˈeəriəl",
+        "meaning": "adj. 航空的"
+      },
+      {
+        "word": "survey",
+        "toggle": "n. 调查；测量；纵览；审视",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːveɪ",
+        "meaning": "n. 调查"
+      },
+      {
+        "word": "rescue",
+        "toggle": "vt. 营救；援救",
+        "isDanger": 0,
+        "phonetic": "ˈreskjuː",
+        "meaning": "v. 营救（＝save）"
+      },
+      {
+        "word": "package",
+        "toggle": "n. 包，包裹；套装软件，程序包",
+        "isDanger": 1,
+        "phonetic": "ˈpækɪdʒ",
+        "meaning": "v. 把……打包"
+      },
+      {
+        "word": "enthusiast",
+        "toggle": "n. 狂热者，热心家",
+        "isDanger": 0,
+        "phonetic": "ɪnˈθjuːziæst",
+        "meaning": "n. 热心人"
+      },
+      {
+        "word": "restore",
+        "toggle": "vt. 修复；恢复；归还",
+        "isDanger": 1,
+        "phonetic": "rɪˈstɔː(r)",
+        "meaning": "v. 修复（修并且复原,如对艺术品的修复）"
+      },
+      {
+        "word": "imagine",
+        "toggle": "vt. 想像；猜想；臆断",
+        "isDanger": 1,
+        "phonetic": "ɪˈmædʒɪn",
+        "meaning": "v. 想像"
+      },
+      {
+        "word": "packing case",
+        "toggle": "n. 装运货物的箱子",
+        "isDanger": 0,
+        "phonetic": "ˈpækɪŋ keɪs",
+        "meaning": "n. 包装箱"
+      },
+      {
+        "word": "colony",
+        "toggle": "n. 殖民地；移民队",
+        "isDanger": 0,
+        "phonetic": "ˈkɒləni",
+        "meaning": "n. 群"
+      },
+      {
+        "word": "bee",
+        "toggle": "n. 蜜蜂，蜂；勤劳的人(as busy as a bee)",
+        "isDanger": 0,
+        "phonetic": "biː",
+        "meaning": "n. 蜂"
+      },
+      {
+        "word": "hive",
+        "toggle": "vi. 群居；入蜂房；生活在蜂房中",
+        "isDanger": 0,
+        "phonetic": "haɪv",
+        "meaning": "n. 蜂房"
+      },
+      {
+        "word": "preserve",
+        "toggle": "vt. 保存；保护；维持；禁猎；腌",
+        "isDanger": 1,
+        "phonetic": "prɪˈzɜːv",
+        "meaning": "v. 保护"
+      },
+      {
+        "word": "beeswax",
+        "toggle": "n.蜂蜡 vt.上蜂蜡",
+        "isDanger": 0,
+        "phonetic": "ˈbiːzwæks",
+        "meaning": "n. 蜂蜡"
+      }
+    ]
+  },
+  "lesson67": {
+    "words": [
+      {
+        "word": "volcano",
+        "toggle": "n. 火山",
+        "isDanger": 0,
+        "phonetic": "vɒlˈkeɪnəʊ",
+        "meaning": "n. 火山"
+      },
+      {
+        "word": "active",
+        "toggle": "adj. 主动的；有效的；积极的；活跃的；现役的",
+        "isDanger": 1,
+        "phonetic": "ˈæktɪv",
+        "meaning": "adj. 活动的"
+      },
+      {
+        "word": "Kivu",
+        "toggle": "基伍（湖）（位于刚果民主共和国与卢旺达的边界）",
+        "isDanger": 0,
+        "phonetic": "'ki:vu:",
+        "meaning": "n. 基伍湖"
+      },
+      {
+        "word": "congo",
+        "toggle": "n. 工夫茶（一种中国红茶）",
+        "isDanger": 0,
+        "phonetic": "ˈkɒŋɡəʊ",
+        "meaning": "n. 刚果"
+      },
+      {
+        "word": "Kituro",
+        "toggle": "n. 基图罗（火山名）",
+        "isDanger": 0,
+        "phonetic": "ki'tu:rəu",
+        "meaning": "n. 基图罗"
+      },
+      {
+        "word": "erupt",
+        "toggle": "vi. 爆发；喷出；发疹；长牙",
+        "isDanger": 0,
+        "phonetic": "ɪˈrʌpt",
+        "meaning": "v. （火山）喷发"
+      },
+      {
+        "word": "violently",
+        "toggle": "adv. 猛烈地，激烈地；极端地",
+        "isDanger": 0,
+        "phonetic": "ˈvaɪələntli",
+        "meaning": "adv. 猛烈地，剧烈地"
+      },
+      {
+        "word": "manage",
+        "toggle": "vt. 管理；经营；设法；控制",
+        "isDanger": 1,
+        "phonetic": "ˈmænɪdʒ",
+        "meaning": "v. 设法"
+      },
+      {
+        "word": "brilliant",
+        "toggle": "adj. 灿烂的，闪耀的；杰出的；有才气的",
+        "isDanger": 0,
+        "phonetic": "ˈbrɪliənt",
+        "meaning": "adj. 精彩的"
+      },
+      {
+        "word": "liquid",
+        "toggle": "adj. 液体的；清澈的；明亮的；易变的",
+        "isDanger": 0,
+        "phonetic": "ˈlɪkwɪd",
+        "meaning": "adj. 液态的；n. 液体"
+      },
+      {
+        "word": "escape",
+        "toggle": "vt. 逃避，避免；被忘掉",
+        "isDanger": 1,
+        "phonetic": "ɪˈskeɪp",
+        "meaning": "v. 逃脱"
+      },
+      {
+        "word": "alive",
+        "toggle": "adj. 活着的；活泼的；有生气的",
+        "isDanger": 0,
+        "phonetic": "əˈlaɪv",
+        "meaning": "adj. 活着的"
+      }
+    ]
+  },
+  "lesson68": {
+    "words": [
+      {
+        "word": "persistent",
+        "toggle": "adj. 固执的，坚持的；持久稳固的",
+        "isDanger": 1,
+        "phonetic": "pəˈsɪstənt",
+        "meaning": "adj. 坚持的，固执的"
+      },
+      {
+        "word": "avoid",
+        "toggle": "vt. 避免；避开，躲避；消除",
+        "isDanger": 0,
+        "phonetic": "əˈvɔɪd",
+        "meaning": "v. 避开"
+      },
+      {
+        "word": "insist",
+        "toggle": "vt. 坚持，强调",
+        "isDanger": 1,
+        "phonetic": "ɪnˈsɪst",
+        "meaning": "v. 坚持做"
+      }
+    ]
+  },
+  "lesson69": {
+    "words": [
+      {
+        "word": "murder",
+        "toggle": "vt. 谋杀，凶杀",
+        "isDanger": 0,
+        "phonetic": "ˈmɜːdə(r)",
+        "meaning": "n. 谋杀"
+      },
+      {
+        "word": "instruct",
+        "toggle": "vt. 命令；教授；指导；通知",
+        "isDanger": 1,
+        "phonetic": "ɪnˈstrʌkt",
+        "meaning": "v. 命令，指示"
+      },
+      {
+        "word": "acquire",
+        "toggle": "vt. 获得；学到；取得；捕获",
+        "isDanger": 0,
+        "phonetic": "əˈkwaɪə(r)",
+        "meaning": "v. 取得，获得"
+      },
+      {
+        "word": "confidence",
+        "toggle": "n. 信心；信任；秘密",
+        "isDanger": 0,
+        "phonetic": "ˈkɒnfɪdəns",
+        "meaning": "n. 信心"
+      },
+      {
+        "word": "examiner",
+        "toggle": "n. 主考人；检验员；审查员",
+        "isDanger": 0,
+        "phonetic": "ɪɡˈzæmɪnə(r)",
+        "meaning": "n. 主考人"
+      },
+      {
+        "word": "suppose",
+        "toggle": "vt. 假设；认为；推想；让（虚拟语气）",
+        "isDanger": 1,
+        "phonetic": "səˈpəʊz",
+        "meaning": "v. 假设"
+      },
+      {
+        "word": "tap",
+        "toggle": "vt. 轻敲；轻打；装上嘴子",
+        "isDanger": 0,
+        "phonetic": "tæp",
+        "meaning": "v. 轻敲"
+      },
+      {
+        "word": "react",
+        "toggle": "vi. 反应；影响；反抗；起反作用",
+        "isDanger": 1,
+        "phonetic": "riˈækt",
+        "meaning": "v. 反应"
+      },
+      {
+        "word": "brake",
+        "toggle": "vi. 刹车",
+        "isDanger": 0,
+        "phonetic": "breɪk",
+        "meaning": "n. 刹车"
+      },
+      {
+        "word": "pedal",
+        "toggle": "vi. 踩踏板；骑车",
+        "isDanger": 0,
+        "phonetic": "ˈped(ə)l",
+        "meaning": "n. 踏板"
+      },
+      {
+        "word": "mournful",
+        "toggle": "adj. 悲哀的；令人惋惜的",
+        "isDanger": 0,
+        "phonetic": "ˈmɔːnf(ə)l",
+        "meaning": "adj. 悲哀的"
+      }
+    ]
+  },
+  "lesson70": {
+    "words": [
+      {
+        "word": "bullfight",
+        "toggle": "n.斗牛(流行于西班牙和南美)",
+        "isDanger": 0,
+        "phonetic": "ˈbʊlfaɪt",
+        "meaning": "n. 斗牛"
+      },
+      {
+        "word": "drunk",
+        "toggle": "v. 喝酒（ drink 的过去分词）",
+        "isDanger": 0,
+        "phonetic": "drʌŋk",
+        "meaning": "n. 醉汉"
+      },
+      {
+        "word": "wander",
+        "toggle": "vi. 徘徊；漫步；离题；迷路",
+        "isDanger": 0,
+        "phonetic": "ˈwɒndə(r)",
+        "meaning": "v. 溜达，乱走"
+      },
+      {
+        "word": "ring",
+        "toggle": "vi. 按铃；敲钟；回响；成环形",
+        "isDanger": 1,
+        "phonetic": "rɪŋ",
+        "meaning": "n. 圆形竞技场地"
+      },
+      {
+        "word": "unaware",
+        "toggle": "adj. 不知道的，无意的；未察觉到的",
+        "isDanger": 0,
+        "phonetic": "ˌʌnəˈweə(r)",
+        "meaning": "adj. 不知道的，未觉察的"
+      },
+      {
+        "word": "bull",
+        "toggle": "n. 公牛；看好股市者；粗壮如牛的人； [ 俚 ] 胡说八道；印玺",
+        "isDanger": 0,
+        "phonetic": "bʊl",
+        "meaning": "n. 公牛"
+      },
+      {
+        "word": "matador",
+        "toggle": "n.斗牛士",
+        "isDanger": 0,
+        "phonetic": "ˈmætədɔː(r)",
+        "meaning": "n. 斗牛士"
+      },
+      {
+        "word": "remark",
+        "toggle": "n. 言辞；注意",
+        "isDanger": 1,
+        "phonetic": "rɪˈmɑːk",
+        "meaning": "n. 评论；言语"
+      },
+      {
+        "word": "apparently",
+        "toggle": "adv. 显然地；似乎，表面上",
+        "isDanger": 0,
+        "phonetic": "əˈpærəntli",
+        "meaning": "adv. 明显地"
+      },
+      {
+        "word": "sensitive",
+        "toggle": "adj. 敏感的；感光的；灵敏的；易受伤害的",
+        "isDanger": 0,
+        "phonetic": "ˈsensətɪv",
+        "meaning": "adj. 敏感的"
+      },
+      {
+        "word": "criticism",
+        "toggle": "n. 批评；苛求；考证",
+        "isDanger": 0,
+        "phonetic": "ˈkrɪtɪsɪzəm",
+        "meaning": "n. 批评"
+      },
+      {
+        "word": "charge",
+        "toggle": "n. 费用；掌管；控告；负载；电荷；命令",
+        "isDanger": 1,
+        "phonetic": "tʃɑːdʒ",
+        "meaning": "v. 冲上去"
+      },
+      {
+        "word": "clumsily",
+        "toggle": "adv. 笨拙地；粗陋地",
+        "isDanger": 0,
+        "phonetic": "ˈklʌmzɪli",
+        "meaning": "adv. 笨拙地"
+      },
+      {
+        "word": "bow",
+        "toggle": "n. 弓；鞠躬；船首",
+        "isDanger": 0,
+        "phonetic": "bəʊ",
+        "meaning": "v. 鞠躬"
+      },
+      {
+        "word": "safety",
+        "toggle": "n. 安全；保险；安全设备；保险装置；安打",
+        "isDanger": 0,
+        "phonetic": "ˈseɪfti",
+        "meaning": "n. 安全地带"
+      },
+      {
+        "word": "sympathetically",
+        "toggle": "adv. 悲怜地，怜悯地；富有同情心地",
+        "isDanger": 0,
+        "phonetic": "ˌsɪmpəˈθetɪkli",
+        "meaning": "adv. 同情地"
+      }
+    ]
+  },
+  "lesson71": {
+    "words": [
+      {
+        "word": "parliament",
+        "toggle": "n. 议会，国会",
+        "isDanger": 0,
+        "phonetic": "ˈpɑːləmənt",
+        "meaning": "n. 议会，国会"
+      },
+      {
+        "word": "erect",
+        "toggle": "vt. 使竖立；建造；安装",
+        "isDanger": 0,
+        "phonetic": "ɪˈrekt",
+        "meaning": "v. 建起"
+      },
+      {
+        "word": "accurate",
+        "toggle": "adj. 精确的",
+        "isDanger": 0,
+        "phonetic": "ˈækjərət",
+        "meaning": "adj. 准确的"
+      },
+      {
+        "word": "official",
+        "toggle": "adj. 正式的；官方的；公务的",
+        "isDanger": 0,
+        "phonetic": "əˈfɪʃ(ə)l",
+        "meaning": "n. 官员，行政人员"
+      },
+      {
+        "word": "Greenwich",
+        "toggle": "n.格林威治(位于英国伦敦东南部,为本初子午线所经之地,原设有英国皇家格林威治天文台),格林威治镇(位于美国康涅狄格州)",
+        "isDanger": 0,
+        "phonetic": "ˈɡrenɪtʃ",
+        "meaning": "n. 格林尼治"
+      },
+      {
+        "word": "observatory",
+        "toggle": "n. 瞭望台；气象台；天文台",
+        "isDanger": 0,
+        "phonetic": "əbˈzɜːvətri",
+        "meaning": "n. 天文台"
+      },
+      {
+        "word": "check",
+        "toggle": "vi. 证明无误；核对无误；将军（象棋）",
+        "isDanger": 0,
+        "phonetic": "tʃek",
+        "meaning": "v. 检查"
+      },
+      {
+        "word": "microphone",
+        "toggle": "n. 扩音器，麦克风",
+        "isDanger": 0,
+        "phonetic": "ˈmaɪkrəfəʊn",
+        "meaning": "n. 扩音器，麦克风"
+      },
+      {
+        "word": "tower",
+        "toggle": "n. 塔；高楼；堡垒",
+        "isDanger": 0,
+        "phonetic": "ˈtaʊə(r)",
+        "meaning": "v. 塔"
+      }
+    ]
+  },
+  "lesson72": {
+    "words": [
+      {
+        "word": "racing",
+        "toggle": "n. 竞赛；赛马",
+        "isDanger": 0,
+        "phonetic": "ˈreɪsɪŋ",
+        "meaning": "n. 竞赛"
+      },
+      {
+        "word": "per",
+        "toggle": "prep. 每；每一；经；按照",
+        "isDanger": 0,
+        "phonetic": "pə(r)",
+        "meaning": "prep. 每"
+      },
+      {
+        "word": "Utah",
+        "toggle": "n.犹他州(略作Ut.,UT)",
+        "isDanger": 0,
+        "phonetic": "ˈjuːtɑː",
+        "meaning": "n. 犹他（美国州名）"
+      },
+      {
+        "word": "horsepower",
+        "toggle": "n. 马力（功率单位）",
+        "isDanger": 0,
+        "phonetic": "ˈhɔːspaʊə(r)",
+        "meaning": "n. 马力"
+      },
+      {
+        "word": "burst",
+        "toggle": "vi. 爆炸；爆发，突发",
+        "isDanger": 0,
+        "phonetic": "bɜːst",
+        "meaning": "v. 爆裂"
+      },
+      {
+        "word": "average",
+        "toggle": "n. 平均；平均数； [ 商 ] 海损",
+        "isDanger": 0,
+        "phonetic": "ˈævərɪdʒ",
+        "meaning": "adj. 平均的"
+      },
+      {
+        "word": "footstep",
+        "toggle": "n. 脚步声；脚步；足迹",
+        "isDanger": 0,
+        "phonetic": "ˈfʊtstep",
+        "meaning": "n. 足迹"
+      }
+    ]
+  },
+  "lesson73": {
+    "words": [
+      {
+        "word": "record-holder",
+        "toggle": "n. 记录保持者，保持最高记录者",
+        "isDanger": 0,
+        "phonetic": "ˈrekɔːd həʊldə(r)",
+        "meaning": "n. 纪录保持者"
+      },
+      {
+        "word": "truant",
+        "toggle": "n.逃避者adj.逃避",
+        "isDanger": 0,
+        "phonetic": "ˈtruːənt",
+        "meaning": "n. 逃学的孩子"
+      },
+      {
+        "word": "hitchhike",
+        "toggle": "vt. 要求（搭便车）",
+        "isDanger": 0,
+        "phonetic": "ˈhɪtʃhaɪk",
+        "meaning": "v. 搭便车旅行"
+      },
+      {
+        "word": "meantime",
+        "toggle": "n. 其时，其间",
+        "isDanger": 1,
+        "phonetic": "ˈmiːntaɪm",
+        "meaning": "n. 其间"
+      },
+      {
+        "word": "lorry",
+        "toggle": "n.<古>卡车,铁路货车",
+        "isDanger": 0,
+        "phonetic": "ˈlɒri",
+        "meaning": "n. 卡车"
+      },
+      {
+        "word": "border",
+        "toggle": "n. 边界；边境；国界",
+        "isDanger": 0,
+        "phonetic": "ˈbɔːdə(r)",
+        "meaning": "n. 边界"
+      },
+      {
+        "word": "evade",
+        "toggle": "vt. 逃避；规避；逃脱",
+        "isDanger": 1,
+        "phonetic": "ɪˈveɪd",
+        "meaning": "v. 逃避，逃离"
+      },
+      {
+        "word": "unimaginative",
+        "toggle": "adj.缺乏想象力的,无趣的",
+        "isDanger": 0,
+        "phonetic": "ˌʌnɪˈmædʒɪnətɪv",
+        "meaning": "adj. 缺乏想像力的"
+      },
+      {
+        "word": "shame",
+        "toggle": "n. 羞耻，羞愧；憾事，带来耻辱的人",
+        "isDanger": 0,
+        "phonetic": "ʃeɪm",
+        "meaning": "n. 惭愧，羞耻"
+      }
+    ]
+  },
+  "lesson74": {
+    "words": [
+      {
+        "word": "limelight",
+        "toggle": "n. 石灰光，石灰光灯；众人注目的中心",
+        "isDanger": 0,
+        "phonetic": "ˈlaɪmlaɪt",
+        "meaning": "n. 舞台灯光"
+      },
+      {
+        "word": "precaution",
+        "toggle": "n. 预防，警惕；预防措施",
+        "isDanger": 0,
+        "phonetic": "prɪˈkɔːʃ(ə)n",
+        "meaning": "n. 预防措施"
+      },
+      {
+        "word": "fan",
+        "toggle": "vt. 煽动；吹拂；刺激",
+        "isDanger": 0,
+        "phonetic": "fæn",
+        "meaning": "n. 狂热者，迷"
+      },
+      {
+        "word": "shady",
+        "toggle": "adj. 成荫的；阴暗的；名声不好的",
+        "isDanger": 0,
+        "phonetic": "ˈʃeɪdi",
+        "meaning": "adj. 遮荫的"
+      },
+      {
+        "word": "sheriff",
+        "toggle": "n. 州长；郡治安官；执行吏",
+        "isDanger": 0,
+        "phonetic": "ˈʃerɪf",
+        "meaning": "n. 司法长官"
+      },
+      {
+        "word": "notice",
+        "toggle": "n. 通知，布告；注意；公告",
+        "isDanger": 1,
+        "phonetic": "ˈnəʊtɪs",
+        "meaning": "n. 告示"
+      },
+      {
+        "word": "sneer",
+        "toggle": "vi. 嘲笑，冷笑",
+        "isDanger": 0,
+        "phonetic": "snɪə(r)",
+        "meaning": "n. 冷笑"
+      }
+    ]
+  },
+  "lesson75": {
+    "words": [
+      {
+        "word": "thick",
+        "toggle": "n. 最拥挤部份；活动最多部份；事物的粗大浓密部份",
+        "isDanger": 0,
+        "phonetic": "θɪk",
+        "meaning": "adj. 厚的"
+      },
+      {
+        "word": "signal",
+        "toggle": "n. 信号；暗号；导火线",
+        "isDanger": 1,
+        "phonetic": "ˈsɪɡnəl",
+        "meaning": "n. 信号"
+      },
+      {
+        "word": "stamp",
+        "toggle": "n. 邮票；印记；跺脚；标志",
+        "isDanger": 0,
+        "phonetic": "stæmp",
+        "meaning": "v. 跺，踩"
+      },
+      {
+        "word": "helicopter",
+        "toggle": "n. 直升飞机",
+        "isDanger": 0,
+        "phonetic": "ˈhelɪkɒptə(r)",
+        "meaning": "n. 直升飞机"
+      },
+      {
+        "word": "scene",
+        "toggle": "n. 情景；景象；场面；事件",
+        "isDanger": 0,
+        "phonetic": "siːn",
+        "meaning": "n. 现场"
+      },
+      {
+        "word": "survivor",
+        "toggle": "n. 生还者；幸存者；残存物",
+        "isDanger": 0,
+        "phonetic": "səˈvaɪvə(r)",
+        "meaning": "n. 幸存者"
+      }
+    ]
+  },
+  "lesson76": {
+    "words": [
+      {
+        "word": "fool",
+        "toggle": "vi. 开玩笑；欺骗；戏弄",
+        "isDanger": 0,
+        "phonetic": "fuːl",
+        "meaning": "n. 傻瓜"
+      },
+      {
+        "word": "bulletin",
+        "toggle": "n. 公告，公报",
+        "isDanger": 0,
+        "phonetic": "ˈbʊlətɪn",
+        "meaning": "n. 新闻简报"
+      },
+      {
+        "word": "announcer",
+        "toggle": "n. 广播员；宣告者",
+        "isDanger": 0,
+        "phonetic": "əˈnaʊnsə(r)",
+        "meaning": "n. （电视、电台）播音员"
+      },
+      {
+        "word": "macaroni",
+        "toggle": "n.[食]通心面,纨绔子弟",
+        "isDanger": 0,
+        "phonetic": "ˌmækəˈrəʊni",
+        "meaning": "n. 通心面，空心面条"
+      },
+      {
+        "word": "leading",
+        "toggle": "adj. 主要的；领导的",
+        "isDanger": 0,
+        "phonetic": "ˈliːdɪŋ",
+        "meaning": "adj. 主要的"
+      },
+      {
+        "word": "grower",
+        "toggle": "n. 栽培者；生长物",
+        "isDanger": 0,
+        "phonetic": "ˈɡrəʊə(r)",
+        "meaning": "n. 种植者"
+      },
+      {
+        "word": "splendid",
+        "toggle": "adj. 辉煌的；极好的；灿烂的；杰出的",
+        "isDanger": 0,
+        "phonetic": "ˈsplendɪd",
+        "meaning": "adj. 极好的"
+      },
+      {
+        "word": "stalk",
+        "toggle": "n. （植物的）茎，秆；（支持叶子、果实和花的）梗，柄；追踪；高视阔步",
+        "isDanger": 0,
+        "phonetic": "stɔːk",
+        "meaning": "n. 梗"
+      },
+      {
+        "word": "gather",
+        "toggle": "vt. 收集；使 … 聚集；收割；使 … 皱起",
+        "isDanger": 1,
+        "phonetic": "ˈɡæðə(r)",
+        "meaning": "v. 收庄稼"
+      },
+      {
+        "word": "thresh",
+        "toggle": "vt.脱粒,反复的打击,翻滚,反复做,推敲vi.打谷,打,颠簸",
+        "isDanger": 0,
+        "phonetic": "θreʃ",
+        "meaning": "v. 打（庄稼）"
+      },
+      {
+        "word": "process",
+        "toggle": "vt. 处理；加工",
+        "isDanger": 1,
+        "phonetic": "ˈprəʊses",
+        "meaning": "v. 加工"
+      },
+      {
+        "word": "Signor",
+        "toggle": "n.阁下,君,Signori 或Signors 先生",
+        "isDanger": 0,
+        "phonetic": "ˈsiːnjɔː(r)",
+        "meaning": "n. （意大利语）先生"
+      },
+      {
+        "word": "present",
+        "toggle": "vt. 呈现；介绍；提出；赠送",
+        "isDanger": 1,
+        "phonetic": "ˈprez(ə)nt",
+        "meaning": "adj. 目前的"
+      },
+      {
+        "word": "champion",
+        "toggle": "n. 冠军；拥护者；战士",
+        "isDanger": 0,
+        "phonetic": "ˈtʃæmpiən",
+        "meaning": "n. 冠军"
+      },
+      {
+        "word": "studio",
+        "toggle": "n. 工作室；演播室；画室；电影制片厂",
+        "isDanger": 0,
+        "phonetic": "ˈstjuːdiəʊ",
+        "meaning": "n. 播音室"
+      }
+    ]
+  },
+  "lesson77": {
+    "words": [
+      {
+        "word": "mummy",
+        "toggle": "n. 木乃伊；干瘪的人； [ 口 ] 妈妈",
+        "isDanger": 0,
+        "phonetic": "ˈmʌmi",
+        "meaning": "n. 木乃伊"
+      },
+      {
+        "word": "Egyptian",
+        "toggle": "adj. 埃及的；埃及人的",
+        "isDanger": 0,
+        "phonetic": "iˈdʒɪpʃn",
+        "meaning": "adj. 埃及的"
+      },
+      {
+        "word": "temple",
+        "toggle": "n. 庙宇；寺院；神殿；太阳穴",
+        "isDanger": 0,
+        "phonetic": "ˈtemp(ə)l",
+        "meaning": "n. 庙"
+      },
+      {
+        "word": "mark",
+        "toggle": "n. 马克；符号；痕迹；标志",
+        "isDanger": 1,
+        "phonetic": "mɑːk",
+        "meaning": "n. 斑点"
+      },
+      {
+        "word": "plate",
+        "toggle": "n. 金属板；碟；金属牌；感光底片",
+        "isDanger": 1,
+        "phonetic": "pleɪt",
+        "meaning": "n. （照相）底片"
+      },
+      {
+        "word": "disease",
+        "toggle": "n. 病，疾病；弊病",
+        "isDanger": 0,
+        "phonetic": "dɪˈziːz",
+        "meaning": "n. 疾病"
+      },
+      {
+        "word": "last",
+        "toggle": "n. 末尾，最后；上个；鞋楦（做鞋的模型）",
+        "isDanger": 1,
+        "phonetic": "lɑːst",
+        "meaning": "v. 持续"
+      },
+      {
+        "word": "prove",
+        "toggle": "vt. 证明；检验；显示",
+        "isDanger": 1,
+        "phonetic": "pruːv",
+        "meaning": "v. 显示出"
+      },
+      {
+        "word": "resin",
+        "toggle": "n. 树脂；松香",
+        "isDanger": 0,
+        "phonetic": "ˈrezɪn",
+        "meaning": "n. 树脂"
+      },
+      {
+        "word": "skin",
+        "toggle": "n. 皮肤；外皮",
+        "isDanger": 1,
+        "phonetic": "skɪn",
+        "meaning": "n. 皮肤"
+      },
+      {
+        "word": "section",
+        "toggle": "n. 章节；地区；截面；部门",
+        "isDanger": 0,
+        "phonetic": "ˈsekʃ(ə)n",
+        "meaning": "n. 切片"
+      },
+      {
+        "word": "figure",
+        "toggle": "n. 图形；数字；（人的）体形；人物；画像；价格",
+        "isDanger": 0,
+        "phonetic": "ˈfɪɡə(r)",
+        "meaning": "n. （人的）体形；人像"
+      },
+      {
+        "word": "normally",
+        "toggle": "adv. 正常地；通常地，一般地",
+        "isDanger": 0,
+        "phonetic": "ˈnɔːməli",
+        "meaning": "adv. 通常地"
+      },
+      {
+        "word": "survive",
+        "toggle": "vt. 比 ... 活得长；幸免于；幸存；生还",
+        "isDanger": 0,
+        "phonetic": "səˈvaɪv",
+        "meaning": "v. 幸免于"
+      }
+    ]
+  },
+  "lesson78": {
+    "words": [
+      {
+        "word": "entitle",
+        "toggle": "vt. 称做 … ；定名为 … ；给 … 称号；使 … 有权利",
+        "isDanger": 0,
+        "phonetic": "ɪnˈtaɪt(ə)l",
+        "meaning": "v. 以……为名"
+      },
+      {
+        "word": "calm",
+        "toggle": "adj. 静的，平静的；沉着的",
+        "isDanger": 1,
+        "phonetic": "kɑːm",
+        "meaning": "v. 使镇定"
+      },
+      {
+        "word": "nerve",
+        "toggle": "n. 神经；勇气； [ 植 ] 叶脉",
+        "isDanger": 1,
+        "phonetic": "nɜːv",
+        "meaning": "n. 神经"
+      },
+      {
+        "word": "concentration",
+        "toggle": "n. 集中；浓度；专心；集合；浓缩",
+        "isDanger": 0,
+        "phonetic": "ˌkɒns(ə)nˈtreɪʃ(ə)",
+        "meaning": "n. 集中，专心"
+      },
+      {
+        "word": "suffer",
+        "toggle": "vt. 忍受；遭受；经历",
+        "isDanger": 1,
+        "phonetic": "ˈsʌfə(r)",
+        "meaning": "v. 受苦，受害"
+      },
+      {
+        "word": "symptom",
+        "toggle": "n. 征兆；症状",
+        "isDanger": 0,
+        "phonetic": "ˈsɪmptəm",
+        "meaning": "n. 症状"
+      },
+      {
+        "word": "temper",
+        "toggle": "n. 脾气；（钢等）回火；性情；倾向",
+        "isDanger": 1,
+        "phonetic": "ˈtempə(r)",
+        "meaning": "n. 脾气"
+      },
+      {
+        "word": "appetite",
+        "toggle": "n. 食欲；嗜好",
+        "isDanger": 0,
+        "phonetic": "ˈæpɪtaɪt",
+        "meaning": "n. 胃口，食欲"
+      },
+      {
+        "word": "produce",
+        "toggle": "vt. 生产；引起；创作",
+        "isDanger": 0,
+        "phonetic": "prəˈdjuːs",
+        "meaning": "v. 拿出"
+      },
+      {
+        "word": "urge",
+        "toggle": "vt. 力劝，催促；驱策，推进",
+        "isDanger": 0,
+        "phonetic": "ɜːdʒ",
+        "meaning": "v. 力劝，怂恿"
+      },
+      {
+        "word": "satisfaction",
+        "toggle": "n. 满意，满足；赔偿；乐事； [ 宗 ] 赎罪",
+        "isDanger": 0,
+        "phonetic": "ˌsætɪsˈfækʃ(ə)n",
+        "meaning": "n. 满意，满足"
+      },
+      {
+        "word": "delighted",
+        "toggle": "adj. 欣喜的；高兴的",
+        "isDanger": 0,
+        "phonetic": "dɪˈlaɪtɪd",
+        "meaning": "adj. 欣喜的"
+      }
+    ]
+  },
+  "lesson79": {
+    "words": [
+      {
+        "word": "parent",
+        "toggle": "n. 父母亲；父亲（或母亲）；根源",
+        "isDanger": 0,
+        "phonetic": "ˈpeərənt",
+        "meaning": "n. 父（母）亲"
+      },
+      {
+        "word": "flight attendant",
+        "toggle": "n. 飞行服务员",
+        "isDanger": 0,
+        "phonetic": "ˈflaɪt əˈtendənt",
+        "meaning": "n. 空中乘务员"
+      },
+      {
+        "word": "frightened",
+        "toggle": "adj. 受惊的；受恐吓的；害怕的",
+        "isDanger": 0,
+        "phonetic": "ˈfraɪt(ə)nd",
+        "meaning": "adj. 害怕，担惊"
+      },
+      {
+        "word": "curious",
+        "toggle": "adj. 好奇的，有求知欲的；古怪的；爱挑剔的",
+        "isDanger": 0,
+        "phonetic": "ˈkjʊəriəs",
+        "meaning": "adj. 急于了解，好奇的"
+      },
+      {
+        "word": "bomb",
+        "toggle": "vt. 轰炸，投弹于",
+        "isDanger": 0,
+        "phonetic": "bɒm",
+        "meaning": "n. 炸弹"
+      },
+      {
+        "word": "plant",
+        "toggle": "n. 工厂，车间；植物；庄稼；设备",
+        "isDanger": 1,
+        "phonetic": "plɑːnt",
+        "meaning": "v. 安放"
+      }
+    ]
+  },
+  "lesson80": {
+    "words": [
+      {
+        "word": "palace",
+        "toggle": "n. 宫殿；豪华住宅；宅邸",
+        "isDanger": 0,
+        "phonetic": "ˈpæləs",
+        "meaning": "n. 宫殿"
+      },
+      {
+        "word": "extraordinary",
+        "toggle": "adj. 特别的；非凡的；特派的；离奇的；临时的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈstrɔːd(ə)n(ə)ri",
+        "meaning": "adj. 不平常的，非凡的"
+      },
+      {
+        "word": "exhibition",
+        "toggle": "n. 展览，显示；展览会；展览品",
+        "isDanger": 0,
+        "phonetic": "ˌeksɪˈbɪʃ(ə)n",
+        "meaning": "n. 展览"
+      },
+      {
+        "word": "iron",
+        "toggle": "n. 熨斗；坚强；烙铁",
+        "isDanger": 0,
+        "phonetic": "ˈaɪən",
+        "meaning": "n. 铁"
+      },
+      {
+        "word": "various",
+        "toggle": "adj. 各种各样的；多方面的",
+        "isDanger": 0,
+        "phonetic": "ˈveəriəs",
+        "meaning": "adj. 各种各样的"
+      },
+      {
+        "word": "machinery",
+        "toggle": "n. 机械；机器；机构；机械装置",
+        "isDanger": 0,
+        "phonetic": "məˈʃiːnəri",
+        "meaning": "n. 机器"
+      },
+      {
+        "word": "display",
+        "toggle": "n. 显示；炫耀",
+        "isDanger": 0,
+        "phonetic": "dɪˈspleɪ",
+        "meaning": "n. 展览"
+      },
+      {
+        "word": "steam",
+        "toggle": "vt. 蒸，散发；用蒸汽处理",
+        "isDanger": 0,
+        "phonetic": "stiːm",
+        "meaning": "n. 蒸汽"
+      },
+      {
+        "word": "profit",
+        "toggle": "n. 利润；利益",
+        "isDanger": 0,
+        "phonetic": "ˈprɒfɪt",
+        "meaning": "n. 利润"
+      },
+      {
+        "word": "college",
+        "toggle": "n. 学院；学会；大学",
+        "isDanger": 0,
+        "phonetic": "ˈkɒlɪdʒ",
+        "meaning": "n. 学院"
+      }
+    ]
+  },
+  "lesson81": {
+    "words": [
+      {
+        "word": "prisoner",
+        "toggle": "n. 囚犯，犯人；刑事被告；俘虏",
+        "isDanger": 0,
+        "phonetic": "ˈprɪz(ə)nə(r)",
+        "meaning": "n. 囚犯"
+      },
+      {
+        "word": "bush",
+        "toggle": "n.矮树丛,(机械)衬套",
+        "isDanger": 0,
+        "phonetic": "bʊʃ",
+        "meaning": "n. 灌木丛"
+      },
+      {
+        "word": "rapidly",
+        "toggle": "adv. 迅速地；很快地；立即",
+        "isDanger": 0,
+        "phonetic": "ˈræpɪdli",
+        "meaning": "adv. 迅速地"
+      },
+      {
+        "word": "uniform",
+        "toggle": "adj. 一致的；统一的；相同的；始终如一的；均衡的",
+        "isDanger": 0,
+        "phonetic": "ˈjuːnɪfɔːm",
+        "meaning": "n. 制服"
+      },
+      {
+        "word": "rifle",
+        "toggle": "n. 步枪；来复枪",
+        "isDanger": 0,
+        "phonetic": "ˈraɪf(ə)l",
+        "meaning": "n. 来福枪，步枪"
+      },
+      {
+        "word": "shoulder",
+        "toggle": "n. 肩，肩膀；肩部",
+        "isDanger": 0,
+        "phonetic": "ˈʃəʊldə(r)",
+        "meaning": "n. 肩"
+      },
+      {
+        "word": "march",
+        "toggle": "n. 进行曲；行军，进军；示威游行",
+        "isDanger": 0,
+        "phonetic": "mɑːtʃ",
+        "meaning": "v. 行进"
+      },
+      {
+        "word": "boldly",
+        "toggle": "adv. 大胆地；冒失地；显眼地",
+        "isDanger": 0,
+        "phonetic": "ˈbəʊldli",
+        "meaning": "adj. 大胆地"
+      },
+      {
+        "word": "blaze",
+        "toggle": "vt. 在树皮上刻路标；公开宣布",
+        "isDanger": 0,
+        "phonetic": "bleɪz",
+        "meaning": "v. 闪耀"
+      },
+      {
+        "word": "salute",
+        "toggle": "n. 敬礼；致敬，欢迎",
+        "isDanger": 0,
+        "phonetic": "səˈluːt",
+        "meaning": "v. 行礼"
+      },
+      {
+        "word": "elderly",
+        "toggle": "adj. 过了中年的；稍老的；上了年纪的",
+        "isDanger": 0,
+        "phonetic": "ˈeldəli",
+        "meaning": "adj. 上了年纪的"
+      },
+      {
+        "word": "grey",
+        "toggle": "adj. 灰色的；（头发）灰白的",
+        "isDanger": 0,
+        "phonetic": "ɡreɪ",
+        "meaning": "adj. 灰白的"
+      },
+      {
+        "word": "sharp",
+        "toggle": "adj. 急剧的；锋利的；刺耳的；敏捷的；强烈的",
+        "isDanger": 1,
+        "phonetic": "ʃɑːp",
+        "meaning": "adj. 猛烈的"
+      },
+      {
+        "word": "blow",
+        "toggle": "n. 吹；殴打；打击",
+        "isDanger": 1,
+        "phonetic": "bləʊ",
+        "meaning": "n. 打击"
+      }
+    ]
+  },
+  "lesson82": {
+    "words": [
+      {
+        "word": "monster",
+        "toggle": "n. 怪物；巨人，巨兽；残忍的人",
+        "isDanger": 0,
+        "phonetic": "ˈmɒnstə(r)",
+        "meaning": "n. 怪物"
+      },
+      {
+        "word": "sailor",
+        "toggle": "n. 水手，海员；乘船者",
+        "isDanger": 0,
+        "phonetic": "ˈseɪlə(r)",
+        "meaning": "n. 海员"
+      },
+      {
+        "word": "sight",
+        "toggle": "n. 视力；眼界；景象；见解",
+        "isDanger": 1,
+        "phonetic": "saɪt",
+        "meaning": "v. 见到"
+      },
+      {
+        "word": "creature",
+        "toggle": "n. 动物，生物；人；创造物",
+        "isDanger": 0,
+        "phonetic": "ˈkriːtʃə(r)",
+        "meaning": "n. 动物，生物"
+      },
+      {
+        "word": "peculiar",
+        "toggle": "adj. 特殊的；罕见的；奇怪的；独特的",
+        "isDanger": 1,
+        "phonetic": "pɪˈkjuːliə(r)",
+        "meaning": "adj. 奇怪，不寻常的"
+      },
+      {
+        "word": "shining",
+        "toggle": "adj. 华丽的；光亮的",
+        "isDanger": 0,
+        "phonetic": "ˈʃaɪnɪŋ",
+        "meaning": "adj. 闪闪发光的"
+      },
+      {
+        "word": "oarfish",
+        "toggle": "n. 皇带鱼",
+        "isDanger": 0,
+        "phonetic": "ˈɔːfɪʃ",
+        "meaning": "adj. 桨鱼"
+      },
+      {
+        "word": "claim",
+        "toggle": "vi. 提出要求",
+        "isDanger": 1,
+        "phonetic": "kleɪm",
+        "meaning": "v. 声称"
+      }
+    ]
+  },
+  "lesson83": {
+    "words": [
+      {
+        "word": "election",
+        "toggle": "n. 选举；当选；选择权； [ 宗 ] 上帝的选拔",
+        "isDanger": 0,
+        "phonetic": "ɪˈlekʃ(ə)n",
+        "meaning": "n. 选举"
+      },
+      {
+        "word": "former",
+        "toggle": "adj. 从前的，前者的；前任的",
+        "isDanger": 0,
+        "phonetic": "ˈfɔːmə(r)",
+        "meaning": "n. 从前的"
+      },
+      {
+        "word": "defeat",
+        "toggle": "vt. 击败，战胜；使 … 失败；挫败",
+        "isDanger": 1,
+        "phonetic": "dɪˈfiːt",
+        "meaning": "v. 打败"
+      },
+      {
+        "word": "fanatical",
+        "toggle": "adj. 狂热的",
+        "isDanger": 0,
+        "phonetic": "fəˈnætɪkl",
+        "meaning": "adj. 狂热的"
+      },
+      {
+        "word": "opponent",
+        "toggle": "n. 对手；敌手；反对者",
+        "isDanger": 0,
+        "phonetic": "əˈpəʊnənt",
+        "meaning": "n. 反对者，对手"
+      },
+      {
+        "word": "radical",
+        "toggle": "adj. 根本的；激进的；彻底的",
+        "isDanger": 0,
+        "phonetic": "ˈrædɪk(ə)l",
+        "meaning": "adj. 激进的"
+      },
+      {
+        "word": "progressive",
+        "toggle": "adj. 进步的；先进的",
+        "isDanger": 0,
+        "phonetic": "prəˈɡresɪv",
+        "meaning": "adj. 进步的"
+      },
+      {
+        "word": "prefix",
+        "toggle": "n.[语]前缀,(人名前的)称谓(如Mr. Dr. Sir等)",
+        "isDanger": 0,
+        "phonetic": "ˈpriːfɪks",
+        "meaning": "adj. 前..⋯"
+      },
+      {
+        "word": "suspicious",
+        "toggle": "adj. 可疑的；怀疑的；多疑的",
+        "isDanger": 0,
+        "phonetic": "səˈspɪʃəs",
+        "meaning": "adj. 怀疑的"
+      }
+    ]
+  },
+  "lesson84": {
+    "words": [
+      {
+        "word": "strike",
+        "toggle": "vi. 罢工；打，打击；敲，敲击；抓；穿透；打动",
+        "isDanger": 1,
+        "phonetic": "straɪk",
+        "meaning": "n. 罢工"
+      },
+      {
+        "word": "busman",
+        "toggle": "n.公共汽车司机,售票员",
+        "isDanger": 0,
+        "phonetic": "ˈbʌsmən",
+        "meaning": "n. 公共汽车司机"
+      },
+      {
+        "word": "state",
+        "toggle": "n. 情形；国家；州",
+        "isDanger": 1,
+        "phonetic": "steɪt",
+        "meaning": "v. 正式提出，宣布"
+      },
+      {
+        "word": "agreement",
+        "toggle": "n. 协议；同意，一致",
+        "isDanger": 0,
+        "phonetic": "əˈɡriːmənt",
+        "meaning": "n. 协议"
+      },
+      {
+        "word": "relieve",
+        "toggle": "vt. 解除，减轻；使不单调乏味；换 … 的班；解围；使放心",
+        "isDanger": 0,
+        "phonetic": "rɪˈliːv",
+        "meaning": "v. 减轻"
+      },
+      {
+        "word": "pressure",
+        "toggle": "n. 压力；压迫，压强",
+        "isDanger": 1,
+        "phonetic": "ˈpreʃə(r)",
+        "meaning": "n. 压力，麻烦"
+      },
+      {
+        "word": "extent",
+        "toggle": "n. 范围；程度；长度",
+        "isDanger": 0,
+        "phonetic": "ɪkˈstent",
+        "meaning": "n. 程度"
+      },
+      {
+        "word": "volunteer",
+        "toggle": "n. 志愿者；志愿兵",
+        "isDanger": 0,
+        "phonetic": "ˌvɒlənˈtɪə(r)",
+        "meaning": "v. 自动提出，自愿"
+      },
+      {
+        "word": "gratitude",
+        "toggle": "n. 感谢的心情",
+        "isDanger": 0,
+        "phonetic": "ˈɡrætɪtjuːd",
+        "meaning": "n. 感激"
+      },
+      {
+        "word": "press",
+        "toggle": "vt. 压；按；紧抱；逼迫",
+        "isDanger": 0,
+        "phonetic": "pres",
+        "meaning": "n. 新闻界"
+      },
+      {
+        "word": "object",
+        "toggle": "n. 宾语；客体；目标；物体",
+        "isDanger": 1,
+        "phonetic": "ˈɒbdʒɪkt",
+        "meaning": "v. 不赞成，反对"
+      }
+    ]
+  },
+  "lesson85": {
+    "words": [
+      {
+        "word": "inform",
+        "toggle": "vt. 通知；告诉；报告",
+        "isDanger": 1,
+        "phonetic": "ɪnˈfɔːm",
+        "meaning": "v. 告诉，通知"
+      },
+      {
+        "word": "headmaster",
+        "toggle": "n. 校长",
+        "isDanger": 0,
+        "phonetic": "ˌhedˈmɑːstə(r)",
+        "meaning": "n. 校长"
+      },
+      {
+        "word": "contribute",
+        "toggle": "vt. 捐献；贡献，出力；投稿",
+        "isDanger": 1,
+        "phonetic": "kənˈtrɪbjuːt",
+        "meaning": "v. 捐助，援助"
+      },
+      {
+        "word": "gift",
+        "toggle": "n. 礼物；赠品；天赋",
+        "isDanger": 0,
+        "phonetic": "ɡɪft",
+        "meaning": "n. 礼物，赠品"
+      },
+      {
+        "word": "album",
+        "toggle": "n. 相簿；唱片集；集邮簿；签名纪念册",
+        "isDanger": 0,
+        "phonetic": "ˈælbəm",
+        "meaning": "n. 签名簿，相册"
+      },
+      {
+        "word": "patience",
+        "toggle": "n. 耐性，耐心；忍耐，容忍",
+        "isDanger": 0,
+        "phonetic": "ˈpeɪʃ(ə)ns",
+        "meaning": "n. 耐心"
+      },
+      {
+        "word": "encouragement",
+        "toggle": "n. 鼓励",
+        "isDanger": 0,
+        "phonetic": "ɪnˈkʌrɪdʒmənt",
+        "meaning": "n. 鼓励"
+      },
+      {
+        "word": "farewell",
+        "toggle": "n. 告别，辞别；再会；再见",
+        "isDanger": 0,
+        "phonetic": "ˌfeəˈwel",
+        "meaning": "n. 告别"
+      },
+      {
+        "word": "honour",
+        "toggle": "n.尊敬,敬意,荣誉,光荣vt.尊敬,给以荣誉",
+        "isDanger": 0,
+        "phonetic": "ˈɒnə(r)",
+        "meaning": "n. 敬意"
+      },
+      {
+        "word": "coincidence",
+        "toggle": "n. 巧合；一致；同时发生",
+        "isDanger": 0,
+        "phonetic": "kəʊˈɪnsɪdəns",
+        "meaning": "n. 巧合"
+      },
+      {
+        "word": "total",
+        "toggle": "adj. 全部的；整个的；完全的",
+        "isDanger": 1,
+        "phonetic": "ˈtəʊt(ə)l",
+        "meaning": "n. 总数"
+      },
+      {
+        "word": "devote",
+        "toggle": "vt. 奉献；致力于",
+        "isDanger": 1,
+        "phonetic": "dɪˈvəʊt",
+        "meaning": "v. 致力于"
+      },
+      {
+        "word": "gardening",
+        "toggle": "n. 园艺；园林工人的工作",
+        "isDanger": 0,
+        "phonetic": "ˈɡɑːdnɪŋ",
+        "meaning": "n. 园艺"
+      },
+      {
+        "word": "hobby",
+        "toggle": "n. 嗜好；业余爱好",
+        "isDanger": 0,
+        "phonetic": "ˈhɒbi",
+        "meaning": "n. 爱好，嗜好"
+      }
+    ]
+  },
+  "lesson86": {
+    "words": [
+      {
+        "word": "swing",
+        "toggle": "n. 摇摆；秋千；摆动；音律；涨落",
+        "isDanger": 0,
+        "phonetic": "swɪŋ",
+        "meaning": "v. 转向"
+      },
+      {
+        "word": "speedboat",
+        "toggle": "n.高速游艇",
+        "isDanger": 0,
+        "phonetic": "ˈspiːdbəʊt",
+        "meaning": "n. 快艇"
+      },
+      {
+        "word": "desperately",
+        "toggle": "adv. 拼命地；绝望地；极度地",
+        "isDanger": 0,
+        "phonetic": "ˈdespərətli",
+        "meaning": "adv. 绝望地"
+      },
+      {
+        "word": "companion",
+        "toggle": "n. 同伴；朋友；手册；指南",
+        "isDanger": 0,
+        "phonetic": "kəmˈpænjən",
+        "meaning": "n. 同伙，伙伴"
+      },
+      {
+        "word": "water ski",
+        "toggle": "n.滑水板",
+        "isDanger": 0,
+        "phonetic": "ˈwɔːtə(r) skiː",
+        "meaning": "n. （由快艇牵引水橇）滑水"
+      },
+      {
+        "word": "buoy",
+        "toggle": "n. 浮标；浮筒；救生圈；航标",
+        "isDanger": 0,
+        "phonetic": "bɔɪ",
+        "meaning": "n. 浮标"
+      },
+      {
+        "word": "dismay",
+        "toggle": "n. 沮丧，灰心；惊慌",
+        "isDanger": 0,
+        "phonetic": "dɪsˈmeɪ",
+        "meaning": "n. 沮丧"
+      },
+      {
+        "word": "tremendous",
+        "toggle": "adj. 极大的，巨大的；惊人的",
+        "isDanger": 0,
+        "phonetic": "trəˈmendəs",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "petrol",
+        "toggle": "n. <英>汽油；深蓝绿色",
+        "isDanger": 0,
+        "phonetic": "ˈpetrəl",
+        "meaning": "n. 汽油"
+      },
+      {
+        "word": "drift",
+        "toggle": "n. 漂流，漂移；漂流物；趋势",
+        "isDanger": 1,
+        "phonetic": "drɪft",
+        "meaning": "v. 漂动，漂流"
+      },
+      {
+        "word": "gently",
+        "toggle": "adv. 轻轻地；温柔地，温和地",
+        "isDanger": 0,
+        "phonetic": "ˈdʒentli",
+        "meaning": "adv. 缓慢地，轻轻地"
+      }
+    ]
+  },
+  "lesson87": {
+    "words": [
+      {
+        "word": "alibi",
+        "toggle": "n. 托辞；犯罪现场；辩解",
+        "isDanger": 0,
+        "phonetic": "ˈæləbaɪ",
+        "meaning": "n. 不在犯罪现场"
+      },
+      {
+        "word": "commit",
+        "toggle": "vt. 把 ... 交托给；指派 … 作战；使 … 承担义务；犯罪，做错事",
+        "isDanger": 0,
+        "phonetic": "kəˈmɪt",
+        "meaning": "v. 犯（罪、错）"
+      },
+      {
+        "word": "inspector",
+        "toggle": "n. 检查员；巡视员",
+        "isDanger": 0,
+        "phonetic": "ɪnˈspektə(r)",
+        "meaning": "n. 探长"
+      },
+      {
+        "word": "employer",
+        "toggle": "n. 雇主，老板",
+        "isDanger": 0,
+        "phonetic": "ɪmˈplɔɪə(r)",
+        "meaning": "n. 雇主"
+      },
+      {
+        "word": "confirm",
+        "toggle": "vt. 确认；批准；证实；确定；使巩固",
+        "isDanger": 1,
+        "phonetic": "kənˈfɜːm",
+        "meaning": "v. 确认，证实"
+      },
+      {
+        "word": "suggest",
+        "toggle": "vt. 提议，建议；启发；使人想起",
+        "isDanger": 1,
+        "phonetic": "səˈdʒest",
+        "meaning": "v. 提醒"
+      },
+      {
+        "word": "truth",
+        "toggle": "n. 事实；真理；实质；诚实",
+        "isDanger": 0,
+        "phonetic": "truːθ",
+        "meaning": "n. 真相"
+      }
+    ]
+  },
+  "lesson88": {
+    "words": [
+      {
+        "word": "trap",
+        "toggle": "vt. 诱捕；使 … 受限制；使 … 陷入困境",
+        "isDanger": 1,
+        "phonetic": "træp",
+        "meaning": "v. 陷入，使陷于困境"
+      },
+      {
+        "word": "surface",
+        "toggle": "n. 表面；外观；表层",
+        "isDanger": 0,
+        "phonetic": "ˈsɜːfɪs",
+        "meaning": "n. 地面，表面"
+      },
+      {
+        "word": "explosive",
+        "toggle": "adj. 爆炸的；爆炸性的；爆发性的",
+        "isDanger": 0,
+        "phonetic": "ɪkˈspləʊsɪv",
+        "meaning": "n. 炸药"
+      },
+      {
+        "word": "vibration",
+        "toggle": "n. 振动；犹豫；心灵感应",
+        "isDanger": 0,
+        "phonetic": "vaɪˈbreɪʃ(ə)n",
+        "meaning": "n. 震动"
+      },
+      {
+        "word": "collapse",
+        "toggle": "vi. 倒塌；瓦解；暴跌",
+        "isDanger": 0,
+        "phonetic": "kəˈlæps",
+        "meaning": "v. 坍塌"
+      },
+      {
+        "word": "drill",
+        "toggle": "n. 钻子；钻孔机；播种机；训练",
+        "isDanger": 0,
+        "phonetic": "drɪl",
+        "meaning": "v. 钻孔"
+      },
+      {
+        "word": "capsule",
+        "toggle": "n. [ 医 ] 胶囊； [ 航 ] 太空舱； [ 植 ] 蒴果；小容器",
+        "isDanger": 0,
+        "phonetic": "ˈkæpsjuːl",
+        "meaning": "n. 容器"
+      },
+      {
+        "word": "layer",
+        "toggle": "n. 层，阶层；地层",
+        "isDanger": 0,
+        "phonetic": "ˈleɪə(r)",
+        "meaning": "n. 层"
+      },
+      {
+        "word": "beneath",
+        "toggle": "prep. 在 … 之下",
+        "isDanger": 0,
+        "phonetic": "bɪˈniːθ",
+        "meaning": "prep. 在......之下"
+      },
+      {
+        "word": "lower",
+        "toggle": "vt. 放下，降下；减弱，减少；贬低",
+        "isDanger": 0,
+        "phonetic": "ˈləʊə(r)",
+        "meaning": "v. 放下，降低"
+      },
+      {
+        "word": "progress",
+        "toggle": "n. 进步，发展；前进",
+        "isDanger": 0,
+        "phonetic": "ˈprəʊɡres",
+        "meaning": "v. 进展，进行"
+      },
+      {
+        "word": "smoothly",
+        "toggle": "adv. 平稳地，平滑地；流畅地，流利地",
+        "isDanger": 0,
+        "phonetic": "ˈsmuːðli",
+        "meaning": "adv. 顺利地"
+      }
+    ]
+  },
+  "lesson89": {
+    "words": [
+      {
+        "word": "slip",
+        "toggle": "vi. 犯错；滑倒；减退；滑动；失足",
+        "isDanger": 1,
+        "phonetic": "slɪp",
+        "meaning": "n. 小错误"
+      },
+      {
+        "word": "comedy",
+        "toggle": "n. 喜剧；喜剧性；有趣的事情",
+        "isDanger": 0,
+        "phonetic": "ˈkɒmədi",
+        "meaning": "n. 喜剧"
+      },
+      {
+        "word": "present",
+        "toggle": "vt. 呈现；介绍；提出；赠送",
+        "isDanger": 1,
+        "phonetic": "ˈprez(ə)nt",
+        "meaning": "v. 演出；adj. 出席，到场的"
+      },
+      {
+        "word": "queue",
+        "toggle": "n. 队列；长队；辫子",
+        "isDanger": 0,
+        "phonetic": "kjuː",
+        "meaning": "v. 排队"
+      },
+      {
+        "word": "dull",
+        "toggle": "adj. 钝的；呆滞的；阴暗的；迟钝的；无趣的",
+        "isDanger": 0,
+        "phonetic": "dʌl",
+        "meaning": "adj. 枯燥，无味"
+      },
+      {
+        "word": "artiste",
+        "toggle": "n.技艺家",
+        "isDanger": 0,
+        "phonetic": "ɑːˈtiːst",
+        "meaning": "n. 艺人"
+      },
+      {
+        "word": "advertiser",
+        "toggle": "n. 刊登广告的人；广告客户",
+        "isDanger": 0,
+        "phonetic": "ˈædvətaɪzə(r)",
+        "meaning": "n. 报幕员"
+      }
+    ]
+  },
+  "lesson90": {
+    "words": [
+      {
+        "word": "chip",
+        "toggle": "vt. 削，凿；削成碎片",
+        "isDanger": 0,
+        "phonetic": "tʃɪp",
+        "meaning": "n. 油煎土豆片"
+      },
+      {
+        "word": "overfish",
+        "toggle": "对（某水域）过度捕捞；过度捕捞（鱼）",
+        "isDanger": 0,
+        "phonetic": "ˌəʊvəˈfɪʃ",
+        "meaning": "v. 过度捕捞"
+      },
+      {
+        "word": "giant",
+        "toggle": "n. 巨人；巨大的动物；伟人",
+        "isDanger": 0,
+        "phonetic": "ˈdʒaɪənt",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "terrify",
+        "toggle": "vt. 使害怕；使恐怖；恐吓",
+        "isDanger": 0,
+        "phonetic": "ˈterɪfaɪ",
+        "meaning": "v. 吓，使恐怖"
+      },
+      {
+        "word": "diver",
+        "toggle": "n. 潜水者；跳水的选手；潜鸟",
+        "isDanger": 0,
+        "phonetic": "ˈdaɪvə(r)",
+        "meaning": "n. 潜水员"
+      },
+      {
+        "word": "oil rig",
+        "toggle": "石油钻井平台",
+        "isDanger": 0,
+        "phonetic": "ˈɔɪl rɪɡ",
+        "meaning": "n. 石油钻塔"
+      },
+      {
+        "word": "wit",
+        "toggle": "n. 智力；才智；智慧",
+        "isDanger": 0,
+        "phonetic": "wɪt",
+        "meaning": "n. （复数）理智，头脑"
+      },
+      {
+        "word": "cage",
+        "toggle": "n. 笼，兽笼；牢房，监狱",
+        "isDanger": 0,
+        "phonetic": "keɪdʒ",
+        "meaning": "n. 笼"
+      },
+      {
+        "word": "shark",
+        "toggle": "n. 鲨鱼；骗子",
+        "isDanger": 0,
+        "phonetic": "ʃɑːk",
+        "meaning": "n. 鲨鱼"
+      },
+      {
+        "word": "whale",
+        "toggle": "vt. 猛揍；使惨败",
+        "isDanger": 0,
+        "phonetic": "weɪl",
+        "meaning": "n. 鲸"
+      },
+      {
+        "word": "variety",
+        "toggle": "n. 种类；多样；杂耍",
+        "isDanger": 1,
+        "phonetic": "vəˈraɪəti",
+        "meaning": "n. 品种"
+      },
+      {
+        "word": "cod",
+        "toggle": "n. 鳕鱼；愚弄；哄骗",
+        "isDanger": 0,
+        "phonetic": "kɒd",
+        "meaning": "n. 鳕"
+      },
+      {
+        "word": "skate",
+        "toggle": "vi. 滑冰；滑过",
+        "isDanger": 1,
+        "phonetic": "skeɪt",
+        "meaning": "n. 鳐"
+      },
+      {
+        "word": "factor",
+        "toggle": "n. 因素；因数；要素；代理人",
+        "isDanger": 0,
+        "phonetic": "ˈfæktə(r)",
+        "meaning": "n. 因素"
+      },
+      {
+        "word": "crew",
+        "toggle": "n. 全体人员，全体船员；队，组",
+        "isDanger": 0,
+        "phonetic": "kruː",
+        "meaning": "n. 全体工作人员"
+      },
+      {
+        "word": "special",
+        "toggle": "n. 专车；特刊；特价商品；特色菜；特使，特派人员",
+        "isDanger": 1,
+        "phonetic": "ˈspeʃ(ə)l",
+        "meaning": "adj. 特别的"
+      }
+    ]
+  },
+  "lesson91": {
+    "words": [
+      {
+        "word": "balloon",
+        "toggle": "vi. 激增；膨胀如气球",
+        "isDanger": 0,
+        "phonetic": "bəˈluːn",
+        "meaning": "n. 气球"
+      },
+      {
+        "word": "royal",
+        "toggle": "adj. 皇家的；盛大的；高贵的；女王的；第一流的",
+        "isDanger": 0,
+        "phonetic": "ˈrɔɪəl",
+        "meaning": "adj. 皇家"
+      },
+      {
+        "word": "spy",
+        "toggle": "vt. 侦察；发现；暗中监视",
+        "isDanger": 0,
+        "phonetic": "spaɪ",
+        "meaning": "v. 侦察"
+      },
+      {
+        "word": "track",
+        "toggle": "n. 足迹，踪迹；轨道；小道",
+        "isDanger": 1,
+        "phonetic": "træk",
+        "meaning": "n. 轨迹，踪迹"
+      },
+      {
+        "word": "binoculars",
+        "toggle": "n.双眼望远镜",
+        "isDanger": 0,
+        "phonetic": "bɪˈnɒkjələz",
+        "meaning": "n. 望远镱"
+      }
+    ]
+  },
+  "lesson92": {
+    "words": [
+      {
+        "word": "fast",
+        "toggle": "adj. 快速的，迅速的；紧的，稳固的",
+        "isDanger": 1,
+        "phonetic": "fɑːst",
+        "meaning": "adv. 熟（睡）"
+      },
+      {
+        "word": "ladder",
+        "toggle": "n. 阶梯；梯状物；途径",
+        "isDanger": 0,
+        "phonetic": "ˈlædə(r)",
+        "meaning": "n. 梯子"
+      },
+      {
+        "word": "shed",
+        "toggle": "vt. 散发；流出；摆脱；倾吐",
+        "isDanger": 0,
+        "phonetic": "ʃed",
+        "meaning": "n. 棚子"
+      },
+      {
+        "word": "sarcastic",
+        "toggle": "adj. 挖苦的；尖刻的，辛辣的",
+        "isDanger": 0,
+        "phonetic": "sɑːˈkæstɪk",
+        "meaning": "adj. 讽刺的，讥笑的"
+      },
+      {
+        "word": "tone",
+        "toggle": "n. 音调；音色；语气；色调",
+        "isDanger": 1,
+        "phonetic": "təʊn",
+        "meaning": "n. 语气，腔调"
+      }
+    ]
+  },
+  "lesson93": {
+    "words": [
+      {
+        "word": "noble",
+        "toggle": "adj. 贵族的；高尚的；宏伟的；惰性的",
+        "isDanger": 0,
+        "phonetic": "ˈnəʊb(ə)l",
+        "meaning": "adj. 高尚的，壮丽的"
+      },
+      {
+        "word": "monument",
+        "toggle": "n. 纪念碑；历史遗迹；不朽的作品",
+        "isDanger": 0,
+        "phonetic": "ˈmɒnjumənt",
+        "meaning": "n. 纪念碑"
+      },
+      {
+        "word": "statue",
+        "toggle": "n. 雕像，塑像",
+        "isDanger": 0,
+        "phonetic": "ˈstætʃuː",
+        "meaning": "n. 雕像"
+      },
+      {
+        "word": "liberty",
+        "toggle": "n. 自由；许可；冒失",
+        "isDanger": 0,
+        "phonetic": "ˈlɪbəti",
+        "meaning": "n. 自由"
+      },
+      {
+        "word": "present",
+        "toggle": "vt. 呈现；介绍；提出；赠送",
+        "isDanger": 1,
+        "phonetic": "ˈprez(ə)nt",
+        "meaning": "v. 赠送"
+      },
+      {
+        "word": "sculptor",
+        "toggle": "n. 雕刻家",
+        "isDanger": 0,
+        "phonetic": "ˈskʌlptə(r)",
+        "meaning": "n. 雕刻家"
+      },
+      {
+        "word": "actual",
+        "toggle": "adj. 真实的，实际的；现行的，目前的",
+        "isDanger": 1,
+        "phonetic": "ˈæktʃuəl",
+        "meaning": "adj. 实际的，真实的"
+      },
+      {
+        "word": "copper",
+        "toggle": "n. 铜；铜币； [ 俚 ] 警察",
+        "isDanger": 0,
+        "phonetic": "ˈkɒpə(r)",
+        "meaning": "n. 铜"
+      },
+      {
+        "word": "support",
+        "toggle": "vt. 支持，支撑，支援；赡养，供养；扶持，帮助",
+        "isDanger": 1,
+        "phonetic": "səˈpɔːt",
+        "meaning": "v. 支持，支撑"
+      },
+      {
+        "word": "framework",
+        "toggle": "n. 结构，构架；框架，骨架",
+        "isDanger": 0,
+        "phonetic": "ˈfreɪmwɜːk",
+        "meaning": "n. 构架，框架"
+      },
+      {
+        "word": "transport",
+        "toggle": "n. 运输；运输机；狂喜；流放犯",
+        "isDanger": 0,
+        "phonetic": "ˈtrænspɔːt",
+        "meaning": "v. 运送"
+      },
+      {
+        "word": "site",
+        "toggle": "n. 地点；场所；位置",
+        "isDanger": 0,
+        "phonetic": "saɪt",
+        "meaning": "n. 场地"
+      },
+      {
+        "word": "pedestal",
+        "toggle": "n. 基架，基座；基础",
+        "isDanger": 0,
+        "phonetic": "ˈpedɪst(ə)l",
+        "meaning": "n. 底座"
+      }
+    ]
+  },
+  "lesson94": {
+    "words": [
+      {
+        "word": "instruct",
+        "toggle": "vt. 命令；教授；指导；通知",
+        "isDanger": 1,
+        "phonetic": "ɪnˈstrʌkt",
+        "meaning": "v. 指导，传授"
+      },
+      {
+        "word": "Los Angeles",
+        "toggle": "洛杉矶",
+        "isDanger": 0,
+        "phonetic": "lɔ:s ˈeɪndʒəlz",
+        "meaning": "n. 洛杉矶"
+      },
+      {
+        "word": "reluctant",
+        "toggle": "adj. 勉强的；不情愿的；［罕］顽抗的",
+        "isDanger": 0,
+        "phonetic": "rɪˈlʌktənt",
+        "meaning": "adj. 勉强的，不愿意的"
+      },
+      {
+        "word": "weight",
+        "toggle": "n. 重量，重力；砝码；重要性；负担",
+        "isDanger": 0,
+        "phonetic": "weɪt",
+        "meaning": "n. 重物"
+      },
+      {
+        "word": "underwater",
+        "toggle": "adj. 在水中的；水面下的",
+        "isDanger": 0,
+        "phonetic": "ˌʌndəˈwɔːtə(r)",
+        "meaning": "adj. 水下的"
+      },
+      {
+        "word": "tricycle",
+        "toggle": "n.三轮车,机器三轮车",
+        "isDanger": 0,
+        "phonetic": "ˈtraɪsɪk(ə)l",
+        "meaning": "n. 三轮车"
+      },
+      {
+        "word": "compete",
+        "toggle": "vi. 竞争；比赛；对抗",
+        "isDanger": 1,
+        "phonetic": "kəmˈpiːt",
+        "meaning": "v. 比赛，对抗"
+      },
+      {
+        "word": "yard",
+        "toggle": "n. 码（英制中丈量长度单位， 1 码 =3 英尺）； [ 海 ] 帆桁；院子；庭院",
+        "isDanger": 0,
+        "phonetic": "jɑːd",
+        "meaning": "n. 码"
+      },
+      {
+        "word": "gasp",
+        "toggle": "vi. 喘息；喘气；渴望",
+        "isDanger": 0,
+        "phonetic": "ɡɑːsp",
+        "meaning": "v. 喘气"
+      }
+    ]
+  },
+  "lesson95": {
+    "words": [
+      {
+        "word": "fantasy",
+        "toggle": "n. 幻想；幻觉； [ 心 ] 白日梦",
+        "isDanger": 1,
+        "phonetic": "ˈfæntəsi",
+        "meaning": "n. 幻想故事"
+      },
+      {
+        "word": "ambassador",
+        "toggle": "n. 大使；使节；代表",
+        "isDanger": 0,
+        "phonetic": "æmˈbæsədə(r)",
+        "meaning": "n. 大使"
+      },
+      {
+        "word": "Escalopia",
+        "toggle": "艾斯卡罗比亚(虚构的国名)",
+        "isDanger": 0,
+        "phonetic": "ɪˈklæmpsiə",
+        "meaning": "n. 艾斯卡罗比亚（虚构的国名）"
+      },
+      {
+        "word": "frightful",
+        "toggle": "adj.可怕的,非常的",
+        "isDanger": 0,
+        "phonetic": "ˈfraɪtf(ə)l",
+        "meaning": "adj. 可怕的，令人吃惊的"
+      },
+      {
+        "word": "fire extinguisher",
+        "toggle": "灭火器：一种用于扑灭初期火灾的设备，通常包含有化学药剂或水等灭火物质。",
+        "isDanger": 0,
+        "phonetic": "ˈfaɪər ɪkˈstɪŋɡwɪʃə(r)",
+        "meaning": "n. 灭火器"
+      },
+      {
+        "word": "drily",
+        "toggle": "adv.(=dryly) 冷淡地,干巴巴的",
+        "isDanger": 0,
+        "phonetic": "ˈdraɪli",
+        "meaning": "adv. 冷淡地，枯燥无味地"
+      },
+      {
+        "word": "embassy",
+        "toggle": "n. 大使馆；大使馆全体人员",
+        "isDanger": 0,
+        "phonetic": "ˈembəsi",
+        "meaning": "n. 大使馆"
+      },
+      {
+        "word": "heaven",
+        "toggle": "n. 天堂；天空；极乐",
+        "isDanger": 0,
+        "phonetic": "ˈhev(ə)n",
+        "meaning": "n. 天，天堂"
+      },
+      {
+        "word": "basement",
+        "toggle": "n. 地下室；地窖",
+        "isDanger": 0,
+        "phonetic": "ˈbeɪsmənt",
+        "meaning": "n. 地下室"
+      },
+      {
+        "word": "definitely",
+        "toggle": "adv. 明确地，肯定地；清楚地，当然",
+        "isDanger": 0,
+        "phonetic": "ˈdefɪnətli",
+        "meaning": "adv. 肯定地"
+      },
+      {
+        "word": "post",
+        "toggle": "n. 岗位；邮件；标杆",
+        "isDanger": 1,
+        "phonetic": "pəʊst",
+        "meaning": "v. 派任"
+      },
+      {
+        "word": "shot",
+        "toggle": "n. 发射；炮弹；射手",
+        "isDanger": 0,
+        "phonetic": "ʃɒt",
+        "meaning": "n. 子弹"
+      },
+      {
+        "word": "aim",
+        "toggle": "vt. 把 … 对准；目的在于；引导",
+        "isDanger": 0,
+        "phonetic": "eɪm",
+        "meaning": "n. 瞄准"
+      }
+    ]
+  },
+  "lesson96": {
+    "words": [
+      {
+        "word": "festival",
+        "toggle": "n. 节日；庆祝，纪念活动；欢乐",
+        "isDanger": 0,
+        "phonetic": "ˈfestɪvl",
+        "meaning": "n. 节日"
+      },
+      {
+        "word": "lantern",
+        "toggle": "n. 灯笼；提灯；灯笼式天窗",
+        "isDanger": 0,
+        "phonetic": "ˈlæntən",
+        "meaning": "n. 灯笼"
+      },
+      {
+        "word": "spectacle",
+        "toggle": "n. 景象，奇观；眼镜；引人羡慕的人",
+        "isDanger": 0,
+        "phonetic": "ˈspektək(ə)l",
+        "meaning": "n. 景象，壮观，场面"
+      },
+      {
+        "word": "drift",
+        "toggle": "n. 漂流，漂移；漂流物；趋势",
+        "isDanger": 1,
+        "phonetic": "drɪft",
+        "meaning": "v. 漂流"
+      },
+      {
+        "word": "guide",
+        "toggle": "n. 指南；向导；入门书",
+        "isDanger": 0,
+        "phonetic": "ɡaɪd",
+        "meaning": "v. 带领"
+      }
+    ]
+  }
+}

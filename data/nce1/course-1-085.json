@@ -1,0 +1,242 @@
+{
+  "id": "nce1-085",
+  "lessonNumber": "085",
+  "title": {
+    "english": "Paris in the Spring",
+    "chinese": "巴黎之春"
+  },
+  "lessonInfo": "新概念英语－第1册－第085课",
+  "audioPath": "audio/nce1/085.mp3",
+  "listeningQuestion": {
+    "question": "What was the weather like when Ken visited Paris?",
+    "translation": "肯去巴黎时天气怎么样？"
+  },
+  "editorNotes": "本课通过一段关于电影和旅行经历的对话，展示了谈论观影体验和旅行经历的表达方式。课文涉及电影话题、城市印象、天气描述等内容，同时重点介绍了现在完成时的多种用法，特别是与ever和never的搭配使用。这些表达对于日常社交和旅行交谈非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "George:  Hullo, Ken.",
+      "Ken:     Hullo, George.",
+      "George:  Have you just been to the cinema?",
+      "Ken:     Yes, I have.",
+      "George:  What's on?",
+      "Ken:     “Paris in the Spring”.",
+      "George:  Oh, I've already seen it. I saw it on a B.B.C. television programme last year. It's an old film, but it's very good.",
+      "Ken:     Paris is a beautiful city.",
+      "George:  I have never been there. Have you ever been there, Ken?",
+      "Ken:     Yes, I have. I was there in April.",
+      "George:  Paris in the spring, eh?",
+      "Ken:     It was spring, but the weather was awful. It rained all the time.",
+      "George:  Just like dear old London!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "乔治：你好，肯。",
+      "肯：你好，乔治。",
+      "乔治：你刚去过电影院吗？",
+      "肯：是的，我刚去过。",
+      "乔治：上映什么片子？",
+      "肯：《巴黎之春》。",
+      "乔治：噢，我已看过了。我是去年在电视上看的。这是老部片子，但很好。",
+      "肯：巴黎是座美丽的城市。",
+      "乔治：我从未去过。肯，你去过吗？",
+      "肯：是的，我去过。4月份我在那儿。",
+      "乔治：那是巴黎之春，是吗？",
+      "肯：是春天，但天气太糟了。一直在下雨。",
+      "乔治：就像伦敦一样！"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 电影相关表达",
+        "children": [
+          "核心概念：如何谈论电影和观影经历",
+          "常用表达：",
+          "- Have you just been to the cinema? 你刚去过电影院吗？",
+          "- What's on? 上映什么片子？",
+          "- I've already seen it 我已经看过了",
+          "使用场景：讨论电影和观影经历时",
+          "注意事项：注意时态的正确使用"
+        ]
+      },
+      {
+        "heading": "2. 城市印象描述",
+        "children": [
+          "核心概念：如何描述对城市的印象",
+          "常用表达：",
+          "- Paris is a beautiful city 巴黎是座美丽的城市",
+          "- I have never been there 我从未去过那里",
+          "- Have you ever been there? 你去过那里吗？",
+          "使用场景：谈论城市和旅行经历时",
+          "注意事项：注意使用适当的形容词"
+        ]
+      },
+      {
+        "heading": "3. 天气描述",
+        "children": [
+          "核心概念：如何描述天气状况",
+          "常用表达：",
+          "- the weather was awful 天气很糟糕",
+          "- It rained all the time 一直在下雨",
+          "- Just like... 就像...",
+          "使用场景：描述天气情况时",
+          "注意事项：注意天气词汇的使用"
+        ]
+      },
+      {
+        "heading": "4. 时间表达",
+        "children": [
+          "核心概念：如何表达时间和季节",
+          "常用表达：",
+          "- in the Spring 在春天",
+          "- in April 在四月份",
+          "- last year 去年",
+          "使用场景：谈论时间和季节时",
+          "注意事项：注意介词的正确使用"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 现在完成时的使用",
+        "children": [
+          "1. 表示刚刚完成：Have you just been...?",
+          "2. 表示已经完成：I've already seen it",
+          "3. 表示从未发生：I have never been there",
+          "4. 疑问形式：Have you ever been...?"
+        ]
+      },
+      {
+        "heading": "2. 一般过去时的使用",
+        "children": [
+          "1. 表示过去发生：I saw it last year",
+          "2. 表示过去状态：It was spring",
+          "3. 与现在完成时的区别",
+          "4. 时间状语的使用"
+        ]
+      },
+      {
+        "heading": "3. ever和never的用法",
+        "children": [
+          "1. ever在疑问句中：Have you ever...?",
+          "2. never在否定句中：I have never...",
+          "3. 在现在完成时中的位置",
+          "4. 其他常见用法"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 电影相关词汇",
+        "children": [
+          "cinema n. 电影院：",
+          "- go to the cinema 去电影院",
+          "- at the cinema 在电影院",
+          "film n. 电影：",
+          "- an old film 老电影",
+          "- watch a film 看电影"
+        ]
+      },
+      {
+        "heading": "2. 城市描述词汇",
+        "children": [
+          "beautiful adj. 美丽的：",
+          "- beautiful city 美丽的城市",
+          "- beautiful place 美丽的地方",
+          "city n. 城市：",
+          "- capital city 首都",
+          "- big city 大城市"
+        ]
+      },
+      {
+        "heading": "3. 天气词汇",
+        "children": [
+          "weather n. 天气：",
+          "- awful weather 糟糕的天气",
+          "- good weather 好天气",
+          "rain v. 下雨：",
+          "- it rained 下雨了",
+          "- rainy day 雨天"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Paris",
+        "toggle": "n.巴黎(法国首都)",
+        "isDanger": 0,
+        "phonetic": "ˈpærɪs",
+        "meaning": "n. 巴黎"
+      },
+      {
+        "word": "cinema",
+        "toggle": "n. 电影院；电影；电影业，电影制作术",
+        "isDanger": 0,
+        "phonetic": "ˈsɪnəmə",
+        "meaning": "n. 电影院"
+      },
+      {
+        "word": "film",
+        "toggle": "n. 胶卷；电影；薄膜；轻烟",
+        "isDanger": 0,
+        "phonetic": "fɪlm",
+        "meaning": "n. 电影(英)"
+      },
+      {
+        "word": "movie",
+        "toggle": "n. 电影；电影院；电影业",
+        "isDanger": 0,
+        "phonetic": "ˈmuːvi",
+        "meaning": "n. 电影(美)"
+      },
+      {
+        "word": "beautiful",
+        "toggle": "adj. 美丽的",
+        "isDanger": 0,
+        "phonetic": "ˈbjuːtɪf(ə)l",
+        "meaning": "adj. 漂亮的"
+      },
+      {
+        "word": "beauty",
+        "toggle": "n. 美；美人；美好的东西；美丽",
+        "isDanger": 0,
+        "phonetic": "ˈbjuːti",
+        "meaning": "n. 美女"
+      },
+      {
+        "word": "city",
+        "toggle": "n. 城市，都市",
+        "isDanger": 1,
+        "phonetic": "ˈsɪti",
+        "meaning": "n. 城市"
+      },
+      {
+        "word": "never",
+        "toggle": "adv. 决不；从未",
+        "isDanger": 1,
+        "phonetic": "ˈnevə(r)",
+        "meaning": "adv. 从来没有"
+      },
+      {
+        "word": "ever",
+        "toggle": "adv. 曾经；究竟；永远",
+        "isDanger": 1,
+        "phonetic": "ˈevə(r)",
+        "meaning": "adv. 在任何时候"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

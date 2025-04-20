@@ -1,0 +1,265 @@
+{
+  "id": "nce1-017",
+  "lessonNumber": "017",
+  "title": {
+    "english": "How do you do",
+    "chinese": "你好"
+  },
+  "lessonInfo": "新概念英语－第1册－第017课",
+  "audioPath": "audio/nce1/017.mp3",
+  "listeningQuestion": {
+    "question": "What are the jobs of the employees?",
+    "translation": "这些员工都是做什么工作的？"
+  },
+  "editorNotes": "本课通过一段办公室介绍场景，展示了职场中的正式社交用语和工作描述。课文重点介绍了正式场合中的问候语'How do you do'的使用，以及询问和描述职业的表达方式。这些表达对于职场社交和商务交际非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Come and meet our employees, Mr. Richards.",
+      "Thank you, Mr. Jackson.",
+      "This is Nicola Grey, and this is Claire Taylor.",
+      "How do you do?",
+      "Those women are very hard-working.",
+      "What are their jobs?",
+      "They're keyboard operators.",
+      "This is Michael Baker, and this is Jeremy Short.",
+      "How do you do?",
+      "They aren't very busy!",
+      "What are their jobs?",
+      "They're sales reps.",
+      "They are very lazy.",
+      "Who is this young man?",
+      "This is Jim.",
+      "He is our office assistant."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "杰克逊先生：来见见我们的雇员， 理查兹先生。",
+      "理查兹先生：谢谢，杰克逊先生。",
+      "杰克逊先生：这位是尼克拉.格雷， 这位是克莱尔.泰勒。",
+      "理查兹先生：你们好！",
+      "理查兹先生：那些姑娘很勤快。 她们是做什么工作的？",
+      "杰克逊先生：她们是电脑录入员。",
+      "杰克逊先生：这位是迈克尔.贝克， 这位是杰里米.肖特。",
+      "理查兹先生：你们好！",
+      "理查兹先生：他们不很忙吧！ 他们是做什么工作的？",
+      "杰克逊先生：他们是推销员，他们非常懒。",
+      "理查兹先生：这个年轻人是谁？",
+      "杰克逊先生：他是吉姆，办公室助理。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 正式场合问候",
+        "children": [
+          "核心概念：正式场合的问候语",
+          "常用表达：",
+          "- How do you do? (你好，初次见面用)",
+          "- Nice to meet you. (很高兴见到你)",
+          "使用场景：",
+          "- 商务会面 | 正式场合 | 初次见面",
+          "注意事项：",
+          "- 'How do you do'是固定用语 | 回答时重复同样的话 | 注意语气礼貌"
+        ]
+      },
+      {
+        "heading": "2. 介绍他人",
+        "children": [
+          "核心概念：介绍他人的表达方式",
+          "常用句型：",
+          "- This is + 姓名 (这位是...)",
+          "- Come and meet... (来见见...)",
+          "使用场景：",
+          "- 工作场合 | 社交聚会 | 商务会议",
+          "注意事项：",
+          "- 称呼要得体 | 介绍顺序 | 礼貌用语"
+        ]
+      },
+      {
+        "heading": "3. 工作描述",
+        "children": [
+          "核心概念：描述职业和工作表现",
+          "常用表达：",
+          "- hard-working (勤奋的)",
+          "- lazy (懒惰的)",
+          "- busy (忙碌的)",
+          "使用场景：",
+          "- 评价员工 | 工作汇报 | 人员介绍",
+          "注意事项：",
+          "- 措辞要得体 | 避免过于主观 | 注意场合"
+        ]
+      },
+      {
+        "heading": "4. 询问职业",
+        "children": [
+          "核心概念：询问他人职业",
+          "常用句型：",
+          "- What are their jobs? (他们是做什么工作的？)",
+          "- Who is this...? (这位是谁？)",
+          "使用场景：",
+          "- 工作面试 | 社交场合 | 业务交流",
+          "注意事项：",
+          "- 语气要礼貌 | 注意时态 | 回答要完整"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 特殊疑问句",
+        "children": [
+          "核心概念：",
+          "- what/who引导的特殊疑问句",
+          "- 疑问词在句首",
+          "基本结构：",
+          "- What + be + 主语...?",
+          "- Who + be + 主语...?",
+          "实用例句：",
+          "- What are their jobs? (他们是做什么工作的？)",
+          "- Who is this young man? (这个年轻人是谁？)",
+          "注意事项：",
+          "- 语序规则 | 时态一致 | 答句完整"
+        ]
+      },
+      {
+        "heading": "2. 指示代词",
+        "children": [
+          "核心概念：",
+          "- this/that/these/those的用法",
+          "- 表示远近关系",
+          "基本用法：",
+          "- this/these (近指)",
+          "- that/those (远指)",
+          "实用例句：",
+          "- This is Nicola Grey. (这位是尼古拉·格雷)",
+          "- Those women are very hard-working. (那些女士很勤奋)",
+          "注意事项：",
+          "- 单复数对应 | 远近概念 | 搭配be动词"
+        ]
+      },
+      {
+        "heading": "3. 形容词的使用",
+        "children": [
+          "核心概念：",
+          "- 描述人物特征",
+          "- 表达评价",
+          "常见用法：",
+          "- be + 形容词",
+          "- very + 形容词",
+          "实用例句：",
+          "- They are very lazy. (他们很懒)",
+          "- They aren't very busy. (他们不是很忙)",
+          "注意事项：",
+          "- 词序规则 | 程度副词 | 否定形式"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 职业词汇",
+        "children": [
+          "基本词汇：",
+          "- employee (雇员)",
+          "- keyboard operator (电脑录入员)",
+          "- sales rep (推销员)",
+          "- office assistant (办公室助理)",
+          "常用搭配：",
+          "- full-time employee (全职雇员)",
+          "- sales representative (销售代表)",
+          "使用场景：",
+          "- 求职面试 | 工作介绍 | 职位描述"
+        ]
+      },
+      {
+        "heading": "2. 工作表现词语",
+        "children": [
+          "形容词：",
+          "- hard-working (勤奋的)",
+          "- lazy (懒惰的)",
+          "- busy (忙碌的)",
+          "常用搭配：",
+          "- very hard-working (非常勤奋)",
+          "- not very busy (不太忙)",
+          "使用场景：",
+          "- 工作评价 | 绩效考核 | 推荐信"
+        ]
+      },
+      {
+        "heading": "3. 社交用语",
+        "children": [
+          "问候语：",
+          "- How do you do? (你好)",
+          "- Thank you (谢谢)",
+          "介绍用语：",
+          "- Come and meet... (来见见...)",
+          "- This is... (这位是...)",
+          "使用场景：",
+          "- 商务会面 | 社交场合 | 正式场合"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "employee",
+        "toggle": "n. 雇员；从业员工",
+        "isDanger": 0,
+        "phonetic": "ɪmˈplɔɪiː",
+        "meaning": "n. 雇员"
+      },
+      {
+        "word": "hard-working",
+        "toggle": "adj. 辛勤的",
+        "isDanger": 0,
+        "phonetic": "ˌhɑːd ˈwɜːkɪŋ",
+        "meaning": "adj. 勤奋的"
+      },
+      {
+        "word": "sales reps",
+        "toggle": "推销员",
+        "isDanger": 0,
+        "phonetic": "ˈseɪlz reps",
+        "meaning": "n. 推销员"
+      },
+      {
+        "word": "sale",
+        "toggle": "n. 出售；销售额；拍卖；销售；廉价出售",
+        "isDanger": 0,
+        "phonetic": "seɪl",
+        "meaning": "n. 销售"
+      },
+      {
+        "word": "man",
+        "toggle": "n. 雇工；男人；人；人类；丈夫",
+        "isDanger": 1,
+        "phonetic": "mæn",
+        "meaning": "n. 男人"
+      },
+      {
+        "word": "office",
+        "toggle": "n. 办公室；营业处；官职；政府机关",
+        "isDanger": 0,
+        "phonetic": "ˈɒfɪs",
+        "meaning": "n. 办公室"
+      },
+      {
+        "word": "assistant",
+        "toggle": "n. 助手，助理，助教",
+        "isDanger": 0,
+        "phonetic": "əˈsɪstənt",
+        "meaning": "n. 助手"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "id": "nce1-121",
+  "lessonNumber": "121",
+  "title": {
+    "english": "The man in the hat",
+    "chinese": "戴帽子的男士"
+  },
+  "lessonInfo": "新概念英语－第1册－第121课",
+  "audioPath": "audio/nce1/121.mp3",
+  "listeningQuestion": {
+    "question": "How did Miss Roberts finally recognize the customer?",
+    "translation": "卡罗琳小姐最后是如何认出顾客的？"
+  },
+  "editorNotes": "本课通过一个商店里的认人场景，展示了英语中关系代词的使用方法。课文重点介绍了who, whom, which, that等关系代词的用法，以及在商店购物场景中的常用表达。这些表达对于日常购物和服务场景非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Customer:       I bought two expensive dictionaries here half an hour ago, but I forgot to take them with me.",
+      "Manager:   Who served you, sir?",
+      "Customer:   The lady who is standing behind the counter.",
+      "Manager:   Which books did you buy?",
+      "Customer:   The books which are on the counter.",
+      "Manager:   Did you serve this gentleman half an hour ago, Miss Roberts?He says he's the man who bought these books.",
+      "Miss Roberts:  I can't remember, sir. The man whom I served was wearing a hat.",
+      "Manager:   Have you got a hat, sir?",
+      "Customer:   Yes, I have.",
+      "Manager:   Would you put it on, please?",
+      "Customer:   All right.",
+      "Manager:        Is this the man that you served, Miss Roberts?",
+      "Miss Roberts:   Yes, sir. I recognize him now."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "顾 客：半小时以前我在这里买了两本很贵的辞典，但是我忘了拿走。",
+      "经 理：是谁接待您的，先生？",
+      "顾 客：站在柜台后面的那位女士。",
+      "经 理：您买的是两本什么书？",
+      "顾 客：就是柜台上的那两本。",
+      "经 理：卡罗琳，半小时前你接待过这位先生吗？他说他就是买这两本书的人。",
+      "卡罗琳：我记不起来了。我接待的那个人戴着一顶帽子。",
+      "经 理：先生，您有帽子吗？",
+      "顾 客：有的，我有帽子。",
+      "经 理：请您把帽子戴上好吗？",
+      "顾 客：好吧。",
+      "经 理：卡罗琳，这就是你接待过的那个人吗？",
+      "卡罗琳：是他。我现在认出他来了。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 购物场景对话",
+        "children": [
+          "核心概念：如何在商店中进行有效沟通",
+          "常用表达：",
+          "- I bought...half an hour ago 半小时前我买了...",
+          "- Who served you? 谁接待您的？",
+          "- The lady who is standing... 正站在...的那位女士",
+          "使用场景：在商店购物或寻求帮助时",
+          "注意事项：注意使用礼貌用语和正确的时态"
+        ]
+      },
+      {
+        "heading": "2. 描述和指认",
+        "children": [
+          "核心概念：如何描述和识别人或物",
+          "常用表达：",
+          "- The books which are on... 在...上的那些书",
+          "- The man whom I served 我接待的那位先生",
+          "- I recognize him now 我现在认出他来了",
+          "使用场景：需要描述或识别特定人物或物品时",
+          "注意事项：注意使用准确的关系代词"
+        ]
+      },
+      {
+        "heading": "3. 礼貌请求",
+        "children": [
+          "核心概念：如何礼貌地提出请求",
+          "常用表达：",
+          "- Would you put it on, please? 请您把它戴上好吗？",
+          "- All right 好的",
+          "- Have you got...? 您有...吗？",
+          "使用场景：向他人提出请求时",
+          "注意事项：注意使用礼貌用语和适当的语气"
+        ]
+      },
+      {
+        "heading": "4. 确认身份",
+        "children": [
+          "核心概念：如何确认某人的身份",
+          "常用表达：",
+          "- Is this the man that...? 这就是那个...的人吗？",
+          "- He says he's the man who... 他说他就是那个...的人",
+          "- I can't remember 我记不起来了",
+          "使用场景：需要确认某人身份时",
+          "注意事项：注意使用合适的关系代词和时态"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 关系代词who的用法",
+        "children": [
+          "1. 指代人：The lady who is standing...",
+          "2. 在定语从句中作主语",
+          "3. 可用that替代",
+          "4. 例句：He's the man who bought these books"
+        ]
+      },
+      {
+        "heading": "2. 关系代词whom的用法",
+        "children": [
+          "1. 指代人：The man whom I served",
+          "2. 在定语从句中作宾语",
+          "3. 可省略或用that替代",
+          "4. 例句：The man (whom) you met"
+        ]
+      },
+      {
+        "heading": "3. 关系代词which的用法",
+        "children": [
+          "1. 指代物：The books which are...",
+          "2. 在定语从句中作主语或宾语",
+          "3. 可用that替代",
+          "4. 例句：The books which I bought"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 商店相关词汇",
+        "children": [
+          "customer n. 顾客：",
+          "- regular customer 老顾客",
+          "- serve a customer 接待顾客",
+          "counter n. 柜台：",
+          "- behind the counter 在柜台后面",
+          "- at the counter 在柜台旁"
+        ]
+      },
+      {
+        "heading": "2. 服务相关词汇",
+        "children": [
+          "serve v. 服务，接待：",
+          "- serve customers 接待顾客",
+          "- who served you 谁接待您的",
+          "recognize v. 认出：",
+          "- recognize someone 认出某人",
+          "- I recognize him now 我现在认出他来了"
+        ]
+      },
+      {
+        "heading": "3. 购物用语",
+        "children": [
+          "buy v. 购买：",
+          "- buy dictionaries 买词典",
+          "- bought two books 买了两本书",
+          "forget v. 忘记：",
+          "- forget to take 忘记带走",
+          "- forget something 忘记某物"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "customer",
+        "toggle": "n. 顾客（买东西的）； [ 口 ] 家伙",
+        "isDanger": 0,
+        "phonetic": "ˈkʌstəmə(r)",
+        "meaning": "n. .顾客"
+      },
+      {
+        "word": "forget",
+        "toggle": "vt. 忘记；忽略",
+        "isDanger": 1,
+        "phonetic": "fəˈɡet",
+        "meaning": "v. 忘记"
+      },
+      {
+        "word": "manager",
+        "toggle": "n. 经理；管理人员",
+        "isDanger": 0,
+        "phonetic": "ˈmænɪdʒə(r)",
+        "meaning": "n. 经理"
+      },
+      {
+        "word": "serve",
+        "toggle": "vt. 招待，供应；为 … 服务；对 … 有用；可作 … 用",
+        "isDanger": 1,
+        "phonetic": "sɜːv",
+        "meaning": "v. 照应，服务，接待"
+      },
+      {
+        "word": "counter",
+        "toggle": "n. 柜台；计数器，计算器；计算者",
+        "isDanger": 1,
+        "phonetic": "ˈkaʊntə(r)",
+        "meaning": "n. 柜台"
+      },
+      {
+        "word": "recognize",
+        "toggle": "vt. 承认；认出，识别",
+        "isDanger": 1,
+        "phonetic": "ˈrekəɡnaɪz",
+        "meaning": "v. 认识"
+      },
+      {
+        "word": "road",
+        "toggle": "n. 道路；公路，马路；手段",
+        "isDanger": 0,
+        "phonetic": "rəʊd",
+        "meaning": "n. 路"
+      },
+      {
+        "word": "street",
+        "toggle": "n. 街道",
+        "isDanger": 0,
+        "phonetic": "striːt",
+        "meaning": "n. 街道"
+      },
+      {
+        "word": "gentleman",
+        "toggle": "n. 先生；绅士；有身分的人",
+        "isDanger": 0,
+        "phonetic": "ˈdʒentlmən",
+        "meaning": "n. 绅士"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

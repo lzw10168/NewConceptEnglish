@@ -1,0 +1,283 @@
+{
+  "id": "nce2--090",
+  "lessonNumber": "090",
+  "title": {
+    "english": "What's for supper?",
+    "chinese": "晚餐吃什么？"
+  },
+  "lessonInfo": "新概念英语－第2册－第090课",
+  "audioPath": "audio/nce2/090.mp3",
+  "listeningQuestion": {
+    "question": "What are the three factors that caused the fish to grow so large?",
+    "translation": "导致这些鱼长得如此巨大的三个因素是什么？"
+  },
+  "editorNotes": "这篇文章讲述了北海石油钻井平台附近出现的巨型鱼类现象。文章通过描述这些异常生长的鱼类，反映了人类活动对海洋生态系统的影响。语法重点包括复合名词的单复数用法、现在完成时和被动语态的使用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Fish and chips has always been a favourite dish in Britain.",
+      "The oceans have been overfished.",
+      "Fish has become more and more expensive.",
+      "It comes as a surprise to learn about giant fish.",
+      "These giant fish are terrifying the divers on North Sea oil rigs.",
+      "Oil rigs have to be repaired frequently.",
+      "Divers often have to work in darkness.",
+      "They work a hundred feet under water.",
+      "Divers have been frightened out of their wits.",
+      "Giant fish bump into them as they work.",
+      "Now they have had special cages made.",
+      "These cages protect them from these monsters.",
+      "The fish are not sharks or killer whales.",
+      "They are favourite eating varieties like cod and skate.",
+      "These fish grow to unnatural sizes.",
+      "Sometimes they grow as much as twelve feet in length.",
+      "Three factors have caused these fish to grow so large.",
+      "The first factor is the warm water round the hot oil pipes under the sea.",
+      "The second factor is the plentiful supply of food.",
+      "This food is thrown overboard by the crews on the rigs.",
+      "The third factor is the total absence of fishing boats around the oil rigs.",
+      "As a result, the fish just eat and eat.",
+      "They grow and grow in the lovely warm water.",
+      "Who eats who?"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "油煎鱼加炸土豆片一直是英国人喜爱的一道菜。",
+      "随着海洋里的滥捕滥捞，鱼已经变得越来越昂贵。",
+      "因此，听说北海石油钻井平台上的潜水员受到巨型鱼类的恐吓，确实很让人吃惊。",
+      "钻井平台需要经常修理。",
+      "潜水员常常要在水面100英尺以下摸黑工作。",
+      "他们曾在工作时被撞到他们身上的大鱼吓得惊惶失措。",
+      "现在他们有了特制的笼子。",
+      "这些笼子用来保护他们免受大鱼的侵袭。",
+      "这些鱼并不是鲨鱼或逆戟鲸。",
+      "它们是深受人们喜爱的食用鱼品种，如鳕鱼和鳐鱼。",
+      "只不过它们长得出奇地大。",
+      "有时长达12英尺。",
+      "这些鱼能长得这么大是由3个因素造成的。",
+      "第一个因素是海底热的输油管道附近的温暖的海水。",
+      "第二个因素是钻井平台工作人员抛到海里充足的食物。",
+      "第三个因素是钻井平台周围根本没有捕鱼船只。",
+      "结果是，这些鱼就在可爱的温暖的水流中吃呀吃，长呀长。",
+      "究竟谁吃谁呢？"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "复合名词的单复数",
+        "content": [
+          "Fish and chips has always been a favourite dish (作为一道菜的整体)",
+          "Fish and chips make a good meal (作为分开的两种食物)"
+        ]
+      },
+      {
+        "title": "现在完成时",
+        "content": [
+          "the oceans have been overfished",
+          "have been frightened out of their wits",
+          "have had special cages made"
+        ]
+      },
+      {
+        "title": "定语从句",
+        "content": [
+          "divers, who often have to work in darkness",
+          "varieties like cod and skate which grow to unnatural sizes"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "come as a surprise",
+        "translation": "令人吃惊",
+        "context": "表示某事令人惊讶",
+        "example": "It comes as a surprise to learn that giant fish are terrifying the divers."
+      },
+      {
+        "phrase": "bump into",
+        "translation": "撞上，偶然遇见",
+        "context": "表示碰撞或偶然相遇",
+        "example": "The giant fish bumping into them as they work."
+      },
+      {
+        "phrase": "protect from",
+        "translation": "保护...免受",
+        "context": "表示保护某人或某物免受伤害",
+        "example": "special cages made to protect them from these monsters"
+      },
+      {
+        "phrase": "as a result",
+        "translation": "结果是，因此",
+        "context": "表示结果",
+        "example": "As a result, the fish just eat and eat and grow and grow."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "Why have the fish grown so large?",
+        "options": [
+          "Because they are a special species",
+          "Because of the warm water and plentiful food",
+          "Because they are being genetically modified",
+          "Because they are being overfed by divers"
+        ],
+        "answer": 1,
+        "explanation": "文章提到三个因素：温暖的海水、充足的食物供应和没有捕鱼船只的干扰。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Fish and chips ___ always been a favourite dish in Britain, but as the oceans ___ been overfished, fish has become more and more expensive.",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "hint": "注意复合名词的单复数用法"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "文化背景",
+        "content": "这篇文章反映了人类活动对海洋生态系统的深远影响。石油钻井平台的存在不仅改变了海洋环境，还影响了海洋生物的生存方式。这种现象提醒我们要关注环境保护和生态平衡。"
+      },
+      {
+        "title": "相关词汇扩展",
+        "content": [
+          "oil rig - 石油钻井平台",
+          "diver - 潜水员",
+          "marine ecosystem - 海洋生态系统",
+          "environmental impact - 环境影响",
+          "conservation - 保护"
+        ]
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "chip",
+        "toggle": "vt. 削，凿；削成碎片",
+        "isDanger": 0,
+        "phonetic": "tʃɪp",
+        "meaning": "n. 油煎土豆片"
+      },
+      {
+        "word": "overfish",
+        "toggle": "对（某水域）过度捕捞；过度捕捞（鱼）",
+        "isDanger": 0,
+        "phonetic": "ˌəʊvəˈfɪʃ",
+        "meaning": "v. 过度捕捞"
+      },
+      {
+        "word": "giant",
+        "toggle": "n. 巨人；巨大的动物；伟人",
+        "isDanger": 0,
+        "phonetic": "ˈdʒaɪənt",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "terrify",
+        "toggle": "vt. 使害怕；使恐怖；恐吓",
+        "isDanger": 0,
+        "phonetic": "ˈterɪfaɪ",
+        "meaning": "v. 吓，使恐怖"
+      },
+      {
+        "word": "diver",
+        "toggle": "n. 潜水者；跳水的选手；潜鸟",
+        "isDanger": 0,
+        "phonetic": "ˈdaɪvə(r)",
+        "meaning": "n. 潜水员"
+      },
+      {
+        "word": "oil rig",
+        "toggle": "石油钻井平台",
+        "isDanger": 0,
+        "phonetic": "ˈɔɪl rɪɡ",
+        "meaning": "n. 石油钻塔"
+      },
+      {
+        "word": "wit",
+        "toggle": "n. 智力；才智；智慧",
+        "isDanger": 0,
+        "phonetic": "wɪt",
+        "meaning": "n. （复数）理智，头脑"
+      },
+      {
+        "word": "cage",
+        "toggle": "n. 笼，兽笼；牢房，监狱",
+        "isDanger": 0,
+        "phonetic": "keɪdʒ",
+        "meaning": "n. 笼"
+      },
+      {
+        "word": "shark",
+        "toggle": "n. 鲨鱼；骗子",
+        "isDanger": 0,
+        "phonetic": "ʃɑːk",
+        "meaning": "n. 鲨鱼"
+      },
+      {
+        "word": "whale",
+        "toggle": "vt. 猛揍；使惨败",
+        "isDanger": 0,
+        "phonetic": "weɪl",
+        "meaning": "n. 鲸"
+      },
+      {
+        "word": "variety",
+        "toggle": "n. 种类；多样；杂耍",
+        "isDanger": 1,
+        "phonetic": "vəˈraɪəti",
+        "meaning": "n. 品种"
+      },
+      {
+        "word": "cod",
+        "toggle": "n. 鳕鱼；愚弄；哄骗",
+        "isDanger": 0,
+        "phonetic": "kɒd",
+        "meaning": "n. 鳕"
+      },
+      {
+        "word": "skate",
+        "toggle": "vi. 滑冰；滑过",
+        "isDanger": 1,
+        "phonetic": "skeɪt",
+        "meaning": "n. 鳐"
+      },
+      {
+        "word": "factor",
+        "toggle": "n. 因素；因数；要素；代理人",
+        "isDanger": 0,
+        "phonetic": "ˈfæktə(r)",
+        "meaning": "n. 因素"
+      },
+      {
+        "word": "crew",
+        "toggle": "n. 全体人员，全体船员；队，组",
+        "isDanger": 0,
+        "phonetic": "kruː",
+        "meaning": "n. 全体工作人员"
+      },
+      {
+        "word": "special",
+        "toggle": "n. 专车；特刊；特价商品；特色菜；特使，特派人员",
+        "isDanger": 1,
+        "phonetic": "ˈspeʃ(ə)l",
+        "meaning": "adj. 特别的"
+      }
+    ]
+  }
+}

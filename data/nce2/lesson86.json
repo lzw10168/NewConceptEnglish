@@ -1,0 +1,289 @@
+{
+  "id": "nce2--086",
+  "lessonNumber": "086",
+  "title": {
+    "english": "Out of control",
+    "chinese": "失控"
+  },
+  "lessonInfo": "新概念英语－第2册－第086课",
+  "audioPath": "audio/nce2/086.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the speedboat?",
+    "translation": "快艇发生了什么？"
+  },
+  "editorNotes": "本课讲述了一个惊险的水上事故。当一个人试图让快艇转弯时，方向盘脱手了，导致快艇失控。他和他的伙伴被抛入海中，快艇开始在水面上转圈，几次差点撞上他们。最终，快艇的汽油耗尽，噪音消失，开始在水面上缓慢漂流。本课介绍了多个与水上运动和紧急情况相关的词汇，如swing、speedboat、desperately、buoy等，以及一些常用短语如out of control、come away、use up等。本课还介绍了enough和fairly的用法区别。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
+      "He waved desperately to his companion, who had been water skiing for the last fifteen minutes.",
+      "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+      "The speedboat had struck a buoy, but it continued to move very quickly across the water.",
+      "Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle.",
+      "It now came straight towards them at tremendous speed.",
+      "In less than a minute, it roared past them only a few feet away.",
+      "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.",
+      "They had just had enough time to swim out of danger when the boat again completed a circle.",
+      "On this occasion, however, it had slowed down considerably.",
+      "The petrol had nearly all been used up.",
+      "Before long, the noise dropped completely and the boat began to drift gently across the water."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "当那人试图让快艇转弯时，方向盘脱手了。",
+      "他绝望地向他的伙伴挥手，他的伙伴在过去的15分钟里一直在滑水。",
+      "他们两个还没来得及意识到究竟发生了什么事情，就被猛地抛入了海里。",
+      "快艇撞上了一个浮标，但它仍在水面上快速行驶着。",
+      "两个人刚开始向岸边游去，就突然惊愕地发现快艇正在转着圈行驶，",
+      "它现在正以惊人的速度直冲他们驶来。",
+      "不到1分钟的工夫，它从离他们只有几英尺远的地方呼啸着驶了过去。",
+      "快艇过去之后，他们以最快的速度向前游去，因为他们知道快艇马上就要转回来。",
+      "他们刚刚来得及游出危险区，快艇就又转完了一圈。",
+      "然而这一次它的速度慢多了。",
+      "汽油几乎已经用光。",
+      "没过多久，噪音便彻底消失，快艇开始在水面上慢悠悠地漂流。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "swing的用法",
+        "content": [
+          "swing v. 转向",
+          "1. vt. &vi.（使……）摆动/摇动",
+          "例如：He can't stand those who swing their legs while eating.（他受不了那些吃饭时摇晃腿的人。）",
+          "She tried to swing the baby to sleep.（她试图摇晃婴儿入睡。）",
+          "2. vt. &vi. 突然转向，使……转向/转身",
+          "例如：The man tried to swing the speedboat round.（那人试图让快艇转弯。）",
+          "He swung round and looked at the two men.（他转过身来看着那两个人。）"
+        ]
+      },
+      {
+        "title": "out of的用法",
+        "content": [
+          "out of 失去，欠缺",
+          "例如：We are out of bread.（我们没有面包了。）",
+          "He has been out of work for two months.（他已经失业两个月了。）",
+          "The plane got out of control and crashed in the mountains.（飞机失控，在山中坠毁。）"
+        ]
+      },
+      {
+        "title": "come away的用法",
+        "content": [
+          "come away 脱落，离开，脱离，脱开",
+          "例如：As the man tried to swing the speedboat round, the steering wheel came away in his hands.（当那人试图让快艇转弯时，方向盘脱手了。）",
+          "When I tried to lift the suitcase, the handle came away.（当我试图提起手提箱时，把手脱落了。）"
+        ]
+      },
+      {
+        "title": "use up的用法",
+        "content": [
+          "use up 耗尽，用光，用完",
+          "例如：The petrol had nearly all been used up.（汽油几乎已经用光。）",
+          "They have just bought a house and a car. They must have used up all their money.（他们刚刚买了房子和汽车。他们一定花光了所有的钱。）",
+          "up表示\"彻底地，完全地\"，也可与其他一些动词连用：",
+          "例如：The child soon ate up the cake.（孩子很快就把蛋糕吃完了。）",
+          "She burned up all his letters.（她烧掉了他所有的信。）",
+          "Can you read up the book in two hours?（你能在两小时内读完这本书吗？）"
+        ]
+      },
+      {
+        "title": "enough和fairly的区别",
+        "content": [
+          "enough 表示\"足够\"，用在形容词或副词之后，有\"为了某种目的\"的含义",
+          "例如：I'm old enough to know I'm doing.（我已经足够大，知道自己在做什么。）",
+          "I didn't arrive at the station early enough.（我到车站到得不够早。）（我误了火车。）",
+          "fairly 表示\"相当\"，通常修饰表示肯定意义的词：",
+          "例如：The water in the pool is fairly warm, but not warm enough to swim in.（池水相当暖和，但还不够暖和到可以游泳。）",
+          "He is fairly quick, but not quick enough to take part in the race.（他相当快，但还不够快到可以参加比赛。）"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "out of control",
+        "translation": "失控",
+        "context": "表示某物不再受控制，无法正常操作",
+        "example": "The plane got out of control and crashed in the mountains.（飞机失控，在山中坠毁。）"
+      },
+      {
+        "phrase": "come away",
+        "translation": "脱落，离开，脱离，脱开",
+        "context": "表示某物从原来的位置分离或脱落",
+        "example": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.（当那人试图让快艇转弯时，方向盘脱手了。）"
+      },
+      {
+        "phrase": "on this occasion",
+        "translation": "这一次",
+        "context": "表示在特定的场合或情况下",
+        "example": "On this occasion, however, it had slowed down considerably.（然而这一次它的速度慢多了。）"
+      },
+      {
+        "phrase": "use up",
+        "translation": "耗尽，用光，用完",
+        "context": "表示完全消耗掉某物",
+        "example": "The petrol had nearly all been used up.（汽油几乎已经用光。）"
+      },
+      {
+        "phrase": "before long",
+        "translation": "不久，很快",
+        "context": "表示在短时间内发生某事",
+        "example": "Before long, the noise dropped completely and the boat began to drift gently across the water.（没过多久，噪音便彻底消失，快艇开始在水面上慢悠悠地漂流。）"
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "What happened to the speedboat?",
+        "options": [
+          "It hit a rock and sank",
+          "The steering wheel came away in the man's hands",
+          "It ran out of fuel and stopped",
+          "It was hit by another boat"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第一句，当那人试图让快艇转弯时，方向盘脱手了。"
+      },
+      {
+        "question": "Why did the men swim as quickly as they could after the boat passed them?",
+        "options": [
+          "Because they were afraid of sharks",
+          "Because they knew the boat would soon return",
+          "Because they wanted to reach the shore quickly",
+          "Because the water was cold"
+        ],
+        "answer": 1,
+        "explanation": "根据课文第八句，快艇过去之后，他们以最快的速度向前游去，因为他们知道快艇马上就要转回来。"
+      },
+      {
+        "question": "What happened to the boat at the end of the story?",
+        "options": [
+          "It sank to the bottom of the sea",
+          "It was rescued by another boat",
+          "It began to drift gently across the water",
+          "It exploded"
+        ],
+        "answer": 2,
+        "explanation": "根据课文最后一句，没过多久，噪音便彻底消失，快艇开始在水面上慢悠悠地漂流。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "As the man tried to swing the speedboat round, the steering wheel ___ away in his hands.",
+        "answer": "came",
+        "explanation": "根据课文第一句，当那人试图让快艇转弯时，方向盘脱手了。"
+      },
+      {
+        "sentence": "Both men had just begun to swim towards the shore, when they noticed with ___ that the speedboat was moving in a circle.",
+        "answer": "dismay",
+        "explanation": "根据课文第五句，两个人刚开始向岸边游去，就突然惊愕地发现快艇正在转着圈行驶。"
+      },
+      {
+        "sentence": "The petrol had nearly all been ___ up.",
+        "answer": "used",
+        "explanation": "根据课文第十一句，汽油几乎已经用光。"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇辨析",
+        "content": "desperately和hopelessly的区别：\n\ndesperately和hopelessly都表示\"绝望地\"，但desperately更强调在绝望中仍努力尝试：\n- He waved desperately to his companion.（他绝望地向他的伙伴挥手。）\n- She desperately tried to save her child.（她拼命地试图救她的孩子。）\n\nhopelessly更强调完全失去希望：\n- He looked hopelessly at the empty house.（他绝望地看着空房子。）\n- The situation is hopelessly complicated.（情况复杂得毫无希望。）\n\n在紧急情况下，desperately更常用：\n- The man desperately tried to stop the bleeding.（那人拼命地试图止住流血。）"
+      },
+      {
+        "title": "文化背景",
+        "content": "水上运动（water sports）是一种非常流行的休闲活动，特别是在夏季和沿海地区。滑水（water skiing）是一种由快艇牵引，人在水面上滑行的运动，需要良好的平衡能力和勇气。\n\n课文中描述的事故提醒人们在进行水上运动时必须注意安全。快艇失控是一种危险的情况，可能导致严重的伤害甚至死亡。因此，在进行水上运动时，应该确保设备完好，遵守安全规则，并了解紧急情况的处理方法。\n\n浮标（buoy）是水上导航的重要工具，用于标记航道、危险区域或特定位置。它们通常有不同的颜色和形状，以表示不同的含义。在课文中，快艇撞上浮标是导致事故的原因之一。\n\n水上救援（water rescue）是一项重要的技能，特别是在进行水上运动时。了解基本的救援技巧，如如何帮助溺水者，如何在水中保持冷静，以及如何使用救生设备，可以在紧急情况下挽救生命。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "swing",
+        "toggle": "n. 摇摆；秋千；摆动；音律；涨落",
+        "isDanger": 0,
+        "phonetic": "swɪŋ",
+        "meaning": "v. 转向"
+      },
+      {
+        "word": "speedboat",
+        "toggle": "n.高速游艇",
+        "isDanger": 0,
+        "phonetic": "ˈspiːdbəʊt",
+        "meaning": "n. 快艇"
+      },
+      {
+        "word": "desperately",
+        "toggle": "adv. 拼命地；绝望地；极度地",
+        "isDanger": 0,
+        "phonetic": "ˈdespərətli",
+        "meaning": "adv. 绝望地"
+      },
+      {
+        "word": "companion",
+        "toggle": "n. 同伴；朋友；手册；指南",
+        "isDanger": 0,
+        "phonetic": "kəmˈpænjən",
+        "meaning": "n. 同伙，伙伴"
+      },
+      {
+        "word": "water ski",
+        "toggle": "n.滑水板",
+        "isDanger": 0,
+        "phonetic": "ˈwɔːtə(r) skiː",
+        "meaning": "n. （由快艇牵引水橇）滑水"
+      },
+      {
+        "word": "buoy",
+        "toggle": "n. 浮标；浮筒；救生圈；航标",
+        "isDanger": 0,
+        "phonetic": "bɔɪ",
+        "meaning": "n. 浮标"
+      },
+      {
+        "word": "dismay",
+        "toggle": "n. 沮丧，灰心；惊慌",
+        "isDanger": 0,
+        "phonetic": "dɪsˈmeɪ",
+        "meaning": "n. 沮丧"
+      },
+      {
+        "word": "tremendous",
+        "toggle": "adj. 极大的，巨大的；惊人的",
+        "isDanger": 0,
+        "phonetic": "trəˈmendəs",
+        "meaning": "adj. 巨大的"
+      },
+      {
+        "word": "petrol",
+        "toggle": "n. <英>汽油；深蓝绿色",
+        "isDanger": 0,
+        "phonetic": "ˈpetrəl",
+        "meaning": "n. 汽油"
+      },
+      {
+        "word": "drift",
+        "toggle": "n. 漂流，漂移；漂流物；趋势",
+        "isDanger": 1,
+        "phonetic": "drɪft",
+        "meaning": "v. 漂动，漂流"
+      },
+      {
+        "word": "gently",
+        "toggle": "adv. 轻轻地；温柔地，温和地",
+        "isDanger": 0,
+        "phonetic": "ˈdʒentli",
+        "meaning": "adv. 缓慢地，轻轻地"
+      }
+    ]
+  }
+}

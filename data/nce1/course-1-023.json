@@ -1,0 +1,325 @@
+{
+  "id": "nce1-023",
+  "lessonNumber": "023",
+  "title": {
+    "english": "Which glasses?",
+    "chinese": "哪几个杯子？"
+  },
+  "lessonInfo": "新概念英语－第1册－第023课",
+  "audioPath": "audio/nce1/023.mp3",
+  "listeningQuestion": {
+    "question": "Where are the glasses that the husband wants?",
+    "translation": "丈夫想要的杯子在哪里？"
+  },
+  "editorNotes": "本课通过一个家庭对话场景，展示了如何询问和指出特定位置的物品。课文重点介绍了位置介词的使用，以及如何用位置来描述和区分物品。这些表达方式在日常生活中非常实用，特别是在需要准确描述物品位置时。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Give me some glasses please, Jane.",
+      "Which glasses?",
+      "These glasses?",
+      "No, not those. The ones on the shelf.",
+      "These?",
+      "Yes, please.",
+      "Here you are.",
+      "Thanks."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "丈夫：请拿给我几只玻璃杯，简。",
+      "妻子：哪几只？",
+      "妻子：这几只吗？",
+      "丈夫：不，不是那几只。是架子上的那几只。",
+      "妻子：这几只？",
+      "丈夫：是的，请拿给我。",
+      "妻子：给你。",
+      "丈夫：谢谢"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 请求多个物品",
+        "children": [
+          "核心概念：表达请求多个物品",
+          "常用表达：",
+          "- Give me some ... please (请给我一些...)",
+          "- I need some ... (我需要一些...)",
+          "使用场景：",
+          "- 日常生活 | 购物场合 | 餐厅点餐",
+          "注意事项：",
+          "- some表示数量不定 | 可数名词用复数形式 | 注意礼貌用语"
+        ]
+      },
+      {
+        "heading": "2. 位置描述",
+        "children": [
+          "核心概念：描述物品位置",
+          "常用句型：",
+          "- on the shelf (在架子上)",
+          "- in the cupboard (在橱柜里)",
+          "使用场景：",
+          "- 指明位置 | 寻找物品 | 放置物品",
+          "注意事项：",
+          "- 介词的准确使用 | 位置词的选择 | 清晰的指示"
+        ]
+      },
+      {
+        "heading": "3. 指代用语",
+        "children": [
+          "核心概念：使用代词指代物品",
+          "常用表达：",
+          "- these/those (这些/那些)",
+          "- the ones (那些)",
+          "使用场景：",
+          "- 指代多个物品 | 避免重复 | 明确选择",
+          "注意事项：",
+          "- 数量的一致性 | 近指远指的区别 | 上下文关联"
+        ]
+      },
+      {
+        "heading": "4. 确认和感谢",
+        "children": [
+          "核心概念：确认选择和表达感谢",
+          "常用表达：",
+          "- These? (这些吗？)",
+          "- Thanks (谢谢)",
+          "使用场景：",
+          "- 确认选择 | 接收物品 | 结束对话",
+          "注意事项：",
+          "- 语气友善 | 简短得体 | 及时感谢"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. 不定代词some",
+        "children": [
+          "核心概念：",
+          "- some表示不确定数量",
+          "- 用于复数可数名词",
+          "基本用法：",
+          "- Give me some + 复数名词",
+          "- I need some + 复数名词",
+          "实用例句：",
+          "- Give me some glasses please. (请给我几个杯子。)",
+          "注意事项：",
+          "- 肯定句中使用 | 表示部分数量 | 与复数搭配"
+        ]
+      },
+      {
+        "heading": "2. 指示代词复数形式",
+        "children": [
+          "核心概念：",
+          "- these/those的用法",
+          "- 与单数形式的区别",
+          "基本用法：",
+          "- these + 复数名词",
+          "- those + 复数名词",
+          "实用例句：",
+          "- These glasses? (这些杯子吗？)",
+          "注意事项：",
+          "- 数量一致 | 近指远指 | 独立使用"
+        ]
+      },
+      {
+        "heading": "3. 位置介词on",
+        "children": [
+          "核心概念：",
+          "- 表示物体的位置",
+          "- 与场所名词搭配",
+          "基本用法：",
+          "- on + 表面位置",
+          "- the ones on + 位置",
+          "实用例句：",
+          "- The ones on the shelf. (架子上的那些。)",
+          "注意事项：",
+          "- 位置关系准确 | 介词选择 | 搭配合适"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 家居用品",
+        "children": [
+          "基本词汇：",
+          "- glasses (玻璃杯)",
+          "- shelf (架子)",
+          "- cupboard (橱柜)",
+          "常用搭配：",
+          "- wine glasses (酒杯)",
+          "- glass shelf (玻璃架子)",
+          "使用场景：",
+          "- 家居描述 | 物品摆放 | 日常使用"
+        ]
+      },
+      {
+        "heading": "2. 位置词汇",
+        "children": [
+          "基本词汇：",
+          "- on (在...上)",
+          "- in (在...里)",
+          "- under (在...下)",
+          "常用搭配：",
+          "- on the shelf (在架子上)",
+          "- in the cupboard (在橱柜里)",
+          "使用场景：",
+          "- 描述位置 | 指明方向 | 放置物品"
+        ]
+      },
+      {
+        "heading": "3. 交际用语",
+        "children": [
+          "请求用语：",
+          "- Give me some ... please (请给我一些...)",
+          "- Could you give me ... (你能给我...吗)",
+          "回应用语：",
+          "- Here you are (给你)",
+          "- Thanks (谢谢)",
+          "使用场景：",
+          "- 日常请求 | 物品交接 | 礼貌对话"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "glasses",
+        "toggle": "n.眼镜",
+        "isDanger": 0,
+        "phonetic": "ˈɡlɑːsɪz",
+        "meaning": "n. 玻璃杯"
+      },
+      {
+        "word": "on",
+        "toggle": "adv. 向前地；继续着；作用中，行动中",
+        "isDanger": 1,
+        "phonetic": "ɒn",
+        "meaning": "prep. 在…之上"
+      },
+      {
+        "word": "shelf",
+        "toggle": "n. 搁板；架子；搁板状物",
+        "isDanger": 0,
+        "phonetic": "ʃelf",
+        "meaning": "n. 架子，搁板"
+      },
+      {
+        "word": "desk",
+        "toggle": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架",
+        "isDanger": 0,
+        "phonetic": "desk",
+        "meaning": "n. 课桌"
+      },
+      {
+        "word": "table",
+        "toggle": "n. 桌子；表格；平地层",
+        "isDanger": 0,
+        "phonetic": "ˈteɪb(ə)l",
+        "meaning": "n. 桌子"
+      },
+      {
+        "word": "plate",
+        "toggle": "n. 金属板；碟；金属牌；感光底片",
+        "isDanger": 1,
+        "phonetic": "pleɪt",
+        "meaning": "n. 盘子"
+      },
+      {
+        "word": "dish",
+        "toggle": "n. 碟，盘；一道菜",
+        "isDanger": 0,
+        "phonetic": "dɪʃ",
+        "meaning": "n. 盘子、一盘食物"
+      },
+      {
+        "word": "cupboard",
+        "toggle": "n. 食橱；碗柜",
+        "isDanger": 0,
+        "phonetic": "ˈkʌbəd",
+        "meaning": "n. 食橱"
+      },
+      {
+        "word": "cigarette",
+        "toggle": "n. 香烟；纸烟",
+        "isDanger": 0,
+        "phonetic": "ˌsɪɡəˈret",
+        "meaning": "n. 香烟"
+      },
+      {
+        "word": "television",
+        "toggle": "n. 电视，电视机；电视业",
+        "isDanger": 0,
+        "phonetic": "ˈtelɪvɪʒ(ə)n",
+        "meaning": "n. 电视机"
+      },
+      {
+        "word": "floor",
+        "toggle": "n. 地板，地面；楼层；基底；议员席",
+        "isDanger": 0,
+        "phonetic": "flɔː(r)",
+        "meaning": "n. 地板"
+      },
+      {
+        "word": "dressing table",
+        "toggle": "n.镜台，梳妆台",
+        "isDanger": 0,
+        "phonetic": "ˈdresɪŋ teɪbl",
+        "meaning": "n. 梳妆台"
+      },
+      {
+        "word": "dressing",
+        "toggle": "n. 穿衣；装饰；梳理；加工；调味品",
+        "isDanger": 0,
+        "phonetic": "ˈdresɪŋ",
+        "meaning": "n. 打扮"
+      },
+      {
+        "word": "magazine",
+        "toggle": "n. 杂志；弹药库；胶卷盒",
+        "isDanger": 0,
+        "phonetic": "ˌmæɡəˈziːn",
+        "meaning": "n. 杂志"
+      },
+      {
+        "word": "bed",
+        "toggle": "n. 床；基础；河底， 海底",
+        "isDanger": 0,
+        "phonetic": "bed",
+        "meaning": "n. 床"
+      },
+      {
+        "word": "newspaper",
+        "toggle": "n. 报纸",
+        "isDanger": 0,
+        "phonetic": "ˈnjuːzpeɪpə(r)",
+        "meaning": "n. 报纸"
+      },
+      {
+        "word": "stereo",
+        "toggle": "n. 立体声；立体声系统； [ 印 ] 铅版；立体照片",
+        "isDanger": 0,
+        "phonetic": "ˈsteriəʊ",
+        "meaning": "n. 立体声音响"
+      },
+      {
+        "word": "radio",
+        "toggle": "n. 收音机；无线电广播设备",
+        "isDanger": 0,
+        "phonetic": "ˈreɪdiəʊ",
+        "meaning": "n. 收音机"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

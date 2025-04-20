@@ -1,0 +1,222 @@
+{
+  "id": "nce1-137",
+  "lessonNumber": "137",
+  "title": {
+    "english": "A Pleasant Dream",
+    "chinese": "美好的梦想"
+  },
+  "lessonInfo": "新概念英语－第1册－第137课",
+  "audioPath": "audio/nce1/137.mp3",
+  "listeningQuestion": {
+    "question": "What would Brian do if he won a lot of money?",
+    "translation": "如果布赖恩赢了很多钱，他会做什么？"
+  },
+  "editorNotes": "本课通过一对夫妻讨论彩票中奖后的梦想，生动展示了虚拟语气在日常对话中的运用。课文重点介绍了if条件句的基本用法，同时涵盖了对未来计划的表达方式。这些表达方式在谈论未来计划和假设情况时非常实用。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "June:    Are you doing the football pools(赌注), Brian?",
+      "Brian:   Yes, I've nearly finished, June. I'm sure we will win something this week.",
+      "June:   You always say that, but we never win anything! What will you do if you win a lot of money?",
+      "Brian:    If I win a lot of money , I shall buy you a mink coat.",
+      "June:    I don't want  a mink coat! I want to see the world.（见世面）",
+      "Brian:   All right. If we win a lot of money, we shall travel around the world and we shall stay at the best hotels. Then we shall return home and buy a big house in the country. We shall have a beautiful garden and…",
+      "June:   But if we spend all that money we shall be poor again. What shall we do then?",
+      "Brian:    If we spend all the money, we shall try and win the football pools again.",
+      "June:   It's a pleasant dream, but everything depends on “if”!"
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "朱 莉：布赖恩，你正在下足球赛的赌注吗？",
+      "布赖恩：是的。我这就做完了。朱莉。我敢肯定这星期我们会赢一点的。",
+      "朱 莉：你老是那样说，但是我们从来没赢过！要是你赢了许多钱，你打算做什么呢？",
+      "布赖恩：要是我赢了许多钱，我给你买件貂皮大衣。",
+      "朱 莉：我不要貂皮大衣。我要去见风世面。",
+      "布赖恩：好吧。要是我们赢了很多钱，我们就去周游世界，并且住最好的旅馆。然后我们返回家园，在乡下买幢大房子。我们将有一个漂亮的花园和…",
+      "朱 莉：但是如果我们把所有钱都花光了，我们又会变穷的。那时我们怎么办呢？",
+      "布赖恩：如果我们花光了所有钱，我们设法在足球赛赌注上再赢一次。",
+      "朱 莉：这是个美好的梦，但一切都取决于'if'!"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 假设情况表达",
+        "children": [
+          "核心概念：如何表达假设情况",
+          "常用表达：",
+          "- If I win... 如果我赢...",
+          "- If we spend... 如果我们花...",
+          "- everything depends on 'if' 一切都取决于'如果'",
+          "使用场景：讨论可能发生的事情时",
+          "注意事项：注意时态的一致性"
+        ]
+      },
+      {
+        "heading": "2. 未来计划表达",
+        "children": [
+          "核心概念：如何描述未来计划",
+          "常用表达：",
+          "- I shall buy... 我将会买...",
+          "- we shall travel... 我们将会旅行...",
+          "- we shall return... 我们将会返回...",
+          "使用场景：描述未来打算时",
+          "注意事项：注意shall/will的使用"
+        ]
+      },
+      {
+        "heading": "3. 愿望表达",
+        "children": [
+          "核心概念：如何表达愿望和期望",
+          "常用表达：",
+          "- I want to see the world 我想见世面",
+          "- I don't want... 我不想要...",
+          "- It's a pleasant dream 这是个美好的梦",
+          "使用场景：表达愿望和梦想时",
+          "注意事项：注意语气的委婉性"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar in use",
+    "notes": [
+      {
+        "heading": "1. 第一类条件句",
+        "children": [
+          "1. 基本结构：If + 现在时，将来时",
+          "2. 表示可能发生的事情",
+          "3. 主句常用shall/will",
+          "4. 例句：If I win a lot of money, I shall buy you a mink coat"
+        ]
+      },
+      {
+        "heading": "2. shall的用法",
+        "children": [
+          "1. 表示将来：we shall travel",
+          "2. 表示承诺：I shall buy",
+          "3. 第一人称常用",
+          "4. 例句：We shall stay at the best hotels"
+        ]
+      },
+      {
+        "heading": "3. 动词时态一致",
+        "children": [
+          "1. if从句用现在时",
+          "2. 主句用将来时",
+          "3. 表示因果关系",
+          "4. 例句：If we spend all the money, we shall be poor again"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word study",
+    "notes": [
+      {
+        "heading": "1. 金钱相关词汇",
+        "children": [
+          "win v. 赢得：",
+          "- win money 赢钱",
+          "- win something 赢得某物",
+          "poor adj. 贫穷的：",
+          "- be poor again 再次变穷",
+          "- poor people 穷人"
+        ]
+      },
+      {
+        "heading": "2. 计划相关词汇",
+        "children": [
+          "travel v. 旅行：",
+          "- travel around the world 环游世界",
+          "- travel plans 旅行计划",
+          "return v. 返回：",
+          "- return home 返回家园",
+          "- return ticket 回程票"
+        ]
+      },
+      {
+        "heading": "3. 愿望相关词汇",
+        "children": [
+          "dream n. 梦想：",
+          "- pleasant dream 美好的梦",
+          "- dream come true 梦想成真",
+          "depend v. 取决于：",
+          "- depend on 依赖于",
+          "- it depends 这得看情况"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "football",
+        "toggle": "n. 足球，橄榄球",
+        "isDanger": 0,
+        "phonetic": "ˈfʊtbɔːl",
+        "meaning": "n. 足球(美)"
+      },
+      {
+        "word": "soccer",
+        "toggle": "n. 英式足球，足球",
+        "isDanger": 0,
+        "phonetic": "ˈsɒkə(r)",
+        "meaning": "n. 足球(英)"
+      },
+      {
+        "word": "pool",
+        "toggle": "n. 联营；水塘；撞球；共同资金",
+        "isDanger": 0,
+        "phonetic": "puːl",
+        "meaning": "n. 赌注"
+      },
+      {
+        "word": "win",
+        "toggle": "vt. 赢得；在 … 中获胜；劝诱",
+        "isDanger": 1,
+        "phonetic": "wɪn",
+        "meaning": "v. 赢"
+      },
+      {
+        "word": "winner",
+        "toggle": "n. 胜利者",
+        "isDanger": 0,
+        "phonetic": "ˈwɪnə(r)",
+        "meaning": "n. 赢家"
+      },
+      {
+        "word": "world",
+        "toggle": "n. 世界；全人类；世俗；领域；宇宙；物质生活",
+        "isDanger": 0,
+        "phonetic": "wɜːld",
+        "meaning": "n. 世界"
+      },
+      {
+        "word": "word",
+        "toggle": "n. 单词；话语；消息；诺言；命令",
+        "isDanger": 1,
+        "phonetic": "wɜːd",
+        "meaning": "n. 单词"
+      },
+      {
+        "word": "poor",
+        "toggle": "adj. 可怜的；贫穷的；贫乏的；卑鄙的",
+        "isDanger": 0,
+        "phonetic": "pɔː(r)",
+        "meaning": "adj. 贫穷的"
+      },
+      {
+        "word": "depend",
+        "toggle": "vi. 依赖，依靠；相信，信赖；取决于",
+        "isDanger": 0,
+        "phonetic": "dɪˈpend",
+        "meaning": "v. 依靠(on)"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

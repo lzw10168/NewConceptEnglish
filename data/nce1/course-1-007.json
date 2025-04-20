@@ -1,0 +1,389 @@
+{
+  "id": "nce1-007",
+  "lessonNumber": "007",
+  "title": {
+    "english": "Are you a teacher?",
+    "chinese": "你是教师吗?"
+  },
+  "lessonInfo": "新概念英语－第1册－第007课",
+  "audioPath": "audio/nce1/007.mp3",
+  "listeningQuestion": {
+    "question": "What is Robert's job?",
+    "translation": "罗伯特是做什么工作的？"
+  },
+  "editorNotes": "本课展示了一段初次见面时的对话，涵盖了自我介绍、询问国籍和职业等基本社交内容。课文通过两位新同学之间的对话，展示了如何进行基本的个人信息交流。语法重点包括be动词的一般疑问句和否定句、特殊疑问词what的使用，以及不定冠词a/an的正确使用。这些内容是日常社交和职场交际中的基本技能，对提升学习者的实际交际能力具有重要意义。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "ROBERT: I am a new student.\tMy name's Robert.",
+      "SOPHIE: Nice to meet you.\tMy name's Sophie.",
+      "ROBERT: Are you French?",
+      "SOPHIE: Yes, I am.",
+      "SOPHIE: Are you French too?",
+      "ROBERT: No, I am not.",
+      "SOPHIE: What nationality are you?",
+      "ROBERT: I'm Italian.",
+      "ROBERT: Are you a teacher?",
+      "SOPHIE: No, I'm not.",
+      "ROBERT: What's your job?",
+      "SOPHIE: I'm a keyboard operator.",
+      "SOPHIE: What's your job?",
+      "ROBERT: I'm an engineer."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "lines": [
+      "罗伯特：我是个新学生，我的名字叫罗伯特。",
+      "索菲娅：很高兴见到你。我的名字叫索菲娅。",
+      "罗伯特：你是法国人吗？",
+      "索菲娅：是的，我是法国人。",
+      "索菲娅：你也是法国人吗？",
+      "罗伯特：不，我不是。",
+      "索菲娅：你是哪国人？",
+      "罗伯特：我是意大利人。",
+      "罗伯特：你是教师吗？",
+      "索菲娅：不，我不是。",
+      "罗伯特：你是做什么工作的？",
+      "索菲娅：我是电脑录入员。",
+      "索菲娅：你是做什么工作的？",
+      "罗伯特：我是工程师。"
+    ]
+  },
+  "notesOnText": {
+    "heading": "课文详注 Further notes on the text",
+    "notes": [
+      {
+        "heading": "1. 自我介绍",
+        "children": [
+          "核心概念：基本的自我介绍方式",
+          "常用句型：",
+          "- My name is... (我的名字是...)",
+          "- I'm... (我是...)",
+          "- I am a... (我是一名...)",
+          "使用场景：",
+          "- 初次见面, 正式场合介绍, 课堂认识新同学",
+          "实用例句：",
+          "- My name's Robert. (我叫罗伯特。)",
+          "- I'm a new student. (我是新学生。)",
+          "- I'm from Italy. (我来自意大利。)",
+          "注意事项：",
+          "- 名字前可加称谓词, 可补充身份信息, 注意语气友好自然"
+        ]
+      },
+      {
+        "heading": "2. 表示'也是'的用法",
+        "children": [
+          "核心概念：too和either的区别和用法",
+          "使用规则：",
+          "- too用于肯定句 | either用于否定句 | 通常放在句末",
+          "实用例句：",
+          "- Are you French, too? (你也是法国人吗？)",
+          "- I'm not a teacher, either. (我也不是老师。)",
+          "- She's Italian, too. (她也是意大利人。)",
+          "注意事项：",
+          "- too前要加逗号 | either前要加逗号 | 不能混用too和either"
+        ]
+      },
+      {
+        "heading": "3. 询问国籍",
+        "children": [
+          "核心概念：询问他人国籍的不同方式",
+          "常用句型：",
+          "- What nationality are you?",
+          "- Where are you from?",
+          "- Where do you come from?",
+          "回答方式：",
+          "- I'm [国籍]",
+          "- I'm from [国家]",
+          "- I come from [国家]",
+          "使用注意事项：",
+          "- 国籍词首字母大写 | 注意发音准确 | 可使用缩略形式"
+        ]
+      },
+      {
+        "heading": "4. 询问职业",
+        "children": [
+          "核心概念：询问和回答职业的表达方式",
+          "常用句型：",
+          "- What's your job?",
+          "- What do you do?",
+          "- What's your occupation?",
+          "回答方式：",
+          "- I'm a/an + 职业",
+          "- I work as a/an + 职业",
+          "- I'm in + 行业",
+          "注意事项：",
+          "- 使用正确的冠词a/an | 职业名称小写 | 可使用缩略形式"
+        ]
+      }
+    ]
+  },
+  "grammarNotes": {
+    "heading": "语法要点 Grammar Points",
+    "notes": [
+      {
+        "heading": "1. be动词的一般疑问句和否定句",
+        "children": [
+          "核心概念：",
+          "- 用be动词构成疑问句",
+          "- 用not构成否定句",
+          "基本结构：",
+          "疑问句：be + 主语 + ...?",
+          "否定句：主语 + be + not + ...",
+          "实用例句：",
+          "- Are you a teacher? (你是老师吗？)",
+          "- No, I am not. (不，我不是。)",
+          "- Is she French? (她是法国人吗？)",
+          "- Yes, she is. (是的，她是。)",
+          "常见误区：",
+          "- 疑问句语调上扬",
+          "- 否定回答用not而不是no",
+          "- 注意人称的变化"
+        ]
+      },
+      {
+        "heading": "2. 特殊疑问词what的用法",
+        "children": [
+          "核心概念：",
+          "- 用what询问具体信息",
+          "- 可搭配be动词使用",
+          "常见用法：",
+          "- What + be + 主语...?",
+          "- What + 名词 + be + 主语...?",
+          "实用例句：",
+          "- What's your job? (你是做什么工作的？)",
+          "- What nationality are you? (你是哪国人？)",
+          "- What's your name? (你叫什么名字？)",
+          "注意事项：",
+          "- what放句首 | 可用缩略形式what's | 答句要完整"
+        ]
+      },
+      {
+        "heading": "3. 不定冠词a/an的使用",
+        "children": [
+          "核心概念：",
+          "- 用于单数可数名词前",
+          "- 根据发音选择a或an",
+          "使用规则：",
+          "- a用于辅音音素前 | an用于元音音素前",
+          "实用例句：",
+          "- I'm a student. (我是学生。)",
+          "- He's an engineer. (他是工程师。)",
+          "- She's a teacher. (她是老师。)",
+          "注意事项：",
+          "- 看发音而非拼写 | 职业前要加冠词 | 国籍词前不加冠词"
+        ]
+      }
+    ]
+  },
+  "wordStudy": {
+    "heading": "词汇学习 Word Study",
+    "notes": [
+      {
+        "heading": "1. 职业词汇",
+        "children": [
+          "基本职业：",
+          "- teacher (教师)",
+          "- engineer (工程师)",
+          "- keyboard operator (键盘操作员)",
+          "常用搭配：",
+          "- work as a/an + 职业",
+          "- be a/an + 职业",
+          "- train to be a/an + 职业",
+          "相关表达：",
+          "- full-time job (全职工作)",
+          "- part-time job (兼职工作)",
+          "- job hunting (找工作)",
+          "使用场景：",
+          "- 求职面试 | 社交场合 | 填写表格"
+        ]
+      },
+      {
+        "heading": "2. 身份表达",
+        "children": [
+          "核心词汇：",
+          "- student (学生)",
+          "- new student (新学生)",
+          "- classmate (同学)",
+          "常用搭配：",
+          "- be a student at + 学校",
+          "- study at + 学校",
+          "- major in + 专业",
+          "实用例句：",
+          "- I'm a new student here. (我是这里的新学生。)",
+          "- We are classmates. (我们是同学。)",
+          "- She studies at university. (她在上大学。)"
+        ]
+      },
+      {
+        "heading": "3. 日常交际用语",
+        "children": [
+          "问候语：",
+          "- Nice to meet you (很高兴见到你)",
+          "- How do you do? (你好)",
+          "询问语：",
+          "- What's your...? (你的...是什么)",
+          "- Are you...? (你是...吗)",
+          "回应语：",
+          "- Yes, I am (是的，我是)",
+          "- No, I'm not (不，我不是)",
+          "使用场景：",
+          "- 初次见面 | 社交场合 | 工作场合"
+        ]
+      }
+    ]
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "I",
+        "toggle": "pron. 我",
+        "isDanger": 0,
+        "phonetic": "aɪ",
+        "meaning": "pron. 我"
+      },
+      {
+        "word": "am",
+        "toggle": "abbr. 调幅",
+        "isDanger": 0,
+        "phonetic": "æm",
+        "meaning": "v. be 动词现在时第一人称单数"
+      },
+      {
+        "word": "are",
+        "toggle": "prep.是,在,公亩",
+        "isDanger": 1,
+        "phonetic": "ɑː(r)",
+        "meaning": "v. be动词现在时复数"
+      },
+      {
+        "word": "name",
+        "toggle": "n. 名称，名字；姓名；名誉",
+        "isDanger": 1,
+        "phonetic": "neɪm",
+        "meaning": "n. 名字"
+      },
+      {
+        "word": "what",
+        "toggle": "pron. 什么；多么；多少",
+        "isDanger": 1,
+        "phonetic": "wɒt",
+        "meaning": "pron. 什么"
+      },
+      {
+        "word": "nationality",
+        "toggle": "n. 国籍，国家；民族；部落",
+        "isDanger": 0,
+        "phonetic": "ˌnæʃəˈnæləti",
+        "meaning": "n. 国籍"
+      },
+      {
+        "word": "job",
+        "toggle": "n. 工作；职业",
+        "isDanger": 0,
+        "phonetic": "dʒɒb",
+        "meaning": "n. 工作"
+      },
+      {
+        "word": "keyboard",
+        "toggle": "n. 键盘",
+        "isDanger": 0,
+        "phonetic": "ˈkiːbɔːd",
+        "meaning": "n. 电脑键盘"
+      },
+      {
+        "word": "operator",
+        "toggle": "n. 操作员；话务员；行家；经营者",
+        "isDanger": 0,
+        "phonetic": "ˈɒpəreɪtə(r)",
+        "meaning": "n. 操作人员"
+      },
+      {
+        "word": "engineer",
+        "toggle": "n. 工程师；工兵；火车司机",
+        "isDanger": 0,
+        "phonetic": "ˌendʒɪˈnɪə(r)",
+        "meaning": "n. 工程师"
+      },
+      {
+        "word": "policeman",
+        "toggle": "n. 警察，警员；淀帚（橡皮头玻璃搅棒）",
+        "isDanger": 0,
+        "phonetic": "pəˈliːsmən",
+        "meaning": "n. 警察"
+      },
+      {
+        "word": "policewoman",
+        "toggle": "n.女警官,女警察",
+        "isDanger": 0,
+        "phonetic": "pəˈliːswʊmən",
+        "meaning": "n. 女警察"
+      },
+      {
+        "word": "taxi driver",
+        "toggle": "出租车司机",
+        "isDanger": 0,
+        "phonetic": "ˈtæksi ˈdraɪvə(r)",
+        "meaning": "n. 出租汽车司机"
+      },
+      {
+        "word": "air hostess",
+        "toggle": "n. <英，过时>空中小姐，客机女服务员",
+        "isDanger": 0,
+        "phonetic": "eə(r) ˈhəʊstəs",
+        "meaning": "n. 空中小姐"
+      },
+      {
+        "word": "postman",
+        "toggle": "n.邮差",
+        "isDanger": 0,
+        "phonetic": "ˈpəʊstmən",
+        "meaning": "n. 邮递员"
+      },
+      {
+        "word": "nurse",
+        "toggle": "vt. 看护，护理；培养；照顾；给 … 喂奶",
+        "isDanger": 1,
+        "phonetic": "nɜːs",
+        "meaning": "n. 护士"
+      },
+      {
+        "word": "mechanic",
+        "toggle": "n. 技工，机修工",
+        "isDanger": 0,
+        "phonetic": "məˈkænɪk",
+        "meaning": "n. 机械师"
+      },
+      {
+        "word": "hairdresser",
+        "toggle": "n.(为女子做发的)理发师,美容师",
+        "isDanger": 0,
+        "phonetic": "ˈheədresə(r)",
+        "meaning": "n. 理发师"
+      },
+      {
+        "word": "housewife",
+        "toggle": "n. 家庭主妇",
+        "isDanger": 0,
+        "phonetic": "ˈhaʊswaɪf",
+        "meaning": "n. 家庭妇女"
+      },
+      {
+        "word": "housework",
+        "toggle": "n. 家务事",
+        "isDanger": 0,
+        "phonetic": "ˈhaʊswɜːk",
+        "meaning": "n. 家务"
+      },
+      {
+        "word": "milkman",
+        "toggle": "n.售奶工人,送奶工人",
+        "isDanger": 0,
+        "phonetic": "ˈmɪlkmən",
+        "meaning": "n. 送牛奶的人"
+      }
+    ],
+    "heading": "相关词汇 Related words"
+  }
+}

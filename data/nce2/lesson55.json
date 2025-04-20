@@ -1,0 +1,273 @@
+{
+  "id": "nce2--055",
+  "lessonNumber": "055",
+  "title": {
+    "english": "Not a gold mine",
+    "chinese": "不是金矿"
+  },
+  "lessonInfo": "新概念英语－第2册－第055课",
+  "audioPath": "audio/nce2/055.mp3",
+  "listeningQuestion": {
+    "question": "What did the search party find in the cave?",
+    "translation": "探宝队在洞穴里发现了什么？"
+  },
+  "editorNotes": "本课讲述了一个关于寻宝的故事，介绍了一种新型的探宝机器'The Revealer'。文章主要使用了过去时态和过去习惯性动作的表达方式，重点讲解了would和used to的用法区别。文章还涉及了多个与寻宝相关的词汇，如gold、treasure、detect等。",
+  "dialogueText": {
+    "heading": "课文",
+    "dialogue": [
+      "Dreams of finding lost treasure almost came true recently.",
+      "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.",
+      "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold.",
+      "The pirates would often bury gold in the cave and then fail to collect it.",
+      "Armed with the new machine, a search party went into the cave hoping to find buried treasure.",
+      "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+      "Very excited, the party dug a hole two feet deep.",
+      "They finally found a small gold coin which was almost worthless.",
+      "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+      "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon."
+    ]
+  },
+  "translation": {
+    "heading": "翻译",
+    "notes": [
+      "最近，找到失踪宝藏的梦想差一点儿变成现实。",
+      "一种叫'探宝器'的新机器已经发明出来，并被人们用来探测地下埋藏的金子。",
+      "在靠近海边的一个据说过去海盗常在里面藏金子的岩洞里，这种机器被派上了用场。",
+      "海盗们过去常把金子埋藏在那个洞里，可后来却没能取走。",
+      "一支用这种新机器装备起来的探宝队进入了这个岩洞，希望找到埋藏着的金子。",
+      "当这个队的队长正在检查洞口附近的土壤时，那台机器显示出它的下面埋有金子。",
+      "队员们异常激动，就地挖了一个两英尺深的坑。",
+      "但最后找到的是一枚几乎一钱不值的小金币。",
+      "队员们接着又把整个洞彻底搜寻了一遍，但除了一只空铁皮箱外什么也没找到。",
+      "尽管如此，很多人仍然相信'探宝器'很快就会探出值钱的东西来。"
+    ]
+  },
+  "grammarPoints": {
+    "heading": "语法要点 Grammar points",
+    "notes": [
+      {
+        "title": "would和used to的区别",
+        "content": [
+          "would表示过去习惯性动作时，需要指出具体时间，而used to则不需要。",
+          "当used to暗示与现在的对照时，不可用would替换。",
+          "当used to描写过去的状态时，也不可与would互换，would只表示过去特有的习惯或行为。",
+          "当used to不强调与现在的对比时，可与would互换。"
+        ]
+      },
+      {
+        "title": "be used to的用法",
+        "content": [
+          "be used to表示'习惯于'，后面跟名词或动名词。",
+          "be可以用get等代替，如：get used to doing sth.",
+          "与used to do（过去常常）不同，be used to强调现在的习惯。"
+        ]
+      }
+    ]
+  },
+  "commonPhrases": {
+    "heading": "常见短语 Common phrases",
+    "notes": [
+      {
+        "phrase": "dreams come true",
+        "translation": "梦想成真",
+        "context": "表示愿望或梦想实现",
+        "example": "His dream to travel around the world at last came true."
+      },
+      {
+        "phrase": "be armed with",
+        "translation": "用...武装，装备着",
+        "context": "表示带着或装备着某物",
+        "example": "The youth should be armed with knowledge."
+      },
+      {
+        "phrase": "in spite of",
+        "translation": "尽管，虽然",
+        "context": "表示让步关系",
+        "example": "In spite of the rain, we went for a walk."
+      }
+    ]
+  },
+  "exercises": {
+    "multipleChoice": [
+      {
+        "question": "'The Revealer' has been used for ___ gold.",
+        "options": [
+          "to detect",
+          "detecting",
+          "detect",
+          "detected"
+        ],
+        "answer": 1,
+        "explanation": "介词后面要加v+ing形式，'被用来做某事'用be used for doing sth."
+      },
+      {
+        "question": "How ___ was the hole?",
+        "options": [
+          "deeply",
+          "depth",
+          "deep",
+          "down"
+        ],
+        "answer": 2,
+        "explanation": "deep既可以作形容词也可以作副词，这里表示深度。"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "The coin was almost worthless. So it was of small ___.",
+        "answer": "value",
+        "hint": "表示价值的名词"
+      }
+    ]
+  },
+  "additionalContent": {
+    "heading": "补充内容 Additional content",
+    "notes": [
+      {
+        "title": "词汇扩展",
+        "content": "gold和golden的区别：gold作名词表示'金，黄金'，作形容词表示'金的'；golden作形容词表示'金色的'，也可表示'非常好的，兴盛的'，如golden opportunity（宝贵的机会）。"
+      },
+      {
+        "title": "文化背景",
+        "content": "寻宝一直是人类历史上一个永恒的主题。从古代的海盗藏宝到现代的考古发掘，人们对寻找宝藏的热情从未减退。这个故事反映了人类对财富的追求和对未知的探索精神。"
+      }
+    ]
+  },
+  "newwords": {
+    "notes": [
+      {
+        "word": "gold",
+        "toggle": "n. 金，黄金；金币；金色",
+        "isDanger": 0,
+        "phonetic": "ɡəʊld",
+        "meaning": "n. 金子"
+      },
+      {
+        "word": "mine",
+        "toggle": "n. 矿山，矿井；矿，矿藏；地雷，水雷",
+        "isDanger": 1,
+        "phonetic": "maɪn",
+        "meaning": "n. 矿"
+      },
+      {
+        "word": "treasure",
+        "toggle": "n. 财富，财产；财宝；珍品",
+        "isDanger": 0,
+        "phonetic": "ˈtreʒə(r)",
+        "meaning": "n. 财宝"
+      },
+      {
+        "word": "revealer",
+        "toggle": "n.启示者",
+        "isDanger": 0,
+        "phonetic": "rɪˈvi:lə",
+        "meaning": "n. 探测器"
+      },
+      {
+        "word": "invent",
+        "toggle": "vt. 发明；创造；虚构",
+        "isDanger": 1,
+        "phonetic": "ɪnˈvent",
+        "meaning": "v. 发明"
+      },
+      {
+        "word": "detect",
+        "toggle": "vt. 发现；察觉；探测",
+        "isDanger": 1,
+        "phonetic": "dɪˈtekt",
+        "meaning": "v. 探测"
+      },
+      {
+        "word": "bury",
+        "toggle": "vt. 埋葬；隐藏",
+        "isDanger": 1,
+        "phonetic": "ˈberi",
+        "meaning": "v. 埋藏"
+      },
+      {
+        "word": "cave",
+        "toggle": "vt. 使凹陷，使塌落；在 … 挖洞穴",
+        "isDanger": 0,
+        "phonetic": "keɪv",
+        "meaning": "n. 山洞"
+      },
+      {
+        "word": "seashore",
+        "toggle": "n.海岸,海滨",
+        "isDanger": 0,
+        "phonetic": "ˈsiːʃɔː(r)",
+        "meaning": "n. 海岸"
+      },
+      {
+        "word": "pirate",
+        "toggle": "n. 海盗；盗版；侵犯专利权者",
+        "isDanger": 0,
+        "phonetic": "ˈpaɪrət",
+        "meaning": "n. 海盗"
+      },
+      {
+        "word": "arm",
+        "toggle": "n. 手臂；袖子；武器；装备",
+        "isDanger": 1,
+        "phonetic": "ɑːm",
+        "meaning": "v. 武装"
+      },
+      {
+        "word": "soil",
+        "toggle": "n. 土壤；土地；国家；温床；务农；粪便",
+        "isDanger": 1,
+        "phonetic": "sɔɪl",
+        "meaning": "n. 泥土"
+      },
+      {
+        "word": "entrance",
+        "toggle": "n. 入口；进入",
+        "isDanger": 0,
+        "phonetic": "ˈentrəns",
+        "meaning": "n. 入口"
+      },
+      {
+        "word": "finally",
+        "toggle": "adv. 终于；最后；决定性地",
+        "isDanger": 0,
+        "phonetic": "ˈfaɪnəli",
+        "meaning": "adv. 最后"
+      },
+      {
+        "word": "worthless",
+        "toggle": "adj. 无价值的；卑微的；不值钱的",
+        "isDanger": 0,
+        "phonetic": "ˈwɜːθləs",
+        "meaning": "adj. 毫无价值的"
+      },
+      {
+        "word": "thoroughly",
+        "toggle": "adv. 彻底地，完全地",
+        "isDanger": 0,
+        "phonetic": "ˈθʌrəli",
+        "meaning": "adv. 彻底地"
+      },
+      {
+        "word": "trunk",
+        "toggle": "n. 树干；躯干；象鼻；汽车车尾的行李箱",
+        "isDanger": 0,
+        "phonetic": "trʌŋk",
+        "meaning": "n. 行李箱"
+      },
+      {
+        "word": "confident",
+        "toggle": "adj. 自信的；确信的",
+        "isDanger": 0,
+        "phonetic": "ˈkɒnfɪdənt",
+        "meaning": "adj. 有信心的"
+      },
+      {
+        "word": "value",
+        "toggle": "n. 价值；价格；重要性；值；确切涵义",
+        "isDanger": 1,
+        "phonetic": "ˈvæljuː",
+        "meaning": "n. 价值"
+      }
+    ]
+  }
+}
