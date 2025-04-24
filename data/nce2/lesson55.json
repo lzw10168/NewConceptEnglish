@@ -1,5 +1,5 @@
 {
-  "id": "nce2--055",
+  "id": "nce2-055",
   "lessonNumber": "055",
   "title": {
     "english": "Not a gold mine",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于寻宝的故事，介绍了一种新型的探宝机器'The Revealer'。文章主要使用了过去时态和过去习惯性动作的表达方式，重点讲解了would和used to的用法区别。文章还涉及了多个与寻宝相关的词汇，如gold、treasure、detect等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Dreams of finding lost treasure almost came true recently.",
       "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.",
       "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold.",
@@ -133,7 +133,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "gold",
@@ -269,5 +269,9 @@
         "meaning": "n. 价值"
       }
     ]
-  }
+  },
+  "tags": [
+    "非谓语动词",
+    "Be used to do"
+  ]
 }

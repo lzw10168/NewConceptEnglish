@@ -1,5 +1,5 @@
 {
-  "id": "nce2--025",
+  "id": "nce2-025",
   "lessonNumber": "025",
   "title": {
     "english": "Do the English speak English?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个外国人在英国火车站与搬运工交流时遇到的语言障碍，重点介绍了railway、porter、several等词的用法，以及英语中表示'到达'的多种表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I arrived in London at last.",
       "The railway station was big, black and dark.",
       "I did not know the way to my hotel, so I asked a porter.",
@@ -56,7 +56,7 @@
       "他们说的是英语吗？"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -212,5 +212,8 @@
         "content": "1. 地址中逗号表示前者属于后者；2. 日期中月和日可互换，年份前要加逗号；3. 日期要用序数词；4. 月份必须用英语字母"
       }
     ]
-  }
+  },
+  "tags": [
+    "并列句"
+  ]
 }

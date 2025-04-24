@@ -1,0 +1,39 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 15840.0,
+      "text": "Lesson 47. A cup of coffee. Listen to the tape, then answer this question. How does",
+      "translation": "第47课。一杯咖啡。听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15840.0,
+      "endTime": 25080.000000000004,
+      "text": "Anne like her coffee? Do you like coffee, Anne? Yes, I do. Do you",
+      "translation": "安妮喜欢她的咖啡吗？你喜欢咖啡吗，安妮？是的，我喜欢。你呢？",
+      "isHeader": true
+    },
+    {
+      "startTime": 25080.0,
+      "endTime": 35519.99999999999,
+      "text": "want a cup? Yes, please, Christine. Do you want any sugar? Yes, please. Do you want",
+      "translation": "想要一杯吗？是的，请给我一杯，克里斯汀。你想要加糖吗？是的，请加。你想要",
+      "isHeader": false
+    },
+    {
+      "startTime": 35519.99999999999,
+      "endTime": 46000.0,
+      "text": "any milk? No, thank you. I don't like milk in my coffee. I like black coffee. Do you",
+      "translation": "有牛奶吗？不，谢谢。我不喜欢咖啡里加牛奶。我喜欢黑咖啡。你呢？",
+      "isHeader": false
+    },
+    {
+      "startTime": 46000.0,
+      "endTime": 53920.0,
+      "text": "like biscuits? Yes, I do. Do you want one? Yes, please.",
+      "translation": "喜欢饼干吗？是的，我喜欢。你想要一个吗？好的，请给我一个。",
+      "isHeader": false
+    }
+  ]
+}

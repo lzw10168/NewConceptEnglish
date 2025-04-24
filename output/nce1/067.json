@@ -1,0 +1,102 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8000.0,
+      "text": "Lesson 67. The Weekend.",
+      "translation": "第67课。周末。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 14000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 20000.0,
+      "text": "What are the Johnsons going to do at the weekend?",
+      "translation": "约翰逊一家周末打算做什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 24000.0,
+      "text": "Hello, were you at the butchers?",
+      "translation": "你好，你去过肉店了吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 28000.0,
+      "text": "Yes, I was. Were you at the butchers too?",
+      "translation": "是的，我在。你也在肉店吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 33000.0,
+      "text": "No, I wasn't. I was at the greengrocers.",
+      "translation": "不，我没有。我在蔬菜水果店。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33000.0,
+      "endTime": 36000.0,
+      "text": "How's Jimmy today?",
+      "translation": "吉米今天怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 36000.0,
+      "endTime": 39000.0,
+      "text": "He's very well, thank you.",
+      "translation": "他很好，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 42000.0,
+      "text": "Was he absent from school last week?",
+      "translation": "他上周没上学吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 42000.0,
+      "endTime": 50000.0,
+      "text": "Yes, he was. He was absent on Monday, Tuesday, Wednesday and Thursday.",
+      "translation": "是的，他生病了。他周一、周二、周三和周四都缺席了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50000.0,
+      "endTime": 53000.0,
+      "text": "How are you all keeping?",
+      "translation": "大家近况如何？",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 57000.0,
+      "text": "Very well, thank you. We're going to spend three days in the country.",
+      "translation": "很好，谢谢。我们将在乡下度过三天。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57000.0,
+      "endTime": 61000.0,
+      "text": "We're going to stay at my mother's for the weekend.",
+      "translation": "我们打算在周末去我妈妈家过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61000.0,
+      "endTime": 67000.0,
+      "text": "Friday, Saturday and Sunday in the country. Aren't you lucky?",
+      "translation": "星期五、星期六和星期天都在乡下。你不觉得自己很幸运吗？",
+      "isHeader": false
+    }
+  ]
+}

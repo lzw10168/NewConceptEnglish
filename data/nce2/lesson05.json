@@ -1,5 +1,5 @@
 {
-  "id": "nce2--005",
+  "id": "nce2-005",
   "lessonNumber": "005",
   "title": {
     "english": "No wrong numbers",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个创新解决通讯问题的故事。重点学习现在完成时与一般过去时的区别使用，以及与way相关的短语用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.",
       "Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
       "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
@@ -34,7 +34,7 @@
       "就这样，他开始自己的私人'电话'业务。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -217,5 +217,9 @@
         "content": "这篇课文反映了电话普及之前的通信困境。如今，虽然电话和互联网已经成为主要通信方式，但在一些特殊情况下，人们仍然会使用一些替代性的通信方法。"
       }
     ]
-  }
+  },
+  "tags": [
+    "现在完成时",
+    "一般过去时"
+  ]
 }

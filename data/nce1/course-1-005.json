@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了在英语课堂上的一个典型场景：老师向班级介绍一位新同学，并进行相互认识。课文展示了正式场合中的基本社交礼仪，包括问候语、介绍他人和回应介绍等。语法重点包括人称代词的使用和国籍形容词。这些内容对于初学者在社交场合建立基本交际能力非常重要，也帮助学习者了解不同文化背景下的礼貌用语。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "MR. BLAKE: Good morning.",
       "STUDENTS:  Good morning, Mr. Blake.",
       "MR. BLAKE: This is Miss Sophie Dupont. Sophie is a new student.She is French.",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "布莱克先生：早上好。",
       "学      生：早上好，布莱克先生。",
       "布莱克先生：这位是索菲娅.杜邦小姐。索菲娅是个新学生。她是法国人。",

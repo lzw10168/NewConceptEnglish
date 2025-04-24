@@ -1,0 +1,81 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7000.0,
+      "text": "Lesson 41.",
+      "translation": "第41课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7000.0,
+      "endTime": 10000.0,
+      "text": "Penny's Bag.",
+      "translation": "彭妮的包。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 14000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 19000.0,
+      "text": "Who is the tin of tobacco for?",
+      "translation": "这罐烟草是给谁的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19000.0,
+      "endTime": 23000.0,
+      "text": "Is that bag heavy, Penny?",
+      "translation": "那个包重吗，彭妮？",
+      "isHeader": false
+    },
+    {
+      "startTime": 23000.0,
+      "endTime": 25000.0,
+      "text": "Not very.",
+      "translation": "不是很好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 28000.0,
+      "text": "Here, put it on this chair.",
+      "translation": "这里，把它放在这张椅子上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 30000.0,
+      "text": "What's in it?",
+      "translation": "里面有什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 51000.0,
+      "text": "A piece of cheese, a loaf of bread, a bar of soap, a bar of chocolate, a bottle of milk, a pound of sugar, half a pound of coffee, a quarter of a pound of tea, and a tin of tobacco.",
+      "translation": "一块奶酪，一条面包，一块肥皂，一块巧克力，一瓶牛奶，一磅糖，半磅咖啡，四分之一磅茶叶，还有一罐烟草。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51000.0,
+      "endTime": 54000.0,
+      "text": "Is that tin of tobacco for me?",
+      "translation": "那罐烟草是给我的吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 54000.0,
+      "endTime": 57000.0,
+      "text": "Well, it's certainly not for me.",
+      "translation": "好吧，这当然不适合我。",
+      "isHeader": false
+    }
+  ]
+}

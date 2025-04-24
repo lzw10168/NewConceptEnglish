@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 3000.0,
+      "text": "Lesson 22.",
+      "translation": "第22课",
+      "isHeader": false
+    },
+    {
+      "startTime": 3000.0,
+      "endTime": 6320.0,
+      "text": "A Glass Envelope.",
+      "translation": "一个玻璃信封。",
+      "isHeader": false
+    },
+    {
+      "startTime": 6320.0,
+      "endTime": 16920.0,
+      "text": "First listen and then answer the question, How did Jane receive a letter from a stranger?",
+      "translation": "首先听录音，然后回答问题，简是如何收到一个陌生人的来信的？",
+      "isHeader": false
+    },
+    {
+      "startTime": 16920.0,
+      "endTime": 27320.0,
+      "text": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+      "translation": "我的女儿，简，从未梦想过会收到来自荷兰一个同龄女孩的信。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27320.0,
+      "endTime": 34200.0,
+      "text": "Last year, we were traveling across the channel and Jane put a piece of paper with her name",
+      "translation": "去年，我们正在穿越海峡，简放了一张写有她名字的纸片",
+      "isHeader": false
+    },
+    {
+      "startTime": 34200.0,
+      "endTime": 37920.0,
+      "text": "and address on it into a bottle.",
+      "translation": "把地址写在瓶子上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37920.0,
+      "endTime": 41360.0,
+      "text": "She threw the bottle into the sea.",
+      "translation": "她把瓶子扔进了大海。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41360.0,
+      "endTime": 48360.0,
+      "text": "She never thought of it again, but ten months later, she received a letter from a girl in",
+      "translation": "她再也没有想过这件事，但十个月之后，她收到了一个来自",
+      "isHeader": false
+    },
+    {
+      "startTime": 48360.0,
+      "endTime": 50280.0,
+      "text": "Holland.",
+      "translation": "荷兰。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50280.0,
+      "endTime": 54200.0,
+      "text": "Both girls write to each other regularly now.",
+      "translation": "现在两个女孩定期互相写信。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54280.0,
+      "endTime": 60200.0,
+      "text": "However, they have decided to use the post office.",
+      "translation": "然而，他们决定使用邮局。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60200.0,
+      "endTime": 65320.00000000001,
+      "text": "Letters will cost a little more, but they will certainly travel faster.",
+      "translation": "信件的费用会稍微增加，但它们肯定会更快地旅行。",
+      "isHeader": false
+    }
+  ]
+}

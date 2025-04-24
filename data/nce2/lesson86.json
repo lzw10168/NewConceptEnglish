@@ -1,5 +1,5 @@
 {
-  "id": "nce2--086",
+  "id": "nce2-086",
   "lessonNumber": "086",
   "title": {
     "english": "Out of control",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个惊险的水上事故。当一个人试图让快艇转弯时，方向盘脱手了，导致快艇失控。他和他的伙伴被抛入海中，快艇开始在水面上转圈，几次差点撞上他们。最终，快艇的汽油耗尽，噪音消失，开始在水面上缓慢漂流。本课介绍了多个与水上运动和紧急情况相关的词汇，如swing、speedboat、desperately、buoy等，以及一些常用短语如out of control、come away、use up等。本课还介绍了enough和fairly的用法区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
       "He waved desperately to his companion, who had been water skiing for the last fifteen minutes.",
       "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
@@ -205,7 +205,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "swing",
@@ -285,5 +285,9 @@
         "meaning": "adv. 缓慢地，轻轻地"
       }
     ]
-  }
+  },
+  "tags": [
+    "过去完成时",
+    "过去完成进行时"
+  ]
 }

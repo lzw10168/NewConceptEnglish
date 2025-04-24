@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一对夫妇购买电视的场景，展示了商品价格比较、分期付款等购物情境中的常用表达。课文重点介绍了形容词比较级和最高级的使用，以及与价格、支付相关的实用表达。这些表达对于日常购物场景非常有帮助。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr Frith:        I like this TV very much. How much does it cost please?",
       "Assistant:        It's the most expensive model in the shop. It costs 500 pounds.",
       "Mrs Frith:       That's too expensive for us. We can't afford all that money.",
@@ -29,7 +29,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "弗里斯先生：我非常喜欢这台电视机。请问它多少钱？",
       "店 员：这是店里最贵的型号。它的售价是500英镑。",
       "弗里斯夫人：这对我们来说是太贵了。我们花不起那么多钱。",

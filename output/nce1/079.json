@@ -1,0 +1,144 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9000.0,
+      "text": "Lesson 79 Carol's shopping list.",
+      "translation": "第79课 卡罗尔的购物清单",
+      "isHeader": false
+    },
+    {
+      "startTime": 9000.0,
+      "endTime": 15000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 21000.0,
+      "text": "What is Carol not going to buy?",
+      "translation": "卡罗尔不打算买什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21000.0,
+      "endTime": 23000.0,
+      "text": "What are you doing, Carol?",
+      "translation": "卡罗尔，你在做什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 23000.0,
+      "endTime": 26000.0,
+      "text": "I'm making a shopping list, Tom.",
+      "translation": "我在列购物清单，汤姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 28000.0,
+      "text": "What do we need?",
+      "translation": "我们需要什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 32000.0,
+      "text": "We need a lot of things this week.",
+      "translation": "这周我们需要很多东西。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32000.0,
+      "endTime": 35000.0,
+      "text": "I must go to the grocers.",
+      "translation": "我必须去杂货店。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 42000.0,
+      "text": "We haven't got much tea or coffee, and we haven't got any sugar or jam.",
+      "translation": "我们没有太多的茶或咖啡，我们也没有糖或果酱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42000.0,
+      "endTime": 45000.0,
+      "text": "What about vegetables?",
+      "translation": "蔬菜怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 45000.0,
+      "endTime": 48000.0,
+      "text": "I must go to the greengrocers.",
+      "translation": "我必须去蔬菜水果店。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 55000.0,
+      "text": "We haven't got many tomatoes, but we've got a lot of potatoes.",
+      "translation": "我们没有很多西红柿，但我们有很多土豆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 58000.0,
+      "text": "I must go to the butchers, too.",
+      "translation": "我也必须去肉店。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58000.0,
+      "endTime": 60000.0,
+      "text": "We need some meat.",
+      "translation": "我们需要一些肉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60000.0,
+      "endTime": 63000.0,
+      "text": "We haven't got any meat at all.",
+      "translation": "我们一点肉也没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63000.0,
+      "endTime": 65000.0,
+      "text": "Have we got any beer and wine?",
+      "translation": "我们有啤酒和葡萄酒吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 69000.0,
+      "text": "No, we haven't, and I'm not going to get any.",
+      "translation": "不，我们没有，我也不打算去弄一些。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 72000.0,
+      "text": "I hope that you've got some money.",
+      "translation": "我希望你们带了一些钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72000.0,
+      "endTime": 74000.0,
+      "text": "I haven't got much.",
+      "translation": "我没有太多。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74000.0,
+      "endTime": 78000.0,
+      "text": "Well, I haven't got much either.",
+      "translation": "好吧，我也没有太多。",
+      "isHeader": false
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7000.0,
+      "text": "Listen 43.",
+      "translation": "听第43题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 7000.0,
+      "endTime": 8000.0,
+      "text": "Hurry up.",
+      "translation": "快点。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 14080.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14080.0,
+      "endTime": 17920.0,
+      "text": "How do you know Sam doesn't make the tea very often?",
+      "translation": "你怎么知道山姆不常泡茶？",
+      "isHeader": true
+    },
+    {
+      "startTime": 17920.0,
+      "endTime": 22160.0,
+      "text": "Can you make the tea, Sam?",
+      "translation": "萨姆，你能泡茶吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 22160.0,
+      "endTime": 27080.000000000004,
+      "text": "Yes, of course I can, Penny.",
+      "translation": "当然可以，佩妮。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27080.0,
+      "endTime": 30080.0,
+      "text": "Is there any water in this kettle?",
+      "translation": "这个壶里有水吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30080.0,
+      "endTime": 32080.0,
+      "text": "Yes, there is.",
+      "translation": "是的，有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32080.0,
+      "endTime": 35080.0,
+      "text": "Where's the tea?",
+      "translation": "茶在哪里？",
+      "isHeader": false
+    },
+    {
+      "startTime": 35080.0,
+      "endTime": 39080.0,
+      "text": "It's over there, behind the teapot.",
+      "translation": "它在那边，茶壶后面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39080.0,
+      "endTime": 42080.0,
+      "text": "Can't you see it?",
+      "translation": "你难道看不见吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 42080.0,
+      "endTime": 47080.0,
+      "text": "I can see the teapot, but I can't see the tea.",
+      "translation": "我能看见茶壶，但我看不见茶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47080.0,
+      "endTime": 52080.0,
+      "text": "There it is. It's in front of you.",
+      "translation": "就在那儿。它在你前面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52080.0,
+      "endTime": 57080.0,
+      "text": "Oh yes, I can see it now.",
+      "translation": "哦，是的，我现在可以看到了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57080.0,
+      "endTime": 60080.0,
+      "text": "Where are the cups?",
+      "translation": "杯子在哪里？",
+      "isHeader": false
+    },
+    {
+      "startTime": 60080.0,
+      "endTime": 64080.0,
+      "text": "There are some in the cupboard.",
+      "translation": "橱柜里有一些。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64080.0,
+      "endTime": 66080.0,
+      "text": "Can you find them?",
+      "translation": "你能找到他们吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 66080.0,
+      "endTime": 69080.0,
+      "text": "Yes, here they are.",
+      "translation": "是的，他们在这儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69080.0,
+      "endTime": 74080.0,
+      "text": "Hurry up, Sam. The kettle's boiling.",
+      "translation": "快点，萨姆。水壶开了。",
+      "isHeader": false
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6560.000000000001,
+      "text": "Lesson 51.",
+      "translation": "第51课",
+      "isHeader": false
+    },
+    {
+      "startTime": 6560.000000000001,
+      "endTime": 9640.0,
+      "text": "A Pleasant Climate.",
+      "translation": "宜人的气候",
+      "isHeader": false
+    },
+    {
+      "startTime": 9640.0,
+      "endTime": 14280.000000000002,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14280.000000000002,
+      "endTime": 19440.0,
+      "text": "Does it ever snow in Greece?",
+      "translation": "希腊会下雪吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19440.0,
+      "endTime": 22320.0,
+      "text": "Where do you come from?",
+      "translation": "你来自哪里？",
+      "isHeader": false
+    },
+    {
+      "startTime": 22320.0,
+      "endTime": 26080.000000000004,
+      "text": "I come from Greece.",
+      "translation": "我来自希腊。",
+      "isHeader": false
+    },
+    {
+      "startTime": 26080.0,
+      "endTime": 30520.0,
+      "text": "What's the climate like in your country?",
+      "translation": "你们国家的气候怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30520.0,
+      "endTime": 34480.0,
+      "text": "It's very pleasant.",
+      "translation": "这非常令人愉快。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34480.0,
+      "endTime": 38839.99999999999,
+      "text": "What's the weather like in spring?",
+      "translation": "春天的天气怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 38839.99999999999,
+      "endTime": 42040.0,
+      "text": "It's often windy in March.",
+      "translation": "三月经常刮风。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42040.0,
+      "endTime": 50239.99999999999,
+      "text": "It's always warm in April and May, but it rains sometimes.",
+      "translation": "四月和五月总是暖和的，但有时会下雨。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50239.99999999999,
+      "endTime": 54320.0,
+      "text": "What's it like in summer?",
+      "translation": "夏天天气怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 54320.0,
+      "endTime": 59480.00000000001,
+      "text": "It's always hot in June, July, and August.",
+      "translation": "六、七、八月份总是很热。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59480.00000000001,
+      "endTime": 63640.0,
+      "text": "The sun shines every day.",
+      "translation": "太阳每天都照耀着。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63640.0,
+      "endTime": 67720.0,
+      "text": "Is it cold or warm in autumn?",
+      "translation": "秋天是冷还是暖和？",
+      "isHeader": false
+    },
+    {
+      "startTime": 67720.0,
+      "endTime": 72560.0,
+      "text": "It's always warm in September and October.",
+      "translation": "九月和十月总是很暖和。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72560.0,
+      "endTime": 78720.0,
+      "text": "It's often cold in November, and it rains sometimes.",
+      "translation": "十一月通常很冷，有时下雨。",
+      "isHeader": false
+    },
+    {
+      "startTime": 78720.0,
+      "endTime": 82560.0,
+      "text": "Is it very cold in winter?",
+      "translation": "冬天非常冷吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 82560.0,
+      "endTime": 88480.0,
+      "text": "It's often cold in December, January, and February.",
+      "translation": "十二月、一月和二月常常很冷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 88480.0,
+      "endTime": 92480.0,
+      "text": "It snows sometimes.",
+      "translation": "有时下雪。",
+      "isHeader": false
+    }
+  ]
+}

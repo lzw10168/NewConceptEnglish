@@ -53,7 +53,7 @@ def transcribe_audio(audio_path, output_path=None, format="txt"):
     """
     # 加载模型
     print("Loading model...")
-    model = whisper.load_model("base")
+    model = whisper.load_model("medium")
     
     # 转录音频
     print("Transcribing audio...")
@@ -65,19 +65,19 @@ def transcribe_audio(audio_path, output_path=None, format="txt"):
     
     # 准备输出内容
     if format == "json":
-        # JSON 格式，适合播放器歌词显示
-        # import json
         print("Translating segments...")
-
+        
         lyrics_data = {
             "lyrics": [
                 {
-                    "startTime": segment["start"] * 1000,  # 转换为毫秒
-                    "endTime": segment["end"] * 1000,      # 转换为毫秒
+                    "startTime": segment["start"] * 1000,
+                    "endTime": segment["end"] * 1000,
                     "text": segment["text"].strip(),
-                    "translation": translate_text(segment["text"].strip())
+                    "translation": translate_text(segment["text"].strip()),
+                    # 添加一个标记来指示是否是问题开始
+                    "isHeader": "then answer the question" in (result["segments"][i-1]["text"].lower() if i > 0 else "") if i < len(result["segments"]) else False
                 }
-                for segment in result["segments"]
+                for i, segment in enumerate(result["segments"])
             ]
         }
         import json
@@ -118,28 +118,28 @@ def transcribe_audio(audio_path, output_path=None, format="txt"):
 
 # 使用示例
 if __name__ == "__main__":
-    # 替换为你的音频文件路径
-    audio_file = "./audio/nce1/095.mp3"
+    # 指定输入和输出目录
+    input_dir = "./audio/nce2"
+    output_dir = "./output/nce2"  # 新建一个输出目录
     
-    # 生成输出文件名（使用当前时间戳）
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # 确保输出目录存在
+    os.makedirs(output_dir, exist_ok=True)
     
-    # 保存为纯文本格式
-    # txt_output = f"transcription_{timestamp}.txt"
-    # print("\nGenerating text format with timestamps...")
-    # txt_result = transcribe_audio(audio_file, txt_output, format="txt")
-    # print("\nText format result:")
-    # print(txt_result)
+    # 获取所有 mp3 文件
+    audio_files = [f for f in os.listdir(input_dir) if f.endswith('.mp3')]
     
-    # # 保存为 SRT 格式
-    # srt_output = f"transcription_{timestamp}.srt"
-    # print("\nGenerating SRT format...")
-    # srt_result = transcribe_audio(audio_file, srt_output, format="srt")
-    # print("\nSRT format saved to:", srt_output)
-
-    # 保存为 JSON 格式
-    json_output = f"transcription_{timestamp}.json"
-    print("\nGenerating JSON format...")
-    json_result = transcribe_audio(audio_file, json_output, format="json")
-    print("\nJSON format saved to:", json_output)
+    # 按文件名排序
+    audio_files.sort()
+    
+    # 处理每个音频文件
+    for audio_file in audio_files:
+        input_path = os.path.join(input_dir, audio_file)
+        # 使用原文件名，但改为.json后缀
+        output_filename = os.path.splitext(audio_file)[0] + '.json'
+        output_path = os.path.join(output_dir, output_filename)
+        
+        print(f"\nProcessing: {audio_file}")
+        print(f"Generating JSON format...")
+        json_result = transcribe_audio(input_path, output_path, format="json")
+        print(f"JSON format saved to: {output_path}")
     # translate_text("Hello, world!")

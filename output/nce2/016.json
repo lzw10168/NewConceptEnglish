@@ -1,0 +1,95 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5520.000000000001,
+      "text": "Lesson 23 A New House",
+      "translation": "第23课 新房子",
+      "isHeader": false
+    },
+    {
+      "startTime": 5520.000000000001,
+      "endTime": 15360.0,
+      "text": "First listen and then answer the question, Why is the new house special?",
+      "translation": "首先听录音，然后回答问题，为什么这座新房子很特别？",
+      "isHeader": false
+    },
+    {
+      "startTime": 15360.0,
+      "endTime": 19500.0,
+      "text": "I had a letter from my sister yesterday.",
+      "translation": "我昨天收到了我妹妹的一封信。",
+      "isHeader": false
+    },
+    {
+      "startTime": 19500.0,
+      "endTime": 22460.0,
+      "text": "She lives in Nigeria.",
+      "translation": "她住在尼日利亚。",
+      "isHeader": false
+    },
+    {
+      "startTime": 22460.0,
+      "endTime": 28580.000000000004,
+      "text": "In her letter, she said that she would come to England next year.",
+      "translation": "在她的信中，她说她明年会来英国。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28580.0,
+      "endTime": 32780.0,
+      "text": "If she comes, she will get a surprise.",
+      "translation": "如果她来了，她会大吃一惊。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32780.0,
+      "endTime": 38180.0,
+      "text": "We are now living in a beautiful new house in the country.",
+      "translation": "我们现在住在乡下的一栋漂亮的新房子里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38180.0,
+      "endTime": 42780.0,
+      "text": "Work on it had begun before my sister left.",
+      "translation": "在我姐姐离开之前，已经开始了这项工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42780.0,
+      "endTime": 46700.0,
+      "text": "The house was completed five months ago.",
+      "translation": "这所房子五个月前就完工了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46700.0,
+      "endTime": 51700.0,
+      "text": "In my letter, I told her that she could stay with us.",
+      "translation": "在我的信中，我告诉她她可以和我们待在一起。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51700.0,
+      "endTime": 57540.0,
+      "text": "The house has many large rooms and there is a lovely garden.",
+      "translation": "这座房子有很多大房间，还有一个可爱的花园。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57540.0,
+      "endTime": 63860.0,
+      "text": "It is a very modern house, so it looks strange to some people.",
+      "translation": "这是一座非常现代的房子，所以对一些人来说看起来很奇怪。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63860.0,
+      "endTime": 67860.0,
+      "text": "It must be the only modern house in the district.",
+      "translation": "这一定是这个地区唯一的现代房屋。",
+      "isHeader": false
+    }
+  ]
+}

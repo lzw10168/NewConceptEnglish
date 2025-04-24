@@ -1,5 +1,5 @@
 {
-  "id": "nce2--040",
+  "id": "nce2-040",
   "lessonNumber": "040",
   "title": {
     "english": "Food and talk",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个在晚宴上发生的尴尬对话。作者试图与一位严肃的女士交谈，但对方只回答'不'，最后还讽刺作者话太多。这个故事反映了社交场合中的沟通技巧和礼仪问题。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.",
       "Mrs. Rumbold was a large, unsmiling lady in a tight black dress.",
       "She did not even look up when I took my seat beside her.",
@@ -48,7 +48,7 @@
       "'年轻人，'她回答说，'如果你多吃点，少说点，我们两个都会吃得好的！'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "生词和短语",
     "notes": [
       {
@@ -217,5 +217,11 @@
         "content": "Mrs. Rumbold的'unsmiling'表情和'eyes fixed on her plate'的行为都是非语言沟通的例子，表明她不想交谈。在跨文化交际中，理解非语言信号非常重要，因为不同文化对非语言行为的解读可能不同。"
       }
     ]
-  }
+  },
+  "tags": [
+    "将来进行时",
+    "虚拟条件句",
+    "虚拟语气",
+    "if条件状语从句"
+  ]
 }

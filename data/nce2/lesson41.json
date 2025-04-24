@@ -1,5 +1,5 @@
 {
-  "id": "nce2--041",
+  "id": "nce2-041",
   "lessonNumber": "041",
   "title": {
     "english": "Do you call that a hat?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一对夫妻在帽店购物的幽默故事。丈夫对妻子试戴的帽子表示不满，妻子则反击提醒他昨天买的领带。这个故事反映了夫妻间的日常互动和幽默感，同时也展示了情态动词must、have to和need的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "'Do you call that a hat?' I said to my wife.",
       "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.",
       "I sat down on one of those modern chairs with holes in it and waited. We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
@@ -38,7 +38,7 @@
       "10分钟以后，我们一道走出了商店。我妻子戴着一顶像灯塔一样的帽子。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "生词和短语",
     "notes": [
       {
@@ -207,5 +207,10 @@
         "content": "本课中的对话展示了夫妻间的幽默互动。丈夫对妻子的购物习惯表示不满，而妻子则巧妙地反击，提醒他昨天买的领带。这种幽默的交流方式是健康婚姻关系的一部分，能够缓解日常生活中的小摩擦。"
       }
     ]
-  }
+  },
+  "tags": [
+    "情态动词",
+    "need",
+    "情态动词词组"
+  ]
 }

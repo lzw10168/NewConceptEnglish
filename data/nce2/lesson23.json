@@ -1,5 +1,5 @@
 {
-  "id": "nce2--023",
+  "id": "nce2-023",
   "lessonNumber": "023",
   "title": {
     "english": "A new house",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于新居的故事，重点介绍了complete、modern、strange等词的用法，以及there is和it is的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I had a letter from my sister yesterday. She lives in Nigeria.",
       "In her letter, she said that she would come to England next year.",
       "If she comes, she will get a surprise.",
@@ -42,7 +42,7 @@
       "它肯定是这个地区唯一的一栋现代化住宅。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -184,5 +184,10 @@
         "content": "district（地区）通常指行政划分的区域，area（地段）指某个范围的区域，region（地带）则指具有某些共同特征的较大区域。"
       }
     ]
-  }
+  },
+  "tags": [
+    "时态",
+    "There be",
+    "单元复习"
+  ]
 }

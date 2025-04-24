@@ -1,5 +1,5 @@
 {
-  "id": "nce2--043",
+  "id": "nce2-043",
   "lessonNumber": "043",
   "title": {
     "english": "Over the South Pole",
@@ -14,7 +14,7 @@
   "editorNotes": "本文讲述了美国探险家R.E.伯德于1929年首次飞越南极的历史事件。文章描述了伯德和他的团队在飞行过程中遇到的困难，以及他们如何通过减轻飞机重量成功飞越山脉。文章中的语法要点包括'can'和'be able to'的区别，以及'though/although'引导让步状语从句的用法。在实际使用中，'run into trouble'和'at one point'等短语在描述困难和转折时非常有用，掌握这些表达方式可以使英语表达更加生动和准确。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time.",
       "Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble.",
       "At one point, it seemed certain that their plane would crash.",
@@ -140,7 +140,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "pole",
@@ -234,5 +234,10 @@
         "meaning": "n. 平原"
       }
     ]
-  }
+  },
+  "tags": [
+    "主语从句",
+    "can",
+    "Be able to"
+  ]
 }

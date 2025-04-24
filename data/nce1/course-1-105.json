@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段办公室对话，展示了上下级之间的工作交流。课文涉及工作指令、错误纠正和礼貌用语等交际功能，同时介绍了祈使句和间接引语的使用。这些表达对于职场交际非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The Boss:     Where's Miss Simpson, Bob? I want her.",
       "Bob:          Do you want to speak to her, sir?",
       "The Boss:     Yes, I do. I want her to come to my office. Tell her to come at once.",
@@ -30,7 +30,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "老 板：鲍勃，Simpson在哪儿？我要找她。",
       "鲍 勃：您要同她谈话吗？",
       "老 板：是的，我要她到我的办公室来。叫她马上就来。",

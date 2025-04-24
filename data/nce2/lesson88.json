@@ -1,5 +1,5 @@
 {
-  "id": "nce2--088",
+  "id": "nce2-088",
   "lessonNumber": "088",
   "title": {
     "english": "Trapped in a mine",
@@ -14,7 +14,7 @@
   "editorNotes": "这篇文章描述了一个矿井救援的故事，主要涉及虚拟语气的使用。文章通过救援人员面临的困境和被困矿工的心理状态，展示了在危机情况下的应对方式。语法重点包括虚拟语气、现在完成时和过去完成时的使用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Six men have been trapped in a mine for seventeen hours.",
       "If they are not brought to the surface soon they may lose their lives.",
       "However, rescue operations are proving difficult.",
@@ -146,7 +146,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "trap",
@@ -233,5 +233,8 @@
         "meaning": "adv. 顺利地"
       }
     ]
-  }
+  },
+  "tags": [
+    "if条件状语从句"
+  ]
 }

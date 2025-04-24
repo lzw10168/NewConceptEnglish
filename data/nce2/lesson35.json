@@ -1,5 +1,5 @@
 {
-  "id": "nce2--035",
+  "id": "nce2-035",
   "lessonNumber": "035",
   "title": {
     "english": "Stop thief!",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一位公交车司机勇敢阻止盗窃案的故事。课文使用了多个动作动词和时态，展示了事件的紧张过程。同时介绍了一些重要的语法点，如'so'和'such'的用法区别等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Roy Trenton used to drive a taxi.",
       "A short while ago, however, he became a bus driver and he was not regretted it.",
       "He is finding his new work far more exciting.",
@@ -44,7 +44,7 @@
       "没过多久，警察就截住了那辆车，两个小偷都被抓住了。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -253,5 +253,10 @@
         "content": "在英语国家，公民协助警察抓捕罪犯是一种普遍现象，这体现了公民的社会责任感。但同时也要注意安全，不要采取危险的行动。"
       }
     ]
-  }
+  },
+  "tags": [
+    "结果状语从句",
+    "状语从句",
+    "Used to do"
+  ]
 }

@@ -1,0 +1,81 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5560.000000000001,
+      "text": "LESSON 15 GOOD NEWS",
+      "translation": "第15课 好消息",
+      "isHeader": false
+    },
+    {
+      "startTime": 5560.000000000001,
+      "endTime": 14140.0,
+      "text": "First listen and then answer the question, What was the good news?",
+      "translation": "首先听录音，然后回答问题，好消息是什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 14140.0,
+      "endTime": 19320.0,
+      "text": "The secretary told me that Mr. Harmsworth would see me.",
+      "translation": "秘书告诉我哈姆斯沃斯先生会见我。",
+      "isHeader": false
+    },
+    {
+      "startTime": 19320.0,
+      "endTime": 24540.0,
+      "text": "I felt very nervous when I went into his office.",
+      "translation": "我走进他的办公室时感到非常紧张。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24540.0,
+      "endTime": 29280.0,
+      "text": "He did not look up from his desk when I entered.",
+      "translation": "我进去时，他没有从办公桌上抬起头来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29280.0,
+      "endTime": 35280.0,
+      "text": "After I had sat down, he said that business was very bad.",
+      "translation": "我坐下后，他说生意非常糟糕。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35280.0,
+      "endTime": 41000.0,
+      "text": "He told me that the firm could not afford to pay such large salaries.",
+      "translation": "他告诉我，公司付不起这么高的工资。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41000.0,
+      "endTime": 45160.00000000001,
+      "text": "Twenty people had already left.",
+      "translation": "已经有二十个人离开了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45160.00000000001,
+      "endTime": 48120.00000000001,
+      "text": "I knew that my turn had come.",
+      "translation": "我知道轮到我了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48120.00000000001,
+      "endTime": 56560.0,
+      "text": "Mr. Harmsworth, I said in a weak voice, Don't interrupt, he said.",
+      "translation": "哈姆斯沃斯先生，我用微弱的声音说，他说道：“不要打断。”",
+      "isHeader": false
+    },
+    {
+      "startTime": 56560.0,
+      "endTime": 64560.0,
+      "text": "Then he smiled and told me I would receive an extra thousand pounds a year.",
+      "translation": "然后他笑了，告诉我每年会多给我一千英镑。",
+      "isHeader": false
+    }
+  ]
+}

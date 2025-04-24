@@ -1,5 +1,5 @@
 {
-  "id": "nce2--058",
+  "id": "nce2-058",
   "lessonNumber": "058",
   "title": {
     "english": "A blessing in disguise?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个小村庄中一棵'被诅咒的树'的故事，这棵树虽然被认为会带来厄运，但实际上却为村庄带来了旅游收入。文章主要使用了被动语态、强调句型和条件句，以及多个与树木、迷信和旅游相关的词汇。文章还涉及了'因祸得福'这一概念，展示了事物可能具有的双面性。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The tiny village of Frinley is said to possess a 'cursed tree'.",
       "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased.",
       "The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.",
@@ -131,7 +131,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "blessing",
@@ -253,5 +253,9 @@
         "meaning": "v. 受益"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态",
+    "强调句"
+  ]
 }

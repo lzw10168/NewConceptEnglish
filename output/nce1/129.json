@@ -1,0 +1,172 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5000.0,
+      "text": "Lesson 129.",
+      "translation": "第129课。",
+      "isHeader": false
+    },
+    {
+      "startTime": 5000.0,
+      "endTime": 11520.0,
+      "text": "Seventy miles an hour.",
+      "translation": "七十英里每小时。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11520.0,
+      "endTime": 15740.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15740.0,
+      "endTime": 19480.0,
+      "text": "What does Anne advise her husband to do next time?",
+      "translation": "安妮建议她丈夫下次做什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19480.0,
+      "endTime": 24460.0,
+      "text": "Look, Gary, that policeman's waving to you.",
+      "translation": "看，加里，那个警察在向你挥手。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24460.0,
+      "endTime": 27640.0,
+      "text": "He wants you to stop.",
+      "translation": "他想让你停下来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27640.0,
+      "endTime": 29840.0,
+      "text": "Where do you think you are?",
+      "translation": "你觉得你在哪里？",
+      "isHeader": false
+    },
+    {
+      "startTime": 29840.0,
+      "endTime": 32040.0,
+      "text": "On a racetrack?",
+      "translation": "在赛车场上？",
+      "isHeader": false
+    },
+    {
+      "startTime": 32040.0,
+      "endTime": 36160.0,
+      "text": "You must have been driving at 70 miles an hour.",
+      "translation": "你当时一定是以每小时70英里的速度在开车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36160.0,
+      "endTime": 40080.0,
+      "text": "I can't have been.",
+      "translation": "我不可能去过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40080.0,
+      "endTime": 44600.0,
+      "text": "I was doing 80 when I overtook you.",
+      "translation": "我超车时速度达到了80英里每小时。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44600.0,
+      "endTime": 48000.0,
+      "text": "Didn't you see the speed limit?",
+      "translation": "你没有看到速度限制吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 50400.0,
+      "text": "I'm afraid I didn't, officer.",
+      "translation": "恐怕我没有，警官。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50400.0,
+      "endTime": 52400.0,
+      "text": "I must have been dreaming.",
+      "translation": "我一定是在做梦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52400.0,
+      "endTime": 55320.0,
+      "text": "He wasn't dreaming, officer.",
+      "translation": "他没有在做梦，警官。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55320.0,
+      "endTime": 58720.0,
+      "text": "I was telling him to drive slowly.",
+      "translation": "我告诉他要慢慢开车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58720.0,
+      "endTime": 62879.99999999999,
+      "text": "That's why I didn't see the sign.",
+      "translation": "那就是我没有看到标志的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62879.99999999999,
+      "endTime": 66720.0,
+      "text": "Let me see your driving license.",
+      "translation": "让我看看你的驾照。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66720.0,
+      "endTime": 71400.0,
+      "text": "I won't charge you this time, but you'd better not do it again.",
+      "translation": "这次我不会收费，但你最好不要再这样做。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71400.0,
+      "endTime": 72400.0,
+      "text": "Thank you.",
+      "translation": "谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72400.0,
+      "endTime": 76240.0,
+      "text": "I'll certainly be more careful.",
+      "translation": "我当然会更加小心的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76240.0,
+      "endTime": 79840.0,
+      "text": "I told you to drive slowly, Gary.",
+      "translation": "我告诉过你要慢慢开车，加里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79840.0,
+      "endTime": 82880.0,
+      "text": "You always tell me to drive slowly, darling.",
+      "translation": "你总是告诉我开车要慢点，亲爱的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 82880.0,
+      "endTime": 88680.0,
+      "text": "Well, next time you'd better take my advice.",
+      "translation": "好的，下次你最好还是听从我的建议。",
+      "isHeader": false
+    }
+  ]
+}

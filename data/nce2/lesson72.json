@@ -1,5 +1,5 @@
 {
-  "id": "nce2--072",
+  "id": "nce2-072",
   "lessonNumber": "072",
   "title": {
     "english": "A car called bluebird",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了赛车选手马尔科姆·坎贝尔爵士创造世界纪录的故事。文章介绍了他在犹他州邦纳维尔盐滩驾驶'蓝鸟'汽车创造速度纪录的经历，以及他儿子唐纳德后来也创造世界纪录的故事。文章通过这个生动的故事，展示了不定式作定语、介词per的用法、have difficulty in doing结构等语法点，以及一些表示'速度'、'困难'和'继承'的表达方式。文章还展示了如何描述历史事件和科技成就，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The great racing driver, Sir Malcolm Campbell, was the first man to drive at over 300 miles per hour.",
       "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.",
       "Bluebird, the car he was driving, had been specially built for him.",
@@ -178,7 +178,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "racing",
@@ -230,5 +230,8 @@
         "meaning": "n. 足迹"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

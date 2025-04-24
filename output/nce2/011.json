@@ -1,0 +1,137 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5280.0,
+      "text": "Lesson 19 Sold Out",
+      "translation": "第19课 售罄",
+      "isHeader": false
+    },
+    {
+      "startTime": 5280.0,
+      "endTime": 15360.0,
+      "text": "First listen and then answer the question, When will the writer see the play?",
+      "translation": "首先听录音，然后回答问题，作家什么时候去看戏剧？",
+      "isHeader": false
+    },
+    {
+      "startTime": 15360.0,
+      "endTime": 19720.0,
+      "text": "The play may begin at any moment, I said.",
+      "translation": "我说，戏剧可能随时开始。",
+      "isHeader": false
+    },
+    {
+      "startTime": 19720.0,
+      "endTime": 24620.0,
+      "text": "It may have begun already, Susan answered.",
+      "translation": "它可能已经开始了，苏珊回答道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24620.0,
+      "endTime": 27960.0,
+      "text": "I hurried to the ticket office.",
+      "translation": "我匆忙赶到售票处。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27960.0,
+      "endTime": 30960.0,
+      "text": "May I have two tickets, please?",
+      "translation": "请问我可以要两张票吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30960.0,
+      "endTime": 31960.0,
+      "text": "I asked.",
+      "translation": "我问了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31960.0,
+      "endTime": 37560.0,
+      "text": "I'm sorry, we've sold out, the girl said.",
+      "translation": "对不起，我们卖完了，女孩说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37560.0,
+      "endTime": 41960.0,
+      "text": "What a pity, Susan exclaimed.",
+      "translation": "真遗憾，苏珊惊呼道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41960.0,
+      "endTime": 46820.0,
+      "text": "Just then a man hurried to the ticket office.",
+      "translation": "就在那时，一个男人急忙走向售票处。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46820.0,
+      "endTime": 51440.0,
+      "text": "Can I return these two tickets, he asked.",
+      "translation": "他问：“我可以退掉这两张票吗？”",
+      "isHeader": false
+    },
+    {
+      "startTime": 51440.0,
+      "endTime": 55120.00000000001,
+      "text": "Certainly, the girl said.",
+      "translation": "当然，女孩说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55120.0,
+      "endTime": 59680.0,
+      "text": "I went back to the ticket office at once.",
+      "translation": "我立刻回到了售票处。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59680.0,
+      "endTime": 63239.99999999999,
+      "text": "Could I have those two tickets, please?",
+      "translation": "请问我能买那两张票吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 63239.99999999999,
+      "endTime": 65239.99999999999,
+      "text": "I asked.",
+      "translation": "我问了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65239.99999999999,
+      "endTime": 68960.0,
+      "text": "Certainly, the girl said.",
+      "translation": "当然，女孩说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68960.0,
+      "endTime": 72600.0,
+      "text": "But therefore next Wednesday's performance.",
+      "translation": "但因此，下周三的演出。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72600.0,
+      "endTime": 75440.0,
+      "text": "Do you still want them?",
+      "translation": "你仍然想要它们吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 75440.0,
+      "endTime": 79920.0,
+      "text": "I might as well have them, I said sadly.",
+      "translation": "我不妨拥有它们，我悲伤地说。",
+      "isHeader": false
+    }
+  ]
+}

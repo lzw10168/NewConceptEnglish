@@ -1,0 +1,382 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10720.0,
+      "text": "Lesson 109, a good idea.",
+      "translation": "第109课，一个好主意。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10720.0,
+      "endTime": 15000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 19240.000000000004,
+      "text": "What does Jane have with her coffee?",
+      "translation": "简的咖啡里加了什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19240.000000000004,
+      "endTime": 21040.0,
+      "text": "Shall I make some coffee, Jane?",
+      "translation": "我需要给简泡杯咖啡吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 21040.0,
+      "endTime": 24800.0,
+      "text": "That's a good idea, Charlotte.",
+      "translation": "这是个好主意，夏洛特。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24800.0,
+      "endTime": 25800.0,
+      "text": "It's ready.",
+      "translation": "准备好了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25800.0,
+      "endTime": 26800.0,
+      "text": "Do you want any milk?",
+      "translation": "你想要牛奶吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26800.0,
+      "endTime": 27800.0,
+      "text": "Just a little, please.",
+      "translation": "请稍等一下。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28800.0,
+      "endTime": 29800.0,
+      "text": "What about some sugar?",
+      "translation": "要不要来点糖？",
+      "isHeader": false
+    },
+    {
+      "startTime": 29800.0,
+      "endTime": 30800.0,
+      "text": "Two teaspoons of?",
+      "translation": "两茶匙的？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30800.0,
+      "endTime": 31800.0,
+      "text": "No, less than that.",
+      "translation": "不，少于那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31800.0,
+      "endTime": 32800.0,
+      "text": "One and a half teaspoonfuls of, please.",
+      "translation": "请来一勺半。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32800.0,
+      "endTime": 33800.0,
+      "text": "That's enough for me.",
+      "translation": "这对我来说已经足够了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33800.0,
+      "endTime": 34800.0,
+      "text": "That was very nice.",
+      "translation": "那非常好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34800.0,
+      "endTime": 35800.0,
+      "text": "Would you like some more?",
+      "translation": "您想要更多一些吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 35800.0,
+      "endTime": 36800.0,
+      "text": "Yes, please.",
+      "translation": "好的，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36800.0,
+      "endTime": 37800.0,
+      "text": "I'd like a cigarette too.",
+      "translation": "我也想来支烟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37800.0,
+      "endTime": 38800.0,
+      "text": "May I have one?",
+      "translation": "我可以要一个吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 38800.0,
+      "endTime": 39800.0,
+      "text": "Of course.",
+      "translation": "当然。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39800.0,
+      "endTime": 40800.0,
+      "text": "I think there are a few in that box.",
+      "translation": "我认为那个盒子里有几个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40800.0,
+      "endTime": 41800.0,
+      "text": "I'm not going to have any more.",
+      "translation": "我不会再有了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41800.0,
+      "endTime": 42800.0,
+      "text": "You can have one.",
+      "translation": "你可以拥有一个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42800.0,
+      "endTime": 43800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43800.0,
+      "endTime": 44800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44800.0,
+      "endTime": 45800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45800.0,
+      "endTime": 46800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47800.0,
+      "endTime": 48800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48800.0,
+      "endTime": 49800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49800.0,
+      "endTime": 50800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50800.0,
+      "endTime": 51800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51800.0,
+      "endTime": 52800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52800.0,
+      "endTime": 53800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53800.0,
+      "endTime": 54800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54800.0,
+      "endTime": 55800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55800.0,
+      "endTime": 56800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56800.0,
+      "endTime": 57800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57800.0,
+      "endTime": 58800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58800.0,
+      "endTime": 59800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59800.0,
+      "endTime": 60800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60800.0,
+      "endTime": 61800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61800.0,
+      "endTime": 62800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62800.0,
+      "endTime": 63800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63800.0,
+      "endTime": 64800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64800.0,
+      "endTime": 65800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65800.0,
+      "endTime": 66800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66800.0,
+      "endTime": 67800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67800.0,
+      "endTime": 68800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68800.0,
+      "endTime": 69800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69800.0,
+      "endTime": 70800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 70800.0,
+      "endTime": 71800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71800.0,
+      "endTime": 72800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72800.0,
+      "endTime": 73800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73800.0,
+      "endTime": 74800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74800.0,
+      "endTime": 75800.0,
+      "text": "I like that.",
+      "translation": "我喜欢那个。",
+      "isHeader": false
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--032",
+  "id": "nce2-032",
   "lessonNumber": "032",
   "title": {
     "english": "Shopping made easy",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于商店盗窃的故事，揭示了现代社会中诚信缺失的问题。课文使用了比较状语从句和一些重要的语法结构，如'as...as...'的否定形式等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "People are not so honest as they once were.",
       "The temptation to steal is greater than ever before--especially in large shops.",
       "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
@@ -40,7 +40,7 @@
       "那姑娘每星期'送'她母亲一件免费的衣服！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -209,5 +209,8 @@
         "content": "课文中使用了多个比较结构，如'not so...as...'、'greater than ever before'等，这些结构在英语中经常用于比较过去和现在的状况。"
       }
     ]
-  }
+  },
+  "tags": [
+    "同级比较"
+  ]
 }

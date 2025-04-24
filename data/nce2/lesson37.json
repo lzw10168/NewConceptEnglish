@@ -1,5 +1,5 @@
 {
-  "id": "nce2--037",
+  "id": "nce2-037",
   "lessonNumber": "037",
   "title": {
     "english": "The Olympic Games",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个国家准备举办奥运会的故事。课文使用了将来完成时等时态，介绍了一些重要的语法点，如'look'的短语用法等。同时展示了举办大型体育赛事需要的各种准备工作。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The Olympic Games will be held in our country in four years' time.",
       "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.",
       "They will also be building new roads and a special railway line.",
@@ -40,7 +40,7 @@
       "我们都非常激动，盼望着奥运会的到来，因为在这个国家里还从未举办过奥运会。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -236,5 +236,8 @@
         "content": "奥运会是世界上最大的综合性运动会，举办国往往会投入大量资源进行基础设施建设，这不仅为赛事服务，也能促进举办城市的发展。"
       }
     ]
-  }
+  },
+  "tags": [
+    "将来完成时"
+  ]
 }

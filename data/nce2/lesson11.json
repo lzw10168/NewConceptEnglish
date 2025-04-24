@@ -1,5 +1,5 @@
 {
-  "id": "nce2--011",
+  "id": "nce2-011",
   "lessonNumber": "011",
   "title": {
     "english": "One good turn deserves another",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于借钱和付饭钱的小故事，介绍了动词时态和带to的不定式用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I was having dinner at a restaurant when Tony Steele came in.",
       "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
       "He gets a good salary, but he always borrows money from his friends and never pays it back.",
@@ -38,7 +38,7 @@
       "'我还从未向你借过钱，'托尼说道，'所以现在你可以替我付饭钱了！'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -185,5 +185,9 @@
         "content": "在英语中，borrow表示借入，lend表示借出。这两个词的使用反映了动作的方向：borrow强调获取，lend强调给予。在实际交际中，这种区别的准确使用很重要。"
       }
     ]
-  }
+  },
+  "tags": [
+    "时态",
+    "动词不定式"
+  ]
 }

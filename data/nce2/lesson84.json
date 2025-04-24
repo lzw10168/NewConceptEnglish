@@ -1,5 +1,5 @@
 {
-  "id": "nce2--084",
+  "id": "nce2-084",
   "lessonNumber": "084",
   "title": {
     "english": "On strike",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于公共汽车司机罢工的故事。司机们决定下星期罢工，直到就工资和工作条件问题达成全面协议。为了应对这一情况，私人汽车车主提供免费乘车服务，大学生自愿驾驶公共汽车。本课介绍了多个与罢工和交通相关的词汇，如strike、busman、relieve、pressure等，以及一些常用短语如go on strike、be due to、to some extent等。本课还介绍了it作先行宾语的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Busmen have decided to go on strike next week.",
       "The strike is due to begin on Tuesday.",
       "No one knows how long it will last.",
@@ -207,7 +207,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "strike",
@@ -287,5 +287,9 @@
         "meaning": "v. 不赞成，反对"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习",
+    "一般将来时"
+  ]
 }

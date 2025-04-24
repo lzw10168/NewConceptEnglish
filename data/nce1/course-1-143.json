@@ -14,7 +14,7 @@
   "editorNotes": "本课通过描述一个被垃圾污染的美丽树林，揭示了环境保护的重要性。课文重点介绍了被动语态的使用，以及描述环境和问题的表达方式。这些表达方式在讨论环境问题时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I live in a very old town which is surrounded by beautiful woods.",
       "It is a famous beauty spot.",
       "On Sundays, hundreds of people come from the city to see our town and to walk through the woods.",
@@ -29,7 +29,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "我住在一个由美丽的树林环绕的古老的小镇上。",
       "这是一个著名的风景胜地。",
       "每到星期天，有许许多人从城里来观赏我们的小镇，并在树林中散步。",

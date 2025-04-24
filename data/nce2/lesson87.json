@@ -1,5 +1,5 @@
 {
-  "id": "nce2--087",
+  "id": "nce2-087",
   "lessonNumber": "087",
   "title": {
     "english": "A perfect alibi",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于不在场证明的对话。一个人声称在谋杀发生时，他正在8点钟开往伦敦的火车上，这为他提供了完美的不在场证明。然而，探长通过调查发现，在谋杀发生的那天早晨，8点钟的火车根本没有发车，它在芬格林车站出了故障而被取消了。本课介绍了多个与犯罪和调查相关的词汇，如alibi、commit、inspector、confirm等，以及一些常用短语如I suggest that...、you see等。本课还介绍了不定代词被形容词修饰时的位置规则。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "At the time the murder was committed, I was travelling on the 8 o'clock train to London.",
       "This is what the man said.",
       "Do you always catch such an early train?",
@@ -231,7 +231,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "alibi",
@@ -283,5 +283,9 @@
         "meaning": "n. 真相"
       }
     ]
-  }
+  },
+  "tags": [
+    "平行结构",
+    "单元复习"
+  ]
 }

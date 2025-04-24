@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段课堂对话，介绍了物品所有关系的表达方式。课文重点展示了疑问代词whose的用法，以及物品颜色、所有格形容词等表达方式。这些表达对于日常生活中询问和确认物品归属非常实用，是基础交际能力的重要组成部分。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "TEACHER: Whose shirt is that?",
       "TEACHER: Is this your shirt, Dave?",
       "DAVE:    No. Sir. It's not my shirt.",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "老师：那是谁的衬衫？",
       "老师：戴夫，这是你的衬衫吗？",
       "戴夫：不，先生。这不是我的衬衫。",

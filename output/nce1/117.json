@@ -1,0 +1,60 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 19000.0,
+      "text": "Lesson 117. Tommy's Breakfast. Listen to the tape, then answer this question. What does she mean by change in the last sentence?",
+      "translation": "第117课。汤米的早餐。听录音，然后回答这个问题。在最后一句话中，她所说的“换”是什么意思？",
+      "isHeader": false
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 27000.0,
+      "text": "When my husband was going into the dining room this morning, he dropped some coins on the floor.",
+      "translation": "今天早上，当我丈夫走进餐厅时，他不小心把一些硬币掉在了地板上。",
+      "isHeader": true
+    },
+    {
+      "startTime": 27000.0,
+      "endTime": 34000.0,
+      "text": "There were coins everywhere. We looked for them, but we could not find them all.",
+      "translation": "到处都是硬币。我们寻找它们，但我们找不到全部。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 43000.0,
+      "text": "While we were having breakfast, our little boy, Tommy, found two small coins on the floor.",
+      "translation": "当我们正在吃早饭的时候，我们的小男孩，汤米，在地板上发现了两枚小硬币。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43000.0,
+      "endTime": 54000.0,
+      "text": "He put them both into his mouth. We both tried to get the coins, but it was too late. Tommy had already swallowed them.",
+      "translation": "他把两枚硬币都放进了嘴里。我们俩都试图去抢硬币，但已经太晚了。汤米已经把硬币吞下去了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54000.0,
+      "endTime": 61000.0,
+      "text": "Later that morning, when I was doing the housework, my husband phoned me from the office.",
+      "translation": "那天上午晚些时候，当我正在做家务时，我丈夫从办公室打电话给我。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 65000.0,
+      "text": "How's Tommy? He asked.",
+      "translation": "汤米怎么样？他问道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 74000.0,
+      "text": "I don't know, I answered. Tommy's been to the toilet three times this morning, but I haven't had any change yet.",
+      "translation": "我不知道，我已经回答过了。汤米今天早上去了三次厕所，但我还没有收到任何零钱。",
+      "isHeader": false
+    }
+  ]
+}

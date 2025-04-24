@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段关于度假计划的对话，展示了如何讨论不确定的计划和可能性。课文重点介绍了情态动词may的用法，以及如何表达犹豫、担忧和不确定性。这些表达方式在讨论计划和可能性时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Roy:     Where are you going to spend your holidays this year, Harry?",
       "Harry:   We may go abroad. I'm not sure. My wife wants to go to Egypt.I'd like to go there, too. We can't make up our minds.",
       "Roy:     Will you travel by sea or by air?",
@@ -28,7 +28,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "马丁：加里，今年你们打算去哪里度假？",
       "加里：我们可能到国外去，但我不敢肯定。 我妻子想到埃及去，我也想去那儿。我们还拿不定主意。",
       "马丁：你们乘船去，还是乘飞机去？",

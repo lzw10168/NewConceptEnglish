@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5920.0,
+      "text": "Lesson 16 A Polite Request",
+      "translation": "第16课 礼貌的请求",
+      "isHeader": false
+    },
+    {
+      "startTime": 5920.0,
+      "endTime": 14840.0,
+      "text": "First listen and then answer the question, What was the polite request?",
+      "translation": "首先听录音，然后回答问题，礼貌的请求是什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 14840.0,
+      "endTime": 21840.0,
+      "text": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+      "translation": "如果你把车停在错误的地方，交通警察很快就会发现。",
+      "isHeader": false
+    },
+    {
+      "startTime": 21840.0,
+      "endTime": 27080.000000000004,
+      "text": "You will be very lucky if he lets you go without a ticket.",
+      "translation": "如果他不给你开罚单就放你走，那你真的很幸运。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27080.0,
+      "endTime": 32000.0,
+      "text": "However, this does not always happen.",
+      "translation": "然而，这并不总是发生。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32000.0,
+      "endTime": 36040.0,
+      "text": "Traffic police are sometimes very polite.",
+      "translation": "交通警察有时非常有礼貌。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36040.0,
+      "endTime": 42000.0,
+      "text": "During a holiday in Sweden, I found this note on my car.",
+      "translation": "在瑞典度假期间，我在车上发现了这张纸条。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42000.0,
+      "endTime": 47040.0,
+      "text": "Sir, we welcome you to our city.",
+      "translation": "先生，我们欢迎您来到我们城市。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47040.0,
+      "endTime": 50060.0,
+      "text": "This is a no-parking area.",
+      "translation": "这是一个禁止停车区。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50060.0,
+      "endTime": 56959.99999999999,
+      "text": "You will enjoy your stay here if you pay attention to our street signs.",
+      "translation": "如果你注意我们的路标，你会喜欢在这里逗留的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56960.0,
+      "endTime": 59880.0,
+      "text": "This note is only a reminder.",
+      "translation": "这张便条只是一个提醒。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59880.0,
+      "endTime": 66880.0,
+      "text": "If you receive a request like this, you cannot fail to obey it.",
+      "translation": "如果你收到这样的请求，你不能不服从。",
+      "isHeader": false
+    }
+  ]
+}

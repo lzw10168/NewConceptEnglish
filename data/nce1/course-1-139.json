@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个因同名引起的误会，生动展示了电话交谈中的常用表达方式。课文重点介绍了电话用语、身份确认的表达方式，以及附加疑问句的使用。这些表达方式在日常电话沟通中非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr Grimes:     Is that you, John?",
       "John Smith:   Yes, speaking.",
       "Mr Grimes:   Tell Mary we shall be late for dinner this evening.",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "格雷厄姆.特纳：是你吗，约翰？",
       "约 翰.史 密斯：是我，请讲。",
       "格雷厄姆.特纳：你告诉玛丽，今晚吃饭将晚到一会儿。",

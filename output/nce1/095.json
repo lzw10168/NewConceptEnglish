@@ -1,0 +1,179 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6800.0,
+      "text": "Lesson 95.",
+      "translation": "第九十五课",
+      "isHeader": false
+    },
+    {
+      "startTime": 6800.0,
+      "endTime": 9320.0,
+      "text": "Tickets please.",
+      "translation": "请出示您的票。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9320.0,
+      "endTime": 13560.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 13560.0,
+      "endTime": 19840.0,
+      "text": "Why did George and Ken miss the train?",
+      "translation": "为什么乔治和肯错过了火车？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19840.0,
+      "endTime": 23160.0,
+      "text": "To return tickets to London please.",
+      "translation": "请退回前往伦敦的票。",
+      "isHeader": false
+    },
+    {
+      "startTime": 23160.0,
+      "endTime": 26480.0,
+      "text": "What time will the next train leave?",
+      "translation": "下一班火车什么时候出发？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26480.0,
+      "endTime": 30000.0,
+      "text": "At 19 minutes past 8.",
+      "translation": "8点19分",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 32520.000000000004,
+      "text": "Which platform?",
+      "translation": "哪个平台？",
+      "isHeader": false
+    },
+    {
+      "startTime": 32520.000000000004,
+      "endTime": 36760.0,
+      "text": "Platform 2 over the bridge.",
+      "translation": "二号站台过桥。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36760.0,
+      "endTime": 39680.0,
+      "text": "What time will the next train leave?",
+      "translation": "下一班火车什么时候离开？",
+      "isHeader": false
+    },
+    {
+      "startTime": 39680.0,
+      "endTime": 41920.0,
+      "text": "At 8.19.",
+      "translation": "在8点19分。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41920.0,
+      "endTime": 44960.0,
+      "text": "We've got plenty of time.",
+      "translation": "我们有很多时间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44960.0,
+      "endTime": 48480.00000000001,
+      "text": "It's only 3 minutes to 8.",
+      "translation": "现在是7点57分。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48480.00000000001,
+      "endTime": 49960.0,
+      "text": "Let's go and have a drink.",
+      "translation": "我们去喝一杯吧。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49960.0,
+      "endTime": 55280.0,
+      "text": "There's a bar next door to the station.",
+      "translation": "车站旁边有一家酒吧。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55280.0,
+      "endTime": 60600.0,
+      "text": "We had better go back to the station now Ken.",
+      "translation": "我们最好现在回车站去，肯。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60600.0,
+      "endTime": 63200.0,
+      "text": "Tickets please.",
+      "translation": "请出示车票。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63200.0,
+      "endTime": 67600.0,
+      "text": "We want to catch the 8.19 to London.",
+      "translation": "我们想乘坐8点19分去伦敦的火车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67600.0,
+      "endTime": 69680.0,
+      "text": "You've just missed it.",
+      "translation": "你刚错过了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69680.0,
+      "endTime": 70680.0,
+      "text": "What?",
+      "translation": "什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 70680.0,
+      "endTime": 73800.0,
+      "text": "It's only 8.15.",
+      "translation": "现在只是8点15分。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73800.0,
+      "endTime": 75880.0,
+      "text": "I'm sorry sir.",
+      "translation": "对不起，先生。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75880.0,
+      "endTime": 79480.0,
+      "text": "That clock's 10 minutes slow.",
+      "translation": "那个钟慢了十分钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79480.0,
+      "endTime": 82220.0,
+      "text": "When's the next train?",
+      "translation": "下一班火车是什么时候？",
+      "isHeader": false
+    },
+    {
+      "startTime": 82220.0,
+      "endTime": 84380.0,
+      "text": "In 5 hours time.",
+      "translation": "5小时后。",
+      "isHeader": false
+    }
+  ]
+}

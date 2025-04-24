@@ -1,5 +1,5 @@
 {
-  "id": "nce2--009",
+  "id": "nce2-009",
   "lessonNumber": "009",
   "title": {
     "english": "A cold welcome",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个新年前夕发生的有趣故事，重点学习时间表达方式和介词的用法。故事展现了人们面对意外情况时的幽默态度。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "On Wednesday evening, we went to the Town Hall.",
       "It was the last day of the year and a large crowd of people had gathered under the Town Hall clock.",
       "It would strike twelve in twenty minutes' time.",
@@ -44,7 +44,7 @@
       "此时，大家已经笑了起来，同时唱起了歌。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -229,5 +229,8 @@
         "content": "故事展现了英国人特有的幽默感。面对意外情况，人们没有抱怨或生气，而是选择用笑声和歌声来化解尴尬，体现了英国人积极乐观的生活态度。"
       }
     ]
-  }
+  },
+  "tags": [
+    "介词"
+  ]
 }

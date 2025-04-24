@@ -1,5 +1,5 @@
 {
-  "id": "nce2--065",
+  "id": "nce2-065",
   "lessonNumber": "065",
   "title": {
     "english": "Jumbo versus the police",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的圣诞节故事。马戏团老板吉米·盖茨为了给儿童医院送礼物，打扮成圣诞老人，骑着小象江伯在城市主要街道上巡游，结果阻碍了交通。尽管吉米同意立即离开，但江伯拒绝移动，最终需要15名警察合力将其推离街道。文章通过这个幽默的故事，展示了情态动词的多种用法，包括should have done（原本应该做而没做）、ought to have done（应该做而没做）等，以及多个与交通和警察相关的词汇和短语。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
       "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
       "He should have known that the police would never allow this sort of thing.",
@@ -189,7 +189,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "versus",
@@ -255,5 +255,10 @@
         "meaning": "adj. 幸运的"
       }
     ]
-  }
+  },
+  "tags": [
+    "情态动词词组",
+    "情态动词的虚拟",
+    "ought"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--052",
+  "id": "nce2-052",
   "lessonNumber": "052",
   "title": {
     "english": "A pretty carpet",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于搬家和整理房间的有趣故事。作者刚刚搬进新房子，试图整理新房间，但因为拥有超过一千本书，而房间又很小，所以暂时把书放在了地板上。作者的妹妹看到地板上的书后，开玩笑地说这是她见过的最漂亮的地毯。在语法方面，重点介绍了现在完成时和现在完成进行时的用法，以及形容词和副词的区别。文章还涉及了一些重要的词汇用法，如temporarily、inch、space和actually等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "We have just moved into a new house and I have been working hard all morning.",
       "I have been trying to get my new room in order.",
       "This has not been easy because I own over a thousand books.",
@@ -150,7 +150,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "temporarily",
@@ -181,5 +181,9 @@
         "meaning": "adv. 实际上"
       }
     ]
-  }
+  },
+  "tags": [
+    "现在完成时",
+    "现在完成进行时"
+  ]
 }

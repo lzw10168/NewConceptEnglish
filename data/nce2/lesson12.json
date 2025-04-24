@@ -1,5 +1,5 @@
 {
-  "id": "nce2--012",
+  "id": "nce2-012",
   "lessonNumber": "012",
   "title": {
     "english": "Goodbye and good luck",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于船长参加横渡大西洋比赛的故事，介绍了一般将来时的用法和be+副词的表语结构。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
       "We'll meet him at the harbour early in the morning.",
       "He will be in his small boat, Topsail.",
@@ -42,7 +42,7 @@
       "他将参加一次重大的横渡大西洋的比赛。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -189,5 +189,8 @@
         "content": "本课涉及多个航海相关词汇：sail(航行)，harbour(港口)，boat(小船)等。在航海活动中，这些词汇的准确使用非常重要。port和harbour都表示港口，但port通常指较大的商业港口，而harbour可以指任何供船只停泊的港湾。"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般将来时"
+  ]
 }

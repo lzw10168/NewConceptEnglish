@@ -1,5 +1,5 @@
 {
-  "id": "nce2--076",
+  "id": "nce2-076",
   "lessonNumber": "076",
   "title": {
     "english": "April Fools' Day",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个愚人节的恶作剧新闻，描述了一个关于通心粉种植的虚假新闻报道。文章通过这个幽默的故事，展示了现在完成进行时的用法，以及一些常见的英语表达方式。文章还展示了如何描述虚假信息和愚人节的传统，以及一些常见的英语表达方式。本课还介绍了usual和usually的区别，between和among的用法，以及manager、director和headmaster的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "'To end our special news bulletin,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.",
       "Macaroni has been grown in this area for over six hundred years.",
       "Two of the leading growers, Giuseppe Moldova and Riccardo Brabante, tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.",
@@ -217,7 +217,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "fool",
@@ -325,5 +325,9 @@
         "meaning": "n. 播音室"
       }
     ]
-  }
+  },
+  "tags": [
+    "现在完成时",
+    "现在完成进行时"
+  ]
 }

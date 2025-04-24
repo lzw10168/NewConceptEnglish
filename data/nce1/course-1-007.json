@@ -14,7 +14,7 @@
   "editorNotes": "本课展示了一段初次见面时的对话，涵盖了自我介绍、询问国籍和职业等基本社交内容。课文通过两位新同学之间的对话，展示了如何进行基本的个人信息交流。语法重点包括be动词的一般疑问句和否定句、特殊疑问词what的使用，以及不定冠词a/an的正确使用。这些内容是日常社交和职场交际中的基本技能，对提升学习者的实际交际能力具有重要意义。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "ROBERT: I am a new student.\tMy name's Robert.",
       "SOPHIE: Nice to meet you.\tMy name's Sophie.",
       "ROBERT: Are you French?",
@@ -33,7 +33,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "罗伯特：我是个新学生，我的名字叫罗伯特。",
       "索菲娅：很高兴见到你。我的名字叫索菲娅。",
       "罗伯特：你是法国人吗？",

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过两位女性朋友之间的对话，介绍了如何描述和评价服饰。课文重点展示了询问和描述物品颜色的表达方式，以及表达赞美的各种用语。这些表达方式在日常购物、社交场合中经常使用，对提升学习者的交际能力很有帮助。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "LOUISE: What colour's your new dress?",
       "ANNA:   It's green.",
       "ANNA:   Come upstairs and see it.",
@@ -29,7 +29,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "路易丝：你的新连衣裙是什么颜色的？",
       "安  娜：是绿色的。",
       "安  娜：到楼上来看看吧。",

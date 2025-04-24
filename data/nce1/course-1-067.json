@@ -14,7 +14,7 @@
   "editorNotes": "本课围绕日常生活对话展开，重点介绍过去时态的使用，以及商店名称的表达方式。通过两位女士的对话，展示了英语中询问过去事件、谈论假期计划的表达方式，同时涉及各类商店的英文说法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "MRS JOHNSON:\tHello. Were you at the butcher's?",
       "MRS WILLIAMS:\tYes. I was. Were you at the butcher's ,too?",
       "MRS JOHNSON:\tNo, I wasn't. I was at the greengrocer's.  How's Jimmy today?",
@@ -27,7 +27,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "约翰逊夫人：您好。刚才您在肉店里吗？",
       "威廉斯夫人：是的，我在肉店里。 您也在肉店里吗？",
       "约翰逊夫人：不， 我不是。 我在蔬菜水果店里。 吉米今天怎么样？",

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--079",
+  "id": "nce2-079",
   "lessonNumber": "079",
   "title": {
     "english": "By air",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个人乘坐飞机的经历，特别是他遇到的一次惊险事件。文章通过描述作者在飞机上经历的一次炸弹威胁事件，展示了与take相关的短语动词用法，以及一些常见的英语表达方式。文章还介绍了parent、flight attendant、frightened、curious、bomb和plant等词汇的用法。本课还介绍了倒装句的用法，以及be used to doing sth.的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I used to travel by air a great deal when I was a boy.",
       "My parents used to live in South America and I used to fly there from Europe in the holidays.",
       "A flight attendant would take charge of me and I never had an unpleasant experience.",
@@ -200,7 +200,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "parent",
@@ -245,5 +245,11 @@
         "meaning": "v. 安放"
       }
     ]
-  }
+  },
+  "tags": [
+    "倒装句",
+    "部分倒装",
+    "Be used to doing",
+    "Used to do"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--060",
+  "id": "nce2-060",
   "lessonNumber": "060",
   "title": {
     "english": "The future",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个人在乡村集市上拜访算命人的故事。算命人预言了他的未来，而这些预言恰好与实际情况相符。文章主要使用了现在进行时表示将来安排好的活动、时间状语从句中的时态用法，以及多个与算命和未来相关的词汇。文章还涉及了巧合与预言的主题，展示了人们对未来的好奇和预测。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
       "I went into her tent and she told me to sit down.",
       "After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you.",
@@ -138,7 +138,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "future",
@@ -183,5 +183,8 @@
         "meaning": "adv. 不耐烦地"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般将来时"
+  ]
 }

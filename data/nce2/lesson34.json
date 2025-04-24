@@ -1,5 +1,5 @@
 {
-  "id": "nce2--034",
+  "id": "nce2-034",
   "lessonNumber": "034",
   "title": {
     "english": "Quick work",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于失而复得的有趣故事，展示了警察工作的效率。课文使用了被动语态和一些重要的语法结构，如'be being done'的现在进行时被动语态等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Ted Robinson has been worried all the week.",
       "Last Tuesday he received a letter from the local police.",
       "In the letter he was asked to call at the station.",
@@ -42,7 +42,7 @@
       "这是20年前泰德还是一个15岁的孩子时被人偷走的！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -193,5 +193,8 @@
         "content": "本课使用了大量的被动语态，这是因为故事的主人公是事件的被动接受者，而不是主动的行为者。这种写作手法突出了故事的戏剧性和意外性。"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态"
+  ]
 }

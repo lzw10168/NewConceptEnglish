@@ -1,5 +1,5 @@
 {
-  "id": "nce2--036",
+  "id": "nce2-036",
   "lessonNumber": "036",
   "title": {
     "english": "Across the Channel",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个11岁的小女孩准备横渡英吉利海峡的故事。课文使用了多种表示将来的时态结构，同时介绍了一些重要的语法点，如'be sure to do'和'watch, look at, follow'的区别等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Debbie Hart is going to swim across the English Channel tomorrow.",
       "She is going to set out from the French coast at five o'clock in the morning.",
       "Debbie is only eleven years old and she hopes to set up a new world record.",
@@ -44,7 +44,7 @@
       "他们当中还会有黛比的母亲，她本人还是个姑娘时，也曾横渡过英吉利海峡！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -237,5 +237,10 @@
         "content": "横渡英吉利海峡是一项具有挑战性的体育活动，需要极强的体力和意志力。这种挑战在英语国家受到高度重视，创造记录更是一种激励人心的成就。"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般将来时",
+    "定语从句",
+    "非限定性定语从句"
+  ]
 }

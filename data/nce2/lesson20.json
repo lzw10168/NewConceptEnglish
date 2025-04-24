@@ -1,5 +1,5 @@
 {
-  "id": "nce2--020",
+  "id": "nce2-020",
   "lessonNumber": "020",
   "title": {
     "english": "One man in a boat",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个人对钓鱼运动的独特理解，重点介绍了动名词的用法，以及interested和interesting等形容词的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Fishing is my favourite sport.",
       "I often fish for hours without catching anything.",
       "But this does not worry me.",
@@ -48,7 +48,7 @@
       "我感兴趣的只是独坐孤舟，无所事事！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -190,5 +190,9 @@
         "content": "realize和understand的区别：realize强调'意识到'，常用于突然明白或领悟；understand强调'理解'，指对事物有清楚的认识。"
       }
     ]
-  }
+  },
+  "tags": [
+    "动名词",
+    "doing"
+  ]
 }

@@ -14,7 +14,7 @@
   "editorNotes": "本课继续围绕看病的场景，通过医生的复诊，学习如何描述病情的好转和医嘱。重点掌握情态动词must和mustn't的用法，以及表达病情变化和医疗建议的相关表达。同时学习医疗场景中的礼貌用语。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "DOCTOR:             How's Jimmy today?",
       "MRS WILLIAMS: He's better , thank you, doctor.",
       "DOCTOR:             Can I see him please, Mrs Williams?",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "医 生：吉米今天怎么样了？",
       "威廉斯夫人：他好些了。谢谢您，医生。",
       "医 生：我可以看看他吗，威廉斯夫人？",

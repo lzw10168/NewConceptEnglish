@@ -1,5 +1,5 @@
 {
-  "id": "nce2--059",
+  "id": "nce2-059",
   "lessonNumber": "059",
   "title": {
     "english": "In or out?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一只名叫雷克斯的狗的故事，它学会了用爪子按门闩自己开门，但后来养成了反复进出花园的坏习惯。文章主要使用了used to、would、so that等表示习惯和目的的语法结构，以及多个与狗的行为相关的词汇。文章还涉及了训练动物和解决宠物行为问题的主题。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Our dog, Rex, used to sit outside our front gate and bark.",
       "Every time he wanted to come into the garden he would bark until someone opened the gate.",
       "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.",
@@ -134,7 +134,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "bark",
@@ -193,5 +193,10 @@
         "meaning": "v. 拆掉，取下"
       }
     ]
-  }
+  },
+  "tags": [
+    "目的状语从句",
+    "状语从句",
+    "Used to do"
+  ]
 }

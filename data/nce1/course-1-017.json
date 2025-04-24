@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段办公室介绍场景，展示了职场中的正式社交用语和工作描述。课文重点介绍了正式场合中的问候语'How do you do'的使用，以及询问和描述职业的表达方式。这些表达对于职场社交和商务交际非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Come and meet our employees, Mr. Richards.",
       "Thank you, Mr. Jackson.",
       "This is Nicola Grey, and this is Claire Taylor.",
@@ -35,7 +35,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "杰克逊先生：来见见我们的雇员， 理查兹先生。",
       "理查兹先生：谢谢，杰克逊先生。",
       "杰克逊先生：这位是尼克拉.格雷， 这位是克莱尔.泰勒。",

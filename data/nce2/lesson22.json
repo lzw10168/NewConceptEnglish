@@ -1,5 +1,5 @@
 {
-  "id": "nce2--022",
+  "id": "nce2-022",
   "lessonNumber": "022",
   "title": {
     "english": "A glass envelope",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个女孩通过漂流瓶结识外国笔友的故事，重点介绍了dream的用法，以及各种介词搭配的动词用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
       "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
       "She threw the bottle into the sea.",
@@ -36,7 +36,7 @@
       "这样会稍微多花点钱，但肯定是快得多了。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -171,5 +171,8 @@
         "content": "英语中表示'互相'的词有each other和one another，通常each other用于两个人之间，而one another用于三个或更多人之间，但在实际使用中这个区别并不严格。"
       }
     ]
-  }
+  },
+  "tags": [
+    "介词"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--045",
+  "id": "nce2-045",
   "lessonNumber": "045",
   "title": {
     "english": "A Clear Conscience",
@@ -14,7 +14,7 @@
   "editorNotes": "本文讲述了一个关于诚实和良心的故事。主人公在街上捡到一笔钱，虽然没有人看见，但他仍然选择将钱交给警察局。这个故事展现了主人公高尚的道德品质和对诚实原则的坚持。文章中的语法要点包括过去完成时的使用，以及'it is/was + 形容词 + of sb. to do sth.'的结构。在实际使用中，'clear conscience'和'hand over'等短语在描述道德行为和物品转交时非常实用，掌握这些表达方式可以帮助我们更好地描述类似的道德困境和选择。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The whole village soon learnt that a large sum of money had been lost.",
       "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post-office.",
       "Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.",
@@ -138,7 +138,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "clear",
@@ -183,5 +183,8 @@
         "meaning": "prep. 百分之……"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态"
+  ]
 }

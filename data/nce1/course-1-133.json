@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段新闻采访和报道的对比，展示了直接引语和间接引语的使用。课文重点介绍了新闻报道的写作方式，以及如何将对话转换为报道形式。这些表达方式在新闻写作和转述他人话语时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Reporter: Have you just made a new film, Miss Marsh?",
       "Miss Marsh: Yes, I have.",
       "Reporter: Are you going to make another?",
@@ -37,7 +37,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "记 者：您刚拍完一部新电影吗，马什小姐？",
       "马什小姐：是的，我刚拍完。",
       "记 者：您准备再拍一部吗？",

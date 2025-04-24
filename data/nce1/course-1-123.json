@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段看照片的对话，展示了如何描述旅行经历和照片内容。课文重点介绍了过去时态的使用，以及描述人物、事物和经历的表达方式。这些表达对于分享旅行经历和照片介绍非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Bill:    Look, Bob. This is a photograph I took during my trip to Australia.",
       "Bob:   Let me see it, Bill.",
       "Bob:    This is a good photograph. Who are these people?",
@@ -36,7 +36,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "迈 克：看，这是我到澳大利来旅行时拍的一张照片。",
       "斯科特：让我看看，迈克。",
       "斯科特：这是一张很好的照片。这些人是谁。",

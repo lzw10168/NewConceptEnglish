@@ -1,5 +1,5 @@
 {
-  "id": "nce2--091",
+  "id": "nce2-091",
   "lessonNumber": "091",
   "title": {
     "english": "Three men in a basket",
@@ -14,7 +14,7 @@
   "editorNotes": "这篇文章讲述了一个有趣的误会事件，发生在皇家空军基地。文章通过描述一个气球的意外出现和后续的调查过程，展现了一个幽默的误会。语法重点包括现在进行时、被动语态和定语从句的使用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby.",
       "He informed the station at once, but no one there was able to explain the mystery.",
       "The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft.",
@@ -143,7 +143,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "balloon",
@@ -181,5 +181,9 @@
         "meaning": "n. 望远镱"
       }
     ]
-  }
+  },
+  "tags": [
+    "can",
+    "Be able to"
+  ]
 }

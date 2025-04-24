@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6360.0,
+      "text": "Lesson 12 Goodbye and Good Luck",
+      "translation": "第12课 再见，祝你好运",
+      "isHeader": false
+    },
+    {
+      "startTime": 6360.0,
+      "endTime": 16440.0,
+      "text": "First listen and then answer the question, Where is Captain Allison going and how?",
+      "translation": "首先听录音，然后回答问题，艾利森船长要去哪里，怎么去？",
+      "isHeader": false
+    },
+    {
+      "startTime": 16440.0,
+      "endTime": 23920.0,
+      "text": "Our neighbor, Captain Charles Allison, will sail from Portsmouth tomorrow.",
+      "translation": "我们的邻居，查尔斯·艾利森船长，明天将从朴茨茅斯起航。",
+      "isHeader": false
+    },
+    {
+      "startTime": 23920.0,
+      "endTime": 27680.0,
+      "text": "We'll meet him at the harbor early in the morning.",
+      "translation": "我们将在清晨在港口与他见面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27680.0,
+      "endTime": 31720.0,
+      "text": "He will be in his small boat, Top Sail.",
+      "translation": "他将在他的小船上，顶帆号。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31720.0,
+      "endTime": 35200.0,
+      "text": "Top Sail is a famous little boat.",
+      "translation": "顶帆是一艘著名的小船。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35200.0,
+      "endTime": 39600.0,
+      "text": "It has sailed across the Atlantic many times.",
+      "translation": "它已经多次横跨大西洋。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39600.0,
+      "endTime": 46239.99999999999,
+      "text": "Captain Allison will set out at 8 o'clock, so we'll have plenty of time.",
+      "translation": "艾莉森队长将在8点出发，所以我们将有充足的时间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46239.99999999999,
+      "endTime": 50360.0,
+      "text": "We'll see his boat and then we'll say goodbye to him.",
+      "translation": "我们会看到他的船，然后我们会向他告别。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50360.0,
+      "endTime": 53260.00000000001,
+      "text": "He will be away for two months.",
+      "translation": "他将离开两个月。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53260.00000000001,
+      "endTime": 56080.0,
+      "text": "We are very proud of him.",
+      "translation": "我们为他感到非常骄傲。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56080.0,
+      "endTime": 60560.0,
+      "text": "He will take part in an important race across the Atlantic.",
+      "translation": "他将参加一场重要的横渡大西洋的比赛。",
+      "isHeader": false
+    }
+  ]
+}

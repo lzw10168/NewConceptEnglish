@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6000.0,
+      "text": "Lesson 17 Always Young",
+      "translation": "第17课 永远年轻",
+      "isHeader": false
+    },
+    {
+      "startTime": 6000.0,
+      "endTime": 14280.000000000002,
+      "text": "First listen and then answer the question, Why doesn't Aunt Jennifer tell anyone how",
+      "translation": "首先听录音，然后回答问题，为什么珍妮弗阿姨不告诉任何人她",
+      "isHeader": false
+    },
+    {
+      "startTime": 14280.000000000002,
+      "endTime": 17560.0,
+      "text": "old she is?",
+      "translation": "她多大年纪了？",
+      "isHeader": false
+    },
+    {
+      "startTime": 17560.0,
+      "endTime": 21160.0,
+      "text": "My Aunt Jennifer is an actress.",
+      "translation": "我的姑姑詹妮弗是一位演员。",
+      "isHeader": false
+    },
+    {
+      "startTime": 21160.0,
+      "endTime": 25400.000000000004,
+      "text": "She must be at least 35 years old.",
+      "translation": "她至少得有35岁了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25400.0,
+      "endTime": 32239.999999999996,
+      "text": "In spite of this, she often appears on the stage as a young girl.",
+      "translation": "尽管如此，她经常在舞台上扮演一个年轻女孩。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32239.999999999996,
+      "endTime": 36440.0,
+      "text": "Jennifer will have to take part in a new play soon.",
+      "translation": "Jennifer 很快将不得不参加一部新剧。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36440.0,
+      "endTime": 41339.99999999999,
+      "text": "This time she will be a girl of 17.",
+      "translation": "这一次她将会是一个17岁的女孩。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41339.99999999999,
+      "endTime": 49680.0,
+      "text": "In the play, she must appear in a bright red dress and long black stockings.",
+      "translation": "在剧中，她必须穿着鲜红色的裙子和黑色的长筒袜。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50160.0,
+      "endTime": 58600.0,
+      "text": "Last year in another play, she had to wear short socks and a bright orange colored dress.",
+      "translation": "去年在另一部戏剧中，她不得不穿短袜和一件鲜艳的橙色裙子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58600.0,
+      "endTime": 64640.0,
+      "text": "If anyone ever asks her how old she is, she always answers,",
+      "translation": "如果有人问她多大了，她总是回答，",
+      "isHeader": false
+    },
+    {
+      "startTime": 64640.0,
+      "endTime": 71640.0,
+      "text": "Darling, it must be terrible to be grown up.",
+      "translation": "亲爱的，长大成人一定很可怕。",
+      "isHeader": false
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--028",
+  "id": "nce2-028",
   "lessonNumber": "028",
   "title": {
     "english": "No parking",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的故事，关于一个相信古代神话的人如何试图解决停车问题。课文涉及现在完成时的使用，以及关系从句的语法知识。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Jasper White is one of those rare people who believe in ancient myths.",
       "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
       "When he returns home at night, he always finds that someone has parked a car outside his gate.",
@@ -42,7 +42,7 @@
       "但到目前为止还没有一个变成石头呢！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -213,5 +213,9 @@
         "content": "课文中出现的'rare'一词除了表示'罕见的'之外，在描述食物时还可以表示'几乎是生的'，例如：rare steak（三分熟的牛排）。"
       }
     ]
-  }
+  },
+  "tags": [
+    "定语从句",
+    "Be able to"
+  ]
 }

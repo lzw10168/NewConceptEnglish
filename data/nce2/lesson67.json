@@ -1,5 +1,5 @@
 {
-  "id": "nce2--067",
+  "id": "nce2-067",
   "lessonNumber": "067",
   "title": {
     "english": "Volcanoes",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了波兰科学家哈罗恩·塔捷耶夫研究活火山的经历。1948年，他前往刚果的基伍湖观察一座新火山，并将其命名为基图罗。尽管火山正在猛烈喷发，他仍然设法在火山附近搭建营地并拍摄照片。当一股岩浆向他流来时，他及时逃离。两天后，他返回火山口，爬进去拍摄照片和测量温度。文章通过这位科学家的冒险经历，展示了表示能力的几种方式（can, be able to, manage to）以及say和tell的用法区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
       "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
       "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
@@ -188,7 +188,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "volcano",
@@ -275,5 +275,10 @@
         "meaning": "adj. 活着的"
       }
     ]
-  }
+  },
+  "tags": [
+    "Managed to do",
+    "can",
+    "Be able to"
+  ]
 }

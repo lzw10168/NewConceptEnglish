@@ -1,5 +1,5 @@
 {
-  "id": "nce2--031",
+  "id": "nce2-031",
   "lessonNumber": "031",
   "title": {
     "english": "Success story",
@@ -14,7 +14,7 @@
   "editorNotes": "本课通过讲述Frank Hawkins的成功故事，展示了通过勤奋工作和坚持不懈可以实现人生的重大转变。课文使用了大量的过去时态，特别是used to结构来对比过去和现在的不同。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.",
       "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.",
       "It was his job to repair bicycles and at that time he used to work fourteen hours a day.",
@@ -42,7 +42,7 @@
       "她叫他去修理孙子的自行车！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -247,5 +247,11 @@
         "content": "课文中出现的 'the head of'、'of one\"s own'等表达在商业英语中很常用。同时，描述年龄段的表达方式'in one\"s twenties'也值得学习。"
       }
     ]
-  }
+  },
+  "tags": [
+    "过去进行时",
+    "一般过去时",
+    "Used to do",
+    "形式主语"
+  ]
 }

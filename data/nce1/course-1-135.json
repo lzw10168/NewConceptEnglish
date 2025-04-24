@@ -14,7 +14,7 @@
   "editorNotes": "本课继续通过新闻采访和报道的对比，深入展示了情态动词may、might和would的用法，以及直接引语转换为间接引语时的时态变化。课文还介绍了如何报道婚姻相关新闻，这些表达方式在新闻写作和社交场合都很实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Reporter:        Are you really going to retire, Miss marsh?",
       "Miss Marsh:    I may. I can't make up my mind. I shall have to ask my future husband. He won't let me make another film.",
       "Reporter:        Your future husband, Miss Marsh?",
@@ -33,7 +33,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "记者：马什小姐，您真的准备退休吗？",
       "马什小姐：有可能退。我还拿不定主意。我得问一下我的未婚夫。他不会再让我拍电影了。",
       "记者：您的未婚夫，马什小姐？",

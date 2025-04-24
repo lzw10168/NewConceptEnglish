@@ -1,5 +1,5 @@
 {
-  "id": "nce2--010",
+  "id": "nce2-010",
   "lessonNumber": "010",
   "title": {
     "english": "Not for jazz",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于古钢琴被不当使用的故事，介绍了被动语态的用法和双重所有格的概念。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "We have an old musical instrument.",
       "It is called a clavichord.",
       "It was made in Germany in 1681.",
@@ -46,7 +46,7 @@
       "父亲的一个朋友正在修理这件乐器。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -228,5 +228,8 @@
         "content": "古董乐器需要特别的保养和保护。不当的使用可能会对这些珍贵的历史文物造成不可修复的损害。在使用任何乐器时，都应该了解其特性和适合的演奏方式。"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态"
+  ]
 }

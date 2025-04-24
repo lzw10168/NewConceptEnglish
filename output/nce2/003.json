@@ -1,0 +1,81 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6920.0,
+      "text": "Lesson 11 One good turn deserves another.",
+      "translation": "第11课 善有善报。",
+      "isHeader": false
+    },
+    {
+      "startTime": 6920.0,
+      "endTime": 14440.0,
+      "text": "First listen and then answer the question, Who paid for Tony's dinner?",
+      "translation": "首先听录音，然后回答问题，谁为托尼的晚餐付了钱？",
+      "isHeader": false
+    },
+    {
+      "startTime": 14440.0,
+      "endTime": 20280.0,
+      "text": "I was having dinner at a restaurant when Tony Steel came in.",
+      "translation": "我正在一家餐厅吃饭，这时托尼·斯蒂尔走了进来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 20280.0,
+      "endTime": 27220.0,
+      "text": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "translation": "托尼几年前在律师事务所工作，但现在他在一家银行工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27220.0,
+      "endTime": 35980.0,
+      "text": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "translation": "他薪水不错，但他总是向朋友借钱，而且从不还钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35980.0,
+      "endTime": 40120.0,
+      "text": "Tony saw me and came and sat at the same table.",
+      "translation": "托尼看到了我，走过来坐在了同一张桌子旁。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40120.0,
+      "endTime": 43460.0,
+      "text": "He has never borrowed money from me.",
+      "translation": "他从未向我借过钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43460.0,
+      "endTime": 48500.0,
+      "text": "While he was eating, I asked him to lend me 20 pounds.",
+      "translation": "当他正在吃饭时，我请他借给我20英镑。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48500.0,
+      "endTime": 53860.0,
+      "text": "To my surprise, he gave me the money immediately.",
+      "translation": "令我惊讶的是，他立刻给了我钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53860.0,
+      "endTime": 57080.0,
+      "text": "I have never borrowed any money from you.",
+      "translation": "我从来没有向你借过钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57080.0,
+      "endTime": 61100.0,
+      "text": "Tony said, So now you can pay for my dinner.",
+      "translation": "托尼说：“所以现在你可以为我支付晚餐的费用了。”",
+      "isHeader": false
+    }
+  ]
+}

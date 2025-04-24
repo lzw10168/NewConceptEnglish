@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段在火车站发生的对话，展示了如何询问列车时刻、购买车票以及处理误时情况。课文涉及时间表达、方位指示、数字使用等内容，同时介绍了一般过去时和情态动词的使用。这些表达对于乘坐公共交通工具非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "George:        Two return tickets to London please. What time will the next train leave?",
       "Attendant:     At nineteen minutes past eight.",
       "George:        Which platform?",
@@ -36,7 +36,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "乔 治：买两张到伦敦的往返票。",
       "下一班火车什么时候开？",
       "服务员：8点19分。",

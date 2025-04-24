@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段关于度假准备的对话，展示了日常社交和假期相关的表达。课文涉及待客礼仪、时间表达、假期安排等话题，同时介绍了现在完成时和一般过去时的对比使用。这些表达对于社交场合和假期规划非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Peggy:     Hello, John. Come in.",
       "Tom:       Hello, John. We're having lunch. Do you want to have lunch with us?",
       "John:       No thank you, Tom. I've already had lunch. I had lunch at half past twelve.",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "卡罗尔：你好，萨姆。进来吧。",
       "汤 姆：你好，萨姆。我们正在吃午饭，",
       "你跟我们一起吃午饭好吗？",

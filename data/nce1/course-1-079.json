@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段关于购物清单的对话，展示了日常生活中购物相关的表达。课文涉及不同类型商店、食品名称、数量表达等话题，同时介绍了表示数量的词语much、many、a lot of的用法。这些表达对于日常购物场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Tom:       What are you doing, Peggy?",
       "Peggy:     I'm making a shopping-list, Tom.",
       "Tom:       What do we need?",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "汤 姆：卡罗尔，你在干什么？",
       "卡罗尔：我在写购物单，汤姆。",
       "汤 姆：我们都需要什么？",

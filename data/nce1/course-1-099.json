@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段意外受伤的对话，展示了如何描述事故和伤情，以及寻求帮助。课文涉及意外描述、身体状况表达、寻求医疗帮助等内容，同时介绍了现在完成时和情态动词的使用。这些表达对于处理突发意外情况非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Ted :              Ow!",
       "Pat:                What's the matter, Ted?",
       "Ted:              I slipped and fell downstairs.",
@@ -28,7 +28,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "Ted：啊哟！",
       "Pat：怎么了，Ted？",
       "Ted：我滑了一跤，从楼梯上摔下来了。",

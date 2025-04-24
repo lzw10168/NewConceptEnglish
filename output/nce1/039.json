@@ -1,0 +1,144 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6500.0,
+      "text": "Listen 39.",
+      "translation": "听第39题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 6500.0,
+      "endTime": 9060.0,
+      "text": "Don't drop it.",
+      "translation": "别把它掉了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9060.0,
+      "endTime": 10740.0,
+      "text": "Listen to the tape.",
+      "translation": "听磁带。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10740.0,
+      "endTime": 14380.0,
+      "text": "Then answer this question.",
+      "translation": "那么回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14380.0,
+      "endTime": 21640.0,
+      "text": "Where does Sam put the vase in the end?",
+      "translation": "最后，Sam把花瓶放在哪里了？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21640.0,
+      "endTime": 25580.000000000004,
+      "text": "What are you going to do with that vase Penny?",
+      "translation": "你打算用那个花瓶做什么，彭妮？",
+      "isHeader": false
+    },
+    {
+      "startTime": 25580.0,
+      "endTime": 29979.999999999996,
+      "text": "I'm going to put it on this table Sam.",
+      "translation": "我打算把它放在这张桌子上，萨姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29979.999999999996,
+      "endTime": 31939.999999999996,
+      "text": "Don't do that.",
+      "translation": "不要那样做。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31939.999999999996,
+      "endTime": 34060.0,
+      "text": "Give it to me.",
+      "translation": "把它给我。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34060.0,
+      "endTime": 37339.99999999999,
+      "text": "What are you going to do with it?",
+      "translation": "你打算用它来做什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 37339.99999999999,
+      "endTime": 39780.0,
+      "text": "I'm going to put it here.",
+      "translation": "我打算把它放在这里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39780.0,
+      "endTime": 42700.0,
+      "text": "In front of the window.",
+      "translation": "在窗户前面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42700.0,
+      "endTime": 44180.0,
+      "text": "Be careful.",
+      "translation": "小心。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44180.0,
+      "endTime": 47340.0,
+      "text": "Don't drop it.",
+      "translation": "别把它掉了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47340.0,
+      "endTime": 49700.0,
+      "text": "Don't put it there Sam.",
+      "translation": "不要放在那里，山姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49700.0,
+      "endTime": 51220.0,
+      "text": "Put it here.",
+      "translation": "把它放在这里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51220.0,
+      "endTime": 53940.0,
+      "text": "On this shelf.",
+      "translation": "在这个架子上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53980.0,
+      "endTime": 55780.0,
+      "text": "There we are.",
+      "translation": "我们到了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55780.0,
+      "endTime": 58300.0,
+      "text": "It's a lovely vase.",
+      "translation": "这是一个可爱的花瓶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58300.0,
+      "endTime": 60379.99999999999,
+      "text": "Those flowers are lovely too.",
+      "translation": "那些花也很可爱。",
+      "isHeader": false
+    }
+  ]
+}

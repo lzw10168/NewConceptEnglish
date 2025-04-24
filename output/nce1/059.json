@@ -1,0 +1,165 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7160.0,
+      "text": "Lesson 59.",
+      "translation": "第59课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7160.0,
+      "endTime": 8160.0,
+      "text": "Is that all?",
+      "translation": "就这些吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 8160.0,
+      "endTime": 13680.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 13680.0,
+      "endTime": 18040.0,
+      "text": "Does the lady buy any chalk?",
+      "translation": "这位女士买粉笔了吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 18040.0,
+      "endTime": 20920.0,
+      "text": "I want some envelopes, please.",
+      "translation": "我想要一些信封，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 20920.0,
+      "endTime": 24760.0,
+      "text": "Do you want the large size or the small size?",
+      "translation": "您想要大号还是小号？",
+      "isHeader": false
+    },
+    {
+      "startTime": 24760.0,
+      "endTime": 27600.0,
+      "text": "The large size, please.",
+      "translation": "请给我大号的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27600.0,
+      "endTime": 29600.0,
+      "text": "Do you have any writing paper?",
+      "translation": "你有信纸吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 29800.0,
+      "endTime": 33640.0,
+      "text": "Yes, we do.",
+      "translation": "是的，我们有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33640.0,
+      "endTime": 36120.00000000001,
+      "text": "I don't have any small pads.",
+      "translation": "我没有小本子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36120.00000000001,
+      "endTime": 39600.0,
+      "text": "I only have large ones.",
+      "translation": "我只有大的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39600.0,
+      "endTime": 41080.0,
+      "text": "Do you want a pad?",
+      "translation": "你需要一个便签本吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 41080.0,
+      "endTime": 43440.0,
+      "text": "Yes, please.",
+      "translation": "好的，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43440.0,
+      "endTime": 45720.0,
+      "text": "And I want some glue.",
+      "translation": "而且我需要一些胶水。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45720.0,
+      "endTime": 48520.0,
+      "text": "A bottle of glue.",
+      "translation": "一瓶胶水。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48520.0,
+      "endTime": 52640.0,
+      "text": "And I want a large box of chalk, too.",
+      "translation": "我还需要一大盒粉笔。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52640.0,
+      "endTime": 55520.0,
+      "text": "I only have small boxes.",
+      "translation": "我只有小盒子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55520.0,
+      "endTime": 56520.0,
+      "text": "Do you want one?",
+      "translation": "你想要一个吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 56520.0,
+      "endTime": 59160.00000000001,
+      "text": "No, thank you.",
+      "translation": "不，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59160.0,
+      "endTime": 60160.0,
+      "text": "Is that all?",
+      "translation": "就这些吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 60160.0,
+      "endTime": 62919.99999999999,
+      "text": "That's all, thank you.",
+      "translation": "就这些，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62919.99999999999,
+      "endTime": 63919.99999999999,
+      "text": "What else do you want?",
+      "translation": "你还有什么其他想要的吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 63919.99999999999,
+      "endTime": 65720.0,
+      "text": "I want my change.",
+      "translation": "我想要我的找零。",
+      "isHeader": false
+    }
+  ]
+}

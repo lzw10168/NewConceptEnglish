@@ -14,7 +14,7 @@
   "editorNotes": "本课通过介绍照片的方式，展示了如何描述一个地方的位置和环境。课文重点介绍了表示位置关系的介词的使用，以及描述人物活动的现在进行时。这些表达方式在介绍地点和描述场景时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "This is a photograph of our village.",
       "Our village is in a valley.",
       "It is between two hills.",
@@ -34,7 +34,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "这是我们村庄的一张照片。",
       "我们的村庄坐落在一个山谷之中。",
       "它们于两座小山之间。",

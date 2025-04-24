@@ -1,5 +1,5 @@
 {
-  "id": "nce2--051",
+  "id": "nce2-051",
   "lessonNumber": "051",
   "title": {
     "english": "Reward for Virtue",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于节食的有趣故事。休一直很胖，最近决定开始节食，但他无法坚持严格的饮食计划，偷偷地奖励自己吃巧克力和糖果。在语法方面，重点介绍了一般过去时的用法，以及一些常见词汇的区别，如raise和rise，lay和lie，以及beat和win的区别。文章还涉及了一些重要的词汇用法，如reward、virtue、diet、forbid等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.",
       "He began his diet a week ago.",
       "First of all, he wrote out a long list of all the foods which were forbidden.",
@@ -155,7 +155,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "reward",
@@ -221,5 +221,8 @@
         "meaning": "adv. 偶尔地"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般过去时"
+  ]
 }

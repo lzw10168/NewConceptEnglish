@@ -1,5 +1,5 @@
 {
-  "id": "nce2--096",
+  "id": "nce2-096",
   "lessonNumber": "096",
   "title": {
     "english": "The dead return",
@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了日本传统的亡灵节习俗。文章描述了节日的庆祝方式、特殊仪式以及人们对逝去亲人的纪念方式。语法上涉及被动语态、现在时态等结构，以及一些重要短语的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "A Festival for the Dead is held once a year in Japan.",
       "This festival is a cheerful occasion.",
       "On this day, the dead are said to return to their homes.",
@@ -143,7 +143,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "festival",
@@ -181,5 +181,8 @@
         "meaning": "v. 带领"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

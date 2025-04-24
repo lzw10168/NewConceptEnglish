@@ -1,5 +1,5 @@
 {
-  "id": "nce2--063",
+  "id": "nce2-063",
   "lessonNumber": "063",
   "title": {
     "english": "She was not amused",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于幽默感的有趣故事。杰里米·汉普登以其绝妙的幽默感而闻名，但在女儿的眼中，他的幽默演讲却变成了被众人嘲笑的场景。文章通过对比成人和儿童对幽默的不同理解，展示了幽默感的主观性和年龄差异。文章使用了多种语法结构，包括定语从句、插入语、方式状语从句等，以及多个与社交和情感表达相关的词汇。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Jeremy Hampden has a large circle of friends and is very popular at parties.",
       "Everybody admires him for his great sense of humour -- everybody, that is, except his six-year-old daughter, Jenny.",
       "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
@@ -186,7 +186,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "circle",
@@ -231,5 +231,9 @@
         "meaning": "n. 种类"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习",
+    "宾语从句"
+  ]
 }

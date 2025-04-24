@@ -1,5 +1,5 @@
 {
-  "id": "nce2--048",
+  "id": "nce2-048",
   "lessonNumber": "048",
   "title": {
     "english": "Did you want to tell me something?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的牙医就诊经历。文章通过生动的叙述展现了牙医在病人无法说话时仍不断提问的尴尬场面，以及最后发现拔错牙的意外情况。在语法方面，重点介绍了关系副词where的用法，以及一些常见的时间表达方式。文章还涉及了一些重要的词汇用法，如pull、collect、nod等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Dentists always ask questions when it is impossible for you to answer.",
       "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
       "I tried to say something, but my mouth was full of cotton wool.",
@@ -134,7 +134,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "pull",
@@ -179,5 +179,8 @@
         "meaning": "adv. 同时"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

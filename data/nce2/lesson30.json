@@ -1,5 +1,5 @@
 {
-  "id": "nce2--030",
+  "id": "nce2-030",
   "lessonNumber": "030",
   "title": {
     "english": "Football or polo?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的意外事件，涉及了一些重要的语法点，包括some和any的用法，以及冠词the的使用规则。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The Wayle is a small river that cuts across the park near my home.",
       "I like sitting by the Wayle on fine afternoons.",
       "It was warm last Sunday, so I went and sat on the river bank as usual.",
@@ -42,7 +42,7 @@
       "他大声叫着那些孩子，把球扔回到岸上。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -221,5 +221,9 @@
         "content": "英国有许多河流穿过城市和公园，这些河流不仅是交通要道，也是人们休闲娱乐的场所。划船（rowing）是英国人特别喜爱的一项水上运动。"
       }
     ]
-  }
+  },
+  "tags": [
+    "冠词",
+    "结果状语从句"
+  ]
 }

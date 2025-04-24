@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段在牙医诊所的对话，展示了预约就医的常用表达。课文涉及预约时间、表达紧急程度、礼貌请求等话题，同时介绍了情态动词can的多种用法和must的使用。这些表达对于日常医疗就诊场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Nurse:            Good morning, Mr Croft.",
       "Mr Croft:        Good morning, nurse. I want to see the dentist, please.",
       "Nurse:            Have you an appointment?（有预约吗？）",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "护 士：早上好，克罗夫特先生。",
       "克罗夫特先生：早上好，护士。我想见牙科医生。",
       "护 士：您约好了吗？",

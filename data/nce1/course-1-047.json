@@ -14,7 +14,7 @@
   "editorNotes": "本课展示了一个日常社交场景中的待客之道，通过简单的对话介绍了如何表达喜好、提供和接受饮品。对话中包含了多个以do开头的一般疑问句，体现了英语中礼貌待客的语言特点，对提高学习者的社交能力具有实际意义。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "MRS YOUNG:        Do you like coffee, Mrs Price?",
       "MRS PRICE:        Yes, I do.",
       "MRS YOUNG:        Do you want a cup?",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "Young：你喜欢咖啡吗，Price？",
       "Price：是的，我喜欢。",
       "YOUNG：你想要一杯吗？",

@@ -1,0 +1,109 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 14000.0,
+      "text": "Lesson 19. Tired and thirsty. Listen to the tape, then answer this question.",
+      "translation": "第19课。又累又渴。听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 19000.0,
+      "text": "Why do the children thank their mother?",
+      "translation": "为什么孩子们感谢他们的母亲？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19000.0,
+      "endTime": 23000.0,
+      "text": "What's the matter children?",
+      "translation": "孩子们，怎么了？",
+      "isHeader": false
+    },
+    {
+      "startTime": 23000.0,
+      "endTime": 26000.0,
+      "text": "We're tired.",
+      "translation": "我们累了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 28000.0,
+      "text": "And thirsty, mom.",
+      "translation": "还有口渴，妈妈。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 31000.0,
+      "text": "Sit down here.",
+      "translation": "坐这儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 34000.0,
+      "text": "Are you all right now?",
+      "translation": "你现在感觉怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 37000.0,
+      "text": "No, we aren't.",
+      "translation": "不，我们没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37000.0,
+      "endTime": 43000.0,
+      "text": "Look, there's an ice cream man.",
+      "translation": "看，那有一个卖冰淇淋的人。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43000.0,
+      "endTime": 47000.0,
+      "text": "Two ice creams please.",
+      "translation": "请来两个冰淇淋。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 51000.0,
+      "text": "Here you are children.",
+      "translation": "孩子们，你们在这儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51000.0,
+      "endTime": 54000.0,
+      "text": "Thanks, mom.",
+      "translation": "谢谢，妈妈。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 60000.0,
+      "text": "These ice creams are nice.",
+      "translation": "这些冰淇淋很好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60000.0,
+      "endTime": 63000.0,
+      "text": "Are you all right now?",
+      "translation": "你现在没事吧？",
+      "isHeader": false
+    },
+    {
+      "startTime": 63000.0,
+      "endTime": 67000.0,
+      "text": "Yes, we are. Thank you.",
+      "translation": "是的，我们是。谢谢。",
+      "isHeader": false
+    }
+  ]
+}

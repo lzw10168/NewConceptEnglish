@@ -1,0 +1,137 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9720.0,
+      "text": "Lesson 69, the car race.",
+      "translation": "第69课，汽车比赛。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9720.0,
+      "endTime": 14280.000000000002,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14280.000000000002,
+      "endTime": 21800.0,
+      "text": "Which car was the winner in 1995?",
+      "translation": "哪辆车在1995年赢得了比赛？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21800.0,
+      "endTime": 26400.000000000004,
+      "text": "There is a car race near our town every year.",
+      "translation": "每年我们镇附近都有一场汽车比赛。",
+      "isHeader": false
+    },
+    {
+      "startTime": 26400.0,
+      "endTime": 32000.0,
+      "text": "In 1995, there was a very big race.",
+      "translation": "在1995年，有一个非常大的比赛。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32000.0,
+      "endTime": 35080.0,
+      "text": "There were hundreds of people there.",
+      "translation": "那里有数百人。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35080.0,
+      "endTime": 38680.0,
+      "text": "My wife and I were at the race.",
+      "translation": "我和我的妻子在比赛现场。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38680.0,
+      "endTime": 43239.99999999999,
+      "text": "Our friends, Julie and Jack, were there too.",
+      "translation": "我们的朋友，朱莉和杰克，也在那里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43239.99999999999,
+      "endTime": 45840.0,
+      "text": "You can see us in the crowd.",
+      "translation": "你可以在人群中看到我们。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45840.0,
+      "endTime": 49959.99999999999,
+      "text": "We are standing on the left.",
+      "translation": "我们站在左边。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49959.99999999999,
+      "endTime": 53239.99999999999,
+      "text": "There were 20 cars in the race.",
+      "translation": "比赛中有20辆车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53240.0,
+      "endTime": 62920.0,
+      "text": "There were English cars, French cars, German cars, Italian cars, American cars, and Japanese",
+      "translation": "有英国车，法国车，德国车，意大利车，美国车和日本车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62920.0,
+      "endTime": 65120.00000000001,
+      "text": "cars.",
+      "translation": "汽车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65120.00000000001,
+      "endTime": 68160.0,
+      "text": "It was an exciting finish.",
+      "translation": "这是一个激动人心的结局。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68160.0,
+      "endTime": 71480.0,
+      "text": "The winner was Billy Stewart.",
+      "translation": "获胜者是比利·斯图尔特。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71480.0,
+      "endTime": 74680.0,
+      "text": "He was in car number 15.",
+      "translation": "他坐在15号车里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74680.0,
+      "endTime": 79520.00000000001,
+      "text": "Five other cars were just behind him.",
+      "translation": "五辆其他车就在他后面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79880.0,
+      "endTime": 85920.0,
+      "text": "On the way home, my wife said to me, don't drive so quickly.",
+      "translation": "在回家的路上，我妻子对我说，不要开得太快。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85920.0,
+      "endTime": 87360.0,
+      "text": "You're not Billy Stewart.",
+      "translation": "你不是比利·斯图尔特。",
+      "isHeader": false
+    }
+  ]
+}

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过描述一个客厅的场景，展示了如何描述房间布局和物品位置。课文重点介绍了There be句型的单复数形式，位置介词的使用，以及如何描述物品之间的空间关系。这些表达方式在描述室内环境时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mrs. Smith's living room is large.",
       "There is a television in the room.",
       "The television is near the window.",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "史密斯夫人的客厅很大。",
       "客厅里有台电视机。",
       "电视机靠近窗子。",

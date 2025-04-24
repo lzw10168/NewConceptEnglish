@@ -1,5 +1,5 @@
 {
-  "id": "nce2--054",
+  "id": "nce2-054",
   "lessonNumber": "054",
   "title": {
     "english": "Sticky fingers",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于家庭主妇在制作肉馅饼时被电话打断的有趣故事。作者在送孩子上学、购物回家后，决定制作肉馅饼，但正当她手上沾满粘糊的面糊时，电话铃响了。她不得不接听电话，并花时间说服对方稍后再打来。刚挂断电话，门铃又响了，这次是邮递员要求她签收挂号信。在语法方面，重点介绍了冠词the、some和any的用法，以及形容词和副词的最高级形式。文章还涉及了一些重要的词汇用法，如sticky、mix、annoying和persuade等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "After breakfast, I sent the children to school and then I went to the shops.",
       "It was still early when I returned home.",
       "The children were at school, my husband was at work and the house was quiet.",
@@ -187,7 +187,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "sticky",
@@ -288,5 +288,8 @@
         "meaning": "v. 挂号邮寄"
       }
     ]
-  }
+  },
+  "tags": [
+    "冠词"
+  ]
 }

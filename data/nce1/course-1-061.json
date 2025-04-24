@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个家庭看病的场景，学习如何描述身体不适和就医的相关表达。重点掌握表达身体状况的动词feel和look的用法，以及情态动词must的使用。同时学习医疗相关词汇和看病时的常用对话。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "MR WILLIANMS:        Where's Jimmy?",
       "MRS WILLIAMS:          He's in bed.",
       "MR WILLIAMS:               What's the matter with him?",
@@ -34,7 +34,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "威廉斯先生：吉米在哪儿？",
       "威廉斯夫人：他躺在床上。",
       "威廉斯先生：他怎么啦？",

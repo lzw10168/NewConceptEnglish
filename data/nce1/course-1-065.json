@@ -14,7 +14,7 @@
   "editorNotes": "本课围绕家庭对话展开，重点介绍父母与青少年子女之间关于外出时间的协商。课文涉及时间表达、情态动词must和can的用法，以及反身代词的使用。通过对话展示了家庭成员之间的互动和沟通方式，体现了父母对成长中子女的关心和适度放权。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "FATHER:    What are you going to do this evening,  Jill?",
       "Jill:            I'm going to meet some friends, Dad.",
       "FATHER:        You mustn't come home late. You must be home at half past ten.",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "父亲：今晚你打算干什么，吉尔？",
       "吉尔：我打算去看几个朋友，爸爸。",
       "父亲：你不准回家太晚，你必须在10点半到家。",

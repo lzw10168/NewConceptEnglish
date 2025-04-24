@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段在汽车修理厂的对话，展示了如何询问和描述车辆维修状况。课文涉及车辆识别、时间表达、事故描述等内容，同时介绍了过去时态和现在进行时的使用。这些表达对于处理车辆相关事务非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr Wood:       Is my car ready yet?",
       "Attendant:       I don't know, sir.  What's the licence number of your car?",
       "Mr Wood:     It's LFZ 312 G.",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "伍德先生：我的汽车修好了吗？",
       "服 务 员：我不知道，先生。您的汽车牌号是多少？",
       "伍德先生：是 LFZ312G。",

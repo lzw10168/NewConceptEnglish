@@ -1,5 +1,5 @@
 {
-  "id": "nce2--094",
+  "id": "nce2-094",
   "lessonNumber": "094",
   "title": {
     "english": "Future champions",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了儿童早期游泳训练的情况，特别介绍了洛杉矶特殊游泳池中儿童的学习过程。文章重点描述了孩子们惊人的水下适应能力和特殊的训练方法。语法上涉及被动语态、时间状语从句等结构，以及一些重要短语的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Experiments have proved that children can be instructed in swimming at a very early age.",
       "At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.",
       "Babies of two months old do not appear to be reluctant to enter the water.",
@@ -119,7 +119,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "instruct",
@@ -185,5 +185,8 @@
         "meaning": "v. 喘气"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

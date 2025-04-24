@@ -14,7 +14,7 @@
   "editorNotes": "本课通过两个学生讨论考试结果的对话，展示了如何谈论考试体验和表达担忧。课文涉及考试评价、情感表达和安慰鼓励等交际功能，同时介绍了比较级和情态动词的使用。这些表达对于学生生活中的考试交流非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Harry:     How was the examination, Dick?",
       "Dick:       Not too bad. I think I passed in English and Mathematics. The questions were very easy. How about you, Harry?",
       "Harry:     The English and Maths papers weren't easy enough for me. I hope I haven't failed.",
@@ -28,7 +28,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "加 里：考试考得怎样，理查德？",
       "理查德：不算太坏，我想我的英语和数学及格了。题目很容易。加里，你怎么样？",
       "加 里：英语和数学试题对我来说不很容易。我希望别不及格。",

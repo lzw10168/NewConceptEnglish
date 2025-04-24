@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了日常生活中泡茶的场景，包含位置介词的使用、物品的询问和回答，以及催促的表达方式。通过一个简单的对话，学习者可以掌握如何描述物品的位置，表达能力和意愿，以及理解英语中的紧急催促用语。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Can you make the tea, Sam?",
       "Yes, of course I can, Penny.",
       "Is there any water in this kettle(水壶)?",
@@ -36,7 +36,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "彭妮：你会沏茶吗，萨姆？",
       "萨姆：会的，我当然会，彭妮。",
       "萨姆：这水壶里有水吗？",

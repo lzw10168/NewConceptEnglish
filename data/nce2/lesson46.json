@@ -1,5 +1,5 @@
 {
-  "id": "nce2--046",
+  "id": "nce2-046",
   "lessonNumber": "046",
   "title": {
     "english": "Expensive and uncomfortable",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个男子为了逃避支付机票费用而藏在货物箱中的故事。文章通过生动的叙述展现了这种行为的后果。在语法方面，重点介绍了与to、at、for和with等介词搭配的动词用法，这些搭配在英语中非常常见且重要。文章还涉及了一些重要的词汇用法，如account for、occur to、be astonished at等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
       "No one could account for the fact that one of the boxes was extremely heavy.",
       "It suddenly occurred to one of the workers to open up the box.",
@@ -148,7 +148,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "unload",
@@ -235,5 +235,8 @@
         "meaning": "adj. 正常的，通常的"
       }
     ]
-  }
+  },
+  "tags": [
+    "同位语从句"
+  ]
 }

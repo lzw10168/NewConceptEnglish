@@ -14,7 +14,7 @@
   "editorNotes": "本课展示了在肉店购物的场景，介绍了如何询问和表达食物偏好，以及替他人做决定时如何考虑他人的喜好。通过对话学习购物场景中的礼貌用语，以及表达个人喜好的多种方式。同时也展示了英语中委婉表达和幽默元素的运用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "BUTCHER:  Do you want any meat today. Mrs. Bird?",
       "MRS.BIRD: Yes, please.",
       "BUTCHER:  Do you want beef or lamb?",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "肉    商：您今天要买点肉吗，伯德夫人？",
       "伯德夫人：是的，我买一点。",
       "肉    商：您要牛肉还是要羔羊肉？",

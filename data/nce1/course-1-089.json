@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段房屋买卖的对话，展示了如何询问和描述房产信息。课文涉及时间表达、价格讨论、决策过程等内容，同时介绍了现在完成时和一般现在时的使用。这些表达对于房产交易场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr Hill:      Good afternoon. I believe that this house is for sale（待售）.",
       "Mr West:      That's right.",
       "Mr Hill:      May I have a look at it please?",
@@ -35,7 +35,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "奈杰尔：下午好。我想这房子是要出售的吧！",
       "伊 恩: 是的。",
       "奈杰尔：我可以看一看吗？",

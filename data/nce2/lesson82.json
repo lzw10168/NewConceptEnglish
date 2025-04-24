@@ -1,5 +1,5 @@
 {
-  "id": "nce2--082",
+  "id": "nce2-082",
   "lessonNumber": "082",
   "title": {
     "english": "Monster or fish?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于海洋生物的故事，探讨了渔民和水手们声称在海上看到的'怪物'实际上是奇怪的鱼类。文章描述了一条在马达加斯加附近捕获的桨鱼，详细介绍了它的外观特征和生活习性。本课介绍了多个与海洋生物相关的词汇，如monster、creature、oarfish等，以及一些常用短语如at times、out at sea、make every effort等。本课还介绍了claim的用法，以及laugh和laugh at、wash和wash up的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Fishermen and sailors sometimes claim to have seen monsters in the sea.",
       "Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish.",
       "Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.",
@@ -194,7 +194,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "monster",
@@ -253,5 +253,8 @@
         "meaning": "v. 声称"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态"
+  ]
 }

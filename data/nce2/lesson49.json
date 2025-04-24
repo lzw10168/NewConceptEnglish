@@ -1,5 +1,5 @@
 {
-  "id": "nce2--049",
+  "id": "nce2-049",
   "lessonNumber": "049",
   "title": {
     "english": "The end of a dream",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个年轻人在德黑兰的故事。他为了摆脱睡地板的困扰，攒钱买了一张真正的床，却因为天气炎热把床搬到了屋顶。一场暴风雨导致床被吹落摔碎，但年轻人却奇迹般地没有受伤。在语法方面，重点介绍了复合句的语序，包括连词连接的复合句、分词结构的复合句和不定式结构的复合句。文章还涉及了一些重要的词汇用法，如tired、real、spring、mattress等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.",
       "For the first time in his life, he became the proud owner of a bed which had springs and a mattress.",
       "Because the weather was very hot, he carried the bed on to the roof of his house.",
@@ -150,7 +150,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "tired",
@@ -244,5 +244,8 @@
         "meaning": "adv. 迅速地"
       }
     ]
-  }
+  },
+  "tags": [
+    "句型简化"
+  ]
 }

@@ -1,0 +1,151 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5000.0,
+      "text": "Lesson 133.",
+      "translation": "第133课",
+      "isHeader": false
+    },
+    {
+      "startTime": 5000.0,
+      "endTime": 8000.0,
+      "text": "Sensational news.",
+      "translation": "轰动性新闻。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 12000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 12000.0,
+      "endTime": 17000.0,
+      "text": "What reasons did Karen Marsh give for wanting to retire?",
+      "translation": "Karen Marsh 想要退休的原因有哪些？",
+      "isHeader": true
+    },
+    {
+      "startTime": 17000.0,
+      "endTime": 22000.0,
+      "text": "Have you just made a new film, Ms. Marsh?",
+      "translation": "您刚刚制作了一部新电影吗，马什女士？",
+      "isHeader": false
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 25000.0,
+      "text": "Yes, I have.",
+      "translation": "是的，我有过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 27000.0,
+      "text": "Are you going to make another?",
+      "translation": "你打算再做一个吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 27000.0,
+      "endTime": 31000.0,
+      "text": "No, I'm not. I'm going to retire.",
+      "translation": "不，我不是。我打算退休。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 34000.0,
+      "text": "I feel very tired.",
+      "translation": "我感到非常疲倦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 38000.0,
+      "text": "I don't want to make another film for a long time.",
+      "translation": "我不想在很长一段时间内再拍电影。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38000.0,
+      "endTime": 41000.0,
+      "text": "Let's buy a newspaper, Liz.",
+      "translation": "我们买份报纸吧，Liz。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41000.0,
+      "endTime": 43000.0,
+      "text": "Listen to this.",
+      "translation": "听这个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43000.0,
+      "endTime": 48000.0,
+      "text": "Karen Marsh, Sensational News, by our reporter, Alan Jones.",
+      "translation": "凯伦·马什，轰动新闻，由我们的记者艾伦·琼斯报道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 52000.0,
+      "text": "Karen Marsh arrived at Linden Airport today.",
+      "translation": "卡伦·马什今天到达了林登机场。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52000.0,
+      "endTime": 55000.0,
+      "text": "She was wearing a blue dress in the mink jacket.",
+      "translation": "她穿着一件蓝色连衣裙，外面套着一件貂皮夹克。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 58000.0,
+      "text": "She told me she had just made a new film.",
+      "translation": "她告诉我她刚拍了一部新电影。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58000.0,
+      "endTime": 61000.0,
+      "text": "She said she was not going to make another.",
+      "translation": "她说她不会再做一个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61000.0,
+      "endTime": 64000.0,
+      "text": "She said she was going to retire.",
+      "translation": "她说她打算退休。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64000.0,
+      "endTime": 67000.0,
+      "text": "She told reporters she felt very tired,",
+      "translation": "她告诉记者她感到非常疲惫，",
+      "isHeader": false
+    },
+    {
+      "startTime": 67000.0,
+      "endTime": 71000.0,
+      "text": "didn't want to make another film for a long time.",
+      "translation": "长时间内不想再拍另一部电影。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71000.0,
+      "endTime": 74000.0,
+      "text": "I wonder why.",
+      "translation": "我想知道为什么。",
+      "isHeader": false
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--016",
+  "id": "nce2-016",
   "lessonNumber": "016",
   "title": {
     "english": "A polite request",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个在瑞典旅行时的有趣经历，展示了交通警察礼貌执法的方式。重点介绍了条件句的用法，以及一些与交通、停车相关的词汇和短语。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "If you park your car in the wrong place, a traffic policeman will soon find it.",
       "You will be very lucky if he lets you go without a ticket.",
       "However, this does not always happen.",
@@ -42,7 +42,7 @@
       "如果你收到这样的恳求，你是不会不遵照执行的！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -217,5 +217,10 @@
         "content": "本课涉及几组相近词的用法区别：pay attention to（思想上的注意）、notice（眼睛上的注意）、care（关心）、take care of（照顾）等，这些词虽然都与'注意'相关，但使用场景各不相同。"
       }
     ]
-  }
+  },
+  "tags": [
+    "if条件状语从句",
+    "状语从句",
+    "主将从现"
+  ]
 }

@@ -1,0 +1,179 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7880.0,
+      "text": "Lesson 113.",
+      "translation": "第113课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7880.0,
+      "endTime": 10360.0,
+      "text": "Small change.",
+      "translation": "零钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10360.0,
+      "endTime": 14400.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14400.0,
+      "endTime": 16960.0,
+      "text": "Who has got some small change?",
+      "translation": "谁有零钱？",
+      "isHeader": true
+    },
+    {
+      "startTime": 16960.0,
+      "endTime": 19320.0,
+      "text": "Fairs, please.",
+      "translation": "展览会，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 19320.0,
+      "endTime": 21720.0,
+      "text": "Tefalga Square, please.",
+      "translation": "特法尔加广场，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 21720.0,
+      "endTime": 24760.0,
+      "text": "I'm sorry, sir.",
+      "translation": "对不起，先生。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24760.0,
+      "endTime": 27800.0,
+      "text": "I can't change a ten pound note.",
+      "translation": "我找不开十英镑的钞票。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27800.0,
+      "endTime": 30800.0,
+      "text": "Haven't you got any small change?",
+      "translation": "你没有零钱吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30800.0,
+      "endTime": 34160.00000000001,
+      "text": "I've got no small change, I'm afraid.",
+      "translation": "我没有零钱，恐怕。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34160.00000000001,
+      "endTime": 37040.0,
+      "text": "I'll ask some of the passengers.",
+      "translation": "我会问一些乘客。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37040.0,
+      "endTime": 39560.0,
+      "text": "Have you any small change, sir?",
+      "translation": "先生，您有零钱吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 39560.0,
+      "endTime": 40720.0,
+      "text": "I'm sorry.",
+      "translation": "对不起。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40720.0,
+      "endTime": 43440.0,
+      "text": "I've got none.",
+      "translation": "我一个也没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43440.0,
+      "endTime": 46480.00000000001,
+      "text": "I haven't got any either.",
+      "translation": "我也没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46480.00000000001,
+      "endTime": 49800.0,
+      "text": "Can you change this ten pound note, madam?",
+      "translation": "您能帮我换一下这张十英镑的钞票吗，女士？",
+      "isHeader": false
+    },
+    {
+      "startTime": 49800.0,
+      "endTime": 52160.0,
+      "text": "I'm afraid I can't.",
+      "translation": "恐怕我不能。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52160.0,
+      "endTime": 54760.00000000001,
+      "text": "Neither can I.",
+      "translation": "我也不能。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54760.00000000001,
+      "endTime": 56840.0,
+      "text": "I'm very sorry, sir.",
+      "translation": "先生，非常抱歉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56880.0,
+      "endTime": 59200.0,
+      "text": "You must get off the bus.",
+      "translation": "你必须下车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59200.0,
+      "endTime": 62800.00000000001,
+      "text": "None of our passengers can change this note.",
+      "translation": "我们的乘客中没有人能兑换这张纸币。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62800.00000000001,
+      "endTime": 67080.0,
+      "text": "They're all millionaires.",
+      "translation": "他们都是百万富翁。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67080.0,
+      "endTime": 69320.00000000001,
+      "text": "Except us.",
+      "translation": "除了我们。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69320.00000000001,
+      "endTime": 71680.0,
+      "text": "I've got some small change.",
+      "translation": "我有一些零钱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71680.0,
+      "endTime": 73680.0,
+      "text": "Have I?",
+      "translation": "我有吗？",
+      "isHeader": false
+    }
+  ]
+}

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过邻居间的对话，展示了如何谈论他人的搬家计划和表达离别之情。课文涉及时间安排、情感表达、问候传递等内容，同时介绍了现在完成时、一般将来时的使用。这些表达对于社交场合非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mrs Smith:     Has Mr West sold his house yet?",
       "Mrs Brown:     Yes, he has. He sold it last week.",
       "Mrs Smith:     Has he moved to his new house yet?",
@@ -33,7 +33,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "Smith：West先生已把他的房子卖掉了吗？",
       "Brown：是的，卖掉了。他上星期卖掉的。",
       "Smith：他已经迁进新居了吗？",

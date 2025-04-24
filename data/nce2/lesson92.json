@@ -1,5 +1,5 @@
 {
-  "id": "nce2--092",
+  "id": "nce2-092",
   "lessonNumber": "092",
   "title": {
     "english": "Asking for trouble",
@@ -14,7 +14,7 @@
   "editorNotes": "这篇文章讲述了一个幽默的误会事件。主人公深夜回家时发现妻子睡得太熟，无法叫醒，于是试图通过梯子爬进卧室，却被警察误认为是小偷。文章通过对话展现了主人公的机智应对和警察的幽默回应。语法重点包括情态动词、动名词和并列句的使用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "It must have been about two in the morning when I returned home.",
       "I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.",
       "I was almost there when a sarcastic voice below said, 'I don't think the windows need cleaning at this time of the night.'",
@@ -139,7 +139,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "fast",
@@ -177,5 +177,9 @@
         "meaning": "n. 语气，腔调"
       }
     ]
-  }
+  },
+  "tags": [
+    "doing",
+    "否定前移"
+  ]
 }

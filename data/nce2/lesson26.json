@@ -1,5 +1,5 @@
 {
-  "id": "nce2--026",
+  "id": "nce2-026",
   "lessonNumber": "026",
   "title": {
     "english": "The best art critics",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个艺术系学生和他7岁妹妹的故事，通过妹妹敏锐地发现画被倒挂的细节，说明小孩子往往比成年人更能欣赏现代艺术。课文重点介绍了art、critic、appreciate等词的用法，以及引号的使用规则。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I am an art student and I paint a lot of pictures.",
       "Many people pretend that they understand modern art.",
       "They always tell you what a picture is 'about'.",
@@ -54,7 +54,7 @@
       "她说得对！确实是倒挂着的！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -261,5 +261,8 @@
         "content": "1. appreciate + sth. - 感激某事；2. appreciate + doing - 喜欢做某事；3. 程度递增：like → love → enjoy → appreciate"
       }
     ]
-  }
+  },
+  "tags": [
+    "宾语从句"
+  ]
 }

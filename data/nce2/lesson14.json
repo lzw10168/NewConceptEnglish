@@ -1,5 +1,5 @@
 {
-  "id": "nce2--014",
+  "id": "nce2-014",
   "lessonNumber": "014",
   "title": {
     "english": "Do you speak English?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的搭便车经历，重点介绍了过去完成时的用法，以及一些常见词组的区别用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I had an amusing experience last year.",
       "After I had left a small village in the south of France, I drove on to the next town.",
       "On the way, a young man waved to me.",
@@ -40,7 +40,7 @@
       "我很快了解到，他自己就是个英国人！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -194,5 +194,8 @@
         "content": "本课展示了语言交际中的有趣现象：有时人们会因为语言障碍而产生误解，但这些误解往往会带来意想不到的趣味性。同时也说明了在国际交往中掌握英语的重要性。"
       }
     ]
-  }
+  },
+  "tags": [
+    "过去完成时"
+  ]
 }

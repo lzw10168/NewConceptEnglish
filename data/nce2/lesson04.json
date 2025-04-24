@@ -1,5 +1,5 @@
 {
-  "id": "nce2--004",
+  "id": "nce2-004",
   "lessonNumber": "004",
   "title": {
     "english": "An exciting trip",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于国外旅行的故事。主人公的弟弟Tim在澳大利亚工作和旅行，这是他第一次出国，因此感到非常兴奋。课文通过一封信的形式，介绍了Tim在澳大利亚的经历，同时也展示了现在完成时的重要用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I have just received a letter from my brother, Tim.",
       "He is in Australia.",
       "He has been there for six months.",
@@ -42,7 +42,7 @@
       "因此，他觉得这次旅行非常激动人心。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "生词和短语",
     "notes": [
       {
@@ -195,5 +195,9 @@
         "content": "课文提到的Alice Springs是澳大利亚中部的一个小镇，Darwin是北领地的首府，Perth是西澳大利亚州的首府。这些地名反映了主人公在澳大利亚各地旅行的经历。"
       }
     ]
-  }
+  },
+  "tags": [
+    "现在完成时",
+    "同位语"
+  ]
 }

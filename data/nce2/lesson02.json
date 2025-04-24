@@ -1,5 +1,5 @@
 {
-  "id": "nce2--002",
+  "id": "nce2-002",
   "lessonNumber": "002",
   "title": {
     "english": "Breakfast or lunch?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的小故事，描述了一个周日早晨发生的事情。主人公习惯周日睡懒觉，但这天却因为姑妈突然来访而发生了一个小插曲。故事通过时间概念的混淆制造了幽默效果，同时也反映了不同人对时间安排的不同态度。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "It was Sunday.",
       "I never get up early on Sundays.",
       "I sometimes stay in bed until lunchtime.",
@@ -58,7 +58,7 @@
       "'现在已经1点钟了！'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "生词和短语",
     "notes": [
       {
@@ -204,5 +204,9 @@
         "content": "课文中出现了多种表达时间和日常作息的说法，以及英式英语中特有的一些表达方式，如'Dear me'这样的感叹语。"
       }
     ]
-  }
+  },
+  "tags": [
+    "现在进行时",
+    "一般现在时"
+  ]
 }

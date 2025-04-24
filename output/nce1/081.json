@@ -1,0 +1,158 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 15920.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15920.0,
+      "endTime": 21200.0,
+      "text": "Why is Carol disappointed?",
+      "translation": "为什么卡罗尔感到失望？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21200.0,
+      "endTime": 23200.0,
+      "text": "Hi Carol, where's Tom?",
+      "translation": "嗨，卡罗尔，汤姆在哪里？",
+      "isHeader": false
+    },
+    {
+      "startTime": 23200.0,
+      "endTime": 27000.0,
+      "text": "He's upstairs, he's having a bath.",
+      "translation": "他现在在楼上，正在洗澡。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27000.0,
+      "endTime": 28000.0,
+      "text": "Tom?",
+      "translation": "汤姆？",
+      "isHeader": false
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 29000.0,
+      "text": "Yes?",
+      "translation": "是的？",
+      "isHeader": false
+    },
+    {
+      "startTime": 29000.0,
+      "endTime": 30000.0,
+      "text": "Sam's here.",
+      "translation": "萨姆在这里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 33000.0,
+      "text": "I'm nearly ready.",
+      "translation": "我快准备好了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33000.0,
+      "endTime": 38000.0,
+      "text": "Hello Sam, have a cigarette.",
+      "translation": "你好，萨姆，抽支烟吧。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38000.0,
+      "endTime": 41000.0,
+      "text": "No thanks Tom.",
+      "translation": "不用了，谢谢汤姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41000.0,
+      "endTime": 44000.0,
+      "text": "Have a glass of whiskey then.",
+      "translation": "那就来杯威士忌吧。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44000.0,
+      "endTime": 48000.0,
+      "text": "Okay, thanks.",
+      "translation": "好的，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 50000.0,
+      "text": "It's dinner ready Carol?",
+      "translation": "晚饭准备好了吗，卡罗尔？",
+      "isHeader": false
+    },
+    {
+      "startTime": 50000.0,
+      "endTime": 51000.0,
+      "text": "It's nearly ready.",
+      "translation": "它快准备好了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51000.0,
+      "endTime": 54000.0,
+      "text": "We can have dinner at seven o'clock.",
+      "translation": "我们可以在七点钟吃晚餐。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54000.0,
+      "endTime": 57000.0,
+      "text": "Sam and I had lunch together today.",
+      "translation": "萨姆和我今天一起吃了午餐。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57000.0,
+      "endTime": 59000.0,
+      "text": "We went to a restaurant.",
+      "translation": "我们去了一家餐厅。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59000.0,
+      "endTime": 61000.0,
+      "text": "What did you have?",
+      "translation": "你吃了什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 61000.0,
+      "endTime": 65000.0,
+      "text": "We had roast beef and potatoes.",
+      "translation": "我们吃了烤牛肉和土豆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 67000.0,
+      "text": "Oh.",
+      "translation": "哦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67000.0,
+      "endTime": 69000.0,
+      "text": "What's the matter Carol?",
+      "translation": "怎么了，卡罗尔？",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 74000.0,
+      "text": "Well, you're going to have roast beef and potatoes again tonight.",
+      "translation": "好吧，你今晚又要吃烤牛肉和土豆了。",
+      "isHeader": false
+    }
+  ]
+}

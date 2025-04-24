@@ -1,5 +1,5 @@
 {
-  "id": "nce2--027",
+  "id": "nce2-027",
   "lessonNumber": "027",
   "title": {
     "english": "A wet night",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一群男孩露营时遇到大雨的故事，重点介绍了感官动词的用法，以及表示'在...之后'的句式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Late in the afternoon, the boys put up their tent in the middle of a field.",
       "As soon as this was done, they cooked a meal over an open fire.",
       "They were all hungry and the food smelled good.",
@@ -46,7 +46,7 @@
       "那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -267,5 +267,9 @@
         "content": "本课中出现的动词wind有'蜿蜒'的意思，这是其引申义。wind的基本含义是'缠绕'，过去式和过去分词都是wound。类似的动词还有：bend-bent-bent（弯曲），bind-bound-bound（捆绑）等。"
       }
     ]
-  }
+  },
+  "tags": [
+    "put",
+    "一般过去时"
+  ]
 }

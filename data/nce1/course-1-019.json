@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个日常生活场景，展示了如何表达身体状态和需求。课文重点介绍了表达疲劳、口渴等身体感受的表达方式，以及如何回应他人的关心。这些表达对于日常生活交际非常实用，特别是对儿童英语学习者来说更为贴近。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "What's the matter, children?",
       "We are tired and thirsty, Mum.",
       "Sit down here.",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "母 亲： 怎么啦，孩子们？",
       "女 孩： 我们累了……",
       "男 孩： ……口也渴，妈妈。",

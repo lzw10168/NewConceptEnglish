@@ -1,5 +1,5 @@
 {
-  "id": "nce2--047",
+  "id": "nce2-047",
   "lessonNumber": "047",
   "title": {
     "english": "A thirsty ghost",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于闹鬼酒吧的有趣故事。文章通过汤普森先生的经历，生动地描述了一个'贪杯的鬼魂'的所作所为。在语法方面，重点介绍了情态动词must的用法，以及一些常见的时间表达方式。文章还涉及了一些重要的词汇用法，如haunt、suggest、accept等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "A public house which was recently bought by Mr. Ian Thompson is up for sale.",
       "Mr.Thompson is going to sell it because it is haunted.",
       "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.",
@@ -135,7 +135,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "thirsty",
@@ -201,5 +201,8 @@
         "meaning": "v. 接受"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

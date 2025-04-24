@@ -1,0 +1,109 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 15000.0,
+      "text": "Lesson 15. Your passports, please. Listen to the tape, then answer this question.",
+      "translation": "第15课。请出示你们的护照。请听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 25000.0,
+      "text": "Is there a problem with the customs officer? Are you Swedish?",
+      "translation": "海关官员有问题吗？你是瑞典人吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 31000.0,
+      "text": "No, we are not. We are Danish.",
+      "translation": "不，我们不是。我们是丹麦人。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 35000.0,
+      "text": "Are your friends Danish too?",
+      "translation": "你的朋友们也是丹麦人吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 42000.0,
+      "text": "No, they aren't. They are Norwegian.",
+      "translation": "不，他们不是。他们是挪威人。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42000.0,
+      "endTime": 46000.0,
+      "text": "Your passports, please.",
+      "translation": "请出示你们的护照。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46000.0,
+      "endTime": 49000.0,
+      "text": "Here they are.",
+      "translation": "他们在这儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49000.0,
+      "endTime": 53000.0,
+      "text": "Are these your cases?",
+      "translation": "这些是你的箱子吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 63000.0,
+      "text": "No, they aren't. Our cases are brown. Here they are.",
+      "translation": "不，它们不是。我们的箱子是棕色的。它们在这儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63000.0,
+      "endTime": 66000.0,
+      "text": "Are you tourists?",
+      "translation": "你们是游客吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 66000.0,
+      "endTime": 69000.0,
+      "text": "Yes, we are.",
+      "translation": "是的，我们是。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 73000.0,
+      "text": "Are your friends tourists too?",
+      "translation": "你的朋友们也是游客吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 73000.0,
+      "endTime": 77000.0,
+      "text": "Yes, they are.",
+      "translation": "是的，他们是。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77000.0,
+      "endTime": 79000.0,
+      "text": "That's fine.",
+      "translation": "好的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 82000.0,
+      "text": "Thank you very much.",
+      "translation": "非常感谢。",
+      "isHeader": false
+    }
+  ]
+}

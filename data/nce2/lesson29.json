@@ -1,5 +1,5 @@
 {
-  "id": "nce2--029",
+  "id": "nce2-029",
   "lessonNumber": "029",
   "title": {
     "english": "Taxi!",
@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了一种特殊的'空中出租车'服务，涉及一般过去时和现在完成时的使用，以及bring、take、fetch等动词的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
       "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
       "This wonderful plane can carry seven passengers.",
@@ -40,7 +40,7 @@
       "这个人想要飞往大西洋上的一个孤岛——罗卡尔岛，弗西特机长之所以不送他去，是因为那段飞行太危险了。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -232,5 +232,8 @@
         "content": "课文中出现的lonely一词既可以用来形容地方的偏僻（a lonely village），也可以用来形容人的孤独（feel lonely）。当形容人的孤独时，还可以用alone，但alone更强调客观上的独处状态，而lonely则强调主观上的孤独感受。"
       }
     ]
-  }
+  },
+  "tags": [
+    "表语从句"
+  ]
 }

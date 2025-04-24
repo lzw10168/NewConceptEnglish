@@ -1,5 +1,5 @@
 {
-  "id": "nce2--017",
+  "id": "nce2-017",
   "lessonNumber": "017",
   "title": {
     "english": "Always young",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一位年长的女演员常常在舞台上扮演年轻角色的故事，重点介绍了情态动词must的用法，以及一些与舞台表演相关的词汇和短语。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "My aunt Jennifer is an actress.",
       "She must be at least thirty-five years old.",
       "In spite of this, she often appears on the stage as a young girl.",
@@ -38,7 +38,7 @@
       "一旦有人问起她有多大年纪，她总是回答：'亲爱的，长成大人真可怕啊！'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -173,5 +173,9 @@
         "content": "dress（连衣裙）、suit（套装）、costume（戏服）这些词都与服装有关，但使用场景不同。dress通常指女性的连衣裙，suit指正式场合穿的套装，而costume特指演出服或特殊场合的服装。"
       }
     ]
-  }
+  },
+  "tags": [
+    "情态动词",
+    "must"
+  ]
 }

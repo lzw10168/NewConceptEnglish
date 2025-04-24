@@ -1,5 +1,5 @@
 {
-  "id": "nce2--074",
+  "id": "nce2-074",
   "lessonNumber": "074",
   "title": {
     "english": "Out of the limelight",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一群著名演员试图避开公众视线，到一个偏僻地方野餐的故事。文章描述了演员们如何伪装自己以避免被认出，但最终他们的伪装太过完美，反而被当地司法长官误认为是普通游客而驱逐。文章通过这个幽默的故事，展示了与get相关的短语动词用法，以及公共标语的表达方式。文章还展示了如何描述人物伪装和误解的情况，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.",
       "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
       "But as they soon discovered, disguises can sometimes be too perfect.",
@@ -204,7 +204,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "limelight",
@@ -256,5 +256,8 @@
         "meaning": "n. 冷笑"
       }
     ]
-  }
+  },
+  "tags": [
+    "非限定性定语从句"
+  ]
 }

@@ -1,0 +1,46 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 14840.0,
+      "text": "Lesson 25. Mrs Smith's kitchen. Listen to the tape then answer this question.",
+      "translation": "第25课。史密斯夫人的厨房。听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14840.0,
+      "endTime": 27820.0,
+      "text": "What color is the electric cooker? Mrs Smith's kitchen is small. There is a refrigerator",
+      "translation": "电炉是什么颜色的？史密斯夫人的厨房很小。那里有一个冰箱。",
+      "isHeader": true
+    },
+    {
+      "startTime": 27820.0,
+      "endTime": 42700.0,
+      "text": "in the kitchen. The refrigerator is white. It is on the right. There is an electric cooker",
+      "translation": "在厨房里。冰箱是白色的。它在右边。那有一个电炉",
+      "isHeader": false
+    },
+    {
+      "startTime": 42700.0,
+      "endTime": 56260.00000000001,
+      "text": "in the kitchen. The cooker is blue. It is on the left. There is a table in the middle",
+      "translation": "在厨房里。炉子是蓝色的。它在左边。中间有一张桌子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56260.0,
+      "endTime": 70140.0,
+      "text": "of the room. There is a bottle on the table. The bottle is empty. There is a cup on the",
+      "translation": "房间里面。桌子上有一个瓶子。瓶子是空的。还有一个杯子在",
+      "isHeader": false
+    },
+    {
+      "startTime": 70140.0,
+      "endTime": 75540.0,
+      "text": "The cup is clean.",
+      "translation": "这个杯子是干净的。",
+      "isHeader": false
+    }
+  ]
+}

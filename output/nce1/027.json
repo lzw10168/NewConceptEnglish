@@ -1,0 +1,53 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 16040.0,
+      "text": "Lesson 27. Mrs. Smith's living room. Listen to the tape, then answer this question. Where",
+      "translation": "第27课。史密斯夫人的客厅。听录音，然后回答这个问题。在哪里",
+      "isHeader": false
+    },
+    {
+      "startTime": 16040.0,
+      "endTime": 25600.0,
+      "text": "are the books? Mrs. Smith's living room is large. There is",
+      "translation": "书在哪里？史密斯夫人的客厅很大。那里有",
+      "isHeader": true
+    },
+    {
+      "startTime": 25600.0,
+      "endTime": 38720.0,
+      "text": "a television in the room. The television is near the window. There are some magazines on the",
+      "translation": "房间里面有一台电视。电视靠近窗户。有一些杂志在",
+      "isHeader": false
+    },
+    {
+      "startTime": 38720.0,
+      "endTime": 52440.0,
+      "text": "television. There is a table in the room. There are some newspapers on the table. There are some",
+      "translation": "电视。房间里有一张桌子。桌子上有一些报纸。还有一些",
+      "isHeader": false
+    },
+    {
+      "startTime": 52480.0,
+      "endTime": 66360.0,
+      "text": "armchairs in the room. The armchairs are near the table. There is a stereo in the room. The",
+      "translation": "房间里的扶手椅。扶手椅靠近桌子。房间里有一个音响。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66360.0,
+      "endTime": 78520.0,
+      "text": "stereo is near the door. There are some books on the stereo. There are some pictures in the room.",
+      "translation": "立体声音响在门附近。音响上有一些书。房间里有一些图片。",
+      "isHeader": false
+    },
+    {
+      "startTime": 78520.0,
+      "endTime": 82560.0,
+      "text": "The pictures are on the wall.",
+      "translation": "这些图片在墙上。",
+      "isHeader": false
+    }
+  ]
+}

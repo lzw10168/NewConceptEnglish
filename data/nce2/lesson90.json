@@ -1,5 +1,5 @@
 {
-  "id": "nce2--090",
+  "id": "nce2-090",
   "lessonNumber": "090",
   "title": {
     "english": "What's for supper?",
@@ -14,7 +14,7 @@
   "editorNotes": "这篇文章讲述了北海石油钻井平台附近出现的巨型鱼类现象。文章通过描述这些异常生长的鱼类，反映了人类活动对海洋生态系统的影响。语法重点包括复合名词的单复数用法、现在完成时和被动语态的使用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Fish and chips has always been a favourite dish in Britain.",
       "The oceans have been overfished.",
       "Fish has become more and more expensive.",
@@ -164,7 +164,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "chip",
@@ -279,5 +279,8 @@
         "meaning": "adj. 特别的"
       }
     ]
-  }
+  },
+  "tags": [
+    "have"
+  ]
 }

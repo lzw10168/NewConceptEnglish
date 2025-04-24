@@ -1,0 +1,123 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 13000.0,
+      "text": "Lesson 75. Uncomfortable shoes. Listen to the tape, then answer this question.",
+      "translation": "第75课。不舒服的鞋子。听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 13000.0,
+      "endTime": 18000.0,
+      "text": "What's wrong with the fashionable shoes?",
+      "translation": "这些时髦的鞋子有什么问题吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 18000.0,
+      "endTime": 22000.0,
+      "text": "Do you have any shoes like these?",
+      "translation": "你有像这样的鞋子吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 24000.0,
+      "text": "What size?",
+      "translation": "什么尺寸？",
+      "isHeader": false
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 25000.0,
+      "text": "Size five.",
+      "translation": "五号尺寸。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 26000.0,
+      "text": "What color?",
+      "translation": "什么颜色？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 27000.0,
+      "text": "Black.",
+      "translation": "黑色。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27000.0,
+      "endTime": 30000.0,
+      "text": "I'm sorry, we don't have any.",
+      "translation": "对不起，我们没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 34000.0,
+      "text": "But my sister bought this pair last month.",
+      "translation": "但是我妹妹上个月买了这双。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 36000.0,
+      "text": "Did she buy them here?",
+      "translation": "她在这里买的吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 36000.0,
+      "endTime": 40000.0,
+      "text": "No, she bought them in the US.",
+      "translation": "不，她是在美国买的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40000.0,
+      "endTime": 47000.0,
+      "text": "We had some shoes like those a month ago, but we don't have any now.",
+      "translation": "一个月前我们有一些像那样的鞋子，但现在我们没有了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 50000.0,
+      "text": "Can you get a pair for me, please?",
+      "translation": "您能帮我拿一对吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 50000.0,
+      "endTime": 62000.0,
+      "text": "I'm afraid that I can't. They were in fashion last year, and the year before last, but they're not in fashion this year.",
+      "translation": "恐怕我不能。它们在去年和前年都很流行，但今年它们不流行了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 65000.0,
+      "text": "These shoes are in fashion now.",
+      "translation": "这些鞋子现在很流行。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 68000.0,
+      "text": "They look very uncomfortable.",
+      "translation": "他们看起来非常不舒服。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68000.0,
+      "endTime": 77000.0,
+      "text": "They are very uncomfortable, but women always wear uncomfortable shoes.",
+      "translation": "它们非常不舒服，但女性总是穿不舒服的鞋子。",
+      "isHeader": false
+    }
+  ]
+}

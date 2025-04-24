@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一对夫妻关于浇花园和喝下午茶的对话，展示了英式生活中的日常场景。课文重点介绍了情态动词must、have to和needn't的用法，以及描述天气和日常活动的表达方式。这些表达对于描述日常生活和义务非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Susan:   Can't you come in and have tea now, Peter?",
       "Peter:   Not yet, dear. I must water the garden first.",
       "Susan:   Do you have to water it now?",
@@ -30,7 +30,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "苏珊：彼得，你现在能进来喝茶吗？",
       "彼得：还不能。我得先给花园浇水。",
       "苏珊：你一定得现在浇吗？",

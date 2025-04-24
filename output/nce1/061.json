@@ -1,0 +1,53 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5200.0,
+      "text": "What's the matter with him, Doctor?",
+      "translation": "他怎么了，医生？",
+      "isHeader": false
+    },
+    {
+      "startTime": 5200.0,
+      "endTime": 8080.0,
+      "text": "He has a bad cold, Mr. Williams.",
+      "translation": "他感冒很严重，威廉姆斯先生。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8080.0,
+      "endTime": 11920.0,
+      "text": "So he must stay in bed for a week.",
+      "translation": "所以他必须卧床休息一周。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11920.0,
+      "endTime": 14520.0,
+      "text": "That's good news for Jimmy.",
+      "translation": "对吉米来说这是个好消息。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14520.0,
+      "endTime": 16000.0,
+      "text": "Good news?",
+      "translation": "好消息？",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 17240.000000000004,
+      "text": "Why?",
+      "translation": "为什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 17240.000000000004,
+      "endTime": 20040.0,
+      "text": "Because he doesn't like school.",
+      "translation": "因为他不喜欢学校。",
+      "isHeader": false
+    }
+  ]
+}

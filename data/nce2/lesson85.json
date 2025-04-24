@@ -1,5 +1,5 @@
 {
-  "id": "nce2--085",
+  "id": "nce2-085",
   "lessonNumber": "085",
   "title": {
     "english": "Never too old to learn",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一位即将退休的校长斯图亚特·佩奇先生的故事。他执教了40年，学生们准备为他举办告别宴会并赠送礼物。退休后，他将致力于园艺，这对他来说是一种全新的爱好。本课介绍了多个与教育、退休和爱好相关的词汇，如inform、headmaster、contribute、devote等，以及一些常用短语如in one's honour、devote oneself to等。本课还介绍了too和enough的用法区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
       "Pupils of the school, old and new, will be sending him a present to mark the occasion.",
       "All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.",
@@ -207,7 +207,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "inform",
@@ -308,5 +308,10 @@
         "meaning": "n. 爱好，嗜好"
       }
     ]
-  }
+  },
+  "tags": [
+    "将来完成进行时",
+    "将来进行时",
+    "一般将来时"
+  ]
 }

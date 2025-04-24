@@ -14,7 +14,7 @@
   "editorNotes": "本课通过介绍一位飞行员邻居的工作和生活，展示了如何描述他人的职业经历和未来计划。课文涉及职业介绍、时间安排、地点表达等内容，同时介绍了一般将来时和现在完成时的使用。这些表达对于描述他人经历和计划非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr Hill is our new next-door neighbour. He's a pilot.",
       "He was in the R.A.F.(皇家空军)",
       "He will fly to New York next month.",
@@ -27,7 +27,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "Mr Hill是我们新搬来的隔壁邻居。他是个飞行员。",
       "他曾在皇家空军任职。",
       "下个月他将飞往纽约。",

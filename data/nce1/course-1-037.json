@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段关于制作书架的对话，展示了如何描述当前和计划中的活动。课文重点介绍了现在进行时和'be going to'结构的用法，以及指示代词的使用。这些表达方式在描述日常活动和计划时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "You're working hard, George.",
       "What are you doing?",
       "I'm making a bookcase.",
@@ -37,7 +37,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "丹 ：你干得真辛苦，乔治。你在干什么呢？",
       "乔治：我正在做书架。",
       "乔治：请把那把锤子拿给我。丹。",

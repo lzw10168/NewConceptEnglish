@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段海关检查的对话，介绍了出入境场景中的常用表达。课文重点展示了国籍询问、物品确认等交际用语，以及be动词否定形式的使用。这些表达对于国际旅行非常实用，是基本出入境交际能力的重要组成部分。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "CUSTOMS OFFICER: Are you Swedish?",
       "GIRLS: No, we are not. We are Danish.",
       "CUSTOMS OFFICER: Are your friends Danish, too?",
@@ -34,7 +34,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "海关官员：你们是瑞典人吗？",
       "姑娘们：不，我们不是。我们是丹麦人。",
       "海关官员：你们的朋友也是丹麦人吗？",

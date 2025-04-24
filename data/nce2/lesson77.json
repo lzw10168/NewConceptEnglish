@@ -1,5 +1,5 @@
 {
-  "id": "nce2--077",
+  "id": "nce2-077",
   "lessonNumber": "077",
   "title": {
     "english": "A successful operation",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一具埃及木乃伊接受手术的故事。文章通过描述医生对一具公元前800年的埃及妇女木乃伊进行手术的过程，展示了现在完成时和过去完成时的用法，以及一些常见的英语表达方式。文章还介绍了B.C.和A.D.的区别，skin、leather和complexion的区别，以及wax和candle的区别。本课还介绍了last和prove的用法，以及that的指代用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.",
       "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
       "As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
@@ -206,7 +206,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "mummy",
@@ -307,5 +307,10 @@
         "meaning": "v. 幸免于"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般过去时",
+    "现在完成时",
+    "现在完成进行时"
+  ]
 }

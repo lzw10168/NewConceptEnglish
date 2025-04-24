@@ -14,7 +14,7 @@
   "editorNotes": "本课通过两个女性讨论一位著名女演员的对话，展示了如何进行推测和讨论他人。课文重点介绍了情态动词must和can't的用法，以及如何礼貌地表达对他人的评价和猜测。这些表达方式在日常社交场合非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Kate:   Can you recognize that woman, Millie?",
       "Millie: I think I can, Kate. It must be Karen Marsh, the actress.",
       "Kate:   I thought so. Who's that beside her?",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "凯特：莉兹，你能认出那个女人吗？",
       "莉兹：我想我认得出来，凯特。那一定是女演员卡.马会。",
       "凯特：我也这样想。她旁边的那个人是谁？",

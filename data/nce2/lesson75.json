@@ -1,5 +1,5 @@
 {
-  "id": "nce2--075",
+  "id": "nce2-075",
   "lessonNumber": "075",
   "title": {
     "english": "SOS",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一架轻型客机坠毁后，一位年轻母亲和她的两个婴儿在严寒中求生的故事。文章描述了这位母亲如何利用有限的资源保护孩子，以及她如何在雪地上踩出'SOS'信号寻求救援。文章通过这个惊险的求生故事，展示了表示'变成'的不同动词用法，以及一些常见的英语表达方式。文章还展示了如何描述紧急情况和求生技巧，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
       "The only passengers, a young woman and her two baby daughters, were unhurt.",
       "It was the middle of winter. Snow lay thick on the ground.",
@@ -216,7 +216,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "thick",
@@ -261,5 +261,8 @@
         "meaning": "n. 幸存者"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般过去时"
+  ]
 }

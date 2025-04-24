@@ -1,0 +1,46 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 15160.0,
+      "text": "Lesson 45. The Boss's Letter. Listen to the tape, then answer this question. Why can't",
+      "translation": "第45课 老板的信。听录音，然后回答问题。为什么不能",
+      "isHeader": false
+    },
+    {
+      "startTime": 15160.0,
+      "endTime": 28560.000000000004,
+      "text": "Pamela type the letter? Can you come here a minute please, Bob? Yes, sir. Where's Pamela?",
+      "translation": "Pamela 打这封信了吗？鲍勃，你能过来一下吗？好的，先生。Pamela 在哪里？",
+      "isHeader": true
+    },
+    {
+      "startTime": 28560.0,
+      "endTime": 37560.0,
+      "text": "She's next door. She's in her office, sir. Can she type this letter for me? Ask her please.",
+      "translation": "她在隔壁。她在办公室里，先生。她能为我打这封信吗？请问她。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37560.0,
+      "endTime": 47560.0,
+      "text": "Yes, sir. Can you type this letter for the boss please, Pamela? Yes, of course I can.",
+      "translation": "好的，先生。你能为老板打这封信吗，帕梅拉？当然可以。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47560.0,
+      "endTime": 56560.0,
+      "text": "Here you are. Thank you, Bob. Bob? Yes? What's the matter?",
+      "translation": "给你。谢谢你，鲍勃。鲍勃？怎么了？",
+      "isHeader": false
+    },
+    {
+      "startTime": 56560.0,
+      "endTime": 66560.0,
+      "text": "I can't type this letter. I can't read it. The boss's handwriting is terrible.",
+      "translation": "我不能打这封信。我看不懂。老板的字迹太糟糕了。",
+      "isHeader": false
+    }
+  ]
+}

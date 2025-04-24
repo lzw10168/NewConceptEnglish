@@ -1,5 +1,5 @@
 {
-  "id": "nce2--044",
+  "id": "nce2-044",
   "lessonNumber": "044",
   "title": {
     "english": "Through the Forest",
@@ -14,7 +14,7 @@
   "editorNotes": "本文讲述了一个女人在森林中迷路并最终获救的故事。文章通过细腻的描写展现了主人公在森林中的恐惧和无助，以及她如何通过保持冷静和机智最终获救。文章中的语法要点包括过去完成时的使用，以及'as if'引导的方式状语从句。在实际使用中，'lose one's way'和'keep one's head'等短语在描述困境和应对方式时非常实用，掌握这些表达方式可以帮助我们更好地描述类似的经历。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.",
       "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.",
       "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.",
@@ -143,7 +143,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "forest",
@@ -209,5 +209,9 @@
         "meaning": "v. 修理"
       }
     ]
-  }
+  },
+  "tags": [
+    "doing",
+    "动名词"
+  ]
 }

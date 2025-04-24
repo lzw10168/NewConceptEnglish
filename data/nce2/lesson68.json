@@ -1,5 +1,5 @@
 {
-  "id": "nce2--068",
+  "id": "nce2-068",
   "lessonNumber": "068",
   "title": {
     "english": "Persistent",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于固执己见的人的故事。主人公伊丽莎白试图避开奈杰尔，但他总是坚持要跟着她。文章通过这个简单的日常场景，展示了动名词的用法，特别是动名词复合结构，以及一些表示'坚持'的动词如persistent、insist、persevere等的区别。文章还展示了如何礼貌地表达请求和拒绝，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I crossed the street to avoid meeting him, but he saw me and came running towards me.",
       "It was no use pretending that I had not seen him, so I waved to him.",
       "I never enjoy meeting Nigel Dykes.",
@@ -220,7 +220,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "persistent",
@@ -244,5 +244,10 @@
         "meaning": "v. 坚持做"
       }
     ]
-  }
+  },
+  "tags": [
+    "动名词",
+    "反义疑问句",
+    "非谓语动词"
+  ]
 }

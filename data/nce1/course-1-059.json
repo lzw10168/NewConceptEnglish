@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段在文具店购物的对话，学习如何询问商品信息和进行购物交易。重点掌握表达物品大小、数量的方式，以及购物场景中的礼貌用语。同时学习文具用品的相关词汇和购物对话的基本结构。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "LADY:            I want some envelopes please.",
       "STATIONER:       Do you want the large size, or the small size?",
       "LADY:            The large size please.",
@@ -35,7 +35,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "女 士：请给我拿几个信封。",
       "售货员：您要大号的还是小号的？",
       "女 士：请拿大号的。",

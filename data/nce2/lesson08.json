@@ -1,5 +1,5 @@
 {
-  "id": "nce2--008",
+  "id": "nce2-008",
   "lessonNumber": "008",
   "title": {
     "english": "The best and the worst",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于花园比赛的有趣故事，重点学习形容词和副词的比较级和最高级用法，以及every的合成词用法。故事展现了不同园丁的不同特点和态度。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Joe Sanders has the most beautiful garden in our town.",
       "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.",
       "Bill Frith's garden is larger than Joe's.",
@@ -36,7 +36,7 @@
       "每年的花园竞赛我也参加，但总因是镇上最劣的花园而获得一个小奖！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -205,5 +205,11 @@
         "content": "一个好的花园不仅在于其大小和植物的数量，更重要的是整体的设计和趣味性。如Joe的花园，通过小路和木桥的设计，创造出了更有趣的园景。"
       }
     ]
-  }
+  },
+  "tags": [
+    "形容词",
+    "副词",
+    "比较级",
+    "最高级"
+  ]
 }

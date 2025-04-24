@@ -1,5 +1,5 @@
 {
-  "id": "nce2--013",
+  "id": "nce2-013",
   "lessonNumber": "013",
   "title": {
     "english": "The Greenwood Boys",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个流行歌手组合的巡回演出故事，重点介绍了将来进行时的用法，以及表达预先安排好的事情的语言形式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The Greenwood Boys are a group of pop singers.",
       "At present, they are visiting all parts of the country.",
       "They will be arriving here tomorrow.",
@@ -42,7 +42,7 @@
       "每逢这种场合，情况都是这样。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -182,5 +182,9 @@
         "content": "本课大量使用将来进行时，这种时态在英语中常用来表达预先安排好的事情，语气比一般将来时更委婉。同时，课文也展示了许多与演出相关的词汇和表达方式。"
       }
     ]
-  }
+  },
+  "tags": [
+    "将来进行时",
+    "名词所有格"
+  ]
 }

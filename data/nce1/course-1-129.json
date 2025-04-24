@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段超速驾驶的情景对话，展示了如何处理与交通警察的沟通。课文重点介绍了情态动词must have been和can't have been的用法，以及如何在交通违规情况下进行恰当的对话。这些表达方式在日常驾驶和与执法人员交流时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Ann:        Look, Harry! That policeman's waving to you. He wants you to stop.",
       "Policeman:  Where do you think you are? On a race track?You must have been driving at seventy miles an hour.",
       "Harry:      I can't have been.",
@@ -33,7 +33,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "安：瞧，加里！那个警察正朝你挥手呢。他要你停下来。",
       "警察：你认为你现在是在哪儿？在赛车道上吗？你刚才一定是以每小时70英里的速度开车。",
       "加里：我不会开得那么快的。",

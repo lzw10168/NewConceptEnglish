@@ -14,7 +14,7 @@
   "editorNotes": "本课通过描述一个家庭在晴天外出的场景，展示了如何描述天气、环境和人物活动。课文重点介绍了现在进行时的延伸用法，以及表达位置关系的各种介词的使用。这些表达方式在描述日常生活场景和户外活动时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "It's a fine day today.",
       "There are some clouds in the sky, but the sun is shining.",
       "Mr Jones's with his family.",
@@ -29,7 +29,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "今天天气好。",
       "天空中飘着几朵云，但阳光灿烂。",
       "琼斯先生同他的家人在一起。",

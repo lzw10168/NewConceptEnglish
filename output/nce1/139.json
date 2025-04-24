@@ -1,0 +1,158 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7260.0,
+      "text": "Lesson 139.",
+      "translation": "第139课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7260.0,
+      "endTime": 10100.0,
+      "text": "Is that you, John?",
+      "translation": "是你吗，约翰？",
+      "isHeader": false
+    },
+    {
+      "startTime": 10100.0,
+      "endTime": 14080.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14080.0,
+      "endTime": 21160.0,
+      "text": "Which John Smith does Graham Turner think he is talking to?",
+      "translation": "Graham Turner 认为他正在和哪一个约翰·史密斯交谈？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21160.0,
+      "endTime": 23160.0,
+      "text": "Is that you, John?",
+      "translation": "是你吗，约翰？",
+      "isHeader": false
+    },
+    {
+      "startTime": 23160.0,
+      "endTime": 25720.0,
+      "text": "Yes, speaking.",
+      "translation": "是的，我在说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25720.0,
+      "endTime": 29400.000000000004,
+      "text": "Tell Mary we'll be late for dinner this evening.",
+      "translation": "告诉玛丽我们今晚的晚餐会迟到。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29400.0,
+      "endTime": 33000.0,
+      "text": "I'm afraid I don't understand.",
+      "translation": "恐怕我不明白。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33000.0,
+      "endTime": 35199.99999999999,
+      "text": "Hasn't Mary told you?",
+      "translation": "玛丽没有告诉你吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 35199.99999999999,
+      "endTime": 39360.0,
+      "text": "She invited Charlotte and me to dinner this evening.",
+      "translation": "她今晚邀请了夏洛特和我共进晚餐。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39360.0,
+      "endTime": 46560.0,
+      "text": "I said I would be at your house at six o'clock, but the boss wants me to do some extra work.",
+      "translation": "我说我会在六点钟到你家，但是老板想要我做一些额外的工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46560.0,
+      "endTime": 49040.0,
+      "text": "I'll have to stay at the office.",
+      "translation": "我得留在办公室。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49040.0,
+      "endTime": 51400.0,
+      "text": "I don't know when I'll finish.",
+      "translation": "我不知道我什么时候能完成。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51400.0,
+      "endTime": 57519.99999999999,
+      "text": "Oh, and by the way, my wife wants to know if Mary needs any help.",
+      "translation": "哦，顺便问一下，我妻子想知道玛丽是否需要任何帮助。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57520.0,
+      "endTime": 62000.0,
+      "text": "I don't know what you're talking about.",
+      "translation": "我不知道你在说什么。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 64480.00000000001,
+      "text": "That is John Smith, isn't it?",
+      "translation": "那是约翰·史密斯，不是吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 64480.00000000001,
+      "endTime": 67800.0,
+      "text": "Yes, I'm John Smith.",
+      "translation": "是的，我是约翰·史密斯。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67800.0,
+      "endTime": 71040.0,
+      "text": "You are John Smith, the engineer, aren't you?",
+      "translation": "你是工程师约翰·史密斯，对吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 71040.0,
+      "endTime": 73080.0,
+      "text": "That's right.",
+      "translation": "对的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73080.0,
+      "endTime": 77400.0,
+      "text": "You work for the overseas engineering company, don't you?",
+      "translation": "你在海外工程公司工作，对吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 77400.0,
+      "endTime": 79320.00000000001,
+      "text": "No, I don't.",
+      "translation": "不，我没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79320.00000000001,
+      "endTime": 86760.0,
+      "text": "I'm John Smith, the telephone engineer, and I'm repairing your telephone line.",
+      "translation": "我是约翰·史密斯，电话工程师，我正在修理你的电话线路。",
+      "isHeader": false
+    }
+  ]
+}

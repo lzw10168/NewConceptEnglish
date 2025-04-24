@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7000.0,
+      "text": "Lesson 23.",
+      "translation": "第23课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7000.0,
+      "endTime": 10040.000000000002,
+      "text": "Which glasses?",
+      "translation": "哪副眼镜？",
+      "isHeader": false
+    },
+    {
+      "startTime": 10040.000000000002,
+      "endTime": 15000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 20640.0,
+      "text": "Which glasses does the man want?",
+      "translation": "那个男人想要哪副眼镜？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20640.0,
+      "endTime": 24760.0,
+      "text": "Give me some glasses, please, Jane.",
+      "translation": "请给我一些眼镜，简。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24760.0,
+      "endTime": 26000.0,
+      "text": "Which glasses?",
+      "translation": "哪副眼镜？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 28400.000000000004,
+      "text": "These glasses?",
+      "translation": "这副眼镜？",
+      "isHeader": false
+    },
+    {
+      "startTime": 28400.0,
+      "endTime": 33400.0,
+      "text": "No, not those. The ones on the shelf.",
+      "translation": "不，不是那些。是架子上的那些。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33400.0,
+      "endTime": 35400.0,
+      "text": "These?",
+      "translation": "这些吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 35400.0,
+      "endTime": 37400.0,
+      "text": "Yes, please.",
+      "translation": "好的，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37400.0,
+      "endTime": 39400.0,
+      "text": "Here you are.",
+      "translation": "给你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39400.0,
+      "endTime": 41400.0,
+      "text": "Thanks.",
+      "translation": "谢谢。",
+      "isHeader": false
+    }
+  ]
+}

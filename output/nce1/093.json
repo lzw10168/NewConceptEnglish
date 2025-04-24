@@ -1,0 +1,109 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6960.0,
+      "text": "Lesson 93.",
+      "translation": "第九十三课",
+      "isHeader": false
+    },
+    {
+      "startTime": 6960.0,
+      "endTime": 8440.0,
+      "text": "Our new neighbor.",
+      "translation": "我们的新邻居。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8440.0,
+      "endTime": 13660.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 13660.0,
+      "endTime": 18680.0,
+      "text": "Why is Nigel a lucky man?",
+      "translation": "为什么奈杰尔是一个幸运的人？",
+      "isHeader": true
+    },
+    {
+      "startTime": 18680.0,
+      "endTime": 21280.0,
+      "text": "Nigel is our new next door neighbor.",
+      "translation": "Nigel 是我们的新邻居。",
+      "isHeader": false
+    },
+    {
+      "startTime": 21280.0,
+      "endTime": 22840.0,
+      "text": "He's a pilot.",
+      "translation": "他是一名飞行员。",
+      "isHeader": false
+    },
+    {
+      "startTime": 22840.0,
+      "endTime": 25800.0,
+      "text": "He was in the RAF.",
+      "translation": "他在英国皇家空军。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25800.0,
+      "endTime": 29120.0,
+      "text": "He will fly to New York next month.",
+      "translation": "他下个月将飞往纽约。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29120.0,
+      "endTime": 33080.0,
+      "text": "The month after next, he'll fly to Tokyo.",
+      "translation": "下下个月，他将飞往东京。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33080.0,
+      "endTime": 35760.00000000001,
+      "text": "At the moment, he's in Madrid.",
+      "translation": "目前，他在马德里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35760.00000000001,
+      "endTime": 38960.0,
+      "text": "He flew to Spain a week ago.",
+      "translation": "他一周前飞往西班牙。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38960.0,
+      "endTime": 42720.0,
+      "text": "He'll return to London the week after next.",
+      "translation": "他将在下下周返回伦敦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42720.0,
+      "endTime": 50680.0,
+      "text": "He's only 41 years old, and he has already been to nearly every country in the world.",
+      "translation": "他只有41岁，但他几乎已经去过世界上的每一个国家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50680.0,
+      "endTime": 56200.0,
+      "text": "Nigel is a very lucky man, but his wife isn't very lucky.",
+      "translation": "奈杰尔是一个非常幸运的人，但他的妻子并不是很幸运。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56200.0,
+      "endTime": 58080.00000000001,
+      "text": "He usually stays at home.",
+      "translation": "他通常待在家里。",
+      "isHeader": false
+    }
+  ]
+}

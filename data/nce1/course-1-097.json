@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段寻找遗失行李的对话，展示了如何描述物品特征和处理失物认领。课文涉及物品描述、身份确认、费用支付等内容，同时介绍了一般过去时和所有格的使用。这些表达对于处理日常遗失物品的情况非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mr Hall:     I left a suitcase on the train to London the other day.",
       "Attendant:  Can you describe it, sir?",
       "Mr Hall:   It's a small blue case and it's got a zip. There's a label on the handle with my name and address on it.",
@@ -35,7 +35,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "霍尔先生：几天前我把一只手提箱忘在开往伦敦的火车上了。",
       "服 务 员：先生，您能描述一下它是什么样子的吗？",
       "霍尔先生：是只蓝色的小箱子，上面有拉链。箱把上有一标签，上面写着我的姓名和住址。",

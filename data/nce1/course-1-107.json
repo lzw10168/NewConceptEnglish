@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段购物对话，展示了如何描述衣服的尺寸、颜色和款式。课文涉及服装选择、个人喜好表达和购物交际等功能，同时介绍了形容词比较级和程度副词的使用。这些表达对于日常购物场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Assistant:        Do you like this dress, madam?",
       "Lady:             I like the colour very much. It's a lovely dress, but it's too small for me.",
       "Assistant:        What about this one? It's a lovely dress. It's very smart.Short skirts are in fashion now. Would you like to try it?",
@@ -27,7 +27,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "店员：夫人，您喜欢这件衣服吗？",
       "女士：我很喜欢这颜色。这件漂亮的衣服，可是对我来说太小了。",
       "店员：这件怎么样？这是件漂亮的衣服，它很时髦。短裙现在很流行。您要试一试吗？",

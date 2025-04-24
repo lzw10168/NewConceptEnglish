@@ -1,0 +1,123 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8000.0,
+      "text": "Lesson 9. How are you today?",
+      "translation": "第9课。你今天怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 14000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 18000.0,
+      "text": "How is Emma?",
+      "translation": "艾玛怎么样？",
+      "isHeader": true
+    },
+    {
+      "startTime": 18000.0,
+      "endTime": 20000.0,
+      "text": "Hello Helen.",
+      "translation": "你好，海伦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 23000.0,
+      "text": "Hi Stephen.",
+      "translation": "嗨，斯蒂芬。",
+      "isHeader": false
+    },
+    {
+      "startTime": 23000.0,
+      "endTime": 26000.0,
+      "text": "How are you today?",
+      "translation": "你今天怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 29000.0,
+      "text": "I'm very well, thank you.",
+      "translation": "我很好，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29000.0,
+      "endTime": 31000.0,
+      "text": "And you?",
+      "translation": "那你呢？",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 34000.0,
+      "text": "I'm fine, thanks.",
+      "translation": "我很好，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 37000.0,
+      "text": "How is Tony?",
+      "translation": "托尼怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 37000.0,
+      "endTime": 40000.0,
+      "text": "He's fine, thanks.",
+      "translation": "他很好，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40000.0,
+      "endTime": 42000.0,
+      "text": "How's Emma?",
+      "translation": "艾玛怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 42000.0,
+      "endTime": 47000.0,
+      "text": "She's very well too, Helen.",
+      "translation": "她也很好，海伦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 49000.0,
+      "text": "Goodbye Helen.",
+      "translation": "再见，海伦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49000.0,
+      "endTime": 51000.0,
+      "text": "Nice to see you.",
+      "translation": "很高兴见到你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51000.0,
+      "endTime": 55000.0,
+      "text": "Nice to see you too, Stephen.",
+      "translation": "见到你很高兴，斯蒂芬。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 57000.0,
+      "text": "Goodbye.",
+      "translation": "再见。",
+      "isHeader": false
+    }
+  ]
+}

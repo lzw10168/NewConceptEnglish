@@ -1,5 +1,5 @@
 {
-  "id": "nce2--001",
+  "id": "nce2-001",
   "lessonNumber": "001",
   "title": {
     "english": "A private conversation",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于剧院观剧经历的故事。作者在剧院观看演出时，因为后排一对年轻男女大声交谈而无法欣赏演出。作者多次尝试通过眼神和言语制止他们，但对方却以'这是私人谈话'为由拒绝配合。在语法方面，重点介绍了简单陈述句的语序、动词go的用法、以及一些常用词汇如private、conversation、bear等的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Last week I went to the theatre.",
       "I had a very good seat.",
       "The play was very interesting.",
@@ -169,7 +169,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "private",
@@ -249,5 +249,8 @@
         "meaning": "n. 戏"
       }
     ]
-  }
+  },
+  "tags": [
+    "简单句"
+  ]
 }

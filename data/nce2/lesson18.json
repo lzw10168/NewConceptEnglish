@@ -1,5 +1,5 @@
 {
-  "id": "nce2--018",
+  "id": "nce2-018",
   "lessonNumber": "018",
   "title": {
     "english": "He often does this!",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个在乡村小酒店就餐时发生的趣事，重点介绍了have的多种用法，以及give的几个固定搭配。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "After I had had lunch at a village pub, I looked for my bag.",
       "I had left it on a chair beside the door and now it wasn't there!",
       "As I was looking for it, the landlord came in.",
@@ -38,7 +38,7 @@
       "'实在抱歉，'他说，'我的狗把它弄到花园里去了，他常干这种事！'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -160,5 +160,9 @@
         "content": "英语中提到宠物时，通常用he或she而不是it，这反映了英语国家人们对待宠物的态度。"
       }
     ]
-  }
+  },
+  "tags": [
+    "have",
+    "过去完成时"
+  ]
 }

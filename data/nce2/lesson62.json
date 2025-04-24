@@ -1,5 +1,5 @@
 {
-  "id": "nce2--062",
+  "id": "nce2-062",
   "lessonNumber": "062",
   "title": {
     "english": "After the fire",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一场森林大火后的恢复工作。文章描述了消防员与森林大火搏斗近三周才控制住火势，以及大火后森林管理当局采取的措施。文章主要使用了过去完成时和过去完成进行时，以及多个与火灾和生态恢复相关的词汇。文章还涉及了自然灾害后的生态修复主题，展示了人类应对环境挑战的努力。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
       "A short time before, great trees had covered the countryside for miles around.",
       "Now, smoke still rose up from the warm ground over the desolate hills.",
@@ -165,7 +165,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "control",
@@ -273,5 +273,9 @@
         "meaning": "v. 变黑，发暗"
       }
     ]
-  }
+  },
+  "tags": [
+    "过去完成时",
+    "过去完成进行时"
+  ]
 }

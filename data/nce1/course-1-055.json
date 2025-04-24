@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了一个典型英国家庭的日常生活作息。通过描述索耶一家的日常活动，学习如何用英语表达日常生活中的时间安排和活动。重点掌握表示时间段的介词短语，以及描述日常活动的动词和频率副词的使用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The Sawyers live at 87 King Street.",
       "In the morning, Mr Sawyer goes to work and the children go to school. Their father takes them to school every day.",
       "Mrs Sawyer stays at home every day. She does the housework. She always eats her lunch at noon.",
@@ -26,7 +26,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "索耶一家住在国王街87号。",
       "早上，索耶先生去上班，孩子们去上学。父亲每天送孩子们去上学。",
       "索耶夫人每天呆在家里。她料理家务。",

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个简单的对话场景，展示了如何询问和指出具体物品。课文重点介绍了指示代词的使用，以及如何用颜色和位置来描述和区分物品。这些表达方式在日常生活中非常实用，特别是在需要明确指出某个特定物品时。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Give me a book please, Jane.",
       "Which book?",
       "This one?",
@@ -27,7 +27,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "丈夫：请拿本书给我，简。",
       "妻子：哪一本？",
       "妻子：是这本吗？",

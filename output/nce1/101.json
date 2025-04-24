@@ -1,0 +1,179 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10000.0,
+      "text": "Lesson 101. A card from Jimmy.",
+      "translation": "第101课。吉米寄来的一张卡片。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 15000.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 21000.0,
+      "text": "Does grandmother seem pleased to get a card from Jimmy?",
+      "translation": "奶奶收到吉米寄来的卡片，看起来高兴吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21000.0,
+      "endTime": 24000.0,
+      "text": "Why or why not?",
+      "translation": "为什么或者为什么不？",
+      "isHeader": false
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 29000.0,
+      "text": "Read Jimmy's card to me please, Penny.",
+      "translation": "请为我读一读吉米的卡片，彭妮。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29000.0,
+      "endTime": 35000.0,
+      "text": "I have just arrived in Scotland and I'm staying at a youth hostel.",
+      "translation": "我刚刚到达苏格兰，目前正住在一家青年旅社。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 37000.0,
+      "text": "Huh?",
+      "translation": "哈？",
+      "isHeader": false
+    },
+    {
+      "startTime": 37000.0,
+      "endTime": 41000.0,
+      "text": "He says he's just arrived in Scotland.",
+      "translation": "他说他刚到苏格兰。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41000.0,
+      "endTime": 45000.0,
+      "text": "He says he's staying at a youth hostel.",
+      "translation": "他说他住在一个青年旅社。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45000.0,
+      "endTime": 50000.0,
+      "text": "You know, he's a member of the YHA.",
+      "translation": "你知道，他是青年旅馆协会的成员。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50000.0,
+      "endTime": 53000.0,
+      "text": "The what?",
+      "translation": "什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 56000.0,
+      "text": "The YHA, mum.",
+      "translation": "青年旅社，妈妈。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56000.0,
+      "endTime": 60000.0,
+      "text": "The Youth Hostels Association.",
+      "translation": "青年旅社协会",
+      "isHeader": false
+    },
+    {
+      "startTime": 60000.0,
+      "endTime": 63000.0,
+      "text": "What else does he say?",
+      "translation": "他还说了什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 63000.0,
+      "endTime": 66000.0,
+      "text": "I'll write a letter soon.",
+      "translation": "我很快会写一封信。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66000.0,
+      "endTime": 69000.0,
+      "text": "I hope you are all well.",
+      "translation": "希望大家都好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 71000.0,
+      "text": "What?",
+      "translation": "什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 71000.0,
+      "endTime": 73000.0,
+      "text": "Speak up, Penny.",
+      "translation": "大声点，佩妮。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73000.0,
+      "endTime": 77000.0,
+      "text": "I'm afraid I can't hear you.",
+      "translation": "我恐怕听不到你说话。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77000.0,
+      "endTime": 80000.0,
+      "text": "He says he'll write a letter soon.",
+      "translation": "他说他很快会写一封信。",
+      "isHeader": false
+    },
+    {
+      "startTime": 80000.0,
+      "endTime": 83000.0,
+      "text": "He hopes we are all well.",
+      "translation": "他希望我们一切都好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 83000.0,
+      "endTime": 86000.0,
+      "text": "Love, Jimmy.",
+      "translation": "爱你的，吉米。",
+      "isHeader": false
+    },
+    {
+      "startTime": 86000.0,
+      "endTime": 88000.0,
+      "text": "Is that all?",
+      "translation": "就这些吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 88000.0,
+      "endTime": 92000.0,
+      "text": "He doesn't say very much, does he?",
+      "translation": "他不太说话，对吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 92000.0,
+      "endTime": 97000.0,
+      "text": "He can't write very much on a card, mum.",
+      "translation": "他不能在卡片上写很多，妈妈。",
+      "isHeader": false
+    }
+  ]
+}

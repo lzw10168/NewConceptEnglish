@@ -1,5 +1,5 @@
 {
-  "id": "nce2--015",
+  "id": "nce2-015",
   "lessonNumber": "015",
   "title": {
     "english": "Good news",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个职员担心被裁员却意外得到加薪的故事，重点介绍了间接引语的用法，以及一些表示紧张、担心等情绪的词汇用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The secretary told me that Mr. Harmsworth would see me.",
       "I felt very nervous when I went into his office.",
       "He did not look up from his desk when I entered.",
@@ -42,7 +42,7 @@
       "然后他微笑了一下告诉我说，我每年将得到1,000英镑的额外收入！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -182,5 +182,10 @@
         "content": "本课出现了几个表示情绪状态的词：nervous（紧张的），worried（担心的），upset（不安的），irritable（易怒的）。这些词虽然都表示负面情绪，但使用场景各不相同。"
       }
     ]
-  }
+  },
+  "tags": [
+    "直接引语",
+    "间接引语",
+    "宾语从句"
+  ]
 }

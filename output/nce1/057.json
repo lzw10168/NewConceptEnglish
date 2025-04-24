@@ -1,0 +1,144 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9720.0,
+      "text": "Lesson 57, an unusual day.",
+      "translation": "第57课，不寻常的一天。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9720.0,
+      "endTime": 14320.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14320.0,
+      "endTime": 19320.0,
+      "text": "What is Mr. Sawyer doing tonight?",
+      "translation": "索耶先生今晚在做什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19320.0,
+      "endTime": 21880.0,
+      "text": "It is eight o'clock.",
+      "translation": "现在是八点钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 21880.0,
+      "endTime": 25200.0,
+      "text": "The children go to school by car every day.",
+      "translation": "孩子们每天乘车去学校。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25840.0,
+      "endTime": 31919.999999999996,
+      "text": "But today, they're going to school on foot.",
+      "translation": "但是今天，他们将步行去学校。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31919.999999999996,
+      "endTime": 34680.0,
+      "text": "It is ten o'clock.",
+      "translation": "现在是十点钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34680.0,
+      "endTime": 39160.0,
+      "text": "Mrs. Sawyer usually stays at home in the morning.",
+      "translation": "萨沃夫人通常上午待在家里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39160.0,
+      "endTime": 45040.0,
+      "text": "But this morning, she is going to the shops.",
+      "translation": "但是今天早上，她要去商店。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45040.0,
+      "endTime": 48120.00000000001,
+      "text": "It is four o'clock.",
+      "translation": "现在是四点钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48120.00000000001,
+      "endTime": 54800.0,
+      "text": "In the afternoon, Mrs. Sawyer usually drinks tea in the living room.",
+      "translation": "下午，索耶夫人通常在客厅喝茶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54839.99999999999,
+      "endTime": 61160.0,
+      "text": "But this afternoon, she is drinking tea in the garden.",
+      "translation": "但是今天下午，她正在花园里喝茶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61160.0,
+      "endTime": 63519.99999999999,
+      "text": "It is six o'clock.",
+      "translation": "现在是六点钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63519.99999999999,
+      "endTime": 68240.0,
+      "text": "In the evening, the children usually do their homework.",
+      "translation": "晚上，孩子们通常做他们的家庭作业。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68240.0,
+      "endTime": 72320.0,
+      "text": "But this evening, they are not doing their homework.",
+      "translation": "但今晚，他们没有在做作业。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72320.0,
+      "endTime": 77400.0,
+      "text": "At the moment, they're playing in the garden.",
+      "translation": "此刻，他们正在花园里玩耍。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77400.0,
+      "endTime": 79920.0,
+      "text": "It is nine o'clock.",
+      "translation": "现在是九点钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79920.0,
+      "endTime": 84679.99999999999,
+      "text": "Mr. Sawyer usually reads his newspaper at night.",
+      "translation": "索耶先生通常在晚上读报纸。",
+      "isHeader": false
+    },
+    {
+      "startTime": 84720.00000000001,
+      "endTime": 88760.0,
+      "text": "But he's not reading his newspaper tonight.",
+      "translation": "但他今晚没有在读报纸。",
+      "isHeader": false
+    },
+    {
+      "startTime": 88760.0,
+      "endTime": 94680.0,
+      "text": "At the moment, he's reading an interesting book.",
+      "translation": "此刻，他正在读一本有趣的书。",
+      "isHeader": false
+    }
+  ]
+}

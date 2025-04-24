@@ -1,0 +1,179 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 5000.0,
+      "text": "Lesson 105.",
+      "translation": "第105课",
+      "isHeader": false
+    },
+    {
+      "startTime": 5000.0,
+      "endTime": 10920.0,
+      "text": "Full of mistakes.",
+      "translation": "错误百出。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10920.0,
+      "endTime": 15440.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15440.0,
+      "endTime": 19960.0,
+      "text": "What was Sandra's present?",
+      "translation": "桑德拉的礼物是什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19960.0,
+      "endTime": 21760.0,
+      "text": "Where's Sandra, Bob?",
+      "translation": "桑德拉在哪里，鲍勃？",
+      "isHeader": false
+    },
+    {
+      "startTime": 21760.0,
+      "endTime": 24240.000000000004,
+      "text": "I want her.",
+      "translation": "我想要她。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24240.000000000004,
+      "endTime": 25840.0,
+      "text": "Do you want to speak to her?",
+      "translation": "你想要和她说话吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 25840.0,
+      "endTime": 27720.0,
+      "text": "Yes, I do.",
+      "translation": "是的，我愿意。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27720.0,
+      "endTime": 30240.0,
+      "text": "I want her to come to my office.",
+      "translation": "我想让她来我的办公室。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30240.0,
+      "endTime": 33839.99999999999,
+      "text": "Tell her to come at once.",
+      "translation": "告诉她马上过来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33839.99999999999,
+      "endTime": 36000.0,
+      "text": "Did you want to see me?",
+      "translation": "你想见我吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 36000.0,
+      "endTime": 38160.0,
+      "text": "Ah, yes, Sandra.",
+      "translation": "啊，是的，桑德拉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38160.0,
+      "endTime": 41040.0,
+      "text": "How do you spell intelligent?",
+      "translation": "你如何拼写“intelligent”？",
+      "isHeader": false
+    },
+    {
+      "startTime": 41040.0,
+      "endTime": 43480.0,
+      "text": "Can you tell me?",
+      "translation": "你能告诉我吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 43480.0,
+      "endTime": 51720.0,
+      "text": "I-N-T-E-L-L-I-G-E-N-T.",
+      "translation": "I-N-T-E-L-L-I-G-E-N-C-E.",
+      "isHeader": false
+    },
+    {
+      "startTime": 51720.0,
+      "endTime": 53360.0,
+      "text": "That's right.",
+      "translation": "对的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53360.0,
+      "endTime": 57040.0,
+      "text": "You've typed it with only one L.",
+      "translation": "你只打了一个L。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57080.0,
+      "endTime": 59600.0,
+      "text": "This letter's full of mistakes.",
+      "translation": "这封信错误百出。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59600.0,
+      "endTime": 62400.0,
+      "text": "I want you to type it again.",
+      "translation": "我想让你再打一遍。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62400.0,
+      "endTime": 64480.00000000001,
+      "text": "Yes, I'll do that.",
+      "translation": "好的，我会这样做的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64480.00000000001,
+      "endTime": 66720.0,
+      "text": "I'm sorry about that.",
+      "translation": "对此我感到抱歉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66720.0,
+      "endTime": 69600.0,
+      "text": "And here's a little present for you.",
+      "translation": "这里有一份小礼物送给你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69600.0,
+      "endTime": 71160.0,
+      "text": "What is it?",
+      "translation": "这是什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 71160.0,
+      "endTime": 73520.0,
+      "text": "It's a dictionary.",
+      "translation": "这是一本字典。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73520.0,
+      "endTime": 77520.0,
+      "text": "I hope it'll help you.",
+      "translation": "我希望这会对你有所帮助。",
+      "isHeader": false
+    }
+  ]
+}

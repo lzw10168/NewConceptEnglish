@@ -1,5 +1,5 @@
 {
-  "id": "nce2--042",
+  "id": "nce2-042",
   "lessonNumber": "042",
   "title": {
     "english": "Not very musical",
@@ -14,7 +14,7 @@
   "editorNotes": "本文讲述了作者在印度德里市场遇到耍蛇人的经历。文章通过描述蛇对印度音乐和爵士乐的反应，揭示了蛇实际上并不能真正'听懂'音乐，它们只是对耍蛇人的动作和管乐器的移动做出反应。文章中的语法要点包括'have + 名词'代替普通动词的用法，以及'stop to do'和'stop doing'的区别。在实际使用中，'have a glimpse of'和'pick up'等短语在日常生活和写作中非常常见，掌握这些表达方式可以提高英语表达的丰富性和准确性。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
       "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
       "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
@@ -140,7 +140,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "musical",
@@ -234,5 +234,9 @@
         "meaning": "adj. 印度的"
       }
     ]
-  }
+  },
+  "tags": [
+    "have",
+    "过去完成时"
+  ]
 }

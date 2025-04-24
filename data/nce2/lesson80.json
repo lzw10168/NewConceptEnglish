@@ -1,5 +1,5 @@
 {
-  "id": "nce2--080",
+  "id": "nce2-080",
   "lessonNumber": "080",
   "title": {
     "english": "The Crystal Palace",
@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了19世纪最不寻常的建筑之一——水晶宫。文章描述了水晶宫的建造背景、特点、展览内容以及它的历史意义。文章还介绍了与on相关的短语用法，以及be made of、remain等词汇的用法。本课还介绍了profit的多种用法，以及machinery作为集合名词的特点。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Perhaps the most extraordinary building of the nineteenth century was the Crystal Palace, which was built in Hyde Park for the Great Exhibition of 1851.",
       "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
       "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
@@ -196,7 +196,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "palace",
@@ -269,5 +269,9 @@
         "meaning": "n. 学院"
       }
     ]
-  }
+  },
+  "tags": [
+    "比较级",
+    "Be used to do"
+  ]
 }

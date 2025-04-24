@@ -1,5 +1,5 @@
 {
-  "id": "nce2--093",
+  "id": "nce2-093",
   "lessonNumber": "093",
   "title": {
     "english": "A noble gift",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了自由女神像的历史背景和建造过程。文章重点介绍了这座雕像的建造细节、运输过程和象征意义。语法上主要涉及被动语态的使用，以及一些重要短语如'take to pieces'和'put together'的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France.",
       "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
       "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
@@ -115,7 +115,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "noble",
@@ -209,5 +209,8 @@
         "meaning": "n. 底座"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态"
+  ]
 }

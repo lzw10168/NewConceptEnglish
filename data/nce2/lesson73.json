@@ -1,5 +1,5 @@
 {
-  "id": "nce2--073",
+  "id": "nce2-073",
   "lessonNumber": "073",
   "title": {
     "english": "The record-holder",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个逃学男孩创造纪录的故事。文章描述了一个男孩在逃学期间旅行了1,600英里，从英国搭便车到法国，最终在法国与西班牙边界被警察抓获并送回英国。文章通过这个生动的故事，展示了简单句、并列句和复合句的结构，以及一些表示'逃学'、'搭便车'和'逃避'的表达方式。文章还展示了如何描述旅行经历和冒险故事，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Children who play truant from school are unimaginative.",
       "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
       "They have all been put to shame by a boy who, while playing truant, travelled 1,600 miles.",
@@ -188,7 +188,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "record-holder",
@@ -254,5 +254,10 @@
         "meaning": "n. 惭愧，羞耻"
       }
     ]
-  }
+  },
+  "tags": [
+    "简单句",
+    "并列句",
+    "复合句"
+  ]
 }

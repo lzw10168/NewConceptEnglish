@@ -1,5 +1,5 @@
 {
-  "id": "nce2--070",
+  "id": "nce2-070",
   "lessonNumber": "070",
   "title": {
     "english": "Red for danger",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个醉汉在斗牛场上的意外事件。一个醉汉突然闯入斗牛场中央，挥舞着红帽子并大声说粗话，激怒了公牛。虽然醉汉看似自信地避开了公牛的冲击，但最终还是被工作人员拖到安全地带。文章通过这个生动的故事，展示了形容词与不同介词搭配的用法，如sensitive to、unaware of、busy with等，以及一些表示'突然'和'同情'的表达方式。文章还展示了如何描述危险情况和紧急反应，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
       "The crowd began to shout, but the drunk was unaware of the danger.",
       "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
@@ -216,7 +216,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "bullfight",
@@ -331,5 +331,9 @@
         "meaning": "adv. 同情地"
       }
     ]
-  }
+  },
+  "tags": [
+    "形容词",
+    "介词"
+  ]
 }

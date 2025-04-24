@@ -1,5 +1,5 @@
 {
-  "id": "nce2--066",
+  "id": "nce2-066",
   "lessonNumber": "066",
   "title": {
     "english": "Sweet as honey!",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于二战时期兰开斯特轰炸机的有趣故事。1963年，一架轰炸机在太平洋的瓦立斯岛坠毁，26年后被重新发现。当修复人员打开包装箱时，发现第四台发动机完好无损，原来是一群蜜蜂把发动机当作了蜂房，用蜂蜡将其完整保存。文章通过这个意外的发现，展示了使役式的用法（have sth. done）以及集合名词的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
       "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed.",
       "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
@@ -158,7 +158,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "Lancaster",
@@ -301,5 +301,9 @@
         "meaning": "n. 蜂蜡"
       }
     ]
-  }
+  },
+  "tags": [
+    "have",
+    "使役动词"
+  ]
 }

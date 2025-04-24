@@ -1,5 +1,5 @@
 {
-  "id": "nce2--019",
+  "id": "nce2-019",
   "lessonNumber": "019",
   "title": {
     "english": "Sold out",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一对情侣想去看戏却发现票已售完的故事，重点介绍了can和may的用法，以及may/might as well的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "'The play may begin at any moment,' I said.",
       "'It may have begun already,' Susan answered.",
       "I hurried to the ticket office. 'May I have two tickets please?' I asked.",
@@ -46,7 +46,7 @@
       "'我还是买下的好，'我垂头丧气地说。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -195,5 +195,10 @@
         "content": "在英语中表达遗憾时，除了'What a pity!'，还可以用'I'm sorry to hear that'或'That's a shame'等表达方式。这些表达方式的语气和使用场合略有不同。"
       }
     ]
-  }
+  },
+  "tags": [
+    "情态动词",
+    "can",
+    "may"
+  ]
 }

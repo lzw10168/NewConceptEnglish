@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段关于骚扰电话的对话，介绍了一般过去时的多种用法，以及表达厌恶情感的词汇和句式。对话生动展示了如何用英语描述过去发生的事件，以及如何婉转而坚定地处理不受欢迎的社交行为。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Jane : What's Ron Marston like , Pauline ?",
       "Pauline :  He's awful ! He telephoned me four times yesterday , and three times the day before yesterday.",
       "Pauline:    He telephoned the office yesterday morning and yesterday afternoon. My boss answered the telephone .",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "简：波淋，朗.马顿是怎样一个人？",
       "波淋：他讨厌透了！他昨天给我打了4次电话前天打了3次。",
       "波淋：他昨天上午和下午把电话打到了我的办公室，是我的老板接的。",

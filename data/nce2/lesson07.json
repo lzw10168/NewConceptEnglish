@@ -1,5 +1,5 @@
 {
-  "id": "nce2--007",
+  "id": "nce2-007",
   "lessonNumber": "007",
   "title": {
     "english": "Too late",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个侦探办案的故事，重点学习过去进行时的用法，以及短语动词中小品词的使用。故事展现了一个出人意料的结局。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The plane was late and detectives were waiting at the airport all morning.",
       "They were expecting a valuable parcel of diamonds from South Africa.",
       "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
@@ -36,7 +36,7 @@
       "令他们吃惊的是，那珍贵的包裹里面装的全是石头和沙子！"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -261,5 +261,9 @@
         "content": "本课反映了机场安保的重要性。在现代机场，已经采用了更先进的安检设备和程序，但人工查验仍然是必不可少的环节。"
       }
     ]
-  }
+  },
+  "tags": [
+    "过去进行时",
+    "过去将来时"
+  ]
 }

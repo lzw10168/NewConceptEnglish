@@ -1,5 +1,5 @@
 {
-  "id": "nce2--083",
+  "id": "nce2-083",
   "lessonNumber": "083",
   "title": {
     "english": "After the elections",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于政治选举后的幽默故事。前首相温特沃兹·莱恩在大选中被击败后退出政界并移居国外，而帕特里克作为莱恩激进党的反对者，连续三天到前首相的住处询问同样的问题，只是为了听警察重复莱恩已经失败并离开的消息。本课介绍了多个与政治相关的词汇，如election、former、defeat、opponent等，以及一些常用短语如lose one's temper、in a good/bad mood等。本课还介绍了ex-前缀的用法，以及temper和mood的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.",
       "He is now retiring from political life and has gone abroad.",
       "My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.",
@@ -204,7 +204,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "election",
@@ -270,5 +270,8 @@
         "meaning": "adj. 怀疑的"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

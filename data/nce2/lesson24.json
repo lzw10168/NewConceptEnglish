@@ -1,5 +1,5 @@
 {
-  "id": "nce2--024",
+  "id": "nce2-024",
   "lessonNumber": "024",
   "title": {
     "english": "It could be worse",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于丢失和找回钱的故事，重点介绍了manager、upset、sympathetic等词的用法，以及表示'丢失'的多种表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I entered the hotel manager's office and sat down.",
       "I had just lost $50 and I felt very upset.",
       "'I left the money in my room,' I said, 'and it's not there now.'",
@@ -42,7 +42,7 @@
       "'是啊，'我对那位经理说，'这世界上还是有诚实可言的！'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -205,5 +205,8 @@
         "content": "manager强调管理能力，boss强调拥有权，head强调领导地位和亲密关系"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }

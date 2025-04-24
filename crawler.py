@@ -1,10 +1,10 @@
-# <tr><td><a href="index.php?id=course-1-001">1-001　　Excuse me! 对不起！</a></td></tr>
-# <tr><td><a href="index.php?id=course-1-003">1-003　　Sorry, sir.  对不起，先生</a></td></tr>
-# <tr><td><a href="index.php?id=course-1-005">1-005　　Nice to meet you  很高兴见到你。</a></td></tr>
-# <tr><td><a href="index.php?id=course-1-007">1-007　　Are you a teacher? 你是教师吗?</a></td></tr>
-# <tr><td><a href="index.php?id=course-1-009">1-009　　How are you today?  今天好吗？</a></td></tr>
-# <tr><td><a href="index.php?id=course-1-011">1-011　　Is this your shirt? 这是你的衬衫吗？</a></td></tr>
-# <tr><td><a href="index.php?id=course-1-013">1-013　　A new dress 一件新连衣裙</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-001">1-001　　Excuse me! 对不起！</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-003">1-003　　Sorry, sir.  对不起，先生</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-005">1-005　　Nice to meet you  很高兴见到你。</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-007">1-007　　Are you a teacher? 你是教师吗?</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-009">1-009　　How are you today?  今天好吗？</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-011">1-011　　Is this your shirt? 这是你的衬衫吗？</a></td></tr>
+# <tr><td><a href="index.php?id=course-2-013">1-013　　A new dress 一件新连衣裙</a></td></tr>
 # <tr><td><a href="index.php?id=course-1-015">1-015　　Your passports, please. 请出示你们的护照。</a></td></tr>
 # <tr><td><a href="index.php?id=course-1-017">1-017　　How do you do 您好</a></td></tr>
 # <tr><td><a href="index.php?id=course-1-019">1-019　　Tired and thirsty. </a></td></tr>
@@ -628,8 +628,8 @@ class NCEScraper:
             }
             
             # Save to JSON file
-            with open(f"data/nce1/{lesson_id}.json", "w", encoding="utf-8") as f:
-                json.dump(lesson_data, f, ensure_ascii=False, indent=2)
+            # with open(f"data/nce1/{lesson_id}.json", "w", encoding="utf-8") as f:
+                # json.dump(lesson_data, f, ensure_ascii=False, indent=2)
                 
             return lesson_data
             
@@ -651,84 +651,108 @@ class NCEScraper:
 if __name__ == "__main__":
     # List of lesson IDs
     lesson_ids = [
-        "course-1-001",
-        "course-1-003",
-        "course-1-005",
-        "course-1-007",
-        "course-1-009",
-        "course-1-011",
-        "course-1-013",
-        "course-1-015",
-        "course-1-017",
-        "course-1-019",
-        "course-1-021",
-        "course-1-023",
-        "course-1-025",
-        "course-1-027",
-        "course-1-029",
-        "course-1-031",
-        "course-1-033",
-        "course-1-035",
-        "course-1-037",
-        "course-1-039",
-        "course-1-041", 
-        "course-1-043",
-        "course-1-045",
-        "course-1-047",
-        "course-1-049",
-        "course-1-051",
-        "course-1-053",
-        "course-1-055",
-        "course-1-057",
-        "course-1-059",
-        "course-1-061",
-        "course-1-063",
-        "course-1-065", 
-        "course-1-067",
-        "course-1-069",
-        "course-1-071",
-        "course-1-073",
-        "course-1-075",
-        "course-1-077",
-        "course-1-079",
-        "course-1-081",
-        "course-1-083",
-        "course-1-085",
-        "course-1-087",
-        "course-1-089",
-        "course-1-091", 
-        "course-1-093",
-        "course-1-095",
-        "course-1-097",
-        "course-1-099",
-        "course-1-101",   
-        "course-1-103",
-        "course-1-105",
-        "course-1-107",
-        "course-1-109",
-        "course-1-111",
-        "course-1-113",
-        "course-1-115",
-        "course-1-117",
-        "course-1-119",
-        "course-1-121",
-        "course-1-123",
-        "course-1-125",
-        "course-1-127",
-        "course-1-129",
-        "course-1-131",
-        "course-1-133",
-        "course-1-135",
-        "course-1-137",
-        "course-1-139",
-        "course-1-141",
-        "course-1-143",        
+        "course-2-001",
+        "course-2-002",
+        "course-2-003",
+        "course-2-004",
+        "course-2-005",
+        "course-2-006",
+        "course-2-007",
+        "course-2-008",
+        "course-2-009",
+        "course-2-010",
+        "course-2-011",
+        "course-2-012",
+        "course-2-013",
+        "course-2-014",
+        "course-2-015",
+        "course-2-016",
+        "course-2-017",
+        "course-2-018",
+        "course-2-019",
+        "course-2-020",
+        "course-2-021",
+        "course-2-022",
+        "course-2-023",
+        "course-2-024",
+        "course-2-025",
+        "course-2-026",
+        "course-2-027",
+        "course-2-028",
+        "course-2-029",
+        "course-2-030",
+        "course-2-031",
+        "course-2-032",
+        "course-2-033",
+        "course-2-034",
+        "course-2-035",
+        "course-2-036",
+        "course-2-037",
+        "course-2-038",
+        "course-2-039",
+        "course-2-040",
+        "course-2-041", 
+        "course-2-042",
+        "course-2-043",
+        "course-2-044",
+        "course-2-045",
+        "course-2-046",
+        "course-2-047",
+        "course-2-048",
+        "course-2-049",
+        "course-2-050",
+        "course-2-051",
+        "course-2-052",
+        "course-2-053",
+        "course-2-054",
+        "course-2-055",
+        "course-2-056",
+        "course-2-057",
+        "course-2-058",
+        "course-2-059",
+        "course-2-060",
+        "course-2-061",
+        "course-2-062",
+        "course-2-063",
+        "course-2-064",
+        "course-2-065", 
+        "course-2-066",
+        "course-2-067",
+        "course-2-068",
+        "course-2-069",
+        "course-2-070",
+        "course-2-071",
+        "course-2-072",
+        "course-2-073",
+        "course-2-074",
+        "course-2-075",
+        "course-2-076",
+        "course-2-077",
+        "course-2-078",
+        "course-2-079",
+        "course-2-080",
+        "course-2-081",
+        "course-2-082",
+        "course-2-083",
+        "course-2-084",
+        "course-2-085",
+        "course-2-086",
+        "course-2-087",
+        "course-2-088",
+        "course-2-089",
+        "course-2-090",
+        "course-2-091", 
+        "course-2-092",
+        "course-2-093",
+        "course-2-094",
+        "course-2-095",
+        "course-2-096",     
     ]
     
     scraper = NCEScraper()
     
     # Scrape a single lesson
-    # lesson_data = scraper.scrape_lesson("course-1-001")
+    # lesson_data = scraper.scrape_lesson("course-2-001")
     # if lesson_data:
     #     print(f"Scraped lesson: {lesson_data['title']['english']} - {lesson_data['title']['chinese']}")
     #     print(f"Audio downloaded to: {lesson_data['audioPath']}")

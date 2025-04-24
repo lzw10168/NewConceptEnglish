@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个家务场景，展示了如何用英语表达日常生活中的整理和清洁指令。课文重点介绍了多个与房间整理相关的动词命令句，以及表示顺序的连接词的使用。这些表达方式在日常生活和家政服务中都非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Come in, Amy.",
       "Shut the door, please.",
       "This bedroom is very untidy.",
@@ -28,7 +28,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "琼斯夫人：进来，艾米。",
       "琼斯夫人：请把门关上。",
       "琼斯夫人：这卧室太不整洁了。",

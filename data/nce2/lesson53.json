@@ -1,5 +1,5 @@
 {
-  "id": "nce2--053",
+  "id": "nce2-053",
   "lessonNumber": "053",
   "title": {
     "english": "Hot snake",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于森林火灾起因的有趣故事。消防队员扑灭了加利福尼亚的一场森林大火后，一直在寻找起火原因。他们排除了常见的起火原因如碎玻璃和烟头，最终发现是一条蛇缠绕在高压电线上，导致电火花落到地面引发火灾。在语法方面，重点介绍了一般过去时、现在完成时与现在完成进行时的区别，以及throw to、throw at和throw away等短语的用法。文章还涉及了一些重要的词汇用法，如hot、cause、examine和accidentally等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "At last firemen have put out a big forest fire in California.",
       "Since then, they have been trying to find out how the fire began.",
       "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
@@ -172,7 +172,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "hot",
@@ -266,5 +266,10 @@
         "meaning": "n. 电火花"
       }
     ]
-  }
+  },
+  "tags": [
+    "一般过去时",
+    "现在完成时",
+    "现在完成进行时"
+  ]
 }

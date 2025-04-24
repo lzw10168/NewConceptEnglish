@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段在鞋店的对话，展示了购物场景中的常用表达。课文涉及询问商品、描述物品特征、讨论时尚潮流等话题，同时介绍了过去时态的使用和fashion的相关表达。这些表达对于日常购物交际非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "LADY :           Have you any shoes like these?",
       "SALESMAN: What size?",
       "Lady:             Size five.",
@@ -34,7 +34,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "女 士：像这样的鞋子你们有吗？",
       "售货员：什么尺码的？",
       "女 士：5号的。",

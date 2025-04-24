@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个商店里的认人场景，展示了英语中关系代词的使用方法。课文重点介绍了who, whom, which, that等关系代词的用法，以及在商店购物场景中的常用表达。这些表达对于日常购物和服务场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Customer:       I bought two expensive dictionaries here half an hour ago, but I forgot to take them with me.",
       "Manager:   Who served you, sir?",
       "Customer:   The lady who is standing behind the counter.",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "顾 客：半小时以前我在这里买了两本很贵的辞典，但是我忘了拿走。",
       "经 理：是谁接待您的，先生？",
       "顾 客：站在柜台后面的那位女士。",

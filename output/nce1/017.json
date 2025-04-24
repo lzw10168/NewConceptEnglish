@@ -1,0 +1,158 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7000.0,
+      "text": "Lesson 17.",
+      "translation": "第17课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7000.0,
+      "endTime": 10000.0,
+      "text": "How do you do?",
+      "translation": "你好吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 14800.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14800.0,
+      "endTime": 21020.0,
+      "text": "What are Michael Baker and Jeremy Short's jobs?",
+      "translation": "迈克尔·贝克和杰里米·肖特的工作是什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21020.0,
+      "endTime": 25760.0,
+      "text": "Come and meet our employees, Mr. Richards.",
+      "translation": "来见见我们的员工，理查兹先生。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25760.0,
+      "endTime": 28980.0,
+      "text": "Thank you, Mr. Jackson.",
+      "translation": "谢谢您，杰克逊先生。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28980.0,
+      "endTime": 32340.000000000004,
+      "text": "This is Nicola Gray.",
+      "translation": "这是尼古拉·格雷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32340.000000000004,
+      "endTime": 36060.0,
+      "text": "And this is Claire Taylor.",
+      "translation": "这位是克莱尔·泰勒。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36060.0,
+      "endTime": 38660.0,
+      "text": "How do you do?",
+      "translation": "你好吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 38660.0,
+      "endTime": 42260.00000000001,
+      "text": "Those women are very hard working.",
+      "translation": "那些女性非常勤奋。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42260.00000000001,
+      "endTime": 45620.00000000001,
+      "text": "What are their jobs?",
+      "translation": "他们的工作是什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 45620.00000000001,
+      "endTime": 49620.00000000001,
+      "text": "They're keyboard operators.",
+      "translation": "他们是键盘操作员。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49620.00000000001,
+      "endTime": 52700.0,
+      "text": "This is Michael Baker.",
+      "translation": "这是迈克尔·贝克。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52700.0,
+      "endTime": 56540.00000000001,
+      "text": "And this is Jeremy Short.",
+      "translation": "这是Jeremy Short。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56540.0,
+      "endTime": 59500.0,
+      "text": "How do you do?",
+      "translation": "你好吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 59500.0,
+      "endTime": 62420.0,
+      "text": "They aren't very busy.",
+      "translation": "他们不是很忙。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62420.0,
+      "endTime": 65820.0,
+      "text": "What are their jobs?",
+      "translation": "他们的工作是什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 65820.0,
+      "endTime": 68300.0,
+      "text": "They're sales reps.",
+      "translation": "他们是销售代表。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68300.0,
+      "endTime": 72220.0,
+      "text": "They're very lazy.",
+      "translation": "他们非常懒惰。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72220.0,
+      "endTime": 75740.0,
+      "text": "Who is this young man?",
+      "translation": "这个年轻人是谁？",
+      "isHeader": false
+    },
+    {
+      "startTime": 75740.0,
+      "endTime": 77820.0,
+      "text": "This is Jim.",
+      "translation": "这是吉姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77820.0,
+      "endTime": 80100.0,
+      "text": "He's our office assistant.",
+      "translation": "他是我们办公室的助理。",
+      "isHeader": false
+    }
+  ]
+}

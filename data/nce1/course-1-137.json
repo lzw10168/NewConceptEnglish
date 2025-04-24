@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一对夫妻讨论彩票中奖后的梦想，生动展示了虚拟语气在日常对话中的运用。课文重点介绍了if条件句的基本用法，同时涵盖了对未来计划的表达方式。这些表达方式在谈论未来计划和假设情况时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "June:    Are you doing the football pools(赌注), Brian?",
       "Brian:   Yes, I've nearly finished, June. I'm sure we will win something this week.",
       "June:   You always say that, but we never win anything! What will you do if you win a lot of money?",
@@ -28,7 +28,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "朱 莉：布赖恩，你正在下足球赛的赌注吗？",
       "布赖恩：是的。我这就做完了。朱莉。我敢肯定这星期我们会赢一点的。",
       "朱 莉：你老是那样说，但是我们从来没赢过！要是你赢了许多钱，你打算做什么呢？",

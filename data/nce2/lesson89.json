@@ -1,5 +1,5 @@
 {
-  "id": "nce2--089",
+  "id": "nce2-089",
   "lessonNumber": "089",
   "title": {
     "english": "A slip of the tongue",
@@ -14,7 +14,7 @@
   "editorNotes": "这篇文章讲述了一个有趣的喜剧演出场景，主要围绕一个报幕员的口误展开。文章通过生动的描述展现了人们在观看免费演出时的热情，以及一个紧张报幕员的失误带来的喜剧效果。语法重点包括情态动词、过去完成时和现在完成时的使用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "People will do anything to see a free show -- even if it is a bad one.",
       "When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it.",
       "We had to queue for hours to get in and there must have been several hundred people present just before the show began.",
@@ -140,7 +140,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "slip",
@@ -192,5 +192,9 @@
         "meaning": "n. 报幕员"
       }
     ]
-  }
+  },
+  "tags": [
+    "情态动词",
+    "分裂结构"
+  ]
 }

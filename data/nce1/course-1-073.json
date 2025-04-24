@@ -15,7 +15,7 @@
   "dialogueText": [
     {
       "heading": "课文",
-      "dialogue": [
+      "notes": [
         "Last week Mrs Mills went to London. She does not know London very well, and she lost her way.",
         "Suddenly, she saw a man near a bus-stop. 'I can ask him the way,' she said to herself.",
         "'Excuse me,' she said.",
@@ -29,7 +29,7 @@
   ],
   "translation": {
     "heading": "中文翻译",
-    "lines": [
+    "notes": [
       "上星期，米尔斯夫人去了伦敦。她对伦敦不很熟悉，因此，迷了路。",
       "突然，她在公共汽车站附近，看到一个男人。'我可以向他问路，'她想。",
       "'对不起，'她说。",

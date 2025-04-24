@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个寻找朋友的有趣场景，展示了英语中表达否定和不确定的多种方式。课文重点介绍了any-, every-, some-, no-等词族的使用，以及表达推测和确认的常用句型。这些表达对于日常社交场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Helen:      Isn't there anyone at home?",
       "Jim:        I'll knock again, Helen. Everything's very quiet. I'm sure there's no one at home.",
       "Helen:      But that's impossible. Karol and Tom invited us to lunch. Look through the window.",
@@ -33,7 +33,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "海 伦：家里没有人吗？",
       "吉 姆：海伦，我再敲一次。毫无动静，肯定家里没有人。",
       "海 伦：但这是不可能的。卡罗尔和汤姆请我们来吃午饭。从窗子往里看看。",

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--069",
+  "id": "nce2-069",
   "lessonNumber": "069",
   "title": {
     "english": "But not murder!",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个驾驶考试的故事。主人公在第三次参加驾驶执照考试时，虽然前面的表现很好，但在最后的紧急情况测试中反应太慢，导致'撞死'了一个假设突然横穿马路的小孩。文章通过这个生动的故事，展示了被动语态的各种用法，特别是'介词+动名词'结构中的被动语态，以及一些表示'练习'和'娱乐'的动词的区别。文章还展示了如何表达对过去事情的猜测，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I was being tested for a driving licence for the third time.",
       "I had been asked to drive in heavy traffic and had done so successfully.",
       "After having been instructed to drive out of town, I began to acquire confidence.",
@@ -209,7 +209,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "murder",
@@ -289,5 +289,8 @@
         "meaning": "adj. 悲哀的"
       }
     ]
-  }
+  },
+  "tags": [
+    "非谓语动词"
+  ]
 }

@@ -1,0 +1,109 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 4400.0,
+      "text": "Lesson 10 Not for Jazz",
+      "translation": "第10课 不适合爵士乐",
+      "isHeader": false
+    },
+    {
+      "startTime": 4400.0,
+      "endTime": 8600.0,
+      "text": "First listen and then answer the question,",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8600.0,
+      "endTime": 12200.000000000002,
+      "text": "What happened to the clavichord?",
+      "translation": "击弦古钢琴怎么了？",
+      "isHeader": false
+    },
+    {
+      "startTime": 12200.000000000002,
+      "endTime": 15800.0,
+      "text": "We have an old musical instrument.",
+      "translation": "我们有一件古老的乐器。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15800.0,
+      "endTime": 18600.0,
+      "text": "It is called a clavichord.",
+      "translation": "它被称为击弦古钢琴。",
+      "isHeader": false
+    },
+    {
+      "startTime": 18600.0,
+      "endTime": 23400.000000000004,
+      "text": "It was made in Germany in 1681.",
+      "translation": "它是在1681年德国制造的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 23400.000000000004,
+      "endTime": 27000.0,
+      "text": "Our clavichord is kept in the living room.",
+      "translation": "我们的小键琴存放在客厅里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27200.0,
+      "endTime": 31400.0,
+      "text": "It has belonged to our family for a long time.",
+      "translation": "它已经属于我们家族很长时间了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31400.0,
+      "endTime": 36200.0,
+      "text": "The instrument was bought by my grandfather many years ago.",
+      "translation": "这件乐器是许多年前我祖父买的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36200.0,
+      "endTime": 39800.0,
+      "text": "Recently it was damaged by a visitor.",
+      "translation": "最近它被一个访客损坏了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39800.0,
+      "endTime": 42800.0,
+      "text": "She tried to play jazz on it.",
+      "translation": "她试图用它来演奏爵士乐。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42800.0,
+      "endTime": 48200.0,
+      "text": "She struck the keys too hard and two of the strings were broken.",
+      "translation": "她敲击琴键的力度过大，导致两根琴弦断裂。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48200.0,
+      "endTime": 51200.0,
+      "text": "My father was shocked.",
+      "translation": "我父亲很震惊。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51200.0,
+      "endTime": 54200.0,
+      "text": "Now we are not allowed to touch it.",
+      "translation": "现在我们不被允许触摸它。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54200.0,
+      "endTime": 58000.0,
+      "text": "It is being repaired by a friend of my father's.",
+      "translation": "它正在被我父亲的一个朋友修理。",
+      "isHeader": false
+    }
+  ]
+}

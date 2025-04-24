@@ -1,5 +1,5 @@
 {
-  "id": "nce2--033",
+  "id": "nce2-033",
   "lessonNumber": "033",
   "title": {
     "english": "Out of the darkness",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于生存的故事，描述了一个女孩在海上遇险后，如何在黑暗中游泳求生的经历。课文使用了多个方向性介词和时间状语从句，展现了故事的戏剧性和紧张感。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Nearly a week passed before the girl was able to explain what had happened to her.",
       "One afternoon she set out from the coast in a small boat and was caught in a storm.",
       "Towards evening, the boat struck a rock and the girl jumped into the sea.",
@@ -42,7 +42,7 @@
       "第二天她醒来时，发现自己躺在医院里。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -262,5 +262,8 @@
         "content": "pass是动词，其过去式和过去分词是passed；past可以作形容词、介词、名词等，表示'过去的、经过、往事'等含义。"
       }
     ]
-  }
+  },
+  "tags": [
+    "介词"
+  ]
 }

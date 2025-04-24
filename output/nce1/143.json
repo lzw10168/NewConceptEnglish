@@ -1,0 +1,130 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7560.000000000001,
+      "text": "Lesson 143.",
+      "translation": "第143课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7560.000000000001,
+      "endTime": 10800.0,
+      "text": "A walk through the woods.",
+      "translation": "一次穿越森林的散步。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10800.0,
+      "endTime": 15020.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15020.0,
+      "endTime": 20880.0,
+      "text": "What was so funny about the words on the sign?",
+      "translation": "那个牌子上的话有什么可笑之处？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20880.0,
+      "endTime": 27020.0,
+      "text": "I live in a very old town, which is surrounded by beautiful woods.",
+      "translation": "我住在一个非常古老的小镇，这个小镇被美丽的森林所环绕。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27020.0,
+      "endTime": 29640.0,
+      "text": "It is a famous beauty spot.",
+      "translation": "这是一个著名的风景名胜。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29640.0,
+      "endTime": 35200.0,
+      "text": "On Sundays, hundreds of people come from the city to see our town and to walk through",
+      "translation": "在星期天，成百上千的人从城市来到我们的小镇，漫步其中",
+      "isHeader": false
+    },
+    {
+      "startTime": 35200.0,
+      "endTime": 37200.0,
+      "text": "the woods.",
+      "translation": "树林。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37200.0,
+      "endTime": 41920.0,
+      "text": "Visitors have been asked to keep the woods clean and tidy.",
+      "translation": "游客被要求保持森林的清洁和整洁。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41920.0,
+      "endTime": 47360.0,
+      "text": "Litter baskets have been placed under the trees, but people still throw their rubbish",
+      "translation": "树下已经放置了垃圾篮，但人们仍然乱扔垃圾。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47360.0,
+      "endTime": 48360.0,
+      "text": "everywhere.",
+      "translation": "到处都是。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48360.0,
+      "endTime": 53040.00000000001,
+      "text": "Last Wednesday, I went for a walk in the woods.",
+      "translation": "上周三，我去树林里散步了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53040.00000000001,
+      "endTime": 56360.0,
+      "text": "What I saw made me very sad.",
+      "translation": "我看到的让我非常难过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56400.0,
+      "endTime": 61880.0,
+      "text": "I counted seven old cars and three old refrigerators.",
+      "translation": "我数了七辆旧车和三个旧冰箱。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61880.0,
+      "endTime": 68080.0,
+      "text": "The litter baskets were empty, and the ground was covered with pieces of paper, cigarette",
+      "translation": "垃圾篮是空的，地上铺满了纸屑和香烟",
+      "isHeader": false
+    },
+    {
+      "startTime": 68080.0,
+      "endTime": 74200.0,
+      "text": "ends, old tires, empty bottles, and rusty tins.",
+      "translation": "末端，旧轮胎，空瓶子和生锈的罐头。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74200.0,
+      "endTime": 80800.0,
+      "text": "Among the rubbish, I found a sign which said, anyone who leaves litter in these woods will",
+      "translation": "在垃圾中，我找到了一个标志，上面写着：任何在这片树林里乱扔垃圾的人将",
+      "isHeader": false
+    },
+    {
+      "startTime": 80800.0,
+      "endTime": 82080.0,
+      "text": "be prosecuted.",
+      "translation": "被起诉。",
+      "isHeader": false
+    }
+  ]
+}

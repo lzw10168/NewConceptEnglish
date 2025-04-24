@@ -1,5 +1,5 @@
 {
-  "id": "nce2--095",
+  "id": "nce2-095",
   "lessonNumber": "095",
   "title": {
     "english": "A fantasy",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个幽默的故事，描述了大使遭遇的一系列意外事件。文章通过对话的形式展现了大使的遭遇，以及他与妻子之间的对话。语法上涉及过去时态、条件句等结构，以及一些重要短语的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "When the Ambassador of Escalopia returned home for lunch, his wife got a shock. He looked pale and his clothes were in a frightful state.",
       "'What has happened?' she asked. 'How did your clothes get into such a mess?'",
       "'A fire extinguisher, my dear,' answered the Ambassador drily. 'University students set the Embassy on fire this morning.'",
@@ -114,7 +114,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "fantasy",
@@ -208,5 +208,9 @@
         "meaning": "n. 瞄准"
       }
     ]
-  }
+  },
+  "tags": [
+    "状语从句",
+    "单元复习"
+  ]
 }

@@ -1,0 +1,158 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 11520.0,
+      "text": "Lesson 97, a small blue case.",
+      "translation": "第97课，一个小蓝箱子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11520.0,
+      "endTime": 16600.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16600.0,
+      "endTime": 22640.0,
+      "text": "Does Mr. Hall get his case back?",
+      "translation": "霍尔先生拿回他的箱子了吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22640.0,
+      "endTime": 27520.0,
+      "text": "I left a suitcase on the train to London the other day.",
+      "translation": "前几天我把一个手提箱忘在了去伦敦的火车上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27520.0,
+      "endTime": 30439.999999999996,
+      "text": "Can you describe it, sir?",
+      "translation": "先生，您能描述一下吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30439.999999999996,
+      "endTime": 35240.0,
+      "text": "It's a small blue case and it's got a zip.",
+      "translation": "这是一个小蓝箱，它有一个拉链。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35240.0,
+      "endTime": 41160.0,
+      "text": "There's a label on the handle with my name and address on it.",
+      "translation": "手柄上有一个标签，上面有我的名字和地址。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41160.0,
+      "endTime": 43360.0,
+      "text": "Is this case yours?",
+      "translation": "这个箱子是你的吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 43360.0,
+      "endTime": 46960.0,
+      "text": "No, that's not mine.",
+      "translation": "不，那不是我的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46960.0,
+      "endTime": 49519.99999999999,
+      "text": "What about this one?",
+      "translation": "这个怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 49519.99999999999,
+      "endTime": 52480.00000000001,
+      "text": "This one's got a label.",
+      "translation": "这个有标签。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52480.00000000001,
+      "endTime": 55200.0,
+      "text": "Let me see it.",
+      "translation": "让我看看。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55200.0,
+      "endTime": 58320.0,
+      "text": "What's your name and address?",
+      "translation": "你叫什么名字，住在哪里？",
+      "isHeader": false
+    },
+    {
+      "startTime": 58320.0,
+      "endTime": 63920.0,
+      "text": "David Hall, 83 Bridge Street.",
+      "translation": "大卫·霍尔，桥街83号。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63920.0,
+      "endTime": 65400.00000000001,
+      "text": "That's right.",
+      "translation": "对的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65400.00000000001,
+      "endTime": 72200.0,
+      "text": "D.N. Hall, 83 Bridge Street.",
+      "translation": "D.N. 霍尔，桥街83号。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72200.0,
+      "endTime": 75000.0,
+      "text": "Three pounds, fifty pence, please.",
+      "translation": "三磅，五十便士，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75000.0,
+      "endTime": 77560.0,
+      "text": "Here you are.",
+      "translation": "给你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77560.0,
+      "endTime": 78560.0,
+      "text": "Thank you.",
+      "translation": "谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 78560.0,
+      "endTime": 82800.00000000001,
+      "text": "Hey, what's the matter?",
+      "translation": "嘿，怎么了？",
+      "isHeader": false
+    },
+    {
+      "startTime": 82800.00000000001,
+      "endTime": 85040.0,
+      "text": "This case doesn't belong to me.",
+      "translation": "这个案子不属于我。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85040.0,
+      "endTime": 86960.00000000001,
+      "text": "You've given me the wrong case.",
+      "translation": "你给了我错误的箱子。",
+      "isHeader": false
+    }
+  ]
+}

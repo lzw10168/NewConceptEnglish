@@ -14,7 +14,7 @@
   "editorNotes": "本课展现了一个典型的办公室场景，涉及同事之间的工作交流和委托任务。通过对话，学习者可以掌握办公室常用语、礼貌用语，以及表达困难或无法完成任务的方式。同时也体现了幽默元素，展示了真实的职场情境。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "THE BOSS: Can you come here a minute",
       "please, Bob?",
       "BOB: Yes, sir?",
@@ -36,7 +36,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "老 板：请你来一下好吗？鲍勃？",
       "鲍 勃: 什么事，先生？",
       "老 板：帕梅拉在哪儿？",

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过描述一个厨房的场景，介绍了如何描述房间布局和物品特征。课文重点展示了位置介词的使用，物品的颜色和状态描述，以及There be句型的应用。这些表达方式在描述环境和位置时非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Mrs. Smith's kitchen is small.",
       "There is a refrigerator in the kitchen.",
       "The refrigerator is white.",
@@ -31,7 +31,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "史密斯夫人的厨房很小。",
       "厨房里有个电冰箱。",
       "冰箱的颜色是白的。",

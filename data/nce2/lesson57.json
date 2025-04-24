@@ -1,5 +1,5 @@
 {
-  "id": "nce2--057",
+  "id": "nce2-057",
   "lessonNumber": "057",
   "title": {
     "english": "Can I help you, madam?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一位穿着牛仔裤的妇女在高档商店受到售货员轻蔑对待后，第二天穿着裘皮大衣回来报复的故事。文章主要使用了介词at、in、off和with的用法，以及make和let的用法区别。文章还涉及了多个与购物相关的词汇，如serve、scornfully、eager等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "A woman in jeans stood at the window of an expensive shop.",
       "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
       "The assistant who served her did not like the way she was dressed.",
@@ -137,7 +137,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "madam",
@@ -196,5 +196,8 @@
         "meaning": "adj. 热切的，热情的"
       }
     ]
-  }
+  },
+  "tags": [
+    "介词"
+  ]
 }

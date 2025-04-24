@@ -1,5 +1,5 @@
 {
-  "id": "nce2--038",
+  "id": "nce2-038",
   "lessonNumber": "038",
   "title": {
     "english": "Everything except the weather",
@@ -116,7 +116,7 @@
   "editorNotes": "本课讲述了哈里森在英国退休的梦想如何被意想不到的天气状况打破，强调了在做出生活改变时考虑所有因素的重要性。课文使用了过去完成时等时态，并介绍了一些重要的语法点和短语用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England.",
       "He had often dreamed of retiring in England and had planned to settle down in the country.",
       "He had no sooner returned than he bought a house and went to live there.",
@@ -144,7 +144,7 @@
       "哈里森把每件事情都考虑到了，唯独没想到天气。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -204,5 +204,10 @@
         "meaning": "conj. 虽然、尽管"
       }
     ]
-  }
+  },
+  "tags": [
+    "过去完成时",
+    "一般过去时",
+    "让步状语从句"
+  ]
 }

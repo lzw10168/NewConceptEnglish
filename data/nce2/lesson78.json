@@ -1,5 +1,5 @@
 {
-  "id": "nce2--078",
+  "id": "nce2-078",
   "lessonNumber": "078",
   "title": {
     "english": "The last one?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个人尝试戒烟的故事。文章通过描述作者在阅读一篇关于吸烟与健康的文章后决定戒烟，但一周后又重新吸烟的经历，展示了与keep相关的短语动词用法，以及一些常见的英语表达方式。文章还介绍了entitle、calm、nerve、concentration、suffer、temper、appetite、produce、urge、satisfaction和delighted等词汇的用法。本课还介绍了more than的用法，以及whenever、whoever、wherever和however的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves.",
       "I smoked with concentration and pleasure as I was sure that this would be my last cigarette.",
       "For a whole week I did not smoke at all and during this time, my wife suffered terribly.",
@@ -212,7 +212,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "entitle",
@@ -299,5 +299,8 @@
         "meaning": "adj. 欣喜的"
       }
     ]
-  }
+  },
+  "tags": [
+    "冠词"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--006",
+  "id": "nce2-006",
   "lessonNumber": "006",
   "title": {
     "english": "Percy Buttons",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的乞丐故事，重点学习冠词的用法以及短语动词的使用。故事展现了英国社会中一个独特的街头人物形象。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I have just moved to a house in Bridge Street.",
       "Yesterday a beggar knocked at my door.",
       "He asked me for a meal and a glass of beer.",
@@ -44,7 +44,7 @@
       "他每月对这条街上的每户人家光顾一次，总是请求给他一顿饭和一杯啤酒。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -206,5 +206,8 @@
         "content": "故事反映了英国社区之间的紧密联系。邻居之间互相了解，对于像Percy Buttons这样的街头人物也都很熟悉，体现了社区的凝聚力和包容性。"
       }
     ]
-  }
+  },
+  "tags": [
+    "冠词"
+  ]
 }

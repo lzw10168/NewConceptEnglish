@@ -1,5 +1,5 @@
 {
-  "id": "nce2--050",
+  "id": "nce2-050",
   "lessonNumber": "050",
   "title": {
     "english": "Taken for a ride",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个有趣的乘车经历。作者在乡间旅行时迷了路，售票员承诺告诉他下车地点，却忘记提醒他下车。当作者发现自己成了车上唯一的乘客时，售票员表示要返回，作者则选择继续留在车上。在语法方面，重点介绍了表示习惯性动作的动词用法，以及一些常见词汇的区别，如lose、loose和miss，以及expect和wait for的区别。文章还涉及了一些重要的词汇用法，如ride、excursion、conductor和view等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "I love travelling in the country, but I don't like losing my way.",
       "I went on an excursion recently, but my trip took me longer than I expected.",
       "'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.'",
@@ -154,7 +154,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "ride",
@@ -185,5 +185,9 @@
         "meaning": "n. 景色"
       }
     ]
-  }
+  },
+  "tags": [
+    "定语",
+    "状语"
+  ]
 }

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段关于摆放花瓶的对话，介绍了如何使用祈使句表达命令和建议，以及如何描述物品的位置。课文重点展示了'be going to'结构的实际应用，以及位置介词的使用方法。同时也包含了形容词的使用来描述物品的特征。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "What are you going to do with that vase, Penny?",
       "I'm going to put it on this table, Sam.",
       "Don't do that.",
@@ -32,7 +32,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "萨姆：你打算如何处理那花瓶？",
       "彭妮：我打算把它放在这张桌子上，萨姆。",
       "萨姆：不要放在那儿，把它给我。",

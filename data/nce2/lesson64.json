@@ -1,5 +1,5 @@
 {
-  "id": "nce2--064",
+  "id": "nce2-064",
   "lessonNumber": "064",
   "title": {
     "english": "The Channel Tunnel",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了英吉利海峡隧道的建设历史。从1858年法国工程师提出初步计划，到1860年英国人提出改进方案，再到1902年开始建设，最终在1994年正式开通，跨越了将近一个半世纪。文章重点介绍了隧道建设过程中遇到的通风问题及其解决方案，以及英国因担心入侵而暂停建设的政治因素。文章使用了多种语法结构，包括虚拟语气、条件句、定语从句等，以及多个与工程和交通相关的词汇。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel.",
       "He said that it would be possible to build a platform in the centre of the Channel.",
       "This platform would serve as a port and a railway station.",
@@ -185,7 +185,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "tunnel",
@@ -279,5 +279,9 @@
         "meaning": "n. 大陆"
       }
     ]
-  }
+  },
+  "tags": [
+    "虚拟条件句",
+    "if条件状语从句"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--061",
+  "id": "nce2-061",
   "lessonNumber": "061",
   "title": {
     "english": "Trouble with the Hubble",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了哈勃望远镜的发射、故障和修复计划。文章介绍了NASA发射的哈勃望远镜因主镜有误差而无法提供清晰图像，以及NASA计划派遣宇航员进行修复的情况。文章主要使用了将来完成时、将来进行时等时态，以及多个与太空探索相关的专业词汇。文章还涉及了科技发展和人类探索宇宙的主题，展示了人类对宇宙奥秘的探索精神。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars.",
       "Right from the start there was trouble with the Hubble.",
       "The pictures it sent us were very disappointing because its main mirror was faulty!",
@@ -160,7 +160,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "Hubble",
@@ -282,5 +282,10 @@
         "meaning": "n. 鹰眼"
       }
     ]
-  }
+  },
+  "tags": [
+    "将来进行时",
+    "将来完成时",
+    "将来完成进行时"
+  ]
 }

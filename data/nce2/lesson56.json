@@ -1,5 +1,5 @@
 {
-  "id": "nce2--056",
+  "id": "nce2-056",
   "lessonNumber": "056",
   "title": {
     "english": "Faster than sound!",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个关于老式汽车比赛的故事。文章主要使用了比较关系的表达方式，包括as...as、the same as、different from等结构。文章还涉及了多个与汽车相关的词汇，如speed、course、rival等，以及一些形容词的用法区别，如handsome、beautiful、pretty等。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Once a year, a race is held for old cars.",
       "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
       "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
@@ -138,7 +138,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "sound",
@@ -218,5 +218,8 @@
         "meaning": "adv. 下坡"
       }
     ]
-  }
+  },
+  "tags": [
+    "比较级"
+  ]
 }

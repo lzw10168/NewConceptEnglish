@@ -1,5 +1,5 @@
 {
-  "id": "nce2--081",
+  "id": "nce2-081",
   "lessonNumber": "081",
   "title": {
     "english": "Escape",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个战俘成功逃脱的故事。文章描述了他如何杀死卫兵、换上卫兵的衣服、在军营前大胆走动，以及最终如何抢走军官的汽车逃脱。文章介绍了多个与军事和行动相关的词汇，如march、salute、blaze等，以及一些常用短语如up and down、here and there、stand to attention等。本课还介绍了cloth、clothes和clothing的区别，以及salute和greet、clear和clean的区别。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
       "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
       "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.",
@@ -197,7 +197,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "prisoner",
@@ -298,5 +298,8 @@
         "meaning": "n. 打击"
       }
     ]
-  }
+  },
+  "tags": [
+    "介词"
+  ]
 }

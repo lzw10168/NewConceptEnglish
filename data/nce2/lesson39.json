@@ -1,5 +1,5 @@
 {
-  "id": "nce2--039",
+  "id": "nce2-039",
   "lessonNumber": "039",
   "title": {
     "english": "Am I all right?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个病人通过电话询问自己手术情况的有趣故事。重点学习直接引语和间接引语的转换，以及一些常用词汇的用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.",
       "The following day, the patient asked for a bedside telephone.",
       "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
@@ -38,7 +38,7 @@
       "'不是，'病人回答说，'我就是约翰·吉尔伯特先生。'"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "生词和短语",
     "notes": [
       {
@@ -246,5 +246,9 @@
         "content": "在英语国家，打电话时通常需要先自我介绍，然后说明打电话的目的。本课中吉尔伯特先生通过假装是别人来获取信息，这是一种巧妙但不太诚实的方式。"
       }
     ]
-  }
+  },
+  "tags": [
+    "间接引语",
+    "宾语从句"
+  ]
 }

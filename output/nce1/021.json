@@ -1,0 +1,102 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7240.0,
+      "text": "Lesson 21.",
+      "translation": "第21课",
+      "isHeader": false
+    },
+    {
+      "startTime": 7240.0,
+      "endTime": 9800.0,
+      "text": "Which book?",
+      "translation": "哪本书？",
+      "isHeader": false
+    },
+    {
+      "startTime": 9800.0,
+      "endTime": 15020.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15020.0,
+      "endTime": 19580.000000000004,
+      "text": "Which book does the man want?",
+      "translation": "那个男人想要哪本书？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19580.000000000004,
+      "endTime": 23220.0,
+      "text": "Give me a book, please, Jane.",
+      "translation": "请给我一本书，简。",
+      "isHeader": false
+    },
+    {
+      "startTime": 23220.0,
+      "endTime": 24220.0,
+      "text": "Which book?",
+      "translation": "哪本书？",
+      "isHeader": false
+    },
+    {
+      "startTime": 24220.0,
+      "endTime": 26220.0,
+      "text": "This one?",
+      "translation": "这个吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26220.0,
+      "endTime": 27220.0,
+      "text": "No.",
+      "translation": "不。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27220.0,
+      "endTime": 29740.000000000004,
+      "text": "Not that one.",
+      "translation": "不是那个。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29740.0,
+      "endTime": 30740.0,
+      "text": "The red one.",
+      "translation": "那个红色的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30740.0,
+      "endTime": 31740.0,
+      "text": "This one?",
+      "translation": "这个吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 31740.0,
+      "endTime": 32739.999999999996,
+      "text": "Yes, please.",
+      "translation": "好的，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32739.999999999996,
+      "endTime": 33739.99999999999,
+      "text": "Here you are.",
+      "translation": "给你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33739.99999999999,
+      "endTime": 33760.0,
+      "text": "Thank you.",
+      "translation": "谢谢。",
+      "isHeader": false
+    }
+  ]
+}

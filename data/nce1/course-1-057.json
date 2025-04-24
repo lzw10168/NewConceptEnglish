@@ -14,7 +14,7 @@
   "editorNotes": "本课通过对比索耶一家平常和今天的活动，介绍现在进行时的用法。重点学习如何描述此刻正在进行的活动，以及如何表达与日常习惯不同的临时行为。同时复习表示时间的词组和日常活动的表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "It is eight o'clock.  The children go to school by car every day, but today, they are going to school on foot.",
       "It is ten o'clock.  Mrs Sawyer usually stays at home in the morning, but this morning, she is going to the shops.",
       "It is four o'clock. In the afternoon, Mrs Sawyer usually drinks tea in the living-room, but this afternoon, she is drinking tea in the garden.",
@@ -24,7 +24,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "现在是8点钟。孩子们每天都乘小汽车去上学，而今天，他们正步行上学。",
       "现在是10点钟。上午，索耶夫人通常是呆在家里的，但今天上午，她正去商店买东西。",
       "现在是4点钟，下午，索耶夫人通常是在客厅里喝茶，但今天下午，她正在花园里喝茶。",

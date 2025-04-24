@@ -1,0 +1,186 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8520.0,
+      "text": "Lesson 65.",
+      "translation": "第六十五课",
+      "isHeader": false
+    },
+    {
+      "startTime": 8520.0,
+      "endTime": 11360.0,
+      "text": "Not a baby.",
+      "translation": "不是婴儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11360.0,
+      "endTime": 16440.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16440.0,
+      "endTime": 23080.000000000004,
+      "text": "Does Jill take the key to the front door?",
+      "translation": "Jill 是否拿着前门的钥匙？",
+      "isHeader": true
+    },
+    {
+      "startTime": 23080.000000000004,
+      "endTime": 25720.0,
+      "text": "What are you going to do this evening, Jill?",
+      "translation": "你今晚打算做什么，吉尔？",
+      "isHeader": false
+    },
+    {
+      "startTime": 26720.0,
+      "endTime": 30119.999999999996,
+      "text": "I'm going to meet some friends, Dad.",
+      "translation": "我要去见一些朋友，爸爸。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30119.999999999996,
+      "endTime": 32519.999999999996,
+      "text": "You mustn't come home late.",
+      "translation": "你不可以回家晚。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32519.999999999996,
+      "endTime": 36800.0,
+      "text": "You must be home at half past ten.",
+      "translation": "你必须在十点半之前到家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36800.0,
+      "endTime": 41160.0,
+      "text": "I can't get home so early, Dad.",
+      "translation": "我不能这么早回家，爸爸。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41160.0,
+      "endTime": 44599.99999999999,
+      "text": "Can I have the key to the front door, please?",
+      "translation": "请给我前门的钥匙好吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 44599.99999999999,
+      "endTime": 47960.0,
+      "text": "No, you can't.",
+      "translation": "不，你不能。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47960.0,
+      "endTime": 51200.0,
+      "text": "Jill's 18 years old, Tom.",
+      "translation": "吉尔18岁了，汤姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51200.0,
+      "endTime": 53000.0,
+      "text": "She's not a baby.",
+      "translation": "她不是婴儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 54960.0,
+      "text": "Give her the key.",
+      "translation": "把钥匙给她。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55200.0,
+      "endTime": 58440.0,
+      "text": "She always comes home early.",
+      "translation": "她总是很早回家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58440.0,
+      "endTime": 61640.0,
+      "text": "Oh, all right.",
+      "translation": "哦，好吧。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61640.0,
+      "endTime": 63200.0,
+      "text": "Here you are.",
+      "translation": "给你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63200.0,
+      "endTime": 67440.0,
+      "text": "But you mustn't come home after a quarter past 11.",
+      "translation": "但是你不能在11点一刻之后回家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67440.0,
+      "endTime": 69200.0,
+      "text": "Do you hear?",
+      "translation": "你听到了吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 69200.0,
+      "endTime": 71640.0,
+      "text": "Yes, Dad.",
+      "translation": "是的，爸爸。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71640.0,
+      "endTime": 73920.0,
+      "text": "Thanks, Mom.",
+      "translation": "谢谢，妈妈。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73920.0,
+      "endTime": 75640.0,
+      "text": "That's all right.",
+      "translation": "没关系。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75640.0,
+      "endTime": 76960.00000000001,
+      "text": "Goodbye.",
+      "translation": "再见。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76960.00000000001,
+      "endTime": 79320.0,
+      "text": "Enjoy yourself.",
+      "translation": "玩得开心。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79320.0,
+      "endTime": 82280.0,
+      "text": "We always enjoy ourselves, Mom.",
+      "translation": "我们总是玩得很开心，妈妈。",
+      "isHeader": false
+    },
+    {
+      "startTime": 82280.0,
+      "endTime": 83560.0,
+      "text": "Bye-bye.",
+      "translation": "再见。",
+      "isHeader": false
+    }
+  ]
+}

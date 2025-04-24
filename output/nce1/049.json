@@ -1,0 +1,130 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7600.000000000001,
+      "text": "Lesson 49 at the butchers.",
+      "translation": "第49课在肉店。",
+      "isHeader": false
+    },
+    {
+      "startTime": 7600.000000000001,
+      "endTime": 14600.0,
+      "text": "Listen to the tape then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14600.0,
+      "endTime": 22080.000000000004,
+      "text": "What does Mr. Bird like?",
+      "translation": "伯德先生喜欢什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22080.000000000004,
+      "endTime": 25000.0,
+      "text": "Do you want any meat today Mrs. Bird?",
+      "translation": "伯德夫人，您今天想要点肉吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 28080.000000000004,
+      "text": "Yes please.",
+      "translation": "好的，请。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28080.0,
+      "endTime": 30959.999999999996,
+      "text": "Do you want beef or lamb?",
+      "translation": "你想要牛肉还是羊肉？",
+      "isHeader": false
+    },
+    {
+      "startTime": 30959.999999999996,
+      "endTime": 33519.99999999999,
+      "text": "Beef please.",
+      "translation": "请给我牛肉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33519.99999999999,
+      "endTime": 36160.0,
+      "text": "This lamb's very good.",
+      "translation": "这只羊羔非常好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36160.0,
+      "endTime": 41599.99999999999,
+      "text": "I like lamb but my husband doesn't.",
+      "translation": "我喜欢羊肉，但我的丈夫不喜欢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41599.99999999999,
+      "endTime": 43839.99999999999,
+      "text": "What about some steak?",
+      "translation": "来点牛排怎么样？",
+      "isHeader": false
+    },
+    {
+      "startTime": 43839.99999999999,
+      "endTime": 47080.0,
+      "text": "This is a nice piece.",
+      "translation": "这是一件不错的作品。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47080.0,
+      "endTime": 50440.0,
+      "text": "Give me that piece please.",
+      "translation": "请把那块给我。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50440.0,
+      "endTime": 54440.0,
+      "text": "And a pound of mince too.",
+      "translation": "还要一磅绞肉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54440.0,
+      "endTime": 57720.0,
+      "text": "Do you want a chicken Mrs. Bird?",
+      "translation": "您想要一只鸡吗，伯德夫人？",
+      "isHeader": false
+    },
+    {
+      "startTime": 57760.0,
+      "endTime": 59760.0,
+      "text": "They're very nice.",
+      "translation": "他们非常好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59760.0,
+      "endTime": 61760.0,
+      "text": "No thank you.",
+      "translation": "不，谢谢。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61760.0,
+      "endTime": 67760.0,
+      "text": "My husband likes steak but he doesn't like chicken.",
+      "translation": "我的丈夫喜欢牛排，但他不喜欢鸡肉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67760.0,
+      "endTime": 73759.99999999999,
+      "text": "To tell you the truth Mrs. Bird, I don't like chicken either.",
+      "translation": "说实话，伯德太太，我也不喜欢鸡肉。",
+      "isHeader": false
+    }
+  ]
+}

@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一个公交车上找零钱的有趣场景，展示了日常生活中关于支付和找零的常用表达。课文重点介绍了表示否定和请求的多种表达方式，以及与金钱相关的实用词汇。这些表达对于日常乘车和购物场景非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Conductor:       Fares please!",
       "Man:             Trafalgar Square please.",
       "Conductor:       I'm sorry, sir. I can't change a pound note. Haven't you got any small change?",
@@ -34,7 +34,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "售票员： 请买票！",
       "男 子： 请买一张到特拉法加广场的票。",
       "售票员： 对不起，我找不开10英镑的钞票。 您没有零钱吗？",

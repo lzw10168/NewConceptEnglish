@@ -1,0 +1,81 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 6020.000000000001,
+      "text": "Lesson 21 Mad or Not",
+      "translation": "第21课 疯了还是没有疯",
+      "isHeader": false
+    },
+    {
+      "startTime": 6020.000000000001,
+      "endTime": 16620.0,
+      "text": "First listen and then answer the question, Why do people think the writer is mad?",
+      "translation": "首先听录音，然后回答问题，为什么人们认为作者疯了？",
+      "isHeader": false
+    },
+    {
+      "startTime": 16620.0,
+      "endTime": 20660.0,
+      "text": "Airplanes are slowly driving me mad.",
+      "translation": "飞机正在慢慢把我逼疯。",
+      "isHeader": false
+    },
+    {
+      "startTime": 20660.0,
+      "endTime": 27400.000000000004,
+      "text": "I live near an airport and passing planes can be heard night and day.",
+      "translation": "我住在一个机场附近，过往的飞机日夜都能听到。",
+      "isHeader": false
+    },
+    {
+      "startTime": 27400.0,
+      "endTime": 35400.0,
+      "text": "The airport was built years ago, but for some reason it could not be used then.",
+      "translation": "这个机场建于多年前，但由于某种原因当时无法使用。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35400.0,
+      "endTime": 40000.0,
+      "text": "Last year, however, it came into use.",
+      "translation": "然而，去年它开始被使用。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40000.0,
+      "endTime": 46480.00000000001,
+      "text": "Over a hundred people must have been driven away from their homes by the noise.",
+      "translation": "噪音肯定已经迫使一百多人离开了他们的家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46480.00000000001,
+      "endTime": 51320.0,
+      "text": "I am one of the few people left.",
+      "translation": "我是为数不多的留下的人之一。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51320.0,
+      "endTime": 57280.0,
+      "text": "Sometimes I think this house will be knocked down by a passing plane.",
+      "translation": "有时候我觉得这栋房子会被一架飞过的飞机撞倒。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57280.0,
+      "endTime": 65840.0,
+      "text": "I have been offered a large sum of money to go away, but I am determined to stay here.",
+      "translation": "有人给了我一大笔钱让我离开，但我决心要留在这里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65840.0,
+      "endTime": 72720.0,
+      "text": "Everybody says I must be mad and they are probably right.",
+      "translation": "每个人都说我一定是疯了，他们可能说得对。",
+      "isHeader": false
+    }
+  ]
+}

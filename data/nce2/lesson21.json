@@ -1,5 +1,5 @@
 {
-  "id": "nce2--021",
+  "id": "nce2-021",
   "lessonNumber": "021",
   "title": {
     "english": "Mad or not?",
@@ -14,7 +14,7 @@
   "editorNotes": "本课讲述了一个人因为住在机场附近而被噪音困扰的故事，重点介绍了被动语态的用法，以及drive的多种用法。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Aeroplanes are slowly driving me mad.",
       "I live near an airport and passing planes can be heard night and day.",
       "The airport was built years ago, but for some reason it could not be used then.",
@@ -40,7 +40,7 @@
       "大家都说我肯定是疯了，也许他们说的是对的。"
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "heading": "New words and expressions 生词和短语",
     "notes": [
       {
@@ -175,5 +175,9 @@
         "content": "home和house的区别：home强调居住的人和温暖的感觉，带有感情色彩；house则指建筑物本身，是一个客观的概念。"
       }
     ]
-  }
+  },
+  "tags": [
+    "被动语态",
+    "情态动词"
+  ]
 }

@@ -1,0 +1,172 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10160.0,
+      "text": "Lesson 91 Poor Ian.",
+      "translation": "第91课 可怜的伊恩。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10160.0,
+      "endTime": 13840.0,
+      "text": "Listen to the tape, then answer this question.",
+      "translation": "听录音，然后回答这个问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 13840.0,
+      "endTime": 16960.0,
+      "text": "Who wanted to sell the house?",
+      "translation": "谁想卖房子？",
+      "isHeader": true
+    },
+    {
+      "startTime": 16960.0,
+      "endTime": 22160.0,
+      "text": "Has Ian sold his house yet?",
+      "translation": "Ian 卖掉他的房子了吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 22160.0,
+      "endTime": 24920.0,
+      "text": "Yes, he has.",
+      "translation": "是的，他去过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24920.0,
+      "endTime": 27160.0,
+      "text": "He sold it last week.",
+      "translation": "他上周卖掉了它。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28120.0,
+      "endTime": 32119.999999999996,
+      "text": "Has he moved to his new house yet?",
+      "translation": "他已经搬进新房子了吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 32119.999999999996,
+      "endTime": 34600.0,
+      "text": "No, not yet.",
+      "translation": "不，还没有。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34600.0,
+      "endTime": 36680.0,
+      "text": "He's still here.",
+      "translation": "他仍然在这里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36680.0,
+      "endTime": 41120.00000000001,
+      "text": "He's going to move tomorrow.",
+      "translation": "他明天将搬家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41120.00000000001,
+      "endTime": 44600.0,
+      "text": "When? Tomorrow morning?",
+      "translation": "什么时候？明天早上？",
+      "isHeader": false
+    },
+    {
+      "startTime": 44600.0,
+      "endTime": 48400.00000000001,
+      "text": "No, tomorrow afternoon.",
+      "translation": "不，明天下午。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48400.00000000001,
+      "endTime": 50280.0,
+      "text": "I'll miss him.",
+      "translation": "我会想念他的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50280.0,
+      "endTime": 54280.0,
+      "text": "He's always been a good neighbor.",
+      "translation": "他一直是个好邻居。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54280.0,
+      "endTime": 56960.0,
+      "text": "He's a very nice person.",
+      "translation": "他是一个非常好的人。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56960.0,
+      "endTime": 61520.0,
+      "text": "You'll all miss him.",
+      "translation": "你们都会想念他的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61520.0,
+      "endTime": 67280.0,
+      "text": "When will the new people move into this house?",
+      "translation": "新住户什么时候搬进这所房子？",
+      "isHeader": false
+    },
+    {
+      "startTime": 67280.0,
+      "endTime": 73080.0,
+      "text": "I think that they'll move in the day after tomorrow.",
+      "translation": "我认为他们将在后天搬进来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73080.0,
+      "endTime": 76880.0,
+      "text": "Will you see Ian today, Jenny?",
+      "translation": "你今天会见到伊恩吗，珍妮？",
+      "isHeader": false
+    },
+    {
+      "startTime": 76880.0,
+      "endTime": 80000.0,
+      "text": "Yes, I will.",
+      "translation": "是的，我会的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 80000.0,
+      "endTime": 83520.00000000001,
+      "text": "Please give him my regards.",
+      "translation": "请代我向他问好。",
+      "isHeader": false
+    },
+    {
+      "startTime": 83520.00000000001,
+      "endTime": 85360.0,
+      "text": "Poor Ian.",
+      "translation": "可怜的伊恩。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85400.0,
+      "endTime": 89200.0,
+      "text": "He didn't want to leave his house.",
+      "translation": "他不想离开他的房子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 89200.0,
+      "endTime": 96480.0,
+      "text": "No, he didn't want to leave, but his wife did.",
+      "translation": "不，他不想离开，但是他的妻子想。",
+      "isHeader": false
+    }
+  ]
+}

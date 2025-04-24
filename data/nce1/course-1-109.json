@@ -14,7 +14,7 @@
   "editorNotes": "本课通过一段朋友间的日常对话，展示了如何表达建议和礼貌请求。课文涉及饮品准备、数量表达和友好建议等交际功能，同时介绍了情态动词和数量词的使用。这些表达对于日常社交场合非常实用。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "Betty:      Shall I make some coffee, Jane?",
       "Jane:       That's a good idea, Betty.",
       "Betty:      It's ready. Do you want any milk?",
@@ -35,7 +35,7 @@
   },
   "translation": {
     "heading": "翻译",
-    "lines": [
+    "notes": [
       "夏洛特：我来煮点咖啡好吗，简？",
       "简：这是个好主意，夏洛特。",
       "夏洛特：咖啡好了，你要放点奶吗？",

@@ -1,5 +1,5 @@
 {
-  "id": "nce2--071",
+  "id": "nce2-071",
   "lessonNumber": "071",
   "title": {
     "english": "A famous clock",
@@ -14,7 +14,7 @@
   "editorNotes": "本课介绍了伦敦著名的大本钟（Big Ben）。文章讲述了这座钟的历史背景、命名由来、准确性和一次有趣的故障。大本钟是伦敦的标志性建筑，通过英国广播公司（BBC）的广播，它的钟声传遍全世界。文章通过这个生动的故事，展示了虚拟语气、被动语态、形容词与介词搭配等语法结构，以及一些表示'命名'、'负责'、'故障'和'减速'的表达方式。文章还展示了如何描述历史事件和建筑特征，以及一些常见的英语表达方式。",
   "dialogueText": {
     "heading": "课文",
-    "dialogue": [
+    "notes": [
       "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.",
       "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
       "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
@@ -200,7 +200,7 @@
       }
     ]
   },
-  "newwords": {
+  "vocabulary": {
     "notes": [
       {
         "word": "parliament",
@@ -266,5 +266,8 @@
         "meaning": "v. 塔"
       }
     ]
-  }
+  },
+  "tags": [
+    "单元复习"
+  ]
 }
