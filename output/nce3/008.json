@@ -1,0 +1,193 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 3240.0,
+      "text": "Lesson 8.",
+      "translation": "第8课",
+      "isHeader": false
+    },
+    {
+      "startTime": 3240.0,
+      "endTime": 6320.0,
+      "text": "A famous monastery.",
+      "translation": "一个著名的修道院。",
+      "isHeader": false
+    },
+    {
+      "startTime": 6320.0,
+      "endTime": 10960.0,
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": "听录音，然后回答下面的问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10960.0,
+      "endTime": 16000.0,
+      "text": "What are the St. Bernard dogs used for?",
+      "translation": "圣伯纳犬通常被用来做什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 21120.0,
+      "text": "The Great St. Bernard Pass connects Switzerland to Italy.",
+      "translation": "大圣伯纳德山口连接瑞士和意大利。",
+      "isHeader": false
+    },
+    {
+      "startTime": 21120.0,
+      "endTime": 28560.000000000004,
+      "text": "At 2,470 meters, it is the highest mountain pass in Europe.",
+      "translation": "在2470米处，它是欧洲最高的山口。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28560.0,
+      "endTime": 34920.0,
+      "text": "The famous monastery of St. Bernard, which was founded in the 11th century, lies about",
+      "translation": "著名的圣伯纳德修道院，始建于11世纪，位于",
+      "isHeader": false
+    },
+    {
+      "startTime": 34920.0,
+      "endTime": 37360.0,
+      "text": "a mile away.",
+      "translation": "一英里远。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37360.0,
+      "endTime": 42560.0,
+      "text": "For hundreds of years, St. Bernard dogs have saved the lives of travelers crossing the",
+      "translation": "几百年来，圣伯纳德犬拯救了穿越",
+      "isHeader": false
+    },
+    {
+      "startTime": 42560.0,
+      "endTime": 45280.0,
+      "text": "dangerous pass.",
+      "translation": "险关。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45280.0,
+      "endTime": 51180.0,
+      "text": "These friendly dogs, which were first brought from Asia, were used as watchdogs even in",
+      "translation": "这些友好的狗最初是从亚洲引进的，甚至被用作看门狗",
+      "isHeader": false
+    },
+    {
+      "startTime": 51180.0,
+      "endTime": 53420.0,
+      "text": "Roman times.",
+      "translation": "罗马时期。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53420.0,
+      "endTime": 58980.00000000001,
+      "text": "Now that a tunnel has been built through the mountains, the pass is less dangerous.",
+      "translation": "既然山里已经修了隧道，关口的危险就减少了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58980.00000000001,
+      "endTime": 66860.0,
+      "text": "But each year, the dogs are still sent out into the snow whenever a traveler is in difficulty.",
+      "translation": "但每年，只要旅行者遇到困难，狗仍然会被派出去雪地中。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66860.0,
+      "endTime": 72100.0,
+      "text": "Despite the new tunnel, there are still a few people who rashly attempt to cross the",
+      "translation": "尽管有了新隧道，但仍有一些人鲁莽地试图穿越",
+      "isHeader": false
+    },
+    {
+      "startTime": 72100.0,
+      "endTime": 75260.0,
+      "text": "pass on foot.",
+      "translation": "步行通过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75260.0,
+      "endTime": 81340.0,
+      "text": "During the summer months, the monastery is very busy, for it is visited by thousands",
+      "translation": "在夏季的几个月里，修道院非常忙碌，因为它接待了成千上万的游客。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81340.0,
+      "endTime": 85740.00000000001,
+      "text": "of people who cross the pass in cars.",
+      "translation": "穿越山口的汽车里的人们。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85740.00000000001,
+      "endTime": 92260.0,
+      "text": "As there are so many people about, the dogs have to be kept in a special enclosure.",
+      "translation": "由于周围有这么多人，狗必须被关在一个特别的围栏里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 92260.0,
+      "endTime": 97460.00000000001,
+      "text": "In winter, however, life at the monastery is quite different.",
+      "translation": "然而，在冬天，修道院的生活是相当不同的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 97460.00000000001,
+      "endTime": 105460.00000000001,
+      "text": "The temperature drops to minus 30 degrees, and very few people attempt to cross the pass.",
+      "translation": "气温下降到零下30度，很少有人试图穿越山口。",
+      "isHeader": false
+    },
+    {
+      "startTime": 105460.00000000001,
+      "endTime": 110780.0,
+      "text": "The monks prefer winter to summer, for they have more privacy.",
+      "translation": "和尚们喜欢冬天胜过夏天，因为他们有更多隐私。",
+      "isHeader": false
+    },
+    {
+      "startTime": 110780.0,
+      "endTime": 117980.0,
+      "text": "The dogs have greater freedom too, for they are allowed to wander outside their enclosure.",
+      "translation": "这些狗也有更大的自由，因为它们被允许在围栏外游荡。",
+      "isHeader": false
+    },
+    {
+      "startTime": 117980.0,
+      "endTime": 123660.0,
+      "text": "The only regular visitors to the monastery in winter are parties of skiers who go there",
+      "translation": "冬天唯一定期造访修道院的是滑雪者团队，他们会去那里",
+      "isHeader": false
+    },
+    {
+      "startTime": 123660.0,
+      "endTime": 126660.0,
+      "text": "at Christmas and Easter.",
+      "translation": "在圣诞节和复活节。",
+      "isHeader": false
+    },
+    {
+      "startTime": 126660.0,
+      "endTime": 132400.0,
+      "text": "These young people, who love the peace of the mountains, always receive a warm welcome",
+      "translation": "这些热爱山中宁静的年轻人，总是受到热烈的欢迎",
+      "isHeader": false
+    },
+    {
+      "startTime": 132400.0,
+      "endTime": 134020.0,
+      "text": "at St. Bernard's Monastery.",
+      "translation": "在圣伯纳德修道院。",
+      "isHeader": false
+    }
+  ]
+}

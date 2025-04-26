@@ -1,0 +1,95 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10000.0,
+      "text": "Lesson 48. Did you want to tell me something?",
+      "translation": "第48课。你想告诉我一些事情吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 21000.0,
+      "text": "Why did the writer become very worried?",
+      "translation": "为什么作家变得非常担心？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21000.0,
+      "endTime": 28000.0,
+      "text": "Dentists always ask questions when it is impossible for you to answer.",
+      "translation": "牙医总是在你无法回答的时候问问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 35000.0,
+      "text": "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "translation": "我的牙医刚刚拔掉了我的一颗牙齿，并告诉我要休息一会儿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 41000.0,
+      "text": "I tried to say something, but my mouth was full of cotton wool.",
+      "translation": "我试图说些什么，但我的嘴里塞满了棉絮。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41000.0,
+      "endTime": 48000.0,
+      "text": "He knew I collected match boxes and asked me whether my collection was growing.",
+      "translation": "他知道我收集火柴盒，并问我我的收藏是否在增加。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 55000.0,
+      "text": "He then asked me how my brother was and whether I liked my new job in London.",
+      "translation": "然后他问我我哥哥怎么样，以及我是否喜欢我在伦敦的新工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 62000.0,
+      "text": "In answer to these questions, I either nodded or made strange noises.",
+      "translation": "对于这些问题，我要么点头要么发出奇怪的声音。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 69000.0,
+      "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been.",
+      "translation": "与此同时，我的舌头正忙着寻找那颗牙齿曾经所在的地方。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 74000.0,
+      "text": "I suddenly felt very worried but could not say anything.",
+      "translation": "我突然感到很担心，但什么也说不出来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74000.0,
+      "endTime": 79000.0,
+      "text": "When the dentist at last removed the cotton wool from my mouth,",
+      "translation": "当牙医最后从我嘴里取出棉球时，",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 84000.0,
+      "text": "I was able to tell him that he had pulled out the wrong tooth.",
+      "translation": "我能够告诉他，他拔错了牙。",
+      "isHeader": false
+    }
+  ]
+}

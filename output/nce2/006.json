@@ -2,100 +2,58 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 2960.0,
-      "text": "Lesson 14.",
-      "translation": "第14课",
+      "endTime": 15920.0,
+      "text": "Lesson 6. Percy Buttons. First listen and then answer the question.",
+      "translation": "第6课。珀西·巴顿斯。首先听录音，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 2960.0,
-      "endTime": 6360.0,
-      "text": "Do you speak English?",
-      "translation": "你会说英语吗？",
+      "startTime": 15920.0,
+      "endTime": 26320.0,
+      "text": "Who is Percy Buttons? I have just moved to a house in Breach Street.",
+      "translation": "谁是珀西·巴顿斯？我刚搬到布雷奇街上的一所房子。",
+      "isHeader": true
+    },
+    {
+      "startTime": 26320.0,
+      "endTime": 33760.0,
+      "text": "Yesterday a beggar knocked at my door. He asked me for a meal and a glass of beer.",
+      "translation": "昨天一个乞丐敲我的门。他问我要了一顿饭和一杯啤酒。",
       "isHeader": false
     },
     {
-      "startTime": 6360.0,
-      "endTime": 15360.0,
-      "text": "First listen and then answer the question, Did the young man speak English?",
-      "translation": "首先听录音，然后回答问题，那个年轻人会说英语吗？",
+      "startTime": 33760.0,
+      "endTime": 42360.0,
+      "text": "In return for this the beggar stood on his head and sang songs. I gave him a",
+      "translation": "作为回报，乞丐倒立着唱歌。我给了他一个",
       "isHeader": false
     },
     {
-      "startTime": 15360.0,
-      "endTime": 19640.0,
-      "text": "I had an amusing experience last year.",
-      "translation": "去年我有一次有趣的经历。",
+      "startTime": 42360.0,
+      "endTime": 50160.0,
+      "text": "meal. He ate the food and drank the beer. Then he put a piece of cheese in his",
+      "translation": "餐。他吃了食物，喝了啤酒。然后他放了一块奶酪在他的",
       "isHeader": false
     },
     {
-      "startTime": 19640.0,
-      "endTime": 27080.000000000004,
-      "text": "After I had left a small village in the south of France, I drove on to the next town.",
-      "translation": "在我离开法国南部的一个小村庄后，我开车前往下一个城镇。",
+      "startTime": 50160.0,
+      "endTime": 59239.99999999999,
+      "text": "pocket and went away. Later a neighbor told me about him. Everybody knows him.",
+      "translation": "他揣着口袋离开了。后来一个邻居告诉了我关于他的事情。大家都认识他。",
       "isHeader": false
     },
     {
-      "startTime": 27080.0,
-      "endTime": 30680.0,
-      "text": "On the way, a young man waved to me.",
-      "translation": "在路上，一个年轻人向我挥手。",
+      "startTime": 59239.99999999999,
+      "endTime": 66720.0,
+      "text": "His name is Percy Buttons. He calls at every house in the street once a month",
+      "translation": "他的名字叫珀西·巴顿斯。他每个月都会挨家挨户地拜访这条街上的每户人家。",
       "isHeader": false
     },
     {
-      "startTime": 30680.0,
-      "endTime": 34839.99999999999,
-      "text": "I stopped and he asked me for a lift.",
-      "translation": "我停下来，他请求我让他搭便车。",
-      "isHeader": false
-    },
-    {
-      "startTime": 34839.99999999999,
-      "endTime": 42000.0,
-      "text": "As soon as he had got into the car, I said good morning to him in French and he replied",
-      "translation": "他一上车，我就用法语向他道早安，他回答说",
-      "isHeader": false
-    },
-    {
-      "startTime": 42000.0,
-      "endTime": 44400.0,
-      "text": "in the same language.",
-      "translation": "在同一种语言中。",
-      "isHeader": false
-    },
-    {
-      "startTime": 44400.0,
-      "endTime": 50200.0,
-      "text": "Apart from a few words, I do not know any French at all.",
-      "translation": "除了几个单词之外，我一点法语都不懂。",
-      "isHeader": false
-    },
-    {
-      "startTime": 50200.0,
-      "endTime": 53360.0,
-      "text": "Neither of us spoke during the journey.",
-      "translation": "我们俩在旅途中谁也没说话。",
-      "isHeader": false
-    },
-    {
-      "startTime": 53400.0,
-      "endTime": 62320.0,
-      "text": "I had nearly reached the town when the young man suddenly said, very slowly, Do you speak",
-      "translation": "我快到镇上的时候，那个年轻人突然慢慢地说，你会说",
-      "isHeader": false
-    },
-    {
-      "startTime": 62320.0,
-      "endTime": 64879.99999999999,
-      "text": "English?",
-      "translation": "英语？",
-      "isHeader": false
-    },
-    {
-      "startTime": 64879.99999999999,
-      "endTime": 68440.0,
-      "text": "As I soon learnt, he was English himself.",
-      "translation": "正如我很快了解到的，他自己就是英国人。",
+      "startTime": 66720.0,
+      "endTime": 73160.0,
+      "text": "and always asks for a meal and a glass of beer.",
+      "translation": "并且总是要一顿饭和一杯啤酒。",
       "isHeader": false
     }
   ]

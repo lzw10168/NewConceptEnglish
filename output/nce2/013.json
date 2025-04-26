@@ -2,107 +2,93 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 6560.000000000001,
-      "text": "Lesson 20 One Man in a Boat",
-      "translation": "第20课 独木舟中的一个人",
+      "endTime": 9000.0,
+      "text": "Lesson 13, The Greenwood Boys.",
+      "translation": "第13课，绿林少年。",
       "isHeader": false
     },
     {
-      "startTime": 6560.000000000001,
-      "endTime": 16440.0,
-      "text": "First listen and then answer the question, Why is fishing the writer's favorite sport?",
-      "translation": "首先听录音，然后回答问题，为什么钓鱼是作者最喜欢的运动？",
+      "startTime": 9000.0,
+      "endTime": 14000.0,
+      "text": "First lesson and then answer the question.",
+      "translation": "先上课，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 16440.0,
-      "endTime": 18920.0,
-      "text": "Fishing is my favorite sport.",
-      "translation": "钓鱼是我最喜欢的运动。",
+      "startTime": 14000.0,
+      "endTime": 20000.0,
+      "text": "Why will the police have a difficult time?",
+      "translation": "为什么警察会遇到困难？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 26000.0,
+      "text": "The Greenwood Boys are a group of pop singers.",
+      "translation": "绿林少年是一个流行歌手组合。",
       "isHeader": false
     },
     {
-      "startTime": 18920.0,
-      "endTime": 24400.000000000004,
-      "text": "I often fish for hours without catching anything.",
-      "translation": "我经常钓鱼好几个小时却一无所获。",
+      "startTime": 26000.0,
+      "endTime": 31000.0,
+      "text": "At present, they are visiting all parts of the country.",
+      "translation": "目前，他们正在访问国家的各个地方。",
       "isHeader": false
     },
     {
-      "startTime": 24400.000000000004,
-      "endTime": 28000.0,
-      "text": "But this does not worry me.",
-      "translation": "但这并不让我担心。",
+      "startTime": 31000.0,
+      "endTime": 35000.0,
+      "text": "They will be arriving here tomorrow.",
+      "translation": "他们明天会到达这里。",
       "isHeader": false
     },
     {
-      "startTime": 28000.0,
-      "endTime": 30960.0,
-      "text": "Some fishermen are unlucky.",
-      "translation": "一些渔夫是不幸的。",
+      "startTime": 35000.0,
+      "endTime": 44000.0,
+      "text": "They will be coming by train, and most of the young people in the town will be meeting them at the station.",
+      "translation": "他们将乘火车来，镇上大多数年轻人将在车站迎接他们。",
       "isHeader": false
     },
     {
-      "startTime": 30960.0,
-      "endTime": 37360.0,
-      "text": "Instead of catching fish, they catch old boots and rubbish.",
-      "translation": "他们没有抓到鱼，反而抓到了旧靴子和垃圾。",
+      "startTime": 44000.0,
+      "endTime": 49000.0,
+      "text": "Tomorrow evening, they will be singing at the workers' club.",
+      "translation": "明天晚上，他们将在工人俱乐部唱歌。",
       "isHeader": false
     },
     {
-      "startTime": 37360.0,
-      "endTime": 40280.0,
-      "text": "I am even less lucky.",
-      "translation": "我的运气甚至更差。",
+      "startTime": 49000.0,
+      "endTime": 53000.0,
+      "text": "The Greenwood Boys will be staying for five days.",
+      "translation": "绿林少年将停留五天。",
       "isHeader": false
     },
     {
-      "startTime": 40280.0,
-      "endTime": 46519.99999999999,
-      "text": "I never catch anything, not even old boots.",
-      "translation": "我什么也捉不到，连旧靴子也捉不到。",
+      "startTime": 53000.0,
+      "endTime": 58000.0,
+      "text": "During this time, they will give five performances.",
+      "translation": "在这段时间里，他们将进行五场演出。",
       "isHeader": false
     },
     {
-      "startTime": 46519.99999999999,
-      "endTime": 55120.00000000001,
-      "text": "After having spent whole mornings on the river, I always go home with an empty bag.",
-      "translation": "在河上度过了整个上午之后，我总是空手而归。",
+      "startTime": 58000.0,
+      "endTime": 63000.0,
+      "text": "As usual, the police will have a difficult time.",
+      "translation": "像往常一样，警方将会有一段艰难的时光。",
       "isHeader": false
     },
     {
-      "startTime": 55120.0,
-      "endTime": 59720.0,
-      "text": "You must give up fishing, my friends say.",
-      "translation": "你必须放弃钓鱼，朋友们说。",
+      "startTime": 63000.0,
+      "endTime": 66000.0,
+      "text": "They will be trying to keep order.",
+      "translation": "他们将努力维持秩序。",
       "isHeader": false
     },
     {
-      "startTime": 59720.0,
-      "endTime": 62720.0,
-      "text": "It's a waste of time.",
-      "translation": "这是浪费时间。",
-      "isHeader": false
-    },
-    {
-      "startTime": 62720.0,
-      "endTime": 67080.0,
-      "text": "But they don't realize one important thing.",
-      "translation": "但他们没有意识到一件重要的事情。",
-      "isHeader": false
-    },
-    {
-      "startTime": 67080.0,
-      "endTime": 70800.0,
-      "text": "I'm not really interested in fishing.",
-      "translation": "我对钓鱼并不感兴趣。",
-      "isHeader": false
-    },
-    {
-      "startTime": 70800.0,
-      "endTime": 76360.0,
-      "text": "I am only interested in sitting in a boat and doing nothing at all.",
-      "translation": "我只是喜欢坐在船上，什么都不做。",
+      "startTime": 66000.0,
+      "endTime": 70000.0,
+      "text": "It is always the same on these occasions.",
+      "translation": "在这些场合，情况总是相同的。",
       "isHeader": false
     }
   ]

@@ -1,0 +1,95 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8000.0,
+      "text": "Lesson 45, A Clear Conscience",
+      "translation": "第四十五课，问心无愧",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 14000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 18000.0,
+      "text": "How did Sam get his money back?",
+      "translation": "萨姆是怎么拿回他的钱的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 18000.0,
+      "endTime": 26000.0,
+      "text": "The whole village soon learnt that a large sum of money had been lost.",
+      "translation": "很快，全村的人都知道有一大笔钱丢失了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 34000.0,
+      "text": "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.",
+      "translation": "当地屠夫山姆·本顿在把积蓄拿到邮局的途中丢失了钱包。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 43000.0,
+      "text": "Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.",
+      "translation": "萨姆确信钱包一定是被村民中的一个找到了，但是并没有归还给他。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43000.0,
+      "endTime": 52000.0,
+      "text": "Three months passed and then one morning Sam found his wallet outside his front door.",
+      "translation": "三个月过去了，然后一天早晨，山姆发现他的钱包在他的前门外。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 63000.0,
+      "text": "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said,",
+      "translation": "它被报纸包裹着，里面装着他丢失的一半钱，还有一张纸条，上面写着，",
+      "isHeader": false
+    },
+    {
+      "startTime": 63000.0,
+      "endTime": 70000.0,
+      "text": "A thief, yes, but only 50% a thief.",
+      "translation": "一个小偷，是的，但只是50%的小偷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 70000.0,
+      "endTime": 78000.0,
+      "text": "Two months later, some more money was sent to Sam with another note.",
+      "translation": "两个月后，更多的钱连同另一张纸条被寄给了萨姆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 78000.0,
+      "endTime": 83000.0,
+      "text": "Only 25% a thief now.",
+      "translation": "现在只有25%像个小偷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 83000.0,
+      "endTime": 88000.0,
+      "text": "In time, all Sam's money was paid back in this way.",
+      "translation": "最终，萨姆所有的钱都以这种方式被还清了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 88000.0,
+      "endTime": 95000.0,
+      "text": "The last note said, I am 100% honest now.",
+      "translation": "最后一条信息说，我现在百分之百诚实。",
+      "isHeader": false
+    }
+  ]
+}

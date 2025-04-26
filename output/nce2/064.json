@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 16640.0,
+      "text": "Lesson 64, the channel tunnel. First listen and then answer the question.",
+      "translation": "第64课，海峡隧道。首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16640.0,
+      "endTime": 29640.0,
+      "text": "Why was the first tunnel not completed? In 1858, a French engineer, Aimee Tome de Gamon,",
+      "translation": "为什么第一条隧道没有完成？在1858年，一位法国工程师，艾米·托梅·德·加蒙",
+      "isHeader": true
+    },
+    {
+      "startTime": 29640.0,
+      "endTime": 38520.0,
+      "text": "arrived in England with a plan for a 21-mile tunnel under the English Channel. He said",
+      "translation": "带着在英吉利海峡下建造一条21英里长的隧道的计划抵达了英格兰。他说",
+      "isHeader": false
+    },
+    {
+      "startTime": 38520.0,
+      "endTime": 44560.0,
+      "text": "that it would be possible to build a platform in the center of the channel. This platform",
+      "translation": "在渠道中心建造一个平台是可能的。这个平台",
+      "isHeader": false
+    },
+    {
+      "startTime": 44560.0,
+      "endTime": 52519.99999999999,
+      "text": "would serve as a port and a railway station. The tunnel would be well ventilated if tall",
+      "translation": "将作为一个港口和火车站。如果隧道高的话，将会有良好的通风。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52520.0,
+      "endTime": 59520.0,
+      "text": "chimneys were built above sea level. In 1860, a better plan was put forward by an Englishman,",
+      "translation": "烟囱建在海平面以上。在1860年，一个英国人提出了一个更好的计划，",
+      "isHeader": false
+    },
+    {
+      "startTime": 61760.00000000001,
+      "endTime": 68760.0,
+      "text": "William Low. He suggested that a double railway tunnel should be built. This would solve the",
+      "translation": "威廉·洛。他建议应该建造一条双轨铁路隧道。这将解决",
+      "isHeader": false
+    },
+    {
+      "startTime": 69120.0,
+      "endTime": 75720.0,
+      "text": "problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind",
+      "translation": "通风问题，因为如果火车进入这条隧道，它会在后方吸入新鲜空气",
+      "isHeader": false
+    },
+    {
+      "startTime": 75720.0,
+      "endTime": 82720.0,
+      "text": "it. 42 years later, a tunnel was actually begun. If, at the time, the British had not",
+      "translation": "它。42年后，实际上开始了一条隧道。如果当时英国人没有",
+      "isHeader": false
+    },
+    {
+      "startTime": 85480.0,
+      "endTime": 92480.0,
+      "text": "feared invasion, it would have been completed. The world had to wait almost another 100 years",
+      "translation": "害怕入侵，它本该已经完成了。世界不得不再等待近100年",
+      "isHeader": false
+    },
+    {
+      "startTime": 93480.0,
+      "endTime": 100480.0,
+      "text": "for the channel tunnel. It was officially opened on March 7, 1994, finally connecting",
+      "translation": "为了英吉利海峡隧道。它于1994年3月7日正式开通，最终连接了",
+      "isHeader": false
+    },
+    {
+      "startTime": 100480.0,
+      "endTime": 103480.0,
+      "text": "Britain to the European continent.",
+      "translation": "英国到欧洲大陆。",
+      "isHeader": false
+    }
+  ]
+}

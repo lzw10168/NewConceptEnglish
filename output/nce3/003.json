@@ -1,0 +1,186 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 7100.000000000001,
+      "text": "Lesson 3, An Unknown Goddess.",
+      "translation": "第三课，一个未知的女神。",
+      "isHeader": false
+    },
+    {
+      "startTime": 7100.000000000001,
+      "endTime": 12540.000000000002,
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": "听录音，然后回答下面的问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 12540.000000000002,
+      "endTime": 20820.0,
+      "text": "How did the archaeologists know that the statue was a goddess?",
+      "translation": "考古学家是如何知道这尊雕像是女神的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20820.0,
+      "endTime": 26540.0,
+      "text": "Some time ago, an interesting discovery was made by archaeologists on the Aegean island",
+      "translation": "不久前，考古学家在爱琴海的一个岛屿上做出了一个有趣的发现。",
+      "isHeader": false
+    },
+    {
+      "startTime": 26540.0,
+      "endTime": 28780.0,
+      "text": "of Kia.",
+      "translation": "起亚的",
+      "isHeader": false
+    },
+    {
+      "startTime": 28780.0,
+      "endTime": 35620.00000000001,
+      "text": "An American team explored a temple which stands in an ancient city on the promontory of Ia",
+      "translation": "一个美国团队探索了位于伊亚海角上的一个古城中的寺庙。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35620.00000000001,
+      "endTime": 38360.0,
+      "text": "Arena.",
+      "translation": "竞技场。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38360.0,
+      "endTime": 45140.0,
+      "text": "The city at one time must have been prosperous, for it enjoyed a high level of civilization.",
+      "translation": "这座城市一度必定是繁荣的，因为它享有高度的文明。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45140.0,
+      "endTime": 51900.00000000001,
+      "text": "Houses, often three stories high, were built of stone.",
+      "translation": "房屋，通常为三层高，是用石头建造的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51900.00000000001,
+      "endTime": 57000.0,
+      "text": "They had large rooms with beautifully decorated walls.",
+      "translation": "他们有装饰精美的大房间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57000.0,
+      "endTime": 62240.0,
+      "text": "The city was even equipped with a drainage system, for a great many clay pipes were found",
+      "translation": "这座城市甚至配备了排水系统，因为发现了许多陶土管道",
+      "isHeader": false
+    },
+    {
+      "startTime": 62240.0,
+      "endTime": 66400.0,
+      "text": "beneath the narrow streets.",
+      "translation": "在狭窄的街道下面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66400.0,
+      "endTime": 72720.0,
+      "text": "The temple, which the archaeologists explored, was used as a place of worship from the 15th",
+      "translation": "这座考古学家探索的寺庙，从15世纪起就被用作礼拜场所。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72720.0,
+      "endTime": 77160.0,
+      "text": "century BC until Roman times.",
+      "translation": "公元前直到罗马时代。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77160.0,
+      "endTime": 84440.0,
+      "text": "In the most sacred room of the temple, clay fragments of 15 statues were found.",
+      "translation": "在寺庙最神圣的房间里，发现了15尊雕像的陶土碎片。",
+      "isHeader": false
+    },
+    {
+      "startTime": 84440.0,
+      "endTime": 91560.0,
+      "text": "Each of these represented a goddess and had at one time been painted.",
+      "translation": "这些每一个都代表了一个女神，并且曾经被画过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 91560.0,
+      "endTime": 98800.0,
+      "text": "The body of one statue was found among remains dating from the 15th century BC.",
+      "translation": "一尊雕像的主体在公元前15世纪的遗迹中被发现。",
+      "isHeader": false
+    },
+    {
+      "startTime": 98800.0,
+      "endTime": 105039.99999999999,
+      "text": "Its missing head happened to be among remains of the 5th century BC.",
+      "translation": "它缺失的头部碰巧是公元前5世纪的遗物之一。",
+      "isHeader": false
+    },
+    {
+      "startTime": 105039.99999999999,
+      "endTime": 111600.0,
+      "text": "This head must have been found in classical times and carefully preserved.",
+      "translation": "这颗头颅一定是在古典时期被发现并被精心保存下来的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 111600.0,
+      "endTime": 116240.0,
+      "text": "It was very old and precious even then.",
+      "translation": "它在那时就已经非常古老和珍贵了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 116240.0,
+      "endTime": 121800.0,
+      "text": "When the archaeologists reconstructed the fragments, they were amazed to find that the",
+      "translation": "当考古学家们重建这些碎片时，他们惊讶地发现",
+      "isHeader": false
+    },
+    {
+      "startTime": 121800.0,
+      "endTime": 126979.99999999999,
+      "text": "goddess turned out to be a very modern looking woman.",
+      "translation": "女神结果是一位看起来非常现代的女性。",
+      "isHeader": false
+    },
+    {
+      "startTime": 126979.99999999999,
+      "endTime": 132240.0,
+      "text": "She stood three feet high and her hands rested on her hips.",
+      "translation": "她身高三英尺，双手叉腰。",
+      "isHeader": false
+    },
+    {
+      "startTime": 132240.0,
+      "endTime": 137840.0,
+      "text": "She was wearing a full length skirt which swept the ground.",
+      "translation": "她穿着一条扫地的长裙。",
+      "isHeader": false
+    },
+    {
+      "startTime": 137840.0,
+      "endTime": 141880.0,
+      "text": "To her great age, she was very graceful indeed.",
+      "translation": "尽管她年纪很大，但她确实非常优雅。",
+      "isHeader": false
+    },
+    {
+      "startTime": 141880.0,
+      "endTime": 146640.00000000003,
+      "text": "But so far, the archaeologists have been unable to discover her identity.",
+      "translation": "但到目前为止，考古学家们一直无法发现她的身份。",
+      "isHeader": false
+    }
+  ]
+}

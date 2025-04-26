@@ -1,0 +1,123 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 15000.0,
+      "text": "Lesson 25. Do the English speak English?",
+      "translation": "第25课。英国人说英语吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 20000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 28000.0,
+      "text": "Why does the writer not understand the porter?",
+      "translation": "为什么作者不理解搬运工？",
+      "isHeader": true
+    },
+    {
+      "startTime": 28000.0,
+      "endTime": 37000.0,
+      "text": "I arrived in London at last. The railway station was big, black and dark.",
+      "translation": "我终于到达了伦敦。火车站很大，又黑又暗。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37000.0,
+      "endTime": 44000.0,
+      "text": "I did not know the way to my hotel, so I asked the porter.",
+      "translation": "我不知道去酒店的路，所以我问了门童。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44000.0,
+      "endTime": 52000.0,
+      "text": "I not only spoke English very carefully, but very clearly as well.",
+      "translation": "我不仅非常谨慎地说英语，而且说得非常清楚。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52000.0,
+      "endTime": 57000.0,
+      "text": "The porter, however, could not understand me.",
+      "translation": "然而，搬运工听不懂我的话。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57000.0,
+      "endTime": 65000.0,
+      "text": "I repeated my question several times, and at last he understood.",
+      "translation": "我重复了我的问题好几次，最后他终于明白了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 72000.0,
+      "text": "He answered me, but he spoke neither slowly nor clearly.",
+      "translation": "他回答了我，但他说话既不慢也不清楚。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72000.0,
+      "endTime": 83000.0,
+      "text": "I am a foreigner, I said. Then he spoke slowly, but I could not understand him.",
+      "translation": "我是一个外国人，我说道。然后他慢慢地说，但我听不懂他的话。",
+      "isHeader": false
+    },
+    {
+      "startTime": 83000.0,
+      "endTime": 87000.0,
+      "text": "My teacher never spoke English like that.",
+      "translation": "我的老师从来不那样说英语。",
+      "isHeader": false
+    },
+    {
+      "startTime": 87000.0,
+      "endTime": 93000.0,
+      "text": "The porter and I looked at each other and smiled.",
+      "translation": "搬运工和我相视一笑。",
+      "isHeader": false
+    },
+    {
+      "startTime": 93000.0,
+      "endTime": 97000.0,
+      "text": "Then he said something, and I understood it.",
+      "translation": "然后他说了些什么，我明白了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 97000.0,
+      "endTime": 103000.0,
+      "text": "You'll soon learn English, he said.",
+      "translation": "你很快就能学会英语，他说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 103000.0,
+      "endTime": 109000.0,
+      "text": "I wonder. In England, each person speaks a different language.",
+      "translation": "我在想。在英国，每个人都说不同的语言。",
+      "isHeader": false
+    },
+    {
+      "startTime": 109000.0,
+      "endTime": 114000.0,
+      "text": "The English understand each other, but I don't understand them.",
+      "translation": "英国人彼此理解，但我不理解他们。",
+      "isHeader": false
+    },
+    {
+      "startTime": 114000.0,
+      "endTime": 117000.0,
+      "text": "Do they speak English?",
+      "translation": "他们说英语吗？",
+      "isHeader": false
+    }
+  ]
+}

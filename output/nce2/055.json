@@ -1,0 +1,81 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 15000.0,
+      "text": "Lesson 55. Not a gold mine. First listen and then answer the question. What did the team",
+      "translation": "第55课。不是金矿。首先听，然后回答问题。这个团队做了什么",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 24920.0,
+      "text": "find? Dreams of finding lost treasure almost came true recently. A new machine called the",
+      "translation": "找到？寻找失落宝藏的梦想几乎在最近变成了现实。一种叫做",
+      "isHeader": true
+    },
+    {
+      "startTime": 24920.0,
+      "endTime": 32240.000000000004,
+      "text": "revealer has been invented and it has been used to detect gold which has been buried in the ground.",
+      "translation": "揭示者已经被发明出来，并且被用来探测埋藏在地下的黄金。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32240.000000000004,
+      "endTime": 41560.0,
+      "text": "The machine was used in a cave near the seashore where, it is said, pirates used to hide gold.",
+      "translation": "这台机器被用在海边的一个洞穴里，据说，海盗过去常常在那里藏金子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 41560.0,
+      "endTime": 51200.0,
+      "text": "The pirates would often bury gold in the cave and then fail to collect it. Armed with the new",
+      "translation": "海盗们经常将黄金埋藏在洞穴中，然后忘记取回。有了这个新的",
+      "isHeader": false
+    },
+    {
+      "startTime": 51200.0,
+      "endTime": 60200.0,
+      "text": "machine, a search party went into the cave hoping to find buried treasure. The leader of the party",
+      "translation": "机器，一支搜索队进入了洞穴，希望找到埋藏的宝藏。队伍的领导者",
+      "isHeader": false
+    },
+    {
+      "startTime": 60200.0,
+      "endTime": 66680.0,
+      "text": "was examining the soil near the entrance to the cave when the machine showed that there was gold",
+      "translation": "在检查洞穴入口附近的土壤时，机器显示那里有金子",
+      "isHeader": false
+    },
+    {
+      "startTime": 66680.0,
+      "endTime": 77160.0,
+      "text": "under the ground. Very excited, the party dug a hole two feet deep. They finally found a small",
+      "translation": "在地下。非常兴奋，派对挖了一个两英尺深的洞。他们最终发现了一个很小的",
+      "isHeader": false
+    },
+    {
+      "startTime": 77160.0,
+      "endTime": 85679.99999999999,
+      "text": "gold coin which was almost worthless. The party then searched the whole cave thoroughly but did",
+      "translation": "一枚几乎毫无价值的金币。然后，他们彻底搜查了整个洞穴，但并没有",
+      "isHeader": false
+    },
+    {
+      "startTime": 85679.99999999999,
+      "endTime": 92759.99999999999,
+      "text": "not find anything except an empty tin trunk. In spite of this, many people are confident that",
+      "translation": "除了一个空的锡皮箱之外，什么也没找到。尽管如此，许多人仍然相信",
+      "isHeader": false
+    },
+    {
+      "startTime": 92759.99999999999,
+      "endTime": 97640.0,
+      "text": "the revealer may reveal something of value fairly soon.",
+      "translation": "揭示者可能很快就会揭示一些有价值的东西。",
+      "isHeader": false
+    }
+  ]
+}

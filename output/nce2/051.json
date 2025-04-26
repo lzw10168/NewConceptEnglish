@@ -1,0 +1,123 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9040.000000000002,
+      "text": "Lesson 51, Reward for Virtue.",
+      "translation": "第51课，美德的回报。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9040.000000000002,
+      "endTime": 15720.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15720.0,
+      "endTime": 21440.0,
+      "text": "Why did Hugh's diet not work?",
+      "translation": "为什么休的节食计划没有奏效？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21440.0,
+      "endTime": 29800.0,
+      "text": "My friend Hugh has always been fat, but things got so bad recently that he decided to go",
+      "translation": "我的朋友休一直都很胖，但最近情况变得如此糟糕，以至于他决定去",
+      "isHeader": false
+    },
+    {
+      "startTime": 29800.0,
+      "endTime": 32119.999999999996,
+      "text": "on a diet.",
+      "translation": "在节食。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32119.999999999996,
+      "endTime": 34800.0,
+      "text": "He began his diet a week ago.",
+      "translation": "他一周前开始了他的饮食。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34800.0,
+      "endTime": 42600.0,
+      "text": "First of all, he wrote out a long list of all the foods which were forbidden.",
+      "translation": "首先，他列出了所有被禁止的食物的长清单。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42600.0,
+      "endTime": 46440.0,
+      "text": "The list included most of the things Hugh loves.",
+      "translation": "这个清单包括了休喜欢的大部分东西。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46440.0,
+      "endTime": 54480.00000000001,
+      "text": "Butter, potatoes, rice, beer, milk, chocolate, and sweets.",
+      "translation": "黄油，土豆，大米，啤酒，牛奶，巧克力和糖果。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54480.00000000001,
+      "endTime": 57720.0,
+      "text": "Yesterday I paid him a visit.",
+      "translation": "昨天我拜访了他。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57720.0,
+      "endTime": 65360.0,
+      "text": "I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "translation": "我按了门铃，看到休还是和以前一样胖，我并不感到惊讶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65360.0,
+      "endTime": 72560.0,
+      "text": "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "translation": "他带我进了他的房间，急忙把一个大包裹藏在了他的桌子下面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72560.0,
+      "endTime": 76800.0,
+      "text": "It was obvious that he was very embarrassed.",
+      "translation": "很明显，他非常尴尬。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76800.0,
+      "endTime": 85240.0,
+      "text": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "translation": "当我问他在做什么时，他内疚地笑了笑，然后把包裹放在了桌子上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85240.0,
+      "endTime": 92880.0,
+      "text": "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "translation": "他解释说，他的饮食控制得如此严格，以至于他不得不偶尔奖励自己一下。",
+      "isHeader": false
+    },
+    {
+      "startTime": 92880.0,
+      "endTime": 96600.0,
+      "text": "Then he showed me the contents of the parcel.",
+      "translation": "然后他给我看了包裹里的内容。",
+      "isHeader": false
+    },
+    {
+      "startTime": 96600.0,
+      "endTime": 105199.99999999999,
+      "text": "It contained five large bars of chocolate and three bags of sweets.",
+      "translation": "它包含五块大巧克力和三袋糖果。",
+      "isHeader": false
+    }
+  ]
+}

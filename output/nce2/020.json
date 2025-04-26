@@ -1,0 +1,116 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 11000.0,
+      "text": "Lesson 20. One man in a boat.",
+      "translation": "第20课。一人在船上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11000.0,
+      "endTime": 18000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 18000.0,
+      "endTime": 26000.0,
+      "text": "Why is fishing the writer's favorite sport?",
+      "translation": "为什么钓鱼是作者最喜欢的运动？",
+      "isHeader": true
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 30000.0,
+      "text": "Fishing is my favorite sport.",
+      "translation": "钓鱼是我最喜欢的运动。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 35000.0,
+      "text": "I often fish for hours without catching anything.",
+      "translation": "我经常钓鱼好几个小时却什么也没钓到。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 39000.0,
+      "text": "But this does not worry me.",
+      "translation": "但这并不让我担心。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 42000.0,
+      "text": "Some fishermen are unlucky.",
+      "translation": "一些渔民运气不佳。",
+      "isHeader": false
+    },
+    {
+      "startTime": 42000.0,
+      "endTime": 48000.0,
+      "text": "Instead of catching fish, they catch old boots and rubbish.",
+      "translation": "他们没有捕鱼，反而捕获了旧靴子和垃圾。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 51000.0,
+      "text": "I am even less lucky.",
+      "translation": "我的运气甚至更差。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51000.0,
+      "endTime": 55000.0,
+      "text": "I never catch anything, not even old boots.",
+      "translation": "我什么也捉不到，连旧靴子也捉不到。",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 64000.0,
+      "text": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "translation": "在河上度过了整个上午之后，我总是空着手回家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64000.0,
+      "endTime": 69000.0,
+      "text": "You must give up fishing, my friends say.",
+      "translation": "你必须放弃钓鱼，我的朋友们说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 72000.0,
+      "text": "It's a waste of time.",
+      "translation": "这是浪费时间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72000.0,
+      "endTime": 77000.0,
+      "text": "But they don't realize one important thing.",
+      "translation": "但他们没有意识到一件重要的事情。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77000.0,
+      "endTime": 81000.0,
+      "text": "I'm not really interested in fishing.",
+      "translation": "我其实对钓鱼没什么兴趣。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81000.0,
+      "endTime": 87000.0,
+      "text": "I am only interested in sitting in a boat and doing nothing at all.",
+      "translation": "我只是对坐在船上什么都不做感兴趣。",
+      "isHeader": false
+    }
+  ]
+}

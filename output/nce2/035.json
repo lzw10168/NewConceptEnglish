@@ -1,0 +1,102 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9000.0,
+      "text": "Lesson 35. Stop thief!",
+      "translation": "第35课。捉贼！",
+      "isHeader": false
+    },
+    {
+      "startTime": 9000.0,
+      "endTime": 15000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 20000.0,
+      "text": "How did Roy stop the thieves?",
+      "translation": "罗伊是如何阻止那些小偷的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 25000.0,
+      "text": "Roy Trenton used to drive a taxi.",
+      "translation": "罗伊·特伦顿过去常常开出租车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 33000.0,
+      "text": "A short while ago, however, he became a bus driver and he has not regretted it.",
+      "translation": "不久前，然而，他成为了一名公交车司机，他并没有为此感到后悔。",
+      "isHeader": false
+    },
+    {
+      "startTime": 33000.0,
+      "endTime": 39000.0,
+      "text": "He is finding his new work far more exciting.",
+      "translation": "他发现他的新工作要有趣得多。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 51000.0,
+      "text": "When he was driving along Catford Street recently, he saw two thieves rush out of the shop and run towards a waiting car.",
+      "translation": "最近当他驾车沿着卡特福德街行驶时，他看到两个小偷从商店里冲出来，跑向一辆等待的汽车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 51000.0,
+      "endTime": 56000.0,
+      "text": "One of them was carrying a bag full of money.",
+      "translation": "他们中的一个正提着一个装满钱的袋子。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56000.0,
+      "endTime": 62000.0,
+      "text": "Roy acted quickly and drove the bus straight at the thieves.",
+      "translation": "罗伊迅速行动，驾车直冲向小偷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 68000.0,
+      "text": "The one with the money got such a fright that he dropped the bag.",
+      "translation": "拿着钱的那个人吓得把包都掉了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68000.0,
+      "endTime": 77000.0,
+      "text": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+      "translation": "当小偷们试图坐他们的车逃跑时，罗伊开着他的公交车撞到了它的后部。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77000.0,
+      "endTime": 86000.0,
+      "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+      "translation": "当那辆破旧的汽车开走时，罗伊停下了他的公共汽车并给警察打了电话。",
+      "isHeader": false
+    },
+    {
+      "startTime": 86000.0,
+      "endTime": 92000.0,
+      "text": "The thieves' car was badly damaged and easy to recognize.",
+      "translation": "小偷的车严重损坏，很容易被认出来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 92000.0,
+      "endTime": 100000.0,
+      "text": "Shortly afterwards, the police stopped the car and those men were arrested.",
+      "translation": "不久之后，警察拦下了那辆车，那些人被逮捕了。",
+      "isHeader": false
+    }
+  ]
+}

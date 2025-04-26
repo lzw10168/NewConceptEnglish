@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 18000.0,
+      "text": "Lesson 85 Never too old to learn. First listen and then answer the question.",
+      "translation": "第85课 活到老，学到老。先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 18000.0,
+      "endTime": 26320.0,
+      "text": "How long has Mr. Page been teaching? I have just received a letter from my old",
+      "translation": "帕奇先生教书多久了？我刚刚收到了一封来自我的老",
+      "isHeader": true
+    },
+    {
+      "startTime": 26320.0,
+      "endTime": 34640.0,
+      "text": "school informing me that my former headmaster, Mr. Stewart Page, will be retiring next week.",
+      "translation": "学校通知我，我的前校长，斯图尔特·佩奇先生，将于下周退休。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36800.0,
+      "endTime": 42720.0,
+      "text": "Pupils of the school, old and new, will be sending him a present to mark the occasion.",
+      "translation": "学校的学生，无论新老，都将送给他一份礼物以纪念这个场合。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44240.0,
+      "endTime": 50400.00000000001,
+      "text": "All those who have contributed towards the gift will sign their names in a large album which will",
+      "translation": "所有为这份礼物做出贡献的人都会在一个大型纪念册上签名，这个纪念册将",
+      "isHeader": false
+    },
+    {
+      "startTime": 50400.0,
+      "endTime": 58320.0,
+      "text": "be sent to the headmaster's home. We shall all remember Mr. Page for his patience and understanding",
+      "translation": "被送到校长的家里。我们都会记住佩奇先生的耐心和理解。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58879.99999999999,
+      "endTime": 64160.0,
+      "text": "and for the kindly encouragement he gave us when we went so unwillingly to school.",
+      "translation": "以及在我们极不情愿地去学校时，他给予我们的亲切鼓励。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65600.0,
+      "endTime": 71360.0,
+      "text": "A great many former pupils will be attending a farewell dinner in his honor next Thursday.",
+      "translation": "许多以前的学生将在下周四参加为他举行的告别宴会。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73120.0,
+      "endTime": 80160.0,
+      "text": "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching",
+      "translation": "这是一个奇怪的巧合，帕奇先生在退休前一天还在教书",
+      "isHeader": false
+    },
+    {
+      "startTime": 80160.0,
+      "endTime": 89360.0,
+      "text": "for a total of 40 years. After he has retired, he will devote himself to gardening. For him,",
+      "translation": "总共40年。退休后，他将投身于园艺工作。对他来说，",
+      "isHeader": false
+    },
+    {
+      "startTime": 89360.0,
+      "endTime": 97440.0,
+      "text": "this will be an entirely new hobby. But this does not matter, for as he has often remarked,",
+      "translation": "这将是一个全新的爱好。但这并不重要，正如他经常提到的，",
+      "isHeader": false
+    },
+    {
+      "startTime": 98160.0,
+      "endTime": 103440.0,
+      "text": "one is never too old to learn.",
+      "translation": "活到老，学到老。",
+      "isHeader": false
+    }
+  ]
+}

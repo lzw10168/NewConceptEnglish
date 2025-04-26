@@ -2,135 +2,58 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 5520.000000000001,
-      "text": "Lesson 1 A Private Conversation",
-      "translation": "第一课 私人谈话",
+      "endTime": 15320.0,
+      "text": "Lesson 1. A private conversation. First listen and then answer the question.",
+      "translation": "第一课。私人谈话。首先听，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 5520.000000000001,
-      "endTime": 12960.0,
-      "text": "First listen and then answer the question, Why did the writer complain to the people",
-      "translation": "首先听录音，然后回答问题，为什么作者向人们抱怨",
+      "startTime": 15320.0,
+      "endTime": 23200.0,
+      "text": "Why did the writer complain to the people behind him?",
+      "translation": "为什么作家要向他后面的人抱怨？",
+      "isHeader": true
+    },
+    {
+      "startTime": 23200.0,
+      "endTime": 32759.999999999996,
+      "text": "Last week I went to the theatre. I had a very good seat. The play was very interesting.",
+      "translation": "上周我去了剧院。我有一个非常好的座位。这出戏非常有趣。",
       "isHeader": false
     },
     {
-      "startTime": 12960.0,
-      "endTime": 16440.0,
-      "text": "behind him?",
-      "translation": "他后面？",
+      "startTime": 32759.999999999996,
+      "endTime": 41360.0,
+      "text": "I did not enjoy it. A young man and a young woman were sitting behind me. They were talking",
+      "translation": "我并不喜欢。一个年轻男子和一个年轻女子坐在我后面。他们在交谈。",
       "isHeader": false
     },
     {
-      "startTime": 16440.0,
-      "endTime": 19460.0,
-      "text": "Last week I went to the theater.",
-      "translation": "上周我去了剧院。",
+      "startTime": 41360.0,
+      "endTime": 51840.0,
+      "text": "loudly. I got very angry. I could not hear the actors. I turned round. I looked at the",
+      "translation": "人。我非常生气。我听不见演员的声音。我转过身。我看着那些",
       "isHeader": false
     },
     {
-      "startTime": 19460.0,
-      "endTime": 22280.0,
-      "text": "I had a very good seat.",
-      "translation": "我有一个非常好的座位。",
+      "startTime": 51840.0,
+      "endTime": 60840.0,
+      "text": "man and the woman angrily. They did not pay any attention. In the end I could not bear it.",
+      "translation": "男人和女人生气地交谈。他们没有注意到任何东西。最后我无法忍受了。",
       "isHeader": false
     },
     {
-      "startTime": 22280.0,
-      "endTime": 25160.0,
-      "text": "The play was very interesting.",
-      "translation": "这部戏剧非常有趣。",
+      "startTime": 60840.0,
+      "endTime": 69960.00000000001,
+      "text": "I turned round again. I can't hear a word, I said angrily. It's none of your business,",
+      "translation": "我再次转过身。我一个字也听不见，我生气地说。这不关你的事，",
       "isHeader": false
     },
     {
-      "startTime": 25160.0,
-      "endTime": 27520.0,
-      "text": "I did not enjoy it.",
-      "translation": "我并不喜欢它。",
-      "isHeader": false
-    },
-    {
-      "startTime": 27560.0,
-      "endTime": 32200.000000000004,
-      "text": "A young man and a young woman were sitting behind me.",
-      "translation": "一个年轻男子和一个年轻女子坐在我后面。",
-      "isHeader": false
-    },
-    {
-      "startTime": 32200.000000000004,
-      "endTime": 34680.0,
-      "text": "They were talking loudly.",
-      "translation": "他们正在大声说话。",
-      "isHeader": false
-    },
-    {
-      "startTime": 34680.0,
-      "endTime": 37519.99999999999,
-      "text": "I got very angry.",
-      "translation": "我非常生气。",
-      "isHeader": false
-    },
-    {
-      "startTime": 37519.99999999999,
-      "endTime": 40720.0,
-      "text": "I could not hear the actors.",
-      "translation": "我听不到演员们的声音。",
-      "isHeader": false
-    },
-    {
-      "startTime": 40720.0,
-      "endTime": 42920.0,
-      "text": "I turned round.",
-      "translation": "我转过身。",
-      "isHeader": false
-    },
-    {
-      "startTime": 42920.0,
-      "endTime": 47480.00000000001,
-      "text": "I looked at the man and the woman angrily.",
-      "translation": "我愤怒地看着那个男人和女人。",
-      "isHeader": false
-    },
-    {
-      "startTime": 47480.00000000001,
-      "endTime": 50920.0,
-      "text": "They did not pay any attention.",
-      "translation": "他们没有注意。",
-      "isHeader": false
-    },
-    {
-      "startTime": 50920.0,
-      "endTime": 55080.0,
-      "text": "In the end, I could not bear it.",
-      "translation": "最终，我无法忍受。",
-      "isHeader": false
-    },
-    {
-      "startTime": 55080.0,
-      "endTime": 57559.99999999999,
-      "text": "I turned round again.",
-      "translation": "我再次转过身来。",
-      "isHeader": false
-    },
-    {
-      "startTime": 57559.99999999999,
-      "endTime": 60960.0,
-      "text": "I can't hear a word.",
-      "translation": "我一个字也听不见。",
-      "isHeader": false
-    },
-    {
-      "startTime": 60960.0,
-      "endTime": 66520.0,
-      "text": "I said angrily, It's none of your business.",
-      "translation": "我生气地说，这不关你的事。",
-      "isHeader": false
-    },
-    {
-      "startTime": 66520.0,
-      "endTime": 71880.0,
-      "text": "The young man said rudely, This is a private conversation.",
-      "translation": "年轻人粗鲁地说：“这是私人谈话。”",
+      "startTime": 69960.00000000001,
+      "endTime": 75360.0,
+      "text": "the young man said rudely. This is a private conversation.",
+      "translation": "年轻人粗鲁地说。这是私人谈话。",
       "isHeader": false
     }
   ]

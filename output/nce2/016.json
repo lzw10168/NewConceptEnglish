@@ -2,93 +2,65 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 5520.000000000001,
-      "text": "Lesson 23 A New House",
-      "translation": "第23课 新房子",
+      "endTime": 17360.0,
+      "text": "Lesson 16. A polite request. First listen and then answer the question.",
+      "translation": "第16课。一个礼貌的请求。首先听，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 5520.000000000001,
-      "endTime": 15360.0,
-      "text": "First listen and then answer the question, Why is the new house special?",
-      "translation": "首先听录音，然后回答问题，为什么这座新房子很特别？",
+      "startTime": 17360.0,
+      "endTime": 26680.0,
+      "text": "What was the polite request? If you park your car in the wrong place,",
+      "translation": "礼貌的请求是什么？如果你把车停在错误的地方，",
+      "isHeader": true
+    },
+    {
+      "startTime": 26680.0,
+      "endTime": 35680.0,
+      "text": "a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket.",
+      "translation": "一个交通警察很快就会发现的。如果他不给你开罚单就放你走，你会非常幸运。",
       "isHeader": false
     },
     {
-      "startTime": 15360.0,
-      "endTime": 19500.0,
-      "text": "I had a letter from my sister yesterday.",
-      "translation": "我昨天收到了我妹妹的一封信。",
+      "startTime": 35680.0,
+      "endTime": 45600.0,
+      "text": "However, this does not always happen. Traffic police are sometimes very polite.",
+      "translation": "然而，情况并不总是这样。交通警察有时非常有礼貌。",
       "isHeader": false
     },
     {
-      "startTime": 19500.0,
-      "endTime": 22460.0,
-      "text": "She lives in Nigeria.",
-      "translation": "她住在尼日利亚。",
+      "startTime": 45600.0,
+      "endTime": 52879.99999999999,
+      "text": "During a holiday in Sweden, I found this note on my car.",
+      "translation": "在瑞典度假期间，我在车上发现了这张便条。",
       "isHeader": false
     },
     {
-      "startTime": 22460.0,
-      "endTime": 28580.000000000004,
-      "text": "In her letter, she said that she would come to England next year.",
-      "translation": "在她的信中，她说她明年会来英国。",
+      "startTime": 52880.0,
+      "endTime": 63600.0,
+      "text": "Sir, we welcome you to our city. This is a no parking area.",
+      "translation": "先生，欢迎您来到我们的城市。这里是禁停区。",
       "isHeader": false
     },
     {
-      "startTime": 28580.0,
-      "endTime": 32780.0,
-      "text": "If she comes, she will get a surprise.",
-      "translation": "如果她来了，她会大吃一惊。",
+      "startTime": 63600.0,
+      "endTime": 70320.00000000001,
+      "text": "You will enjoy your stay here if you pay attention to our street signs.",
+      "translation": "如果你注意我们的路标，你会喜欢在这里逗留的。",
       "isHeader": false
     },
     {
-      "startTime": 32780.0,
-      "endTime": 38180.0,
-      "text": "We are now living in a beautiful new house in the country.",
-      "translation": "我们现在住在乡下的一栋漂亮的新房子里。",
+      "startTime": 70320.00000000001,
+      "endTime": 79000.0,
+      "text": "This note is only a reminder. If you receive a request like this,",
+      "translation": "这张便条只是一个提醒。如果你收到像这样的请求，",
       "isHeader": false
     },
     {
-      "startTime": 38180.0,
-      "endTime": 42780.0,
-      "text": "Work on it had begun before my sister left.",
-      "translation": "在我姐姐离开之前，已经开始了这项工作。",
-      "isHeader": false
-    },
-    {
-      "startTime": 42780.0,
-      "endTime": 46700.0,
-      "text": "The house was completed five months ago.",
-      "translation": "这所房子五个月前就完工了。",
-      "isHeader": false
-    },
-    {
-      "startTime": 46700.0,
-      "endTime": 51700.0,
-      "text": "In my letter, I told her that she could stay with us.",
-      "translation": "在我的信中，我告诉她她可以和我们待在一起。",
-      "isHeader": false
-    },
-    {
-      "startTime": 51700.0,
-      "endTime": 57540.0,
-      "text": "The house has many large rooms and there is a lovely garden.",
-      "translation": "这座房子有很多大房间，还有一个可爱的花园。",
-      "isHeader": false
-    },
-    {
-      "startTime": 57540.0,
-      "endTime": 63860.0,
-      "text": "It is a very modern house, so it looks strange to some people.",
-      "translation": "这是一座非常现代的房子，所以对一些人来说看起来很奇怪。",
-      "isHeader": false
-    },
-    {
-      "startTime": 63860.0,
-      "endTime": 67860.0,
-      "text": "It must be the only modern house in the district.",
-      "translation": "这一定是这个地区唯一的现代房屋。",
+      "startTime": 79000.0,
+      "endTime": 81920.0,
+      "text": "you cannot fail to obey it.",
+      "translation": "你不能不服从它。",
       "isHeader": false
     }
   ]

@@ -1,0 +1,144 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8000.0,
+      "text": "Lesson 53 Hot Snake",
+      "translation": "第53课 热蛇",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question. What caused the fire?",
+      "translation": "首先听录音，然后回答问题。是什么引起了火灾？",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 24000.0,
+      "text": "At last, firemen have put out a big forest fire in California.",
+      "translation": "最后，消防员扑灭了加利福尼亚的一场大森林火灾。",
+      "isHeader": true
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 30000.0,
+      "text": "Since then, they have been trying to find out how the fire began.",
+      "translation": "从那时起，他们一直在试图找出火灾是如何开始的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 39000.0,
+      "text": "Forest fires are often caused by broken glass or by cigarette ends, which people carelessly throw away.",
+      "translation": "森林火灾通常是由于破碎的玻璃或人们随手扔掉的烟头引起的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 47000.0,
+      "text": "Yesterday, the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "translation": "昨天，消防员仔细检查了地面，但没有发现任何碎玻璃。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 53000.0,
+      "text": "They were also quite sure that a cigarette end did not start the fire.",
+      "translation": "他们也非常确定，烟头并不是引发火灾的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 59000.0,
+      "text": "This morning, however, a fireman accidentally discovered the cause.",
+      "translation": "然而今天早上，一位消防员意外地发现了原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59000.0,
+      "endTime": 69000.0,
+      "text": "He noticed the remains of a snake which was wound around the electric wires of a 16,000 volt power line.",
+      "translation": "他注意到一条蛇的残骸，它缠绕在一条16000伏特的电力线上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 73000.0,
+      "text": "In this way, he was able to solve the mystery.",
+      "translation": "通过这种方式，他能够解开这个谜团。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73000.0,
+      "endTime": 79000.0,
+      "text": "The explanation was simple, but very unusual.",
+      "translation": "解释很简单，但是非常不寻常。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 86000.0,
+      "text": "A bird had snatched up the snake from the ground and then dropped it onto the wires.",
+      "translation": "一只鸟从地面上抓起蛇，然后把它扔到了电线上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 86000.0,
+      "endTime": 90000.0,
+      "text": "The snake then wound itself around the wires.",
+      "translation": "然后蛇缠绕在了电线上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 90000.0,
+      "endTime": 99000.0,
+      "text": "When it did so, it sent sparks down to the ground, and these immediately started a fire.",
+      "translation": "当它这样做时，它向地面发送了火花，这些火花立即引发了一场火灾。",
+      "isHeader": false
+    },
+    {
+      "startTime": 103000.0,
+      "endTime": 107000.0,
+      "text": "The fire was not the cause of the fire.",
+      "translation": "火灾并非火灾的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 107000.0,
+      "endTime": 111000.0,
+      "text": "The fire was the cause of the fire.",
+      "translation": "火灾是火灾的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 111000.0,
+      "endTime": 115000.0,
+      "text": "The fire was the cause of the fire.",
+      "translation": "火灾是火灾的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 115000.0,
+      "endTime": 119000.0,
+      "text": "The fire was the cause of the fire.",
+      "translation": "火灾是火灾的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 119000.0,
+      "endTime": 123000.0,
+      "text": "The fire was the cause of the fire.",
+      "translation": "火灾是火灾的原因。",
+      "isHeader": false
+    },
+    {
+      "startTime": 123000.0,
+      "endTime": 127000.0,
+      "text": "The fire was the cause of the fire.",
+      "translation": "火灾是火灾的原因。",
+      "isHeader": false
+    }
+  ]
+}

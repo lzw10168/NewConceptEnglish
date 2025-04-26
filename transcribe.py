@@ -119,8 +119,8 @@ def transcribe_audio(audio_path, output_path=None, format="txt"):
 # 使用示例
 if __name__ == "__main__":
     # 指定输入和输出目录
-    input_dir = "./audio/nce2"
-    output_dir = "./output/nce2"  # 新建一个输出目录
+    input_dir = "./audio/nce3"
+    output_dir = "./output/nce3"  # 新建一个输出目录
     
     # 确保输出目录存在
     os.makedirs(output_dir, exist_ok=True)

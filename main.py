@@ -308,7 +308,7 @@ def scan_directory(directory_path):
 
 if __name__ == "__main__":
     # 使用你提供的目录路径
-    directory = "/Users/Apple/Desktop/web/wasp-learning-english/app/public/audio/nce2"
+    directory = "/Users/Apple/Desktop/python/newConcept/audio/nce2"
     
     # 首先检查目录是否存在
     if not os.path.exists(directory):

@@ -2,86 +2,86 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 5920.0,
-      "text": "Lesson 16 A Polite Request",
-      "translation": "第16课 礼貌的请求",
+      "endTime": 11000.0,
+      "text": "Lesson 8. The Best and the Worst",
+      "translation": "第8课 最好的和最差的",
       "isHeader": false
     },
     {
-      "startTime": 5920.0,
-      "endTime": 14840.0,
-      "text": "First listen and then answer the question, What was the polite request?",
-      "translation": "首先听录音，然后回答问题，礼貌的请求是什么？",
+      "startTime": 11000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 14840.0,
-      "endTime": 21840.0,
-      "text": "If you park your car in the wrong place, a traffic policeman will soon find it.",
-      "translation": "如果你把车停在错误的地方，交通警察很快就会发现。",
+      "startTime": 16000.0,
+      "endTime": 24000.0,
+      "text": "Why is Joe's garden the most beautiful one in the town?",
+      "translation": "为什么乔的花园是镇上最美丽的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 29000.0,
+      "text": "Joe Sanders has the most beautiful garden in our town.",
+      "translation": "乔·桑德斯拥有我们镇上最美丽的花园。",
       "isHeader": false
     },
     {
-      "startTime": 21840.0,
-      "endTime": 27080.000000000004,
-      "text": "You will be very lucky if he lets you go without a ticket.",
-      "translation": "如果他不给你开罚单就放你走，那你真的很幸运。",
+      "startTime": 29000.0,
+      "endTime": 39000.0,
+      "text": "Nearly everybody enters for the nicest garden competition each year, but Joe wins every time.",
+      "translation": "几乎每个人都参加每年的最佳花园比赛，但乔每次都赢。",
       "isHeader": false
     },
     {
-      "startTime": 27080.0,
-      "endTime": 32000.0,
-      "text": "However, this does not always happen.",
-      "translation": "然而，这并不总是发生。",
+      "startTime": 39000.0,
+      "endTime": 44000.0,
+      "text": "Bill Frith's garden is larger than Joe's.",
+      "translation": "比尔·弗里斯的花园比乔的花园大。",
       "isHeader": false
     },
     {
-      "startTime": 32000.0,
-      "endTime": 36040.0,
-      "text": "Traffic police are sometimes very polite.",
-      "translation": "交通警察有时非常有礼貌。",
+      "startTime": 44000.0,
+      "endTime": 49000.0,
+      "text": "Bill works harder than Joe and grows more flowers and vegetables.",
+      "translation": "比尔比乔工作更努力，种植了更多的花卉和蔬菜。",
       "isHeader": false
     },
     {
-      "startTime": 36040.0,
-      "endTime": 42000.0,
-      "text": "During a holiday in Sweden, I found this note on my car.",
-      "translation": "在瑞典度假期间，我在车上发现了这张纸条。",
+      "startTime": 49000.0,
+      "endTime": 53000.0,
+      "text": "But Joe's garden is more interesting.",
+      "translation": "但乔的花园更有趣。",
       "isHeader": false
     },
     {
-      "startTime": 42000.0,
-      "endTime": 47040.0,
-      "text": "Sir, we welcome you to our city.",
-      "translation": "先生，我们欢迎您来到我们城市。",
+      "startTime": 53000.0,
+      "endTime": 59000.0,
+      "text": "He has made neat paths and has built a wooden bridge over a pool.",
+      "translation": "他修筑了整齐的小径，并在一个池塘上建造了一座木桥。",
       "isHeader": false
     },
     {
-      "startTime": 47040.0,
-      "endTime": 50060.0,
-      "text": "This is a no-parking area.",
-      "translation": "这是一个禁止停车区。",
+      "startTime": 59000.0,
+      "endTime": 65000.0,
+      "text": "I like gardens too, but I do not like hard work.",
+      "translation": "我也喜欢花园，但我不喜欢辛苦的工作。",
       "isHeader": false
     },
     {
-      "startTime": 50060.0,
-      "endTime": 56959.99999999999,
-      "text": "You will enjoy your stay here if you pay attention to our street signs.",
-      "translation": "如果你注意我们的路标，你会喜欢在这里逗留的。",
+      "startTime": 65000.0,
+      "endTime": 70000.0,
+      "text": "Every year I enter for the garden competition too.",
+      "translation": "每年我也参加园艺比赛。",
       "isHeader": false
     },
     {
-      "startTime": 56960.0,
-      "endTime": 59880.0,
-      "text": "This note is only a reminder.",
-      "translation": "这张便条只是一个提醒。",
-      "isHeader": false
-    },
-    {
-      "startTime": 59880.0,
-      "endTime": 66880.0,
-      "text": "If you receive a request like this, you cannot fail to obey it.",
-      "translation": "如果你收到这样的请求，你不能不服从。",
+      "startTime": 70000.0,
+      "endTime": 76000.0,
+      "text": "And I always win a little prize for the worst garden in the town.",
+      "translation": "我总是赢得镇上最差花园的小小奖项。",
       "isHeader": false
     }
   ]

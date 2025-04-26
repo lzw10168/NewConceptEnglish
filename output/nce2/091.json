@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 16000.0,
+      "text": "Lesson 91. Three men in a basket. First listen and then answer the question.",
+      "translation": "第91课。三个男人在篮子里。首先听，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 21000.0,
+      "text": "Where was the station's commanding officer?",
+      "translation": "站长在哪里？",
+      "isHeader": true
+    },
+    {
+      "startTime": 21000.0,
+      "endTime": 29000.0,
+      "text": "A pilot noticed a balloon which seemed to be making for a Royal Air Force station nearby.",
+      "translation": "一名飞行员注意到一个气球，看起来像是朝着附近的皇家空军基地飞去。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29000.0,
+      "endTime": 37000.0,
+      "text": "He informed the station at once, but no one there was able to explain the mystery.",
+      "translation": "他立即通知了车站，但那里没有人能够解释这个谜团。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37000.0,
+      "endTime": 47000.0,
+      "text": "The officer in the control tower was very angry when he heard the news because balloons can be a great danger to aircraft.",
+      "translation": "当控制塔中的官员听到这个消息时非常生气，因为气球对飞机来说可能是巨大的危险。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 56000.0,
+      "text": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+      "translation": "他说可能有人在监视这个站点，飞行员被命令跟踪那个奇怪的物体。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56000.0,
+      "endTime": 61000.0,
+      "text": "The pilot managed to circle the balloon for some time.",
+      "translation": "飞行员设法围绕气球盘旋了一段时间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61000.0,
+      "endTime": 71000.0,
+      "text": "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+      "translation": "他能辨认出在它下面的篮子里有三个人，其中一人正拿着一副双筒望远镜。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71000.0,
+      "endTime": 79000.0,
+      "text": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+      "translation": "当气球飞过车站时，飞行员看到其中一名男子正在拍照。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 87000.0,
+      "text": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "translation": "不久之后，气球开始下降，并在一个机场附近着陆。",
+      "isHeader": false
+    },
+    {
+      "startTime": 87000.0,
+      "endTime": 100000.0,
+      "text": "The police were calling, but they could not arrest anyone for the basket contained two members of parliament and the commanding officer of the station.",
+      "translation": "警察正在打电话，但他们不能逮捕任何人，因为篮子里有两个议会成员和车站的指挥官。",
+      "isHeader": false
+    },
+    {
+      "startTime": 100000.0,
+      "endTime": 110000.0,
+      "text": "As the commanding officer explained later, one half of the station did not know what the other half was doing.",
+      "translation": "正如指挥官后来解释的那样，车站的一半人不知道另一半人在做什么。",
+      "isHeader": false
+    }
+  ]
+}

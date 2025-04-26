@@ -2,79 +2,72 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 5560.000000000001,
-      "text": "LESSON 15 GOOD NEWS",
-      "translation": "第15课 好消息",
+      "endTime": 10000.0,
+      "text": "Lesson 7. Too late.",
+      "translation": "第7课。太迟了。",
       "isHeader": false
     },
     {
-      "startTime": 5560.000000000001,
-      "endTime": 14140.0,
-      "text": "First listen and then answer the question, What was the good news?",
-      "translation": "首先听录音，然后回答问题，好消息是什么？",
+      "startTime": 10000.0,
+      "endTime": 15000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先聆听，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 14140.0,
-      "endTime": 19320.0,
-      "text": "The secretary told me that Mr. Harmsworth would see me.",
-      "translation": "秘书告诉我哈姆斯沃斯先生会见我。",
+      "startTime": 15000.0,
+      "endTime": 22000.0,
+      "text": "Did the detectives save the diamonds?",
+      "translation": "侦探们救出了钻石吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 29000.0,
+      "text": "The plane was late and detectives were waiting at the airport all morning.",
+      "translation": "飞机晚点了，侦探们在机场等了一上午。",
       "isHeader": false
     },
     {
-      "startTime": 19320.0,
-      "endTime": 24540.0,
-      "text": "I felt very nervous when I went into his office.",
-      "translation": "我走进他的办公室时感到非常紧张。",
+      "startTime": 29000.0,
+      "endTime": 35000.0,
+      "text": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "translation": "他们正在期待从南非寄来的一个装有钻石的贵重包裹。",
       "isHeader": false
     },
     {
-      "startTime": 24540.0,
-      "endTime": 29280.0,
-      "text": "He did not look up from his desk when I entered.",
-      "translation": "我进去时，他没有从办公桌上抬起头来。",
+      "startTime": 35000.0,
+      "endTime": 44000.0,
+      "text": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+      "translation": "几小时前，有人告诉警方会有小偷试图偷走钻石。",
       "isHeader": false
     },
     {
-      "startTime": 29280.0,
-      "endTime": 35280.0,
-      "text": "After I had sat down, he said that business was very bad.",
-      "translation": "我坐下后，他说生意非常糟糕。",
+      "startTime": 44000.0,
+      "endTime": 55000.0,
+      "text": "When the plane arrived, some of the detectives were waiting inside the main building, while others were waiting on the airfield.",
+      "translation": "当飞机到达时，一些侦探在主楼内等候，而其他人则在机场等候。",
       "isHeader": false
     },
     {
-      "startTime": 35280.0,
-      "endTime": 41000.0,
-      "text": "He told me that the firm could not afford to pay such large salaries.",
-      "translation": "他告诉我，公司付不起这么高的工资。",
+      "startTime": 55000.0,
+      "endTime": 62000.0,
+      "text": "Two men took the parcel off the plane and carried it into the customs house.",
+      "translation": "两名男子将包裹从飞机上卸下，然后搬进了海关大楼。",
       "isHeader": false
     },
     {
-      "startTime": 41000.0,
-      "endTime": 45160.00000000001,
-      "text": "Twenty people had already left.",
-      "translation": "已经有二十个人离开了。",
+      "startTime": 62000.0,
+      "endTime": 70000.0,
+      "text": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "translation": "当两名侦探在门口守卫时，另外两名侦探打开了包裹。",
       "isHeader": false
     },
     {
-      "startTime": 45160.00000000001,
-      "endTime": 48120.00000000001,
-      "text": "I knew that my turn had come.",
-      "translation": "我知道轮到我了。",
-      "isHeader": false
-    },
-    {
-      "startTime": 48120.00000000001,
-      "endTime": 56560.0,
-      "text": "Mr. Harmsworth, I said in a weak voice, Don't interrupt, he said.",
-      "translation": "哈姆斯沃斯先生，我用微弱的声音说，他说道：“不要打断。”",
-      "isHeader": false
-    },
-    {
-      "startTime": 56560.0,
-      "endTime": 64560.0,
-      "text": "Then he smiled and told me I would receive an extra thousand pounds a year.",
-      "translation": "然后他笑了，告诉我每年会多给我一千英镑。",
+      "startTime": 70000.0,
+      "endTime": 78000.0,
+      "text": "To their surprise, the precious parcel was full of stones and sand.",
+      "translation": "令他们惊讶的是，这个珍贵的包裹里装满了石头和沙子。",
       "isHeader": false
     }
   ]

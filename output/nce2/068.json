@@ -1,0 +1,116 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9000.0,
+      "text": "Lesson 68 Persistent",
+      "translation": "第68课 坚持不懈",
+      "isHeader": false
+    },
+    {
+      "startTime": 9000.0,
+      "endTime": 14000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 22000.0,
+      "text": "Why did Elizabeth tell Nigel that she was going to the dentist?",
+      "translation": "伊丽莎白为什么要告诉奈杰尔她要去牙医那里？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 31000.0,
+      "text": "I crossed the street to avoid meeting him, but he saw me and came running towards me.",
+      "translation": "为了避免遇到他，我穿过马路，但他看到了我，向我跑来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 37000.0,
+      "text": "It was no use pretending that I had not seen him, so I waved to him.",
+      "translation": "假装没有看见他是没有用的，所以我向他挥手。",
+      "isHeader": false
+    },
+    {
+      "startTime": 37000.0,
+      "endTime": 45000.0,
+      "text": "I never enjoy meeting Nigel Dykes. He never has anything to do.",
+      "translation": "我从来都不喜欢见奈杰尔·戴克斯。他总是无所事事。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46000.0,
+      "endTime": 52000.0,
+      "text": "No matter how busy you are, he always insists on coming with you.",
+      "translation": "不管你有多忙，他总是坚持要和你一起去。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52000.0,
+      "endTime": 59000.0,
+      "text": "I had to think of a way of preventing him from following me around all morning.",
+      "translation": "我必须想个办法阻止他整个早上都跟着我。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59000.0,
+      "endTime": 65000.0,
+      "text": "Hello Nigel, I said. Fancy meeting you here.",
+      "translation": "你好，奈杰尔，我说。真巧在这里遇到你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 69000.0,
+      "text": "Hi Elizabeth, Nigel answered.",
+      "translation": "嗨，伊丽莎白，奈杰尔回答了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 75000.0,
+      "text": "I was just wondering how to spend the morning until I saw you.",
+      "translation": "我只是在想该如何度过上午，直到我看到了你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75000.0,
+      "endTime": 79000.0,
+      "text": "You're not busy doing anything, are you?",
+      "translation": "你没有在忙什么，对吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 85000.0,
+      "text": "No, not at all, I answered. I'm going to...",
+      "translation": "不，一点也不，我回答。我打算...",
+      "isHeader": false
+    },
+    {
+      "startTime": 85000.0,
+      "endTime": 93000.0,
+      "text": "Would you mind my coming with you? He asked before I had finished speaking.",
+      "translation": "你介意我和你一起去吗？我在说完之前他就问。",
+      "isHeader": false
+    },
+    {
+      "startTime": 93000.0,
+      "endTime": 99000.0,
+      "text": "Not at all, I lied. But I'm going to the dentist.",
+      "translation": "一点也不，我撒谎了。但我要去牙医那里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 99000.0,
+      "endTime": 108000.0,
+      "text": "Then I'll come with you, he answered. There's always plenty to read in the waiting room.",
+      "translation": "“那我就和你一起去，”他回答说。“候诊室里总是有很多可读的东西。”",
+      "isHeader": false
+    }
+  ]
+}

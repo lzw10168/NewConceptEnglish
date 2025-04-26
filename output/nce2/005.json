@@ -2,100 +2,51 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 3000.0,
-      "text": "Lesson 13.",
-      "translation": "第13课",
+      "endTime": 20240.000000000004,
+      "text": "Lesson 5 No wrong numbers. First listen and then answer the question. What does no wrong",
+      "translation": "第5课 没有错误的数字。首先听录音，然后回答问题。没有错误是什么意思？",
       "isHeader": false
     },
     {
-      "startTime": 3000.0,
-      "endTime": 6040.0,
-      "text": "The Greenwood Boys.",
-      "translation": "绿林少年",
+      "startTime": 20240.0,
+      "endTime": 32960.0,
+      "text": "numbers mean? Mr. James Scott has a garage in Silbury and now he has just bought another",
+      "translation": "数字意味着什么？詹姆斯·斯科特先生在希尔伯里有一个车库，现在他又刚买了另一个。",
+      "isHeader": true
+    },
+    {
+      "startTime": 32960.0,
+      "endTime": 43320.0,
+      "text": "garage in Pinchurst. Pinchurst is only five miles from Silbury but Mr. Scott cannot get",
+      "translation": "平克赫斯特的车库。平克赫斯特距离希尔伯里只有五英里，但斯科特先生无法得到",
       "isHeader": false
     },
     {
-      "startTime": 6040.0,
-      "endTime": 15480.0,
-      "text": "First listen and then answer the question, Why will the police have a difficult time?",
-      "translation": "首先听录音，然后回答问题，为什么警察会有困难？",
+      "startTime": 43320.0,
+      "endTime": 53680.0,
+      "text": "a telephone for his new garage so he has just bought 12 pigeons. Yesterday a pigeon carried",
+      "translation": "一部电话给他的新车库，所以他刚刚买了12只鸽子。昨天一只鸽子携带着",
       "isHeader": false
     },
     {
-      "startTime": 15480.0,
-      "endTime": 19600.0,
-      "text": "The Greenwood Boys are a group of pop singers.",
-      "translation": "绿林少年是一个流行歌手组合。",
+      "startTime": 53680.0,
+      "endTime": 62240.0,
+      "text": "the first message from Pinchurst to Silbury. The bird covered the distance in three minutes. Up",
+      "translation": "来自品丘的第一条信息到希尔伯里。这只鸟用了三分钟覆盖了这段距离。向上",
       "isHeader": false
     },
     {
-      "startTime": 19600.0,
-      "endTime": 24680.0,
-      "text": "At present, they are visiting all parts of the country.",
-      "translation": "目前，他们正在访问国家的各个地区。",
+      "startTime": 62240.0,
+      "endTime": 70000.0,
+      "text": "to now Mr. Scott has sent a great many requests to spare parts and other urgent messages from",
+      "translation": "到现在为止，斯科特先生已经发送了许多关于备件的请求以及其他紧急信息",
       "isHeader": false
     },
     {
-      "startTime": 24680.0,
-      "endTime": 27920.0,
-      "text": "They will be arriving here tomorrow.",
-      "translation": "他们明天会到达这里。",
-      "isHeader": false
-    },
-    {
-      "startTime": 27920.0,
-      "endTime": 33840.0,
-      "text": "They will be coming by train and most of the young people in the town will be meeting them",
-      "translation": "他们将乘火车来，镇上的大部分年轻人将去迎接他们。",
-      "isHeader": false
-    },
-    {
-      "startTime": 33840.0,
-      "endTime": 36320.0,
-      "text": "at the station.",
-      "translation": "在车站。",
-      "isHeader": false
-    },
-    {
-      "startTime": 36320.0,
-      "endTime": 41000.0,
-      "text": "Tomorrow evening they will be singing at the workers' club.",
-      "translation": "明天晚上他们将在工人俱乐部唱歌。",
-      "isHeader": false
-    },
-    {
-      "startTime": 41000.0,
-      "endTime": 45680.00000000001,
-      "text": "The Greenwood Boys will be staying for five days.",
-      "translation": "绿林少年将停留五天。",
-      "isHeader": false
-    },
-    {
-      "startTime": 45680.00000000001,
-      "endTime": 50420.0,
-      "text": "During this time, they will give five performances.",
-      "translation": "在这段时间里，他们将进行五场演出。",
-      "isHeader": false
-    },
-    {
-      "startTime": 50420.0,
-      "endTime": 54900.00000000001,
-      "text": "As usual, the police will have a difficult time.",
-      "translation": "像往常一样，警察将会有一段艰难的时光。",
-      "isHeader": false
-    },
-    {
-      "startTime": 54900.00000000001,
-      "endTime": 57760.00000000001,
-      "text": "They will be trying to keep order.",
-      "translation": "他们会努力维持秩序。",
-      "isHeader": false
-    },
-    {
-      "startTime": 57760.0,
-      "endTime": 60519.99999999999,
-      "text": "It is always the same on these occasions.",
-      "translation": "在这些场合，情况总是相同的。",
+      "startTime": 70000.0,
+      "endTime": 77720.0,
+      "text": "one garage to the other. In this way he has begun his own private telephone service.",
+      "translation": "一个车库到另一个车库。通过这种方式，他已经开始了自己的私人电话服务。",
       "isHeader": false
     }
   ]

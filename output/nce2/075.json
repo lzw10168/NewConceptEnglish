@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 21720.0,
+      "text": "Lesson 75. S.O.S. First listen and then answer the question. How did the woman get help?",
+      "translation": "第75课。S.O.S. 首先听录音，然后回答问题。这位女士是如何获得帮助的？",
+      "isHeader": false
+    },
+    {
+      "startTime": 21720.0,
+      "endTime": 28720.0,
+      "text": "When a light passenger plane flew off course some time ago, it crashed in the mountains",
+      "translation": "当一架轻型客机在不久前偏离了航线时，它在山区坠毁了。",
+      "isHeader": true
+    },
+    {
+      "startTime": 28720.0,
+      "endTime": 37160.0,
+      "text": "and its pilot was killed. The only passengers, a young woman and her two baby daughters,",
+      "translation": "而飞行员遇难了。唯一的乘客，一位年轻妇女和她的两个婴儿女儿，",
+      "isHeader": false
+    },
+    {
+      "startTime": 37160.0,
+      "endTime": 46879.99999999999,
+      "text": "were unhurt. It was the middle of winter. Snow lay thick on the ground. The woman knew",
+      "translation": "没有受伤。那时正值隆冬，地面上覆盖着厚厚的积雪。那个女人知道",
+      "isHeader": false
+    },
+    {
+      "startTime": 46879.99999999999,
+      "endTime": 55000.0,
+      "text": "that the nearest village was miles away. When it grew dark, she turned a suitcase into a",
+      "translation": "最近的村庄在数英里之外。天色渐暗时，她把一个手提箱变成了",
+      "isHeader": false
+    },
+    {
+      "startTime": 55000.0,
+      "endTime": 62000.0,
+      "text": "bed and put the children inside it, covering them with all the clothes she could find.",
+      "translation": "她把孩子们放到床上，用她能找到的所有衣服盖住他们。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 72200.0,
+      "text": "During the night, it got terribly cold. The woman kept as near as she could to the children",
+      "translation": "在夜晚，天气变得非常寒冷。这位女士尽可能地靠近孩子们。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72200.0,
+      "endTime": 80800.0,
+      "text": "and even tried to get into the case herself, but it was too small. Early next morning,",
+      "translation": "并且甚至试图自己钻进箱子里，但是箱子太小了。第二天一早，",
+      "isHeader": false
+    },
+    {
+      "startTime": 80800.0,
+      "endTime": 88280.0,
+      "text": "she heard planes passing overhead and wondered how she could send a signal. Then she had",
+      "translation": "她听到头顶上有飞机飞过，想知道自己怎样才能发出信号。然后她有了一个主意。",
+      "isHeader": false
+    },
+    {
+      "startTime": 88280.0,
+      "endTime": 99759.99999999999,
+      "text": "an idea. She stamped out the letters S.O.S. in the snow. Fortunately, a pilot saw the",
+      "translation": "一个想法。她在雪地里踩出了S.O.S.的字母。幸运的是，一个飞行员看到了",
+      "isHeader": false
+    },
+    {
+      "startTime": 99759.99999999999,
+      "endTime": 107400.0,
+      "text": "signal and sent a message by radio to the nearest town. It was not long before a helicopter",
+      "translation": "发出信号并通过无线电向最近的城镇发送消息。不久之后，一架直升机",
+      "isHeader": false
+    },
+    {
+      "startTime": 107400.0,
+      "endTime": 111600.00000000001,
+      "text": "arrived on the scene to rescue the survivors of the plane crash.",
+      "translation": "到达现场去救援飞机失事的幸存者。",
+      "isHeader": false
+    }
+  ]
+}

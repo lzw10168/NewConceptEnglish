@@ -2,107 +2,121 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 4400.0,
-      "text": "Lesson 10 Not for Jazz",
-      "translation": "第10课 不适合爵士乐",
+      "endTime": 9000.0,
+      "text": "Lesson 2 Breakfast or Lunch?",
+      "translation": "第二课 早餐还是午餐？",
       "isHeader": false
     },
     {
-      "startTime": 4400.0,
-      "endTime": 8600.0,
-      "text": "First listen and then answer the question,",
+      "startTime": 9000.0,
+      "endTime": 15000.0,
+      "text": "First listen and then answer the question.",
       "translation": "首先听录音，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 8600.0,
-      "endTime": 12200.000000000002,
-      "text": "What happened to the clavichord?",
-      "translation": "击弦古钢琴怎么了？",
+      "startTime": 15000.0,
+      "endTime": 22000.0,
+      "text": "Why was the writer's aunt surprised?",
+      "translation": "为什么作家的姑姑感到惊讶？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 28000.0,
+      "text": "It was Sunday. I never get up early on Sundays.",
+      "translation": "那是星期天。我在星期天从不起早。",
       "isHeader": false
     },
     {
-      "startTime": 12200.000000000002,
-      "endTime": 15800.0,
-      "text": "We have an old musical instrument.",
-      "translation": "我们有一件古老的乐器。",
+      "startTime": 28000.0,
+      "endTime": 32000.0,
+      "text": "I sometimes stay in bed until lunchtime.",
+      "translation": "我有时会躺在床上直到午餐时间。",
       "isHeader": false
     },
     {
-      "startTime": 15800.0,
-      "endTime": 18600.0,
-      "text": "It is called a clavichord.",
-      "translation": "它被称为击弦古钢琴。",
+      "startTime": 32000.0,
+      "endTime": 37000.0,
+      "text": "Last Sunday I got up very late.",
+      "translation": "上个星期天我起床很晚。",
       "isHeader": false
     },
     {
-      "startTime": 18600.0,
-      "endTime": 23400.000000000004,
-      "text": "It was made in Germany in 1681.",
-      "translation": "它是在1681年德国制造的。",
+      "startTime": 37000.0,
+      "endTime": 41000.0,
+      "text": "I looked out of the window.",
+      "translation": "我向窗外看去。",
       "isHeader": false
     },
     {
-      "startTime": 23400.000000000004,
-      "endTime": 27000.0,
-      "text": "Our clavichord is kept in the living room.",
-      "translation": "我们的小键琴存放在客厅里。",
+      "startTime": 41000.0,
+      "endTime": 44000.0,
+      "text": "It was dark outside.",
+      "translation": "外面很黑。",
       "isHeader": false
     },
     {
-      "startTime": 27200.0,
-      "endTime": 31400.0,
-      "text": "It has belonged to our family for a long time.",
-      "translation": "它已经属于我们家族很长时间了。",
+      "startTime": 44000.0,
+      "endTime": 51000.0,
+      "text": "What a day! I thought. It's raining again.",
+      "translation": "多么糟糕的一天！我想。又下雨了。",
       "isHeader": false
     },
     {
-      "startTime": 31400.0,
-      "endTime": 36200.0,
-      "text": "The instrument was bought by my grandfather many years ago.",
-      "translation": "这件乐器是许多年前我祖父买的。",
+      "startTime": 51000.0,
+      "endTime": 54000.0,
+      "text": "Just then the telephone rang.",
+      "translation": "就在那时电话响了。",
       "isHeader": false
     },
     {
-      "startTime": 36200.0,
-      "endTime": 39800.0,
-      "text": "Recently it was damaged by a visitor.",
-      "translation": "最近它被一个访客损坏了。",
+      "startTime": 54000.0,
+      "endTime": 57000.0,
+      "text": "It was my aunt, Lisey.",
+      "translation": "那是我的姑姑，莉西。",
       "isHeader": false
     },
     {
-      "startTime": 39800.0,
-      "endTime": 42800.0,
-      "text": "She tried to play jazz on it.",
-      "translation": "她试图用它来演奏爵士乐。",
+      "startTime": 57000.0,
+      "endTime": 64000.0,
+      "text": "I've just arrived by train, she said, I'm coming to see you.",
+      "translation": "我刚刚坐火车到达，她说，我来看你。",
       "isHeader": false
     },
     {
-      "startTime": 42800.0,
-      "endTime": 48200.0,
-      "text": "She struck the keys too hard and two of the strings were broken.",
-      "translation": "她敲击琴键的力度过大，导致两根琴弦断裂。",
+      "startTime": 64000.0,
+      "endTime": 69000.0,
+      "text": "But I'm still having breakfast, I said.",
+      "translation": "但我还在吃早餐，我说。",
       "isHeader": false
     },
     {
-      "startTime": 48200.0,
-      "endTime": 51200.0,
-      "text": "My father was shocked.",
-      "translation": "我父亲很震惊。",
+      "startTime": 69000.0,
+      "endTime": 74000.0,
+      "text": "What are you doing? She asked.",
+      "translation": "你在做什么？她问道。",
       "isHeader": false
     },
     {
-      "startTime": 51200.0,
-      "endTime": 54200.0,
-      "text": "Now we are not allowed to touch it.",
-      "translation": "现在我们不被允许触摸它。",
+      "startTime": 74000.0,
+      "endTime": 78000.0,
+      "text": "I'm having breakfast, I repeated.",
+      "translation": "我在吃早餐，我重复道。",
       "isHeader": false
     },
     {
-      "startTime": 54200.0,
-      "endTime": 58000.0,
-      "text": "It is being repaired by a friend of my father's.",
-      "translation": "它正在被我父亲的一个朋友修理。",
+      "startTime": 78000.0,
+      "endTime": 81000.0,
+      "text": "Dear me, she said.",
+      "translation": "亲爱的我，她说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81000.0,
+      "endTime": 86000.0,
+      "text": "Do you always get up so late? It's one o'clock.",
+      "translation": "你总是这么晚起床吗？已经一点钟了。",
       "isHeader": false
     }
   ]

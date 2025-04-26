@@ -1,0 +1,116 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10000.0,
+      "text": "Lesson 27. A wet night.",
+      "translation": "第27课。一个潮湿的夜晚。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 22000.0,
+      "text": "What happened to the boys in the night?",
+      "translation": "那些男孩在夜晚发生了什么事？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 32000.0,
+      "text": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "translation": "傍晚时分，男孩们在田野中央搭起了帐篷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32000.0,
+      "endTime": 39000.0,
+      "text": "As soon as this was done, they cooked a meal over an open fire.",
+      "translation": "一做完这件事，他们就在篝火上煮了一顿饭。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 44000.0,
+      "text": "They were all hungry and the food smelled good.",
+      "translation": "他们都饿了，食物闻起来很香。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44000.0,
+      "endTime": 52000.0,
+      "text": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "translation": "在一顿丰盛的餐后，他们在篝火旁讲故事和唱歌。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52000.0,
+      "endTime": 57000.0,
+      "text": "But some time later, it began to rain.",
+      "translation": "但是过了一会儿，开始下雨了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57000.0,
+      "endTime": 64000.0,
+      "text": "The boys felt tired, so they put out the fire and crept into their tent.",
+      "translation": "男孩们感到累了，所以他们扑灭了火，悄悄地爬进了帐篷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64000.0,
+      "endTime": 71000.0,
+      "text": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "translation": "他们的睡袋既温暖又舒适，所以他们都睡得很香。",
+      "isHeader": false
+    },
+    {
+      "startTime": 71000.0,
+      "endTime": 77000.0,
+      "text": "In the middle of the night, two boys woke up and began shouting.",
+      "translation": "在午夜时分，两个男孩醒来并开始大喊大叫。",
+      "isHeader": false
+    },
+    {
+      "startTime": 77000.0,
+      "endTime": 80000.0,
+      "text": "The tent was full of water!",
+      "translation": "帐篷里全是水！",
+      "isHeader": false
+    },
+    {
+      "startTime": 80000.0,
+      "endTime": 85000.0,
+      "text": "They all leapt out of their sleeping bags and hurried outside.",
+      "translation": "他们都从睡袋中跳了出来，急忙跑到外面。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85000.0,
+      "endTime": 92000.0,
+      "text": "It was raining heavily, and they found that a stream had formed in the field.",
+      "translation": "雨下得很大，他们发现田野里形成了一条小溪。",
+      "isHeader": false
+    },
+    {
+      "startTime": 92000.0,
+      "endTime": 99000.0,
+      "text": "The stream wound its way across the field and then flowed right under their tent.",
+      "translation": "小溪蜿蜒穿过田野，然后正好从他们的帐篷下流过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 99000.0,
+      "endTime": 101000.0,
+      "text": "The End",
+      "translation": "结束",
+      "isHeader": false
+    }
+  ]
+}

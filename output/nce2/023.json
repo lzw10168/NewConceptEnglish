@@ -1,0 +1,53 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 16080.000000000002,
+      "text": "Lesson 23. A new house. First listen and then answer the question.",
+      "translation": "第23课。新房子。首先听，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16080.000000000002,
+      "endTime": 26000.0,
+      "text": "Why is the new house special? I had a letter from my sister yesterday.",
+      "translation": "新房子为什么特别？我昨天收到了妹妹的来信。",
+      "isHeader": true
+    },
+    {
+      "startTime": 26000.0,
+      "endTime": 34000.0,
+      "text": "She lives in Nigeria. In her letter she said that she would come to England next year.",
+      "translation": "她住在尼日利亚。在她的信中，她说她明年会来英国。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 44000.0,
+      "text": "If she comes she will get a surprise. We are now living in a beautiful new house in the country.",
+      "translation": "如果她来了，她会大吃一惊。我们现在住在乡下的一栋漂亮的新房子里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44000.0,
+      "endTime": 53000.0,
+      "text": "Work on it had begun before my sister left. The house was completed five months ago.",
+      "translation": "在我姐姐离开之前就开始了这项工作。这所房子五个月前就完成了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 65000.0,
+      "text": "In my letter I told her that she could stay with us. The house has many large rooms and there is a lovely garden.",
+      "translation": "在我的信中，我告诉她她可以和我们住在一起。这所房子有很多大房间，还有一个美丽的花园。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 77000.0,
+      "text": "It is a very modern house so it looks strange to some people. It must be the only modern house in the district.",
+      "translation": "这是一座非常现代的房子，所以对一些人来说看起来很奇怪。它一定是这个地区唯一的现代房子。",
+      "isHeader": false
+    }
+  ]
+}

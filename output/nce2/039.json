@@ -1,0 +1,74 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 20260.0,
+      "text": "Lesson 39. Am I all right? First listen and then answer the question. Why did Mr. Gilbert",
+      "translation": "第39课。我没事吧？首先听录音，然后回答问题。吉尔伯特先生为什么",
+      "isHeader": false
+    },
+    {
+      "startTime": 20260.0,
+      "endTime": 31540.0,
+      "text": "telephone Dr. Millington? While John Gilbert was in hospital, he asked his doctor to tell him",
+      "translation": "给米灵顿医生打电话吗？当约翰·吉尔伯特住院时，他请求他的医生告诉他",
+      "isHeader": true
+    },
+    {
+      "startTime": 31540.0,
+      "endTime": 41380.0,
+      "text": "whether his operation had been successful, but the doctor refused to do so. The following day,",
+      "translation": "他想知道自己的手术是否成功，但医生拒绝回答。第二天，",
+      "isHeader": false
+    },
+    {
+      "startTime": 41380.0,
+      "endTime": 50220.0,
+      "text": "the patient asked for a bedside telephone. When he was alone, he telephoned the hospital",
+      "translation": "病人要求提供床头电话。当他独自一人时，他给医院打了电话。",
+      "isHeader": false
+    },
+    {
+      "startTime": 50220.0,
+      "endTime": 60100.0,
+      "text": "exchange and asked for Dr. Millington. When the doctor answered the phone, Mr. Gilbert said he",
+      "translation": "交换并询问了米灵顿医生。当医生接电话时，吉尔伯特先生说他",
+      "isHeader": false
+    },
+    {
+      "startTime": 60100.0,
+      "endTime": 69580.0,
+      "text": "was inquiring about a certain patient, a Mr. John Gilbert. He asked if Mr. Gilbert's operation had",
+      "translation": "询问了一位特定的病人，一位名叫约翰·吉尔伯特的先生。他问吉尔伯特先生的手术是否",
+      "isHeader": false
+    },
+    {
+      "startTime": 69580.0,
+      "endTime": 77580.0,
+      "text": "been successful, and the doctor told him that it had been. He then asked when Mr. Gilbert would",
+      "translation": "成功了，医生告诉他确实如此。然后他问吉尔伯特先生何时会",
+      "isHeader": false
+    },
+    {
+      "startTime": 77580.0,
+      "endTime": 84259.99999999999,
+      "text": "be allowed to go home, and the doctor told him he would have to stay in hospital for another two",
+      "translation": "被允许回家，医生告诉他他必须再在医院待两个",
+      "isHeader": false
+    },
+    {
+      "startTime": 84259.99999999999,
+      "endTime": 94940.0,
+      "text": "weeks. Then Dr. Millington asked the caller if he was a relative of the patient. No, the patient",
+      "translation": "几周后。然后米灵顿博士问打电话的人他是否是病人的亲戚。不，病人",
+      "isHeader": false
+    },
+    {
+      "startTime": 94940.0,
+      "endTime": 98060.0,
+      "text": "answered, I am Mr. John Gilbert.",
+      "translation": "回答，我是约翰·吉尔伯特先生。",
+      "isHeader": false
+    }
+  ]
+}

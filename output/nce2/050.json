@@ -1,0 +1,130 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 11000.0,
+      "text": "Lesson 50. Taken for a Ride.",
+      "translation": "第50课。被兜风。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11000.0,
+      "endTime": 17000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 17000.0,
+      "endTime": 24000.0,
+      "text": "Why did the writer not get off the bus at Woodford Green?",
+      "translation": "为什么作家没有在伍德福德绿地下车？",
+      "isHeader": true
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 31000.0,
+      "text": "I love travelling in the country, but I don't like losing my way.",
+      "translation": "我喜欢在乡下旅行，但我不喜欢迷路。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 39000.0,
+      "text": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "translation": "我最近去旅行了，但是我的行程比我预期的要长。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 48000.0,
+      "text": "I'm going to Woodford Green, I said to the conductor as I got on the bus, but I don't know where it is.",
+      "translation": "我要去伍德福德绿地，我在上车时对售票员说，但我不知道它在哪里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 54000.0,
+      "text": "I'll tell you where to get off, answered the conductor.",
+      "translation": "售票员回答说：“我会告诉您在哪儿下车。”",
+      "isHeader": false
+    },
+    {
+      "startTime": 54000.0,
+      "endTime": 60000.0,
+      "text": "I sat in the front of the bus to get a good view of the countryside.",
+      "translation": "我坐在公共汽车的前部，以便更好地欣赏乡村风光。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60000.0,
+      "endTime": 64000.0,
+      "text": "After some time, the bus stopped.",
+      "translation": "过了一会儿，公共汽车停了下来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64000.0,
+      "endTime": 72000.0,
+      "text": "Looking round, I realised with a shock that I was the only passenger left on the bus.",
+      "translation": "环顾四周，我震惊地意识到我是公交车上唯一的乘客。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72000.0,
+      "endTime": 76000.0,
+      "text": "You have to get off here, the conductor said.",
+      "translation": "你必须在这里下车，售票员说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76000.0,
+      "endTime": 79000.0,
+      "text": "This is as far as we go.",
+      "translation": "我们只能走到这里了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 83000.0,
+      "text": "Is this Woodford Green? I asked.",
+      "translation": "这是伍德福德绿地吗？我问道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 83000.0,
+      "endTime": 89000.0,
+      "text": "Oh dear, said the conductor suddenly.",
+      "translation": "哦，天哪，指挥突然说道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 89000.0,
+      "endTime": 92000.0,
+      "text": "I forgot to put you off.",
+      "translation": "我忘记让你失望了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 92000.0,
+      "endTime": 98000.0,
+      "text": "It doesn't matter, I said. I'll get off here.",
+      "translation": "没关系，我说。我在这里下车。",
+      "isHeader": false
+    },
+    {
+      "startTime": 98000.0,
+      "endTime": 102000.0,
+      "text": "We're going back now, said the conductor.",
+      "translation": "我们现在要回去了，售票员说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 102000.0,
+      "endTime": 109000.0,
+      "text": "Well, in that case, I prefer to stay on the bus, I answered.",
+      "translation": "好的，在那种情况下，我宁愿待在公交车上，我回答道。",
+      "isHeader": false
+    }
+  ]
+}

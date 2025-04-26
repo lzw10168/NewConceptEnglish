@@ -1,0 +1,95 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 16000.0,
+      "text": "Lesson 86. Out of control. First lesson and then answer the question. What was the danger?",
+      "translation": "第86课。失控。首先学习课程，然后回答问题。危险是什么？",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 24000.0,
+      "text": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
+      "translation": "当那个男人试图转动快艇时，方向盘从他手中脱落了。",
+      "isHeader": true
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 31000.0,
+      "text": "He waved desperately to his companion, who had been water skiing for the last 15 minutes.",
+      "translation": "他绝望地向他的同伴挥手，后者在过去15分钟里一直在滑水。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 39000.0,
+      "text": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+      "translation": "这两个人几乎没有时间意识到发生了什么，就被猛烈地抛入了大海。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 47000.0,
+      "text": "The speedboat had struck a buoy, but it continued to move very quickly across the water.",
+      "translation": "快艇撞上了一个浮标，但它继续在水面上快速移动。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 57000.0,
+      "text": "Both men had just begun to swim towards the shore when they noticed with dismay that the speedboat was moving in a circle.",
+      "translation": "两个男人刚开始向岸边游去，他们惊愕地发现快艇正在绕圈行驶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57000.0,
+      "endTime": 62000.0,
+      "text": "It now came straight towards them at tremendous speed.",
+      "translation": "它现在以惊人的速度径直朝他们冲过来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 62000.0,
+      "endTime": 68000.0,
+      "text": "In less than a minute, it roared past them only a few feet away.",
+      "translation": "不到一分钟，它就在离他们只有几英尺远的地方咆哮着掠过。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68000.0,
+      "endTime": 76000.0,
+      "text": "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.",
+      "translation": "它过去之后，他们尽可能快地继续游泳，因为他们知道船很快会回来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76000.0,
+      "endTime": 84000.0,
+      "text": "They had just enough time to swim out of danger when the boat again completed a circle.",
+      "translation": "当船再次绕了一圈时，他们刚好有足够的时间游出危险区。",
+      "isHeader": false
+    },
+    {
+      "startTime": 84000.0,
+      "endTime": 90000.0,
+      "text": "On this occasion, however, it had slowed down considerably.",
+      "translation": "然而，在这种情况下，它已经明显慢了下来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 90000.0,
+      "endTime": 94000.0,
+      "text": "The petrol had nearly all been used up.",
+      "translation": "汽油几乎已经用完了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 94000.0,
+      "endTime": 103000.0,
+      "text": "Before long, the noise dropped completely and the boat began to drift gently across the water.",
+      "translation": "不久之后，噪音完全消失，小船开始在水面上轻轻地漂动。",
+      "isHeader": false
+    }
+  ]
+}

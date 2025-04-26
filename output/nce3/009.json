@@ -1,0 +1,200 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 4520.000000000001,
+      "text": "Lesson 9.",
+      "translation": "第九课",
+      "isHeader": false
+    },
+    {
+      "startTime": 4520.000000000001,
+      "endTime": 6920.0,
+      "text": "Flying Cats.",
+      "translation": "飞猫",
+      "isHeader": false
+    },
+    {
+      "startTime": 6920.0,
+      "endTime": 11440.0,
+      "text": "Listen to the tape, then answer the question below.",
+      "translation": "听录音，然后回答下面的问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 11440.0,
+      "endTime": 19000.0,
+      "text": "How do cats try to protect themselves when falling from great heights?",
+      "translation": "当猫从高处坠落时，它们是如何尝试保护自己的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19000.0,
+      "endTime": 22760.0,
+      "text": "Cats never fail to fascinate human beings.",
+      "translation": "猫总是让人类着迷。",
+      "isHeader": false
+    },
+    {
+      "startTime": 22760.0,
+      "endTime": 28400.000000000004,
+      "text": "They can be friendly and affectionate towards humans, but they lead mysterious lives of",
+      "translation": "它们可以对人类友好和亲昵，但它们过着神秘的生活",
+      "isHeader": false
+    },
+    {
+      "startTime": 28400.0,
+      "endTime": 30640.0,
+      "text": "their own as well.",
+      "translation": "他们自己的也是。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30640.0,
+      "endTime": 35040.0,
+      "text": "They never become submissive like dogs and horses.",
+      "translation": "它们从不变得像狗和马那样顺从。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35040.0,
+      "endTime": 40760.0,
+      "text": "As a result, humans have learned to respect feline independence.",
+      "translation": "因此，人类已经学会了尊重猫的独立性。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40760.0,
+      "endTime": 45780.0,
+      "text": "Most cats remain suspicious of humans or their lives.",
+      "translation": "大多数猫对人类或他们的生活保持怀疑。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45780.0,
+      "endTime": 50920.0,
+      "text": "One of the things that fascinates us most about cats is the popular belief that they",
+      "translation": "关于猫最让我们着迷的事情之一是流行的信念，即它们",
+      "isHeader": false
+    },
+    {
+      "startTime": 50920.0,
+      "endTime": 52920.0,
+      "text": "have nine lives.",
+      "translation": "有九条命。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52920.0,
+      "endTime": 57160.0,
+      "text": "Apparently, there is a good deal of truth in this idea.",
+      "translation": "显然，这个想法中包含着相当多的真理。",
+      "isHeader": false
+    },
+    {
+      "startTime": 57319.99999999999,
+      "endTime": 61839.99999999999,
+      "text": "A cat's ability to survive falls is based on fact.",
+      "translation": "猫能够幸存于坠落的事实是有根据的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61839.99999999999,
+      "endTime": 69759.99999999999,
+      "text": "Recently, the New York Animal Medical Center made a study of 132 cats over a period of",
+      "translation": "最近，纽约动物医疗中心对132只猫进行了为期",
+      "isHeader": false
+    },
+    {
+      "startTime": 69759.99999999999,
+      "endTime": 72120.0,
+      "text": "five months.",
+      "translation": "五个月。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72120.0,
+      "endTime": 75720.0,
+      "text": "All these cats had one experience in common.",
+      "translation": "所有这些猫都有一个共同的经历。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75720.0,
+      "endTime": 82360.0,
+      "text": "They had fallen off high buildings, yet only eight of them died from shock or injuries.",
+      "translation": "他们从高楼上摔下来，但只有八人因休克或受伤而死亡。",
+      "isHeader": false
+    },
+    {
+      "startTime": 82360.0,
+      "endTime": 88000.0,
+      "text": "Of course, New York is the ideal place for such an interesting study because there is",
+      "translation": "当然，纽约是进行这样一项有趣研究的理想之地，因为那里有",
+      "isHeader": false
+    },
+    {
+      "startTime": 88000.0,
+      "endTime": 91240.0,
+      "text": "no shortage of tall buildings.",
+      "translation": "高楼大厦不计其数。",
+      "isHeader": false
+    },
+    {
+      "startTime": 91240.0,
+      "endTime": 95440.0,
+      "text": "There are plenty of high-rise windowsills to fall from.",
+      "translation": "有很多高层建筑的窗台可以坠落。",
+      "isHeader": false
+    },
+    {
+      "startTime": 95440.0,
+      "endTime": 104240.0,
+      "text": "One cat, Sabrina, fell 32 stories, yet only suffered from a broken tooth.",
+      "translation": "一只名叫萨布丽娜的猫从32层楼上摔下来，却只断了一颗牙齿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 104240.0,
+      "endTime": 108840.0,
+      "text": "Cats behave like well-trained paratroopers, a doctor said.",
+      "translation": "猫表现得像训练有素的伞兵，一位医生说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 108840.0,
+      "endTime": 115280.0,
+      "text": "It seems that the further cats fall, the less they are likely to injure themselves.",
+      "translation": "看起来猫掉落的高度越高，它们受伤的可能性就越小。",
+      "isHeader": false
+    },
+    {
+      "startTime": 115280.0,
+      "endTime": 120920.0,
+      "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
+      "translation": "在长距离下落中，它们的速度可以达到每小时60英里甚至更快。",
+      "isHeader": false
+    },
+    {
+      "startTime": 120920.0,
+      "endTime": 125720.0,
+      "text": "At high speeds, falling cats have time to relax.",
+      "translation": "在高速下落时，猫有时间放松。",
+      "isHeader": false
+    },
+    {
+      "startTime": 125720.0,
+      "endTime": 129520.00000000001,
+      "text": "They stretch out their legs like flying squirrels.",
+      "translation": "它们像飞鼠一样伸展腿部。",
+      "isHeader": false
+    },
+    {
+      "startTime": 129520.00000000001,
+      "endTime": 135840.0,
+      "text": "This increases their air resistance and reduces the shock of impact when they hit the ground.",
+      "translation": "这增加了它们的空气阻力，并减少了它们撞击地面时的冲击力。",
+      "isHeader": false
+    }
+  ]
+}

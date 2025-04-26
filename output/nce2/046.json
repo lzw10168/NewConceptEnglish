@@ -1,0 +1,74 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 18760.0,
+      "text": "Lesson 46. Expensive and uncomfortable. First listen and then answer the question. What",
+      "translation": "第46课。昂贵且不舒适。首先听，然后回答问题。是什么",
+      "isHeader": false
+    },
+    {
+      "startTime": 18760.0,
+      "endTime": 29640.0,
+      "text": "did the man in this story do? When a plane from London arrived at Sydney Airport, workers",
+      "translation": "这个故事中的男人做了什么？当一架来自伦敦的飞机抵达悉尼机场时，工人们",
+      "isHeader": true
+    },
+    {
+      "startTime": 29640.0,
+      "endTime": 38120.00000000001,
+      "text": "began to unload a number of wooden boxes which contained clothing. No one could account for",
+      "translation": "开始卸下一些装有衣物的木箱。没有人能解释",
+      "isHeader": false
+    },
+    {
+      "startTime": 38120.00000000001,
+      "endTime": 46720.0,
+      "text": "the fact that one of the boxes was extremely heavy. It suddenly occurred to one of the",
+      "translation": "其中一个箱子非常重。突然，其中一个人想到",
+      "isHeader": false
+    },
+    {
+      "startTime": 46720.0,
+      "endTime": 56040.00000000001,
+      "text": "workers to open up the box. He was astonished at what he found. A man was lying in the box",
+      "translation": "工人们打开箱子。他对自己发现的东西感到惊讶。一个男子躺在箱子里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56040.0,
+      "endTime": 63640.0,
+      "text": "on top of a pile of woollen goods. He was so surprised at being discovered that he did",
+      "translation": "在一堆羊毛制品上。他被发现时非常惊讶，以至于他没有",
+      "isHeader": false
+    },
+    {
+      "startTime": 63640.0,
+      "endTime": 72640.0,
+      "text": "not even try to run away. After he was arrested, the man admitted hiding in the box before",
+      "translation": "甚至不要试图逃跑。在他被捕之后，这名男子承认自己之前藏在箱子里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72640.0,
+      "endTime": 80880.0,
+      "text": "the plane left London. He had had a long and uncomfortable trip, for he had been confined",
+      "translation": "飞机离开了伦敦。他经历了一段漫长而不舒服的旅程，因为他一直被限制在",
+      "isHeader": false
+    },
+    {
+      "startTime": 80880.0,
+      "endTime": 92240.0,
+      "text": "to the wooden box for over 18 hours. The man was ordered to pay £3,500 for the cost of the trip.",
+      "translation": "关进木箱超过18小时。这名男子被命令支付3500英镑作为旅行费用。",
+      "isHeader": false
+    },
+    {
+      "startTime": 92240.0,
+      "endTime": 97320.0,
+      "text": "The normal price of a ticket is £2,000.",
+      "translation": "一张票的正常价格是2000英镑。",
+      "isHeader": false
+    }
+  ]
+}

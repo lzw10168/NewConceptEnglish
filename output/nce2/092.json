@@ -1,0 +1,137 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10000.0,
+      "text": "Lesson 92, asking for trouble.",
+      "translation": "第92课，自找麻烦。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 25000.0,
+      "text": "Why did the policeman ask the writer to come to the police station?",
+      "translation": "警察为什么要求作家去警察局？",
+      "isHeader": true
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 30000.0,
+      "text": "It must have been about two in the morning when I returned home.",
+      "translation": "我回到家时，一定是凌晨两点左右。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 36000.0,
+      "text": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep.",
+      "translation": "我试图通过按门铃来叫醒我的妻子，但她睡得很熟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36000.0,
+      "endTime": 46000.0,
+      "text": "So I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.",
+      "translation": "于是我从花园的小屋里拿了一架梯子，把它靠在墙上，开始向卧室窗户爬去。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 53000.0,
+      "text": "I was almost there when a sarcastic voice below said,",
+      "translation": "我几乎到了那里，下面一个讽刺的声音说，",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 59000.0,
+      "text": "I don't think the windows need cleaning at this time of the night.",
+      "translation": "我认为在这个时候，窗户不需要清洁。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59000.0,
+      "endTime": 65000.0,
+      "text": "I looked down and nearly fell off the ladder when I saw a policeman.",
+      "translation": "我低头一看，差点从梯子上掉下来，因为我看到了一个警察。",
+      "isHeader": false
+    },
+    {
+      "startTime": 65000.0,
+      "endTime": 71000.0,
+      "text": "I immediately regretted answering in the way I did, but I said,",
+      "translation": "我立刻后悔以我的方式回答，但我说，",
+      "isHeader": false
+    },
+    {
+      "startTime": 71000.0,
+      "endTime": 76000.0,
+      "text": "I enjoy cleaning windows at night.",
+      "translation": "我享受在夜晚清洁窗户。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76000.0,
+      "endTime": 82000.0,
+      "text": "So do I, answered the policeman in the same tone.",
+      "translation": "“我也是，”警察用同样的语气回答道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 82000.0,
+      "endTime": 85000.0,
+      "text": "Excuse my interrupting you.",
+      "translation": "请原谅我打断你。",
+      "isHeader": false
+    },
+    {
+      "startTime": 85000.0,
+      "endTime": 95000.0,
+      "text": "I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?",
+      "translation": "我讨厌在一个人忙于工作时打扰他，但你介意和我一起去车站吗？",
+      "isHeader": false
+    },
+    {
+      "startTime": 95000.0,
+      "endTime": 100000.0,
+      "text": "Well, I'd prefer to stay here, I said.",
+      "translation": "嗯，我宁愿待在这里，我说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 100000.0,
+      "endTime": 103000.0,
+      "text": "You see, I've forgotten my key.",
+      "translation": "你看，我忘记带钥匙了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 103000.0,
+      "endTime": 107000.0,
+      "text": "Your what? he called.",
+      "translation": "你的什么？他喊道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 107000.0,
+      "endTime": 112000.0,
+      "text": "My key! I shouted.",
+      "translation": "我的钥匙！我喊道。",
+      "isHeader": false
+    },
+    {
+      "startTime": 112000.0,
+      "endTime": 122000.0,
+      "text": "Fortunately, the shouting woke up my wife, who opened the window just as the policeman had started to climb towards me.",
+      "translation": "幸运的是，喊叫声惊醒了我的妻子，她打开窗户的时候，警察已经开始向我爬来。",
+      "isHeader": false
+    }
+  ]
+}

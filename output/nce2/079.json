@@ -1,0 +1,116 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8000.0,
+      "text": "Lesson 79. By Air.",
+      "translation": "第79课。乘飞机。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 14000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 19000.0,
+      "text": "Why did the plane turn back?",
+      "translation": "飞机为什么掉头？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19000.0,
+      "endTime": 24000.0,
+      "text": "I used to travel by air a great deal when I was a boy.",
+      "translation": "当我还是个孩子的时候，我经常乘飞机旅行。",
+      "isHeader": false
+    },
+    {
+      "startTime": 24000.0,
+      "endTime": 31000.0,
+      "text": "My parents used to live in South America and I used to fly there from Europe in the holidays.",
+      "translation": "我的父母过去住在南美洲，而我过去在假期时从欧洲飞往那里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 31000.0,
+      "endTime": 38000.0,
+      "text": "A flight attendant would take charge of me and I never had an unpleasant experience.",
+      "translation": "一位空姐会负责照顾我，我从未有过不愉快的经历。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38000.0,
+      "endTime": 45000.0,
+      "text": "I'm used to traveling by air and only on one occasion have I ever felt frightened.",
+      "translation": "我习惯于乘飞机旅行，只有一次我感到害怕。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45000.0,
+      "endTime": 52000.0,
+      "text": "After taking off, we were flying low over the city and slowly gaining height",
+      "translation": "起飞后，我们低空飞越城市，然后慢慢爬升。",
+      "isHeader": false
+    },
+    {
+      "startTime": 52000.0,
+      "endTime": 58000.0,
+      "text": "when the plane suddenly turned round and flew back to the airport.",
+      "translation": "当飞机突然掉头飞回机场时。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58000.0,
+      "endTime": 63000.0,
+      "text": "While we were waiting to land, a flight attendant told us to keep calm",
+      "translation": "当我们在等待降落时，一名空姐告诉我们要保持冷静。",
+      "isHeader": false
+    },
+    {
+      "startTime": 63000.0,
+      "endTime": 68000.0,
+      "text": "and to get off the plane quietly as soon as it had touched down.",
+      "translation": "以及飞机一着陆就尽快安静地下飞机。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68000.0,
+      "endTime": 75000.0,
+      "text": "Everybody on board was worried and we were curious to find out what had happened.",
+      "translation": "船上的每个人都很担心，我们好奇地想知道发生了什么事。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75000.0,
+      "endTime": 81000.0,
+      "text": "Later we learned that there was a very important person on board.",
+      "translation": "后来我们得知船上有一位非常重要的人物。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81000.0,
+      "endTime": 86000.0,
+      "text": "The police had been told that a bomb had been planted on the plane.",
+      "translation": "警方被告知飞机上被放置了炸弹。",
+      "isHeader": false
+    },
+    {
+      "startTime": 86000.0,
+      "endTime": 91000.0,
+      "text": "After we had landed, the plane was searched thoroughly.",
+      "translation": "我们降落后，飞机被彻底搜查了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 91000.0,
+      "endTime": 98000.0,
+      "text": "Fortunately nothing was found and five hours later we were able to take off again.",
+      "translation": "幸运的是，什么也没有发现，五小时后我们得以再次起飞。",
+      "isHeader": false
+    }
+  ]
+}

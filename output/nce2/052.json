@@ -1,0 +1,95 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 8000.0,
+      "text": "Lesson 52. A pretty carpet.",
+      "translation": "第52课。一块漂亮的地毯。",
+      "isHeader": false
+    },
+    {
+      "startTime": 8000.0,
+      "endTime": 14000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 20000.0,
+      "text": "What is the writer's carpet made of?",
+      "translation": "作家的地毯是由什么制成的？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 29000.0,
+      "text": "We have just moved into a new house and I have been working hard all morning.",
+      "translation": "我们刚刚搬进一个新房子，我整个上午都在努力工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29000.0,
+      "endTime": 34000.0,
+      "text": "I have been trying to get my new room in order.",
+      "translation": "我一直在努力整理我的新房间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 34000.0,
+      "endTime": 40000.0,
+      "text": "This has not been easy because I own over a thousand books.",
+      "translation": "这并不容易，因为我拥有超过一千本书。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40000.0,
+      "endTime": 49000.0,
+      "text": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "translation": "更糟糕的是，房间相当小，所以我暂时把书放在了地板上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49000.0,
+      "endTime": 60000.0,
+      "text": "At the moment they cover every inch of floor space and I actually have to walk on them to get in or out of the room.",
+      "translation": "目前，它们覆盖了地板的每一寸空间，我实际上不得不踩着它们进出房间。",
+      "isHeader": false
+    },
+    {
+      "startTime": 60000.0,
+      "endTime": 68000.0,
+      "text": "A short while ago my sister helped me to carry one of my old bookcases up the stairs.",
+      "translation": "不久前，我妹妹帮我把一个旧书架搬上了楼。",
+      "isHeader": false
+    },
+    {
+      "startTime": 68000.0,
+      "endTime": 76000.0,
+      "text": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "translation": "她走进我的房间，当她看到地板上所有的书时，大吃一惊。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76000.0,
+      "endTime": 81000.0,
+      "text": "This is the prettiest carpet I have ever seen, she said.",
+      "translation": "这是我见过的最漂亮的地毯，她说。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81000.0,
+      "endTime": 87000.0,
+      "text": "She gave that for some time and then added, you don't need bookcases at all.",
+      "translation": "她给了那个一段时间，然后补充说，你根本不需要书柜。",
+      "isHeader": false
+    },
+    {
+      "startTime": 87000.0,
+      "endTime": 93000.0,
+      "text": "You can sit here in your spare time and read the carpet.",
+      "translation": "你可以在空闲时间坐在这里读地毯。",
+      "isHeader": false
+    }
+  ]
+}

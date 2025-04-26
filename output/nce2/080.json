@@ -1,0 +1,102 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9000.0,
+      "text": "Lesson 80, The Crystal Palace.",
+      "translation": "第80课，水晶宫。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9000.0,
+      "endTime": 14000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 22000.0,
+      "text": "How many people visited the great exhibition of 1851?",
+      "translation": "有多少人参观了1851年的盛大展览？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 36000.0,
+      "text": "Perhaps the most extraordinary building of the 19th century was the Crystal Palace, which was built in Hyde Park for the great exhibition of 1851.",
+      "translation": "也许19世纪最非凡的建筑是水晶宫，它是为了1851年的伟大展览而建在海德公园的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 36000.0,
+      "endTime": 45000.0,
+      "text": "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
+      "translation": "水晶宫与世界上所有其他建筑不同，因为它是由铁和玻璃制成的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 45000.0,
+      "endTime": 54000.0,
+      "text": "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
+      "translation": "这是有史以来最大的建筑之一，许多来自不同国家的人都来参观它。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54000.0,
+      "endTime": 61000.0,
+      "text": "A great many goods were sent to the exhibition from various parts of the world.",
+      "translation": "来自世界各地的许多商品被送往展览会。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61000.0,
+      "endTime": 66000.0,
+      "text": "There was also a great deal of machinery on display.",
+      "translation": "展览上也展出了许多机械。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66000.0,
+      "endTime": 73000.0,
+      "text": "The most wonderful piece of machinery on show was Naznith's steam hammer.",
+      "translation": "展出的最精彩的机械是纳兹尼思的蒸汽锤。",
+      "isHeader": false
+    },
+    {
+      "startTime": 73000.0,
+      "endTime": 84000.0,
+      "text": "Though in those days traveling was not as easy as it is today, steamboats carried thousands of visitors across the channel from Europe.",
+      "translation": "尽管在那些日子里旅行并不像今天这么容易，但汽船还是从欧洲运送了成千上万的游客穿过海峡。",
+      "isHeader": false
+    },
+    {
+      "startTime": 84000.0,
+      "endTime": 91000.0,
+      "text": "On arriving in England, they were taken to the Crystal Palace by train.",
+      "translation": "一到英国，他们就乘火车被带到水晶宫。",
+      "isHeader": false
+    },
+    {
+      "startTime": 91000.0,
+      "endTime": 100000.0,
+      "text": "There were six million visitors in all and the profits from the exhibition were used to build museums and colleges.",
+      "translation": "总共有六百万游客，展览的利润被用来建造博物馆和学院。",
+      "isHeader": false
+    },
+    {
+      "startTime": 100000.0,
+      "endTime": 105000.0,
+      "text": "Later, the Crystal Palace was moved to South London.",
+      "translation": "后来，水晶宫被迁移到了伦敦南部。",
+      "isHeader": false
+    },
+    {
+      "startTime": 105000.0,
+      "endTime": 113000.0,
+      "text": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
+      "translation": "直到1936年被烧毁，它一直是世界上最著名的建筑之一。",
+      "isHeader": false
+    }
+  ]
+}

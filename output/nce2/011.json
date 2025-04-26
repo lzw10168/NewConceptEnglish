@@ -2,135 +2,79 @@
   "lyrics": [
     {
       "startTime": 0.0,
-      "endTime": 5280.0,
-      "text": "Lesson 19 Sold Out",
-      "translation": "第19课 售罄",
+      "endTime": 10000.0,
+      "text": "Lesson 11. One good term deserves another.",
+      "translation": "第11课。善有善报。",
       "isHeader": false
     },
     {
-      "startTime": 5280.0,
-      "endTime": 15360.0,
-      "text": "First listen and then answer the question, When will the writer see the play?",
-      "translation": "首先听录音，然后回答问题，作家什么时候去看戏剧？",
+      "startTime": 10000.0,
+      "endTime": 15000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
       "isHeader": false
     },
     {
-      "startTime": 15360.0,
-      "endTime": 19720.0,
-      "text": "The play may begin at any moment, I said.",
-      "translation": "我说，戏剧可能随时开始。",
+      "startTime": 15000.0,
+      "endTime": 19000.0,
+      "text": "Who paid for Tony's dinner?",
+      "translation": "谁为托尼的晚餐付了钱？",
+      "isHeader": true
+    },
+    {
+      "startTime": 19000.0,
+      "endTime": 26000.0,
+      "text": "I was having dinner at a restaurant when Tony's deal came in.",
+      "translation": "我在一家餐厅吃晚饭时，托尼的交易进来了。",
       "isHeader": false
     },
     {
-      "startTime": 19720.0,
-      "endTime": 24620.0,
-      "text": "It may have begun already, Susan answered.",
-      "translation": "它可能已经开始了，苏珊回答道。",
+      "startTime": 26000.0,
+      "endTime": 34000.0,
+      "text": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "translation": "托尼几年前在一家律师事务所工作，但现在他在一家银行工作。",
       "isHeader": false
     },
     {
-      "startTime": 24620.0,
-      "endTime": 27960.0,
-      "text": "I hurried to the ticket office.",
-      "translation": "我匆忙赶到售票处。",
+      "startTime": 34000.0,
+      "endTime": 43000.0,
+      "text": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "translation": "他薪水不错，但他总是向朋友借钱，从不还钱。",
       "isHeader": false
     },
     {
-      "startTime": 27960.0,
-      "endTime": 30960.0,
-      "text": "May I have two tickets, please?",
-      "translation": "请问我可以要两张票吗？",
+      "startTime": 43000.0,
+      "endTime": 48000.0,
+      "text": "Tony saw me and came and sat at the same table.",
+      "translation": "托尼看到我，走过来坐在了同一张桌子旁。",
       "isHeader": false
     },
     {
-      "startTime": 30960.0,
-      "endTime": 31960.0,
-      "text": "I asked.",
-      "translation": "我问了。",
+      "startTime": 48000.0,
+      "endTime": 52000.0,
+      "text": "He has never borrowed money from me.",
+      "translation": "他从未向我借过钱。",
       "isHeader": false
     },
     {
-      "startTime": 31960.0,
-      "endTime": 37560.0,
-      "text": "I'm sorry, we've sold out, the girl said.",
-      "translation": "对不起，我们卖完了，女孩说。",
+      "startTime": 53000.0,
+      "endTime": 59000.0,
+      "text": "While he was eating, I asked him to lend me 20 pounds.",
+      "translation": "当他正在吃饭时，我向他借了20英镑。",
       "isHeader": false
     },
     {
-      "startTime": 37560.0,
-      "endTime": 41960.0,
-      "text": "What a pity, Susan exclaimed.",
-      "translation": "真遗憾，苏珊惊呼道。",
+      "startTime": 59000.0,
+      "endTime": 66000.0,
+      "text": "To my surprise, he gave me the money immediately.",
+      "translation": "令我惊讶的是，他立刻给了我钱。",
       "isHeader": false
     },
     {
-      "startTime": 41960.0,
-      "endTime": 46820.0,
-      "text": "Just then a man hurried to the ticket office.",
-      "translation": "就在那时，一个男人急忙走向售票处。",
-      "isHeader": false
-    },
-    {
-      "startTime": 46820.0,
-      "endTime": 51440.0,
-      "text": "Can I return these two tickets, he asked.",
-      "translation": "他问：“我可以退掉这两张票吗？”",
-      "isHeader": false
-    },
-    {
-      "startTime": 51440.0,
-      "endTime": 55120.00000000001,
-      "text": "Certainly, the girl said.",
-      "translation": "当然，女孩说。",
-      "isHeader": false
-    },
-    {
-      "startTime": 55120.0,
-      "endTime": 59680.0,
-      "text": "I went back to the ticket office at once.",
-      "translation": "我立刻回到了售票处。",
-      "isHeader": false
-    },
-    {
-      "startTime": 59680.0,
-      "endTime": 63239.99999999999,
-      "text": "Could I have those two tickets, please?",
-      "translation": "请问我能买那两张票吗？",
-      "isHeader": false
-    },
-    {
-      "startTime": 63239.99999999999,
-      "endTime": 65239.99999999999,
-      "text": "I asked.",
-      "translation": "我问了。",
-      "isHeader": false
-    },
-    {
-      "startTime": 65239.99999999999,
-      "endTime": 68960.0,
-      "text": "Certainly, the girl said.",
-      "translation": "当然，女孩说。",
-      "isHeader": false
-    },
-    {
-      "startTime": 68960.0,
-      "endTime": 72600.0,
-      "text": "But therefore next Wednesday's performance.",
-      "translation": "但因此，下周三的演出。",
-      "isHeader": false
-    },
-    {
-      "startTime": 72600.0,
-      "endTime": 75440.0,
-      "text": "Do you still want them?",
-      "translation": "你仍然想要它们吗？",
-      "isHeader": false
-    },
-    {
-      "startTime": 75440.0,
-      "endTime": 79920.0,
-      "text": "I might as well have them, I said sadly.",
-      "translation": "我不妨拥有它们，我悲伤地说。",
+      "startTime": 66000.0,
+      "endTime": 74000.0,
+      "text": "I have never borrowed any money from you, Tony said, so now you can pay for my dinner.",
+      "translation": "我从来没有向你借过钱，托尼说，所以现在你可以请我吃晚饭。",
       "isHeader": false
     }
   ]

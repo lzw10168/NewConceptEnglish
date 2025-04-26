@@ -1,0 +1,88 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9000.0,
+      "text": "Lesson 37, the Olympic Games.",
+      "translation": "第37课，奥林匹克运动会。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9000.0,
+      "endTime": 15000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 15000.0,
+      "endTime": 22000.0,
+      "text": "When was the last time this country hosted the Olympic Games?",
+      "translation": "这个国家上次举办奥运会是什么时候？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 29000.0,
+      "text": "The Olympic Games will be held in our country in four years' time.",
+      "translation": "四年后，奥运会将在我们国家举行。",
+      "isHeader": false
+    },
+    {
+      "startTime": 29000.0,
+      "endTime": 43000.0,
+      "text": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic standard swimming pool.",
+      "translation": "由于将有许多人访问这个国家，政府将建造新的酒店、一个巨大的体育场和一个符合奥林匹克标准的新游泳池。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43000.0,
+      "endTime": 49000.0,
+      "text": "They will also be building new roads and a special railway line.",
+      "translation": "他们还将建造新的道路和一条特殊的铁路线。",
+      "isHeader": false
+    },
+    {
+      "startTime": 49000.0,
+      "endTime": 59000.0,
+      "text": "The Games will be held just outside the capital and the whole area will be called Olympic City.",
+      "translation": "运动会将在首都外举行，整个区域将被称为奥林匹克城。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59000.0,
+      "endTime": 66000.0,
+      "text": "Workers will have completed the new roads by the end of this year.",
+      "translation": "工人们将在年底前完成新路的建设。",
+      "isHeader": false
+    },
+    {
+      "startTime": 66000.0,
+      "endTime": 73000.0,
+      "text": "By the end of next year, they will have finished work on the new stadium.",
+      "translation": "到明年年底，他们将完成新体育场的工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74000.0,
+      "endTime": 81000.0,
+      "text": "The fantastic modern buildings have been designed by Kurt Gunter.",
+      "translation": "这些奇妙的现代建筑是由库尔特·冈特设计的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81000.0,
+      "endTime": 87000.0,
+      "text": "Everybody will be watching anxiously as the new buildings go up.",
+      "translation": "每个人都会焦急地注视着新建筑的建成。",
+      "isHeader": false
+    },
+    {
+      "startTime": 87000.0,
+      "endTime": 98000.0,
+      "text": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.",
+      "translation": "我们都非常兴奋，并且期待着奥运会，因为在这个国家以前从未举办过。",
+      "isHeader": false
+    }
+  ]
+}

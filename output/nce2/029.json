@@ -1,0 +1,95 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 12000.0,
+      "text": "Lesson 29 Taxi",
+      "translation": "第29课 出租车",
+      "isHeader": false
+    },
+    {
+      "startTime": 12000.0,
+      "endTime": 17000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 17000.0,
+      "endTime": 26000.0,
+      "text": "Does Captain Fawcett think any trip is too dangerous?",
+      "translation": "福开森队长认为有任何旅行是太危险的吗？",
+      "isHeader": true
+    },
+    {
+      "startTime": 27000.0,
+      "endTime": 35000.0,
+      "text": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+      "translation": "本·福赛特船长买了一辆不同寻常的出租车，并且已经开始了一项新的服务。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 43000.0,
+      "text": "The taxi is a small Swiss aeroplane called a Pyrrhus Porter.",
+      "translation": "出租车是一架小型瑞士飞机，名为皮勒斯波特。",
+      "isHeader": false
+    },
+    {
+      "startTime": 43000.0,
+      "endTime": 48000.0,
+      "text": "This wonderful plane can carry seven passengers.",
+      "translation": "这架奇妙的飞机可以搭载七名乘客。",
+      "isHeader": false
+    },
+    {
+      "startTime": 48000.0,
+      "endTime": 61000.0,
+      "text": "The most surprising thing about it, however, is that it can land anywhere, on snow, water or even on a ploughed field.",
+      "translation": "然而，最令人惊讶的是，它可以在任何地方降落，无论是在雪地、水面，甚至是在耕过的田地上。",
+      "isHeader": false
+    },
+    {
+      "startTime": 61000.0,
+      "endTime": 72000.0,
+      "text": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
+      "translation": "福塞特船长的第一位乘客是一位医生，他从伯明翰飞往威尔士山区一个偏僻的村庄。",
+      "isHeader": false
+    },
+    {
+      "startTime": 72000.0,
+      "endTime": 79000.0,
+      "text": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+      "translation": "从那时起，Fawcett机长已经将乘客飞往了许多不寻常的地方。",
+      "isHeader": false
+    },
+    {
+      "startTime": 79000.0,
+      "endTime": 89000.0,
+      "text": "Once he landed on the roof of a block of flats and on another occasion he landed in a deserted car park.",
+      "translation": "有一次，他降落在一栋公寓楼的屋顶上，另一次他降落在一个废弃的停车场里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 89000.0,
+      "endTime": 96000.0,
+      "text": "Captain Fawcett had just refused a strange request from a businessman.",
+      "translation": "福赛特船长刚刚拒绝了一位商人的奇怪请求。",
+      "isHeader": false
+    },
+    {
+      "startTime": 96000.0,
+      "endTime": 103000.0,
+      "text": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean.",
+      "translation": "那个男人想要飞往洛克尔，大西洋中的一个荒凉的岛屿。",
+      "isHeader": false
+    },
+    {
+      "startTime": 103000.0,
+      "endTime": 109000.0,
+      "text": "But Captain Fawcett did not take him because the trip was too dangerous.",
+      "translation": "但是，Fawcett船长没有带上他，因为这次旅行太危险了。",
+      "isHeader": false
+    }
+  ]
+}

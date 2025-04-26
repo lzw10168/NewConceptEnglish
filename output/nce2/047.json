@@ -1,0 +1,81 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10000.0,
+      "text": "Lesson 47. A Thirsty Ghost.",
+      "translation": "第47课。一个口渴的鬼。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 22000.0,
+      "text": "What evidence is there of a ghost?",
+      "translation": "有什么证据表明有鬼？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 32000.0,
+      "text": "A public house which was recently bought by Mr. Ian Thompson is up for sale.",
+      "translation": "一家最近被伊恩·汤普森先生买下的酒吧正在出售。",
+      "isHeader": false
+    },
+    {
+      "startTime": 32000.0,
+      "endTime": 38000.0,
+      "text": "Mr. Thompson is going to sell it because it is haunted.",
+      "translation": "汤普森先生打算卖掉它，因为它闹鬼。",
+      "isHeader": false
+    },
+    {
+      "startTime": 38000.0,
+      "endTime": 47000.0,
+      "text": "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.",
+      "translation": "他告诉我，有一天晚上他无法入睡，因为他听到酒吧里传来一种奇怪的声音。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47000.0,
+      "endTime": 56000.0,
+      "text": "The next morning he found that the doors had been blocked by chairs and the furniture had been moved.",
+      "translation": "第二天早上，他发现门被椅子堵住了，家具也被移动了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 56000.0,
+      "endTime": 64000.0,
+      "text": "Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning.",
+      "translation": "尽管汤普森先生在上床睡觉前把灯关了，但早上灯还是亮着。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64000.0,
+      "endTime": 73000.0,
+      "text": "He also said that he had found five empty whiskey bottles which the ghost must have drunk the night before.",
+      "translation": "他还说，他发现了五个空的威士忌酒瓶，这些酒瓶一定是鬼魂在前一晚喝掉的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74000.0,
+      "endTime": 83000.0,
+      "text": "When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head.",
+      "translation": "当我暗示一些村民一定是进来免费喝酒时，汤普森先生摇了摇头。",
+      "isHeader": false
+    },
+    {
+      "startTime": 83000.0,
+      "endTime": 89000.0,
+      "text": "The villagers have told him that they will not accept the pub even if he gives it away.",
+      "translation": "村民们已经告诉他，即使他白送，他们也不会接受这家酒吧。",
+      "isHeader": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 12000.0,
+      "text": "Lesson 88 Trapped in a mine",
+      "translation": "第88课 困在矿井中",
+      "isHeader": false
+    },
+    {
+      "startTime": 12000.0,
+      "endTime": 18400.000000000004,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 18400.000000000004,
+      "endTime": 24760.0,
+      "text": "Why is the rescue taking so long?",
+      "translation": "为什么救援要花这么长时间？",
+      "isHeader": true
+    },
+    {
+      "startTime": 24760.0,
+      "endTime": 30760.0,
+      "text": "These men have been trapped in a mine for 17 hours.",
+      "translation": "这些人被困在矿井里已经17个小时了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30760.0,
+      "endTime": 35760.00000000001,
+      "text": "If they are not brought to the surface soon, they may lose their lives.",
+      "translation": "如果他们不能很快被带到地面上，他们可能会失去生命。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35760.00000000001,
+      "endTime": 40760.00000000001,
+      "text": "However, rescue operations are proving difficult.",
+      "translation": "然而，救援行动证明是困难的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 40760.00000000001,
+      "endTime": 47760.00000000001,
+      "text": "If explosives are used, vibrations will cause the roof of the mine to collapse.",
+      "translation": "如果使用炸药，震动会导致矿井的顶部坍塌。",
+      "isHeader": false
+    },
+    {
+      "startTime": 47760.00000000001,
+      "endTime": 53760.00000000001,
+      "text": "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "translation": "因此，救援人员正在矿井的北侧钻一个洞。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53760.0,
+      "endTime": 58760.0,
+      "text": "They intend to bring the men up in a special capsule.",
+      "translation": "他们打算用一个特殊的胶囊将这些人带上来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 58760.0,
+      "endTime": 67759.99999999999,
+      "text": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+      "translation": "如果土壤下面没有坚硬的岩层，他们几个小时就能完成这项工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 67759.99999999999,
+      "endTime": 75759.99999999999,
+      "text": "As it is, they have been drilling for 16 hours and they still have a long way to go.",
+      "translation": "目前，他们已经钻探了16个小时，但他们还有很长的路要走。",
+      "isHeader": false
+    },
+    {
+      "startTime": 75760.0,
+      "endTime": 86760.0,
+      "text": "Meanwhile, a microphone which was lowered into the mine two hours ago has enabled the men to keep in touch with their closest relatives.",
+      "translation": "与此同时，一个两小时前被送入矿井的麦克风使这些人能够与他们最亲近的亲属保持联系。",
+      "isHeader": false
+    },
+    {
+      "startTime": 86760.0,
+      "endTime": 95760.0,
+      "text": "Though they are running out of food and drink, the men are cheerful and confident that they will soon get out.",
+      "translation": "尽管他们的食物和饮料快要耗尽，但这些人仍然兴高采烈，并且有信心他们很快就会出去。",
+      "isHeader": false
+    },
+    {
+      "startTime": 95760.0,
+      "endTime": 100760.0,
+      "text": "They have been told that the rescue operations are progressing smoothly.",
+      "translation": "他们被告知救援行动进展顺利。",
+      "isHeader": false
+    },
+    {
+      "startTime": 100760.0,
+      "endTime": 107760.0,
+      "text": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
+      "translation": "如果他们知道钻透坚硬的岩石有多困难，他们就会失去信心。",
+      "isHeader": false
+    }
+  ]
+}

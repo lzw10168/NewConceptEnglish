@@ -1,0 +1,109 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 10000.0,
+      "text": "Lesson 89. A Slip of the Tongue.",
+      "translation": "第89课。口误。",
+      "isHeader": false
+    },
+    {
+      "startTime": 10000.0,
+      "endTime": 16000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 16000.0,
+      "endTime": 22000.0,
+      "text": "Who made the only funny joke that evening and why?",
+      "translation": "那天晚上谁讲了唯一一个有趣的笑话，为什么？",
+      "isHeader": true
+    },
+    {
+      "startTime": 22000.0,
+      "endTime": 30000.0,
+      "text": "People will do anything to see a free show, even if it is a bad one.",
+      "translation": "人们会为了看一场免费的演出做任何事情，即使是一场糟糕的演出。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 40000.0,
+      "text": "When the news got round that a comedy show would be presented at our local cinema by the P&U Birdseed Company,",
+      "translation": "当消息传开，P&U鸟食公司将在我们当地的电影院上演一场喜剧表演时，",
+      "isHeader": false
+    },
+    {
+      "startTime": 40000.0,
+      "endTime": 44000.0,
+      "text": "we all rushed to see it.",
+      "translation": "我们都冲过去看它。",
+      "isHeader": false
+    },
+    {
+      "startTime": 44000.0,
+      "endTime": 53000.0,
+      "text": "We had to queue for hours to get in and there must have been several hundred people present just before the show began.",
+      "translation": "我们必须排了好几个小时的队才能进去，而且就在演出开始前，肯定有好几百人在那里。",
+      "isHeader": false
+    },
+    {
+      "startTime": 53000.0,
+      "endTime": 59000.0,
+      "text": "Unfortunately, the show was one of the dullest we have ever seen.",
+      "translation": "不幸的是，这个表演是我们看过的最无聊的表演之一。",
+      "isHeader": false
+    },
+    {
+      "startTime": 59000.0,
+      "endTime": 69000.0,
+      "text": "Those who failed to get in need not have felt disappointed, as many of the artists who should have appeared did not come.",
+      "translation": "那些没能进来的人不必感到失望，因为许多本应该出现的艺术家并没有来。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 76000.0,
+      "text": "The only funny things we heard that evening came from the advertiser at the beginning of the program.",
+      "translation": "那天晚上我们听到的唯一有趣的事情来自节目开始时的广告商。",
+      "isHeader": false
+    },
+    {
+      "startTime": 76000.0,
+      "endTime": 84000.0,
+      "text": "He was obviously very nervous and for some minutes stood awkwardly before the microphone.",
+      "translation": "他显然非常紧张，尴尬地站在麦克风前几分钟。",
+      "isHeader": false
+    },
+    {
+      "startTime": 84000.0,
+      "endTime": 90000.0,
+      "text": "As soon as he opened his mouth, everyone burst out laughing.",
+      "translation": "他一开口，大家就哄堂大笑。",
+      "isHeader": false
+    },
+    {
+      "startTime": 90000.0,
+      "endTime": 97000.0,
+      "text": "We all know what the poor man should have said, but what he actually said was,",
+      "translation": "我们都知道那个穷人本应该说些什么，但实际上他说的却是，",
+      "isHeader": false
+    },
+    {
+      "startTime": 97000.0,
+      "endTime": 102000.0,
+      "text": "This is the Poo and E-Seed Bird Company.",
+      "translation": "这是便便和E-Seed鸟类公司。",
+      "isHeader": false
+    },
+    {
+      "startTime": 102000.0,
+      "endTime": 105000.0,
+      "text": "Good ladies, evening and gentlemen.",
+      "translation": "女士们晚上好，先生们晚上好。",
+      "isHeader": false
+    }
+  ]
+}

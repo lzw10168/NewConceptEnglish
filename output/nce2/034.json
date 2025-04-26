@@ -1,0 +1,102 @@
+{
+  "lyrics": [
+    {
+      "startTime": 0.0,
+      "endTime": 9000.0,
+      "text": "Lesson 34 Quick work.",
+      "translation": "第34课 迅速的工作。",
+      "isHeader": false
+    },
+    {
+      "startTime": 9000.0,
+      "endTime": 14000.0,
+      "text": "First listen and then answer the question.",
+      "translation": "首先听录音，然后回答问题。",
+      "isHeader": false
+    },
+    {
+      "startTime": 14000.0,
+      "endTime": 20000.0,
+      "text": "How long had the police taken to find his bicycle?",
+      "translation": "警察找到他的自行车花了多长时间？",
+      "isHeader": true
+    },
+    {
+      "startTime": 20000.0,
+      "endTime": 25000.0,
+      "text": "Dan Robinson has been worried all week.",
+      "translation": "丹·罗宾逊整个星期都很担心。",
+      "isHeader": false
+    },
+    {
+      "startTime": 25000.0,
+      "endTime": 30000.0,
+      "text": "Last Tuesday he received a letter from the local police.",
+      "translation": "上周二，他收到了当地警察的一封信。",
+      "isHeader": false
+    },
+    {
+      "startTime": 30000.0,
+      "endTime": 35000.0,
+      "text": "In the letter he was asked to call at the station.",
+      "translation": "在信中，他被要求去车站打电话。",
+      "isHeader": false
+    },
+    {
+      "startTime": 35000.0,
+      "endTime": 39000.0,
+      "text": "Dan wondered why he was wanted by the police.",
+      "translation": "丹想知道为什么他被警察通缉。",
+      "isHeader": false
+    },
+    {
+      "startTime": 39000.0,
+      "endTime": 46000.0,
+      "text": "But he went to the station yesterday and now he is not worried anymore.",
+      "translation": "但他昨天去了车站，现在他不再担心了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 46000.0,
+      "endTime": 54000.0,
+      "text": "At the station he was told by a smiling policeman that his bicycle had been found.",
+      "translation": "在车站，一位面带微笑的警察告诉他，他的自行车被找到了。",
+      "isHeader": false
+    },
+    {
+      "startTime": 54000.0,
+      "endTime": 64000.0,
+      "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village 400 miles away.",
+      "translation": "五天前，警察告诉他，自行车是在400英里外的一个小村庄里找到的。",
+      "isHeader": false
+    },
+    {
+      "startTime": 64000.0,
+      "endTime": 69000.0,
+      "text": "It is now being sent to his home by train.",
+      "translation": "它现在正通过火车被送往他的家。",
+      "isHeader": false
+    },
+    {
+      "startTime": 69000.0,
+      "endTime": 74000.0,
+      "text": "Dan was most surprised when he heard the news.",
+      "translation": "当丹听到这个消息时，他最感到惊讶。",
+      "isHeader": false
+    },
+    {
+      "startTime": 74000.0,
+      "endTime": 81000.0,
+      "text": "He was amused too because he never expected the bicycle to be found.",
+      "translation": "他也觉得好笑，因为他从没想到自行车会被找到。",
+      "isHeader": false
+    },
+    {
+      "startTime": 81000.0,
+      "endTime": 87000.0,
+      "text": "It was stolen 20 years ago when Dan was a boy of 15.",
+      "translation": "20年前，当丹还是一个15岁的男孩时，它被偷了。",
+      "isHeader": false
+    }
+  ]
+}
