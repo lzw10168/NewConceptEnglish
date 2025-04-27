@@ -1,0 +1,93 @@
+[
+  {
+    "text": "tired",
+    "isDanger": 0,
+    "phonetic": "/ˈtaɪəd/",
+    "translation": "adj. 厌烦的",
+    "toggle": "adj. 疲倦的；厌倦的，厌烦的"
+  },
+  {
+    "text": "real",
+    "isDanger": 1,
+    "phonetic": "/ˈriːəl/",
+    "translation": "adj. 真正的",
+    "toggle": "adj. 真实的；实在的；实际的"
+  },
+  {
+    "text": "owner",
+    "isDanger": 0,
+    "phonetic": "/ˈəʊnə(r)/",
+    "translation": "n. 主人",
+    "toggle": "n. 所有者；物主"
+  },
+  {
+    "text": "spring",
+    "isDanger": 1,
+    "phonetic": "/sprɪŋ/",
+    "translation": "n. 弹簧",
+    "toggle": "n. 春天；弹簧；泉水；跳跃；活力"
+  },
+  {
+    "text": "mattress",
+    "isDanger": 0,
+    "phonetic": "/ˈmætrəs/",
+    "translation": "n. 床垫",
+    "toggle": "n. 床垫；褥子；空气垫"
+  },
+  {
+    "text": "gust",
+    "isDanger": 1,
+    "phonetic": "/ɡʌst/",
+    "translation": "n. 一阵风",
+    "toggle": "n. 一阵狂风；风味；趣味"
+  },
+  {
+    "text": "sweep",
+    "isDanger": 0,
+    "phonetic": "/swiːp/",
+    "translation": "v. 扫，刮",
+    "toggle": "vt. 扫除；猛拉；掸去"
+  },
+  {
+    "text": "courtyard",
+    "isDanger": 0,
+    "phonetic": "/ˈkɔːtjɑːd/",
+    "translation": "n. 院子",
+    "toggle": "n. 庭院，院子；天井"
+  },
+  {
+    "text": "smash",
+    "isDanger": 1,
+    "phonetic": "/smæʃ/",
+    "translation": "v. 碰碎，摔碎",
+    "toggle": "vt. 使破产；粉碎；溃裂"
+  },
+  {
+    "text": "miraculously",
+    "isDanger": 0,
+    "phonetic": "/mɪˈrækjələsli/",
+    "translation": "adv. 奇迹般地",
+    "toggle": "adv.奇迹般地；神奇地"
+  },
+  {
+    "text": "unhurt",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈhɜːt/",
+    "translation": "adj. 没有受伤的",
+    "toggle": "adj.没有受伤的,未受损的"
+  },
+  {
+    "text": "glance",
+    "isDanger": 0,
+    "phonetic": "/ɡlɑːns/",
+    "translation": "v. 扫视",
+    "toggle": "n. 一瞥；一滑；闪光"
+  },
+  {
+    "text": "promptly",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒmptli/",
+    "translation": "adv. 迅速地",
+    "toggle": "adv. 迅速地；敏捷地；立即地(不耽搁的)"
+  }
+]

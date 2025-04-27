@@ -1,0 +1,51 @@
+[
+  {
+    "text": "limelight",
+    "isDanger": 0,
+    "phonetic": "/ˈlaɪmlaɪt/",
+    "translation": "n. 舞台灯光",
+    "toggle": "n. 石灰光，石灰光灯；众人注目的中心"
+  },
+  {
+    "text": "precaution",
+    "isDanger": 0,
+    "phonetic": "/prɪˈkɔːʃ(ə)n/",
+    "translation": "n. 预防措施",
+    "toggle": "n. 预防，警惕；预防措施"
+  },
+  {
+    "text": "fan",
+    "isDanger": 0,
+    "phonetic": "/fæn/",
+    "translation": "n. 狂热者，迷",
+    "toggle": "vt. 煽动；吹拂；刺激"
+  },
+  {
+    "text": "shady",
+    "isDanger": 0,
+    "phonetic": "/ˈʃeɪdi/",
+    "translation": "adj. 遮荫的",
+    "toggle": "adj. 成荫的；阴暗的；名声不好的"
+  },
+  {
+    "text": "sheriff",
+    "isDanger": 0,
+    "phonetic": "/ˈʃerɪf/",
+    "translation": "n. 司法长官",
+    "toggle": "n. 州长；郡治安官；执行吏"
+  },
+  {
+    "text": "notice",
+    "isDanger": 1,
+    "phonetic": "/ˈnəʊtɪs/",
+    "translation": "n. 告示",
+    "toggle": "n. 通知，布告；注意；公告"
+  },
+  {
+    "text": "sneer",
+    "isDanger": 0,
+    "phonetic": "/snɪə(r)/",
+    "translation": "n. 冷笑",
+    "toggle": "vi. 嘲笑，冷笑"
+  }
+]

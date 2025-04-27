@@ -1,0 +1,259 @@
+{
+  "id": "course-2-035",
+  "lessonNumber": "035",
+  "title": {
+    "english": "Stop thief!",
+    "chinese": "抓住小偷！"
+  },
+  "lessonInfo": "新概念英语－第2册－第035课",
+  "audioPath": "audio/nce2/035.mp3",
+  "listeningQuestion": {
+    "question": "What did Roy do to stop the thieves?",
+    "translation": "罗伊是如何阻止小偷的？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一位公交车司机勇敢阻止盗窃案的故事。课文使用了多个动作动词和时态，展示了事件的紧张过程。同时介绍了一些重要的语法点，如'so'和'such'的用法区别等。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Roy Trenton used to drive a taxi.",
+        "A short while ago, however, he became a bus driver and he was not regretted it.",
+        "He is finding his new work far more exciting.",
+        "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.",
+        "One of them was carrying a bag full of money.",
+        "Roy acted quickly and drove the bus straight at the thieves.",
+        "The one with the money got such a fright that he dropped the bag.",
+        "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+        "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+        "The thieves' car was badly damaged and easy to recognize.",
+        "Shortly afterwards, the police stopped the car and both men were arrested."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "罗伊·特雷顿原是开出租汽车的。",
+        "然而就在前不久，他开上了公共汽车，也并不为此而感到后悔。",
+        "他发觉自己的新工作令人兴奋得多。",
+        "最近，当他正开车在凯特福德街上行驶时，看到有两个小偷从一家商店里冲出来，奔向等在那里的一辆汽车。",
+        "其中一个提着一只装满钞票的提包。",
+        "罗伊行动迅速，开车直冲窃贼而去。",
+        "拿钱的那个小偷吓得把提包都扔了。",
+        "当那两个小偷企图乘车逃跑时，罗伊驾驶他的公共汽车撞在了那辆车的后尾上。",
+        "当那辆被撞坏的车开走后，罗伊停下车，给警察挂了电话。",
+        "小偷的车损坏严重，很容易辨认。",
+        "没过多久，警察就截住了那辆车，两个小偷都被抓住了。"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "while",
+          "translation": "一段时间",
+          "phonetic": "/waɪl/",
+          "toggle": "n. 一段时间",
+          "isImportant": 1
+        },
+        {
+          "text": "regret",
+          "translation": "后悔",
+          "phonetic": "/rɪˈɡret/",
+          "toggle": "v. 后悔",
+          "isImportant": 1
+        },
+        {
+          "text": "far",
+          "translation": "非常",
+          "phonetic": "/fɑː/",
+          "toggle": "adv. 非常",
+          "isImportant": 1
+        },
+        {
+          "text": "rush",
+          "translation": "冲",
+          "phonetic": "/rʌʃ/",
+          "toggle": "v. 冲",
+          "isImportant": 1
+        },
+        {
+          "text": "act",
+          "translation": "行动",
+          "phonetic": "/ækt/",
+          "toggle": "v. 行动",
+          "isImportant": 1
+        },
+        {
+          "text": "straight",
+          "translation": "径直",
+          "phonetic": "/streɪt/",
+          "toggle": "adv. 径直",
+          "isImportant": 1
+        },
+        {
+          "text": "fright",
+          "translation": "害怕",
+          "phonetic": "/fraɪt/",
+          "toggle": "n. 害怕",
+          "isImportant": 1
+        },
+        {
+          "text": "battered",
+          "translation": "撞坏的",
+          "phonetic": "/ˈbætəd/",
+          "toggle": "adj. 撞坏的",
+          "isImportant": 1
+        },
+        {
+          "text": "shortly",
+          "translation": "很快，不久",
+          "phonetic": "/ˈʃɔːtli/",
+          "toggle": "adv. 很快，不久",
+          "isImportant": 1
+        },
+        {
+          "text": "afterwards",
+          "translation": "以后",
+          "phonetic": "/ˈɑːftəwədz/",
+          "toggle": "adv. 以后",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "感知动词的用法",
+          "content": [
+            "see, smell, feel, hear, watch, notice等感知动词可以用在'动词+名词/代词宾语+不带to的不定式'结构中",
+            "see sb. do sth. 表示看到全过程",
+            "see sb. doing sth. 表示看到部分过程",
+            "例句：He saw two thieves rush out of a shop."
+          ]
+        },
+        {
+          "title": "so和such的区别",
+          "content": [
+            "so + 形容词/副词 + that...",
+            "such + (a/an) + 形容词 + 名词 + that...",
+            "例句：The one with the money got such a fright that he dropped the bag.",
+            "当形容词表示数量时（many, much, little, few），一律用so"
+          ]
+        },
+        {
+          "title": "used to do的用法",
+          "content": [
+            "used to do: 过去常常做现在不做了",
+            "be used to doing: 习惯于做某事",
+            "be used to do: 被用来做某事",
+            "例句：Roy Trenton used to drive a taxi."
+          ]
+        },
+        {
+          "title": "with的用法",
+          "content": [
+            "with出现在名词或代词后作定语",
+            "with出现在动词后作状语",
+            "例句：The one with the money got such a fright."
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "get a fright",
+          "translation": "受到惊吓",
+          "context": "表示突然受到惊吓",
+          "example": "The thief got such a fright that he dropped the bag."
+        },
+        {
+          "phrase": "get away",
+          "translation": "逃跑",
+          "context": "表示逃离某地",
+          "example": "The thieves were trying to get away in their car."
+        },
+        {
+          "phrase": "drive straight at",
+          "translation": "径直开向",
+          "context": "表示直接朝某个方向开去",
+          "example": "Roy drove the bus straight at the thieves."
+        },
+        {
+          "phrase": "shortly afterwards",
+          "translation": "不久之后",
+          "context": "表示在很短的时间之后",
+          "example": "Shortly afterwards, the police stopped the car."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "What did Roy Trenton use to do?",
+          "options": [
+            "He used to be a policeman",
+            "He used to drive a taxi",
+            "He used to drive a bus",
+            "He used to be a thief"
+          ],
+          "answer": 1,
+          "explanation": "课文开头提到Roy Trenton used to drive a taxi."
+        },
+        {
+          "question": "How did Roy stop the thieves?",
+          "options": [
+            "He called the police immediately",
+            "He followed them in his bus",
+            "He drove his bus into their car",
+            "He shouted at them to stop"
+          ],
+          "answer": 2,
+          "explanation": "课文提到Roy drove his bus into the back of the thieves' car."
+        },
+        {
+          "question": "Why did the thief drop the bag?",
+          "options": [
+            "Because he was tired",
+            "Because he got a fright",
+            "Because the police arrived",
+            "Because the bag was too heavy"
+          ],
+          "answer": 1,
+          "explanation": "课文提到The one with the money got such a fright that he dropped the bag."
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "Roy _____ quickly and drove the bus straight at the thieves.",
+          "answer": "acted",
+          "hint": "表示'行动'的动词"
+        },
+        {
+          "sentence": "The thieves' car was badly damaged and _____ to recognize.",
+          "answer": "easy",
+          "hint": "形容词，表示'容易的'"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "词语辨析",
+          "content": "drop和fall的区别：drop是及物动词，表示'使掉落'；fall是不及物动词，表示'落下'。如：I drop the chalk（我把粉笔掉了）/ The chalk falls（粉笔掉下来）。"
+        },
+        {
+          "title": "语言特点",
+          "content": "本课使用了大量的动作动词和连续动作的描写，生动地展现了追捕窃贼的紧张场面。同时也使用了多种时态来表达不同时间段发生的事情。"
+        },
+        {
+          "title": "文化背景",
+          "content": "在英语国家，公民协助警察抓捕罪犯是一种普遍现象，这体现了公民的社会责任感。但同时也要注意安全，不要采取危险的行动。"
+        }
+      ]
+    }
+  }
+} 

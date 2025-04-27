@@ -1,0 +1,51 @@
+[
+  {
+    "text": "rare",
+    "isDanger": 0,
+    "phonetic": "/reə(r)/",
+    "translation": "adj. 罕见的",
+    "toggle": "adj. 半熟的；稀有的；稀薄的"
+  },
+  {
+    "text": "ancient",
+    "isDanger": 0,
+    "phonetic": "/ˈeɪnʃənt/",
+    "translation": "adj. 古代的，古老的",
+    "toggle": "adj. 古代的；古老的，过时的；年老的"
+  },
+  {
+    "text": "myth",
+    "isDanger": 0,
+    "phonetic": "/mɪθ/",
+    "translation": "n. 神话故事",
+    "toggle": "n. 神话；虚构的人，虚构的事"
+  },
+  {
+    "text": "trouble",
+    "isDanger": 0,
+    "phonetic": "/ˈtrʌb(ə)l/",
+    "translation": "n. 麻烦",
+    "toggle": "n. 麻烦；动乱；烦恼；故障"
+  },
+  {
+    "text": "effect",
+    "isDanger": 1,
+    "phonetic": "/ɪˈfekt/",
+    "translation": "n. 结果，效果",
+    "toggle": "n. 效果；作用；影响"
+  },
+  {
+    "text": "Medusa",
+    "isDanger": 0,
+    "phonetic": "/mɪˈdjuːzə/",
+    "translation": "n. 美杜莎（古希腊神话中 3 位蛇发女怪这一）",
+    "toggle": "n.[动]水母,水母体"
+  },
+  {
+    "text": "Gorgon",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɔːɡən/",
+    "translation": "n. （古希腊神话）3 位蛇发女怪之一（凡见其貌者都会变成石头）",
+    "toggle": "n.[希神] 蛇发女怪,可怕的女人,丑妇"
+  }
+]

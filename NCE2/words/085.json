@@ -1,0 +1,100 @@
+[
+  {
+    "text": "inform",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈfɔːm/",
+    "translation": "v. 告诉，通知",
+    "toggle": "vt. 通知；告诉；报告"
+  },
+  {
+    "text": "headmaster",
+    "isDanger": 0,
+    "phonetic": "/ˌhedˈmɑːstə(r)/",
+    "translation": "n. 校长",
+    "toggle": "n. 校长"
+  },
+  {
+    "text": "contribute",
+    "isDanger": 1,
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "translation": "v. 捐助，援助",
+    "toggle": "vt. 捐献；贡献，出力；投稿"
+  },
+  {
+    "text": "gift",
+    "isDanger": 0,
+    "phonetic": "/ɡɪft/",
+    "translation": "n. 礼物，赠品",
+    "toggle": "n. 礼物；赠品；天赋"
+  },
+  {
+    "text": "album",
+    "isDanger": 0,
+    "phonetic": "/ˈælbəm/",
+    "translation": "n. 签名簿，相册",
+    "toggle": "n. 相簿；唱片集；集邮簿；签名纪念册"
+  },
+  {
+    "text": "patience",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪʃ(ə)ns/",
+    "translation": "n. 耐心",
+    "toggle": "n. 耐性，耐心；忍耐，容忍"
+  },
+  {
+    "text": "encouragement",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈkʌrɪdʒmənt/",
+    "translation": "n. 鼓励",
+    "toggle": "n. 鼓励"
+  },
+  {
+    "text": "farewell",
+    "isDanger": 0,
+    "phonetic": "/ˌfeəˈwel/",
+    "translation": "n. 告别",
+    "toggle": "n. 告别，辞别；再会；再见"
+  },
+  {
+    "text": "honour",
+    "isDanger": 0,
+    "phonetic": "/ˈɒnə(r)/",
+    "translation": "n. 敬意",
+    "toggle": "n.尊敬,敬意,荣誉,光荣vt.尊敬,给以荣誉"
+  },
+  {
+    "text": "coincidence",
+    "isDanger": 0,
+    "phonetic": "/kəʊˈɪnsɪdəns/",
+    "translation": "n. 巧合",
+    "toggle": "n. 巧合；一致；同时发生"
+  },
+  {
+    "text": "total",
+    "isDanger": 1,
+    "phonetic": "/ˈtəʊt(ə)l/",
+    "translation": "n. 总数",
+    "toggle": "adj. 全部的；整个的；完全的"
+  },
+  {
+    "text": "devote",
+    "isDanger": 1,
+    "phonetic": "/dɪˈvəʊt/",
+    "translation": "v. 致力于",
+    "toggle": "vt. 奉献；致力于"
+  },
+  {
+    "text": "gardening",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɑːdnɪŋ/",
+    "translation": "n. 园艺",
+    "toggle": "n. 园艺；园林工人的工作"
+  },
+  {
+    "text": "hobby",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒbi/",
+    "translation": "n. 爱好，嗜好",
+    "toggle": "n. 嗜好；业余爱好"
+  }
+]

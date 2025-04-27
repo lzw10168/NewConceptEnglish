@@ -1,0 +1,180 @@
+{
+    "id": "course-2-017",
+    "lessonNumber": "017",
+    "title": {
+        "english": "Always young",
+        "chinese": "永远年轻"
+    },
+    "lessonInfo": "新概念英语－第2册－第017课",
+    "audioPath": "audio/nce2/017.mp3",
+    "listeningQuestion": {
+        "question": "How old is Jennifer?",
+        "translation": "詹妮弗多大年纪？"
+    },
+    "content": {
+        "editorNotes": "本课讲述了一位年长的女演员常常在舞台上扮演年轻角色的故事，重点介绍了情态动词must的用法，以及一些与舞台表演相关的词汇和短语。",
+        "dialogueText": {
+            "heading": "课文",
+            "dialogue": [
+                "My aunt Jennifer is an actress.",
+                "She must be at least thirty-five years old.",
+                "In spite of this, she often appears on the stage as a young girl.",
+                "Jennifer will have to take part in a new play soon.",
+                "This time, she will be a girl of seventeen.",
+                "In the play, she must appear in a bright red dress and long black stockings.",
+                "Last year in another play, she had to wear short socks and a bright, orange-coloured dress.",
+                "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'"
+            ]
+        },
+        "translation": {
+            "heading": "翻译",
+            "notes": [
+                "我的姑姑詹妮弗是位演员。",
+                "她至少也有35岁了。",
+                "尽管如此，她却常在舞台上扮演小姑娘。",
+                "詹妮弗很快又要参加一个新剧的演出。",
+                "这一次，她将扮演一个17岁的少女。",
+                "演出时她必须穿一条鲜红色的裙子和黑色的长筒袜。",
+                "去年在演另一个剧时，她不得不穿短袜和一件鲜艳的橘红色的衣服。",
+                "一旦有人问起她有多大年纪，她总是回答：'亲爱的，长成大人真可怕啊！'"
+            ]
+        },
+        "newwords": {
+            "heading": "New words and expressions 生词和短语",
+            "notes": [
+                {
+                    "text": "appear",
+                    "phonetic": "/əˈpɪə(r)/",
+                    "translation": "登场，扮演",
+                    "toggle": "v. 登场，扮演",
+                    "isImportant": 1
+                },
+                {
+                    "text": "stage",
+                    "phonetic": "/steɪdʒ/",
+                    "translation": "舞台",
+                    "toggle": "n. 舞台",
+                    "isImportant": 1
+                },
+                {
+                    "text": "bright",
+                    "phonetic": "/braɪt/",
+                    "translation": "鲜艳的",
+                    "toggle": "adj. 鲜艳的",
+                    "isImportant": 1
+                },
+                {
+                    "text": "stocking",
+                    "phonetic": "/ˈstɒkɪŋ/",
+                    "translation": "（女用）长筒袜",
+                    "toggle": "n. （女用）长筒袜",
+                    "isImportant": 1,
+                    "note": "棉的，绒的，并不是现在的丝袜"
+                },
+                {
+                    "text": "sock",
+                    "phonetic": "/sɒk/",
+                    "translation": "短袜",
+                    "toggle": "n. 短袜",
+                    "isImportant": 1
+                }
+            ]
+        },
+        "grammarPoints": {
+            "heading": "语法要点 Grammar points",
+            "notes": [
+                {
+                    "title": "情态动词must的用法",
+                    "content": [
+                        "1. must可以表示'必要，命令或强制，邀请，决心，不可推卸的责任'等多种含义。",
+                        "2. 它没有时态和人称变化，通常只用于现在时和将来时。",
+                        "3. 在其他时态时，must的有些含义可以用have to或have got to。",
+                        "4. 用于第一人称时，have to强调客观的要求，must则强调主观的要求。"
+                    ]
+                },
+                {
+                    "title": "as的用法",
+                    "content": [
+                        "1. 作为介词：表示'作为'、'以……身份'",
+                        "2. 作为连词：可以表示'因为'、'正当……时候'、'以……方式'",
+                        "3. 表示'担任……工作'"
+                    ]
+                }
+            ]
+        },
+        "commonPhrases": {
+            "heading": "常见短语 Common phrases",
+            "notes": [
+                {
+                    "phrase": "appear as",
+                    "translation": "扮演……角色",
+                    "context": "表示在表演中扮演某个角色",
+                    "example": "He appeared as a prince in the play.（他在剧中扮演王子。）"
+                },
+                {
+                    "phrase": "take part in",
+                    "translation": "参加某一种活动",
+                    "context": "表示参与某项活动",
+                    "example": "take part in a play（参加演出）"
+                },
+                {
+                    "phrase": "in spite of",
+                    "translation": "尽管，不管",
+                    "context": "表示让步关系",
+                    "example": "In spite of this, I still like school.（尽管如此，我仍然喜欢学校。）"
+                }
+            ]
+        },
+        "exercises": {
+            "multipleChoice": [
+                {
+                    "question": "Why does Jennifer always appear as a young girl?",
+                    "options": [
+                        "Because she is young",
+                        "Because she likes young girls",
+                        "Because she is an actress",
+                        "Because she doesn't want to be grown up"
+                    ],
+                    "answer": 2,
+                    "explanation": "从文中可以看出，作为一名演员，这是她的工作需要。"
+                },
+                {
+                    "question": "What does Jennifer think about being grown up?",
+                    "options": [
+                        "It's wonderful",
+                        "It's terrible",
+                        "It's interesting",
+                        "It's normal"
+                    ],
+                    "answer": 1,
+                    "explanation": "从Jennifer说的'Darling, it must be terrible to be grown up!'可以看出她认为长大是件可怕的事。"
+                }
+            ],
+            "fillInBlanks": [
+                {
+                    "sentence": "Jennifer often _____ on the stage as a young girl.",
+                    "answer": "appears",
+                    "hint": "表示'登场，扮演'的动词"
+                },
+                {
+                    "sentence": "She must wear a bright red dress and long black _____.",
+                    "answer": "stockings",
+                    "hint": "表示'长筒袜'的名词"
+                }
+            ]
+        },
+        "additionalContent": {
+            "heading": "补充内容 Additional content",
+            "notes": [
+                {
+                    "title": "舞台表演文化",
+                    "content": "在戏剧表演中，演员经常需要扮演与自己实际年龄不符的角色。这需要演员具备出色的表演技巧和丰富的舞台经验。"
+                },
+                {
+                    "title": "服装词汇辨析",
+                    "content": "dress（连衣裙）、suit（套装）、costume（戏服）这些词都与服装有关，但使用场景不同。dress通常指女性的连衣裙，suit指正式场合穿的套装，而costume特指演出服或特殊场合的服装。"
+                }
+            ]
+        }
+    }
+} 

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "group",
+    "isDanger": 0,
+    "phonetic": "/ɡruːp/",
+    "translation": "n. 小组，团体",
+    "toggle": "n. 组；团体"
+  },
+  {
+    "text": "pop singer",
+    "isDanger": 0,
+    "phonetic": "/pɒp ˈsɪŋə(r)/",
+    "translation": "n. 流行歌手",
+    "toggle": "流行歌手"
+  },
+  {
+    "text": "club",
+    "isDanger": 0,
+    "phonetic": "/klʌb/",
+    "translation": "n. 俱乐部",
+    "toggle": "n. 俱乐部，社团；夜总会；（扑克牌中的）梅花；棍棒"
+  },
+  {
+    "text": "performance",
+    "isDanger": 0,
+    "phonetic": "/pəˈfɔːməns/",
+    "translation": "n. 演出",
+    "toggle": "n. 性能；表演；执行；绩效"
+  },
+  {
+    "text": "occasion",
+    "isDanger": 0,
+    "phonetic": "/əˈkeɪʒ(ə)n/",
+    "translation": "n. 场合",
+    "toggle": "n. 场合；时机，机会；理由"
+  }
+]

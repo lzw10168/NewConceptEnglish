@@ -1,0 +1,44 @@
+[
+  {
+    "text": "exciting",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "translation": "adj. 令人兴奋的",
+    "toggle": "adj. 使人激动的；令人兴奋的"
+  },
+  {
+    "text": "receive",
+    "isDanger": 1,
+    "phonetic": "/rɪˈsiːv/",
+    "translation": "v. 接收，收到",
+    "toggle": "vt. 收到；接待；接纳"
+  },
+  {
+    "text": "firm",
+    "isDanger": 1,
+    "phonetic": "/fɜːm/",
+    "translation": "n. 商行，公司",
+    "toggle": "adj. 坚定的；结实的；牢固的；严格的"
+  },
+  {
+    "text": "different",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪfrənt/",
+    "translation": "adj. 不同的",
+    "toggle": "adj. 不同的；个别的，与众不同的"
+  },
+  {
+    "text": "centre",
+    "isDanger": 0,
+    "phonetic": "/ˈsentə(r)/",
+    "translation": "n. 中心",
+    "toggle": "n. （地理位置）中间，中心点"
+  },
+  {
+    "text": "abroad",
+    "isDanger": 0,
+    "phonetic": "/əˈbrɔːd/",
+    "translation": "adv. 在国外",
+    "toggle": "adv. 到海外；在国外"
+  }
+]

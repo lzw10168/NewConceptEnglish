@@ -1,0 +1,223 @@
+{
+  "id": "course-2-005",
+  "lessonNumber": "005",
+  "title": {
+    "english": "No wrong numbers",
+    "chinese": "无错号之虞"
+  },
+  "lessonInfo": "新概念英语－第2册－第005课",
+  "audioPath": "audio/nce2/005.mp3",
+  "listeningQuestion": {
+    "question": "How does Mr. Scott solve his communication problem?",
+    "translation": "斯科特先生是如何解决他的通讯问题的？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个创新解决通讯问题的故事。重点学习现在完成时与一般过去时的区别使用，以及与way相关的短语用法。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.",
+        "Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+        "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+        "The bird covered the distance in three minutes.",
+        "Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+        "In this way, he has begun his own private 'telephone' service."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "詹姆斯.斯科特先生在锡尔伯里有一个汽车修理部，现在他刚在平赫斯特买了另一个汽车修理部。",
+        "平赫特离锡尔伯里只有5英里，但詹姆斯.斯科特先生未能为他新的汽车修理部搞到一部电话机，所以他买了只鸽子。",
+        "昨天，一只鸽子把第一封信从平赫特带到锡尔伯里。",
+        "这只鸟只用了3分钟就飞完了全程。",
+        "到目前为止，斯科特先生从一个汽车修理部向另一个发送了大量索取备件的信件和其他紧急函件。",
+        "就这样，他开始自己的私人'电话'业务。"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "pigeon",
+          "translation": "鸽子",
+          "phonetic": "/ˈpɪdʒɪn/",
+          "toggle": "n. 鸽子",
+          "isImportant": 1
+        },
+        {
+          "text": "message",
+          "translation": "信息",
+          "phonetic": "/ˈmesɪdʒ/",
+          "toggle": "n. 信息，消息",
+          "isImportant": 1
+        },
+        {
+          "text": "cover",
+          "translation": "越过",
+          "phonetic": "/ˈkʌvər/",
+          "toggle": "v. 越过，走完（一段距离）",
+          "isImportant": 1
+        },
+        {
+          "text": "distance",
+          "translation": "距离",
+          "phonetic": "/ˈdɪstəns/",
+          "toggle": "n. 距离",
+          "isImportant": 1
+        },
+        {
+          "text": "request",
+          "translation": "要求，请求",
+          "phonetic": "/rɪˈkwest/",
+          "toggle": "n. 要求，请求",
+          "isImportant": 1
+        },
+        {
+          "text": "spare part",
+          "translation": "备件",
+          "phonetic": "/speər pɑːt/",
+          "toggle": "n. 备用零件",
+          "isImportant": 1
+        },
+        {
+          "text": "service",
+          "translation": "业务，服务",
+          "phonetic": "/ˈsɜːvɪs/",
+          "toggle": "n. 服务，业务",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "现在完成时与一般过去时的区别",
+          "content": [
+            "现在完成时表示过去发生的事情对现在造成的影响，如：he has just bought another garage",
+            "一般过去时只是陈述过去发生的事实，如：Yesterday, a pigeon carried the first message",
+            "现在完成时常与just, already, yet, so far, up to now等时间词连用",
+            "一般过去时常与yesterday, last week, ago等具体时间词连用"
+          ]
+        },
+        {
+          "title": "与way相关的短语用法",
+          "content": [
+            "in this way: 以这种方式",
+            "by the way: 顺便说一下",
+            "in the way: 挡道",
+            "on the way: 在路上"
+          ]
+        },
+        {
+          "title": "动词carry和take的区别",
+          "content": [
+            "carry强调携带，承载的含义",
+            "take强调拿取，带走的含义",
+            "本文中的carried表示鸽子携带信息飞行"
+          ]
+        },
+        {
+          "title": "another的用法",
+          "content": [
+            "another表示'另一个'，用于可数名词单数前",
+            "与other, the other的区别：another强调'额外的一个'",
+            "本文中的another garage表示额外购买的一个修理厂"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "up to now",
+          "translation": "到目前为止",
+          "context": "用于现在完成时，表示从过去到现在的时间段",
+          "example": "Up to now, I have finished half of my homework."
+        },
+        {
+          "phrase": "a great many",
+          "translation": "许多，大量",
+          "context": "用于可数名词复数前，表示大量",
+          "example": "He has read a great many books."
+        },
+        {
+          "phrase": "in this way",
+          "translation": "用这种方式",
+          "context": "表示方式或方法",
+          "example": "In this way, we can solve the problem quickly."
+        },
+        {
+          "phrase": "It's not my pigeon",
+          "translation": "这不关我的事",
+          "context": "俚语表达，等同于It's none of my business",
+          "example": "Don't ask me about it. It's not my pigeon."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why did Mr. Scott buy twelve pigeons?",
+          "options": [
+            "Because he likes keeping birds",
+            "Because he couldn't get a telephone for his new garage",
+            "Because pigeons are cheap",
+            "Because he wants to start a pigeon business"
+          ],
+          "answer": 1,
+          "explanation": "文中明确提到因为无法为新修理厂安装电话，所以买了鸽子作为通讯工具"
+        },
+        {
+          "question": "How long does it take for a pigeon to cover the distance between the two garages?",
+          "options": [
+            "Five minutes",
+            "Four minutes",
+            "Three minutes",
+            "Two minutes"
+          ],
+          "answer": 2,
+          "explanation": "文中提到：The bird covered the distance in three minutes"
+        },
+        {
+          "question": "What kind of messages does Mr. Scott send between his garages?",
+          "options": [
+            "Only personal messages",
+            "Only business letters",
+            "Requests for spare parts and other urgent messages",
+            "Advertisements"
+          ],
+          "answer": 2,
+          "explanation": "文中提到他发送备件请求和其他紧急信息"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "Mr. Scott _____ just bought another garage in Pinhurst.",
+          "answer": "has",
+          "hint": "使用现在完成时，表示最近发生的事情"
+        },
+        {
+          "sentence": "The pigeon _____ the first message yesterday.",
+          "answer": "carried",
+          "hint": "使用一般过去时，因为有yesterday这个时间词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "信鸽通信历史",
+          "content": "信鸽在历史上曾经是重要的通信方式。在现代通信技术出现之前，军事和民用领域都广泛使用信鸽传递消息。信鸽具有强大的导航能力和高度的可靠性，能够准确地找到目的地。"
+        },
+        {
+          "title": "现代通信发展",
+          "content": "这篇课文反映了电话普及之前的通信困境。如今，虽然电话和互联网已经成为主要通信方式，但在一些特殊情况下，人们仍然会使用一些替代性的通信方法。"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "ride",
+    "isDanger": 1,
+    "phonetic": "/raɪd/",
+    "translation": "n. 旅行",
+    "toggle": "vi. 骑马；乘车；漂浮；依靠"
+  },
+  {
+    "text": "excursion",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈskɜːʃn/",
+    "translation": "n. 远足",
+    "toggle": "n. 短程旅行；远足；离题；偏移；游览圆"
+  },
+  {
+    "text": "conductor",
+    "isDanger": 0,
+    "phonetic": "/kənˈdʌktə(r)/",
+    "translation": "n. 售票员",
+    "toggle": "n. 导体；售票员；领导者；管理人"
+  },
+  {
+    "text": "view",
+    "isDanger": 0,
+    "phonetic": "/vjuː/",
+    "translation": "n. 景色",
+    "toggle": "n. 风景；意见；视野；观察"
+  }
+]

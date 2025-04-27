@@ -1,0 +1,201 @@
+{
+    "id": "course-2-019",
+    "lessonNumber": "019",
+    "title": {
+        "english": "Sold out",
+        "chinese": "票已售完"
+    },
+    "lessonInfo": "新概念英语－第2册－第019课",
+    "audioPath": "audio/nce2/019.mp3",
+    "listeningQuestion": {
+        "question": "Did the man get tickets for that evening's performance?",
+        "translation": "这个人买到当天晚上演出的票了吗？"
+    },
+    "content": {
+        "editorNotes": "本课讲述了一对情侣想去看戏却发现票已售完的故事，重点介绍了can和may的用法，以及may/might as well的用法。",
+        "dialogueText": {
+            "heading": "课文",
+            "dialogue": [
+                "'The play may begin at any moment,' I said.",
+                "'It may have begun already,' Susan answered.",
+                "I hurried to the ticket office. 'May I have two tickets please?' I asked.",
+                "'I'm sorry, we've sold out,' the girl said.",
+                "'What a pity!' Susan exclaimed.",
+                "Just then, a man hurried to the ticket office.",
+                "'Can I return these two tickets?' he asked.",
+                "'Certainly,' the girl said.",
+                "I went back to the ticket office at once.",
+                "'Could I have those two tickets please?' I asked.",
+                "'Certainly,' the girl said, 'but they're for next Wednesday's performance. Do you still want them?'",
+                "'I might as well have them,' I said sadly."
+            ]
+        },
+        "translation": {
+            "heading": "翻译",
+            "notes": [
+                "'剧马上就要开演了，'我说。",
+                "'也许已经开演了呢，'苏珊回答说。",
+                "我匆匆赶到售票处，问：'我可以买两张票吗？'",
+                "'对不起，票已售完。'那位姑娘说。",
+                "'真可惜！'苏珊大声说。",
+                "正在这时，一个男子匆匆奔向售票处。",
+                "'我可以退掉这两张票吗？'他问。",
+                "'当然可以，'那姑娘说。",
+                "我马上又回到售票处。",
+                "'我可以买那两张票吗？'我问。",
+                "'当然可以，不过这两张票是下星期三的，您是否还要呢？'",
+                "'我还是买下的好，'我垂头丧气地说。"
+            ]
+        },
+        "newwords": {
+            "heading": "New words and expressions 生词和短语",
+            "notes": [
+                {
+                    "text": "hurry",
+                    "phonetic": "/ˈhʌri/",
+                    "translation": "匆忙",
+                    "toggle": "v. 匆忙",
+                    "isImportant": 1
+                },
+                {
+                    "text": "ticket office",
+                    "phonetic": "",
+                    "translation": "售票处",
+                    "toggle": "n. 售票处",
+                    "isImportant": 1
+                },
+                {
+                    "text": "pity",
+                    "phonetic": "/ˈpɪti/",
+                    "translation": "令人遗憾的事",
+                    "toggle": "n. 令人遗憾的事",
+                    "isImportant": 1
+                },
+                {
+                    "text": "exclaim",
+                    "phonetic": "/ɪkˈskleɪm/",
+                    "translation": "大声说",
+                    "toggle": "v. 大声说",
+                    "isImportant": 1
+                },
+                {
+                    "text": "return",
+                    "phonetic": "/rɪˈtɜːn/",
+                    "translation": "退回",
+                    "toggle": "v. 退回",
+                    "isImportant": 1
+                },
+                {
+                    "text": "sadly",
+                    "phonetic": "/ˈsædli/",
+                    "translation": "悲哀地，丧气地",
+                    "toggle": "adv. 悲哀地，丧气地",
+                    "isImportant": 1
+                }
+            ]
+        },
+        "grammarPoints": {
+            "heading": "语法要点 Grammar points",
+            "notes": [
+                {
+                    "title": "Can和May的用法",
+                    "content": [
+                        "1. can和may都可以表示请求，can可以用could代替，may可以用might代替，语气更委婉",
+                        "2. may和might可以表示推测，'可能……'",
+                        "3. may/might + 动词原形：表示对现在或未来事情的推测",
+                        "4. may/might + have + 动词过去分词：表示对过去事情的推测"
+                    ]
+                },
+                {
+                    "title": "may/might as well的用法",
+                    "content": [
+                        "1. may/might as well + 动词原形：表示'还是……好'（无可奈何）",
+                        "2. 与had better相比，may/might as well表示消极的态度",
+                        "3. 常用于无可选择的情况",
+                        "4. 表示'不妨……'的含义"
+                    ]
+                }
+            ]
+        },
+        "commonPhrases": {
+            "heading": "常见短语 Common phrases",
+            "notes": [
+                {
+                    "phrase": "in a hurry",
+                    "translation": "匆忙",
+                    "context": "表示时间或动作上的紧急",
+                    "example": "If you are not in a hurry, we can talk more."
+                },
+                {
+                    "phrase": "What a pity!",
+                    "translation": "真遗憾！",
+                    "context": "表示对某事感到遗憾的感叹语",
+                    "example": "What a pity that you can't come to the party!"
+                },
+                {
+                    "phrase": "sell out",
+                    "translation": "售完",
+                    "context": "表示商品已经全部卖光",
+                    "example": "The tickets for tonight's performance are sold out."
+                },
+                {
+                    "phrase": "at any moment",
+                    "translation": "随时",
+                    "context": "表示某事随时可能发生",
+                    "example": "The guests may arrive at any moment."
+                }
+            ]
+        },
+        "exercises": {
+            "multipleChoice": [
+                {
+                    "question": "How did the writer feel about getting tickets for next Wednesday's performance?",
+                    "options": [
+                        "He was very pleased",
+                        "He was excited",
+                        "He was disappointed",
+                        "He wasn't too pleased"
+                    ],
+                    "answer": 3,
+                    "explanation": "从'I might as well have them, I said sadly'可以看出作者并不太高兴"
+                },
+                {
+                    "question": "When the writer said 'The play may begin at any moment', had the play begun?",
+                    "options": [
+                        "Yes, it had begun",
+                        "No, it would begin much later",
+                        "No, it hadn't begun yet",
+                        "Yes, it began long ago"
+                    ],
+                    "answer": 2,
+                    "explanation": "may+动词原形表示对现在或未来的推测，说明演出还没开始"
+                }
+            ],
+            "fillInBlanks": [
+                {
+                    "sentence": "The tickets were _____ out when we arrived at the theatre.",
+                    "answer": "sold",
+                    "hint": "表示票已经卖完的短语"
+                },
+                {
+                    "sentence": "She _____ to the station because she was late for her train.",
+                    "answer": "hurried",
+                    "hint": "表示匆忙行动的动词"
+                }
+            ]
+        },
+        "additionalContent": {
+            "heading": "补充内容 Additional content",
+            "notes": [
+                {
+                    "title": "文化背景",
+                    "content": "在英语国家，剧院文化是一种重要的娱乐方式。观看戏剧表演时，人们通常会提前购票，并且准时到达，因为演出开始后通常不允许入场。"
+                },
+                {
+                    "title": "语言点拓展",
+                    "content": "在英语中表达遗憾时，除了'What a pity!'，还可以用'I'm sorry to hear that'或'That's a shame'等表达方式。这些表达方式的语气和使用场合略有不同。"
+                }
+            ]
+        }
+    }
+} 

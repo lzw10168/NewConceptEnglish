@@ -1,0 +1,215 @@
+{
+  "id": "course-2-032",
+  "lessonNumber": "032",
+  "title": {
+    "english": "Shopping made easy",
+    "chinese": "购物变得容易了"
+  },
+  "lessonInfo": "新概念英语－第2册－第032课",
+  "audioPath": "audio/nce2/032.mp3",
+  "listeningQuestion": {
+    "question": "What did the woman steal from the shop?",
+    "translation": "这位女士从商店偷了什么？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个关于商店盗窃的故事，揭示了现代社会中诚信缺失的问题。课文使用了比较状语从句和一些重要的语法结构，如'as...as...'的否定形式等。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "People are not so honest as they once were.",
+        "The temptation to steal is greater than ever before--especially in large shops.",
+        "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+        "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.",
+        "The woman first bought a few small articles.",
+        "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.",
+        "Then the woman simply took the parcel and walked out of the shop without paying.",
+        "When she was arrested, the detective found out that the shop assistant was her daughter.",
+        "The girl 'gave' her mother a free dress once a week!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "人们不再像以前那样诚实了。",
+        "偷窃的诱惑力比以往任何时候都更强烈——特别是在大的商店里。",
+        "一名侦探最近注意上了一位穿着讲究的妇女，她总是在星期一上午进入一家大商场。",
+        "有一个星期一，当这位妇女走进这家商场时，里面的人比往常少，因此，侦探比较容易监视她。",
+        "这位妇女先是买了几样小商品。",
+        "过了一会儿，她又选了商场里最昂贵的一件衣服，把它递给了售货员。那售货员以最快的速度为她包好了衣服。",
+        "然后，那妇女拿过包就走出了商场，根本没有付钱。",
+        "她被逮捕后，侦探发现原来那售货员是她的女儿。",
+        "那姑娘每星期'送'她母亲一件免费的衣服！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "once",
+          "translation": "曾经，以前",
+          "phonetic": "/wʌns/",
+          "toggle": "adv. 曾经，以前",
+          "isImportant": 1
+        },
+        {
+          "text": "temptation",
+          "translation": "诱惑",
+          "phonetic": "/tempˈteɪʃn/",
+          "toggle": "n. 诱惑",
+          "isImportant": 1
+        },
+        {
+          "text": "article",
+          "translation": "物品，东西",
+          "phonetic": "/ˈɑːtɪkl/",
+          "toggle": "n. 物品，东西",
+          "isImportant": 1
+        },
+        {
+          "text": "wrap",
+          "translation": "包裹",
+          "phonetic": "/ræp/",
+          "toggle": "v. 包裹",
+          "isImportant": 1
+        },
+        {
+          "text": "simply",
+          "translation": "仅仅",
+          "phonetic": "/ˈsɪmpli/",
+          "toggle": "adv. 仅仅",
+          "isImportant": 1
+        },
+        {
+          "text": "arrest",
+          "translation": "逮捕",
+          "phonetic": "/əˈrest/",
+          "toggle": "v. 逮捕",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "比较状语从句",
+          "content": [
+            "比较状语从句含有或暗含'与……相比'的意思，包括as...as..., not so/as...as..., less...than...等结构。",
+            "例如：People are not so honest as they once were.",
+            "当句子里两个动词相同、时态也一样时，第二个动词可以省略。"
+          ]
+        },
+        {
+          "title": "little和few的用法",
+          "content": [
+            "little和a little与不可数名词一起使用，few和a few与复数可数名词连用。",
+            "little表示否定，a little表示肯定。",
+            "例如：After a little time (表示过了一会儿)"
+          ]
+        },
+        {
+          "title": "A和One的用法",
+          "content": [
+            "不定冠词a通常用于表示不确定的人或事物，one强调'一个'的意思。",
+            "例如：One Monday (用于故事开头时)，表示某一个星期一。"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "as...as...",
+          "translation": "和...一样",
+          "context": "用于比较两者之间的相同程度",
+          "example": "People are not so honest as they once were."
+        },
+        {
+          "phrase": "hand...to...",
+          "translation": "递给",
+          "context": "表示将物品交给他人",
+          "example": "She handed it to an assistant."
+        },
+        {
+          "phrase": "find out",
+          "translation": "发现",
+          "context": "用于发现事实或真相",
+          "example": "The detective found out that the shop assistant was her daughter."
+        },
+        {
+          "phrase": "once a week",
+          "translation": "每周一次",
+          "context": "表示频率",
+          "example": "The girl 'gave' her mother a free dress once a week."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why was it easier for the detective to watch the woman that Monday?",
+          "options": [
+            "Because there were more people than usual",
+            "Because there were fewer people than usual",
+            "Because the woman was well-dressed",
+            "Because the detective knew her daughter"
+          ],
+          "answer": 1,
+          "explanation": "课文中提到'there were fewer people in the shop than usual'，所以侦探更容易监视她。"
+        },
+        {
+          "question": "What did the woman steal from the shop?",
+          "options": [
+            "Some small articles",
+            "An expensive dress",
+            "A parcel",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explanation": "课文中提到女人偷了'one of the most expensive dresses'。"
+        },
+        {
+          "question": "How often did the daughter give her mother a free dress?",
+          "options": [
+            "Once a day",
+            "Once a month",
+            "Once a week",
+            "Once a year"
+          ],
+          "answer": 2,
+          "explanation": "课文最后一句提到'The girl gave her mother a free dress once a week'。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "People are not so _____ as they once were.",
+          "answer": "honest",
+          "hint": "形容词，表示'诚实的'"
+        },
+        {
+          "sentence": "The woman _____ took the parcel and walked out without paying.",
+          "answer": "simply",
+          "hint": "副词，表示'仅仅，就这样'"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "社会话题探讨",
+          "content": "本课通过一个商店盗窃案例，反映了现代社会中的诚信问题。故事揭示了即使是看似体面的人也可能做出不诚实的行为，以及家庭关系可能被用于不法行为。"
+        },
+        {
+          "title": "写作特点",
+          "content": "文章采用了叙事性的写作手法，通过具体的故事情节展现主题。作者使用了大量的比较结构和时间状语，使故事的发展更加清晰。"
+        },
+        {
+          "title": "语言特点",
+          "content": "课文中使用了多个比较结构，如'not so...as...'、'greater than ever before'等，这些结构在英语中经常用于比较过去和现在的状况。"
+        }
+      ]
+    }
+  }
+} 

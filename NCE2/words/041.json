@@ -1,0 +1,44 @@
+[
+  {
+    "text": "rude",
+    "isDanger": 0,
+    "phonetic": "/ruːd/",
+    "translation": "adj. 无礼的",
+    "toggle": "adj. 粗鲁的；无礼的；狂暴的；未开化的"
+  },
+  {
+    "text": "mirror",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪrə(r)/",
+    "translation": "n. 镜子",
+    "toggle": "n. 镜子；真实的写照；榜样"
+  },
+  {
+    "text": "hole",
+    "isDanger": 0,
+    "phonetic": "/həʊl/",
+    "translation": "n. 孔",
+    "toggle": "n. 洞，孔；洞穴，穴；突破口"
+  },
+  {
+    "text": "remark",
+    "isDanger": 1,
+    "phonetic": "/rɪˈmɑːk/",
+    "translation": "v. 评说",
+    "toggle": "n. 言辞；注意"
+  },
+  {
+    "text": "remind",
+    "isDanger": 1,
+    "phonetic": "/rɪˈmaɪnd/",
+    "translation": "v. 提醒",
+    "toggle": "vt. 提醒；使想起"
+  },
+  {
+    "text": "lighthouse",
+    "isDanger": 0,
+    "phonetic": "/ˈlaɪthaʊs/",
+    "translation": "n. 灯塔",
+    "toggle": "n. 灯塔"
+  }
+]

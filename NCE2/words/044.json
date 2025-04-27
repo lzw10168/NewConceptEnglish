@@ -1,0 +1,65 @@
+[
+  {
+    "text": "forest",
+    "isDanger": 0,
+    "phonetic": "/ˈfɒrɪst/",
+    "translation": "n. 森林",
+    "toggle": "vt. 植树于，使成为森林"
+  },
+  {
+    "text": "risk",
+    "isDanger": 0,
+    "phonetic": "/rɪsk/",
+    "translation": "n. 危险，冒险",
+    "toggle": "n. 危险；风险；冒险"
+  },
+  {
+    "text": "picnic",
+    "isDanger": 0,
+    "phonetic": "/ˈpɪknɪk/",
+    "translation": "n. 野餐",
+    "toggle": "n. 野餐"
+  },
+  {
+    "text": "edge",
+    "isDanger": 1,
+    "phonetic": "/edʒ/",
+    "translation": "n. 边缘",
+    "toggle": "n. 边缘；刀刃；优势；锋利"
+  },
+  {
+    "text": "strap",
+    "isDanger": 0,
+    "phonetic": "/stræp/",
+    "translation": "n. 带，皮带",
+    "toggle": "vt. 用带捆绑；用皮条抽打；约束"
+  },
+  {
+    "text": "possession",
+    "isDanger": 0,
+    "phonetic": "/pəˈzeʃ(ə)n/",
+    "translation": "n. 所有",
+    "toggle": "n. 财产；拥有；领地；自制；着迷"
+  },
+  {
+    "text": "breath",
+    "isDanger": 0,
+    "phonetic": "/breθ/",
+    "translation": "n. 呼吸",
+    "toggle": "n. 呼吸，气息；一口气，（呼吸的）一次；微风；瞬间，瞬息；迹象； [ 语 ] 无声音，气音"
+  },
+  {
+    "text": "contents",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒntents/",
+    "translation": "n. （常用复数）内有的物品",
+    "toggle": "n. 内容; （书、讲话、节目等的）主题; 含量; 所含之物( content的名词复数 )"
+  },
+  {
+    "text": "mend",
+    "isDanger": 0,
+    "phonetic": "/mend/",
+    "translation": "v. 修理",
+    "toggle": "vt. 修理，修补；改善；修改"
+  }
+]

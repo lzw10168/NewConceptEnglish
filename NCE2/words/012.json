@@ -1,0 +1,44 @@
+[
+  {
+    "text": "luck",
+    "isDanger": 0,
+    "phonetic": "/lʌk/",
+    "translation": "n. 运气，幸运",
+    "toggle": "n. 运气；幸运；带来好运的东西"
+  },
+  {
+    "text": "captain",
+    "isDanger": 0,
+    "phonetic": "/ˈkæptɪn/",
+    "translation": "n. 船长",
+    "toggle": "n. 船长；队长，首领；上尉；海军上校"
+  },
+  {
+    "text": "sail",
+    "isDanger": 0,
+    "phonetic": "/seɪl/",
+    "translation": "v. 航行",
+    "toggle": "vi. 航行；启航，开船"
+  },
+  {
+    "text": "harbour",
+    "isDanger": 0,
+    "phonetic": "/ˈhɑːbə(r)/",
+    "translation": "n. 港口",
+    "toggle": "n. 港口；避难所，避风港"
+  },
+  {
+    "text": "proud",
+    "isDanger": 0,
+    "phonetic": "/praʊd/",
+    "translation": "adj. 自豪",
+    "toggle": "adj. 自豪的；自负的；得意的"
+  },
+  {
+    "text": "important",
+    "isDanger": 1,
+    "phonetic": "/ɪmˈpɔːt(ə)nt/",
+    "translation": "adj. 重要的",
+    "toggle": "adj. 重要的，重大的；有地位的；有权力的"
+  }
+]

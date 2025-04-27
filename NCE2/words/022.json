@@ -1,0 +1,30 @@
+[
+  {
+    "text": "dream",
+    "isDanger": 1,
+    "phonetic": "/driːm/",
+    "translation": "v. 做梦，梦想",
+    "toggle": "vi. 做梦，梦见；梦想；想到"
+  },
+  {
+    "text": "age",
+    "isDanger": 1,
+    "phonetic": "/eɪdʒ/",
+    "translation": "n. 年龄",
+    "toggle": "n. 年龄；时代；阶段；寿命，使用年限"
+  },
+  {
+    "text": "channel",
+    "isDanger": 1,
+    "phonetic": "/ˈtʃæn(ə)l/",
+    "translation": "n. 海峡",
+    "toggle": "vt. 引导，开导；形成河道"
+  },
+  {
+    "text": "throw",
+    "isDanger": 0,
+    "phonetic": "/θrəʊ/",
+    "translation": "v. 扔，抛",
+    "toggle": "vt. 抛；投；掷"
+  }
+]

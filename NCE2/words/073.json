@@ -1,0 +1,65 @@
+[
+  {
+    "text": "record-holder",
+    "isDanger": 0,
+    "phonetic": "/ˈrekɔːd həʊldə(r)/",
+    "translation": "n. 纪录保持者",
+    "toggle": "n. 记录保持者，保持最高记录者"
+  },
+  {
+    "text": "truant",
+    "isDanger": 0,
+    "phonetic": "/ˈtruːənt/",
+    "translation": "n. 逃学的孩子",
+    "toggle": "n.逃避者adj.逃避"
+  },
+  {
+    "text": "hitchhike",
+    "isDanger": 0,
+    "phonetic": "/ˈhɪtʃhaɪk/",
+    "translation": "v. 搭便车旅行",
+    "toggle": "vt. 要求（搭便车）"
+  },
+  {
+    "text": "meantime",
+    "isDanger": 1,
+    "phonetic": "/ˈmiːntaɪm/",
+    "translation": "n. 其间",
+    "toggle": "n. 其时，其间"
+  },
+  {
+    "text": "lorry",
+    "isDanger": 0,
+    "phonetic": "/ˈlɒri/",
+    "translation": "n. 卡车",
+    "toggle": "n.<古>卡车,铁路货车"
+  },
+  {
+    "text": "border",
+    "isDanger": 0,
+    "phonetic": "/ˈbɔːdə(r)/",
+    "translation": "n. 边界",
+    "toggle": "n. 边界；边境；国界"
+  },
+  {
+    "text": "evade",
+    "isDanger": 1,
+    "phonetic": "/ɪˈveɪd/",
+    "translation": "v. 逃避，逃离",
+    "toggle": "vt. 逃避；规避；逃脱"
+  },
+  {
+    "text": "unimaginative",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnɪˈmædʒɪnətɪv/",
+    "translation": "adj. 缺乏想像力的",
+    "toggle": "adj.缺乏想象力的,无趣的"
+  },
+  {
+    "text": "shame",
+    "isDanger": 0,
+    "phonetic": "/ʃeɪm/",
+    "translation": "n. 惭愧，羞耻",
+    "toggle": "n. 羞耻，羞愧；憾事，带来耻辱的人"
+  }
+]

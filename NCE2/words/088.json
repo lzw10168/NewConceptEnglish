@@ -1,0 +1,86 @@
+[
+  {
+    "text": "trap",
+    "isDanger": 1,
+    "phonetic": "/træp/",
+    "translation": "v. 陷入，使陷于困境",
+    "toggle": "vt. 诱捕；使 … 受限制；使 … 陷入困境"
+  },
+  {
+    "text": "surface",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːfɪs/",
+    "translation": "n. 地面，表面",
+    "toggle": "n. 表面；外观；表层"
+  },
+  {
+    "text": "explosive",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspləʊsɪv/",
+    "translation": "n. 炸药",
+    "toggle": "adj. 爆炸的；爆炸性的；爆发性的"
+  },
+  {
+    "text": "vibration",
+    "isDanger": 0,
+    "phonetic": "/vaɪˈbreɪʃ(ə)n/",
+    "translation": "n. 震动",
+    "toggle": "n. 振动；犹豫；心灵感应"
+  },
+  {
+    "text": "collapse",
+    "isDanger": 0,
+    "phonetic": "/kəˈlæps/",
+    "translation": "v. 坍塌",
+    "toggle": "vi. 倒塌；瓦解；暴跌"
+  },
+  {
+    "text": "drill",
+    "isDanger": 0,
+    "phonetic": "/drɪl/",
+    "translation": "v. 钻孔",
+    "toggle": "n. 钻子；钻孔机；播种机；训练"
+  },
+  {
+    "text": "capsule",
+    "isDanger": 0,
+    "phonetic": "/ˈkæpsjuːl/",
+    "translation": "n. 容器",
+    "toggle": "n. [ 医 ] 胶囊； [ 航 ] 太空舱； [ 植 ] 蒴果；小容器"
+  },
+  {
+    "text": "layer",
+    "isDanger": 0,
+    "phonetic": "/ˈleɪə(r)/",
+    "translation": "n. 层",
+    "toggle": "n. 层，阶层；地层"
+  },
+  {
+    "text": "beneath",
+    "isDanger": 0,
+    "phonetic": "/bɪˈniːθ/",
+    "translation": "prep. 在......之下",
+    "toggle": "prep. 在 … 之下"
+  },
+  {
+    "text": "lower",
+    "isDanger": 0,
+    "phonetic": "/ˈləʊə(r)/",
+    "translation": "v. 放下，降低",
+    "toggle": "vt. 放下，降下；减弱，减少；贬低"
+  },
+  {
+    "text": "progress",
+    "isDanger": 0,
+    "phonetic": "/ˈprəʊɡres/",
+    "translation": "v. 进展，进行",
+    "toggle": "n. 进步，发展；前进"
+  },
+  {
+    "text": "smoothly",
+    "isDanger": 0,
+    "phonetic": "/ˈsmuːðli/",
+    "translation": "adv. 顺利地",
+    "toggle": "adv. 平稳地，平滑地；流畅地，流利地"
+  }
+]

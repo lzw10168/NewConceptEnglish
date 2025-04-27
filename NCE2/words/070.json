@@ -1,0 +1,114 @@
+[
+  {
+    "text": "bullfight",
+    "isDanger": 0,
+    "phonetic": "/ˈbʊlfaɪt/",
+    "translation": "n. 斗牛",
+    "toggle": "n.斗牛(流行于西班牙和南美)"
+  },
+  {
+    "text": "drunk",
+    "isDanger": 0,
+    "phonetic": "/drʌŋk/",
+    "translation": "n. 醉汉",
+    "toggle": "v. 喝酒（ drink 的过去分词）"
+  },
+  {
+    "text": "wander",
+    "isDanger": 0,
+    "phonetic": "/ˈwɒndə(r)/",
+    "translation": "v. 溜达，乱走",
+    "toggle": "vi. 徘徊；漫步；离题；迷路"
+  },
+  {
+    "text": "ring",
+    "isDanger": 1,
+    "phonetic": "/rɪŋ/",
+    "translation": "n. 圆形竞技场地",
+    "toggle": "vi. 按铃；敲钟；回响；成环形"
+  },
+  {
+    "text": "unaware",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnəˈweə(r)/",
+    "translation": "adj. 不知道的，未觉察的",
+    "toggle": "adj. 不知道的，无意的；未察觉到的"
+  },
+  {
+    "text": "bull",
+    "isDanger": 0,
+    "phonetic": "/bʊl/",
+    "translation": "n. 公牛",
+    "toggle": "n. 公牛；看好股市者；粗壮如牛的人； [ 俚 ] 胡说八道；印玺"
+  },
+  {
+    "text": "matador",
+    "isDanger": 0,
+    "phonetic": "/ˈmætədɔː(r)/",
+    "translation": "n. 斗牛士",
+    "toggle": "n.斗牛士"
+  },
+  {
+    "text": "remark",
+    "isDanger": 1,
+    "phonetic": "/rɪˈmɑːk/",
+    "translation": "n. 评论；言语",
+    "toggle": "n. 言辞；注意"
+  },
+  {
+    "text": "apparently",
+    "isDanger": 0,
+    "phonetic": "/əˈpærəntli/",
+    "translation": "adv. 明显地",
+    "toggle": "adv. 显然地；似乎，表面上"
+  },
+  {
+    "text": "sensitive",
+    "isDanger": 0,
+    "phonetic": "/ˈsensətɪv/",
+    "translation": "adj. 敏感的",
+    "toggle": "adj. 敏感的；感光的；灵敏的；易受伤害的"
+  },
+  {
+    "text": "criticism",
+    "isDanger": 0,
+    "phonetic": "/ˈkrɪtɪsɪzəm/",
+    "translation": "n. 批评",
+    "toggle": "n. 批评；苛求；考证"
+  },
+  {
+    "text": "charge",
+    "isDanger": 1,
+    "phonetic": "/tʃɑːdʒ/",
+    "translation": "v. 冲上去",
+    "toggle": "n. 费用；掌管；控告；负载；电荷；命令"
+  },
+  {
+    "text": "clumsily",
+    "isDanger": 0,
+    "phonetic": "/ˈklʌmzɪli/",
+    "translation": "adv. 笨拙地",
+    "toggle": "adv. 笨拙地；粗陋地"
+  },
+  {
+    "text": "bow",
+    "isDanger": 0,
+    "phonetic": "/bəʊ/",
+    "translation": "v. 鞠躬",
+    "toggle": "n. 弓；鞠躬；船首"
+  },
+  {
+    "text": "safety",
+    "isDanger": 0,
+    "phonetic": "/ˈseɪfti/",
+    "translation": "n. 安全地带",
+    "toggle": "n. 安全；保险；安全设备；保险装置；安打"
+  },
+  {
+    "text": "sympathetically",
+    "isDanger": 0,
+    "phonetic": "/ˌsɪmpəˈθetɪkli/",
+    "translation": "adv. 同情地",
+    "toggle": "adv. 悲怜地，怜悯地；富有同情心地"
+  }
+]

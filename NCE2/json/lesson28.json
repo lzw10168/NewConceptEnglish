@@ -1,0 +1,219 @@
+{
+  "id": "course-2-028",
+  "lessonNumber": "028",
+  "title": {
+    "english": "No parking",
+    "chinese": "禁止停车"
+  },
+  "lessonInfo": "新概念英语－第2册－第028课",
+  "audioPath": "audio/nce2/028.mp3",
+  "listeningQuestion": {
+    "question": "What has Jasper White done to solve his parking problem?",
+    "translation": "贾斯珀·怀特采取了什么措施来解决他的停车问题？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个有趣的故事，关于一个相信古代神话的人如何试图解决停车问题。课文涉及现在完成时的使用，以及关系从句的语法知识。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Jasper White is one of those rare people who believe in ancient myths.",
+        "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+        "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+        "Because of this, he has not been able to get his own car into his garage even once.",
+        "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.",
+        "Now he has put an ugly stone head over the gate.",
+        "It is one of the ugliest faces I have ever seen.",
+        "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+        "Jasper hopes that she will turn cars and their owners to stone.",
+        "But none of them has been turned to stone yet!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "贾斯珀·怀特是少有的相信古代神话的人之一。",
+        "他刚在城里买下一所新房子，但自从搬进去后，就和汽车及车主们发生了磨擦。",
+        "当他夜里回到家时，总是发现有人把车停在他家大门外。",
+        "为此，他甚至一次也没能把自己的车开进车库。",
+        "贾斯珀曾把几块'禁止停车'的牌子挂在大门外边，但没有任何效果。",
+        "现在他把一个丑陋的石雕头像放在了大门上边。",
+        "这是我见过的最丑陋的头像之一。",
+        "我问他那是什么？他告诉我那是蛇发女怪美杜莎。",
+        "贾斯珀希望她把汽车和车主们都变成石头。",
+        "但到目前为止还没有一个变成石头呢！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "rare",
+          "translation": "罕见的",
+          "phonetic": "/reə/",
+          "toggle": "adj. 罕见的",
+          "isImportant": 1
+        },
+        {
+          "text": "ancient",
+          "translation": "古代的，古老的",
+          "phonetic": "/ˈeɪnʃənt/",
+          "toggle": "adj. 古代的，古老的",
+          "isImportant": 1
+        },
+        {
+          "text": "myth",
+          "translation": "神话故事",
+          "phonetic": "/mɪθ/",
+          "toggle": "n. 神话故事",
+          "isImportant": 1
+        },
+        {
+          "text": "trouble",
+          "translation": "麻烦",
+          "phonetic": "/ˈtrʌbl/",
+          "toggle": "n. 麻烦",
+          "isImportant": 1
+        },
+        {
+          "text": "effect",
+          "translation": "结果，效果",
+          "phonetic": "/ɪˈfekt/",
+          "toggle": "n. 结果，效果",
+          "isImportant": 1
+        },
+        {
+          "text": "Medusa",
+          "translation": "美杜莎",
+          "phonetic": "/mɪˈdjuːsə/",
+          "toggle": "n. 美杜莎（古希腊神话中3位蛇发女怪之一）",
+          "isImportant": 0
+        },
+        {
+          "text": "Gorgon",
+          "translation": "蛇发女怪",
+          "phonetic": "/ˈɡɔːɡən/",
+          "toggle": "n. （古希腊神话）3位蛇发女怪之一（凡见其貌者都会变成石头）",
+          "isImportant": 0
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "one of + 名词/代词结构",
+          "content": [
+            "one of 后面的名词必须是复数，但与这个结构连用的动词必须是单数。例如：One of your friends is waiting for you now.",
+            "如果在定语从句中出现了one of作为先行词，它后边的关系代词指代的是后面的复数名词。",
+            "如果在one of前面还有修饰词the only，那么后边的关系代词将指代one这个词，作单数看。",
+            "one of直接作主语的时候，它是做单数看待的。"
+          ]
+        },
+        {
+          "title": "ever since的用法",
+          "content": [
+            "ever since = since，表示'从那以后一直'",
+            "ever since的语气比since强，主句一般用完成时",
+            "例如：I've been interested in flying ever since I was a boy."
+          ]
+        },
+        {
+          "title": "because of 和 because的区别",
+          "content": [
+            "because只能作连词用，后面接从句",
+            "because of是介词短语，后面不可以跟从句，只能跟名词、代词或动词'-ing'",
+            "例如：He came back early because of the rain."
+          ]
+        },
+        {
+          "title": "关系从句中关系词的省略",
+          "content": [
+            "如果关系词在从句中做宾语，关系词可以省略",
+            "例如：This is the most difficult thing (that) I have ever done.",
+            "关系代词在关系从句中作主语时则不可以省略"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "believe in",
+          "translation": "信任，信赖；信仰；相信……的存在",
+          "context": "用于表达对某人、某事物的信任或信仰",
+          "example": "I believe in God. (我信仰上帝。)"
+        },
+        {
+          "phrase": "have trouble with",
+          "translation": "与...有麻烦",
+          "context": "用于描述与某人或某事物发生问题",
+          "example": "I have trouble with my roommate. (我和室友相处有问题。)"
+        },
+        {
+          "phrase": "turn to stone",
+          "translation": "变成石头",
+          "context": "字面意思是变成石头，也可比喻变得僵硬或无生气",
+          "example": "The sight of Medusa turned people to stone. (看到美杜莎的人会变成石头。)"
+        },
+        {
+          "phrase": "have effect",
+          "translation": "有效果",
+          "context": "用于描述某事物是否产生作用",
+          "example": "The medicine has no effect on me. (这药对我没有效果。)"
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why did Jasper White put up 'No Parking' signs?",
+          "options": [
+            "Because he wanted to sell his house",
+            "Because he couldn't get his car into the garage",
+            "Because he liked putting up signs",
+            "Because he wanted to decorate his gate"
+          ],
+          "answer": 1,
+          "explanation": "根据课文，贾斯珀放置禁止停车标志是因为他无法把自己的车开进车库。"
+        },
+        {
+          "question": "What did Jasper put over his gate after the signs didn't work?",
+          "options": [
+            "A beautiful statue",
+            "A security camera",
+            "An ugly stone head of Medusa",
+            "A parking meter"
+          ],
+          "answer": 2,
+          "explanation": "课文提到他在门上放置了一个丑陋的美杜莎石头像。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "Jasper White is one of those _____ people who believe in ancient myths.",
+          "answer": "rare",
+          "hint": "表示'罕见的、稀有的'的形容词"
+        },
+        {
+          "sentence": "The 'No Parking' signs have not had any _____.",
+          "answer": "effect",
+          "hint": "表示'效果、作用'的名词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "美杜莎是希腊神话中著名的蛇发女怪，她的头发是由毒蛇组成的，任何直视她面容的人都会被变成石头。这个神话故事在西方文化中经常被用来象征恐惧和威慑力。"
+        },
+        {
+          "title": "语言点拓展",
+          "content": "课文中出现的'rare'一词除了表示'罕见的'之外，在描述食物时还可以表示'几乎是生的'，例如：rare steak（三分熟的牛排）。"
+        }
+      ]
+    }
+  }
+} 

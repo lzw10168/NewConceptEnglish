@@ -1,0 +1,30 @@
+[
+  {
+    "text": "beggar",
+    "isDanger": 0,
+    "phonetic": "/ˈbeɡə(r)/",
+    "translation": "n. 乞丐",
+    "toggle": "n. 乞丐；穷人； [ 英口 ] 家伙"
+  },
+  {
+    "text": "food",
+    "isDanger": 0,
+    "phonetic": "/fuːd/",
+    "translation": "n. 食物",
+    "toggle": "n. 食物；养料"
+  },
+  {
+    "text": "pocket",
+    "isDanger": 0,
+    "phonetic": "/ˈpɒkɪt/",
+    "translation": "n. 衣服口袋",
+    "toggle": "n. 口袋；钱；容器"
+  },
+  {
+    "text": "call",
+    "isDanger": 1,
+    "phonetic": "/kɔːl/",
+    "translation": "v. 拜访，光顾",
+    "toggle": "vi. 呼叫；拜访；叫牌"
+  }
+]

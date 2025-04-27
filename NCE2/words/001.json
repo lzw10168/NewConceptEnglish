@@ -1,0 +1,79 @@
+[
+  {
+    "text": "private",
+    "isDanger": 1,
+    "phonetic": "/ˈpraɪvət/",
+    "translation": "adj. 私人的",
+    "toggle": "adj. 私人的；私有的；私下的"
+  },
+  {
+    "text": "conversation",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒnvəˈseɪʃ(ə)n/",
+    "translation": "n. 谈话",
+    "toggle": "n. 会话；交谈；社交"
+  },
+  {
+    "text": "theatre",
+    "isDanger": 0,
+    "phonetic": "/ˈθɪətə(r)/",
+    "translation": "n. 剧场，戏院",
+    "toggle": "n. 剧场，戏院"
+  },
+  {
+    "text": "seat",
+    "isDanger": 0,
+    "phonetic": "/siːt/",
+    "translation": "n. 座位",
+    "toggle": "n. 座位；所在地；职位"
+  },
+  {
+    "text": "angry",
+    "isDanger": 0,
+    "phonetic": "/ˈæŋɡri/",
+    "translation": "adj. 生气的",
+    "toggle": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的"
+  },
+  {
+    "text": "attention",
+    "isDanger": 0,
+    "phonetic": "/əˈtenʃ(ə)n/",
+    "translation": "n. 注意",
+    "toggle": "n. 注意力；关心；立正！（口令）"
+  },
+  {
+    "text": "angrily",
+    "isDanger": 0,
+    "phonetic": "/ˈæŋɡrəli/",
+    "translation": "adv. 生气地",
+    "toggle": "adv. 愤怒地"
+  },
+  {
+    "text": "bear",
+    "isDanger": 1,
+    "phonetic": "/beə(r)/",
+    "translation": "v. 容忍",
+    "toggle": "vi. 结果实；承受"
+  },
+  {
+    "text": "business",
+    "isDanger": 0,
+    "phonetic": "/ˈbɪznəs/",
+    "translation": "n. 事",
+    "toggle": "n. 商业；生意；交易；事情"
+  },
+  {
+    "text": "rudely",
+    "isDanger": 0,
+    "phonetic": "/ˈruːdli/",
+    "translation": "adv. 无礼地，粗鲁地",
+    "toggle": "adv. 无礼地；粗暴地"
+  },
+  {
+    "text": "play",
+    "isDanger": 1,
+    "phonetic": "/pleɪ/",
+    "translation": "n. 戏",
+    "toggle": "vt. 演奏；播放；游戏；扮演；同 … 比赛"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "once",
+    "isDanger": 0,
+    "phonetic": "/wʌns/",
+    "translation": "adv. 曾经，以前",
+    "toggle": "adv. 一次；曾经"
+  },
+  {
+    "text": "temptation",
+    "isDanger": 0,
+    "phonetic": "/tempˈteɪʃ(ə)n/",
+    "translation": "n. 诱惑",
+    "toggle": "n. 引诱；诱惑物"
+  },
+  {
+    "text": "article",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːtɪk(ə)l/",
+    "translation": "n. 物品，东西",
+    "toggle": "n. 物品；文章；冠词；条款"
+  },
+  {
+    "text": "wrap",
+    "isDanger": 1,
+    "phonetic": "/ræp/",
+    "translation": "v. 包裹",
+    "toggle": "vt. 包；隐藏；缠绕；掩护"
+  },
+  {
+    "text": "simply",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪmpli/",
+    "translation": "adv. 仅仅",
+    "toggle": "adv. 简单地；朴素地；简直；仅仅；坦白地"
+  },
+  {
+    "text": "arrest",
+    "isDanger": 0,
+    "phonetic": "/əˈrest/",
+    "translation": "v. 逮捕",
+    "toggle": "vt. 吸引；逮捕；阻止"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "park",
+    "isDanger": 0,
+    "phonetic": "/pɑːk/",
+    "translation": "v. 停放（汽车）",
+    "toggle": "n. 公园；停车场"
+  },
+  {
+    "text": "traffic",
+    "isDanger": 0,
+    "phonetic": "/ˈtræfɪk/",
+    "translation": "n. 交通",
+    "toggle": "n. 交通；贸易；运输；通信量"
+  },
+  {
+    "text": "ticket",
+    "isDanger": 0,
+    "phonetic": "/ˈtɪkɪt/",
+    "translation": "n. 交通违规罚款单",
+    "toggle": "n. 票；入场券，标签；证明书；（美）候选人名单； [ 口 ] 交通罚款单"
+  },
+  {
+    "text": "note",
+    "isDanger": 1,
+    "phonetic": "/nəʊt/",
+    "translation": "n. 便条",
+    "toggle": "n. 笔记；注解；便笺；照会；音符；调子；票据；纸币"
+  },
+  {
+    "text": "area",
+    "isDanger": 0,
+    "phonetic": "/ˈeəriə/",
+    "translation": "n. 地段",
+    "toggle": "n. 面积；区域，地区；范围"
+  },
+  {
+    "text": "sign",
+    "isDanger": 1,
+    "phonetic": "/saɪn/",
+    "translation": "n. 指示牌",
+    "toggle": "n. 符号；记号；迹象；手势"
+  },
+  {
+    "text": "reminder",
+    "isDanger": 0,
+    "phonetic": "/rɪˈmaɪndə(r)/",
+    "translation": "n. 提示",
+    "toggle": "n. 暗示；提醒的人 / 物；催单"
+  },
+  {
+    "text": "fail",
+    "isDanger": 0,
+    "phonetic": "/feɪl/",
+    "translation": "v. 无视，忘记",
+    "toggle": "vi. 失败，不及格；衰退；缺乏；破产"
+  },
+  {
+    "text": "obey",
+    "isDanger": 0,
+    "phonetic": "/əˈbeɪ/",
+    "translation": "v. 服从",
+    "toggle": "vt. 服从，听从；按照 …… 行动"
+  },
+  {
+    "text": "polite",
+    "isDanger": 0,
+    "phonetic": "/pəˈlaɪt/",
+    "translation": "adj. 有礼貌的",
+    "toggle": "adj. 有礼貌的，客气的；文雅的；上流的；优雅的"
+  }
+]

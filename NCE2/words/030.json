@@ -1,0 +1,58 @@
+[
+  {
+    "text": "polo",
+    "isDanger": 0,
+    "phonetic": "/ˈpəʊləʊ/",
+    "translation": "n. 水球",
+    "toggle": "n. 水球；马球"
+  },
+  {
+    "text": "Wayle",
+    "isDanger": 0,
+    "phonetic": "/weil/",
+    "translation": "n. 威尔（河名）",
+    "toggle": "n.韦尔"
+  },
+  {
+    "text": "cut",
+    "isDanger": 1,
+    "phonetic": "/kʌt/",
+    "translation": "v. 穿过",
+    "toggle": "n. 伤口；切口；削减；（服装等的）式样； [ 体育 ] 削球；切入； vt. 切割；削减；缩短；刺痛； vi. 切割；相交；切牌；停拍；不出席； adj. 割下的；雕过的；缩减的"
+  },
+  {
+    "text": "row",
+    "isDanger": 0,
+    "phonetic": "/rəʊ/",
+    "translation": "v. 划（船）",
+    "toggle": "n. 行，排；吵闹；划船；街道"
+  },
+  {
+    "text": "kick",
+    "isDanger": 0,
+    "phonetic": "/kɪk/",
+    "translation": "v. 踢",
+    "toggle": "vt. 踢；反冲，朝后座"
+  },
+  {
+    "text": "towards",
+    "isDanger": 1,
+    "phonetic": "/təˈwɔːdz/",
+    "translation": "prep. 朝，向",
+    "toggle": "prep. 朝，向；有助于；对于"
+  },
+  {
+    "text": "nearly",
+    "isDanger": 0,
+    "phonetic": "/ˈnɪəli/",
+    "translation": "adv. 几乎",
+    "toggle": "adv. 差不多，几乎；密切地"
+  },
+  {
+    "text": "sight",
+    "isDanger": 1,
+    "phonetic": "/saɪt/",
+    "translation": "n. 眼界，视域",
+    "toggle": "n. 视力；眼界；景象；见解"
+  }
+]

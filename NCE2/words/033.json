@@ -1,0 +1,86 @@
+[
+  {
+    "text": "darkness",
+    "isDanger": 0,
+    "phonetic": "/ˈdɑːknəs/",
+    "translation": "n. 黑暗",
+    "toggle": "n. 黑暗；模糊；无知；阴郁"
+  },
+  {
+    "text": "explain",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspleɪn/",
+    "translation": "v. 解释，叙述",
+    "toggle": "v. 说明；解释"
+  },
+  {
+    "text": "coast",
+    "isDanger": 0,
+    "phonetic": "/kəʊst/",
+    "translation": "n. 海滨",
+    "toggle": "vi. 沿岸航行；滑行"
+  },
+  {
+    "text": "storm",
+    "isDanger": 0,
+    "phonetic": "/stɔːm/",
+    "translation": "n. 暴风雨",
+    "toggle": "n. 暴风雨；大动荡"
+  },
+  {
+    "text": "towards",
+    "isDanger": 1,
+    "phonetic": "/təˈwɔːdz/",
+    "translation": "prep. 向，朝；接近",
+    "toggle": "prep. 朝，向；有助于；对于"
+  },
+  {
+    "text": "rock",
+    "isDanger": 0,
+    "phonetic": "/rɒk/",
+    "translation": "n. 岩石，礁石",
+    "toggle": "n. 岩石；暗礁；摇滚乐"
+  },
+  {
+    "text": "shore",
+    "isDanger": 0,
+    "phonetic": "/ʃɔː(r)/",
+    "translation": "n. 海岸",
+    "toggle": "vt. 用支柱撑住；支撑，使稳住"
+  },
+  {
+    "text": "light",
+    "isDanger": 1,
+    "phonetic": "/laɪt/",
+    "translation": "n. 灯光",
+    "toggle": "n. 光，光亮；灯"
+  },
+  {
+    "text": "ahead",
+    "isDanger": 1,
+    "phonetic": "/əˈhed/",
+    "translation": "adv. 在前面",
+    "toggle": "adj. 向前；在前的；领先； adv. 向前的；领先的"
+  },
+  {
+    "text": "cliff",
+    "isDanger": 0,
+    "phonetic": "/klɪf/",
+    "translation": "n. 峭壁",
+    "toggle": "n. 绝壁；悬崖"
+  },
+  {
+    "text": "struggle",
+    "isDanger": 0,
+    "phonetic": "/ˈstrʌɡ(ə)l/",
+    "translation": "v. 挣扎",
+    "toggle": "vi. 挣扎；奋斗，努力"
+  },
+  {
+    "text": "hospital",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒspɪt(ə)l/",
+    "translation": "n. 医院",
+    "toggle": "n. 医院"
+  }
+]

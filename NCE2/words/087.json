@@ -1,0 +1,51 @@
+[
+  {
+    "text": "alibi",
+    "isDanger": 0,
+    "phonetic": "/ˈæləbaɪ/",
+    "translation": "n. 不在犯罪现场",
+    "toggle": "n. 托辞；犯罪现场；辩解"
+  },
+  {
+    "text": "commit",
+    "isDanger": 0,
+    "phonetic": "/kəˈmɪt/",
+    "translation": "v. 犯（罪、错）",
+    "toggle": "vt. 把 ... 交托给；指派 … 作战；使 … 承担义务；犯罪，做错事"
+  },
+  {
+    "text": "inspector",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈspektə(r)/",
+    "translation": "n. 探长",
+    "toggle": "n. 检查员；巡视员"
+  },
+  {
+    "text": "employer",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈplɔɪə(r)/",
+    "translation": "n. 雇主",
+    "toggle": "n. 雇主，老板"
+  },
+  {
+    "text": "confirm",
+    "isDanger": 1,
+    "phonetic": "/kənˈfɜːm/",
+    "translation": "v. 确认，证实",
+    "toggle": "vt. 确认；批准；证实；确定；使巩固"
+  },
+  {
+    "text": "suggest",
+    "isDanger": 1,
+    "phonetic": "/səˈdʒest/",
+    "translation": "v. 提醒",
+    "toggle": "vt. 提议，建议；启发；使人想起"
+  },
+  {
+    "text": "truth",
+    "isDanger": 0,
+    "phonetic": "/truːθ/",
+    "translation": "n. 真相",
+    "toggle": "n. 事实；真理；实质；诚实"
+  }
+]

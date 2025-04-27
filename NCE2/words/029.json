@@ -1,0 +1,72 @@
+[
+  {
+    "text": "taxi",
+    "isDanger": 0,
+    "phonetic": "/ˈtæksi/",
+    "translation": "n. 出租汽车",
+    "toggle": "vi. 乘出租车；滑行"
+  },
+  {
+    "text": "Pilatus Porter",
+    "isDanger": 0,
+    "phonetic": "/pɪˈleɪtəs ˈpɔrtər/",
+    "translation": "n. 皮勒特斯 波特（飞机名）",
+    "toggle": "n.皮勒特斯·波特（飞机机名）"
+  },
+  {
+    "text": "land",
+    "isDanger": 1,
+    "phonetic": "/lænd/",
+    "translation": "v. 着陆 (不及物)",
+    "toggle": "n. 陆地；地面；国土"
+  },
+  {
+    "text": "plough",
+    "isDanger": 0,
+    "phonetic": "/plaʊ/",
+    "translation": "v. 耕地",
+    "toggle": "v. 耕，犁；（用或仿佛用犁）划出（沟或线）"
+  },
+  {
+    "text": "lonely",
+    "isDanger": 0,
+    "phonetic": "/ˈləʊnli/",
+    "translation": "adj. 偏僻的, 人迹罕见的(地方)",
+    "toggle": "adj. 寂寞的；偏僻的"
+  },
+  {
+    "text": "Welsh",
+    "isDanger": 0,
+    "phonetic": "/welʃ/",
+    "translation": "adj. 威尔士的",
+    "toggle": "adj. 威尔士的；威尔士人的；威尔士语的"
+  },
+  {
+    "text": "roof",
+    "isDanger": 0,
+    "phonetic": "/ruːf/",
+    "translation": "n. 楼顶 (从外面看)",
+    "toggle": "n. 屋顶；最高处，顶部；最高限度"
+  },
+  {
+    "text": "block",
+    "isDanger": 1,
+    "phonetic": "/blɒk/",
+    "translation": "n. 块, 一座大楼",
+    "toggle": "n. 块；街区；障碍物；大厦"
+  },
+  {
+    "text": "flat",
+    "isDanger": 1,
+    "phonetic": "/flæt/",
+    "translation": "n. 公寓房",
+    "toggle": "adj. 平坦的；单调的；浅的；扁平的"
+  },
+  {
+    "text": "desert",
+    "isDanger": 1,
+    "phonetic": "/ˈdezət/",
+    "translation": "v. 废弃",
+    "toggle": "vt. 遗弃；放弃；逃跑"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "text": "mummy",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌmi/",
+    "translation": "n. 木乃伊",
+    "toggle": "n. 木乃伊；干瘪的人； [ 口 ] 妈妈"
+  },
+  {
+    "text": "Egyptian",
+    "isDanger": 0,
+    "phonetic": "/iˈdʒɪpʃn/",
+    "translation": "adj. 埃及的",
+    "toggle": "adj. 埃及的；埃及人的"
+  },
+  {
+    "text": "temple",
+    "isDanger": 0,
+    "phonetic": "/ˈtemp(ə)l/",
+    "translation": "n. 庙",
+    "toggle": "n. 庙宇；寺院；神殿；太阳穴"
+  },
+  {
+    "text": "mark",
+    "isDanger": 1,
+    "phonetic": "/mɑːk/",
+    "translation": "n. 斑点",
+    "toggle": "n. 马克；符号；痕迹；标志"
+  },
+  {
+    "text": "plate",
+    "isDanger": 1,
+    "phonetic": "/pleɪt/",
+    "translation": "n. （照相）底片",
+    "toggle": "n. 金属板；碟；金属牌；感光底片"
+  },
+  {
+    "text": "disease",
+    "isDanger": 0,
+    "phonetic": "/dɪˈziːz/",
+    "translation": "n. 疾病",
+    "toggle": "n. 病，疾病；弊病"
+  },
+  {
+    "text": "last",
+    "isDanger": 1,
+    "phonetic": "/lɑːst/",
+    "translation": "v. 持续",
+    "toggle": "n. 末尾，最后；上个；鞋楦（做鞋的模型）"
+  },
+  {
+    "text": "prove",
+    "isDanger": 1,
+    "phonetic": "/pruːv/",
+    "translation": "v. 显示出",
+    "toggle": "vt. 证明；检验；显示"
+  },
+  {
+    "text": "resin",
+    "isDanger": 0,
+    "phonetic": "/ˈrezɪn/",
+    "translation": "n. 树脂",
+    "toggle": "n. 树脂；松香"
+  },
+  {
+    "text": "skin",
+    "isDanger": 1,
+    "phonetic": "/skɪn/",
+    "translation": "n. 皮肤",
+    "toggle": "n. 皮肤；外皮"
+  },
+  {
+    "text": "section",
+    "isDanger": 0,
+    "phonetic": "/ˈsekʃ(ə)n/",
+    "translation": "n. 切片",
+    "toggle": "n. 章节；地区；截面；部门"
+  },
+  {
+    "text": "figure",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪɡə(r)/",
+    "translation": "n. （人的）体形；人像",
+    "toggle": "n. 图形；数字；（人的）体形；人物；画像；价格"
+  },
+  {
+    "text": "normally",
+    "isDanger": 0,
+    "phonetic": "/ˈnɔːməli/",
+    "translation": "adv. 通常地",
+    "toggle": "adv. 正常地；通常地，一般地"
+  },
+  {
+    "text": "survive",
+    "isDanger": 0,
+    "phonetic": "/səˈvaɪv/",
+    "translation": "v. 幸免于",
+    "toggle": "vt. 比 ... 活得长；幸免于；幸存；生还"
+  }
+]

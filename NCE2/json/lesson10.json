@@ -1,0 +1,234 @@
+{
+  "id": "course-2-010",
+  "lessonNumber": "010",
+  "title": {
+    "english": "Not for jazz",
+    "chinese": "不是用来弹爵士乐的"
+  },
+  "lessonInfo": "新概念英语－第2册－第010课",
+  "audioPath": "audio/nce2/010.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the clavichord?",
+    "translation": "古钢琴发生了什么事？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个关于古钢琴被不当使用的故事，介绍了被动语态的用法和双重所有格的概念。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "We have an old musical instrument.",
+        "It is called a clavichord.",
+        "It was made in Germany in 1681.",
+        "Our clavichord is kept in the living room.",
+        "It has belonged to our family for a long time.",
+        "The instrument was bought by my grandfather many years ago.",
+        "Recently it was damaged by a visitor.",
+        "She tried to play jazz on it!",
+        "She struck the keys too hard and two of the strings were broken.",
+        "My father was shocked.",
+        "Now we are not allowed to touch it.",
+        "It is being repaired by a friend of my father's."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "我家有件古乐器，",
+        "被称作古钢琴，",
+        "是1681年德国造的。",
+        "我们的这架古钢琴存放在起居室里。",
+        "我们家有这件乐器已经很久了，",
+        "是我祖父在很多年以前买的。",
+        "可它最近被一个客人弄坏了，",
+        "因为她用它来弹奏爵士乐！",
+        "她在击琴键时用力过猛，损坏了两根琴弦。",
+        "我父亲大为吃惊，",
+        "不许我们再动它。",
+        "父亲的一个朋友正在修理这件乐器。"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "jazz",
+          "phonetic": "/dʒæz/",
+          "translation": "爵士音乐",
+          "toggle": "n. 爵士音乐",
+          "isImportant": 1
+        },
+        {
+          "text": "musical",
+          "phonetic": "/ˈmjuːzɪkl/",
+          "translation": "音乐的",
+          "toggle": "adj. 音乐的",
+          "isImportant": 1
+        },
+        {
+          "text": "instrument",
+          "phonetic": "/ˈɪnstrəmənt/",
+          "translation": "乐器",
+          "toggle": "n. 乐器，器械，器具",
+          "isImportant": 1
+        },
+        {
+          "text": "clavichord",
+          "phonetic": "/ˈklævɪkɔːd/",
+          "translation": "古钢琴",
+          "toggle": "n. 古钢琴",
+          "isImportant": 1
+        },
+        {
+          "text": "recently",
+          "phonetic": "/ˈriːsntli/",
+          "translation": "最近",
+          "toggle": "adv. 最近",
+          "isImportant": 1
+        },
+        {
+          "text": "damage",
+          "phonetic": "/ˈdæmɪdʒ/",
+          "translation": "损坏",
+          "toggle": "v. 损坏；n. 损害，损失",
+          "isImportant": 1
+        },
+        {
+          "text": "key",
+          "phonetic": "/kiː/",
+          "translation": "琴键",
+          "toggle": "n. 琴键，钥匙，答案；adj. 关键的",
+          "isImportant": 1
+        },
+        {
+          "text": "string",
+          "phonetic": "/strɪŋ/",
+          "translation": "琴弦",
+          "toggle": "n. (乐器的)弦",
+          "isImportant": 1
+        },
+        {
+          "text": "shock",
+          "phonetic": "/ʃɒk/",
+          "translation": "使不悦或生气，震惊",
+          "toggle": "v. 使不悦或生气，震惊",
+          "isImportant": 1
+        },
+        {
+          "text": "allow",
+          "phonetic": "/əˈlaʊ/",
+          "translation": "允许，让",
+          "toggle": "v. 允许，让",
+          "isImportant": 1
+        },
+        {
+          "text": "touch",
+          "phonetic": "/tʌtʃ/",
+          "translation": "触摸",
+          "toggle": "v. 触摸，碰；涉及，关系到",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "被动语态的基本结构",
+          "content": "被动语态由be的一种形式和过去分词构成。主动语态的时态用法规则也适用于被动语态。如：It was made in Germany in 1681."
+        },
+        {
+          "title": "made与不同介词的搭配",
+          "content": "made in表示产地或时间，made of表示用某种材料制成（性质不变），made from表示用数种材料制成或性质改变，made by表示制造者。"
+        },
+        {
+          "title": "双重所有格",
+          "content": "双重所有格是指名词+of+名词所有格的结构，如a friend of my father's。用于强调很多中的一个或几个。"
+        },
+        {
+          "title": "allow的用法",
+          "content": "可用于allow doing sth.或allow sb. to do sth.，常用于被动语态，如We are not allowed to touch it."
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "be made in",
+          "translation": "在...制造",
+          "context": "表示产品的产地",
+          "example": "This car was made in Japan."
+        },
+        {
+          "phrase": "belong to",
+          "translation": "属于",
+          "context": "表示所属关系",
+          "example": "The book belongs to me."
+        },
+        {
+          "phrase": "play on",
+          "translation": "在...上演奏",
+          "context": "表示在某乐器上演奏",
+          "example": "She plays music on the piano."
+        },
+        {
+          "phrase": "be allowed to",
+          "translation": "被允许",
+          "context": "表示获得许可",
+          "example": "Students are not allowed to smoke."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "When was the clavichord made?",
+          "options": [
+            "In 1861",
+            "In 1681",
+            "In 1618",
+            "In 1816"
+          ],
+          "answer": 1,
+          "explanation": "课文中明确提到古钢琴是1681年在德国制造的。"
+        },
+        {
+          "question": "Why was the father shocked?",
+          "options": [
+            "Because the visitor played jazz",
+            "Because the strings were broken",
+            "Because the clavichord was old",
+            "Because they couldn't repair it"
+          ],
+          "answer": 1,
+          "explanation": "访客弹爵士乐时用力过猛，打断了琴弦，这让父亲感到震惊。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The clavichord _____ to our family for a long time.",
+          "answer": "has belonged",
+          "hint": "使用现在完成时，表示持续状态"
+        },
+        {
+          "sentence": "The instrument is being _____ by a friend of my father's.",
+          "answer": "repaired",
+          "hint": "使用被动语态的现在进行时"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "古钢琴简介",
+          "content": "古钢琴（clavichord）是钢琴的前身之一，在14-18世纪的欧洲非常流行。它的特点是声音柔和，适合演奏巴洛克时期的音乐，而不适合演奏需要强烈节奏和力度的爵士乐。"
+        },
+        {
+          "title": "乐器保护",
+          "content": "古董乐器需要特别的保养和保护。不当的使用可能会对这些珍贵的历史文物造成不可修复的损害。在使用任何乐器时，都应该了解其特性和适合的演奏方式。"
+        }
+      ]
+    }
+  }
+} 

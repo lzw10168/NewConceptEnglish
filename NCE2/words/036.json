@@ -1,0 +1,58 @@
+[
+  {
+    "text": "record",
+    "isDanger": 0,
+    "phonetic": "/ˈrekɔːd/",
+    "translation": "n. 记录",
+    "toggle": "vt. 记录，记载；将 ... 录音；标明"
+  },
+  {
+    "text": "strong",
+    "isDanger": 1,
+    "phonetic": "/strɒŋ/",
+    "translation": "adj. 强壮的",
+    "toggle": "adj. 强壮的；擅长的；坚强的；牢固的"
+  },
+  {
+    "text": "swimmer",
+    "isDanger": 0,
+    "phonetic": "/ˈswɪmə(r)/",
+    "translation": "n. 游泳运动员",
+    "toggle": "n. 游泳者"
+  },
+  {
+    "text": "succeed",
+    "isDanger": 0,
+    "phonetic": "/səkˈsiːd/",
+    "translation": "v. 成功",
+    "toggle": "vi. 成功；继承；继任；兴旺"
+  },
+  {
+    "text": "train",
+    "isDanger": 1,
+    "phonetic": "/treɪn/",
+    "translation": "v. 训练",
+    "toggle": "n. 火车；行列；长队；裙裾"
+  },
+  {
+    "text": "anxiously",
+    "isDanger": 0,
+    "phonetic": "/ˈæŋkʃəsli/",
+    "translation": "adv. 焦急地",
+    "toggle": "adv. 不安地，忧虑地"
+  },
+  {
+    "text": "intend",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈtend/",
+    "translation": "v. 打算",
+    "toggle": "vt. 打算；意指；想要"
+  },
+  {
+    "text": "solid",
+    "isDanger": 0,
+    "phonetic": "/ˈsɒlɪd/",
+    "translation": "adj. 固体的，硬的",
+    "toggle": "adj. 固体的；结实的；可靠的；一致的；立体的"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "text": "gold",
+    "isDanger": 0,
+    "phonetic": "/ɡəʊld/",
+    "translation": "n. 金子",
+    "toggle": "n. 金，黄金；金币；金色"
+  },
+  {
+    "text": "mine",
+    "isDanger": 1,
+    "phonetic": "/maɪn/",
+    "translation": "n. 矿",
+    "toggle": "n. 矿山，矿井；矿，矿藏；地雷，水雷"
+  },
+  {
+    "text": "treasure",
+    "isDanger": 0,
+    "phonetic": "/ˈtreʒə(r)/",
+    "translation": "n. 财宝",
+    "toggle": "n. 财富，财产；财宝；珍品"
+  },
+  {
+    "text": "revealer",
+    "isDanger": 0,
+    "phonetic": "/rɪˈvi:lə/",
+    "translation": "n. 探测器",
+    "toggle": "n.启示者"
+  },
+  {
+    "text": "invent",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈvent/",
+    "translation": "v. 发明",
+    "toggle": "vt. 发明；创造；虚构"
+  },
+  {
+    "text": "detect",
+    "isDanger": 1,
+    "phonetic": "/dɪˈtekt/",
+    "translation": "v. 探测",
+    "toggle": "vt. 发现；察觉；探测"
+  },
+  {
+    "text": "bury",
+    "isDanger": 1,
+    "phonetic": "/ˈberi/",
+    "translation": "v. 埋藏",
+    "toggle": "vt. 埋葬；隐藏"
+  },
+  {
+    "text": "cave",
+    "isDanger": 0,
+    "phonetic": "/keɪv/",
+    "translation": "n. 山洞",
+    "toggle": "vt. 使凹陷，使塌落；在 … 挖洞穴"
+  },
+  {
+    "text": "seashore",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːʃɔː(r)/",
+    "translation": "n. 海岸",
+    "toggle": "n.海岸,海滨"
+  },
+  {
+    "text": "pirate",
+    "isDanger": 0,
+    "phonetic": "/ˈpaɪrət/",
+    "translation": "n. 海盗",
+    "toggle": "n. 海盗；盗版；侵犯专利权者"
+  },
+  {
+    "text": "arm",
+    "isDanger": 1,
+    "phonetic": "/ɑːm/",
+    "translation": "v. 武装",
+    "toggle": "n. 手臂；袖子；武器；装备"
+  },
+  {
+    "text": "soil",
+    "isDanger": 1,
+    "phonetic": "/sɔɪl/",
+    "translation": "n. 泥土",
+    "toggle": "n. 土壤；土地；国家；温床；务农；粪便"
+  },
+  {
+    "text": "entrance",
+    "isDanger": 0,
+    "phonetic": "/ˈentrəns/",
+    "translation": "n. 入口",
+    "toggle": "n. 入口；进入"
+  },
+  {
+    "text": "finally",
+    "isDanger": 0,
+    "phonetic": "/ˈfaɪnəli/",
+    "translation": "adv. 最后",
+    "toggle": "adv. 终于；最后；决定性地"
+  },
+  {
+    "text": "worthless",
+    "isDanger": 0,
+    "phonetic": "/ˈwɜːθləs/",
+    "translation": "adj. 毫无价值的",
+    "toggle": "adj. 无价值的；卑微的；不值钱的"
+  },
+  {
+    "text": "thoroughly",
+    "isDanger": 0,
+    "phonetic": "/ˈθʌrəli/",
+    "translation": "adv. 彻底地",
+    "toggle": "adv. 彻底地，完全地"
+  },
+  {
+    "text": "trunk",
+    "isDanger": 0,
+    "phonetic": "/trʌŋk/",
+    "translation": "n. 行李箱",
+    "toggle": "n. 树干；躯干；象鼻；汽车车尾的行李箱"
+  },
+  {
+    "text": "confident",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnfɪdənt/",
+    "translation": "adj. 有信心的",
+    "toggle": "adj. 自信的；确信的"
+  },
+  {
+    "text": "value",
+    "isDanger": 1,
+    "phonetic": "/ˈvæljuː/",
+    "translation": "n. 价值",
+    "toggle": "n. 价值；价格；重要性；值；确切涵义"
+  }
+]

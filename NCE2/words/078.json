@@ -1,0 +1,86 @@
+[
+  {
+    "text": "entitle",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtaɪt(ə)l/",
+    "translation": "v. 以……为名",
+    "toggle": "vt. 称做 … ；定名为 … ；给 … 称号；使 … 有权利"
+  },
+  {
+    "text": "calm",
+    "isDanger": 1,
+    "phonetic": "/kɑːm/",
+    "translation": "v. 使镇定",
+    "toggle": "adj. 静的，平静的；沉着的"
+  },
+  {
+    "text": "nerve",
+    "isDanger": 1,
+    "phonetic": "/nɜːv/",
+    "translation": "n. 神经",
+    "toggle": "n. 神经；勇气； [ 植 ] 叶脉"
+  },
+  {
+    "text": "concentration",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒns(ə)nˈtreɪʃ(ə)/",
+    "translation": "n. 集中，专心",
+    "toggle": "n. 集中；浓度；专心；集合；浓缩"
+  },
+  {
+    "text": "suffer",
+    "isDanger": 1,
+    "phonetic": "/ˈsʌfə(r)/",
+    "translation": "v. 受苦，受害",
+    "toggle": "vt. 忍受；遭受；经历"
+  },
+  {
+    "text": "symptom",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪmptəm/",
+    "translation": "n. 症状",
+    "toggle": "n. 征兆；症状"
+  },
+  {
+    "text": "temper",
+    "isDanger": 1,
+    "phonetic": "/ˈtempə(r)/",
+    "translation": "n. 脾气",
+    "toggle": "n. 脾气；（钢等）回火；性情；倾向"
+  },
+  {
+    "text": "appetite",
+    "isDanger": 0,
+    "phonetic": "/ˈæpɪtaɪt/",
+    "translation": "n. 胃口，食欲",
+    "toggle": "n. 食欲；嗜好"
+  },
+  {
+    "text": "produce",
+    "isDanger": 0,
+    "phonetic": "/prəˈdjuːs/",
+    "translation": "v. 拿出",
+    "toggle": "vt. 生产；引起；创作"
+  },
+  {
+    "text": "urge",
+    "isDanger": 0,
+    "phonetic": "/ɜːdʒ/",
+    "translation": "v. 力劝，怂恿",
+    "toggle": "vt. 力劝，催促；驱策，推进"
+  },
+  {
+    "text": "satisfaction",
+    "isDanger": 0,
+    "phonetic": "/ˌsætɪsˈfækʃ(ə)n/",
+    "translation": "n. 满意，满足",
+    "toggle": "n. 满意，满足；赔偿；乐事； [ 宗 ] 赎罪"
+  },
+  {
+    "text": "delighted",
+    "isDanger": 0,
+    "phonetic": "/dɪˈlaɪtɪd/",
+    "translation": "adj. 欣喜的",
+    "toggle": "adj. 欣喜的；高兴的"
+  }
+]

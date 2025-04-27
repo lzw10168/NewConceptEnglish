@@ -1,0 +1,51 @@
+[
+  {
+    "text": "experience",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "translation": "n. 经历",
+    "toggle": "n. 经验；经历；体验"
+  },
+  {
+    "text": "wave",
+    "isDanger": 1,
+    "phonetic": "/weɪv/",
+    "translation": "v. 招手",
+    "toggle": "vi. 波动；起伏；摇动；呈波形；挥手示意"
+  },
+  {
+    "text": "lift",
+    "isDanger": 0,
+    "phonetic": "/lɪft/",
+    "translation": "v. 搭便车",
+    "toggle": "vt. 举起；提升；空运；鼓舞； [ 口 ] 抄袭"
+  },
+  {
+    "text": "reply",
+    "isDanger": 0,
+    "phonetic": "/rɪˈplaɪ/",
+    "translation": "v. 回答",
+    "toggle": "vi. 回答；回击；答辩"
+  },
+  {
+    "text": "language",
+    "isDanger": 0,
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "translation": "n. 语言",
+    "toggle": "n. 语言；语言文字；表达能力"
+  },
+  {
+    "text": "journey",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒɜːni/",
+    "translation": "n. 旅行",
+    "toggle": "n. 旅行；行程"
+  },
+  {
+    "text": "amusing",
+    "isDanger": 0,
+    "phonetic": "/əˈmjuːzɪŋ/",
+    "translation": "adj. 好笑的，有趣的",
+    "toggle": "adj. 有趣的，好玩的；引人发笑的"
+  }
+]

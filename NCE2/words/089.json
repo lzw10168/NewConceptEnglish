@@ -1,0 +1,51 @@
+[
+  {
+    "text": "slip",
+    "isDanger": 1,
+    "phonetic": "/slɪp/",
+    "translation": "n. 小错误",
+    "toggle": "vi. 犯错；滑倒；减退；滑动；失足"
+  },
+  {
+    "text": "comedy",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒmədi/",
+    "translation": "n. 喜剧",
+    "toggle": "n. 喜剧；喜剧性；有趣的事情"
+  },
+  {
+    "text": "present",
+    "isDanger": 1,
+    "phonetic": "/ˈprez(ə)nt/",
+    "translation": "v. 演出；adj. 出席，到场的",
+    "toggle": "vt. 呈现；介绍；提出；赠送"
+  },
+  {
+    "text": "queue",
+    "isDanger": 0,
+    "phonetic": "/kjuː/",
+    "translation": "v. 排队",
+    "toggle": "n. 队列；长队；辫子"
+  },
+  {
+    "text": "dull",
+    "isDanger": 0,
+    "phonetic": "/dʌl/",
+    "translation": "adj. 枯燥，无味",
+    "toggle": "adj. 钝的；呆滞的；阴暗的；迟钝的；无趣的"
+  },
+  {
+    "text": "artiste",
+    "isDanger": 0,
+    "phonetic": "/ɑːˈtiːst/",
+    "translation": "n. 艺人",
+    "toggle": "n.技艺家"
+  },
+  {
+    "text": "advertiser",
+    "isDanger": 0,
+    "phonetic": "/ˈædvətaɪzə(r)/",
+    "translation": "n. 报幕员",
+    "toggle": "n. 刊登广告的人；广告客户"
+  }
+]

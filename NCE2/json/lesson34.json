@@ -1,0 +1,199 @@
+{
+  "id": "course-2-034",
+  "lessonNumber": "034",
+  "title": {
+    "english": "Quick work",
+    "chinese": "破案真快"
+  },
+  "lessonInfo": "新概念英语－第2册－第034课",
+  "audioPath": "audio/nce2/034.mp3",
+  "listeningQuestion": {
+    "question": "When was Ted's bicycle stolen?",
+    "translation": "泰德的自行车是什么时候被偷的？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个关于失而复得的有趣故事，展示了警察工作的效率。课文使用了被动语态和一些重要的语法结构，如'be being done'的现在进行时被动语态等。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Ted Robinson has been worried all the week.",
+        "Last Tuesday he received a letter from the local police.",
+        "In the letter he was asked to call at the station.",
+        "Ted wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried any more.",
+        "At the station, he was told by a smiling policeman that his bicycle had been found.",
+        "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.",
+        "It is now being sent to his home by train.",
+        "Ted was most surprised when he heard the news.",
+        "He was amused too, because he never expected the bicycle to be found.",
+        "It was stolen twenty years ago when Ted was a boy of fifteen!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "泰德·鲁宾逊焦虑了整整一个星期。",
+        "上星期二他收到当地警察局的一封信。",
+        "信中要他到警察局去一趟。",
+        "泰德奇怪警察为什么找他，但昨天还是去了，结果他不再担心了。",
+        "在警察局里，一位面带笑容的警察告诉他，他的自行车找到了。",
+        "那位警察对他说，那辆自行车是5天前在400英里外的一个小村里发现的。",
+        "现在正用火车给他运回家来。",
+        "泰德听到这个消息后，惊奇万分。",
+        "他也觉得非常好笑，因为他从未指望那辆自行车还能找到。",
+        "这是20年前泰德还是一个15岁的孩子时被人偷走的！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "station",
+          "translation": "（警察）局",
+          "phonetic": "/ˈsteɪʃn/",
+          "toggle": "n. （警察）局",
+          "isImportant": 1
+        },
+        {
+          "text": "most",
+          "translation": "相当，非常",
+          "phonetic": "/məʊst/",
+          "toggle": "adv. 相当，非常",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "被动语态的现在进行时",
+          "content": [
+            "结构为'am/is/are + being + 过去分词'",
+            "例句：It is now being sent to his home by train.",
+            "表示动作正在进行，且主语是动作的承受者。"
+          ]
+        },
+        {
+          "title": "most的用法",
+          "content": [
+            "作为副词时，表示'非常，很'，常与形容词性的过去分词连用。",
+            "例句：Ted was most surprised when he heard the news.",
+            "不加the时译为'非常'，加the时才译为'最'"
+          ]
+        },
+        {
+          "title": "call相关短语",
+          "content": [
+            "call at: 拜访某地（如call at the station）",
+            "call on: 拜访某人",
+            "call up: 打电话（美语）",
+            "call off: 取消"
+          ]
+        },
+        {
+          "title": "被动语态中的want",
+          "content": [
+            "want用于被动语态时可表示'想与某人见面'或'缉拿，追捕'",
+            "例句：Ted wondered why he was wanted by the police.",
+            "常用于正式场合或警务情境"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "pick up",
+          "translation": "（偶然地、意外地）找到、获得、学会",
+          "context": "表示意外发现或获得某物",
+          "example": "The bicycle was picked up in a small village."
+        },
+        {
+          "phrase": "not...any more",
+          "translation": "不再",
+          "context": "表示某事不再发生或继续",
+          "example": "He is not worried any more."
+        },
+        {
+          "phrase": "miles away",
+          "translation": "在...英里外",
+          "context": "表示距离，可直接作定语",
+          "example": "The bicycle was found in a village four hundred miles away."
+        },
+        {
+          "phrase": "the local police",
+          "translation": "当地警察",
+          "context": "表示特定地区的警察机构",
+          "example": "He received a letter from the local police."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why was Ted worried at first?",
+          "options": [
+            "Because his bicycle was stolen",
+            "Because he received a letter from the police",
+            "Because he had to go to the station",
+            "Because he was late for work"
+          ],
+          "answer": 1,
+          "explanation": "课文提到Ted收到警察局的信后一直很担心（worried）。"
+        },
+        {
+          "question": "How long ago was the bicycle stolen?",
+          "options": [
+            "Five days ago",
+            "Ten years ago",
+            "Fifteen years ago",
+            "Twenty years ago"
+          ],
+          "answer": 3,
+          "explanation": "课文最后提到自行车是在20年前被偷的。"
+        },
+        {
+          "question": "How far away was the village where the bicycle was found?",
+          "options": [
+            "Two hundred miles",
+            "Three hundred miles",
+            "Four hundred miles",
+            "Five hundred miles"
+          ],
+          "answer": 2,
+          "explanation": "课文提到自行车是在400英里外的村子里被发现的。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "Ted _____ why he was wanted by the police.",
+          "answer": "wondered",
+          "hint": "动词，表示'想知道'"
+        },
+        {
+          "sentence": "The bicycle is now _____ sent to his home by train.",
+          "answer": "being",
+          "hint": "用于构成现在进行时的被动语态"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "词语辨析",
+          "content": "quick（动作快）、fast（速度快）、soon（时间快）这三个词都表示'快'，但使用场景不同。如quick meal（快餐）、fast food（快餐）、see you soon（很快见）。"
+        },
+        {
+          "title": "地址缩写",
+          "content": "英语中常见的地址缩写：St.(Street), Rd.(Road), Sq.(Square), Ave.(Avenue), Pl.(Place)等。但Lane和Drive通常不缩写。"
+        },
+        {
+          "title": "语言特点",
+          "content": "本课使用了大量的被动语态，这是因为故事的主人公是事件的被动接受者，而不是主动的行为者。这种写作手法突出了故事的戏剧性和意外性。"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,100 @@
+[
+  {
+    "text": "art",
+    "isDanger": 0,
+    "phonetic": "/ɑːt/",
+    "translation": "n. 艺术",
+    "toggle": "n. 艺术；美术；艺术品"
+  },
+  {
+    "text": "critic",
+    "isDanger": 1,
+    "phonetic": "/ˈkrɪtɪk/",
+    "translation": "n. 评论家",
+    "toggle": "n. 批评家，评论家；爱挑剔的人"
+  },
+  {
+    "text": "paint",
+    "isDanger": 1,
+    "phonetic": "/peɪnt/",
+    "translation": "v. 画",
+    "toggle": "vt. 油漆；描绘；装饰；绘画"
+  },
+  {
+    "text": "pretend",
+    "isDanger": 1,
+    "phonetic": "/prɪˈtend/",
+    "translation": "v. 假装",
+    "toggle": "vt. 假装；伪称；假扮"
+  },
+  {
+    "text": "pattern",
+    "isDanger": 0,
+    "phonetic": "/ˈpæt(ə)n/",
+    "translation": "n. 图案",
+    "toggle": "n. 模式；样品；图案"
+  },
+  {
+    "text": "curtain",
+    "isDanger": 0,
+    "phonetic": "/ˈkɜːt(ə)n/",
+    "translation": "n. 窗帘，幕布",
+    "toggle": "n. 窗帘；幕"
+  },
+  {
+    "text": "material",
+    "isDanger": 1,
+    "phonetic": "/məˈtɪəriəl/",
+    "translation": "n. 材料",
+    "toggle": "adj. 物质的，实质性的；重要的；肉体的"
+  },
+  {
+    "text": "appreciate",
+    "isDanger": 1,
+    "phonetic": "/əˈpriːʃieɪt/",
+    "translation": "v. 鉴赏",
+    "toggle": "vt. 欣赏(appreciate music)；感激；鉴别(appreciate wine)；领会"
+  },
+  {
+    "text": "notice",
+    "isDanger": 1,
+    "phonetic": "/ˈnəʊtɪs/",
+    "translation": "v. 注意到",
+    "toggle": "n. 通知，布告；注意；公告"
+  },
+  {
+    "text": "whether",
+    "isDanger": 1,
+    "phonetic": "/ˈweðə(r)/",
+    "translation": "conj. 是否",
+    "toggle": "conj. 是否；不论"
+  },
+  {
+    "text": "hang",
+    "isDanger": 1,
+    "phonetic": "/hæŋ/",
+    "translation": "v. 悬挂，吊",
+    "toggle": "vt. 绞死；悬挂，垂下；使悬而未决；装饰"
+  },
+  {
+    "text": "critically",
+    "isDanger": 0,
+    "phonetic": "/ˈkrɪtɪkli/",
+    "translation": "adv. 批评地",
+    "toggle": "adv. 危急地；精密地；批评性地；用钻研眼光地"
+  },
+  {
+    "text": "upside down",
+    "isDanger": 0,
+    "phonetic": "/ˌʌpsaɪd ˈdaʊn/",
+    "translation": "adv. 上下颠倒地（两个同样的音连在一起时, 前面的音声去不读）",
+    "toggle": "颠倒；倒转；翻转"
+  },
+  {
+    "text": "upside",
+    "isDanger": 0,
+    "phonetic": "/ˈʌpsaɪd/",
+    "translation": "n. 优势",
+    "toggle": "n. 上部；上面；上边"
+  }
+]

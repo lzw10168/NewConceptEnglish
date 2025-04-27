@@ -1,0 +1,65 @@
+[
+  {
+    "text": "thirsty",
+    "isDanger": 0,
+    "phonetic": "/ˈθɜːsti/",
+    "translation": "adj. 贪杯的",
+    "toggle": "adj. 口渴的，口干的；渴望的，热望的"
+  },
+  {
+    "text": "ghost",
+    "isDanger": 0,
+    "phonetic": "/ɡəʊst/",
+    "translation": "n. 鬼魂",
+    "toggle": "n. 鬼，幽灵"
+  },
+  {
+    "text": "haunt",
+    "isDanger": 0,
+    "phonetic": "/hɔːnt/",
+    "translation": "v. （鬼）来访，闹鬼",
+    "toggle": "vt. 常出没于 … ；萦绕于 … ；经常去 …"
+  },
+  {
+    "text": "block",
+    "isDanger": 1,
+    "phonetic": "/blɒk/",
+    "translation": "v. 堵",
+    "toggle": "n. 块；街区；障碍物；大厦"
+  },
+  {
+    "text": "furniture",
+    "isDanger": 0,
+    "phonetic": "/ˈfɜːnɪtʃə(r)/",
+    "translation": "n. 家具",
+    "toggle": "n. 家具；设备；储藏物"
+  },
+  {
+    "text": "whisky",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪski/",
+    "translation": "n. 威士忌酒",
+    "toggle": "n. 威士忌酒"
+  },
+  {
+    "text": "suggest",
+    "isDanger": 1,
+    "phonetic": "/səˈdʒest/",
+    "translation": "v. 暗示",
+    "toggle": "vt. 提议，建议；启发；使人想起"
+  },
+  {
+    "text": "shake",
+    "isDanger": 1,
+    "phonetic": "/ʃeɪk/",
+    "translation": "v. 摇动",
+    "toggle": "vt. 摇动；动摇；震动"
+  },
+  {
+    "text": "accept",
+    "isDanger": 1,
+    "phonetic": "/əkˈsept/",
+    "translation": "v. 接受",
+    "toggle": "vt. 接受；承认；承担；承兑；容纳"
+  }
+]

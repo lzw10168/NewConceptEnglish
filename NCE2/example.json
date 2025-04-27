@@ -1,0 +1,119 @@
+{
+  "id": "course-1-001",
+  "lessonNumber": "001",
+  "title": {
+    "english": "Excuse me!",
+    "chinese": "对不起！"
+  },
+  "lessonInfo": "新概念英语－第1册－第001课",
+  "audioPath": "audio/nce2/001.mp3",
+  "listeningQuestion": {
+    "question": "Whose handbag is it?",
+    "translation": "这是谁的手袋？"
+  },
+  "content": {
+    "editorNotes": "介绍文章背景, 语法要点, 实际使用情况.",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Excuse me!",
+        "Yes?",
+        "Is this your handbag?",
+        "Pardon?",
+        "Is this your handbag?",
+        "Yes, it is.",
+        "Thank you very much."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "对不起",
+        "什么事？",
+        "这是您的手提包吗？",
+        "对不起，请再说一遍。",
+        "这是您的手提包吗？",
+        "是的，是我的。",
+        "非常感谢！"
+      ]
+    },
+    "vocabulary": {
+      "heading": "词汇学习 New words",
+      "notes": [{
+          "text": "Excuse",
+          "translation": "对不起",
+          "phonetic": "/ɪkˈsʌs/",
+          "toggle": "n. 对不起；劳驾；打扰",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "双宾语",
+          "content": [
+            "双宾语：直接宾语(表示动作结果，动作所涉及的事物)和间接宾语(动作目标，动作是谁做的或为谁做的，通常是人)。间接宾语大多数情况下置于直接宾语之前，如果间接宾语在后，间接宾主前必须加“to” （表示动作对什么人做）或“for”（表示动作为什么人而做）。 ",
+            "give sb. sth./give sth to sb ",
+            "间接宾语在后面时, 其前必须加 to(对……而言)或 for(为……而做)。可以翻译为“给”、“替”、 “为”的，就用for；如果只能翻译为“给”的, 就用 to ",
+            "与 to 相连的 give, take, pass, read, sell, buy，pay，hand，bring，show，promise，offer，owe take flowers to my wife. 与 for 相连的 buy, order, make, find I buy a book for you . make a cake for you find sth. for sb. ",
+            "do sb. a favor 帮某人一个忙 ",
+            "Do me a favor please./Do a favor for me? 帮我一个忙 I do something for you. "
+            
+          ]
+        }, 
+      ]
+    },
+    "commonPhrases" : {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "It's none of your business",
+          "translation": "这不关你的事",
+          "context": "当别人过分干涉自己事情时的常用表达",
+          "example": "Shut up! It's none of your business.（闭嘴！这不关你的事。）"
+        },
+        {
+          "phrase": "I could not bear it",
+          "translation": "我无法忍受",
+          "context": "表达无法容忍某种情况时的用语",
+          "example": "Stop it! I could not bear it.（别说了！我无法忍受。）"
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why couldn't the writer enjoy the play?",
+          "options": [
+            "Because the play was boring",
+            "Because his seat was bad",
+            "Because people behind him were talking",
+            "Because he was too tired"
+          ],
+          "answer": 2,
+          "explanation": "文中提到后排的人大声说话影响了作者观看演出"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The young man and woman were sitting ___ me.",
+          "answer": "behind",
+          "hint": "表示位置关系的介词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "在英语国家，主动归还失物并表示礼貌是被高度重视的行为。'Excuse me'和'Thank you very much'等礼貌用语在日常交流中非常重要。"
+        }
+       
+      ]
+    }
+  }
+
+}

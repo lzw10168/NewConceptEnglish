@@ -1,0 +1,58 @@
+[
+  {
+    "text": "bark",
+    "isDanger": 0,
+    "phonetic": "/bɑːk/",
+    "translation": "v. 狗叫",
+    "toggle": "vt. 咆哮；吠叫； [ 口 ] 咳嗽"
+  },
+  {
+    "text": "press",
+    "isDanger": 0,
+    "phonetic": "/pres/",
+    "translation": "v. 按，压",
+    "toggle": "vt. 压；按；紧抱；逼迫"
+  },
+  {
+    "text": "paw",
+    "isDanger": 0,
+    "phonetic": "/pɔː/",
+    "translation": "n. 脚爪",
+    "toggle": "vt. 抓，扒；亲昵地抚摸"
+  },
+  {
+    "text": "latch",
+    "isDanger": 0,
+    "phonetic": "/lætʃ/",
+    "translation": "n. 门闩",
+    "toggle": "vi. 闭锁；占有，抓住"
+  },
+  {
+    "text": "expert",
+    "isDanger": 1,
+    "phonetic": "/ˈekspɜːt/",
+    "translation": "n. 专家",
+    "toggle": "adj. 熟练的；内行的；老练的"
+  },
+  {
+    "text": "develop",
+    "isDanger": 0,
+    "phonetic": "/dɪˈveləp/",
+    "translation": "v. 养成",
+    "toggle": "vt. 开发；使成长；进步；使显影"
+  },
+  {
+    "text": "habit",
+    "isDanger": 1,
+    "phonetic": "/ˈhæbɪt/",
+    "translation": "n. 习惯",
+    "toggle": "n. 习惯，习性；嗜好"
+  },
+  {
+    "text": "remove",
+    "isDanger": 0,
+    "phonetic": "/rɪˈmuːv/",
+    "translation": "v. 拆掉，取下",
+    "toggle": "vt. 移动，迁移；开除；调动"
+  }
+]

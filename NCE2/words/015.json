@@ -1,0 +1,37 @@
+[
+  {
+    "text": "secretary",
+    "isDanger": 0,
+    "phonetic": "/ˈsekrət(ə)ri/",
+    "translation": "n. 秘书",
+    "toggle": "n. 秘书；书记；大臣；部长"
+  },
+  {
+    "text": "nervous",
+    "isDanger": 0,
+    "phonetic": "/ˈnɜːvəs/",
+    "translation": "adj. 精神紧张的",
+    "toggle": "adj. 神经的；紧张不安的；强健有力的"
+  },
+  {
+    "text": "afford",
+    "isDanger": 0,
+    "phonetic": "/əˈfɔːd/",
+    "translation": "v. 负担得起",
+    "toggle": "vt. 给予，提供；买得起"
+  },
+  {
+    "text": "weak",
+    "isDanger": 0,
+    "phonetic": "/wiːk/",
+    "translation": "adj. 弱的",
+    "toggle": "adj. 疲软的；虚弱的；无力的；不牢固的"
+  },
+  {
+    "text": "interrupt",
+    "isDanger": 1,
+    "phonetic": "/ˌɪntəˈrʌpt/",
+    "translation": "v. 插话，打断",
+    "toggle": "vt. 中断；妨碍；插嘴；打断"
+  }
+]

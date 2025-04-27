@@ -75,3 +75,114 @@
 ## Anki
 * 新概念第三册的笔记anki下载地址：https://ankiweb.net/shared/info/1533041577
 * 新概念第四册的笔记anki下载地址：https://ankiweb.net/shared/info/1169581791
+
+
+
+## 更新日志
+{
+  "id": "course-1-001",
+  "lessonNumber": "001",
+  "title": {
+    "english": "Excuse me!",
+    "chinese": "对不起！"
+  },
+  "lessonInfo": "新概念英语－第1册－第001课",
+  "audioPath": "audio/001.mp3",
+  "listeningQuestion": {
+    "question": "Whose handbag is it?",
+    "translation": "这是谁的手袋？"
+  },
+  "content": {
+    "editorNotes": "本课是新概念英语第一册的第一课，介绍了简单的日常对话。通过一个寻找失物的情景，学习基本的问候语和简单疑问句的用法。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Excuse me!",
+        "Yes?",
+        "Is this your handbag?",
+        "Pardon?",
+        "Is this your handbag?",
+        "Yes, it is.",
+        "Thank you very much."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "对不起",
+        "什么事？",
+        "这是您的手提包吗？",
+        "对不起，请再说一遍。",
+        "这是您的手提包吗？",
+        "是的，是我的。",
+        "非常感谢！"
+      ]
+    },
+    "vocabulary": {
+      "heading": "词汇学习  Word study",
+      "notes": [{
+        "text": "Excuse",
+        "translation": "对不起",
+        "phonetic": "/ɪkˈsʌs/",
+        "extended": "n. 对不起；劳驾；打扰",
+        "isImportant": 1
+      }
+    ]
+    },
+    "phrase": {
+      "heading": "短语使用 Phrase in use",
+      "notes": [
+        {
+          "text": "Excuse me!",
+          "translation": "对不起！"
+        }
+      ]
+    },
+
+    "notesOnText": {
+      "heading": "课文详注 Further notes on the text",
+      "notes": [
+        {
+          "title": "Excuse me!",
+          "content": "'Excuse me!'是英语中最常用的礼貌用语之一，用于引起他人注意或在打扰别人时表示歉意。它相当于汉语中的'对不起，打扰一下'。在公共场所、陌生人之间交流，或需要别人帮忙时，都应首先使用这个表达。在语调上，通常带有上升语调，表示礼貌和询问。"
+        }
+       
+      ]
+    },
+    "grammarNotes": {
+      "heading": "语法 Grammar in use",
+      "notes": [
+        {
+          "title": "be动词的用法",
+          "content": "本课中出现了be动词的一种形式'is'。be动词是英语中最基本的动词之一，用来表示状态。其第三人称单数现在时形式为'is'。例如：This is your handbag."
+        }
+       
+      ]
+    },
+    "phrasePractice": {
+      "heading": "句型练习 Phrase practice",
+      "notes": [
+        {
+          "pattern": "Is this your _____?",
+          "examples": [
+            {"en": "Is this your book?", "cn": "这是你的书吗？"},
+            {"en": "Is this your pen?", "cn": "这是你的钢笔吗？"},
+            {"en": "Is this your umbrella?", "cn": "这是你的雨伞吗？"}
+          ]
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "在英语国家，主动归还失物并表示礼貌是被高度重视的行为。'Excuse me'和'Thank you very much'等礼貌用语在日常交流中非常重要。"
+        }
+       
+      ]
+    }
+  }
+}
+
+你能帮我按这个格式 整理这篇文章吗

@@ -1,0 +1,86 @@
+[
+  {
+    "text": "unload",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈləʊd/",
+    "translation": "v. 卸（货）",
+    "toggle": "vt. 卸；摆脱 … 之负担；倾销"
+  },
+  {
+    "text": "wooden",
+    "isDanger": 0,
+    "phonetic": "/ˈwʊdn/",
+    "translation": "adj. 木制的",
+    "toggle": "adj. 木制的；僵硬的，呆板的"
+  },
+  {
+    "text": "extremely",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈstriːmli/",
+    "translation": "adv. 非常，极其",
+    "toggle": "adv. 非常，极其；极端地"
+  },
+  {
+    "text": "occur",
+    "isDanger": 1,
+    "phonetic": "/əˈkɜː(r)/",
+    "translation": "v. 发生",
+    "toggle": "vi. 发生；出现；存在"
+  },
+  {
+    "text": "astonish",
+    "isDanger": 0,
+    "phonetic": "/əˈstɒnɪʃ/",
+    "translation": "v. 使惊讶",
+    "toggle": "vt. 使惊讶"
+  },
+  {
+    "text": "pile",
+    "isDanger": 0,
+    "phonetic": "/paɪl/",
+    "translation": "n. 堆",
+    "toggle": "n. 堆；大量；建筑群"
+  },
+  {
+    "text": "woollen",
+    "isDanger": 0,
+    "phonetic": "/ˈwʊlən/",
+    "translation": "n. 羊毛的",
+    "toggle": "n.毛织品adj.羊毛制的"
+  },
+  {
+    "text": "goods",
+    "isDanger": 0,
+    "phonetic": "/ɡʊdz/",
+    "translation": "n. （常用复数）货物，商品",
+    "toggle": "n.货物（仅复数）,<美俚>工具"
+  },
+  {
+    "text": "discover",
+    "isDanger": 0,
+    "phonetic": "/dɪˈskʌvə(r)/",
+    "translation": "v. 发现",
+    "toggle": "vt. 发现；发觉"
+  },
+  {
+    "text": "admit",
+    "isDanger": 1,
+    "phonetic": "/ədˈmɪt/",
+    "translation": "v. 承认",
+    "toggle": "vt. 承认；准许进入；可容纳"
+  },
+  {
+    "text": "confine",
+    "isDanger": 1,
+    "phonetic": "/kənˈfaɪn/",
+    "translation": "v. 关在（一个狭小的空间里）",
+    "toggle": "n. 界限，边界"
+  },
+  {
+    "text": "normal",
+    "isDanger": 1,
+    "phonetic": "/ˈnɔːm(ə)l/",
+    "translation": "adj. 正常的，通常的",
+    "toggle": "adj. 正常的；正规的，标准的"
+  }
+]

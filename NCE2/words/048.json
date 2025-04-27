@@ -1,0 +1,44 @@
+[
+  {
+    "text": "pull",
+    "isDanger": 1,
+    "phonetic": "/pʊl/",
+    "translation": "v. 拔",
+    "toggle": "vt. 拉；拖；拔"
+  },
+  {
+    "text": "cotton wool",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒtn ˈwʊl/",
+    "translation": "n. 药棉",
+    "toggle": "药棉，脱脂棉"
+  },
+  {
+    "text": "collect",
+    "isDanger": 1,
+    "phonetic": "/kəˈlekt/",
+    "translation": "v. 搜集",
+    "toggle": "vt. 收集；募捐"
+  },
+  {
+    "text": "collection",
+    "isDanger": 0,
+    "phonetic": "/kəˈlekʃ(ə)n/",
+    "translation": "n. 收藏品，收集品",
+    "toggle": "n. 收藏品；募捐；征收；采集，聚集"
+  },
+  {
+    "text": "nod",
+    "isDanger": 0,
+    "phonetic": "/nɒd/",
+    "translation": "v. 点头",
+    "toggle": "n. 点头；打盹；摆动"
+  },
+  {
+    "text": "meanwhile",
+    "isDanger": 0,
+    "phonetic": "/ˈmiːnwaɪl/",
+    "translation": "adv. 同时",
+    "toggle": "adv. 同时，其间"
+  }
+]

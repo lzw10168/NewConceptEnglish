@@ -1,0 +1,93 @@
+[
+  {
+    "text": "hot",
+    "isDanger": 1,
+    "phonetic": "/hɒt/",
+    "translation": "adj. 带电的，充电的",
+    "toggle": "adj. 热的；辣的；热情的；激动的；紧迫的"
+  },
+  {
+    "text": "fireman",
+    "isDanger": 0,
+    "phonetic": "/ˈfaɪəmən/",
+    "translation": "n. 消防队员",
+    "toggle": "n. 消防队员；救火队员；锅炉工"
+  },
+  {
+    "text": "cause",
+    "isDanger": 1,
+    "phonetic": "/kɔːz/",
+    "translation": "v. 引起 n. 原因",
+    "toggle": "n. 原因；事业；目标"
+  },
+  {
+    "text": "examine",
+    "isDanger": 1,
+    "phonetic": "/ɪɡˈzæmɪn/",
+    "translation": "v. 检查",
+    "toggle": "vt. 调查；考试；检查； [ 计算机 ] 检测"
+  },
+  {
+    "text": "accidentally",
+    "isDanger": 0,
+    "phonetic": "/ˌæksɪˈdentəli/",
+    "translation": "adv. 意外地，偶然地",
+    "toggle": "adv. 偶然地；意外地"
+  },
+  {
+    "text": "remains",
+    "isDanger": 0,
+    "phonetic": "/rɪˈmeɪnz/",
+    "translation": "n. 尸体，残骸",
+    "toggle": "n. 残余；遗骸"
+  },
+  {
+    "text": "wire",
+    "isDanger": 0,
+    "phonetic": "/ˈwaɪə(r)/",
+    "translation": "n. 电线",
+    "toggle": "n. 金属丝；电线；电报"
+  },
+  {
+    "text": "volt",
+    "isDanger": 0,
+    "phonetic": "/vəʊlt/",
+    "translation": "n. 伏特（电压单位）",
+    "toggle": "n.(马术中的)环骑,[击剑]闪避,[电工]伏特"
+  },
+  {
+    "text": "power line",
+    "isDanger": 0,
+    "phonetic": "/ˈpaʊə laɪn/",
+    "translation": "n. 电力线",
+    "toggle": "n. 电力线; 输电线; 电源线"
+  },
+  {
+    "text": "solve",
+    "isDanger": 1,
+    "phonetic": "/sɒlv/",
+    "translation": "v. 解决",
+    "toggle": "vt. 解决；解答；溶解"
+  },
+  {
+    "text": "mystery",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪst(ə)ri/",
+    "translation": "n. 谜（无法接受地, 解释不了的）",
+    "toggle": "n. 神秘，秘密；神秘的事物；奥秘"
+  },
+  {
+    "text": "snatch",
+    "isDanger": 0,
+    "phonetic": "/snætʃ/",
+    "translation": "v. 抓住",
+    "toggle": "n. 抢夺；小量；抓举"
+  },
+  {
+    "text": "spark",
+    "isDanger": 0,
+    "phonetic": "/spɑːk/",
+    "translation": "n. 电火花",
+    "toggle": "n. 火花；闪光；朝气"
+  }
+]

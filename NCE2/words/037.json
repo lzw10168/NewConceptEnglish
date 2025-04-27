@@ -1,0 +1,65 @@
+[
+  {
+    "text": "olympic",
+    "isDanger": 0,
+    "phonetic": "/əˈlɪmpɪk/",
+    "translation": "adj. 奥林匹克的",
+    "toggle": "adj. 奥林匹斯山的，奥林匹亚的；奥林匹克的"
+  },
+  {
+    "text": "hold",
+    "isDanger": 1,
+    "phonetic": "/həʊld/",
+    "translation": "v. 召开",
+    "toggle": "vt. 持有；保存；拥有；拘留；约束或控制"
+  },
+  {
+    "text": "government",
+    "isDanger": 0,
+    "phonetic": "/ˈɡʌvənmənt/",
+    "translation": "n. 政府",
+    "toggle": "n. 政府；管辖；政体"
+  },
+  {
+    "text": "immense",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmens/",
+    "translation": "adj. 巨大的",
+    "toggle": "adj. 巨大的，广大的；无边无际的； [ 口 ] 非常好的"
+  },
+  {
+    "text": "stadium",
+    "isDanger": 0,
+    "phonetic": "/ˈsteɪdiəm/",
+    "translation": "n. 露天体育场",
+    "toggle": "n. 露天大型运动场；体育场"
+  },
+  {
+    "text": "standard",
+    "isDanger": 0,
+    "phonetic": "/ˈstændəd/",
+    "translation": "n. 标准",
+    "toggle": "n. 标准；度量衡标准；旗；水准"
+  },
+  {
+    "text": "capital",
+    "isDanger": 0,
+    "phonetic": "/ˈkæpɪt(ə)l/",
+    "translation": "n. 首都",
+    "toggle": "n. 首都，省会；大写字母；资金；资本家"
+  },
+  {
+    "text": "fantastic",
+    "isDanger": 1,
+    "phonetic": "/fænˈtæstɪk/",
+    "translation": "adj. 巨大的",
+    "toggle": "adj. 奇异的；极好的；空想的；不可思议的"
+  },
+  {
+    "text": "design",
+    "isDanger": 1,
+    "phonetic": "/dɪˈzaɪn/",
+    "translation": "v. 设计",
+    "toggle": "vt. 设计；计划；构思"
+  }
+]

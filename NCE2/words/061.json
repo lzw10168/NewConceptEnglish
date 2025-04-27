@@ -1,0 +1,121 @@
+[
+  {
+    "text": "Hubble",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌb(ə)l/",
+    "translation": "n. 哈勃",
+    "toggle": "n.小瘤、（Hubble）哈勃"
+  },
+  {
+    "text": "telescope",
+    "isDanger": 0,
+    "phonetic": "/ˈtelɪskəʊp/",
+    "translation": "n. 望远镜",
+    "toggle": "vt. 压缩；使套叠"
+  },
+  {
+    "text": "launch",
+    "isDanger": 1,
+    "phonetic": "/lɔːntʃ/",
+    "translation": "v. 发射",
+    "toggle": "vt. 发射（导弹、火箭等）；发起，发动；使 … 下水"
+  },
+  {
+    "text": "space",
+    "isDanger": 1,
+    "phonetic": "/speɪs/",
+    "translation": "n. 空间",
+    "toggle": "n. 空间；距离；太空"
+  },
+  {
+    "text": "NASA",
+    "isDanger": 0,
+    "phonetic": "/ˈnæsə/",
+    "translation": "n. (National Aeronautics and Space Administration) 国家航空和航天局",
+    "toggle": "美国国家航空航天局(National Aeronautics and Space Administration)"
+  },
+  {
+    "text": "billion",
+    "isDanger": 0,
+    "phonetic": "/ˈbɪljən/",
+    "translation": "n. 10 亿",
+    "toggle": "n. 十亿；大量"
+  },
+  {
+    "text": "faulty",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔːlti/",
+    "translation": "adj. 有错误的",
+    "toggle": "adj. 有缺点的；有错误的"
+  },
+  {
+    "text": "astronaut",
+    "isDanger": 0,
+    "phonetic": "/ˈæstrənɔːt/",
+    "translation": "n. 宇航员",
+    "toggle": "n. 宇航员，航天员；太空旅行者"
+  },
+  {
+    "text": "shuttle",
+    "isDanger": 0,
+    "phonetic": "/ˈʃʌt(ə)l/",
+    "translation": "n. 航天飞机",
+    "toggle": "n. 梭子；穿梭；穿梭班机、公共汽车等；航天飞机"
+  },
+  {
+    "text": "endeavour",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈdevə(r)/",
+    "translation": "n. Endeavour “奋进”号",
+    "toggle": "n.<英>尽力,竭力"
+  },
+  {
+    "text": "robot-arm",
+    "isDanger": 0,
+    "phonetic": "/'rəubɔt a:m/",
+    "translation": "n. 机器手",
+    "toggle": "n. 机器手"
+  },
+  {
+    "text": "grab",
+    "isDanger": 0,
+    "phonetic": "/ɡræb/",
+    "translation": "v. 抓",
+    "toggle": "vt. 攫取；霸占；将 … 深深吸引"
+  },
+  {
+    "text": "atmosphere",
+    "isDanger": 0,
+    "phonetic": "/ˈætməsfɪə(r)/",
+    "translation": "n. 大气层",
+    "toggle": "n. 气氛；大气；空气"
+  },
+  {
+    "text": "distant",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪstənt/",
+    "translation": "adj. 遥远的",
+    "toggle": "adj. 遥远的；冷漠的；远隔的"
+  },
+  {
+    "text": "galaxy",
+    "isDanger": 0,
+    "phonetic": "/ˈɡæləksi/",
+    "translation": "n. 星系",
+    "toggle": "n. 银河；星系；银河系；一群显赫的人"
+  },
+  {
+    "text": "universe",
+    "isDanger": 0,
+    "phonetic": "/ˈjuːnɪvɜːs/",
+    "translation": "n. 宇宙",
+    "toggle": "n. 宇宙；世界；领域"
+  },
+  {
+    "text": "eagle eye",
+    "isDanger": 0,
+    "phonetic": "/ˌiːɡl ˈaɪ/",
+    "translation": "n. 鹰眼",
+    "toggle": "鹰眼：敏锐的观察力或洞察力。"
+  }
+]

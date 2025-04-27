@@ -1,0 +1,65 @@
+[
+  {
+    "text": "versus",
+    "isDanger": 0,
+    "phonetic": "/ˈvɜːsəs/",
+    "translation": "prep. V.S.对 (对抗的概念)",
+    "toggle": "prep. 对；与 ... 相对；对抗"
+  },
+  {
+    "text": "Christmas",
+    "isDanger": 0,
+    "phonetic": "/ˈkrɪsməs/",
+    "translation": "n. 圣诞节",
+    "toggle": "n. 圣诞节"
+  },
+  {
+    "text": "circus",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːkəs/",
+    "translation": "n. 马戏团",
+    "toggle": "n. 马戏团；马戏"
+  },
+  {
+    "text": "present",
+    "isDanger": 1,
+    "phonetic": "/ˈprez(ə)nt/",
+    "translation": "n. 礼物",
+    "toggle": "vt. 呈现；介绍；提出；赠送"
+  },
+  {
+    "text": "accompany",
+    "isDanger": 1,
+    "phonetic": "/əˈkʌmpəni/",
+    "translation": "v. 陪伴, 随行",
+    "toggle": "vt. 陪伴，伴随；伴奏"
+  },
+  {
+    "text": "approach",
+    "isDanger": 0,
+    "phonetic": "/əˈprəʊtʃ/",
+    "translation": "v. 走近",
+    "toggle": "n. 接近；方法；途径"
+  },
+  {
+    "text": "ought",
+    "isDanger": 1,
+    "phonetic": "/ɔːt/",
+    "translation": "v. 应该",
+    "toggle": "aux. 应该，应当；大概"
+  },
+  {
+    "text": "weigh",
+    "isDanger": 0,
+    "phonetic": "/weɪ/",
+    "translation": "v. 重",
+    "toggle": "vt. 权衡；考虑；称 … 重量"
+  },
+  {
+    "text": "fortunate",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔːtʃənət/",
+    "translation": "adj. 幸运的",
+    "toggle": "adj. 幸运的；侥幸的；带来幸运的；吉祥的"
+  }
+]

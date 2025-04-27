@@ -1,0 +1,44 @@
+[
+  {
+    "text": "future",
+    "isDanger": 0,
+    "phonetic": "/ˈfjuːtʃə(r)/",
+    "translation": "n. 未来，前途",
+    "toggle": "n. 未来；期货；前途；将来时"
+  },
+  {
+    "text": "fair",
+    "isDanger": 0,
+    "phonetic": "/feə(r)/",
+    "translation": "n. 集市",
+    "toggle": "adj. 公平的；美丽的，白皙的；晴朗的"
+  },
+  {
+    "text": "fortune-teller",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔːtʃuːn telə(r)/",
+    "translation": "n. 算命人",
+    "toggle": "n. 算命者"
+  },
+  {
+    "text": "crystal",
+    "isDanger": 1,
+    "phonetic": "/ˈkrɪst(ə)l/",
+    "translation": "n. 水晶",
+    "toggle": "n. 水晶；结晶，晶体；水晶饰品"
+  },
+  {
+    "text": "relation",
+    "isDanger": 0,
+    "phonetic": "/rɪˈleɪʃ(ə)n/",
+    "translation": "n. 亲属",
+    "toggle": "n. 关系；亲属关系；叙述；故事"
+  },
+  {
+    "text": "impatiently",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈpeɪʃntli/",
+    "translation": "adv. 不耐烦地",
+    "toggle": "adv. 无耐性地"
+  }
+]

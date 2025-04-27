@@ -1,0 +1,255 @@
+{
+  "id": "course-2-001",
+  "lessonNumber": "001",
+  "title": {
+    "english": "A private conversation",
+    "chinese": "私人谈话"
+  },
+  "lessonInfo": "新概念英语－第2册－第001课",
+  "audioPath": "audio/nce2/001.mp3",
+  "listeningQuestion": {
+    "question": "Why couldn't the writer enjoy the play?",
+    "translation": "为什么作者无法欣赏这场戏？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个在剧院发生的小故事。作者去剧院看戏，却因为身后一对年轻人的大声谈话而无法专心欣赏演出。当他转身请求对方安静时，却被对方无礼地回应说这是'私人谈话'。这个故事反映了公共场所应该遵守的基本礼仪。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Last week I went to the theatre.",
+        "I had a very good seat.",
+        "The play was very interesting.",
+        "I did not enjoy it.",
+        "A young man and a young woman were sitting behind me.",
+        "They were talking loudly.",
+        "I got very angry.",
+        "I could not hear the actors.",
+        "I turned round.",
+        "I looked at the man and the woman angrily.",
+        "They did not pay any attention.",
+        "In the end, I could not bear it.",
+        "I turned round again.",
+        "'I can't hear a word!' I said angrily.",
+        "'It's none of your business,' the young man said rudely.",
+        "'This is a private conversation!'"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "上星期我去看戏。",
+        "我的座位很好。",
+        "戏很有意思。",
+        "但我却无法欣赏。",
+        "一青年男子与一青年女子坐在我的身后。",
+        "他们大声地说着话。",
+        "我非常生气。",
+        "因为我听不见演员在说什么。",
+        "我回过头去。",
+        "怒视着那一男一女。",
+        "他们却毫不理会。",
+        "最后，我忍不住了。",
+        "又一次回过头去。",
+        "'我一个字也听不见了！'我生气地说。",
+        "'不关你的事，'那男的毫不客气地说。",
+        "'这是私人间的谈话！'"
+      ]
+    },
+    "newwords": {
+      "heading": "生词和短语",
+      "notes": [
+        {
+          "text": "private",
+          "translation": "私人的",
+          "phonetic": "/ˈpraɪvət/",
+          "toggle": "adj. 私人的，私立的",
+          "isImportant": 1
+        },
+        {
+          "text": "conversation",
+          "translation": "谈话",
+          "phonetic": "/ˌkɒnvəˈseɪʃn/",
+          "toggle": "n. 谈话，会话",
+          "isImportant": 1
+        },
+        {
+          "text": "theatre",
+          "translation": "剧场，戏院",
+          "phonetic": "/ˈθɪətə/",
+          "toggle": "n. 剧场，戏院",
+          "isImportant": 1
+        },
+        {
+          "text": "seat",
+          "translation": "座位",
+          "phonetic": "/siːt/",
+          "toggle": "n. 座位",
+          "isImportant": 1
+        },
+        {
+          "text": "play",
+          "translation": "戏",
+          "phonetic": "/pleɪ/",
+          "toggle": "n. 戏剧，话剧",
+          "isImportant": 1
+        },
+        {
+          "text": "loudly",
+          "translation": "大声地",
+          "phonetic": "/ˈlaʊdli/",
+          "toggle": "adv. 大声地",
+          "isImportant": 1
+        },
+        {
+          "text": "angry",
+          "translation": "生气的",
+          "phonetic": "/ˈæŋɡri/",
+          "toggle": "adj. 生气的，愤怒的",
+          "isImportant": 1
+        },
+        {
+          "text": "angrily",
+          "translation": "生气地",
+          "phonetic": "/ˈæŋɡrɪli/",
+          "toggle": "adv. 生气地，愤怒地",
+          "isImportant": 1
+        },
+        {
+          "text": "attention",
+          "translation": "注意",
+          "phonetic": "/əˈtenʃn/",
+          "toggle": "n. 注意，关注",
+          "isImportant": 1
+        },
+        {
+          "text": "bear",
+          "translation": "容忍",
+          "phonetic": "/beə/",
+          "toggle": "v. 容忍，忍受",
+          "isImportant": 1
+        },
+        {
+          "text": "business",
+          "translation": "事",
+          "phonetic": "/ˈbɪznəs/",
+          "toggle": "n. 事情，生意",
+          "isImportant": 1
+        },
+        {
+          "text": "rudely",
+          "translation": "无礼地，粗鲁地",
+          "phonetic": "/ˈruːdli/",
+          "toggle": "adv. 无礼地，粗鲁地",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点",
+      "notes": [
+        {
+          "title": "简单陈述句的语序",
+          "content": "英语陈述句的基本语序为：When (时间) + Who/Which/What (主语) + Action (谓语) + Who/Which/What (宾语) + How (方式) + Where (地点) + When (时间)"
+        },
+        {
+          "title": "get的用法",
+          "content": "get作为半系动词可表示'变得'，如'I got very angry'表示逐渐变得生气，强调过程"
+        },
+        {
+          "title": "bear的用法",
+          "content": "bear常与can/could连用于否定句和疑问句中，表示'忍受'，如'I could not bear it'"
+        },
+        {
+          "title": "none of your business的用法",
+          "content": "表示'不关你的事'，是一个较为生硬的表达方式，带有不礼貌的语气"
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语",
+      "notes": [
+        {
+          "phrase": "go to the theatre",
+          "translation": "去剧院看戏",
+          "context": "表示去某地做某事的常用搭配",
+          "example": "We often go to the theatre on weekends."
+        },
+        {
+          "phrase": "pay attention",
+          "translation": "注意，留意",
+          "context": "表示对某事物的关注",
+          "example": "You must pay attention to the teacher."
+        },
+        {
+          "phrase": "in the end",
+          "translation": "最后，终于",
+          "context": "表示在一段时间或经过一些事情之后",
+          "example": "In the end, he had to apologize."
+        },
+        {
+          "phrase": "turn round/around",
+          "translation": "转身",
+          "context": "表示身体动作",
+          "example": "She turned round when I called her name."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "The writer turned round. He looked at the man and the woman angrily ___.",
+          "options": [
+            "and they stopped talking",
+            "but they didn't stop talking",
+            "but they didn't notice him",
+            "but they looked at him rudely"
+          ],
+          "answer": 1,
+          "explanation": "根据课文，作者转身怒视那对年轻人，但他们并没有停止说话"
+        },
+        {
+          "question": "The young man and young woman were sitting ___ him.",
+          "options": [
+            "before",
+            "above",
+            "ahead of",
+            "in front of"
+          ],
+          "answer": 3,
+          "explanation": "根据课文，年轻人坐在作者前面，正确答案应为'in front of'"
+        },
+        {
+          "question": "How did the writer feel?",
+          "options": [
+            "Happy",
+            "Excited",
+            "Angry",
+            "Sad"
+          ],
+          "answer": 2,
+          "explanation": "根据课文，作者因为听不到演员的对话而感到生气"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The young man and the young woman paid ___ attention to the writer.",
+          "answer": "no",
+          "hint": "表示否定的形容词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "在英语国家的剧院文化中，保持安静是基本礼仪。在公共场所大声喧哗被认为是不礼貌的行为。这个故事反映了公共场所的礼仪问题。"
+        },
+        {
+          "title": "用语特点",
+          "content": "课文中出现了多个表达愤怒和不满的词语和短语，如'angry'、'angrily'、'rudely'等，这些词语的使用展示了情感的递进。"
+        }
+      ]
+    }
+  }
+}

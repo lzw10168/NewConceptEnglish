@@ -1,0 +1,107 @@
+[
+  {
+    "text": "tent",
+    "isDanger": 0,
+    "phonetic": "/tent/",
+    "translation": "n. 帐篷",
+    "toggle": "n. 帐篷；住处；帷幕"
+  },
+  {
+    "text": "field",
+    "isDanger": 0,
+    "phonetic": "/fiːld/",
+    "translation": "n. 田地，田野",
+    "toggle": "n. 领域；牧场；旷野；战场；运动场"
+  },
+  {
+    "text": "smell",
+    "isDanger": 0,
+    "phonetic": "/smel/",
+    "translation": "v. 闻起来",
+    "toggle": "vi. 嗅，闻；有 … 气味（异味、怪味）"
+  },
+  {
+    "text": "wonderful",
+    "isDanger": 0,
+    "phonetic": "/ˈwʌndəf(ə)l/",
+    "translation": "adj. 极好的",
+    "toggle": "adj. 奇妙的；极好的"
+  },
+  {
+    "text": "campfire",
+    "isDanger": 0,
+    "phonetic": "/ˈkæmpfaɪə(r)/",
+    "translation": "n. 营火，篝火",
+    "toggle": "n. 营火；营火会"
+  },
+  {
+    "text": "creep",
+    "isDanger": 1,
+    "phonetic": "/kriːp/",
+    "translation": "v. 爬行",
+    "toggle": "vi. 爬行；慢慢地移动；起鸡皮疙瘩；蔓延"
+  },
+  {
+    "text": "sleeping bag",
+    "isDanger": 0,
+    "phonetic": "/ˈsliːpɪŋ bæɡ/",
+    "translation": "n. 睡袋",
+    "toggle": "n. （野外用的）睡袋"
+  },
+  {
+    "text": "comfortable",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌmftəb(ə)l/",
+    "translation": "adj. 舒适的，安逸的",
+    "toggle": "adj. 舒适的，舒服的"
+  },
+  {
+    "text": "soundly",
+    "isDanger": 0,
+    "phonetic": "/ˈsaʊndli/",
+    "translation": "adv. 香甜地",
+    "toggle": "adv. 健全地；完全地；稳健地；彻底地；牢固地"
+  },
+  {
+    "text": "leap",
+    "isDanger": 0,
+    "phonetic": "/liːp/",
+    "translation": "v. 跳跃，跳起",
+    "toggle": "vi. 跳，跳跃"
+  },
+  {
+    "text": "heavily",
+    "isDanger": 0,
+    "phonetic": "/ˈhevɪli/",
+    "translation": "adv. 大量地",
+    "toggle": "adv. 沉重地；沉闷地；猛烈地"
+  },
+  {
+    "text": "stream",
+    "isDanger": 0,
+    "phonetic": "/striːm/",
+    "translation": "n. 小溪",
+    "toggle": "n. 溪流；流动；光线；潮流"
+  },
+  {
+    "text": "form",
+    "isDanger": 1,
+    "phonetic": "/fɔːm/",
+    "translation": "v. 形成",
+    "toggle": "n. 形式，形状；形态，外形；表格；方式"
+  },
+  {
+    "text": "wind",
+    "isDanger": 1,
+    "phonetic": "/wɪnd/",
+    "translation": "v. 蜿蜒",
+    "toggle": "vt. 缠绕；上发条；吹号角；使弯曲；绕住或缠住某人"
+  },
+  {
+    "text": "right",
+    "isDanger": 1,
+    "phonetic": "/raɪt/",
+    "translation": "adv. 正好",
+    "toggle": "adj. 正确的；右方的；直接的"
+  }
+]

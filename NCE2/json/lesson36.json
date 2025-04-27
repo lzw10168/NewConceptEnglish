@@ -1,0 +1,243 @@
+{
+  "id": "course-2-036",
+  "lessonNumber": "036",
+  "title": {
+    "english": "Across the Channel",
+    "chinese": "横渡英吉利海峡"
+  },
+  "lessonInfo": "新概念英语－第2册－第036课",
+  "audioPath": "audio/nce2/036.mp3",
+  "listeningQuestion": {
+    "question": "How old is Debbie Hart?",
+    "translation": "黛比·哈特多大年纪？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个11岁的小女孩准备横渡英吉利海峡的故事。课文使用了多种表示将来的时态结构，同时介绍了一些重要的语法点，如'be sure to do'和'watch, look at, follow'的区别等。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Debbie Hart is going to swim across the English Channel tomorrow.",
+        "She is going to set out from the French coast at five o'clock in the morning.",
+        "Debbie is only eleven years old and she hopes to set up a new world record.",
+        "She is a strong swimmer and many people feel that she is sure to succeed.",
+        "Debbie's father will set out with her in a small boat.",
+        "Mr. Hart has trained his daughter for years.",
+        "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+        "Debbie intends to take short rests every two hours.",
+        "She will have something to drink but she will not eat any solid food.",
+        "Most of Debbie's school friends will be waiting for her on the English coast.",
+        "Among them will be Debbie's mother, who swam the Channel herself when she was a girl."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "黛比·哈特准备明天横渡英吉利海峡。",
+        "她打算早上5点钟从法国海岸出发。",
+        "黛比只有11岁，她希望创一项新的世界纪录。",
+        "她是一个游泳能手，很多人认为她一定能成功。",
+        "黛比的父亲将乘一条小船同她一道出发。",
+        "哈特先生训练她的女儿已经多年了。",
+        "明天他将焦急地注视着女儿游过这段漫长的距离到达英国。",
+        "黛比计划每两小时休息一下。",
+        "她将喝些饮料，但不吃固体食物。",
+        "黛比的大部分同学将在英国海岸等候她。",
+        "他们当中还会有黛比的母亲，她本人还是个姑娘时，也曾横渡过英吉利海峡！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "record",
+          "translation": "记录",
+          "phonetic": "/ˈrekɔːd/",
+          "toggle": "n. 记录；v. 记录",
+          "isImportant": 1
+        },
+        {
+          "text": "strong",
+          "translation": "强壮的",
+          "phonetic": "/strɒŋ/",
+          "toggle": "adj. 强壮的",
+          "isImportant": 1
+        },
+        {
+          "text": "swimmer",
+          "translation": "游泳运动员",
+          "phonetic": "/ˈswɪmə/",
+          "toggle": "n. 游泳运动员",
+          "isImportant": 1
+        },
+        {
+          "text": "succeed",
+          "translation": "成功",
+          "phonetic": "/səkˈsiːd/",
+          "toggle": "v. 成功",
+          "isImportant": 1
+        },
+        {
+          "text": "train",
+          "translation": "训练",
+          "phonetic": "/treɪn/",
+          "toggle": "v. 训练",
+          "isImportant": 1
+        },
+        {
+          "text": "anxiously",
+          "translation": "焦急地",
+          "phonetic": "/ˈæŋkʃəsli/",
+          "toggle": "adv. 焦急地",
+          "isImportant": 1
+        },
+        {
+          "text": "intend",
+          "translation": "打算",
+          "phonetic": "/ɪnˈtend/",
+          "toggle": "v. 打算",
+          "isImportant": 1
+        },
+        {
+          "text": "solid",
+          "translation": "固体的，硬的",
+          "phonetic": "/ˈsɒlɪd/",
+          "toggle": "adj. 固体的，硬的",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "表示将来的结构",
+          "content": [
+            "本课出现了多种表示将来的结构：",
+            "be going to do: 表示计划或打算，如 She is going to swim across the Channel",
+            "will be doing: 将来进行时，表示将来某时正在进行的动作，如 he will be watching her anxiously",
+            "intend to do: 打算做某事，如 Debbie intends to take short rests"
+          ]
+        },
+        {
+          "title": "be sure to do结构",
+          "content": [
+            "be sure to do表示'一定会'，比must更有把握",
+            "例句：She is sure to succeed",
+            "相关用法：be sure of sth.(对某事有把握)，be sure that...(对某人做某事有把握)"
+          ]
+        },
+        {
+          "title": "倒装句",
+          "content": [
+            "地点状语提前时，可以用倒装句",
+            "例句：Among them will be Debbie's mother",
+            "正常语序应为：Debbie's mother will be among them"
+          ]
+        },
+        {
+          "title": "非限定性定语从句",
+          "content": [
+            "用逗号隔开的定语从句是非限定性定语从句，起补充说明作用",
+            "例句：Among them will be Debbie's mother, who swam the Channel herself",
+            "非限定性定语从句不能用that引导"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "set out",
+          "translation": "出发",
+          "context": "表示开始一段旅程",
+          "example": "She is going to set out from the French coast."
+        },
+        {
+          "phrase": "set up a record",
+          "translation": "创造记录",
+          "context": "表示创造新的记录",
+          "example": "She hopes to set up a new world record."
+        },
+        {
+          "phrase": "take short rests",
+          "translation": "短暂休息",
+          "context": "表示休息一小会儿",
+          "example": "Debbie intends to take short rests every two hours."
+        },
+        {
+          "phrase": "have something to drink/eat",
+          "translation": "有东西喝/吃",
+          "context": "表示有可以饮用/食用的东西",
+          "example": "She will have something to drink but she will not eat any solid food."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "How old is Debbie Hart?",
+          "options": [
+            "She is ten years old",
+            "She is eleven years old",
+            "She is twelve years old",
+            "She is thirteen years old"
+          ],
+          "answer": 1,
+          "explanation": "课文中明确提到Debbie is only eleven years old."
+        },
+        {
+          "question": "What time will Debbie start her swim?",
+          "options": [
+            "At four o'clock in the morning",
+            "At five o'clock in the morning",
+            "At six o'clock in the morning",
+            "At seven o'clock in the morning"
+          ],
+          "answer": 1,
+          "explanation": "课文提到She is going to set out from the French coast at five o'clock in the morning."
+        },
+        {
+          "question": "How often will Debbie take a rest?",
+          "options": [
+            "Every hour",
+            "Every two hours",
+            "Every three hours",
+            "Every four hours"
+          ],
+          "answer": 1,
+          "explanation": "课文提到Debbie intends to take short rests every two hours."
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "Debbie's father will _____ out with her in a small boat.",
+          "answer": "set",
+          "hint": "表示'出发'的动词"
+        },
+        {
+          "sentence": "She will have something to drink but she will not eat any _____ food.",
+          "answer": "solid",
+          "hint": "表示'固体的'的形容词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "词语辨析",
+          "content": "Watch, Look at, Follow的区别：watch表示观看正在发生的事情；look at表示仔细看；follow除了表示跟随，有时也可表示用目光跟随。"
+        },
+        {
+          "title": "语言特点",
+          "content": "本课使用了多种表示将来的句式，生动地描述了一个即将发生的挑战性事件。同时也展示了英语中表达计划、打算的多样化表达方式。"
+        },
+        {
+          "title": "文化背景",
+          "content": "横渡英吉利海峡是一项具有挑战性的体育活动，需要极强的体力和意志力。这种挑战在英语国家受到高度重视，创造记录更是一种激励人心的成就。"
+        }
+      ]
+    }
+  }
+} 

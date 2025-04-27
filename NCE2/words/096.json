@@ -1,0 +1,37 @@
+[
+  {
+    "text": "festival",
+    "isDanger": 0,
+    "phonetic": "/ˈfestɪvl/",
+    "translation": "n. 节日",
+    "toggle": "n. 节日；庆祝，纪念活动；欢乐"
+  },
+  {
+    "text": "lantern",
+    "isDanger": 0,
+    "phonetic": "/ˈlæntən/",
+    "translation": "n. 灯笼",
+    "toggle": "n. 灯笼；提灯；灯笼式天窗"
+  },
+  {
+    "text": "spectacle",
+    "isDanger": 0,
+    "phonetic": "/ˈspektək(ə)l/",
+    "translation": "n. 景象，壮观，场面",
+    "toggle": "n. 景象，奇观；眼镜；引人羡慕的人"
+  },
+  {
+    "text": "drift",
+    "isDanger": 1,
+    "phonetic": "/drɪft/",
+    "translation": "v. 漂流",
+    "toggle": "n. 漂流，漂移；漂流物；趋势"
+  },
+  {
+    "text": "guide",
+    "isDanger": 0,
+    "phonetic": "/ɡaɪd/",
+    "translation": "v. 带领",
+    "toggle": "n. 指南；向导；入门书"
+  }
+]

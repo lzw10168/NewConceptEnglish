@@ -1,0 +1,107 @@
+[
+  {
+    "text": "fool",
+    "isDanger": 0,
+    "phonetic": "/fuːl/",
+    "translation": "n. 傻瓜",
+    "toggle": "vi. 开玩笑；欺骗；戏弄"
+  },
+  {
+    "text": "bulletin",
+    "isDanger": 0,
+    "phonetic": "/ˈbʊlətɪn/",
+    "translation": "n. 新闻简报",
+    "toggle": "n. 公告，公报"
+  },
+  {
+    "text": "announcer",
+    "isDanger": 0,
+    "phonetic": "/əˈnaʊnsə(r)/",
+    "translation": "n. （电视、电台）播音员",
+    "toggle": "n. 广播员；宣告者"
+  },
+  {
+    "text": "macaroni",
+    "isDanger": 0,
+    "phonetic": "/ˌmækəˈrəʊni/",
+    "translation": "n. 通心面，空心面条",
+    "toggle": "n.[食]通心面,纨绔子弟"
+  },
+  {
+    "text": "leading",
+    "isDanger": 0,
+    "phonetic": "/ˈliːdɪŋ/",
+    "translation": "adj. 主要的",
+    "toggle": "adj. 主要的；领导的"
+  },
+  {
+    "text": "grower",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrəʊə(r)/",
+    "translation": "n. 种植者",
+    "toggle": "n. 栽培者；生长物"
+  },
+  {
+    "text": "splendid",
+    "isDanger": 0,
+    "phonetic": "/ˈsplendɪd/",
+    "translation": "adj. 极好的",
+    "toggle": "adj. 辉煌的；极好的；灿烂的；杰出的"
+  },
+  {
+    "text": "stalk",
+    "isDanger": 0,
+    "phonetic": "/stɔːk/",
+    "translation": "n. 梗",
+    "toggle": "n. （植物的）茎，秆；（支持叶子、果实和花的）梗，柄；追踪；高视阔步"
+  },
+  {
+    "text": "gather",
+    "isDanger": 1,
+    "phonetic": "/ˈɡæðə(r)/",
+    "translation": "v. 收庄稼",
+    "toggle": "vt. 收集；使 … 聚集；收割；使 … 皱起"
+  },
+  {
+    "text": "thresh",
+    "isDanger": 0,
+    "phonetic": "/θreʃ/",
+    "translation": "v. 打（庄稼）",
+    "toggle": "vt.脱粒,反复的打击,翻滚,反复做,推敲vi.打谷,打,颠簸"
+  },
+  {
+    "text": "process",
+    "isDanger": 1,
+    "phonetic": "/ˈprəʊses/",
+    "translation": "v. 加工",
+    "toggle": "vt. 处理；加工"
+  },
+  {
+    "text": "Signor",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːnjɔː(r)/",
+    "translation": "n. （意大利语）先生",
+    "toggle": "n.阁下,君,Signori 或Signors 先生"
+  },
+  {
+    "text": "present",
+    "isDanger": 1,
+    "phonetic": "/ˈprez(ə)nt/",
+    "translation": "adj. 目前的",
+    "toggle": "vt. 呈现；介绍；提出；赠送"
+  },
+  {
+    "text": "champion",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃæmpiən/",
+    "translation": "n. 冠军",
+    "toggle": "n. 冠军；拥护者；战士"
+  },
+  {
+    "text": "studio",
+    "isDanger": 0,
+    "phonetic": "/ˈstjuːdiəʊ/",
+    "translation": "n. 播音室",
+    "toggle": "n. 工作室；演播室；画室；电影制片厂"
+  }
+]

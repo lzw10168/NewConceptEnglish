@@ -1,0 +1,37 @@
+[
+  {
+    "text": "appear",
+    "isDanger": 1,
+    "phonetic": "/əˈpɪə(r)/",
+    "translation": "v. 登场，扮演",
+    "toggle": "vi. 出现；似乎；显得； [ 法 ] 出庭"
+  },
+  {
+    "text": "stage",
+    "isDanger": 0,
+    "phonetic": "/steɪdʒ/",
+    "translation": "n. 舞台",
+    "toggle": "n. 舞台；戏剧；驿站；阶段"
+  },
+  {
+    "text": "bright",
+    "isDanger": 1,
+    "phonetic": "/braɪt/",
+    "translation": "adj. 鲜艳的",
+    "toggle": "adj. 明亮的，鲜明的；聪明的；愉快的"
+  },
+  {
+    "text": "stocking",
+    "isDanger": 0,
+    "phonetic": "/ˈstɒkɪŋ/",
+    "translation": "n. （女用）长筒袜(棉的, 绒的, 并不是现在的丝袜)",
+    "toggle": "n. 长袜"
+  },
+  {
+    "text": "sock",
+    "isDanger": 0,
+    "phonetic": "/sɒk/",
+    "translation": "n. 短袜",
+    "toggle": "n. 短袜；一击"
+  }
+]

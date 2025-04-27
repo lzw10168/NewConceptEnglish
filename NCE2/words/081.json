@@ -1,0 +1,100 @@
+[
+  {
+    "text": "prisoner",
+    "isDanger": 0,
+    "phonetic": "/ˈprɪz(ə)nə(r)/",
+    "translation": "n. 囚犯",
+    "toggle": "n. 囚犯，犯人；刑事被告；俘虏"
+  },
+  {
+    "text": "bush",
+    "isDanger": 0,
+    "phonetic": "/bʊʃ/",
+    "translation": "n. 灌木丛",
+    "toggle": "n.矮树丛,(机械)衬套"
+  },
+  {
+    "text": "rapidly",
+    "isDanger": 0,
+    "phonetic": "/ˈræpɪdli/",
+    "translation": "adv. 迅速地",
+    "toggle": "adv. 迅速地；很快地；立即"
+  },
+  {
+    "text": "uniform",
+    "isDanger": 0,
+    "phonetic": "/ˈjuːnɪfɔːm/",
+    "translation": "n. 制服",
+    "toggle": "adj. 一致的；统一的；相同的；始终如一的；均衡的"
+  },
+  {
+    "text": "rifle",
+    "isDanger": 0,
+    "phonetic": "/ˈraɪf(ə)l/",
+    "translation": "n. 来福枪，步枪",
+    "toggle": "n. 步枪；来复枪"
+  },
+  {
+    "text": "shoulder",
+    "isDanger": 0,
+    "phonetic": "/ˈʃəʊldə(r)/",
+    "translation": "n. 肩",
+    "toggle": "n. 肩，肩膀；肩部"
+  },
+  {
+    "text": "march",
+    "isDanger": 0,
+    "phonetic": "/mɑːtʃ/",
+    "translation": "v. 行进",
+    "toggle": "n. 进行曲；行军，进军；示威游行"
+  },
+  {
+    "text": "boldly",
+    "isDanger": 0,
+    "phonetic": "/ˈbəʊldli/",
+    "translation": "adj. 大胆地",
+    "toggle": "adv. 大胆地；冒失地；显眼地"
+  },
+  {
+    "text": "blaze",
+    "isDanger": 0,
+    "phonetic": "/bleɪz/",
+    "translation": "v. 闪耀",
+    "toggle": "vt. 在树皮上刻路标；公开宣布"
+  },
+  {
+    "text": "salute",
+    "isDanger": 0,
+    "phonetic": "/səˈluːt/",
+    "translation": "v. 行礼",
+    "toggle": "n. 敬礼；致敬，欢迎"
+  },
+  {
+    "text": "elderly",
+    "isDanger": 0,
+    "phonetic": "/ˈeldəli/",
+    "translation": "adj. 上了年纪的",
+    "toggle": "adj. 过了中年的；稍老的；上了年纪的"
+  },
+  {
+    "text": "grey",
+    "isDanger": 0,
+    "phonetic": "/ɡreɪ/",
+    "translation": "adj. 灰白的",
+    "toggle": "adj. 灰色的；（头发）灰白的"
+  },
+  {
+    "text": "sharp",
+    "isDanger": 1,
+    "phonetic": "/ʃɑːp/",
+    "translation": "adj. 猛烈的",
+    "toggle": "adj. 急剧的；锋利的；刺耳的；敏捷的；强烈的"
+  },
+  {
+    "text": "blow",
+    "isDanger": 1,
+    "phonetic": "/bləʊ/",
+    "translation": "n. 打击",
+    "toggle": "n. 吹；殴打；打击"
+  }
+]

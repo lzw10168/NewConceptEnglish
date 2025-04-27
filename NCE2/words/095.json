@@ -1,0 +1,93 @@
+[
+  {
+    "text": "fantasy",
+    "isDanger": 1,
+    "phonetic": "/ˈfæntəsi/",
+    "translation": "n. 幻想故事",
+    "toggle": "n. 幻想；幻觉； [ 心 ] 白日梦"
+  },
+  {
+    "text": "ambassador",
+    "isDanger": 0,
+    "phonetic": "/æmˈbæsədə(r)/",
+    "translation": "n. 大使",
+    "toggle": "n. 大使；使节；代表"
+  },
+  {
+    "text": "Escalopia",
+    "isDanger": 0,
+    "phonetic": "/ɪˈklæmpsiə/",
+    "translation": "n. 艾斯卡罗比亚（虚构的国名）",
+    "toggle": "艾斯卡罗比亚(虚构的国名)"
+  },
+  {
+    "text": "frightful",
+    "isDanger": 0,
+    "phonetic": "/ˈfraɪtf(ə)l/",
+    "translation": "adj. 可怕的，令人吃惊的",
+    "toggle": "adj.可怕的,非常的"
+  },
+  {
+    "text": "fire extinguisher",
+    "isDanger": 0,
+    "phonetic": "/ˈfaɪər ɪkˈstɪŋɡwɪʃə(r)/",
+    "translation": "n. 灭火器",
+    "toggle": "灭火器：一种用于扑灭初期火灾的设备，通常包含有化学药剂或水等灭火物质。"
+  },
+  {
+    "text": "drily",
+    "isDanger": 0,
+    "phonetic": "/ˈdraɪli/",
+    "translation": "adv. 冷淡地，枯燥无味地",
+    "toggle": "adv.(=dryly) 冷淡地,干巴巴的"
+  },
+  {
+    "text": "embassy",
+    "isDanger": 0,
+    "phonetic": "/ˈembəsi/",
+    "translation": "n. 大使馆",
+    "toggle": "n. 大使馆；大使馆全体人员"
+  },
+  {
+    "text": "heaven",
+    "isDanger": 0,
+    "phonetic": "/ˈhev(ə)n/",
+    "translation": "n. 天，天堂",
+    "toggle": "n. 天堂；天空；极乐"
+  },
+  {
+    "text": "basement",
+    "isDanger": 0,
+    "phonetic": "/ˈbeɪsmənt/",
+    "translation": "n. 地下室",
+    "toggle": "n. 地下室；地窖"
+  },
+  {
+    "text": "definitely",
+    "isDanger": 0,
+    "phonetic": "/ˈdefɪnətli/",
+    "translation": "adv. 肯定地",
+    "toggle": "adv. 明确地，肯定地；清楚地，当然"
+  },
+  {
+    "text": "post",
+    "isDanger": 1,
+    "phonetic": "/pəʊst/",
+    "translation": "v. 派任",
+    "toggle": "n. 岗位；邮件；标杆"
+  },
+  {
+    "text": "shot",
+    "isDanger": 0,
+    "phonetic": "/ʃɒt/",
+    "translation": "n. 子弹",
+    "toggle": "n. 发射；炮弹；射手"
+  },
+  {
+    "text": "aim",
+    "isDanger": 0,
+    "phonetic": "/eɪm/",
+    "translation": "n. 瞄准",
+    "toggle": "vt. 把 … 对准；目的在于；引导"
+  }
+]

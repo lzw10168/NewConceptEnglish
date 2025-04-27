@@ -1,0 +1,235 @@
+{
+  "id": "course-2-007",
+  "lessonNumber": "007",
+  "title": {
+    "english": "Too late",
+    "chinese": "为时太晚"
+  },
+  "lessonInfo": "新概念英语－第2册－第007课",
+  "audioPath": "audio/nce2/007.mp3",
+  "listeningQuestion": {
+    "question": "What did the detectives find in the parcel?",
+    "translation": "侦探们在包裹里发现了什么？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个侦探办案的故事，重点学习过去进行时的用法，以及短语动词中小品词的使用。故事展现了一个出人意料的结局。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "The plane was late and detectives were waiting at the airport all morning.",
+        "They were expecting a valuable parcel of diamonds from South Africa.",
+        "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+        "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.",
+        "Two men took the parcel off the plane and carried it into the Customs House.",
+        "While two detectives were keeping guard at the door, two others opened the parcel.",
+        "To their surprise, the precious parcel was full of stones and sand!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "飞机误点了，侦探们在机场等了整整一上午。",
+        "他们正期待从南非来的一个装着钻石的贵重包裹。",
+        "数小时以前，有人向警方报告，说有人企图偷走这些钻石。",
+        "当飞机到达时，一些侦探等候在主楼内，另一些侦探则守候在停机坪上。",
+        "有两个人把包裹拿下飞机，进了海关。",
+        "这时两个侦探把住门口，另外两个侦探打开了包裹。",
+        "令他们吃惊的是，那珍贵的包裹里面装的全是石头和沙子！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "detective",
+          "translation": "侦探",
+          "phonetic": "/dɪˈtektɪv/",
+          "toggle": "n. 侦探",
+          "isImportant": 1,
+          "examples": [
+            "detective story - 侦探小说"
+          ]
+        },
+        {
+          "text": "airport",
+          "translation": "机场",
+          "phonetic": "/ˈeəpɔːt/",
+          "toggle": "n. 机场",
+          "isImportant": 1,
+          "examples": [
+            "at the airport - 在机场"
+          ]
+        },
+        {
+          "text": "expect",
+          "translation": "期待，等待",
+          "phonetic": "/ɪkˈspekt/",
+          "toggle": "v. 期待，预料，等待",
+          "isImportant": 1,
+          "examples": [
+            "expect sb. to do sth. - 期待某人做某事",
+            "I expect so. - 我想是这样的"
+          ]
+        },
+        {
+          "text": "valuable",
+          "translation": "贵重的",
+          "phonetic": "/ˈvæljuəbl/",
+          "toggle": "adj. 贵重的，有价值的",
+          "isImportant": 1
+        },
+        {
+          "text": "precious",
+          "translation": "珍贵的",
+          "phonetic": "/ˈpreʃəs/",
+          "toggle": "adj. 珍贵的（带感情色彩）",
+          "isImportant": 1,
+          "examples": [
+            "precious photo - 珍贵的照片"
+          ]
+        },
+        {
+          "text": "steal",
+          "translation": "偷",
+          "phonetic": "/stiːl/",
+          "toggle": "v. (stole, stolen) 偷窃",
+          "isImportant": 1,
+          "examples": [
+            "steal sth. - 偷某物",
+            "steal into - 偷偷溜进"
+          ]
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "过去进行时的用法",
+          "content": [
+            "构成：was/were + 现在分词",
+            "表示过去某一时刻正在进行的动作",
+            "常与when, while, as等连词连用",
+            "与一般过去时配合使用时，进行时表示持续时间较长的动作"
+          ]
+        },
+        {
+          "title": "短语动词中的小品词",
+          "content": [
+            "小品词可以是介词也可以是副词",
+            "有宾语的是介词，没有宾语的是副词",
+            "介词位置相对固定，而副词位置可以变动",
+            "例如：take off = take the coat off = take it off"
+          ]
+        },
+        {
+          "title": "some和others的搭配",
+          "content": [
+            "表示'有些...另一些...'",
+            "some of the + 复数名词 + while/and others...",
+            "用于区分不同群体的不同行为"
+          ]
+        },
+        {
+          "title": "时间表达",
+          "content": [
+            "all morning = all the morning",
+            "a few hours earlier = a few hours before",
+            "表示整段时间用all + 时间单位"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "keep guard",
+          "translation": "守卫，警戒",
+          "context": "表示警戒或保护某物/某人",
+          "example": "They kept a close guard over the thieves."
+        },
+        {
+          "phrase": "to one's surprise",
+          "translation": "令...吃惊的是",
+          "context": "表示意外或惊讶",
+          "example": "To my surprise, the teacher was late."
+        },
+        {
+          "phrase": "be full of",
+          "translation": "充满...",
+          "context": "表示装满或充满",
+          "example": "The cup is full of water."
+        },
+        {
+          "phrase": "take off",
+          "translation": "从...拿下",
+          "context": "表示移除或脱掉",
+          "example": "Two men took the parcel off the plane."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "When did someone tell the police about the thieves?",
+          "options": [
+            "Before the plane arrived",
+            "After the plane arrived",
+            "When the plane arrived",
+            "As soon as the plane arrived"
+          ],
+          "answer": 0,
+          "explanation": "文中提到'A few hours earlier'，说明是在飞机到达之前"
+        },
+        {
+          "question": "The parcel was valuable because it was supposed to contain ___.",
+          "options": [
+            "gold",
+            "money",
+            "diamonds",
+            "jewelry"
+          ],
+          "answer": 2,
+          "explanation": "文中提到包裹里应该装的是钻石"
+        },
+        {
+          "question": "What were the detectives doing while the parcel was being opened?",
+          "options": [
+            "Searching the plane",
+            "Keeping guard at the door",
+            "Waiting in the main building",
+            "Looking for the thieves"
+          ],
+          "answer": 1,
+          "explanation": "文中提到'two detectives were keeping guard at the door'"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The detectives were _____ at the airport all morning.",
+          "answer": "waiting",
+          "hint": "表示持续等待的动作"
+        },
+        {
+          "sentence": "To their _____, the parcel was full of stones and sand.",
+          "answer": "surprise",
+          "hint": "表示意外或惊讶的心情"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "钻石走私背景",
+          "content": "南非是世界著名的钻石产地，钻石走私一直是一个严重的问题。警方和海关需要采取严密的防范措施来打击钻石走私活动。"
+        },
+        {
+          "title": "机场安保",
+          "content": "本课反映了机场安保的重要性。在现代机场，已经采用了更先进的安检设备和程序，但人工查验仍然是必不可少的环节。"
+        }
+      ]
+    }
+  }
+}

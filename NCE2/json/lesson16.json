@@ -1,0 +1,216 @@
+{
+  "id": "course-2-016",
+  "lessonNumber": "016",
+  "title": {
+    "english": "A polite request",
+    "chinese": "礼貌的要求"
+  },
+  "lessonInfo": "新概念英语－第2册－第016课",
+  "audioPath": "audio/nce2/016.mp3",
+  "listeningQuestion": {
+    "question": "What did the traffic police leave on the writer's car?",
+    "translation": "交通警察在作者的车上留下了什么？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个在瑞典旅行时的有趣经历，展示了交通警察礼貌执法的方式。重点介绍了条件句的用法，以及一些与交通、停车相关的词汇和短语。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "If you park your car in the wrong place, a traffic policeman will soon find it.",
+        "You will be very lucky if he lets you go without a ticket.",
+        "However, this does not always happen.",
+        "Traffic police are sometimes very polite.",
+        "During a holiday in Sweden, I found this note on my car:",
+        "'Sir, we welcome you to our city.",
+        "This is a \"No Parking\" area.",
+        "You will enjoy your stay here if you pay attention to our street signs.",
+        "This note is only a reminder.'",
+        "If you receive a request like this, you cannot fail to obey it!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "一旦你把汽车停错了地方，交通警很快就会发现。",
+        "如果他没给你罚单就放你走了，算你走运。",
+        "然而，情况并不都是这样。",
+        "交通警有时也很客气。",
+        "有一次在瑞典度假，我发现我的车上有这样一个字条：",
+        "\"先生，欢迎您光临我们的城市。",
+        "此处是'禁止停车'区。",
+        "如果您对我们街上的标牌稍加注意，您在此会过得很愉快的。",
+        "谨此提请注意。\"",
+        "如果你收到这样的恳求，你是不会不遵照执行的！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "park",
+          "phonetic": "/pɑːk/",
+          "translation": "停放（汽车）",
+          "toggle": "v. 停放（汽车）",
+          "isImportant": 1
+        },
+        {
+          "text": "traffic",
+          "phonetic": "/ˈtræfɪk/",
+          "translation": "交通",
+          "toggle": "n. 交通",
+          "isImportant": 1
+        },
+        {
+          "text": "ticket",
+          "phonetic": "/ˈtɪkɪt/",
+          "translation": "交通违规罚款单",
+          "toggle": "n. 交通违规罚款单",
+          "isImportant": 1
+        },
+        {
+          "text": "note",
+          "phonetic": "/nəʊt/",
+          "translation": "便条",
+          "toggle": "n. 便条",
+          "isImportant": 1
+        },
+        {
+          "text": "area",
+          "phonetic": "/ˈeəriə/",
+          "translation": "地段",
+          "toggle": "n. 地段，区域",
+          "isImportant": 1
+        },
+        {
+          "text": "sign",
+          "phonetic": "/saɪn/",
+          "translation": "指示牌",
+          "toggle": "n. 指示牌",
+          "isImportant": 1
+        },
+        {
+          "text": "reminder",
+          "phonetic": "/rɪˈmaɪndə/",
+          "translation": "提示",
+          "toggle": "n. 提示",
+          "isImportant": 1
+        },
+        {
+          "text": "fail",
+          "phonetic": "/feɪl/",
+          "translation": "无视，忘记",
+          "toggle": "v. 无视，忘记",
+          "isImportant": 1
+        },
+        {
+          "text": "obey",
+          "phonetic": "/əˈbeɪ/",
+          "translation": "服从",
+          "toggle": "v. 服从",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "条件句的基本用法",
+          "content": "if引导的条件从句指能够发生、可能发生或可能发生过的事件。如果认为将来的事件很可能会发生，那么if从句中要用一般现在时，主句中用will。如'If you park your car in the wrong place, a traffic policeman will soon find it.'。"
+        },
+        {
+          "title": "情态动词的使用",
+          "content": "条件句的主句中，除了will外，还可以用其他情态动词来表达不同的语气。如'You can post these letters if you want to'表示建议。"
+        },
+        {
+          "title": "不定代词you的用法",
+          "content": "英语中指每个人/任何人的不定代词通常是one，但在日常会话中，非正式的you更为常用。如本课中的'If you park your car...'。"
+        },
+        {
+          "title": "词组型定语的使用",
+          "content": "由若干个词合成的词组可以作定语，如'No Parking'在句中作area的定语。类似的还有'a never-to-be-forgotten day'（一个永远不能忘掉的日子）。"
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "let (sb.) go",
+          "translation": "放开，释放",
+          "context": "表示允许某人离开或释放某人",
+          "example": "You will be very lucky if he lets you go without a ticket."
+        },
+        {
+          "phrase": "pay attention to",
+          "translation": "注意",
+          "context": "表示在思想上注意某事",
+          "example": "You will enjoy your stay here if you pay attention to our street signs."
+        },
+        {
+          "phrase": "fail to do",
+          "translation": "未能做到",
+          "context": "表示没有做到某事或忘记做某事",
+          "example": "You cannot fail to obey it!"
+        },
+        {
+          "phrase": "in the wrong place",
+          "translation": "在不合适的地方",
+          "context": "表示位置不当",
+          "example": "If you park your car in the wrong place, a traffic policeman will soon find it."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "What kind of note did the writer find on his car?",
+          "options": [
+            "A parking ticket",
+            "A warning",
+            "A polite reminder",
+            "An advertisement"
+          ],
+          "answer": 2,
+          "explanation": "课文中提到'This note is only a reminder'，是一个礼貌的提醒。"
+        },
+        {
+          "question": "What does 'No Parking' mean?",
+          "options": [
+            "Don't leave your car here",
+            "Without parking",
+            "Don't stop",
+            "There's no room to park here"
+          ],
+          "answer": 0,
+          "explanation": "No Parking表示不要把车停在这里。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The traffic police left a _____ on the car.",
+          "answer": "note",
+          "hint": "表示便条的名词"
+        },
+        {
+          "sentence": "You must _____ the traffic signs.",
+          "answer": "obey",
+          "hint": "表示遵守的动词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "交通执法文化",
+          "content": "本课展示了不同国家交通执法文化的差异。在瑞典这样的国家，执法人员往往采用更人性化、更有教育意义的方式来处理交通违规问题，而不是简单地开罚单。"
+        },
+        {
+          "title": "词义辨析",
+          "content": "本课涉及几组相近词的用法区别：pay attention to（思想上的注意）、notice（眼睛上的注意）、care（关心）、take care of（照顾）等，这些词虽然都与'注意'相关，但使用场景各不相同。"
+        }
+      ]
+    }
+  }
+} 
