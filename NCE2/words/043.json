@@ -1,0 +1,93 @@
+[
+  {
+    "text": "pole",
+    "isDanger": 0,
+    "phonetic": "/pəʊl/",
+    "translation": "n. （地球的）极",
+    "toggle": "n. 杆；极点；电极"
+  },
+  {
+    "text": "flight",
+    "isDanger": 0,
+    "phonetic": "/flaɪt/",
+    "translation": "n. 飞行",
+    "toggle": "n. 飞行；班机；逃走"
+  },
+  {
+    "text": "explorer",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈsplɔːrə/",
+    "translation": "n. 探险家",
+    "toggle": "n. 探测者，探测器；探险家"
+  },
+  {
+    "text": "lie",
+    "isDanger": 1,
+    "phonetic": "/laɪ/",
+    "translation": "v. 处于",
+    "toggle": "vi. 说谎；位于；躺；展现"
+  },
+  {
+    "text": "serious",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪəriəs/",
+    "translation": "adj. 严重的",
+    "toggle": "adj. 严肃的，严重的；认真的；庄重的；危急的"
+  },
+  {
+    "text": "point",
+    "isDanger": 1,
+    "phonetic": "/pɔɪnt/",
+    "translation": "n. 地点",
+    "toggle": "n. 要点；尖端；得分；标点"
+  },
+  {
+    "text": "seem",
+    "isDanger": 0,
+    "phonetic": "/siːm/",
+    "translation": "v. 似乎",
+    "toggle": "vi. 似乎；像是；装作"
+  },
+  {
+    "text": "crash",
+    "isDanger": 1,
+    "phonetic": "/kræʃ/",
+    "translation": "v. 坠毁",
+    "toggle": "n. 碰撞；崩溃；坠落"
+  },
+  {
+    "text": "sack",
+    "isDanger": 0,
+    "phonetic": "/sæk/",
+    "translation": "n. 袋子",
+    "toggle": "n. 麻布袋；洗劫"
+  },
+  {
+    "text": "clear",
+    "isDanger": 1,
+    "phonetic": "/klɪə(r)/",
+    "translation": "v. 越过",
+    "toggle": "adj. 清楚的；清澈的；晴朗的；无罪的"
+  },
+  {
+    "text": "aircraft",
+    "isDanger": 0,
+    "phonetic": "/ˈeəkrɑːft/",
+    "translation": "n. 飞机",
+    "toggle": "n. 飞机，航空器"
+  },
+  {
+    "text": "endless",
+    "isDanger": 0,
+    "phonetic": "/ˈendləs/",
+    "translation": "adj. 无尽的",
+    "toggle": "adj. 无止境的；环状的；连续的；漫无目的的"
+  },
+  {
+    "text": "plain",
+    "isDanger": 0,
+    "phonetic": "/pleɪn/",
+    "translation": "n. 平原",
+    "toggle": "adj. 平的；朴素的；简单的；清晰的"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "election",
+    "isDanger": 0,
+    "phonetic": "/ɪˈlekʃ(ə)n/",
+    "translation": "n. 选举",
+    "toggle": "n. 选举；当选；选择权； [ 宗 ] 上帝的选拔"
+  },
+  {
+    "text": "former",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔːmə(r)/",
+    "translation": "n. 从前的",
+    "toggle": "adj. 从前的，前者的；前任的"
+  },
+  {
+    "text": "defeat",
+    "isDanger": 1,
+    "phonetic": "/dɪˈfiːt/",
+    "translation": "v. 打败",
+    "toggle": "vt. 击败，战胜；使 … 失败；挫败"
+  },
+  {
+    "text": "fanatical",
+    "isDanger": 0,
+    "phonetic": "/fəˈnætɪkl/",
+    "translation": "adj. 狂热的",
+    "toggle": "adj. 狂热的"
+  },
+  {
+    "text": "opponent",
+    "isDanger": 0,
+    "phonetic": "/əˈpəʊnənt/",
+    "translation": "n. 反对者，对手",
+    "toggle": "n. 对手；敌手；反对者"
+  },
+  {
+    "text": "radical",
+    "isDanger": 0,
+    "phonetic": "/ˈrædɪk(ə)l/",
+    "translation": "adj. 激进的",
+    "toggle": "adj. 根本的；激进的；彻底的"
+  },
+  {
+    "text": "progressive",
+    "isDanger": 0,
+    "phonetic": "/prəˈɡresɪv/",
+    "translation": "adj. 进步的",
+    "toggle": "adj. 进步的；先进的"
+  },
+  {
+    "text": "prefix",
+    "isDanger": 0,
+    "phonetic": "/ˈpriːfɪks/",
+    "translation": "adj. 前..⋯",
+    "toggle": "n.[语]前缀,(人名前的)称谓(如Mr. Dr. Sir等)"
+  },
+  {
+    "text": "suspicious",
+    "isDanger": 0,
+    "phonetic": "/səˈspɪʃəs/",
+    "translation": "adj. 怀疑的",
+    "toggle": "adj. 可疑的；怀疑的；多疑的"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "pub",
+    "isDanger": 0,
+    "phonetic": "/pʌb/",
+    "translation": "n. 小酒店",
+    "toggle": "n. 酒馆；客栈"
+  },
+  {
+    "text": "landlord",
+    "isDanger": 0,
+    "phonetic": "/ˈlændlɔːd/",
+    "translation": "n. 店主",
+    "toggle": "n. 房东，老板；地主"
+  },
+  {
+    "text": "bill",
+    "isDanger": 0,
+    "phonetic": "/bɪl/",
+    "translation": "n. 帐单",
+    "toggle": "n. 帐单；法案；广告；钞票；票据；清单"
+  }
+]

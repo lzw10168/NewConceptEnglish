@@ -1,0 +1,107 @@
+[
+  {
+    "text": "control",
+    "isDanger": 1,
+    "phonetic": "/kənˈtrəʊl/",
+    "translation": "n. 控制",
+    "toggle": "n. 控制；管理；抑制；操纵装置"
+  },
+  {
+    "text": "smoke",
+    "isDanger": 0,
+    "phonetic": "/sməʊk/",
+    "translation": "n. 烟",
+    "toggle": "n. 烟；抽烟；无常的事物"
+  },
+  {
+    "text": "desolate",
+    "isDanger": 0,
+    "phonetic": "/ˈdesələt/",
+    "translation": "adj. 荒凉的",
+    "toggle": "adj. 荒凉的；无人烟的"
+  },
+  {
+    "text": "threaten",
+    "isDanger": 1,
+    "phonetic": "/ˈθret(ə)n/",
+    "translation": "v. 威胁",
+    "toggle": "vt. 威胁；恐吓；预示"
+  },
+  {
+    "text": "surrounding",
+    "isDanger": 0,
+    "phonetic": "/səˈraʊndɪŋ/",
+    "translation": "adj. 周围的",
+    "toggle": "adj. 周围的，附近的"
+  },
+  {
+    "text": "destruction",
+    "isDanger": 0,
+    "phonetic": "/dɪˈstrʌkʃ(ə)n/",
+    "translation": "n. 破坏，毁灭",
+    "toggle": "n. 破坏，毁灭；摧毁"
+  },
+  {
+    "text": "flood",
+    "isDanger": 0,
+    "phonetic": "/flʌd/",
+    "translation": "n. 洪水，水灾",
+    "toggle": "vt. 淹没；充满；溢出"
+  },
+  {
+    "text": "authority",
+    "isDanger": 0,
+    "phonetic": "/ɔːˈθɒrəti/",
+    "translation": "n. （常用复数）当局",
+    "toggle": "n. 权威；权力；当局"
+  },
+  {
+    "text": "grass-seed",
+    "isDanger": 0,
+    "phonetic": "/'gra:s'si:d/",
+    "translation": "n. 草籽",
+    "toggle": "n.草籽"
+  },
+  {
+    "text": "spray",
+    "isDanger": 0,
+    "phonetic": "/spreɪ/",
+    "translation": "v. 喷撒",
+    "toggle": "n. 水沫；喷雾；喷雾器"
+  },
+  {
+    "text": "quantity",
+    "isDanger": 0,
+    "phonetic": "/ˈkwɒntəti/",
+    "translation": "n. 量",
+    "toggle": "n. 量，数量；总量；大量"
+  },
+  {
+    "text": "root",
+    "isDanger": 1,
+    "phonetic": "/ruːt/",
+    "translation": "n. 根",
+    "toggle": "n. 根；根源；祖先；词根"
+  },
+  {
+    "text": "century",
+    "isDanger": 0,
+    "phonetic": "/ˈsentʃəri/",
+    "translation": "n. 世纪",
+    "toggle": "n. 世纪，百年；（板球）一百分"
+  },
+  {
+    "text": "patch",
+    "isDanger": 0,
+    "phonetic": "/pætʃ/",
+    "translation": "n. 小片",
+    "toggle": "n. 眼罩；斑点；碎片；小块土地"
+  },
+  {
+    "text": "blacken",
+    "isDanger": 0,
+    "phonetic": "/ˈblækən/",
+    "translation": "v. 变黑，发暗",
+    "toggle": "vt. 使变黑；诽谤，诋毁"
+  }
+]

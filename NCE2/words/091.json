@@ -1,0 +1,37 @@
+[
+  {
+    "text": "balloon",
+    "isDanger": 0,
+    "phonetic": "/bəˈluːn/",
+    "translation": "n. 气球",
+    "toggle": "vi. 激增；膨胀如气球"
+  },
+  {
+    "text": "royal",
+    "isDanger": 0,
+    "phonetic": "/ˈrɔɪəl/",
+    "translation": "adj. 皇家",
+    "toggle": "adj. 皇家的；盛大的；高贵的；女王的；第一流的"
+  },
+  {
+    "text": "spy",
+    "isDanger": 0,
+    "phonetic": "/spaɪ/",
+    "translation": "v. 侦察",
+    "toggle": "vt. 侦察；发现；暗中监视"
+  },
+  {
+    "text": "track",
+    "isDanger": 1,
+    "phonetic": "/træk/",
+    "translation": "n. 轨迹，踪迹",
+    "toggle": "n. 足迹，踪迹；轨道；小道"
+  },
+  {
+    "text": "binoculars",
+    "isDanger": 0,
+    "phonetic": "/bɪˈnɒkjələz/",
+    "translation": "n. 望远镱",
+    "toggle": "n.双眼望远镜"
+  }
+]

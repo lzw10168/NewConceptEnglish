@@ -1,0 +1,100 @@
+[
+  {
+    "text": "sticky",
+    "isDanger": 0,
+    "phonetic": "/ˈstɪki/",
+    "translation": "adj. 粘的",
+    "toggle": "adj. 粘的；粘性的"
+  },
+  {
+    "text": "finger",
+    "isDanger": 1,
+    "phonetic": "/ˈfɪŋɡə(r)/",
+    "translation": "n. 手指",
+    "toggle": "n. 手指；指针，指状物"
+  },
+  {
+    "text": "pie",
+    "isDanger": 0,
+    "phonetic": "/paɪ/",
+    "translation": "n. 馅饼",
+    "toggle": "n. 馅饼；饼图；爱说话的人"
+  },
+  {
+    "text": "mix",
+    "isDanger": 1,
+    "phonetic": "/mɪks/",
+    "translation": "v. 混合，拌和",
+    "toggle": "vt. 使混和；配制；混淆；使结交"
+  },
+  {
+    "text": "pastry",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪstri/",
+    "translation": "n. 面糊",
+    "toggle": "n. 油酥点心；面粉糕饼"
+  },
+  {
+    "text": "annoying",
+    "isDanger": 0,
+    "phonetic": "/əˈnɔɪɪŋ/",
+    "translation": "adj. 恼人的",
+    "toggle": "adj. 恼人的；讨厌的"
+  },
+  {
+    "text": "receiver",
+    "isDanger": 0,
+    "phonetic": "/rɪˈsiːvə(r)/",
+    "translation": "n. 电话的话筒",
+    "toggle": "n. 接收器；接受者；收信机；收款员，接待者"
+  },
+  {
+    "text": "dismay",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈmeɪ/",
+    "translation": "v. 失望，泄气",
+    "toggle": "n. 沮丧，灰心；惊慌"
+  },
+  {
+    "text": "recognize",
+    "isDanger": 1,
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "translation": "v. 认出，听出",
+    "toggle": "vt. 承认；认出，识别"
+  },
+  {
+    "text": "persuade",
+    "isDanger": 0,
+    "phonetic": "/pəˈsweɪd/",
+    "translation": "v. 说服，劝说",
+    "toggle": "vt. 说服，劝说；使某人相信；劝某人做（不做）某事"
+  },
+  {
+    "text": "mess",
+    "isDanger": 1,
+    "phonetic": "/mes/",
+    "translation": "n. 乱七八糟",
+    "toggle": "n. 食堂，伙食团；混乱；脏乱的东西；困境"
+  },
+  {
+    "text": "doorknob",
+    "isDanger": 0,
+    "phonetic": "/ˈdɔːnɒb/",
+    "translation": "n. 门把手",
+    "toggle": "n. 门把手"
+  },
+  {
+    "text": "sign",
+    "isDanger": 1,
+    "phonetic": "/saɪn/",
+    "translation": "v. 签字",
+    "toggle": "n. 符号；记号；迹象；手势"
+  },
+  {
+    "text": "register",
+    "isDanger": 1,
+    "phonetic": "/ˈredʒɪstə(r)/",
+    "translation": "v. 挂号邮寄",
+    "toggle": "vt. 记录；注册；登记；把 … 挂号；挂号邮寄；正式提出"
+  }
+]

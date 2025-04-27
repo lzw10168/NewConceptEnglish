@@ -1,0 +1,65 @@
+[
+  {
+    "text": "reward",
+    "isDanger": 0,
+    "phonetic": "/rɪˈwɔːd/",
+    "translation": "n. 报偿 v. 给奖赏",
+    "toggle": "n. 报酬；酬谢；报答"
+  },
+  {
+    "text": "virtue",
+    "isDanger": 0,
+    "phonetic": "/ˈvɜːtʃuː/",
+    "translation": "n. 美德",
+    "toggle": "n. 美德；优点；贞操；功效"
+  },
+  {
+    "text": "diet",
+    "isDanger": 1,
+    "phonetic": "/ˈdaɪət/",
+    "translation": "n. 节食",
+    "toggle": "n. 饮食；食物；规定饮食"
+  },
+  {
+    "text": "forbid",
+    "isDanger": 1,
+    "phonetic": "/fəˈbɪd/",
+    "translation": "v. 禁止",
+    "toggle": "vt. 禁止；妨碍，阻止"
+  },
+  {
+    "text": "hurriedly",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌrɪdli/",
+    "translation": "adv. 匆忙地",
+    "toggle": "adv. 仓促地；匆忙地"
+  },
+  {
+    "text": "embarrass",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈbærəs/",
+    "translation": "v. 使尴尬",
+    "toggle": "vt. 使局促不安；使困窘；阻碍"
+  },
+  {
+    "text": "guiltily",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɪltɪli/",
+    "translation": "adv. 内疚地",
+    "toggle": "adv.罪地,有罪地"
+  },
+  {
+    "text": "strict",
+    "isDanger": 0,
+    "phonetic": "/strɪkt/",
+    "translation": "adj. 严格的",
+    "toggle": "adj. 严格的；精确的；绝对的；详细的"
+  },
+  {
+    "text": "occasionally",
+    "isDanger": 0,
+    "phonetic": "/əˈkeɪʒnəli/",
+    "translation": "adv. 偶尔地",
+    "toggle": "adv. 偶而，间或"
+  }
+]

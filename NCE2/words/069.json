@@ -1,0 +1,79 @@
+[
+  {
+    "text": "murder",
+    "isDanger": 0,
+    "phonetic": "/ˈmɜːdə(r)/",
+    "translation": "n. 谋杀",
+    "toggle": "vt. 谋杀，凶杀"
+  },
+  {
+    "text": "instruct",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈstrʌkt/",
+    "translation": "v. 命令，指示",
+    "toggle": "vt. 命令；教授；指导；通知"
+  },
+  {
+    "text": "acquire",
+    "isDanger": 0,
+    "phonetic": "/əˈkwaɪə(r)/",
+    "translation": "v. 取得，获得",
+    "toggle": "vt. 获得；学到；取得；捕获"
+  },
+  {
+    "text": "confidence",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnfɪdəns/",
+    "translation": "n. 信心",
+    "toggle": "n. 信心；信任；秘密"
+  },
+  {
+    "text": "examiner",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzæmɪnə(r)/",
+    "translation": "n. 主考人",
+    "toggle": "n. 主考人；检验员；审查员"
+  },
+  {
+    "text": "suppose",
+    "isDanger": 1,
+    "phonetic": "/səˈpəʊz/",
+    "translation": "v. 假设",
+    "toggle": "vt. 假设；认为；推想；让（虚拟语气）"
+  },
+  {
+    "text": "tap",
+    "isDanger": 0,
+    "phonetic": "/tæp/",
+    "translation": "v. 轻敲",
+    "toggle": "vt. 轻敲；轻打；装上嘴子"
+  },
+  {
+    "text": "react",
+    "isDanger": 1,
+    "phonetic": "/riˈækt/",
+    "translation": "v. 反应",
+    "toggle": "vi. 反应；影响；反抗；起反作用"
+  },
+  {
+    "text": "brake",
+    "isDanger": 0,
+    "phonetic": "/breɪk/",
+    "translation": "n. 刹车",
+    "toggle": "vi. 刹车"
+  },
+  {
+    "text": "pedal",
+    "isDanger": 0,
+    "phonetic": "/ˈped(ə)l/",
+    "translation": "n. 踏板",
+    "toggle": "vi. 踩踏板；骑车"
+  },
+  {
+    "text": "mournful",
+    "isDanger": 0,
+    "phonetic": "/ˈmɔːnf(ə)l/",
+    "translation": "adj. 悲哀的",
+    "toggle": "adj. 悲哀的；令人惋惜的"
+  }
+]

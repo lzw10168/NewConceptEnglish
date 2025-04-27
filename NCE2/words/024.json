@@ -1,0 +1,51 @@
+[
+  {
+    "text": "manager",
+    "isDanger": 0,
+    "phonetic": "/ˈmænɪdʒə(r)/",
+    "translation": "n. 经理",
+    "toggle": "n. 经理；管理人员"
+  },
+  {
+    "text": "upset",
+    "isDanger": 0,
+    "phonetic": "/ˌʌpˈset/",
+    "translation": "adj. 不安",
+    "toggle": "vt. 颠覆；扰乱；使心烦"
+  },
+  {
+    "text": "sympathetic",
+    "isDanger": 1,
+    "phonetic": "/ˌsɪmpəˈθetɪk/",
+    "translation": "adj. 表示同情的",
+    "toggle": "adj. 同情的；赞同的；和谐的；合意的； [ 物 ] 共鸣的； [ 解 ] 交感神经的"
+  },
+  {
+    "text": "complain",
+    "isDanger": 1,
+    "phonetic": "/kəmˈpleɪn/",
+    "translation": "v. 抱怨",
+    "toggle": "vi. 发牢骚；投诉；诉说"
+  },
+  {
+    "text": "wicked",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪkɪd/",
+    "translation": "adj. 很坏的，邪恶的",
+    "toggle": "adj. 邪恶的；顽皮的；恶劣的；不道德的"
+  },
+  {
+    "text": "contain",
+    "isDanger": 0,
+    "phonetic": "/kənˈteɪn/",
+    "translation": "v. 包含，内装",
+    "toggle": "vt. 包含；容纳；控制；牵制（敌军）"
+  },
+  {
+    "text": "honesty",
+    "isDanger": 0,
+    "phonetic": "/ˈɒnəsti/",
+    "translation": "n. 诚实",
+    "toggle": "n. 诚实，正直"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "text": "chip",
+    "isDanger": 0,
+    "phonetic": "/tʃɪp/",
+    "translation": "n. 油煎土豆片",
+    "toggle": "vt. 削，凿；削成碎片"
+  },
+  {
+    "text": "overfish",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈfɪʃ/",
+    "translation": "v. 过度捕捞",
+    "toggle": "对（某水域）过度捕捞；过度捕捞（鱼）"
+  },
+  {
+    "text": "giant",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒaɪənt/",
+    "translation": "adj. 巨大的",
+    "toggle": "n. 巨人；巨大的动物；伟人"
+  },
+  {
+    "text": "terrify",
+    "isDanger": 0,
+    "phonetic": "/ˈterɪfaɪ/",
+    "translation": "v. 吓，使恐怖",
+    "toggle": "vt. 使害怕；使恐怖；恐吓"
+  },
+  {
+    "text": "diver",
+    "isDanger": 0,
+    "phonetic": "/ˈdaɪvə(r)/",
+    "translation": "n. 潜水员",
+    "toggle": "n. 潜水者；跳水的选手；潜鸟"
+  },
+  {
+    "text": "oil rig",
+    "isDanger": 0,
+    "phonetic": "/ˈɔɪl rɪɡ/",
+    "translation": "n. 石油钻塔",
+    "toggle": "石油钻井平台"
+  },
+  {
+    "text": "wit",
+    "isDanger": 0,
+    "phonetic": "/wɪt/",
+    "translation": "n. （复数）理智，头脑",
+    "toggle": "n. 智力；才智；智慧"
+  },
+  {
+    "text": "cage",
+    "isDanger": 0,
+    "phonetic": "/keɪdʒ/",
+    "translation": "n. 笼",
+    "toggle": "n. 笼，兽笼；牢房，监狱"
+  },
+  {
+    "text": "shark",
+    "isDanger": 0,
+    "phonetic": "/ʃɑːk/",
+    "translation": "n. 鲨鱼",
+    "toggle": "n. 鲨鱼；骗子"
+  },
+  {
+    "text": "whale",
+    "isDanger": 0,
+    "phonetic": "/weɪl/",
+    "translation": "n. 鲸",
+    "toggle": "vt. 猛揍；使惨败"
+  },
+  {
+    "text": "variety",
+    "isDanger": 1,
+    "phonetic": "/vəˈraɪəti/",
+    "translation": "n. 品种",
+    "toggle": "n. 种类；多样；杂耍"
+  },
+  {
+    "text": "cod",
+    "isDanger": 0,
+    "phonetic": "/kɒd/",
+    "translation": "n. 鳕",
+    "toggle": "n. 鳕鱼；愚弄；哄骗"
+  },
+  {
+    "text": "skate",
+    "isDanger": 1,
+    "phonetic": "/skeɪt/",
+    "translation": "n. 鳐",
+    "toggle": "vi. 滑冰；滑过"
+  },
+  {
+    "text": "factor",
+    "isDanger": 0,
+    "phonetic": "/ˈfæktə(r)/",
+    "translation": "n. 因素",
+    "toggle": "n. 因素；因数；要素；代理人"
+  },
+  {
+    "text": "crew",
+    "isDanger": 0,
+    "phonetic": "/kruː/",
+    "translation": "n. 全体工作人员",
+    "toggle": "n. 全体人员，全体船员；队，组"
+  },
+  {
+    "text": "special",
+    "isDanger": 1,
+    "phonetic": "/ˈspeʃ(ə)l/",
+    "translation": "adj. 特别的",
+    "toggle": "n. 专车；特刊；特价商品；特色菜；特使，特派人员"
+  }
+]

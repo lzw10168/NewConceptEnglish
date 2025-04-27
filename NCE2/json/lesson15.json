@@ -1,0 +1,188 @@
+{
+  "id": "course-2-015",
+  "lessonNumber": "015",
+  "title": {
+    "english": "Good news",
+    "chinese": "好消息"
+  },
+  "lessonInfo": "新概念英语－第2册－第015课",
+  "audioPath": "audio/nce2/015.mp3",
+  "listeningQuestion": {
+    "question": "What was the good news?",
+    "translation": "好消息是什么？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个职员担心被裁员却意外得到加薪的故事，重点介绍了间接引语的用法，以及一些表示紧张、担心等情绪的词汇用法。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "The secretary told me that Mr. Harmsworth would see me.",
+        "I felt very nervous when I went into his office.",
+        "He did not look up from his desk when I entered.",
+        "After I had sat down, he said that business was very bad.",
+        "He told me that the firm could not afford to pay such large salaries.",
+        "Twenty people had already left.",
+        "I knew that my turn had come.",
+        "'Mr.Harmsworth,' I said in a weak voice.",
+        "'Don't interrupt,' he said.",
+        "Then he smiled and told me I would receive an extra thousand pounds a year!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "秘书告诉我说哈姆斯沃斯先生要见我。",
+        "我走进他的办公室，感到非常紧张。",
+        "我进去的时候，他连头也没抬。",
+        "待我坐下后，他说生意非常不景气。",
+        "他还告诉我，公司支付不起这么庞大的工资开支。",
+        "有20个人已经离去。",
+        "我知道这次该轮到我了。",
+        "\"哈姆斯沃斯先生，\"我无力地说。",
+        "\"不要打断我的话，\"他说。",
+        "然后他微笑了一下告诉我说，我每年将得到1,000英镑的额外收入！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "secretary",
+          "phonetic": "/ˈsekrətri/",
+          "translation": "秘书",
+          "toggle": "n. 秘书",
+          "isImportant": 1
+        },
+        {
+          "text": "nervous",
+          "phonetic": "/ˈnɜːvəs/",
+          "translation": "精神紧张的",
+          "toggle": "adj. 精神紧张的，神经质的",
+          "isImportant": 1
+        },
+        {
+          "text": "afford",
+          "phonetic": "/əˈfɔːd/",
+          "translation": "负担得起",
+          "toggle": "v. 负担得起，买得起",
+          "isImportant": 1
+        },
+        {
+          "text": "weak",
+          "phonetic": "/wiːk/",
+          "translation": "弱的",
+          "toggle": "adj. 弱的，无力的",
+          "isImportant": 1
+        },
+        {
+          "text": "interrupt",
+          "phonetic": "/ˌɪntəˈrʌpt/",
+          "translation": "插话，打断",
+          "toggle": "v. 插话，打断",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "间接引语的基本用法",
+          "content": "把某人所说的话告诉另外一个人时，应该使用间接引语。间接陈述句的时态往往受引述动词的影响。如'The secretary told me that Mr. Harmsworth would see me'中，would表示过去将来时。"
+        },
+        {
+          "title": "时态的一致性",
+          "content": "当主句是过去时态时，从句的时态要相应变化。如一般现在时变为一般过去时，现在进行时变为过去进行时等。例如'He said that business was very bad'。"
+        },
+        {
+          "title": "情态动词would的用法",
+          "content": "would在这里不仅表示过去将来时，还可以表示'想要'、'愿意'的含义。如'Mr. Harmsworth would see me'表示'哈姆斯沃斯先生要见我'。"
+        },
+        {
+          "title": "表示方式的介词短语",
+          "content": "in a ... voice用来表示说话的语气或方式。如'in a weak voice'表示'用虚弱的声音'。类似的还有in a loud/low/strong voice等。"
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "look up",
+          "translation": "抬头看",
+          "context": "表示从正在做的事情中抬起头来",
+          "example": "He did not look up from his desk when I entered."
+        },
+        {
+          "phrase": "turn has come",
+          "translation": "轮到",
+          "context": "表示轮到某人",
+          "example": "I knew that my turn had come."
+        },
+        {
+          "phrase": "afford to do",
+          "translation": "有能力做某事",
+          "context": "表示有经济能力或其他能力去做某事",
+          "example": "The firm could not afford to pay such large salaries."
+        },
+        {
+          "phrase": "an extra",
+          "translation": "额外的",
+          "context": "表示额外的数量",
+          "example": "I would receive an extra thousand pounds a year."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why did the writer feel nervous?",
+          "options": [
+            "Because he was late",
+            "Because he thought he might lose his job",
+            "Because he didn't like his boss",
+            "Because he was ill"
+          ],
+          "answer": 1,
+          "explanation": "从上下文可以推断，作者认为自己可能要被解雇，所以感到紧张。"
+        },
+        {
+          "question": "What was the actual result of the meeting?",
+          "options": [
+            "The writer was fired",
+            "The writer got a pay cut",
+            "The writer got a pay rise",
+            "Nothing changed"
+          ],
+          "answer": 2,
+          "explanation": "最后老板告诉作者他将获得每年1000英镑的额外收入。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The writer felt very _____ when he went into the office.",
+          "answer": "nervous",
+          "hint": "形容紧张的心情的形容词"
+        },
+        {
+          "sentence": "The company could not _____ to pay such large salaries.",
+          "answer": "afford",
+          "hint": "表示负担得起的动词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "职场沟通",
+          "content": "本课展示了一个典型的职场沟通场景。在商业环境中，直接的表达方式可能会造成误解或紧张，有时候委婉的表达方式反而能带来意想不到的效果。"
+        },
+        {
+          "title": "情绪词汇辨析",
+          "content": "本课出现了几个表示情绪状态的词：nervous（紧张的），worried（担心的），upset（不安的），irritable（易怒的）。这些词虽然都表示负面情绪，但使用场景各不相同。"
+        }
+      ]
+    }
+  }
+} 

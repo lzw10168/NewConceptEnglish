@@ -1,0 +1,72 @@
+[
+  {
+    "text": "while",
+    "isDanger": 0,
+    "phonetic": "/waɪl/",
+    "translation": "n. 一段时间",
+    "toggle": "conj. 当…的时候；虽然；然而"
+  },
+  {
+    "text": "regret",
+    "isDanger": 1,
+    "phonetic": "/rɪˈɡret/",
+    "translation": "v. 后悔",
+    "toggle": "n. 遗憾；抱歉；悲叹"
+  },
+  {
+    "text": "far",
+    "isDanger": 0,
+    "phonetic": "/fɑː(r)/",
+    "translation": "adv. 非常",
+    "toggle": "adv. 很；到很远的距离；遥远地；到很深的程度；久远地"
+  },
+  {
+    "text": "rush",
+    "isDanger": 0,
+    "phonetic": "/rʌʃ/",
+    "translation": "v. 冲",
+    "toggle": "n. 匆促；急流；冲进；灯心草"
+  },
+  {
+    "text": "act",
+    "isDanger": 1,
+    "phonetic": "/ækt/",
+    "translation": "v. 行动",
+    "toggle": "vt. 扮演；装作，举动像"
+  },
+  {
+    "text": "straight",
+    "isDanger": 0,
+    "phonetic": "/streɪt/",
+    "translation": "adv. 径直",
+    "toggle": "adj. 直的；正直的；整齐的；连续的；笔直的"
+  },
+  {
+    "text": "fright",
+    "isDanger": 1,
+    "phonetic": "/fraɪt/",
+    "translation": "n. 害怕",
+    "toggle": "n. 惊吓；惊骇"
+  },
+  {
+    "text": "battered",
+    "isDanger": 0,
+    "phonetic": "/ˈbætəd/",
+    "translation": "adj. 撞坏的",
+    "toggle": "adj. 磨损的；弄垮的；破旧的；受到虐待的"
+  },
+  {
+    "text": "shortly",
+    "isDanger": 1,
+    "phonetic": "/ˈʃɔːtli/",
+    "translation": "adv. 很快，不久",
+    "toggle": "adv. 立刻；简短地；唐突地"
+  },
+  {
+    "text": "afterwards",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːftəwədz/",
+    "translation": "adv. 以后",
+    "toggle": "adv. 然后；后来"
+  }
+]

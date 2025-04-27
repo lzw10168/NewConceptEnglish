@@ -1,0 +1,266 @@
+{
+  "id": "course-2-027",
+  "lessonNumber": "027",
+  "title": {
+    "english": "A wet night",
+    "chinese": "雨夜"
+  },
+  "lessonInfo": "新概念英语－第2册－第027课",
+  "audioPath": "audio/nce2/027.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the boys' tent in the middle of the night?",
+    "translation": "午夜时分男孩们的帐篷发生了什么？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一群男孩露营时遇到大雨的故事，重点介绍了感官动词的用法，以及表示'在...之后'的句式。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Late in the afternoon, the boys put up their tent in the middle of a field.",
+        "As soon as this was done, they cooked a meal over an open fire.",
+        "They were all hungry and the food smelled good.",
+        "After a wonderful meal, they told stories and sang songs by the campfire.",
+        "But some time later it began to rain.",
+        "The boys felt tired so they put out the fire and crept into their tent.",
+        "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+        "In the middle of the night, two boys woke up and began shouting.",
+        "The tent was full of water!",
+        "They all leapt out of their sleeping bags and hurried outside.",
+        "It was raining heavily and they found that a stream had formed in the field.",
+        "The stream wound its way across the field and then flowed right under their tent!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "傍晚时分，孩子们在田野中央搭起了帐篷。",
+        "这件事刚刚做完，他们就在篝火上烧起了饭。",
+        "他们全都饿了，饭菜散发出阵阵香味。",
+        "他们美美地吃了一顿饭后，就围在营火旁讲起了故事，唱起了歌。",
+        "但过了一阵子，天下起雨来。",
+        "孩子们感到累了，于是他们扑灭了篝火，钻进了帐篷。",
+        "睡袋既暖和又舒服，所以，他们都睡得很香。",
+        "午夜前后，有两个孩子醒了，大声叫了起来。",
+        "原来帐篷里到处都是水！",
+        "他们全都跳出睡袋，跑到外面。",
+        "雨下得很大，他们发现地上已经形成了一条小溪。",
+        "那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "tent",
+          "phonetic": "/tent/",
+          "translation": "帐篷",
+          "toggle": "n. 帐篷",
+          "isImportant": 1
+        },
+        {
+          "text": "field",
+          "phonetic": "/fiːld/",
+          "translation": "田地，田野",
+          "toggle": "n. 田地，田野",
+          "isImportant": 1
+        },
+        {
+          "text": "smell",
+          "phonetic": "/smel/",
+          "translation": "闻起来",
+          "toggle": "v. 闻起来",
+          "isImportant": 1
+        },
+        {
+          "text": "wonderful",
+          "phonetic": "/ˈwʌndəfʊl/",
+          "translation": "极好的",
+          "toggle": "adj. 极好的",
+          "isImportant": 1
+        },
+        {
+          "text": "campfire",
+          "phonetic": "/ˈkæmpfaɪə/",
+          "translation": "营火，篝火",
+          "toggle": "n. 营火，篝火",
+          "isImportant": 1
+        },
+        {
+          "text": "creep",
+          "phonetic": "/kriːp/",
+          "translation": "爬行",
+          "toggle": "v. 爬行",
+          "isImportant": 1
+        },
+        {
+          "text": "sleeping bag",
+          "phonetic": "/ˈsliːpɪŋ bæɡ/",
+          "translation": "睡袋",
+          "toggle": "n. 睡袋",
+          "isImportant": 1
+        },
+        {
+          "text": "comfortable",
+          "phonetic": "/ˈkʌmftəbl/",
+          "translation": "舒适的",
+          "toggle": "adj. 舒适的，安逸的",
+          "isImportant": 1
+        },
+        {
+          "text": "soundly",
+          "phonetic": "/ˈsaʊndli/",
+          "translation": "香甜地",
+          "toggle": "adv. 香甜地",
+          "isImportant": 1
+        },
+        {
+          "text": "leap",
+          "phonetic": "/liːp/",
+          "translation": "跳跃",
+          "toggle": "v. 跳跃，跳起",
+          "isImportant": 1
+        },
+        {
+          "text": "heavily",
+          "phonetic": "/ˈhevɪli/",
+          "translation": "大量地",
+          "toggle": "adv. 大量地",
+          "isImportant": 1
+        },
+        {
+          "text": "stream",
+          "phonetic": "/striːm/",
+          "translation": "小溪",
+          "toggle": "n. 小溪",
+          "isImportant": 1
+        },
+        {
+          "text": "form",
+          "phonetic": "/fɔːm/",
+          "translation": "形成",
+          "toggle": "v. 形成",
+          "isImportant": 1
+        },
+        {
+          "text": "wind",
+          "phonetic": "/waɪnd/",
+          "translation": "蜿蜒",
+          "toggle": "v. 蜿蜒",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "感官动词的用法",
+          "content": [
+            "1. 感官动词包括look、taste、sound、smell、feel等",
+            "2. 这些动词后面通常接形容词作表语，而不是副词",
+            "3. 例如：The food smelt good（不能说smell well）",
+            "4. 这类动词表示感官感受，描述事物的特征"
+          ]
+        },
+        {
+          "title": "表示'在...之后'的句式",
+          "content": [
+            "1. 可以使用after + 从句来表示在某事之后",
+            "2. after + 动名词也可以表示在某动作之后",
+            "3. after + 名词表示在某时间或事件之后",
+            "4. 例如：After a wonderful meal, they told stories"
+          ]
+        },
+        {
+          "title": "as soon as的用法",
+          "content": [
+            "1. as soon as表示'一...就...'",
+            "2. 引导时间状语从句",
+            "3. 表示两个动作紧密相连",
+            "4. 例如：As soon as this was done, they cooked a meal"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "put up",
+          "translation": "搭建，搭起",
+          "context": "用于描述搭建帐篷等临时建筑物",
+          "example": "They put up their tent in the middle of a field."
+        },
+        {
+          "phrase": "put out",
+          "translation": "扑灭",
+          "context": "用于描述熄灭火焰",
+          "example": "They put out the fire and crept into their tent."
+        },
+        {
+          "phrase": "wind one's way",
+          "translation": "蜿蜒而行",
+          "context": "描述道路或河流的弯曲行进",
+          "example": "The stream wound its way across the field."
+        },
+        {
+          "phrase": "late in the afternoon",
+          "translation": "傍晚时分",
+          "context": "表示一天中接近晚上的时间",
+          "example": "Late in the afternoon, the boys put up their tent."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "When did the boys put up their tent?",
+          "options": [
+            "Early in the morning",
+            "Late in the afternoon",
+            "At noon",
+            "In the evening"
+          ],
+          "answer": 1,
+          "explanation": "文中第一句提到'Late in the afternoon, the boys put up their tent'"
+        },
+        {
+          "question": "What did they do after the meal?",
+          "options": [
+            "They went to sleep immediately",
+            "They played games",
+            "They told stories and sang songs",
+            "They went for a walk"
+          ],
+          "answer": 2,
+          "explanation": "文中提到'After a wonderful meal, they told stories and sang songs'"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The food _____ good.",
+          "answer": "smelt",
+          "hint": "使用smell的过去式"
+        },
+        {
+          "sentence": "The stream _____ its way across the field.",
+          "answer": "wound",
+          "hint": "使用wind的过去式"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "露营活动文化背景",
+          "content": "露营是英语国家流行的户外活动，特别是在暑假期间。人们通过露营来亲近自然，与家人朋友共度美好时光。露营需要注意天气变化，选择合适的营地，准备必要的装备。"
+        },
+        {
+          "title": "语言点拓展",
+          "content": "本课中出现的动词wind有'蜿蜒'的意思，这是其引申义。wind的基本含义是'缠绕'，过去式和过去分词都是wound。类似的动词还有：bend-bent-bent（弯曲），bind-bound-bound（捆绑）等。"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,181 @@
+{
+    "id": "course-2-021",
+    "lessonNumber": "021",
+    "title": {
+        "english": "Mad or not?",
+        "chinese": "是疯子还是不是？"
+    },
+    "lessonInfo": "新概念英语－第2册－第021课",
+    "audioPath": "audio/nce2/021.mp3",
+    "listeningQuestion": {
+        "question": "Why does the writer refuse to leave his house?",
+        "translation": "为什么作者拒绝离开他的房子？"
+    },
+    "content": {
+        "editorNotes": "本课讲述了一个人因为住在机场附近而被噪音困扰的故事，重点介绍了被动语态的用法，以及drive的多种用法。",
+        "dialogueText": {
+            "heading": "课文",
+            "dialogue": [
+                "Aeroplanes are slowly driving me mad.",
+                "I live near an airport and passing planes can be heard night and day.",
+                "The airport was built years ago, but for some reason it could not be used then.",
+                "Last year, however, it came into use.",
+                "Over a hundred people must have been driven away from their homes by the noise.",
+                "I am one of the few people left.",
+                "Sometimes I think this house will be knocked down by a passing plane.",
+                "I have been offered a large sum of money to go away, but I am determined to stay here.",
+                "Everybody says I must be mad and they are probably right."
+            ]
+        },
+        "translation": {
+            "heading": "翻译",
+            "notes": [
+                "飞机正在逐渐把我逼疯。",
+                "我住在一个机场附近，过往飞机日夜不绝于耳。",
+                "机场是许多年前建的，但由于某种原因当时未能启用。",
+                "然而去年机场开始使用了。",
+                "有100多人肯定是被噪音逼得已经弃家远去，",
+                "我是少数留下来的人中的一个。",
+                "有时我觉得这房子就要被一架飞过的飞机撞倒。",
+                "他们曾向我提供一大笔钱让我搬走，但我决定留在这儿。",
+                "大家都说我肯定是疯了，也许他们说的是对的。"
+            ]
+        },
+        "newwords": {
+            "heading": "New words and expressions 生词和短语",
+            "notes": [
+                {
+                    "text": "mad",
+                    "phonetic": "/mæd/",
+                    "translation": "发疯",
+                    "toggle": "adj. 发疯",
+                    "isImportant": 1
+                },
+                {
+                    "text": "reason",
+                    "phonetic": "/ˈriːzn/",
+                    "translation": "原因",
+                    "toggle": "n. 原因",
+                    "isImportant": 1
+                },
+                {
+                    "text": "sum",
+                    "phonetic": "/sʌm/",
+                    "translation": "量",
+                    "toggle": "n. 量",
+                    "isImportant": 1
+                },
+                {
+                    "text": "determined",
+                    "phonetic": "/dɪˈtɜːmɪnd/",
+                    "translation": "坚定的，下决心的",
+                    "toggle": "adj. 坚定的，下决心的",
+                    "isImportant": 1
+                }
+            ]
+        },
+        "grammarPoints": {
+            "heading": "语法要点 Grammar points",
+            "notes": [
+                {
+                    "title": "被动语态的用法",
+                    "content": [
+                        "1. 被动语态可以和大部分情态动词连用，如：must have been driven",
+                        "2. 动词+宾语+不定式结构中，动词和不定式都可以用被动语态",
+                        "3. 在双宾语结构中，两个宾语都可以成为被动句的主语",
+                        "4. 间接宾语通常是人，所以更常用作被动句主语"
+                    ]
+                },
+                {
+                    "title": "drive的多种用法",
+                    "content": [
+                        "1. drive to: 开车去某地",
+                        "2. drive sb. away/out: 赶走某人",
+                        "3. drive sb. mad: 使某人发疯",
+                        "4. drive sb. back: 把某人赶回去"
+                    ]
+                }
+            ]
+        },
+        "commonPhrases": {
+            "heading": "常见短语 Common phrases",
+            "notes": [
+                {
+                    "phrase": "be mad about",
+                    "translation": "对...着迷",
+                    "context": "表示对某事物非常喜爱",
+                    "example": "I'm mad about English."
+                },
+                {
+                    "phrase": "come into use",
+                    "translation": "开始使用",
+                    "context": "表示某物开始被使用",
+                    "example": "The new road came into use last month."
+                },
+                {
+                    "phrase": "a large sum of",
+                    "translation": "一大笔",
+                    "context": "用于描述金钱或其他数量",
+                    "example": "He spent a large sum of money on his new car."
+                },
+                {
+                    "phrase": "be determined to",
+                    "translation": "决心要",
+                    "context": "表示坚定地要做某事",
+                    "example": "I am determined to learn English well."
+                }
+            ]
+        },
+        "exercises": {
+            "multipleChoice": [
+                {
+                    "question": "Why couldn't the airport be used when it was first built?",
+                    "options": [
+                        "Because it was too small",
+                        "Because it was not safe",
+                        "The reason is not mentioned",
+                        "Because there were no planes"
+                    ],
+                    "answer": 2,
+                    "explanation": "文中只说'for some reason'，没有具体说明原因"
+                },
+                {
+                    "question": "What has happened to most of the people who lived near the airport?",
+                    "options": [
+                        "They have gone mad",
+                        "They have moved away",
+                        "They are still living there",
+                        "They have complained to the authorities"
+                    ],
+                    "answer": 1,
+                    "explanation": "文中说'Over a hundred people must have been driven away from their homes by the noise'"
+                }
+            ],
+            "fillInBlanks": [
+                {
+                    "sentence": "The noise of the planes is driving me _____.",
+                    "answer": "mad",
+                    "hint": "表示'发疯'的形容词"
+                },
+                {
+                    "sentence": "I am _____ to stay here despite the noise.",
+                    "answer": "determined",
+                    "hint": "表示'决心'的形容词"
+                }
+            ]
+        },
+        "additionalContent": {
+            "heading": "补充内容 Additional content",
+            "notes": [
+                {
+                    "title": "文化背景",
+                    "content": "在现代社会，噪音污染是一个普遍存在的环境问题，特别是在机场、高速公路等交通枢纽附近。许多国家都制定了相关法规来保护居民免受噪音污染的影响。"
+                },
+                {
+                    "title": "语言点拓展",
+                    "content": "home和house的区别：home强调居住的人和温暖的感觉，带有感情色彩；house则指建筑物本身，是一个客观的概念。"
+                }
+            ]
+        }
+    }
+} 

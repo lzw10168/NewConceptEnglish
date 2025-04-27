@@ -1,0 +1,37 @@
+[
+  {
+    "text": "fisherman",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪʃəmən/",
+    "translation": "n. 钓鱼人，渔民",
+    "toggle": "n. 渔夫；渔人"
+  },
+  {
+    "text": "boot",
+    "isDanger": 1,
+    "phonetic": "/buːt/",
+    "translation": "n. 靴子",
+    "toggle": "vt. 使穿靴；引导；踢；解雇"
+  },
+  {
+    "text": "waste",
+    "isDanger": 0,
+    "phonetic": "/weɪst/",
+    "translation": "n. 浪费",
+    "toggle": "n. 废物；浪费；荒地；损耗；地面风化物"
+  },
+  {
+    "text": "realize",
+    "isDanger": 1,
+    "phonetic": "/ˈriːəlaɪz/",
+    "translation": "v. 意识到",
+    "toggle": "vt. 实现；了解；将某物卖得；认识到"
+  },
+  {
+    "text": "catch",
+    "isDanger": 1,
+    "phonetic": "/kætʃ/",
+    "translation": "v. 抓到",
+    "toggle": "vt. 赶上；抓住；感染；了解"
+  }
+]

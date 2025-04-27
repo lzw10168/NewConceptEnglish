@@ -1,0 +1,23 @@
+[
+  {
+    "text": "persistent",
+    "isDanger": 1,
+    "phonetic": "/pəˈsɪstənt/",
+    "translation": "adj. 坚持的，固执的",
+    "toggle": "adj. 固执的，坚持的；持久稳固的"
+  },
+  {
+    "text": "avoid",
+    "isDanger": 0,
+    "phonetic": "/əˈvɔɪd/",
+    "translation": "v. 避开",
+    "toggle": "vt. 避免；避开，躲避；消除"
+  },
+  {
+    "text": "insist",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈsɪst/",
+    "translation": "v. 坚持做",
+    "toggle": "vt. 坚持，强调"
+  }
+]

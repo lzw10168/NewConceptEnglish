@@ -1,0 +1,30 @@
+[
+  {
+    "text": "complete",
+    "isDanger": 1,
+    "phonetic": "/kəmˈpliːt/",
+    "translation": "v. 完成",
+    "toggle": "adj. 完全的；完整的；彻底的"
+  },
+  {
+    "text": "modern",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒd(ə)n/",
+    "translation": "adj. 新式的，与以往不同的",
+    "toggle": "adj. 现代的，近代的；时髦的"
+  },
+  {
+    "text": "strange",
+    "isDanger": 0,
+    "phonetic": "/streɪndʒ/",
+    "translation": "adj. 奇怪的",
+    "toggle": "adj. 陌生的；奇怪的；外行的"
+  },
+  {
+    "text": "district",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪstrɪkt/",
+    "translation": "n. 地区",
+    "toggle": "n. 区域；行政区；地方"
+  }
+]

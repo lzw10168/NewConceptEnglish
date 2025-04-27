@@ -1,0 +1,51 @@
+[
+  {
+    "text": "welcome",
+    "isDanger": 0,
+    "phonetic": "/ˈwelkəm/",
+    "translation": "n. 欢迎；v. 欢迎",
+    "toggle": "adj. 受欢迎的"
+  },
+  {
+    "text": "crowd",
+    "isDanger": 0,
+    "phonetic": "/kraʊd/",
+    "translation": "n. 人群",
+    "toggle": "vt. 挤满；将 … 塞进；催逼，催促"
+  },
+  {
+    "text": "gather",
+    "isDanger": 1,
+    "phonetic": "/ˈɡæðə(r)/",
+    "translation": "v. 聚集",
+    "toggle": "vt. 收集；使 … 聚集；收割；使 … 皱起"
+  },
+  {
+    "text": "hand",
+    "isDanger": 1,
+    "phonetic": "/hænd/",
+    "translation": "n. （表或机器的）指针",
+    "toggle": "n. 手，手艺；指针；插手；帮助"
+  },
+  {
+    "text": "shout",
+    "isDanger": 1,
+    "phonetic": "/ʃaʊt/",
+    "translation": "v. 喊叫",
+    "toggle": "vi. 呼喊；喊叫；大声说"
+  },
+  {
+    "text": "refuse",
+    "isDanger": 1,
+    "phonetic": "/rɪˈfjuːz/",
+    "translation": "v. 拒绝",
+    "toggle": "n. 废物；垃圾"
+  },
+  {
+    "text": "laugh",
+    "isDanger": 1,
+    "phonetic": "/lɑːf/",
+    "translation": "v. 笑",
+    "toggle": "n. 笑；引人发笑的事或人"
+  }
+]

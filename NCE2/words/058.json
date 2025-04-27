@@ -1,0 +1,121 @@
+[
+  {
+    "text": "blessing",
+    "isDanger": 0,
+    "phonetic": "/ˈblesɪŋ/",
+    "translation": "n. 福分，福气",
+    "toggle": "n. 祝福；祷告；赐福"
+  },
+  {
+    "text": "disguise",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈɡaɪz/",
+    "translation": "n. 伪装",
+    "toggle": "vt. 假装；掩饰；隐瞒"
+  },
+  {
+    "text": "tiny",
+    "isDanger": 0,
+    "phonetic": "/ˈtaɪni/",
+    "translation": "adj. 极小的",
+    "toggle": "adj. 微小的；很少的"
+  },
+  {
+    "text": "possess",
+    "isDanger": 0,
+    "phonetic": "/pəˈzes/",
+    "translation": "v. 拥有",
+    "toggle": "vt. 持有；控制；迷住；使掌握"
+  },
+  {
+    "text": "cursed",
+    "isDanger": 0,
+    "phonetic": "/kɜːst/",
+    "translation": "adj. 可恨的",
+    "toggle": "adj.被诅咒的,邪恶的"
+  },
+  {
+    "text": "increase",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈkriːs/",
+    "translation": "v. 增加",
+    "toggle": "n. 增加，增长；提高"
+  },
+  {
+    "text": "plant",
+    "isDanger": 1,
+    "phonetic": "/plɑːnt/",
+    "translation": "v. 种植",
+    "toggle": "n. 工厂，车间；植物；庄稼；设备"
+  },
+  {
+    "text": "church",
+    "isDanger": 0,
+    "phonetic": "/tʃɜːtʃ/",
+    "translation": "n. 教堂",
+    "toggle": "n. 教堂；礼拜；教派"
+  },
+  {
+    "text": "evil",
+    "isDanger": 0,
+    "phonetic": "/ˈiːv(ə)l/",
+    "translation": "adj. 坏的",
+    "toggle": "adj. 邪恶的；有害的；不幸的；讨厌的"
+  },
+  {
+    "text": "reputation",
+    "isDanger": 0,
+    "phonetic": "/ˌrepjuˈteɪʃ(ə)n/",
+    "translation": "n. 名声",
+    "toggle": "n. 声望；名声，名誉"
+  },
+  {
+    "text": "claim",
+    "isDanger": 1,
+    "phonetic": "/kleɪm/",
+    "translation": "v. 以…为其后果",
+    "toggle": "vi. 提出要求"
+  },
+  {
+    "text": "victim",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪktɪm/",
+    "translation": "n. 受害者，牺牲品",
+    "toggle": "n. 牺牲者；受害人；牺牲品"
+  },
+  {
+    "text": "vicar",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪkə(r)/",
+    "translation": "n. 教区牧师",
+    "toggle": "n. 教区牧师，教堂牧师；传教牧师；代理人"
+  },
+  {
+    "text": "source",
+    "isDanger": 0,
+    "phonetic": "/sɔːs/",
+    "translation": "n. 来源",
+    "toggle": "n. 来源；原始资料；水源"
+  },
+  {
+    "text": "income",
+    "isDanger": 0,
+    "phonetic": "/ˈɪnkʌm/",
+    "translation": "n. 收入",
+    "toggle": "n. 收入，收益；所得"
+  },
+  {
+    "text": "trunk",
+    "isDanger": 0,
+    "phonetic": "/trʌŋk/",
+    "translation": "n. 树干",
+    "toggle": "n. 树干；躯干；象鼻；汽车车尾的行李箱"
+  },
+  {
+    "text": "gain",
+    "isDanger": 1,
+    "phonetic": "/ɡeɪn/",
+    "translation": "v. 受益",
+    "toggle": "n. 收获；增加；利润"
+  }
+]

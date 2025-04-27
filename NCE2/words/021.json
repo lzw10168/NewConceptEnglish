@@ -1,0 +1,30 @@
+[
+  {
+    "text": "mad",
+    "isDanger": 1,
+    "phonetic": "/mæd/",
+    "translation": "adj. 发疯",
+    "toggle": "adj. 疯狂的；愚蠢的；着迷的；发疯的"
+  },
+  {
+    "text": "reason",
+    "isDanger": 1,
+    "phonetic": "/ˈriːz(ə)n/",
+    "translation": "n. 原因",
+    "toggle": "n. 理由；理性；动机"
+  },
+  {
+    "text": "sum",
+    "isDanger": 1,
+    "phonetic": "/sʌm/",
+    "translation": "n. 量",
+    "toggle": "n. 总数；金额"
+  },
+  {
+    "text": "determined",
+    "isDanger": 0,
+    "phonetic": "/dɪˈtɜːmɪnd/",
+    "translation": "adj. 坚定的，下决心的",
+    "toggle": "adj. 坚决的；决定了的"
+  }
+]

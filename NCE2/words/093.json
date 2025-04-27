@@ -1,0 +1,93 @@
+[
+  {
+    "text": "noble",
+    "isDanger": 0,
+    "phonetic": "/ˈnəʊb(ə)l/",
+    "translation": "adj. 高尚的，壮丽的",
+    "toggle": "adj. 贵族的；高尚的；宏伟的；惰性的"
+  },
+  {
+    "text": "monument",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒnjumənt/",
+    "translation": "n. 纪念碑",
+    "toggle": "n. 纪念碑；历史遗迹；不朽的作品"
+  },
+  {
+    "text": "statue",
+    "isDanger": 0,
+    "phonetic": "/ˈstætʃuː/",
+    "translation": "n. 雕像",
+    "toggle": "n. 雕像，塑像"
+  },
+  {
+    "text": "liberty",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪbəti/",
+    "translation": "n. 自由",
+    "toggle": "n. 自由；许可；冒失"
+  },
+  {
+    "text": "present",
+    "isDanger": 1,
+    "phonetic": "/ˈprez(ə)nt/",
+    "translation": "v. 赠送",
+    "toggle": "vt. 呈现；介绍；提出；赠送"
+  },
+  {
+    "text": "sculptor",
+    "isDanger": 0,
+    "phonetic": "/ˈskʌlptə(r)/",
+    "translation": "n. 雕刻家",
+    "toggle": "n. 雕刻家"
+  },
+  {
+    "text": "actual",
+    "isDanger": 1,
+    "phonetic": "/ˈæktʃuəl/",
+    "translation": "adj. 实际的，真实的",
+    "toggle": "adj. 真实的，实际的；现行的，目前的"
+  },
+  {
+    "text": "copper",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒpə(r)/",
+    "translation": "n. 铜",
+    "toggle": "n. 铜；铜币； [ 俚 ] 警察"
+  },
+  {
+    "text": "support",
+    "isDanger": 1,
+    "phonetic": "/səˈpɔːt/",
+    "translation": "v. 支持，支撑",
+    "toggle": "vt. 支持，支撑，支援；赡养，供养；扶持，帮助"
+  },
+  {
+    "text": "framework",
+    "isDanger": 0,
+    "phonetic": "/ˈfreɪmwɜːk/",
+    "translation": "n. 构架，框架",
+    "toggle": "n. 结构，构架；框架，骨架"
+  },
+  {
+    "text": "transport",
+    "isDanger": 0,
+    "phonetic": "/ˈtrænspɔːt/",
+    "translation": "v. 运送",
+    "toggle": "n. 运输；运输机；狂喜；流放犯"
+  },
+  {
+    "text": "site",
+    "isDanger": 0,
+    "phonetic": "/saɪt/",
+    "translation": "n. 场地",
+    "toggle": "n. 地点；场所；位置"
+  },
+  {
+    "text": "pedestal",
+    "isDanger": 0,
+    "phonetic": "/ˈpedɪst(ə)l/",
+    "translation": "n. 底座",
+    "toggle": "n. 基架，基座；基础"
+  }
+]

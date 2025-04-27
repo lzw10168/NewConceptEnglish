@@ -1,0 +1,58 @@
+[
+  {
+    "text": "madam",
+    "isDanger": 0,
+    "phonetic": "/ˈmædəm/",
+    "translation": "n. （对妇女的尊称）太太，夫人",
+    "toggle": "n. 夫人；女士；鸨母"
+  },
+  {
+    "text": "jeans",
+    "isDanger": 0,
+    "phonetic": "/dʒiːnz/",
+    "translation": "n. 牛仔裤",
+    "toggle": "n. 牛仔裤；工装裤"
+  },
+  {
+    "text": "hesitate",
+    "isDanger": 1,
+    "phonetic": "/ˈhezɪteɪt/",
+    "translation": "v. 犹豫，迟缓",
+    "toggle": "vi. 踌躇，犹豫；不愿"
+  },
+  {
+    "text": "serve",
+    "isDanger": 1,
+    "phonetic": "/sɜːv/",
+    "translation": "v. 接待（顾客）",
+    "toggle": "vt. 招待，供应；为 … 服务；对 … 有用；可作 … 用"
+  },
+  {
+    "text": "scornfully",
+    "isDanger": 0,
+    "phonetic": "/ˈskɔːnfəli/",
+    "translation": "adv. 轻蔑地",
+    "toggle": "adv.轻蔑地,藐视地"
+  },
+  {
+    "text": "punish",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌnɪʃ/",
+    "translation": "v. 惩罚",
+    "toggle": "vt. 严厉对待；惩罚； [ 口 ] 贪婪地吃喝"
+  },
+  {
+    "text": "fur",
+    "isDanger": 0,
+    "phonetic": "/fɜː(r)/",
+    "translation": "n. 裘皮",
+    "toggle": "n. 毛皮；皮，皮子；软毛"
+  },
+  {
+    "text": "eager",
+    "isDanger": 0,
+    "phonetic": "/ˈiːɡə(r)/",
+    "translation": "adj. 热切的，热情的",
+    "toggle": "adj. 渴望的；热心的；热切的"
+  }
+]

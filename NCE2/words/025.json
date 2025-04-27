@@ -1,0 +1,44 @@
+[
+  {
+    "text": "railway",
+    "isDanger": 0,
+    "phonetic": "/ˈreɪlweɪ/",
+    "translation": "n. 铁路",
+    "toggle": "n. （英）铁路；铁道部门；轨道"
+  },
+  {
+    "text": "porter",
+    "isDanger": 0,
+    "phonetic": "/ˈpɔːtə(r)/",
+    "translation": "n. 搬运工",
+    "toggle": "n. 门房；守门人；服务员；行李搬运工"
+  },
+  {
+    "text": "foreigner",
+    "isDanger": 0,
+    "phonetic": "/ˈfɒrənə(r)/",
+    "translation": "n. 外国人",
+    "toggle": "n. 外地人，外国人"
+  },
+  {
+    "text": "wonder",
+    "isDanger": 1,
+    "phonetic": "/ˈwʌndə(r)/",
+    "translation": "v. 感到奇怪",
+    "toggle": "n. 惊奇；奇迹；惊愕"
+  },
+  {
+    "text": "several",
+    "isDanger": 1,
+    "phonetic": "/ˈsevrəl/",
+    "translation": "pron. 几个",
+    "toggle": "adj. 几个的；各自的"
+  },
+  {
+    "text": "quantifier",
+    "isDanger": 0,
+    "phonetic": "/ˈkwɒntɪfaɪə/",
+    "translation": "n. 数量词",
+    "toggle": "n.数量词,量词"
+  }
+]

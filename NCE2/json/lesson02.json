@@ -1,0 +1,210 @@
+{
+  "id": "course-2-002",
+  "lessonNumber": "002",
+  "title": {
+    "english": "Breakfast or lunch?",
+    "chinese": "早餐还是午餐？"
+  },
+  "lessonInfo": "新概念英语－第2册－第002课",
+  "audioPath": "audio/nce2/002.mp3",
+  "listeningQuestion": {
+    "question": "What is the writer doing on Sunday?",
+    "translation": "作者在周日做什么？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个有趣的小故事，描述了一个周日早晨发生的事情。主人公习惯周日睡懒觉，但这天却因为姑妈突然来访而发生了一个小插曲。故事通过时间概念的混淆制造了幽默效果，同时也反映了不同人对时间安排的不同态度。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "It was Sunday.",
+        "I never get up early on Sundays.",
+        "I sometimes stay in bed until lunchtime.",
+        "Last Sunday I got up very late.",
+        "I looked out of the window.",
+        "It was dark outside.",
+        "'What a day!' I thought.",
+        "'It's raining again.'",
+        "Just then, the telephone rang.",
+        "It was my aunt Lucy.",
+        "'I've just arrived by train,' she said.",
+        "'I'm coming to see you.'",
+        "'But I'm still having breakfast,' I said.",
+        "'What are you doing?' she asked.",
+        "'I'm having breakfast,' I repeated.",
+        "'Dear me,' she said.",
+        "'Do you always get up so late?'",
+        "'It's one o'clock!'"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "那是个星期天。",
+        "而在星期天我是从来不早起的。",
+        "有时我要一直躺到吃午饭的时候。",
+        "上个星期天，我起得很晚。",
+        "我望望窗外。",
+        "外面一片昏暗。",
+        "'鬼天气！'我想。",
+        "'又下雨了。'",
+        "正在这时，电话铃响了。",
+        "是我姑母露西打来的。",
+        "'我刚下火车，'她说。",
+        "'我这就来看你。'",
+        "'但我还在吃早饭，'我说。",
+        "'你在干什么？'她问道。",
+        "'我正在吃早饭，'我又说了一遍。",
+        "'天啊，'她说。",
+        "'你总是起得这么晚吗？'",
+        "'现在已经1点钟了！'"
+      ]
+    },
+    "newwords": {
+      "heading": "生词和短语",
+      "notes": [
+        {
+          "text": "until",
+          "translation": "直到",
+          "phonetic": "/ənˈtɪl/",
+          "toggle": "prep. 直到",
+          "isImportant": 1
+        },
+        {
+          "text": "outside",
+          "translation": "外面",
+          "phonetic": "/ˌaʊtˈsaɪd/",
+          "toggle": "adv. 外面",
+          "isImportant": 1
+        },
+        {
+          "text": "ring",
+          "translation": "（铃、电话等）响",
+          "phonetic": "/rɪŋ/",
+          "toggle": "v. （铃、电话等）响（rang, rung）",
+          "isImportant": 1
+        },
+        {
+          "text": "aunt",
+          "translation": "姑，姨，婶，舅母",
+          "phonetic": "/ɑːnt/",
+          "toggle": "n. 姑，姨，婶，舅母",
+          "isImportant": 1
+        },
+        {
+          "text": "repeat",
+          "translation": "重复",
+          "phonetic": "/rɪˈpiːt/",
+          "toggle": "v. 重复",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点",
+      "notes": [
+        {
+          "title": "until的用法",
+          "content": "until用于表示动作、状态等的持续，在肯定句中与持续性状态动词连用，表示持续到某一时刻；在否定句中通常与描述短暂动作的动词连用，表示'到...为止'、'直到...才'。"
+        },
+        {
+          "title": "现在进行时和一般现在时的区别",
+          "content": "现在进行时表示说话当时正在发生或现阶段的动向，常与now、just、still等副词连用；一般现在时表示习惯性动作、真理，常与频率副词often、always、sometimes、never等连用。"
+        },
+        {
+          "title": "交通工具介词by的用法",
+          "content": "by直接加交通工具名词（不带任何修饰词，用复数形式），如by train, by bus；如果有修饰词，要改用in或on。"
+        },
+        {
+          "title": "what引导的感叹句",
+          "content": "结构为：What + a/an (+ adj.) + n. (+ 主语 + 谓语)!，用来表示惊奇、愤怒、赞赏、喜悦等感情。"
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语",
+      "notes": [
+        {
+          "phrase": "get up early/late",
+          "translation": "早起/晚起",
+          "context": "描述起床时间的常用表达",
+          "example": "I never get up early on weekends."
+        },
+        {
+          "phrase": "stay in bed",
+          "translation": "躺在床上，卧床",
+          "context": "表示在床上休息的状态",
+          "example": "He had to stay in bed for three days because of his illness."
+        },
+        {
+          "phrase": "look out of",
+          "translation": "往外看",
+          "context": "表示从建筑物内向外看",
+          "example": "She looked out of the window at the beautiful garden."
+        },
+        {
+          "phrase": "Dear me",
+          "translation": "天哪！",
+          "context": "表示惊讶的英式感叹语",
+          "example": "Dear me! It's already midnight!"
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "He doesn't get up early on Sundays. He gets up ___.",
+          "options": [
+            "late",
+            "lately",
+            "slowly",
+            "hardly"
+          ],
+          "answer": 0,
+          "explanation": "late作为形容词和副词都表示'晚'，符合句意；lately表示'最近'，不符合上下文。"
+        },
+        {
+          "question": "He ___ out of the window and saw that it was raining.",
+          "options": [
+            "looked",
+            "saw",
+            "remarked",
+            "watched"
+          ],
+          "answer": 0,
+          "explanation": "look作为不及物动词需要加介词，look out of是正确搭配。"
+        },
+        {
+          "question": "Breakfast is the first ___ of the day.",
+          "options": [
+            "food",
+            "dinner",
+            "lunch",
+            "meal"
+          ],
+          "answer": 3,
+          "explanation": "meal表示'一顿饭'，breakfast是一天的第一顿饭。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "I ___ in bed until lunchtime on Sundays.",
+          "answer": "stay",
+          "hint": "表示持续状态的动词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "在英语国家，周日通常被视为休息日，人们的作息时间会比平时更加放松。不过，像故事中那样睡到午餐时间仍然被认为是过于懒散的行为。"
+        },
+        {
+          "title": "表达方式",
+          "content": "课文中出现了多种表达时间和日常作息的说法，以及英式英语中特有的一些表达方式，如'Dear me'这样的感叹语。"
+        }
+      ]
+    }
+  }
+}

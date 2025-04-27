@@ -1,0 +1,37 @@
+[
+  {
+    "text": "fast",
+    "isDanger": 1,
+    "phonetic": "/fɑːst/",
+    "translation": "adv. 熟（睡）",
+    "toggle": "adj. 快速的，迅速的；紧的，稳固的"
+  },
+  {
+    "text": "ladder",
+    "isDanger": 0,
+    "phonetic": "/ˈlædə(r)/",
+    "translation": "n. 梯子",
+    "toggle": "n. 阶梯；梯状物；途径"
+  },
+  {
+    "text": "shed",
+    "isDanger": 0,
+    "phonetic": "/ʃed/",
+    "translation": "n. 棚子",
+    "toggle": "vt. 散发；流出；摆脱；倾吐"
+  },
+  {
+    "text": "sarcastic",
+    "isDanger": 0,
+    "phonetic": "/sɑːˈkæstɪk/",
+    "translation": "adj. 讽刺的，讥笑的",
+    "toggle": "adj. 挖苦的；尖刻的，辛辣的"
+  },
+  {
+    "text": "tone",
+    "isDanger": 1,
+    "phonetic": "/təʊn/",
+    "translation": "n. 语气，腔调",
+    "toggle": "n. 音调；音色；语气；色调"
+  }
+]

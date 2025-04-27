@@ -1,0 +1,79 @@
+[
+  {
+    "text": "retire",
+    "isDanger": 1,
+    "phonetic": "/rɪˈtaɪə(r)/",
+    "translation": "v. 退休",
+    "toggle": "vi. 退休；撤退；退却"
+  },
+  {
+    "text": "company",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌmpəni/",
+    "translation": "n. 公司",
+    "toggle": "n. 公司；陪伴，同伴；连队"
+  },
+  {
+    "text": "bicycle",
+    "isDanger": 0,
+    "phonetic": "/ˈbaɪsɪk(ə)l/",
+    "translation": "n. 自行车",
+    "toggle": "n. 自行车"
+  },
+  {
+    "text": "save",
+    "isDanger": 1,
+    "phonetic": "/seɪv/",
+    "translation": "v. 积蓄",
+    "toggle": "vt. 节省；保存；解救；储蓄"
+  },
+  {
+    "text": "workshop",
+    "isDanger": 0,
+    "phonetic": "/ˈwɜːkʃɒp/",
+    "translation": "n. 车间",
+    "toggle": "n. 工场；车间；讲习班；研讨会"
+  },
+  {
+    "text": "helper",
+    "isDanger": 0,
+    "phonetic": "/ˈhelpə(r)/",
+    "translation": "n. 帮手，助手",
+    "toggle": "n. 助手，帮手"
+  },
+  {
+    "text": "employ",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈplɔɪ/",
+    "translation": "v. 雇佣",
+    "toggle": "vt. 使用，采用；雇用；使忙于，使从事于"
+  },
+  {
+    "text": "grandson",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrænsʌn/",
+    "translation": "n. 孙子",
+    "toggle": "n. 孙子；外孙"
+  },
+  {
+    "text": "success",
+    "isDanger": 0,
+    "phonetic": "/səkˈses/",
+    "translation": "n. 成功",
+    "toggle": "n. 成功，成就；胜利；大获成功的人或事物"
+  },
+  {
+    "text": "experience",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "translation": "n. 经历",
+    "toggle": "n. 经验；经历；体验"
+  },
+  {
+    "text": "work",
+    "isDanger": 1,
+    "phonetic": "/wɜːk/",
+    "translation": "n. 工作",
+    "toggle": "n. 工作；职业；产品；行为；文学、音乐或艺术作品；工厂；操作； [ 物 ] 功"
+  }
+]

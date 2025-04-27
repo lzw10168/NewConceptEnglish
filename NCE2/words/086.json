@@ -1,0 +1,79 @@
+[
+  {
+    "text": "swing",
+    "isDanger": 0,
+    "phonetic": "/swɪŋ/",
+    "translation": "v. 转向",
+    "toggle": "n. 摇摆；秋千；摆动；音律；涨落"
+  },
+  {
+    "text": "speedboat",
+    "isDanger": 0,
+    "phonetic": "/ˈspiːdbəʊt/",
+    "translation": "n. 快艇",
+    "toggle": "n.高速游艇"
+  },
+  {
+    "text": "desperately",
+    "isDanger": 0,
+    "phonetic": "/ˈdespərətli/",
+    "translation": "adv. 绝望地",
+    "toggle": "adv. 拼命地；绝望地；极度地"
+  },
+  {
+    "text": "companion",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpænjən/",
+    "translation": "n. 同伙，伙伴",
+    "toggle": "n. 同伴；朋友；手册；指南"
+  },
+  {
+    "text": "water ski",
+    "isDanger": 0,
+    "phonetic": "/ˈwɔːtə(r) skiː/",
+    "translation": "n. （由快艇牵引水橇）滑水",
+    "toggle": "n.滑水板"
+  },
+  {
+    "text": "buoy",
+    "isDanger": 0,
+    "phonetic": "/bɔɪ/",
+    "translation": "n. 浮标",
+    "toggle": "n. 浮标；浮筒；救生圈；航标"
+  },
+  {
+    "text": "dismay",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈmeɪ/",
+    "translation": "n. 沮丧",
+    "toggle": "n. 沮丧，灰心；惊慌"
+  },
+  {
+    "text": "tremendous",
+    "isDanger": 0,
+    "phonetic": "/trəˈmendəs/",
+    "translation": "adj. 巨大的",
+    "toggle": "adj. 极大的，巨大的；惊人的"
+  },
+  {
+    "text": "petrol",
+    "isDanger": 0,
+    "phonetic": "/ˈpetrəl/",
+    "translation": "n. 汽油",
+    "toggle": "n. <英>汽油；深蓝绿色"
+  },
+  {
+    "text": "drift",
+    "isDanger": 1,
+    "phonetic": "/drɪft/",
+    "translation": "v. 漂动，漂流",
+    "toggle": "n. 漂流，漂移；漂流物；趋势"
+  },
+  {
+    "text": "gently",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒentli/",
+    "translation": "adv. 缓慢地，轻轻地",
+    "toggle": "adv. 轻轻地；温柔地，温和地"
+  }
+]

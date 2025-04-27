@@ -1,0 +1,51 @@
+[
+  {
+    "text": "racing",
+    "isDanger": 0,
+    "phonetic": "/ˈreɪsɪŋ/",
+    "translation": "n. 竞赛",
+    "toggle": "n. 竞赛；赛马"
+  },
+  {
+    "text": "per",
+    "isDanger": 0,
+    "phonetic": "/pə(r)/",
+    "translation": "prep. 每",
+    "toggle": "prep. 每；每一；经；按照"
+  },
+  {
+    "text": "Utah",
+    "isDanger": 0,
+    "phonetic": "/ˈjuːtɑː/",
+    "translation": "n. 犹他（美国州名）",
+    "toggle": "n.犹他州(略作Ut.,UT)"
+  },
+  {
+    "text": "horsepower",
+    "isDanger": 0,
+    "phonetic": "/ˈhɔːspaʊə(r)/",
+    "translation": "n. 马力",
+    "toggle": "n. 马力（功率单位）"
+  },
+  {
+    "text": "burst",
+    "isDanger": 0,
+    "phonetic": "/bɜːst/",
+    "translation": "v. 爆裂",
+    "toggle": "vi. 爆炸；爆发，突发"
+  },
+  {
+    "text": "average",
+    "isDanger": 0,
+    "phonetic": "/ˈævərɪdʒ/",
+    "translation": "adj. 平均的",
+    "toggle": "n. 平均；平均数； [ 商 ] 海损"
+  },
+  {
+    "text": "footstep",
+    "isDanger": 0,
+    "phonetic": "/ˈfʊtstep/",
+    "translation": "n. 足迹",
+    "toggle": "n. 脚步声；脚步；足迹"
+  }
+]

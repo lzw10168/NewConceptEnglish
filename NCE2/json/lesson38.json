@@ -1,0 +1,196 @@
+{
+    "id": "course-2-038",
+    "lessonNumber": "038",
+    "title": {
+        "english": "Everything except the weather",
+        "chinese": "除了天气之外的一切"
+    },
+    "lessonInfo": "新概念英语－第2册－第038课",
+    "audioPath": "audio/nce2/038.mp3",
+    "listeningQuestion": {
+        "question": "Why did Harrison leave England?",
+        "translation": "哈里森为什么离开英国？"
+    },
+    "content": {
+        "editorNotes": "本课讲述了哈里森在英国退休的梦想如何被意想不到的天气状况打破，强调了在做出生活改变时考虑所有因素的重要性。课文使用了过去完成时等时态，并介绍了一些重要的语法点和短语用法。",
+        "dialogueText": {
+            "heading": "课文",
+            "dialogue": [
+                "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England.",
+                "He had often dreamed of retiring in England and had planned to settle down in the country.",
+                "He had no sooner returned than he bought a house and went to live there.",
+                "Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold.",
+                "After so many years of sunshine, Harrison got a shock.",
+                "He acted as if he had never lived in England before.",
+                "In the end, it was more than he could bear.",
+                "He had hardly had time to settle down when he sold the house and left the country.",
+                "The dream he had had for so many years ended there.",
+                "Harrison had thought of everything except the weather."
+            ]
+        },
+        "translation": {
+            "heading": "翻译",
+            "notes": [
+                "我的老朋友哈里森在回到英国以前曾多年居住在地中海地区。",
+                "过去他常幻想退休后到英国，并计划在乡间安顿下来。",
+                "他刚一回到英国便买下了一幢房子住了进去。",
+                "但紧接着他就开始抱怨那里的天气了。因为即使那时仍为夏季，但雨总是下个不停，而且常常冷得厉害。",
+                "在阳光下生活了那么多年的哈里森对此感到惊奇。",
+                "他的举动就好像他从未在英国生活过一样。",
+                "最后，他再也忍受不住。",
+                "还没等安顿下来就卖掉了房子，离开了这个国家。",
+                "他多年来的幻想从此破灭。",
+                "哈里森把每件事情都考虑到了，唯独没想到天气。"
+            ]
+        },
+        "newwords": {
+            "heading": "New words and expressions 生词和短语",
+            "notes": [
+                {
+                    "text": "except",
+                    "translation": "除了",
+                    "phonetic": "/ɪkˈsept/",
+                    "toggle": "prep. 除了",
+                    "isImportant": 1
+                },
+                {
+                    "text": "Mediterranean",
+                    "translation": "地中海",
+                    "phonetic": "/ˌmedɪtəˈreɪniən/",
+                    "toggle": "n. & adj. 地中海（的）",
+                    "isImportant": 1
+                },
+                {
+                    "text": "complain",
+                    "translation": "抱怨",
+                    "phonetic": "/kəmˈpleɪn/",
+                    "toggle": "v. 抱怨",
+                    "isImportant": 1
+                },
+                {
+                    "text": "continually",
+                    "translation": "不断地",
+                    "phonetic": "/kənˈtɪnjuəli/",
+                    "toggle": "adv. 不断地",
+                    "isImportant": 1
+                },
+                {
+                    "text": "bitterly",
+                    "translation": "刺骨地",
+                    "phonetic": "/ˈbɪtəli/",
+                    "toggle": "adv. 刺骨地",
+                    "isImportant": 1
+                },
+                {
+                    "text": "sunshine",
+                    "translation": "阳光",
+                    "phonetic": "/ˈsʌnʃaɪn/",
+                    "toggle": "n. 阳光",
+                    "isImportant": 1
+                }
+            ]
+        }
+    },
+    "grammarPoints": {
+        "heading": "语法要点 Grammar points",
+        "notes": [
+            {
+                "title": "过去完成时",
+                "content": [
+                    "过去完成时经常与一般过去时连用，表示过去某个动作发生前完成的动作。",
+                    "常与when，after，as soon as等时间词连用。",
+                    "例句：He had lived in the Mediterranean for many years before he returned to England."
+                ]
+            },
+            {
+                "title": "no sooner...than和hardly...when",
+                "content": [
+                    "这两组连词表示'一...就...'，比as soon as更正式，通常与过去完成时连用。",
+                    "当no sooner和hardly位于句首时需要倒装。",
+                    "例句：He had no sooner returned than he bought a house."
+                ]
+            },
+            {
+                "title": "as if/as though",
+                "content": [
+                    "表示'好像'，用于虚拟语气。",
+                    "例句：He acted as if he had never lived in England before."
+                ]
+            }
+        ]
+    },
+    "commonPhrases": {
+        "heading": "常见短语 Common phrases",
+        "notes": [
+            {
+                "phrase": "settle down",
+                "translation": "定居，安身，安顿",
+                "context": "表示在某地安家或安定下来",
+                "example": "He had planned to settle down in the country."
+            },
+            {
+                "phrase": "dream of",
+                "translation": "想，梦见，幻想，向往",
+                "context": "表示对某事的向往或期望",
+                "example": "He had often dreamed of retiring in England."
+            },
+            {
+                "phrase": "more than one could bear",
+                "translation": "无法忍受",
+                "context": "表示某事超出了承受能力",
+                "example": "In the end, it was more than he could bear."
+            }
+        ]
+    },
+    "exercises": {
+        "multipleChoice": [
+            {
+                "question": "Why did Harrison leave England?",
+                "options": [
+                    "Because he missed the Mediterranean",
+                    "Because he couldn't stand the weather",
+                    "Because he found a better house elsewhere",
+                    "Because he didn't like the countryside"
+                ],
+                "answer": 1,
+                "explanation": "文中提到他无法忍受英国的天气，即使在夏天也经常下雨和寒冷。"
+            },
+            {
+                "question": "What kind of weather did Harrison experience in England?",
+                "options": [
+                    "Warm and sunny",
+                    "Cold and rainy",
+                    "Hot and dry",
+                    "Mild and pleasant"
+                ],
+                "answer": 1,
+                "explanation": "文中提到即使在夏天，英国也经常下雨，而且天气非常寒冷。"
+            }
+        ],
+        "fillInBlanks": [
+            {
+                "sentence": "Harrison had lived in the _____ for many years.",
+                "answer": "Mediterranean",
+                "hint": "一个地理位置名词"
+            },
+            {
+                "sentence": "He had _____ returned than he bought a house.",
+                "answer": "no sooner",
+                "hint": "表示'一...就...'的短语"
+            }
+        ]
+    },
+    "additionalContent": {
+        "heading": "补充内容 Additional content",
+        "notes": [
+            {
+                "title": "词语辨析",
+                "content": "continuously vs continually: continuously表示动作中间没有间断；continually表示动作中间有间断但持续很久。例如：The plane can fly continuously for 20 hours. / It rained continually during our vacation."
+            },
+            {
+                "title": "文化背景",
+                "content": "英国以多雨闻名，即使在夏季也经常下雨，这与地中海地区温暖明媚的气候形成鲜明对比。这种天气特点往往会影响到人们的生活方式和心情。"
+            }
+        ]
+    }
+} 

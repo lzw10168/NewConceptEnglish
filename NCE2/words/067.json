@@ -1,0 +1,86 @@
+[
+  {
+    "text": "volcano",
+    "isDanger": 0,
+    "phonetic": "/vɒlˈkeɪnəʊ/",
+    "translation": "n. 火山",
+    "toggle": "n. 火山"
+  },
+  {
+    "text": "active",
+    "isDanger": 1,
+    "phonetic": "/ˈæktɪv/",
+    "translation": "adj. 活动的",
+    "toggle": "adj. 主动的；有效的；积极的；活跃的；现役的"
+  },
+  {
+    "text": "Kivu",
+    "isDanger": 0,
+    "phonetic": "/'ki:vu:/",
+    "translation": "n. 基伍湖",
+    "toggle": "基伍（湖）（位于刚果民主共和国与卢旺达的边界）"
+  },
+  {
+    "text": "congo",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒŋɡəʊ/",
+    "translation": "n. 刚果",
+    "toggle": "n. 工夫茶（一种中国红茶）"
+  },
+  {
+    "text": "Kituro",
+    "isDanger": 0,
+    "phonetic": "/ki'tu:rəu/",
+    "translation": "n. 基图罗",
+    "toggle": "n. 基图罗（火山名）"
+  },
+  {
+    "text": "erupt",
+    "isDanger": 0,
+    "phonetic": "/ɪˈrʌpt/",
+    "translation": "v. （火山）喷发",
+    "toggle": "vi. 爆发；喷出；发疹；长牙"
+  },
+  {
+    "text": "violently",
+    "isDanger": 0,
+    "phonetic": "/ˈvaɪələntli/",
+    "translation": "adv. 猛烈地，剧烈地",
+    "toggle": "adv. 猛烈地，激烈地；极端地"
+  },
+  {
+    "text": "manage",
+    "isDanger": 1,
+    "phonetic": "/ˈmænɪdʒ/",
+    "translation": "v. 设法",
+    "toggle": "vt. 管理；经营；设法；控制"
+  },
+  {
+    "text": "brilliant",
+    "isDanger": 0,
+    "phonetic": "/ˈbrɪliənt/",
+    "translation": "adj. 精彩的",
+    "toggle": "adj. 灿烂的，闪耀的；杰出的；有才气的"
+  },
+  {
+    "text": "liquid",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪkwɪd/",
+    "translation": "adj. 液态的；n. 液体",
+    "toggle": "adj. 液体的；清澈的；明亮的；易变的"
+  },
+  {
+    "text": "escape",
+    "isDanger": 1,
+    "phonetic": "/ɪˈskeɪp/",
+    "translation": "v. 逃脱",
+    "toggle": "vt. 逃避，避免；被忘掉"
+  },
+  {
+    "text": "alive",
+    "isDanger": 0,
+    "phonetic": "/əˈlaɪv/",
+    "translation": "adj. 活着的",
+    "toggle": "adj. 活着的；活泼的；有生气的"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "hurry",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌri/",
+    "translation": "v. 匆忙",
+    "toggle": "n. 匆忙，急忙"
+  },
+  {
+    "text": "ticket office",
+    "isDanger": 0,
+    "phonetic": "/ˈtɪkɪt ˈɒfɪs/",
+    "translation": "n. 售票处",
+    "toggle": "n. 票房，售票处"
+  },
+  {
+    "text": "pity",
+    "isDanger": 1,
+    "phonetic": "/ˈpɪti/",
+    "translation": "n. 令人遗憾的事",
+    "toggle": "n. 怜悯，同情；遗憾"
+  },
+  {
+    "text": "exclaim",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈskleɪm/",
+    "translation": "v. 大声说",
+    "toggle": "vi. 呼喊，惊叫；大声叫嚷"
+  },
+  {
+    "text": "return",
+    "isDanger": 1,
+    "phonetic": "/rɪˈtɜːn/",
+    "translation": "v. 退回",
+    "toggle": "vt. 返回；报答； n. 返回；归还；回球； vi. 返回；报答； adj. 报答的；回程的；返回的"
+  },
+  {
+    "text": "sadly",
+    "isDanger": 0,
+    "phonetic": "/ˈsædli/",
+    "translation": "adv. 悲哀地，丧气地",
+    "toggle": "adv. 悲哀地；悲痛地"
+  }
+]

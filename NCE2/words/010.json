@@ -1,0 +1,79 @@
+[
+  {
+    "text": "jazz",
+    "isDanger": 0,
+    "phonetic": "/dʒæz/",
+    "translation": "n. 爵士音乐",
+    "toggle": "n. 爵士乐，爵士舞；喧闹"
+  },
+  {
+    "text": "musical",
+    "isDanger": 0,
+    "phonetic": "/ˈmjuːzɪk(ə)l/",
+    "translation": "adj. 音乐的",
+    "toggle": "adj. 音乐的；悦耳的"
+  },
+  {
+    "text": "instrument",
+    "isDanger": 0,
+    "phonetic": "/ˈɪnstrəmənt/",
+    "translation": "n. 乐器",
+    "toggle": "n. 仪器；器械；工具；手段；乐器"
+  },
+  {
+    "text": "clavichord",
+    "isDanger": 0,
+    "phonetic": "/ˈklævɪkɔːd/",
+    "translation": "n. 古钢琴",
+    "toggle": "n.翼琴(钢琴的前身)"
+  },
+  {
+    "text": "recently",
+    "isDanger": 1,
+    "phonetic": "/ˈriːs(ə)ntli/",
+    "translation": "adv. 最近",
+    "toggle": "adv. 最近；新近"
+  },
+  {
+    "text": "damage",
+    "isDanger": 0,
+    "phonetic": "/ˈdæmɪdʒ/",
+    "translation": "v. 损坏",
+    "toggle": "vi. 损害；损毁；赔偿金"
+  },
+  {
+    "text": "key",
+    "isDanger": 1,
+    "phonetic": "/kiː/",
+    "translation": "n. 琴键",
+    "toggle": "n. 钥匙；关键；（打字机等的）键"
+  },
+  {
+    "text": "string",
+    "isDanger": 0,
+    "phonetic": "/strɪŋ/",
+    "translation": "n. （乐器的）弦",
+    "toggle": "n. 线，细绳；一串，一行"
+  },
+  {
+    "text": "shock",
+    "isDanger": 0,
+    "phonetic": "/ʃɒk/",
+    "translation": "v. 使不悦或生气，震惊",
+    "toggle": "n. 打击；震动；震惊；休克；禾束堆"
+  },
+  {
+    "text": "allow",
+    "isDanger": 0,
+    "phonetic": "/əˈlaʊ/",
+    "translation": "v. 允许，让",
+    "toggle": "vt. 允许；认可；给予"
+  },
+  {
+    "text": "touch",
+    "isDanger": 1,
+    "phonetic": "/tʌtʃ/",
+    "translation": "v. 触摸",
+    "toggle": "vt. 接触；触动；使轻度受害"
+  }
+]

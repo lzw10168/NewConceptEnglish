@@ -1,0 +1,93 @@
+[
+  {
+    "text": "tunnel",
+    "isDanger": 0,
+    "phonetic": "/ˈtʌn(ə)l/",
+    "translation": "n. 隧道",
+    "toggle": "n. 隧道；坑道；洞穴通道"
+  },
+  {
+    "text": "port",
+    "isDanger": 1,
+    "phonetic": "/pɔːt/",
+    "translation": "n. 港口",
+    "toggle": "n. 港口，口岸；左舷；舱门；（计算机的）端口"
+  },
+  {
+    "text": "ventilate",
+    "isDanger": 1,
+    "phonetic": "/ˈventɪleɪt/",
+    "translation": "v. 通风",
+    "toggle": "vt.使通风,给...装通风设备"
+  },
+  {
+    "text": "chimney",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃɪmni/",
+    "translation": "n. 烟囱",
+    "toggle": "n. 烟囱"
+  },
+  {
+    "text": "sea level",
+    "isDanger": 0,
+    "phonetic": "/ˈsiː lev(ə)l/",
+    "translation": "n. 海平面",
+    "toggle": "n. 海平面; ; 潮位; 海面"
+  },
+  {
+    "text": "double",
+    "isDanger": 1,
+    "phonetic": "/ˈdʌb(ə)l/",
+    "translation": "adj. 双的",
+    "toggle": "n. 两倍； [ 计 ] 双精度型"
+  },
+  {
+    "text": "ventilation",
+    "isDanger": 0,
+    "phonetic": "/ˌventɪˈleɪʃn/",
+    "translation": "n. 通风",
+    "toggle": "n. 空气流通；通风设备"
+  },
+  {
+    "text": "fear",
+    "isDanger": 1,
+    "phonetic": "/fɪə(r)/",
+    "translation": "v. 害怕",
+    "toggle": "n. 害怕；担心；恐惧；敬畏"
+  },
+  {
+    "text": "invasion",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈveɪʒ(ə)n/",
+    "translation": "n. 入侵，侵略",
+    "toggle": "n. 侵犯；入侵，侵略；侵袭"
+  },
+  {
+    "text": "officially",
+    "isDanger": 0,
+    "phonetic": "/əˈfɪʃəli/",
+    "translation": "adv. 正式地",
+    "toggle": "adv. 作为公务员；官方地；正式地"
+  },
+  {
+    "text": "connect",
+    "isDanger": 1,
+    "phonetic": "/kəˈnekt/",
+    "translation": "v. 连接",
+    "toggle": "vt. 连接；联合；关连"
+  },
+  {
+    "text": "European",
+    "isDanger": 0,
+    "phonetic": "/ˌjʊərəˈpiːən/",
+    "translation": "adj. 欧洲的",
+    "toggle": "adj. 欧洲的；欧洲人的"
+  },
+  {
+    "text": "continent",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒntɪnənt/",
+    "translation": "n. 大陆",
+    "toggle": "n. 大陆，洲，陆地"
+  }
+]

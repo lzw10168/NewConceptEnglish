@@ -1,0 +1,44 @@
+[
+  {
+    "text": "circle",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːk(ə)l/",
+    "translation": "n. 圈子",
+    "toggle": "n. 圆；圆形物；循环，周期；圈子"
+  },
+  {
+    "text": "admire",
+    "isDanger": 1,
+    "phonetic": "/ədˈmaɪə(r)/",
+    "translation": "v. 赞美，钦佩",
+    "toggle": "vt. 钦佩；赞美"
+  },
+  {
+    "text": "close",
+    "isDanger": 1,
+    "phonetic": "/kləʊz/",
+    "translation": "adj. 亲密的",
+    "toggle": "adj. 亲密的；亲近的；紧密的"
+  },
+  {
+    "text": "wedding",
+    "isDanger": 0,
+    "phonetic": "/ˈwedɪŋ/",
+    "translation": "n. 婚礼",
+    "toggle": "n. 结婚；婚礼，婚宴；结合"
+  },
+  {
+    "text": "reception",
+    "isDanger": 0,
+    "phonetic": "/rɪˈsepʃ(ə)n/",
+    "translation": "n. 招待会",
+    "toggle": "n. 接待；接收；招待会；感受；反应"
+  },
+  {
+    "text": "sort",
+    "isDanger": 0,
+    "phonetic": "/sɔːt/",
+    "translation": "n. 种类",
+    "toggle": "n. 种类；方式；品质"
+  }
+]

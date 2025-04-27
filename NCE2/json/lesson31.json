@@ -1,0 +1,232 @@
+{
+  "id": "course-2-031",
+  "lessonNumber": "031",
+  "title": {
+    "english": "Success story",
+    "chinese": "成功的故事"
+  },
+  "lessonInfo": "新概念英语－第2册－第031课",
+  "audioPath": "audio/nce2/031.mp3",
+  "listeningQuestion": {
+    "question": "What was Frank\"s first job?",
+    "translation": "弗兰克的第一份工作是什么？"
+  },
+  "content": {
+    "editorNotes": "本课通过讲述Frank Hawkins的成功故事，展示了通过勤奋工作和坚持不懈可以实现人生的重大转变。课文使用了大量的过去时态，特别是used to结构来对比过去和现在的不同。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.",
+        "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.",
+        "It was his job to repair bicycles and at that time he used to work fourteen hours a day.",
+        "He saved money for years and in 1958 he bought a small workshop of his own.",
+        "In his twenties Frank used to make spare parts for aeroplanes.",
+        "At that time he had two helpers.",
+        "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.",
+        "Frank smiled when he remembered his hard early years and the long road to success.",
+        "He was still smiling when the door opened and his wife came in.",
+        "She wanted him to repair their grandson\"s bicycle!"
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "昨天下午弗兰克·霍金斯向我讲述了他年轻时的经历。",
+        "在退休前，弗兰克是一家非常大的商业公司的经理，但他小时候却在一家小铺里做工。",
+        "他那时的工作是修理自行车，并且通常是一天工作14个小时。",
+        "他靠多年积蓄，于1958年买下了自己的一个小铺子。",
+        "20多岁的时候，弗兰克曾生产飞机零配件。",
+        "那时他有两个帮手。",
+        "几年之后，小铺子已经发展成了一个雇有728人的大工厂。",
+        "弗兰克回想着他早年的艰难经历和走过的漫长的成功之路，微笑了。",
+        "他正笑着的时候门开了，他的妻子走了进来。",
+        "她叫他去修理孙子的自行车！"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "retire",
+          "translation": "退休",
+          "phonetic": "/rɪˈtaɪə(r)/",
+          "toggle": "v. 退休",
+          "isImportant": 1
+        },
+        {
+          "text": "company",
+          "translation": "公司",
+          "phonetic": "/ˈkʌmpəni/",
+          "toggle": "n. 公司",
+          "isImportant": 1
+        },
+        {
+          "text": "bicycle",
+          "translation": "自行车",
+          "phonetic": "/ˈbaɪsɪkl/",
+          "toggle": "n. 自行车",
+          "isImportant": 1
+        },
+        {
+          "text": "save",
+          "translation": "积蓄",
+          "phonetic": "/seɪv/",
+          "toggle": "v. 积蓄",
+          "isImportant": 1
+        },
+        {
+          "text": "workshop",
+          "translation": "车间",
+          "phonetic": "/ˈwɜːkʃɒp/",
+          "toggle": "n. 车间",
+          "isImportant": 1
+        },
+        {
+          "text": "helper",
+          "translation": "帮手，助手",
+          "phonetic": "/ˈhelpə(r)/",
+          "toggle": "n. 帮手，助手",
+          "isImportant": 1
+        },
+        {
+          "text": "employ",
+          "translation": "雇佣",
+          "phonetic": "/ɪmˈplɔɪ/",
+          "toggle": "v. 雇佣",
+          "isImportant": 1
+        },
+        {
+          "text": "grandson",
+          "translation": "孙子",
+          "phonetic": "/ˈɡrænsʌn/",
+          "toggle": "n. 孙子",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "过去进行时与一般过去时",
+          "content": [
+            "过去进行时表示过去某个时刻或某段时间正在进行的动作，和一般过去时经常在一个句子里使用。",
+            "例如：Yesterday afternoon Frank Hawkins was telling me about his experiences.",
+            "过去进行时强调动作的持续性，而一般过去时则表示完成的动作。"
+          ]
+        },
+        {
+          "title": "used to do结构",
+          "content": [
+            "used to do表示过去常常做某事，现在已不再这样做。",
+            "例如：he used to work in a small shop.",
+            "这个结构用来表示过去的习惯或状态，暗示现在情况已经改变。"
+          ]
+        },
+        {
+          "title": "时间状语从句",
+          "content": [
+            "when引导的时间状语从句，表示两个动作同时发生。",
+            "例如：He was still smiling when the door opened.",
+            "主句用过去进行时，从句用一般过去时。"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "the head of",
+          "translation": "...的老板，头",
+          "context": "表示某机构或组织的负责人",
+          "example": "Frank was the head of a very large business company."
+        },
+        {
+          "phrase": "of one\"s own",
+          "translation": "自己的",
+          "context": "表示某物属于自己所有",
+          "example": "He bought a small workshop of his own."
+        },
+        {
+          "phrase": "in one\"s twenties",
+          "translation": "在某人二十多岁时",
+          "context": "表示年龄在20-29岁之间",
+          "example": "In his twenties Frank used to make spare parts for aeroplanes."
+        },
+        {
+          "phrase": "the long road to success",
+          "translation": "通往成功的漫长道路",
+          "context": "比喻成功需要经过长期的努力",
+          "example": "He remembered his hard early years and the long road to success."
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "What was Frank\"s first job?",
+          "options": [
+            "Making spare parts for aeroplanes",
+            "Running a large company",
+            "Repairing bicycles",
+            "Managing a workshop"
+          ],
+          "answer": 2,
+          "explanation": "根据课文，Frank最初的工作是在小店里修理自行车。"
+        },
+        {
+          "question": "How many people did Frank\"s factory eventually employ?",
+          "options": [
+            "728 people",
+            "278 people",
+            "827 people",
+            "782 people"
+          ],
+          "answer": 0,
+          "explanation": "课文明确提到工厂雇佣了728人。"
+        },
+        {
+          "question": "What happened at the end of the story?",
+          "options": [
+            "Frank went back to work",
+            "His wife asked him to repair their grandson\"s bicycle",
+            "Frank opened another factory",
+            "His grandson came to visit"
+          ],
+          "answer": 1,
+          "explanation": "故事结尾，Frank的妻子让他修理孙子的自行车。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "Before he _____, Frank was the head of a very large business company.",
+          "answer": "retired",
+          "hint": "表示 '退休' 的动词"
+        },
+        {
+          "sentence": "Frank used to work _____ hours a day in the small shop.",
+          "answer": "fourteen",
+          "hint": "表示具体工作时间的数字"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "本文展现了典型的白手起家创业故事，反映了通过勤奋工作和坚持不懈实现成功的可能性。同时也反映了早期工业化时期的工作环境，当时工人往往需要很长的工作时间。"
+        },
+        {
+          "title": "写作特点",
+          "content": "文章采用了过去进行时和一般过去时的交替使用，生动地展现了故事的发展过程。同时通过used to结构，对比了主人公过去和现在的不同境遇，突出了人物的成功。"
+        },
+        {
+          "title": "实用表达",
+          "content": "课文中出现的 'the head of'、'of one\"s own'等表达在商业英语中很常用。同时，描述年龄段的表达方式'in one\"s twenties'也值得学习。"
+        }
+      ]
+    }
+  }
+} 

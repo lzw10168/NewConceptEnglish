@@ -1,0 +1,79 @@
+[
+  {
+    "text": "sound",
+    "isDanger": 1,
+    "phonetic": "/saʊnd/",
+    "translation": "n. 声音",
+    "toggle": "vt. 使发声；听（诊）；测量，测 … 深；宣告；试探"
+  },
+  {
+    "text": "excitement",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈsaɪtmənt/",
+    "translation": "n. 激动，兴奋",
+    "toggle": "n. 刺激；兴奋；令人兴奋的事物"
+  },
+  {
+    "text": "handsome",
+    "isDanger": 0,
+    "phonetic": "/ˈhænsəm/",
+    "translation": "adj. 漂亮的；美观的",
+    "toggle": "adj. （男子）英俊的；大方的，慷慨的；可观的；健美而端庄的"
+  },
+  {
+    "text": "Rolls-Royce",
+    "isDanger": 0,
+    "phonetic": "/ˌrəʊlz ˈrɔɪs/",
+    "translation": "n. 罗尔斯--罗伊斯",
+    "toggle": "n. 劳斯莱斯（罗尔斯-罗伊斯）"
+  },
+  {
+    "text": "Benz",
+    "isDanger": 0,
+    "phonetic": "/benz/",
+    "translation": "n. 奔驰",
+    "toggle": "n.奔驰牌汽车"
+  },
+  {
+    "text": "wheel",
+    "isDanger": 0,
+    "phonetic": "/wiːl/",
+    "translation": "n. 轮子",
+    "toggle": "n. 车轮；方向盘；转动"
+  },
+  {
+    "text": "explosion",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspləʊʒ(ə)n/",
+    "translation": "n. 爆炸，轰响",
+    "toggle": "n. 爆炸；爆发；激增"
+  },
+  {
+    "text": "course",
+    "isDanger": 1,
+    "phonetic": "/kɔːs/",
+    "translation": "n. 跑道；行程",
+    "toggle": "n. 进程；过程；道路；一道菜"
+  },
+  {
+    "text": "rival",
+    "isDanger": 1,
+    "phonetic": "/ˈraɪv(ə)l/",
+    "translation": "n. 对手",
+    "toggle": "n. 竞争者；对手"
+  },
+  {
+    "text": "speed",
+    "isDanger": 1,
+    "phonetic": "/spiːd/",
+    "translation": "v. 疾驶",
+    "toggle": "vi. 加速，迅速前行；超速，加速；兴隆"
+  },
+  {
+    "text": "downhill",
+    "isDanger": 0,
+    "phonetic": "/ˌdaʊnˈhɪl/",
+    "translation": "adv. 下坡",
+    "toggle": "adv. 下坡；向下；每况愈下"
+  }
+]

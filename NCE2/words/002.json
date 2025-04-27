@@ -1,0 +1,37 @@
+[
+  {
+    "text": "until",
+    "isDanger": 1,
+    "phonetic": "/ʌnˈtɪl/",
+    "translation": "prep. 直到",
+    "toggle": "conj. 在 … 以前；直到 … 时"
+  },
+  {
+    "text": "outside",
+    "isDanger": 1,
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "translation": "adv. 外面",
+    "toggle": "adj. 外面的，外部的；外来的"
+  },
+  {
+    "text": "ring",
+    "isDanger": 1,
+    "phonetic": "/rɪŋ/",
+    "translation": "v. （铃、电话等）响（rang, rung）",
+    "toggle": "vi. 按铃；敲钟；回响；成环形"
+  },
+  {
+    "text": "aunt",
+    "isDanger": 0,
+    "phonetic": "/ɑːnt/",
+    "translation": "n. 姑，姨，婶，舅母",
+    "toggle": "n. 伯母；阿姨；舅妈；姑妈"
+  },
+  {
+    "text": "repeat",
+    "isDanger": 1,
+    "phonetic": "/rɪˈpiːt/",
+    "translation": "v. 重复",
+    "toggle": "vt. 重复；复制；背诵"
+  }
+]

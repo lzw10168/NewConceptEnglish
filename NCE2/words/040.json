@@ -1,0 +1,44 @@
+[
+  {
+    "text": "hostess",
+    "isDanger": 0,
+    "phonetic": "/ˈhəʊstəs/",
+    "translation": "n. 女主人",
+    "toggle": "n. 女主人，女老板；舞女；女服务员；女房东"
+  },
+  {
+    "text": "unsmiling",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈsmaɪlɪŋ/",
+    "translation": "adj. 不笑的，严肃的",
+    "toggle": "adj.不笑的,面无笑容的,严肃的"
+  },
+  {
+    "text": "tight",
+    "isDanger": 0,
+    "phonetic": "/taɪt/",
+    "translation": "adj. 紧身的",
+    "toggle": "adj. 紧的；绷紧的；没空的；密封的；严厉的；麻烦的；吝啬的"
+  },
+  {
+    "text": "fix",
+    "isDanger": 1,
+    "phonetic": "/fɪks/",
+    "translation": "v. 凝视",
+    "toggle": "vt. 安装；修理；使固定；准备"
+  },
+  {
+    "text": "globe",
+    "isDanger": 1,
+    "phonetic": "/ɡləʊb/",
+    "translation": "n. 地球",
+    "toggle": "n. 地球仪；地球；球体"
+  },
+  {
+    "text": "despair",
+    "isDanger": 1,
+    "phonetic": "/dɪˈspeə(r)/",
+    "translation": "n. 绝望",
+    "toggle": "n. 绝望；令人绝望的人或事"
+  }
+]

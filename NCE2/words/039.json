@@ -1,0 +1,72 @@
+[
+  {
+    "text": "operation",
+    "isDanger": 0,
+    "phonetic": "/ˌɒpəˈreɪʃ(ə)n/",
+    "translation": "n. 手术",
+    "toggle": "n. 操作；手术；经营；运算"
+  },
+  {
+    "text": "successful",
+    "isDanger": 0,
+    "phonetic": "/səkˈsesf(ə)l/",
+    "translation": "adj. 成功的",
+    "toggle": "adj. 成功的；一帆风顺的"
+  },
+  {
+    "text": "following",
+    "isDanger": 1,
+    "phonetic": "/ˈfɒləʊɪŋ/",
+    "translation": "adj. 下一个",
+    "toggle": "adj. 其次的，接着的；下面的"
+  },
+  {
+    "text": "patient",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪʃ(ə)nt/",
+    "translation": "n. 病人",
+    "toggle": "adj. 有耐性的，能容忍的"
+  },
+  {
+    "text": "alone",
+    "isDanger": 0,
+    "phonetic": "/əˈləʊn/",
+    "translation": "adj. 独自的",
+    "toggle": "adj. 单独的；孤独的；独自的"
+  },
+  {
+    "text": "exchange",
+    "isDanger": 1,
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "translation": "n. （电话的）交换台",
+    "toggle": "n. 交换；兑换；交易所；交流"
+  },
+  {
+    "text": "inquire",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈkwaɪə(r)/",
+    "translation": "v. 询问，打听",
+    "toggle": "vt. 询问；问明；查究"
+  },
+  {
+    "text": "certain",
+    "isDanger": 1,
+    "phonetic": "/ˈsɜːt(ə)n/",
+    "translation": "adj. 某个",
+    "toggle": "adj. 某一；确信；无疑的；有把握的；必然的"
+  },
+  {
+    "text": "caller",
+    "isDanger": 0,
+    "phonetic": "/ˈkɔːlə(r)/",
+    "translation": "n. 打电话的人",
+    "toggle": "n. 呼叫者；打电话者；访客；召集员"
+  },
+  {
+    "text": "relative",
+    "isDanger": 1,
+    "phonetic": "/ˈrelətɪv/",
+    "translation": "n. 亲戚",
+    "toggle": "adj. 相对的；有关系的；成比例的"
+  }
+]

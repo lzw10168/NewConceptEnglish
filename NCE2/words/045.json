@@ -1,0 +1,44 @@
+[
+  {
+    "text": "clear",
+    "isDanger": 1,
+    "phonetic": "/klɪə(r)/",
+    "translation": "adj. 无罪的，不亏心的",
+    "toggle": "adj. 清楚的；清澈的；晴朗的；无罪的"
+  },
+  {
+    "text": "conscience",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnʃəns/",
+    "translation": "n. 良心，道德心",
+    "toggle": "n. 道德心，良心"
+  },
+  {
+    "text": "wallet",
+    "isDanger": 0,
+    "phonetic": "/ˈwɒlɪt/",
+    "translation": "n. 皮夹，钱夹",
+    "toggle": "n. 钱包，皮夹"
+  },
+  {
+    "text": "savings",
+    "isDanger": 0,
+    "phonetic": "/ˈseɪvɪŋz/",
+    "translation": "n. 存款",
+    "toggle": "n. 储蓄；存款；救助；节省物（saving 的复数形式）"
+  },
+  {
+    "text": "villager",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪlɪdʒə(r)/",
+    "translation": "n. 村民",
+    "toggle": "n. 乡村居民，村民"
+  },
+  {
+    "text": "per cent",
+    "isDanger": 0,
+    "phonetic": "/pə ˈsent/",
+    "translation": "prep. 百分之……",
+    "toggle": "num.百分之…，百分数"
+  }
+]

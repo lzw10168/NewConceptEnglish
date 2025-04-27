@@ -1,0 +1,79 @@
+[
+  {
+    "text": "strike",
+    "isDanger": 1,
+    "phonetic": "/straɪk/",
+    "translation": "n. 罢工",
+    "toggle": "vi. 罢工；打，打击；敲，敲击；抓；穿透；打动"
+  },
+  {
+    "text": "busman",
+    "isDanger": 0,
+    "phonetic": "/ˈbʌsmən/",
+    "translation": "n. 公共汽车司机",
+    "toggle": "n.公共汽车司机,售票员"
+  },
+  {
+    "text": "state",
+    "isDanger": 1,
+    "phonetic": "/steɪt/",
+    "translation": "v. 正式提出，宣布",
+    "toggle": "n. 情形；国家；州"
+  },
+  {
+    "text": "agreement",
+    "isDanger": 0,
+    "phonetic": "/əˈɡriːmənt/",
+    "translation": "n. 协议",
+    "toggle": "n. 协议；同意，一致"
+  },
+  {
+    "text": "relieve",
+    "isDanger": 0,
+    "phonetic": "/rɪˈliːv/",
+    "translation": "v. 减轻",
+    "toggle": "vt. 解除，减轻；使不单调乏味；换 … 的班；解围；使放心"
+  },
+  {
+    "text": "pressure",
+    "isDanger": 1,
+    "phonetic": "/ˈpreʃə(r)/",
+    "translation": "n. 压力，麻烦",
+    "toggle": "n. 压力；压迫，压强"
+  },
+  {
+    "text": "extent",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈstent/",
+    "translation": "n. 程度",
+    "toggle": "n. 范围；程度；长度"
+  },
+  {
+    "text": "volunteer",
+    "isDanger": 0,
+    "phonetic": "/ˌvɒlənˈtɪə(r)/",
+    "translation": "v. 自动提出，自愿",
+    "toggle": "n. 志愿者；志愿兵"
+  },
+  {
+    "text": "gratitude",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrætɪtjuːd/",
+    "translation": "n. 感激",
+    "toggle": "n. 感谢的心情"
+  },
+  {
+    "text": "press",
+    "isDanger": 0,
+    "phonetic": "/pres/",
+    "translation": "n. 新闻界",
+    "toggle": "vt. 压；按；紧抱；逼迫"
+  },
+  {
+    "text": "object",
+    "isDanger": 1,
+    "phonetic": "/ˈɒbdʒɪkt/",
+    "translation": "v. 不赞成，反对",
+    "toggle": "n. 宾语；客体；目标；物体"
+  }
+]

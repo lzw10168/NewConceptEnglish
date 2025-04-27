@@ -1,0 +1,177 @@
+{
+    "id": "course-2-022",
+    "lessonNumber": "022",
+    "title": {
+        "english": "A glass envelope",
+        "chinese": "玻璃信封"
+    },
+    "lessonInfo": "新概念英语－第2册－第022课",
+    "audioPath": "audio/nce2/022.mp3",
+    "listeningQuestion": {
+        "question": "How did Jane make a friend in Holland?",
+        "translation": "简是如何交到荷兰朋友的？"
+    },
+    "content": {
+        "editorNotes": "本课讲述了一个女孩通过漂流瓶结识外国笔友的故事，重点介绍了dream的用法，以及各种介词搭配的动词用法。",
+        "dialogueText": {
+            "heading": "课文",
+            "dialogue": [
+                "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+                "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
+                "She threw the bottle into the sea.",
+                "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+                "Both girls write to each other regularly now.",
+                "However, they have decided to use the post office.",
+                "Letters will cost a little more, but they will certainly travel faster."
+            ]
+        },
+        "translation": {
+            "heading": "翻译",
+            "notes": [
+                "我的女儿简从未想过会接到荷兰一位同龄姑娘的来信。",
+                "去年，当我们横渡英吉利海峡时，简把写有她姓名和住址的一张纸条装进了一只瓶子，",
+                "又将瓶子扔进了大海。",
+                "此后她就再没去想那只瓶子。但10个月以后，她收到了荷兰一位姑娘的来信。",
+                "现在这两位姑娘定期通信了。",
+                "然而她们还是决定利用邮局。",
+                "这样会稍微多花点钱，但肯定是快得多了。"
+            ]
+        },
+        "newwords": {
+            "heading": "New words and expressions 生词和短语",
+            "notes": [
+                {
+                    "text": "dream",
+                    "phonetic": "/driːm/",
+                    "translation": "做梦，梦想",
+                    "toggle": "v. 做梦，梦想",
+                    "isImportant": 1
+                },
+                {
+                    "text": "age",
+                    "phonetic": "/eɪdʒ/",
+                    "translation": "年龄",
+                    "toggle": "n. 年龄",
+                    "isImportant": 1
+                },
+                {
+                    "text": "channel",
+                    "phonetic": "/ˈtʃænl/",
+                    "translation": "海峡",
+                    "toggle": "n. 海峡",
+                    "isImportant": 1
+                },
+                {
+                    "text": "throw",
+                    "phonetic": "/θrəʊ/",
+                    "translation": "扔，抛",
+                    "toggle": "v. 扔，抛",
+                    "isImportant": 1
+                }
+            ]
+        },
+        "grammarPoints": {
+            "heading": "语法要点 Grammar points",
+            "notes": [
+                {
+                    "title": "dream的用法",
+                    "content": [
+                        "1. dream that + 从句：表示做梦梦见某事",
+                        "2. dream of/about + 名词/动名词：表示梦想做某事",
+                        "3. dream a dream：做了一个梦",
+                        "4. daydream：做白日梦"
+                    ]
+                },
+                {
+                    "title": "动词+介词的固定搭配",
+                    "content": [
+                        "1. 动词+of：dream of, think of, hear of等",
+                        "2. 动词+from：receive from, borrow from等",
+                        "3. 动词+in：believe in, engage in等",
+                        "4. 动词+on：depend on, insist on等"
+                    ]
+                }
+            ]
+        },
+        "commonPhrases": {
+            "heading": "常见短语 Common phrases",
+            "notes": [
+                {
+                    "phrase": "dream of doing",
+                    "translation": "梦想做某事",
+                    "context": "表示对某事的向往",
+                    "example": "I dream of becoming a teacher."
+                },
+                {
+                    "phrase": "of one's own age",
+                    "translation": "同年龄的",
+                    "context": "描述年龄相仿的人",
+                    "example": "She has many friends of her own age."
+                },
+                {
+                    "phrase": "write to each other",
+                    "translation": "互相通信",
+                    "context": "表示双方保持通信联系",
+                    "example": "The two friends write to each other every week."
+                },
+                {
+                    "phrase": "a little more",
+                    "translation": "稍微多一点",
+                    "context": "表示略微增加的程度",
+                    "example": "The new house costs a little more than the old one."
+                }
+            ]
+        },
+        "exercises": {
+            "multipleChoice": [
+                {
+                    "question": "How did Jane send her message to Holland?",
+                    "options": [
+                        "By post",
+                        "By email",
+                        "In a bottle",
+                        "Through a friend"
+                    ],
+                    "answer": 2,
+                    "explanation": "文中提到Jane把纸条放在瓶子里扔进了海里"
+                },
+                {
+                    "question": "How do the girls communicate now?",
+                    "options": [
+                        "By bottle messages",
+                        "By post",
+                        "By telephone",
+                        "By email"
+                    ],
+                    "answer": 1,
+                    "explanation": "文中说'they have decided to use the post office'"
+                }
+            ],
+            "fillInBlanks": [
+                {
+                    "sentence": "Jane never _____ of receiving a letter from Holland.",
+                    "answer": "dreamed",
+                    "hint": "表示'梦想'的动词"
+                },
+                {
+                    "sentence": "The two girls _____ to each other regularly now.",
+                    "answer": "write",
+                    "hint": "表示'通信'的动词"
+                }
+            ]
+        },
+        "additionalContent": {
+            "heading": "补充内容 Additional content",
+            "notes": [
+                {
+                    "title": "文化背景",
+                    "content": "漂流瓶是一种浪漫的通信方式，在历史上曾被用于求救、传递信息等。现代社会中，它更多地成为一种浪漫的尝试，让人们有机会结识来自世界各地的朋友。"
+                },
+                {
+                    "title": "语言点拓展",
+                    "content": "英语中表示'互相'的词有each other和one another，通常each other用于两个人之间，而one another用于三个或更多人之间，但在实际使用中这个区别并不严格。"
+                }
+            ]
+        }
+    }
+} 

@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Lancaster",
+    "isDanger": 0,
+    "phonetic": "/ˈlæŋkəstə(r)/",
+    "translation": "n. 兰开斯特",
+    "toggle": "n.兰喀斯特式（飞）机"
+  },
+  {
+    "text": "bomber",
+    "isDanger": 0,
+    "phonetic": "/ˈbɒmə(r)/",
+    "translation": "n. 轰炸机",
+    "toggle": "n. 轰炸机；投弹手"
+  },
+  {
+    "text": "remote",
+    "isDanger": 0,
+    "phonetic": "/rɪˈməʊt/",
+    "translation": "adj. 偏僻的",
+    "toggle": "adj. 遥远的；偏僻的；疏远的"
+  },
+  {
+    "text": "Pacific",
+    "isDanger": 0,
+    "phonetic": "/pəˈsɪfɪk/",
+    "translation": "n. 太平洋",
+    "toggle": "n. 太平洋"
+  },
+  {
+    "text": "damage",
+    "isDanger": 0,
+    "phonetic": "/ˈdæmɪdʒ/",
+    "translation": "v. 毁坏",
+    "toggle": "vi. 损害；损毁；赔偿金"
+  },
+  {
+    "text": "wreck",
+    "isDanger": 1,
+    "phonetic": "/rek/",
+    "translation": "n. 残骸",
+    "toggle": "n. 失事；残骸；破坏； [ 口 ] 失去健康的人"
+  },
+  {
+    "text": "rediscover",
+    "isDanger": 0,
+    "phonetic": "/ˌriːdɪˈskʌvə(r)/",
+    "translation": "v. 重新发现",
+    "toggle": "vt. 重新发现；再发现"
+  },
+  {
+    "text": "aerial",
+    "isDanger": 0,
+    "phonetic": "/ˈeəriəl/",
+    "translation": "adj. 航空的",
+    "toggle": "adj. 空气的；空中的，航空的；空想的"
+  },
+  {
+    "text": "survey",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːveɪ/",
+    "translation": "n. 调查",
+    "toggle": "n. 调查；测量；纵览；审视"
+  },
+  {
+    "text": "rescue",
+    "isDanger": 0,
+    "phonetic": "/ˈreskjuː/",
+    "translation": "v. 营救（＝save）",
+    "toggle": "vt. 营救；援救"
+  },
+  {
+    "text": "package",
+    "isDanger": 1,
+    "phonetic": "/ˈpækɪdʒ/",
+    "translation": "v. 把……打包",
+    "toggle": "n. 包，包裹；套装软件，程序包"
+  },
+  {
+    "text": "enthusiast",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈθjuːziæst/",
+    "translation": "n. 热心人",
+    "toggle": "n. 狂热者，热心家"
+  },
+  {
+    "text": "restore",
+    "isDanger": 1,
+    "phonetic": "/rɪˈstɔː(r)/",
+    "translation": "v. 修复（修并且复原,如对艺术品的修复）",
+    "toggle": "vt. 修复；恢复；归还"
+  },
+  {
+    "text": "imagine",
+    "isDanger": 1,
+    "phonetic": "/ɪˈmædʒɪn/",
+    "translation": "v. 想像",
+    "toggle": "vt. 想像；猜想；臆断"
+  },
+  {
+    "text": "packing case",
+    "isDanger": 0,
+    "phonetic": "/ˈpækɪŋ keɪs/",
+    "translation": "n. 包装箱",
+    "toggle": "n. 装运货物的箱子"
+  },
+  {
+    "text": "colony",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒləni/",
+    "translation": "n. 群",
+    "toggle": "n. 殖民地；移民队"
+  },
+  {
+    "text": "bee",
+    "isDanger": 0,
+    "phonetic": "/biː/",
+    "translation": "n. 蜂",
+    "toggle": "n. 蜜蜂，蜂；勤劳的人(as busy as a bee)"
+  },
+  {
+    "text": "hive",
+    "isDanger": 0,
+    "phonetic": "/haɪv/",
+    "translation": "n. 蜂房",
+    "toggle": "vi. 群居；入蜂房；生活在蜂房中"
+  },
+  {
+    "text": "preserve",
+    "isDanger": 1,
+    "phonetic": "/prɪˈzɜːv/",
+    "translation": "v. 保护",
+    "toggle": "vt. 保存；保护；维持；禁猎；腌"
+  },
+  {
+    "text": "beeswax",
+    "isDanger": 0,
+    "phonetic": "/ˈbiːzwæks/",
+    "translation": "n. 蜂蜡",
+    "toggle": "n.蜂蜡 vt.上蜂蜡"
+  }
+]

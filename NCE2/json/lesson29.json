@@ -1,0 +1,238 @@
+{
+  "id": "course-2-029",
+  "lessonNumber": "029",
+  "title": {
+    "english": "Taxi!",
+    "chinese": "出租车！"
+  },
+  "lessonInfo": "新概念英语－第2册－第029课",
+  "audioPath": "audio/nce2/029.mp3",
+  "listeningQuestion": {
+    "question": "What kind of taxi service does Captain Fawcett provide?",
+    "translation": "弗西特机长提供什么样的出租车服务？"
+  },
+  "content": {
+    "editorNotes": "本课介绍了一种特殊的'空中出租车'服务，涉及一般过去时和现在完成时的使用，以及bring、take、fetch等动词的区别。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+        "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
+        "This wonderful plane can carry seven passengers.",
+        "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.",
+        "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
+        "Since then, Captain Fawcett has flown passengers to many unusual places.",
+        "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.",
+        "Captain Fawcett has just refused a strange request from a businessman.",
+        "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "本·弗西特机长买了一辆不同寻常的出租汽车，并开始了一项新的业务。",
+        "这辆'出租汽车'是一架小型瑞士飞机，叫'皮勒特斯·波特'号。",
+        "这架奇妙的飞机可以载7名乘客。",
+        "然而，最令人惊奇的是它能够在任何地方降落：雪地上，水面上，甚至刚耕过的田里。",
+        "弗西特机长的第一名乘客是位医生，他从伯明翰飞往威尔士山区一个偏僻的村庄。",
+        "从那时开始，弗西特机长已经载送乘客到过许多不寻常的地方。",
+        "一次，他把飞机降落在了一栋公寓楼的屋顶上；还有一次，降落在了一个废弃的停车场上。",
+        "弗西特机长刚刚拒绝了一位商人的奇怪要求。",
+        "这个人想要飞往大西洋上的一个孤岛——罗卡尔岛，弗西特机长之所以不送他去，是因为那段飞行太危险了。"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "taxi",
+          "translation": "出租汽车",
+          "phonetic": "/ˈtæksi/",
+          "toggle": "n. 出租汽车",
+          "isImportant": 1
+        },
+        {
+          "text": "Pilatus Porter",
+          "translation": "皮勒特斯·波特",
+          "phonetic": "",
+          "toggle": "n. 皮勒特斯·波特（飞机名）",
+          "isImportant": 0
+        },
+        {
+          "text": "land",
+          "translation": "着陆",
+          "phonetic": "/lænd/",
+          "toggle": "v. 着陆（不及物）",
+          "isImportant": 1
+        },
+        {
+          "text": "plough",
+          "translation": "耕地",
+          "phonetic": "/plaʊ/",
+          "toggle": "v. 耕地",
+          "isImportant": 1
+        },
+        {
+          "text": "lonely",
+          "translation": "偏僻的",
+          "phonetic": "/ˈləʊnli/",
+          "toggle": "adj. 偏僻的，人迹罕见的（地方）",
+          "isImportant": 1
+        },
+        {
+          "text": "Welsh",
+          "translation": "威尔士的",
+          "phonetic": "/welʃ/",
+          "toggle": "adj. 威尔士的",
+          "isImportant": 0
+        },
+        {
+          "text": "roof",
+          "translation": "楼顶",
+          "phonetic": "/ruːf/",
+          "toggle": "n. 楼顶（从外面看）",
+          "isImportant": 1
+        },
+        {
+          "text": "block",
+          "translation": "大楼",
+          "phonetic": "/blɒk/",
+          "toggle": "n. 块，一座大楼",
+          "isImportant": 1
+        },
+        {
+          "text": "flat",
+          "translation": "公寓房",
+          "phonetic": "/flæt/",
+          "toggle": "n. 公寓房",
+          "isImportant": 1
+        },
+        {
+          "text": "desert",
+          "translation": "废弃",
+          "phonetic": "/dɪˈzɜːt/",
+          "toggle": "v. 废弃",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "过去分词短语作定语",
+          "content": [
+            "过去分词短语作定语时要放在所修饰的名词/代词之后，而单独的分词作定语时则往往放在所修饰的名词/代词前面。",
+            "例如：The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
+            "过去分词做定语时是作为被动状态来翻译的，如：a ploughed field（被耕过的田）"
+          ]
+        },
+        {
+          "title": "一般过去时和现在完成时的区别",
+          "content": [
+            "一般过去时往往强调动作本身",
+            "现在完成时则表示始于过去并持续到现在的动作",
+            "或表示过去不确定时间发生过的并与现在有某种联系的动作",
+            "例如：Since then, Captain Fawcett has flown passengers to many unusual places."
+          ]
+        },
+        {
+          "title": "very和too的区别",
+          "content": [
+            "very描述状况，不涉及后果，如：I arrived very late but I caught the train.",
+            "too表示'太……'，以至于引起某种后果，如：I arrived too late and I missed the train.",
+            "本课中的例子：the trip was too dangerous（太危险了，所以不能去）"
+          ]
+        },
+        {
+          "title": "since then的用法",
+          "content": [
+            "since then = from then on，表示'从那时起（到现在为止）'",
+            "与by then（到那时为止）和by that time（到那时为止）的区别",
+            "例句：Since then, Captain Fawcett has flown passengers to many unusual places."
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "take a taxi",
+          "translation": "乘出租车",
+          "context": "表示乘坐交通工具的常用搭配",
+          "example": "I'll take a taxi to the airport. (我要乘出租车去机场。)"
+        },
+        {
+          "phrase": "fly sb. to",
+          "translation": "开飞机送某人去",
+          "context": "表示用飞机运送某人到某地",
+          "example": "He flew his passengers to London. (他开飞机把乘客送到伦敦。)"
+        },
+        {
+          "phrase": "refuse a request",
+          "translation": "拒绝请求",
+          "context": "表示不同意或不接受某人的要求",
+          "example": "The captain refused the dangerous request. (机长拒绝了这个危险的请求。)"
+        },
+        {
+          "phrase": "land on/in",
+          "translation": "降落在...上/中",
+          "context": "描述飞机着陆的地点",
+          "example": "The plane landed on the snow. (飞机降落在雪地上。)"
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "What is special about Captain Fawcett's taxi?",
+          "options": [
+            "It can fly very fast",
+            "It can carry many passengers",
+            "It can land anywhere",
+            "It is very cheap"
+          ],
+          "answer": 2,
+          "explanation": "根据课文，这架飞机最特别的是它能在任何地方降落：雪地上、水面上，甚至耕过的田里。"
+        },
+        {
+          "question": "Why did Captain Fawcett refuse to take the businessman to Rockall?",
+          "options": [
+            "Because it was too far",
+            "Because it was too expensive",
+            "Because the weather was bad",
+            "Because the trip was too dangerous"
+          ],
+          "answer": 3,
+          "explanation": "课文明确说明弗西特机长拒绝是因为那段飞行太危险了。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The plane can _____ on snow, water, or even on a ploughed field.",
+          "answer": "land",
+          "hint": "表示'着陆、降落'的动词"
+        },
+        {
+          "sentence": "Captain Fawcett's first passenger was a doctor who flew to a _____ village.",
+          "answer": "lonely",
+          "hint": "表示'偏僻的、人迹罕见的'的形容词"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "文化背景",
+          "content": "皮勒特斯·波特（Pilatus Porter）是瑞士制造的一种短距起降飞机，以其优秀的起降性能而闻名，能够在各种复杂地形条件下安全着陆。这种飞机在偏远地区的医疗救援和运输服务中发挥着重要作用。"
+        },
+        {
+          "title": "语言点拓展",
+          "content": "课文中出现的lonely一词既可以用来形容地方的偏僻（a lonely village），也可以用来形容人的孤独（feel lonely）。当形容人的孤独时，还可以用alone，但alone更强调客观上的独处状态，而lonely则强调主观上的孤独感受。"
+        }
+      ]
+    }
+  }
+} 

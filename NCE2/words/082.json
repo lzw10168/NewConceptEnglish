@@ -1,0 +1,58 @@
+[
+  {
+    "text": "monster",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒnstə(r)/",
+    "translation": "n. 怪物",
+    "toggle": "n. 怪物；巨人，巨兽；残忍的人"
+  },
+  {
+    "text": "sailor",
+    "isDanger": 0,
+    "phonetic": "/ˈseɪlə(r)/",
+    "translation": "n. 海员",
+    "toggle": "n. 水手，海员；乘船者"
+  },
+  {
+    "text": "sight",
+    "isDanger": 1,
+    "phonetic": "/saɪt/",
+    "translation": "v. 见到",
+    "toggle": "n. 视力；眼界；景象；见解"
+  },
+  {
+    "text": "creature",
+    "isDanger": 0,
+    "phonetic": "/ˈkriːtʃə(r)/",
+    "translation": "n. 动物，生物",
+    "toggle": "n. 动物，生物；人；创造物"
+  },
+  {
+    "text": "peculiar",
+    "isDanger": 1,
+    "phonetic": "/pɪˈkjuːliə(r)/",
+    "translation": "adj. 奇怪，不寻常的",
+    "toggle": "adj. 特殊的；罕见的；奇怪的；独特的"
+  },
+  {
+    "text": "shining",
+    "isDanger": 0,
+    "phonetic": "/ˈʃaɪnɪŋ/",
+    "translation": "adj. 闪闪发光的",
+    "toggle": "adj. 华丽的；光亮的"
+  },
+  {
+    "text": "oarfish",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːfɪʃ/",
+    "translation": "adj. 桨鱼",
+    "toggle": "n. 皇带鱼"
+  },
+  {
+    "text": "claim",
+    "isDanger": 1,
+    "phonetic": "/kleɪm/",
+    "translation": "v. 声称",
+    "toggle": "vi. 提出要求"
+  }
+]

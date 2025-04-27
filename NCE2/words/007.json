@@ -1,0 +1,93 @@
+[
+  {
+    "text": "detective",
+    "isDanger": 0,
+    "phonetic": "/dɪˈtektɪv/",
+    "translation": "n. 侦探",
+    "toggle": "adj. 侦探的"
+  },
+  {
+    "text": "airport",
+    "isDanger": 0,
+    "phonetic": "/ˈeəpɔːt/",
+    "translation": "n. 机场",
+    "toggle": "n. 机场；航空站"
+  },
+  {
+    "text": "expect",
+    "isDanger": 1,
+    "phonetic": "/ɪkˈspekt/",
+    "translation": "v. 期待，等待",
+    "toggle": "vt. 预料；期望；指望； [ 口 ] 认为"
+  },
+  {
+    "text": "valuable",
+    "isDanger": 0,
+    "phonetic": "/ˈvæljuəb(ə)l/",
+    "translation": "adj. 贵重的",
+    "toggle": "adj. 贵重的；有价值的；可估价的"
+  },
+  {
+    "text": "parcel",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːs(ə)l/",
+    "translation": "n. 包裹",
+    "toggle": "n. 包裹，小包"
+  },
+  {
+    "text": "diamond",
+    "isDanger": 0,
+    "phonetic": "/ˈdaɪmənd/",
+    "translation": "n. 钻石",
+    "toggle": "n. 钻石，金刚石；菱形；方块牌"
+  },
+  {
+    "text": "steal",
+    "isDanger": 1,
+    "phonetic": "/stiːl/",
+    "translation": "v. 偷",
+    "toggle": "v.偷,窃取,偷窃,偷盗"
+  },
+  {
+    "text": "main",
+    "isDanger": 0,
+    "phonetic": "/meɪn/",
+    "translation": "adj. 主要的",
+    "toggle": "n. 主要部分，要点；体力；总管道"
+  },
+  {
+    "text": "airfield",
+    "isDanger": 0,
+    "phonetic": "/ˈeəfiːld/",
+    "translation": "n. 飞机起落的场地",
+    "toggle": "n. 飞机场"
+  },
+  {
+    "text": "guard",
+    "isDanger": 1,
+    "phonetic": "/ɡɑːd/",
+    "translation": "n. 警戒，守卫",
+    "toggle": "n. 警戒；守卫；护卫队；防护装置"
+  },
+  {
+    "text": "precious",
+    "isDanger": 0,
+    "phonetic": "/ˈpreʃəs/",
+    "translation": "adj. 珍贵的",
+    "toggle": "adj. 宝贵的；珍贵的；矫揉造作的"
+  },
+  {
+    "text": "stone",
+    "isDanger": 0,
+    "phonetic": "/stəʊn/",
+    "translation": "n. 石子",
+    "toggle": "n. 石头；宝石；结石"
+  },
+  {
+    "text": "sand",
+    "isDanger": 0,
+    "phonetic": "/sænd/",
+    "translation": "n. 沙子",
+    "toggle": "n. 沙；沙子；沙滩；沙地；沙洲"
+  }
+]

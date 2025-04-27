@@ -1,0 +1,51 @@
+[
+  {
+    "text": "pigeon",
+    "isDanger": 0,
+    "phonetic": "/ˈpɪdʒɪn/",
+    "translation": "n. 鸽子",
+    "toggle": "n. 鸽子"
+  },
+  {
+    "text": "message",
+    "isDanger": 0,
+    "phonetic": "/ˈmesɪdʒ/",
+    "translation": "n. 信息",
+    "toggle": "n. 消息；预言；启示；广告词；差使"
+  },
+  {
+    "text": "cover",
+    "isDanger": 1,
+    "phonetic": "/ˈkʌvə(r)/",
+    "translation": "v. 越过",
+    "toggle": "vt. 包括；涉及；采访，报导"
+  },
+  {
+    "text": "distance",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪstəns/",
+    "translation": "n. 距离",
+    "toggle": "n. 距离；远方；疏远；间隔"
+  },
+  {
+    "text": "request",
+    "isDanger": 0,
+    "phonetic": "/rɪˈkwest/",
+    "translation": "n. 要求，请求",
+    "toggle": "n. 请求；需要"
+  },
+  {
+    "text": "spare part",
+    "isDanger": 0,
+    "phonetic": "/ˌspeə ˈpɑːt/",
+    "translation": "n. 备件",
+    "toggle": "n. 备件"
+  },
+  {
+    "text": "service",
+    "isDanger": 1,
+    "phonetic": "/ˈsɜːvɪs/",
+    "translation": "n. 业务，服务",
+    "toggle": "n. 服务，服侍；服役；仪式"
+  }
+]

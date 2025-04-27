@@ -1,0 +1,58 @@
+[
+  {
+    "text": "except",
+    "isDanger": 1,
+    "phonetic": "/ɪkˈsept/",
+    "translation": "prep. 除了",
+    "toggle": "vt. 不计；把 … 除外"
+  },
+  {
+    "text": "Mediterranean",
+    "isDanger": 0,
+    "phonetic": "/ˌmedɪtəˈreɪniən/",
+    "translation": "n. 地中海",
+    "toggle": "n. 地中海"
+  },
+  {
+    "text": "complain",
+    "isDanger": 1,
+    "phonetic": "/kəmˈpleɪn/",
+    "translation": "v. 抱怨",
+    "toggle": "vi. 发牢骚；投诉；诉说"
+  },
+  {
+    "text": "continually",
+    "isDanger": 1,
+    "phonetic": "/kənˈtɪnjuəli/",
+    "translation": "adv. 不断地",
+    "toggle": "adv. 频繁地；不断地"
+  },
+  {
+    "text": "bitterly",
+    "isDanger": 0,
+    "phonetic": "/ˈbɪtəli/",
+    "translation": "adv. 刺骨地",
+    "toggle": "adv. 残酷地；怨恨地；苦涩地，悲痛的"
+  },
+  {
+    "text": "sunshine",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌnʃaɪn/",
+    "translation": "n. 阳光",
+    "toggle": "n. 阳光；愉快；晴天；快活"
+  },
+  {
+    "text": "settle",
+    "isDanger": 1,
+    "phonetic": "/ˈset(ə)l/",
+    "translation": "v. 安顿",
+    "toggle": "vi. 定居；下陷；解决；沉淀"
+  },
+  {
+    "text": "though",
+    "isDanger": 0,
+    "phonetic": "/ðəʊ/",
+    "translation": "conj. 虽然、尽管",
+    "toggle": "adv. 可是，虽然；然而；不过"
+  }
+]

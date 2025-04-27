@@ -1,0 +1,93 @@
+[
+  {
+    "text": "musical",
+    "isDanger": 0,
+    "phonetic": "/ˈmjuːzɪk(ə)l/",
+    "translation": "adj. 精通音乐的",
+    "toggle": "adj. 音乐的；悦耳的"
+  },
+  {
+    "text": "market",
+    "isDanger": 0,
+    "phonetic": "/ˈmɑːkɪt/",
+    "translation": "n. 市场，集市",
+    "toggle": "n. 集市；市场；商店；销路；股票市场；行情；市面"
+  },
+  {
+    "text": "snake charmer",
+    "isDanger": 0,
+    "phonetic": "/ˈsneɪk tʃɑːmə(r)/",
+    "translation": "n. 玩蛇者（通常借音乐控制）",
+    "toggle": "n.弄蛇人"
+  },
+  {
+    "text": "pipe",
+    "isDanger": 1,
+    "phonetic": "/paɪp/",
+    "translation": "n. （吹奏的）管乐器",
+    "toggle": "n. 烟斗；管；笛"
+  },
+  {
+    "text": "tune",
+    "isDanger": 1,
+    "phonetic": "/tjuːn/",
+    "translation": "n. 曲调",
+    "toggle": "n. 和谐；曲调；心情"
+  },
+  {
+    "text": "glimpse",
+    "isDanger": 0,
+    "phonetic": "/ɡlɪmps/",
+    "translation": "n. 一瞥",
+    "toggle": "n. 一瞥(无意中)，一看"
+  },
+  {
+    "text": "snake",
+    "isDanger": 0,
+    "phonetic": "/sneɪk/",
+    "translation": "n. 蛇",
+    "toggle": "n. 蛇；阴险的人"
+  },
+  {
+    "text": "movement",
+    "isDanger": 0,
+    "phonetic": "/ˈmuːvmənt/",
+    "translation": "n. 动作",
+    "toggle": "n. 运动；乐章；活动；运转"
+  },
+  {
+    "text": "continue",
+    "isDanger": 1,
+    "phonetic": "/kənˈtɪnjuː/",
+    "translation": "v. 继续",
+    "toggle": "vi. 仍旧，连续；继续，延续"
+  },
+  {
+    "text": "dance",
+    "isDanger": 0,
+    "phonetic": "/dɑːns/",
+    "translation": "v. 跳舞",
+    "toggle": "n. 舞蹈；舞曲；舞会"
+  },
+  {
+    "text": "obviously",
+    "isDanger": 0,
+    "phonetic": "/ˈɒbviəsli/",
+    "translation": "adv. 显然",
+    "toggle": "adv. 明显地"
+  },
+  {
+    "text": "difference",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪfrəns/",
+    "translation": "n. 差别",
+    "toggle": "n. 差异；不同；争执"
+  },
+  {
+    "text": "Indian",
+    "isDanger": 0,
+    "phonetic": "/ˈɪndiən/",
+    "translation": "adj. 印度的",
+    "toggle": "adj. 印度的；印第安人的；印第安语的"
+  }
+]

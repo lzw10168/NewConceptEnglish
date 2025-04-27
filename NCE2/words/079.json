@@ -1,0 +1,44 @@
+[
+  {
+    "text": "parent",
+    "isDanger": 0,
+    "phonetic": "/ˈpeərənt/",
+    "translation": "n. 父（母）亲",
+    "toggle": "n. 父母亲；父亲（或母亲）；根源"
+  },
+  {
+    "text": "flight attendant",
+    "isDanger": 0,
+    "phonetic": "/ˈflaɪt əˈtendənt/",
+    "translation": "n. 空中乘务员",
+    "toggle": "n. 飞行服务员"
+  },
+  {
+    "text": "frightened",
+    "isDanger": 0,
+    "phonetic": "/ˈfraɪt(ə)nd/",
+    "translation": "adj. 害怕，担惊",
+    "toggle": "adj. 受惊的；受恐吓的；害怕的"
+  },
+  {
+    "text": "curious",
+    "isDanger": 0,
+    "phonetic": "/ˈkjʊəriəs/",
+    "translation": "adj. 急于了解，好奇的",
+    "toggle": "adj. 好奇的，有求知欲的；古怪的；爱挑剔的"
+  },
+  {
+    "text": "bomb",
+    "isDanger": 0,
+    "phonetic": "/bɒm/",
+    "translation": "n. 炸弹",
+    "toggle": "vt. 轰炸，投弹于"
+  },
+  {
+    "text": "plant",
+    "isDanger": 1,
+    "phonetic": "/plɑːnt/",
+    "translation": "v. 安放",
+    "toggle": "n. 工厂，车间；植物；庄稼；设备"
+  }
+]

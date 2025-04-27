@@ -1,0 +1,86 @@
+[
+  {
+    "text": "send",
+    "isDanger": 1,
+    "phonetic": "/send/",
+    "translation": "v. 寄 , 送寄",
+    "toggle": "vt. 发送，寄；派遣；发射；使进入"
+  },
+  {
+    "text": "postcard",
+    "isDanger": 0,
+    "phonetic": "/ˈpəʊstkɑːd/",
+    "translation": "n. 明信片",
+    "toggle": "n. 明信片"
+  },
+  {
+    "text": "spoil",
+    "isDanger": 1,
+    "phonetic": "/spɔɪl/",
+    "translation": "v. 使索然无味, 损坏",
+    "toggle": "vt. 溺爱；糟蹋；掠夺"
+  },
+  {
+    "text": "museum",
+    "isDanger": 0,
+    "phonetic": "/mjuˈziːəm/",
+    "translation": "n. 博物馆",
+    "toggle": "n. 博物馆"
+  },
+  {
+    "text": "public",
+    "isDanger": 1,
+    "phonetic": "/ˈpʌblɪk/",
+    "translation": "adj. 公共的",
+    "toggle": "adj. 公用的；公众的；公立的；政府的"
+  },
+  {
+    "text": "friendly",
+    "isDanger": 0,
+    "phonetic": "/ˈfrendli/",
+    "translation": "adj. 友好的",
+    "toggle": "adj. 友好的；亲切的；支持的；融洽的，和睦的"
+  },
+  {
+    "text": "waiter",
+    "isDanger": 0,
+    "phonetic": "/ˈweɪtə(r)/",
+    "translation": "n. 服务员, 招待员",
+    "toggle": "n. 服务员，侍者"
+  },
+  {
+    "text": "lend",
+    "isDanger": 0,
+    "phonetic": "/lend/",
+    "translation": "v. 借、给",
+    "toggle": "vt. 贷；增添，提供；把 … 借给"
+  },
+  {
+    "text": "decision",
+    "isDanger": 0,
+    "phonetic": "/dɪˈsɪʒ(ə)n/",
+    "translation": "n. 决定",
+    "toggle": "n. 决定，决心；决议"
+  },
+  {
+    "text": "whole",
+    "isDanger": 0,
+    "phonetic": "/həʊl/",
+    "translation": "adj. 整个的",
+    "toggle": "adj. 完整的；纯粹的"
+  },
+  {
+    "text": "single",
+    "isDanger": 1,
+    "phonetic": "/ˈsɪŋɡ(ə)l/",
+    "translation": "adj. 唯一的, 单一的",
+    "toggle": "adj. 单一的；单身的；单程的"
+  },
+  {
+    "text": "decide",
+    "isDanger": 1,
+    "phonetic": "/dɪˈsaɪd/",
+    "translation": "v. 决定",
+    "toggle": "vt. 决定；判决；解决"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "parliament",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːləmənt/",
+    "translation": "n. 议会，国会",
+    "toggle": "n. 议会，国会"
+  },
+  {
+    "text": "erect",
+    "isDanger": 0,
+    "phonetic": "/ɪˈrekt/",
+    "translation": "v. 建起",
+    "toggle": "vt. 使竖立；建造；安装"
+  },
+  {
+    "text": "accurate",
+    "isDanger": 0,
+    "phonetic": "/ˈækjərət/",
+    "translation": "adj. 准确的",
+    "toggle": "adj. 精确的"
+  },
+  {
+    "text": "official",
+    "isDanger": 0,
+    "phonetic": "/əˈfɪʃ(ə)l/",
+    "translation": "n. 官员，行政人员",
+    "toggle": "adj. 正式的；官方的；公务的"
+  },
+  {
+    "text": "Greenwich",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrenɪtʃ/",
+    "translation": "n. 格林尼治",
+    "toggle": "n.格林威治(位于英国伦敦东南部,为本初子午线所经之地,原设有英国皇家格林威治天文台),格林威治镇(位于美国康涅狄格州)"
+  },
+  {
+    "text": "observatory",
+    "isDanger": 0,
+    "phonetic": "/əbˈzɜːvətri/",
+    "translation": "n. 天文台",
+    "toggle": "n. 瞭望台；气象台；天文台"
+  },
+  {
+    "text": "check",
+    "isDanger": 0,
+    "phonetic": "/tʃek/",
+    "translation": "v. 检查",
+    "toggle": "vi. 证明无误；核对无误；将军（象棋）"
+  },
+  {
+    "text": "microphone",
+    "isDanger": 0,
+    "phonetic": "/ˈmaɪkrəfəʊn/",
+    "translation": "n. 扩音器，麦克风",
+    "toggle": "n. 扩音器，麦克风"
+  },
+  {
+    "text": "tower",
+    "isDanger": 0,
+    "phonetic": "/ˈtaʊə(r)/",
+    "translation": "v. 塔",
+    "toggle": "n. 塔；高楼；堡垒"
+  }
+]

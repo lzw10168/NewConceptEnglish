@@ -1,0 +1,44 @@
+[
+  {
+    "text": "thick",
+    "isDanger": 0,
+    "phonetic": "/θɪk/",
+    "translation": "adj. 厚的",
+    "toggle": "n. 最拥挤部份；活动最多部份；事物的粗大浓密部份"
+  },
+  {
+    "text": "signal",
+    "isDanger": 1,
+    "phonetic": "/ˈsɪɡnəl/",
+    "translation": "n. 信号",
+    "toggle": "n. 信号；暗号；导火线"
+  },
+  {
+    "text": "stamp",
+    "isDanger": 0,
+    "phonetic": "/stæmp/",
+    "translation": "v. 跺，踩",
+    "toggle": "n. 邮票；印记；跺脚；标志"
+  },
+  {
+    "text": "helicopter",
+    "isDanger": 0,
+    "phonetic": "/ˈhelɪkɒptə(r)/",
+    "translation": "n. 直升飞机",
+    "toggle": "n. 直升飞机"
+  },
+  {
+    "text": "scene",
+    "isDanger": 0,
+    "phonetic": "/siːn/",
+    "translation": "n. 现场",
+    "toggle": "n. 情景；景象；场面；事件"
+  },
+  {
+    "text": "survivor",
+    "isDanger": 0,
+    "phonetic": "/səˈvaɪvə(r)/",
+    "translation": "n. 幸存者",
+    "toggle": "n. 生还者；幸存者；残存物"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "instruct",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈstrʌkt/",
+    "translation": "v. 指导，传授",
+    "toggle": "vt. 命令；教授；指导；通知"
+  },
+  {
+    "text": "Los Angeles",
+    "isDanger": 0,
+    "phonetic": "/lɔ:s ˈeɪndʒəlz/",
+    "translation": "n. 洛杉矶",
+    "toggle": "洛杉矶"
+  },
+  {
+    "text": "reluctant",
+    "isDanger": 0,
+    "phonetic": "/rɪˈlʌktənt/",
+    "translation": "adj. 勉强的，不愿意的",
+    "toggle": "adj. 勉强的；不情愿的；［罕］顽抗的"
+  },
+  {
+    "text": "weight",
+    "isDanger": 0,
+    "phonetic": "/weɪt/",
+    "translation": "n. 重物",
+    "toggle": "n. 重量，重力；砝码；重要性；负担"
+  },
+  {
+    "text": "underwater",
+    "isDanger": 0,
+    "phonetic": "/ˌʌndəˈwɔːtə(r)/",
+    "translation": "adj. 水下的",
+    "toggle": "adj. 在水中的；水面下的"
+  },
+  {
+    "text": "tricycle",
+    "isDanger": 0,
+    "phonetic": "/ˈtraɪsɪk(ə)l/",
+    "translation": "n. 三轮车",
+    "toggle": "n.三轮车,机器三轮车"
+  },
+  {
+    "text": "compete",
+    "isDanger": 1,
+    "phonetic": "/kəmˈpiːt/",
+    "translation": "v. 比赛，对抗",
+    "toggle": "vi. 竞争；比赛；对抗"
+  },
+  {
+    "text": "yard",
+    "isDanger": 0,
+    "phonetic": "/jɑːd/",
+    "translation": "n. 码",
+    "toggle": "n. 码（英制中丈量长度单位， 1 码 =3 英尺）； [ 海 ] 帆桁；院子；庭院"
+  },
+  {
+    "text": "gasp",
+    "isDanger": 0,
+    "phonetic": "/ɡɑːsp/",
+    "translation": "v. 喘气",
+    "toggle": "vi. 喘息；喘气；渴望"
+  }
+]

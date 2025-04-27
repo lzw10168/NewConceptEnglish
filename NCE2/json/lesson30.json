@@ -1,0 +1,227 @@
+{
+  "id": "course-2-030",
+  "lessonNumber": "030",
+  "title": {
+    "english": "Football or polo?",
+    "chinese": "足球还是水球？"
+  },
+  "lessonInfo": "新概念英语－第2册－第030课",
+  "audioPath": "audio/nce2/030.mp3",
+  "listeningQuestion": {
+    "question": "What happened to the man in the boat?",
+    "translation": "船上的那个人发生了什么事？"
+  },
+  "content": {
+    "editorNotes": "本课讲述了一个有趣的意外事件，涉及了一些重要的语法点，包括some和any的用法，以及冠词the的使用规则。",
+    "dialogueText": {
+      "heading": "课文",
+      "dialogue": [
+        "The Wayle is a small river that cuts across the park near my home.",
+        "I like sitting by the Wayle on fine afternoons.",
+        "It was warm last Sunday, so I went and sat on the river bank as usual.",
+        "Some children were playing games on the bank and there were some people rowing on the river.",
+        "Suddenly, one of the children kicked a ball very hard and it went towards a passing boat.",
+        "Some people on the bank called out to the man in the boat, but he did not hear them.",
+        "The ball struck him so hard that he nearly fell into the water.",
+        "I turned to look at the children, but there weren't any in sight: they had all run away!",
+        "The man laughed when he realized what had happened.",
+        "He called out to the children and threw the ball back to the bank."
+      ]
+    },
+    "translation": {
+      "heading": "翻译",
+      "notes": [
+        "威尔河是横穿过我家附近公园的一条小河。",
+        "我喜欢在天气晴朗的下午到河边坐坐。",
+        "上星期日天气很暖和。于是我和往常一样，又去河边坐着。",
+        "河岸上有些孩子正在玩耍，河面上有些人正在划船。",
+        "突然，一个孩子狠狠地踢了一脚球，球便向着一只划过来的小船飞去。",
+        "岸上的一些人对着小船上的人高喊，但他没有听见。",
+        "球重重地打在他身上，使他差点儿落入水中。",
+        "我转过头去看那些孩子，但一个也不见，全都跑了！",
+        "当那个人明白了发生的事情时，笑了起来。",
+        "他大声叫着那些孩子，把球扔回到岸上。"
+      ]
+    },
+    "newwords": {
+      "heading": "New words and expressions 生词和短语",
+      "notes": [
+        {
+          "text": "polo",
+          "translation": "水球",
+          "phonetic": "/ˈpəʊləʊ/",
+          "toggle": "n. 水球",
+          "isImportant": 1
+        },
+        {
+          "text": "Wayle",
+          "translation": "威尔",
+          "phonetic": "",
+          "toggle": "n. 威尔（河名）",
+          "isImportant": 0
+        },
+        {
+          "text": "cut",
+          "translation": "穿过",
+          "phonetic": "/kʌt/",
+          "toggle": "v. 穿过",
+          "isImportant": 1
+        },
+        {
+          "text": "row",
+          "translation": "划（船）",
+          "phonetic": "/rəʊ/",
+          "toggle": "v. 划（船）",
+          "isImportant": 1
+        },
+        {
+          "text": "kick",
+          "translation": "踢",
+          "phonetic": "/kɪk/",
+          "toggle": "v. 踢",
+          "isImportant": 1
+        },
+        {
+          "text": "towards",
+          "translation": "朝，向",
+          "phonetic": "/təˈwɔːdz/",
+          "toggle": "prep. 朝，向",
+          "isImportant": 1
+        },
+        {
+          "text": "nearly",
+          "translation": "几乎",
+          "phonetic": "/ˈnɪəli/",
+          "toggle": "adv. 几乎",
+          "isImportant": 1
+        },
+        {
+          "text": "sight",
+          "translation": "眼界，视域",
+          "phonetic": "/saɪt/",
+          "toggle": "n. 眼界，视域",
+          "isImportant": 1
+        }
+      ]
+    },
+    "grammarPoints": {
+      "heading": "语法要点 Grammar points",
+      "notes": [
+        {
+          "title": "like doing和like to do的区别",
+          "content": [
+            "like to do sth. 表示喜欢做某事（一次性的）",
+            "like doing sth. 表示喜欢做某事（习惯性的）",
+            "例如：I like sitting by the Wayle on fine afternoons. （表示习惯性的喜欢）"
+          ]
+        },
+        {
+          "title": "so...that...结构",
+          "content": [
+            "so + 形容词/副词 + that + 从句，表示'如此...以致于...'",
+            "例如：The ball struck him so hard that he nearly fell into the water.",
+            "如果是名词，则用such + a/an + 名词 + that..."
+          ]
+        },
+        {
+          "title": "some和any的用法",
+          "content": [
+            "some通常用于肯定句，any通常用于否定句和疑问句",
+            "some在表示邀请或期望得到肯定回答时，可以用在疑问句中",
+            "例如：Some children were playing games（肯定句用some）",
+            "there weren't any in sight（否定句用any）"
+          ]
+        },
+        {
+          "title": "定冠词the的使用",
+          "content": [
+            "在特指的河流、山脉等前要用the",
+            "例如：The Wayle is a small river...",
+            "在表示世界上独一无二的事物前通常要用the",
+            "在复合词形式的国名前要用the"
+          ]
+        }
+      ]
+    },
+    "commonPhrases": {
+      "heading": "常见短语 Common phrases",
+      "notes": [
+        {
+          "phrase": "cut across",
+          "translation": "横穿，穿过",
+          "context": "表示穿过某个地方",
+          "example": "The river cuts across the park. (这条河横穿过公园。)"
+        },
+        {
+          "phrase": "call out to",
+          "translation": "向...大声喊叫",
+          "context": "表示对某人大声呼喊",
+          "example": "Some people on the bank called out to the man. (岸上的人向那个人大声喊叫。)"
+        },
+        {
+          "phrase": "in sight",
+          "translation": "在视线之内",
+          "context": "表示可以看到",
+          "example": "There weren't any children in sight. (看不到任何孩子。)"
+        },
+        {
+          "phrase": "as usual",
+          "translation": "像往常一样",
+          "context": "表示习惯性的行为",
+          "example": "I went and sat on the river bank as usual. (我像往常一样去河边坐着。)"
+        }
+      ]
+    },
+    "exercises": {
+      "multipleChoice": [
+        {
+          "question": "Why didn't the man in the boat hear people shouting?",
+          "options": [
+            "Because he was too far away",
+            "Because they didn't shout loud enough",
+            "Because he was not paying attention",
+            "The text doesn't specify why"
+          ],
+          "answer": 3,
+          "explanation": "课文只说他没有听见（did not hear them），没有具体说明原因。"
+        },
+        {
+          "question": "What did the man do after he realized what had happened?",
+          "options": [
+            "He got angry",
+            "He fell into the water",
+            "He laughed and threw the ball back",
+            "He ignored it"
+          ],
+          "answer": 2,
+          "explanation": "课文说他笑了，并把球扔回岸上（The man laughed... and threw the ball back）。"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "sentence": "The Wayle is a small river that _____ across the park.",
+          "answer": "cuts",
+          "hint": "表示'穿过'的动词"
+        },
+        {
+          "sentence": "The children were not _____ when I turned to look at them.",
+          "answer": "in sight",
+          "hint": "表示'在视线内'的短语"
+        }
+      ]
+    },
+    "additionalContent": {
+      "heading": "补充内容 Additional content",
+      "notes": [
+        {
+          "title": "语言点拓展",
+          "content": "cut这个词除了表示'穿过'外，还有多种用法：cut out（剪下），cut down（砍倒），cut off（切断），这些都是很常用的动词短语。"
+        },
+        {
+          "title": "文化背景",
+          "content": "英国有许多河流穿过城市和公园，这些河流不仅是交通要道，也是人们休闲娱乐的场所。划船（rowing）是英国人特别喜爱的一项水上运动。"
+        }
+      ]
+    }
+  }
+} 

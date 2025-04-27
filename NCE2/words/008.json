@@ -1,0 +1,37 @@
+[
+  {
+    "text": "competition",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒmpəˈtɪʃ(ə)n/",
+    "translation": "n. 比赛，竞赛",
+    "toggle": "n. 竞争；比赛，竞赛"
+  },
+  {
+    "text": "neat",
+    "isDanger": 1,
+    "phonetic": "/niːt/",
+    "translation": "adj. 整齐的，整洁的",
+    "toggle": "adj. 整洁的；未搀水的；优雅的；灵巧的；齐整的；平滑的"
+  },
+  {
+    "text": "path",
+    "isDanger": 0,
+    "phonetic": "/pɑːθ/",
+    "translation": "n. 小路，小径",
+    "toggle": "n. 小路；道路；轨道"
+  },
+  {
+    "text": "wooden",
+    "isDanger": 0,
+    "phonetic": "/ˈwʊdn/",
+    "translation": "adj. 木头的",
+    "toggle": "adj. 木制的；僵硬的，呆板的"
+  },
+  {
+    "text": "pool",
+    "isDanger": 0,
+    "phonetic": "/puːl/",
+    "translation": "n. 水池",
+    "toggle": "n. 联营；水塘；撞球；共同资金"
+  }
+]

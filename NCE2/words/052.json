@@ -1,0 +1,30 @@
+[
+  {
+    "text": "temporarily",
+    "isDanger": 0,
+    "phonetic": "/ˈtemprərəli/",
+    "translation": "adv. 暂时地",
+    "toggle": "adv. 临时地，临时"
+  },
+  {
+    "text": "inch",
+    "isDanger": 0,
+    "phonetic": "/ɪntʃ/",
+    "translation": "n. 英寸（度量单位）",
+    "toggle": "n. 英寸；身高；少许"
+  },
+  {
+    "text": "space",
+    "isDanger": 1,
+    "phonetic": "/speɪs/",
+    "translation": "n. 空间",
+    "toggle": "n. 空间；距离；太空"
+  },
+  {
+    "text": "actually",
+    "isDanger": 0,
+    "phonetic": "/ˈæktʃuəli/",
+    "translation": "adv. 实际上",
+    "toggle": "adv. 实际上；事实上"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "palace",
+    "isDanger": 0,
+    "phonetic": "/ˈpæləs/",
+    "translation": "n. 宫殿",
+    "toggle": "n. 宫殿；豪华住宅；宅邸"
+  },
+  {
+    "text": "extraordinary",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈstrɔːd(ə)n(ə)ri/",
+    "translation": "adj. 不平常的，非凡的",
+    "toggle": "adj. 特别的；非凡的；特派的；离奇的；临时的"
+  },
+  {
+    "text": "exhibition",
+    "isDanger": 0,
+    "phonetic": "/ˌeksɪˈbɪʃ(ə)n/",
+    "translation": "n. 展览",
+    "toggle": "n. 展览，显示；展览会；展览品"
+  },
+  {
+    "text": "iron",
+    "isDanger": 0,
+    "phonetic": "/ˈaɪən/",
+    "translation": "n. 铁",
+    "toggle": "n. 熨斗；坚强；烙铁"
+  },
+  {
+    "text": "various",
+    "isDanger": 0,
+    "phonetic": "/ˈveəriəs/",
+    "translation": "adj. 各种各样的",
+    "toggle": "adj. 各种各样的；多方面的"
+  },
+  {
+    "text": "machinery",
+    "isDanger": 0,
+    "phonetic": "/məˈʃiːnəri/",
+    "translation": "n. 机器",
+    "toggle": "n. 机械；机器；机构；机械装置"
+  },
+  {
+    "text": "display",
+    "isDanger": 0,
+    "phonetic": "/dɪˈspleɪ/",
+    "translation": "n. 展览",
+    "toggle": "n. 显示；炫耀"
+  },
+  {
+    "text": "steam",
+    "isDanger": 0,
+    "phonetic": "/stiːm/",
+    "translation": "n. 蒸汽",
+    "toggle": "vt. 蒸，散发；用蒸汽处理"
+  },
+  {
+    "text": "profit",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒfɪt/",
+    "translation": "n. 利润",
+    "toggle": "n. 利润；利益"
+  },
+  {
+    "text": "college",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒlɪdʒ/",
+    "translation": "n. 学院",
+    "toggle": "n. 学院；学会；大学"
+  }
+]

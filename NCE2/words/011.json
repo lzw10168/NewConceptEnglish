@@ -1,0 +1,44 @@
+[
+  {
+    "text": "turn",
+    "isDanger": 1,
+    "phonetic": "/tɜːn/",
+    "translation": "n. 行为，举止",
+    "toggle": "vt. 转动，使旋转；转弯；兑换；翻过来"
+  },
+  {
+    "text": "deserve",
+    "isDanger": 1,
+    "phonetic": "/dɪˈzɜːv/",
+    "translation": "v. 应得到，值得",
+    "toggle": "vi. 应受，应得"
+  },
+  {
+    "text": "lawyer",
+    "isDanger": 0,
+    "phonetic": "/ˈlɔɪə(r)/",
+    "translation": "n. 律师",
+    "toggle": "n. 律师；法学家"
+  },
+  {
+    "text": "bank",
+    "isDanger": 1,
+    "phonetic": "/bæŋk/",
+    "translation": "n. 银行",
+    "toggle": "n. 银行；岸；储库；浅滩"
+  },
+  {
+    "text": "salary",
+    "isDanger": 0,
+    "phonetic": "/ˈsæləri/",
+    "translation": "n. 工资",
+    "toggle": "vt. 给 ... 加薪；给 ... 薪水"
+  },
+  {
+    "text": "immediately",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmiːdiətli/",
+    "translation": "adv. 立刻",
+    "toggle": "adv. 直接地；立即，立刻"
+  }
+]
