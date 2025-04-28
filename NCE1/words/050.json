@@ -1,0 +1,86 @@
+[
+  {
+    "text": "ow",
+    "isDanger": 0,
+    "phonetic": "/aʊ/",
+    "translation": "interj. 哎哟",
+    "toggle": "int.表示突然疼痛所发出之声,哎哟"
+  },
+  {
+    "text": "oops",
+    "isDanger": 0,
+    "phonetic": "/ʊps/",
+    "translation": "interj. 啊呀",
+    "toggle": "int. 哎哟（表示惊讶，狼狈时所发的喊声）"
+  },
+  {
+    "text": "slip",
+    "isDanger": 1,
+    "phonetic": "/slɪp/",
+    "translation": "v. 滑倒，滑了一脚",
+    "toggle": "vi. 犯错；滑倒；减退；滑动；失足"
+  },
+  {
+    "text": "fall",
+    "isDanger": 1,
+    "phonetic": "/fɔːl/",
+    "translation": "v. 落下，跌倒",
+    "toggle": "vi. 落下；变成；来临；减弱"
+  },
+  {
+    "text": "downstairs",
+    "isDanger": 0,
+    "phonetic": "/ˌdaʊnˈsteəz/",
+    "translation": "adv. 下楼",
+    "toggle": "adv. 在楼下"
+  },
+  {
+    "text": "hurt",
+    "isDanger": 0,
+    "phonetic": "/hɜːt/",
+    "translation": "v. 伤，伤害，疼痛",
+    "toggle": "vt. 使受伤；使疼痛；使痛心； [ 口 ] 损害"
+  },
+  {
+    "text": "back",
+    "isDanger": 1,
+    "phonetic": "/bæk/",
+    "translation": "n. 背",
+    "toggle": "n. 背部；后面；靠背；足球等的后卫；书报等的末尾"
+  },
+  {
+    "text": "stand up",
+    "isDanger": 0,
+    "phonetic": "/ˈstænd ʌp/",
+    "translation": "v. 起立，站起来",
+    "toggle": "起立; 竖立; 经久耐用; <非正>失约"
+  },
+  {
+    "text": "help",
+    "isDanger": 1,
+    "phonetic": "/help/",
+    "translation": "v. 帮助",
+    "toggle": "vt. 帮助；治疗；促进；补救"
+  },
+  {
+    "text": "at once",
+    "isDanger": 0,
+    "phonetic": "/æt wʌns/",
+    "translation": "adv. 立即",
+    "toggle": "adv. 立即; 一起; 同时; 立刻"
+  },
+  {
+    "text": "sure",
+    "isDanger": 1,
+    "phonetic": "/ʃʊə(r)/",
+    "translation": "adj. 一定的，确信的",
+    "toggle": "adj. 可靠的；必定的；确信的"
+  },
+  {
+    "text": "x-ray",
+    "isDanger": 0,
+    "phonetic": "/ˈeks reɪ/",
+    "translation": "n. X光透视",
+    "toggle": "vt. 用 X 光线检查"
+  }
+]

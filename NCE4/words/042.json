@@ -1,0 +1,107 @@
+[
+  {
+    "text": "earthquake",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 地震",
+    "toggle": "n. 地震；大动荡"
+  },
+  {
+    "text": "slumber",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 睡眠",
+    "toggle": "n. 睡眠；麻木状态；静止状态"
+  },
+  {
+    "text": "ninepin",
+    "isDanger": 0,
+    "phonetic": "/ˈnaɪnˌpɪn/",
+    "translation": "n. 九柱戏中的木柱",
+    "toggle": "n. 九柱球戏的木柱"
+  },
+  {
+    "text": "rigid",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 坚硬的",
+    "toggle": "adj. 严格的；僵硬的，死板的；坚硬的；精确的"
+  },
+  {
+    "text": "delicate",
+    "isDanger": 0,
+    "phonetic": "/ˈdelɪkət/",
+    "translation": "adj. 灵感的",
+    "toggle": "adj. 微妙的；易碎的；清淡可口的；柔和的；精美的，雅致的；纤弱的"
+  },
+  {
+    "text": "seismometer",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 地震仪",
+    "toggle": ""
+  },
+  {
+    "text": "penholder",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 笔杆",
+    "toggle": ""
+  },
+  {
+    "text": "legibly",
+    "isDanger": 0,
+    "phonetic": "/ˈledʒəbli/",
+    "translation": "adv. 字迹清楚地",
+    "toggle": "adv.易读地,明了地"
+  },
+  {
+    "text": "drum",
+    "isDanger": 0,
+    "phonetic": "/drʌm/",
+    "translation": "n. 鼓状物",
+    "toggle": "vt. 击鼓；大力争取"
+  },
+  {
+    "text": "wriggle",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 扭动",
+    "toggle": "vi. 蠕动；蜿蜒而行"
+  },
+  {
+    "text": "bluebottle",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 绿头苍蝇",
+    "toggle": ""
+  },
+  {
+    "text": "graph",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 图表",
+    "toggle": "n. [ 数 ] 图表；曲线图"
+  },
+  {
+    "text": "graphic",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 图示的",
+    "toggle": "adj. 图表的；形象的；绘画似的"
+  },
+  {
+    "text": "longitudinal",
+    "isDanger": 0,
+    "phonetic": "/ˌlɒŋɡɪˈtjuːdən(ə)l/",
+    "translation": "adj. 纵向的",
+    "toggle": "adj.经度的,纵向的"
+  },
+  {
+    "text": "transverse",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 横向的",
+    "toggle": "adj.横向的,横断的"
+  }
+]

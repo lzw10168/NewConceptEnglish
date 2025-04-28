@@ -1,0 +1,79 @@
+[
+  {
+    "text": "costume",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒstjuːm/",
+    "translation": "n. 化装服",
+    "toggle": "n. 服装，装束；戏装，剧装"
+  },
+  {
+    "text": "consist",
+    "isDanger": 1,
+    "phonetic": "/ˈkɒnsɪst/",
+    "translation": "v. 由...组成",
+    "toggle": "vi. 组成；在于；符合"
+  },
+  {
+    "text": "sheet",
+    "isDanger": 0,
+    "phonetic": "/ʃiːt/",
+    "translation": "n. 被单",
+    "toggle": "n. 薄片，纸张；床单；薄板"
+  },
+  {
+    "text": "effective",
+    "isDanger": 0,
+    "phonetic": "/ɪˈfektɪv/",
+    "translation": "adj. 有明显效果的，有作用的",
+    "toggle": "adj. 有效的，起作用的；给人深刻印象；实际的，实在的"
+  },
+  {
+    "text": "comfortable",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌmftəb(ə)l/",
+    "translation": "adj. 舒适的",
+    "toggle": "adj. 舒适的，舒服的"
+  },
+  {
+    "text": "storeroom",
+    "isDanger": 0,
+    "phonetic": "/ˈstɔːruːm/",
+    "translation": "n. 储藏室",
+    "toggle": "n. 库房；储藏室"
+  },
+  {
+    "text": "electricity",
+    "isDanger": 0,
+    "phonetic": "/ɪˌlekˈtrɪsəti/",
+    "translation": "n. 电",
+    "toggle": "n. 电力；电流；强烈的紧张情绪"
+  },
+  {
+    "text": "metre",
+    "isDanger": 0,
+    "phonetic": "/ˈmiːtə(r)/",
+    "translation": "n. 电表",
+    "toggle": "n. 米，公尺"
+  },
+  {
+    "text": "pace",
+    "isDanger": 0,
+    "phonetic": "/peɪs/",
+    "translation": "n. 一步",
+    "toggle": "n. 步速；步法；一步"
+  },
+  {
+    "text": "flee",
+    "isDanger": 0,
+    "phonetic": "/fliː/",
+    "translation": "v. 逃走",
+    "toggle": "vi. 消失，消散；逃走"
+  },
+  {
+    "text": "slam",
+    "isDanger": 0,
+    "phonetic": "/slæm/",
+    "translation": "v. 砰地关上",
+    "toggle": "vt. 砰地关上；猛力抨击"
+  }
+]

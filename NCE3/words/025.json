@@ -1,0 +1,93 @@
+[
+  {
+    "text": "impressive",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈpresɪv/",
+    "translation": "adj. 给人深刻印象的",
+    "toggle": "adj. 感人的；令人钦佩的；给人以深刻印象的"
+  },
+  {
+    "text": "steamship",
+    "isDanger": 0,
+    "phonetic": "/ˈstiːmʃɪp/",
+    "translation": "n. 蒸汽轮船",
+    "toggle": "n. 轮船；汽船"
+  },
+  {
+    "text": "vessel",
+    "isDanger": 0,
+    "phonetic": "/ˈves(ə)l/",
+    "translation": "n. 轮船，大木船",
+    "toggle": "n. 容器，器皿；船，舰；脉管，血管"
+  },
+  {
+    "text": "era",
+    "isDanger": 0,
+    "phonetic": "/ˈɪərə/",
+    "translation": "n. 时期，时代",
+    "toggle": "n. 时代；年代；纪元"
+  },
+  {
+    "text": "Java",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒɑːvə/",
+    "translation": "n. 爪哇(印度尼西亚一岛)",
+    "toggle": "n. 爪哇岛（位于印尼）"
+  },
+  {
+    "text": "rudder",
+    "isDanger": 0,
+    "phonetic": "/ˈrʌdə(r)/",
+    "translation": "n. 舵",
+    "toggle": "n. 飞机方向舵；船舵"
+  },
+  {
+    "text": "roll",
+    "isDanger": 0,
+    "phonetic": "/rəʊl/",
+    "translation": "v. 颠簸，摇摆",
+    "toggle": "vt. 滚动，转动；卷；辗"
+  },
+  {
+    "text": "steer",
+    "isDanger": 0,
+    "phonetic": "/stɪə(r)/",
+    "translation": "v. 掌握方向",
+    "toggle": "vt. 驾驶（steer the boat）；控制，引导"
+  },
+  {
+    "text": "temporary",
+    "isDanger": 0,
+    "phonetic": "/ˈtemprəri/",
+    "translation": "adj. 临时的",
+    "toggle": "adj. 暂时的，临时的"
+  },
+  {
+    "text": "plank",
+    "isDanger": 0,
+    "phonetic": "/plæŋk/",
+    "translation": "n. 大块木板",
+    "toggle": "n. 厚木板；政纲条款；支架"
+  },
+  {
+    "text": "fit",
+    "isDanger": 0,
+    "phonetic": "/fɪt/",
+    "translation": "v. 安装",
+    "toggle": "vt. 安装；使 … 适应；使 … 合身；与 … 相符"
+  },
+  {
+    "text": "equator",
+    "isDanger": 0,
+    "phonetic": "/ɪˈkweɪtə(r)/",
+    "translation": "n. 赤道",
+    "toggle": "n. 赤道"
+  },
+  {
+    "text": "delay",
+    "isDanger": 1,
+    "phonetic": "/dɪˈleɪ/",
+    "translation": "n. 耽误",
+    "toggle": "vi. 耽搁；延期"
+  }
+]

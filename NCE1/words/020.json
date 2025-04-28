@@ -1,0 +1,86 @@
+[
+  {
+    "text": "front",
+    "isDanger": 0,
+    "phonetic": "/frʌnt/",
+    "translation": "n. 前面",
+    "toggle": "n. 前面；前线；正面"
+  },
+  {
+    "text": "in front of",
+    "isDanger": 0,
+    "phonetic": "/ɪn frʌnt əv/",
+    "translation": "prep. 在…之前",
+    "toggle": "在…前面; 当着…的面; 面前"
+  },
+  {
+    "text": "careful",
+    "isDanger": 0,
+    "phonetic": "/ˈkeəf(ə)l/",
+    "translation": "adj. 小心的，仔细的",
+    "toggle": "adj. 仔细的，小心的"
+  },
+  {
+    "text": "be careful",
+    "isDanger": 0,
+    "phonetic": "/bi ˈkeəf(ə)l/",
+    "translation": "v. 小心",
+    "toggle": "n. 注意; 当心，小心"
+  },
+  {
+    "text": "drop",
+    "isDanger": 0,
+    "phonetic": "/drɒp/",
+    "translation": "v. 掉下",
+    "toggle": "vt. 滴；使降低；随口漏出；使终止"
+  },
+  {
+    "text": "vase",
+    "isDanger": 0,
+    "phonetic": "/vɑːz/",
+    "translation": "n. 花瓶",
+    "toggle": "n. 花瓶；瓶"
+  },
+  {
+    "text": "flower",
+    "isDanger": 1,
+    "phonetic": "/ˈflaʊə(r)/",
+    "translation": "n. 花",
+    "toggle": "n. 花；精华；开花植物"
+  },
+  {
+    "text": "show",
+    "isDanger": 1,
+    "phonetic": "/ʃəʊ/",
+    "translation": "v. 给…看",
+    "toggle": "vt. 显示；演出；展出；说明"
+  },
+  {
+    "text": "send",
+    "isDanger": 1,
+    "phonetic": "/send/",
+    "translation": "v. 送给",
+    "toggle": "vt. 发送，寄；派遣；发射；使进入"
+  },
+  {
+    "text": "post",
+    "isDanger": 1,
+    "phonetic": "/pəʊst/",
+    "translation": "v. 寄送",
+    "toggle": "n. 岗位；邮件；标杆"
+  },
+  {
+    "text": "take",
+    "isDanger": 1,
+    "phonetic": "/teɪk/",
+    "translation": "v. 带给",
+    "toggle": "vt. 拿，取；接受；采取；吃"
+  },
+  {
+    "text": "bring",
+    "isDanger": 1,
+    "phonetic": "/brɪŋ/",
+    "translation": "v. 带来",
+    "toggle": "vt. 带来；引起；促使；使某人处于某种情况或境地"
+  }
+]

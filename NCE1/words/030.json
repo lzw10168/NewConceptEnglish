@@ -1,0 +1,79 @@
+[
+  {
+    "text": "envelope",
+    "isDanger": 0,
+    "phonetic": "/ˈenvələʊp/",
+    "translation": "n. 信封",
+    "toggle": "n. 信封，封皮； [ 生 ] 包膜； [ 天 ] 包层； [ 数 ] 包迹"
+  },
+  {
+    "text": "writing paper",
+    "isDanger": 0,
+    "phonetic": "/ˈraɪtɪŋ peɪpə(r)/",
+    "translation": "n. 信纸",
+    "toggle": "n. 书写纸，信纸; 信笺"
+  },
+  {
+    "text": "writing",
+    "isDanger": 0,
+    "phonetic": "/ˈraɪtɪŋ/",
+    "translation": "n. 写作",
+    "toggle": "n. 笔迹；作品；书写；著作"
+  },
+  {
+    "text": "paper",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪpə/",
+    "translation": "n. 纸",
+    "toggle": "n. 纸；文件；报纸；论文"
+  },
+  {
+    "text": "page",
+    "isDanger": 0,
+    "phonetic": "/peɪdʒ/",
+    "translation": "n. 页码",
+    "toggle": "n. 页；大事件，时期；记录；男侍者"
+  },
+  {
+    "text": "shop assistant",
+    "isDanger": 0,
+    "phonetic": "/ˈʃɒp əsɪstənt/",
+    "translation": "n. 售货员",
+    "toggle": "店员"
+  },
+  {
+    "text": "size",
+    "isDanger": 0,
+    "phonetic": "/saɪz/",
+    "translation": "n. 尺寸，尺码，大小",
+    "toggle": "n. 大小；尺寸"
+  },
+  {
+    "text": "pad",
+    "isDanger": 0,
+    "phonetic": "/pæd/",
+    "translation": "n. 信笺簿",
+    "toggle": "n. 衬垫；护具；便笺簿；填补； vi. 步行；放轻脚步走； vt. 填补；走"
+  },
+  {
+    "text": "glue",
+    "isDanger": 0,
+    "phonetic": "/ɡluː/",
+    "translation": "n. 胶水",
+    "toggle": "vt. 粘合；似胶般固着于"
+  },
+  {
+    "text": "chalk",
+    "isDanger": 0,
+    "phonetic": "/tʃɔːk/",
+    "translation": "n. 粉笔",
+    "toggle": "vt. 用粉笔写；用白垩粉擦；记录；规划"
+  },
+  {
+    "text": "change",
+    "isDanger": 1,
+    "phonetic": "/tʃeɪndʒ/",
+    "translation": "n. 零钱，找给的钱",
+    "toggle": "vt. 改变；交换"
+  }
+]

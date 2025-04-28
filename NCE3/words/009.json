@@ -1,0 +1,86 @@
+[
+  {
+    "text": "fascinate",
+    "isDanger": 0,
+    "phonetic": "/ˈfæsɪneɪt/",
+    "translation": "v. 迷住，吸引住",
+    "toggle": "vt. 使着迷，使神魂颠倒"
+  },
+  {
+    "text": "affectionate",
+    "isDanger": 0,
+    "phonetic": "/əˈfekʃənət/",
+    "translation": "adj. 充满深情的，柔情的",
+    "toggle": "adj. 充满深情的；深情的"
+  },
+  {
+    "text": "mysterious",
+    "isDanger": 0,
+    "phonetic": "/mɪˈstɪəriəs/",
+    "translation": "adj. 神秘的，难以理解的",
+    "toggle": "adj. 神秘的；不可思议的；难解的"
+  },
+  {
+    "text": "submissive",
+    "isDanger": 0,
+    "phonetic": "/səbˈmɪsɪv/",
+    "translation": "adj. 服从的，顺从的",
+    "toggle": "adj. 服从的；柔顺的；顺从的"
+  },
+  {
+    "text": "feline",
+    "isDanger": 0,
+    "phonetic": "/ˈfiːlaɪn/",
+    "translation": "adj. 猫的",
+    "toggle": "adj. 猫科的；猫一样的；狡猾的"
+  },
+  {
+    "text": "independence",
+    "isDanger": 0,
+    "phonetic": "/ˌɪndɪˈpendəns/",
+    "translation": "n. 独立，独立性",
+    "toggle": "n. 独立性，自立性；自主"
+  },
+  {
+    "text": "high-rise",
+    "isDanger": 0,
+    "phonetic": "/ˈhaɪ raɪz/",
+    "translation": "adj. 高层的",
+    "toggle": "adj. 高楼的；超高层的"
+  },
+  {
+    "text": "windowsill",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪndəʊsɪl/",
+    "translation": "n. 窗槛、窗台",
+    "toggle": "n. [建] 窗台；[建] 窗沿"
+  },
+  {
+    "text": "paratrooper",
+    "isDanger": 0,
+    "phonetic": "/ˈpærətruːpə(r)/",
+    "translation": "n. 伞兵",
+    "toggle": "n. 伞兵"
+  },
+  {
+    "text": "squirrel",
+    "isDanger": 0,
+    "phonetic": "/ˈskwɪrəl/",
+    "translation": "n. 松鼠",
+    "toggle": "n. 松鼠；松鼠毛皮"
+  },
+  {
+    "text": "air-resistance",
+    "isDanger": 0,
+    "phonetic": "/er rɪˈzɪstəns/",
+    "translation": "n. 空气阻力",
+    "toggle": "n. 气阻"
+  },
+  {
+    "text": "impact",
+    "isDanger": 1,
+    "phonetic": "/ˈɪmpækt/",
+    "translation": "n. 冲击力",
+    "toggle": "vt. 撞击；冲突；影响；压紧"
+  }
+]

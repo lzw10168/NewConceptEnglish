@@ -1,0 +1,58 @@
+[
+  {
+    "text": "solid",
+    "isDanger": 0,
+    "phonetic": "/ˈsɒlɪd/",
+    "translation": "adj. 坚实的",
+    "toggle": "adj. 固体的；结实的；可靠的；一致的；立体的"
+  },
+  {
+    "text": "safe",
+    "isDanger": 1,
+    "phonetic": "/seɪf/",
+    "translation": "n. 保险柜",
+    "toggle": "adj. 安全的；可靠的；平安的"
+  },
+  {
+    "text": "Ulyanovsk",
+    "isDanger": 0,
+    "phonetic": "/u:ˈljɑ:nɔfsk/",
+    "translation": "n. 乌里扬诺夫斯克",
+    "toggle": "乌里扬诺夫斯克[苏联伏尔加河中游城市](旧称辛比尔斯克)"
+  },
+  {
+    "text": "commission",
+    "isDanger": 0,
+    "phonetic": "/kəˈmɪʃ(ə)n/",
+    "translation": "n. 委员会",
+    "toggle": "n. 犯；佣金；委任；委任状；委员会"
+  },
+  {
+    "text": "opaque",
+    "isDanger": 0,
+    "phonetic": "/əʊˈpeɪk/",
+    "translation": "adj. 不透明的",
+    "toggle": "adj. 不透明的；不传热的；迟钝的"
+  },
+  {
+    "text": "Lotto",
+    "isDanger": 0,
+    "phonetic": "/ˈlɒtəʊ/",
+    "translation": "n. 一种有编号的纸牌",
+    "toggle": "n.一种对号码的牌戏;乐透"
+  },
+  {
+    "text": "slipper",
+    "isDanger": 0,
+    "phonetic": "/ˈslɪpə(r)/",
+    "translation": "n. 拖鞋",
+    "toggle": "n. 拖鞋"
+  },
+  {
+    "text": "blindfold",
+    "isDanger": 0,
+    "phonetic": "/ˈblaɪndfəʊld/",
+    "translation": "adj. & adv. 被蒙上眼睛的",
+    "toggle": "vt. 蒙住 … 的眼睛；挡住 … 的视线；使 … 模糊不清"
+  }
+]

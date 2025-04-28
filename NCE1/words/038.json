@@ -1,0 +1,65 @@
+[
+  {
+    "text": "ago",
+    "isDanger": 1,
+    "phonetic": "/əˈɡəʊ/",
+    "translation": "adv. 以前",
+    "toggle": "adv. 以前，以往"
+  },
+  {
+    "text": "buy",
+    "isDanger": 0,
+    "phonetic": "/baɪ/",
+    "translation": "v. 买",
+    "toggle": "vt. 购买；获得；贿赂"
+  },
+  {
+    "text": "pair",
+    "isDanger": 0,
+    "phonetic": "/peə(r)/",
+    "translation": "n. 双，对",
+    "toggle": "n. 一对，一双，一副"
+  },
+  {
+    "text": "fashion",
+    "isDanger": 0,
+    "phonetic": "/ˈfæʃ(ə)n/",
+    "translation": "n. (服装的)流行式样",
+    "toggle": "n. 样式；时尚；时装；时髦人物"
+  },
+  {
+    "text": "uncomfortable",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈkʌmftəb(ə)l/",
+    "translation": "adj. 不舒服的",
+    "toggle": "adj. 不安的；不舒服的"
+  },
+  {
+    "text": "comfortable",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌmftəb(ə)l/",
+    "translation": "adj. 舒适的",
+    "toggle": "adj. 舒适的，舒服的"
+  },
+  {
+    "text": "wear",
+    "isDanger": 1,
+    "phonetic": "/weə(r)/",
+    "translation": "v. 穿着 wore",
+    "toggle": "vt. 穿着，戴；磨损"
+  },
+  {
+    "text": "put on",
+    "isDanger": 0,
+    "phonetic": "/pʊt ɒn/",
+    "translation": "v. 穿上",
+    "toggle": "表演(节目)，举办，展出，增加(体重)"
+  },
+  {
+    "text": "take off",
+    "isDanger": 0,
+    "phonetic": "/teɪk ɒf/",
+    "translation": "v. 脱下",
+    "toggle": "脱掉; 起飞; （使）离开; 突然成功"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "text": "lift",
+    "isDanger": 0,
+    "phonetic": "/lɪft/",
+    "translation": "n. 电梯",
+    "toggle": "vt. 举起；提升；空运；鼓舞； [ 口 ] 抄袭"
+  },
+  {
+    "text": "monstrous",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒnstrəs/",
+    "translation": "adj. 极大的，可怕的",
+    "toggle": "adj. 巨大的；怪异的；荒谬的；畸形的"
+  },
+  {
+    "text": "negligence",
+    "isDanger": 0,
+    "phonetic": "/ˈneɡlɪdʒəns/",
+    "translation": "n. 粗心大意",
+    "toggle": "n. 粗心大意；忽视；疏忽"
+  },
+  {
+    "text": "prudent",
+    "isDanger": 0,
+    "phonetic": "/ˈpruːd(ə)nt/",
+    "translation": "adj. 谨慎的",
+    "toggle": "adj. 谨慎的；节俭的；精明的"
+  },
+  {
+    "text": "composure",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpəʊʒə(r)/",
+    "translation": "n. 镇静，沉着",
+    "toggle": "n. 镇静；沉着"
+  },
+  {
+    "text": "intruder",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtruːdə(r)/",
+    "translation": "n. 入侵者（尤指欲行窃者）",
+    "toggle": "n. 干扰者；侵入者；妨碍者"
+  },
+  {
+    "text": "lurk",
+    "isDanger": 0,
+    "phonetic": "/lɜːk/",
+    "translation": "v. 潜藏",
+    "toggle": "vi. 潜伏；埋伏；潜藏"
+  },
+  {
+    "text": "hinder",
+    "isDanger": 0,
+    "phonetic": "/ˈhɪndə(r)/",
+    "translation": "v. 妨碍",
+    "toggle": "vi. 成为阻碍"
+  },
+  {
+    "text": "fingerprint",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪŋɡəprɪnt/",
+    "translation": "n. 指纹",
+    "toggle": "n. 指纹；手印"
+  },
+  {
+    "text": "chaos",
+    "isDanger": 0,
+    "phonetic": "/ˈkeɪɒs/",
+    "translation": "n. 混乱，无秩序",
+    "toggle": "n. 混沌，混乱"
+  },
+  {
+    "text": "inconceivable",
+    "isDanger": 0,
+    "phonetic": "/ˌɪnkənˈsiːvəbl/",
+    "translation": "adj. 不可思议的",
+    "toggle": "adj.不可思议的；难以置信的；不能想象的；非凡的"
+  },
+  {
+    "text": "balcony",
+    "isDanger": 0,
+    "phonetic": "/ˈbælkəni/",
+    "translation": "n. 阳台",
+    "toggle": "n. 阳台；包厢；戏院楼厅"
+  },
+  {
+    "text": "veritable",
+    "isDanger": 0,
+    "phonetic": "/ˈverɪtəb(ə)l/",
+    "translation": "adj. 真正的；地地道道的",
+    "toggle": "adj. 真正的，名副其实的"
+  },
+  {
+    "text": "fussy",
+    "isDanger": 0,
+    "phonetic": "/ˈfʌsi/",
+    "translation": "n. 大惊小怪的；小题大作的",
+    "toggle": "adj. 爱挑剔的，难取悦的；易烦恼的"
+  },
+  {
+    "text": "magpie",
+    "isDanger": 0,
+    "phonetic": "/ˈmæɡpaɪ/",
+    "translation": "n. 喜欢收藏物品的人",
+    "toggle": "n.鹊"
+  },
+  {
+    "text": "toss",
+    "isDanger": 0,
+    "phonetic": "/tɒs/",
+    "translation": "v. 扔",
+    "toggle": "n. 投掷；摇荡；投掷的距离；掷币赌胜负"
+  },
+  {
+    "text": "discard",
+    "isDanger": 0,
+    "phonetic": "/dɪˈskɑːd/",
+    "translation": "v. 丢弃",
+    "toggle": "vt. 丢弃；抛弃；放弃"
+  },
+  {
+    "text": "constable",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌnstəbl/",
+    "translation": "n. 警察",
+    "toggle": "n. 治安官，巡警；警察"
+  },
+  {
+    "text": "ransack",
+    "isDanger": 0,
+    "phonetic": "/ˈrænsæk/",
+    "translation": "v. 洗劫",
+    "toggle": "vt. 洗劫，掠夺；遍寻"
+  }
+]

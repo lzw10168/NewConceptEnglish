@@ -1,0 +1,142 @@
+[
+  {
+    "text": "week",
+    "isDanger": 1,
+    "phonetic": "/wiːk/",
+    "translation": "n. 周",
+    "toggle": "n. 周，星期"
+  },
+  {
+    "text": "London",
+    "isDanger": 0,
+    "phonetic": "/ˈlʌndən/",
+    "translation": "n. 伦敦",
+    "toggle": "n.伦敦"
+  },
+  {
+    "text": "suddenly",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌd(ə)nli/",
+    "translation": "adv. 突然地",
+    "toggle": "adv. 忽然；突然地"
+  },
+  {
+    "text": "bus stop",
+    "isDanger": 0,
+    "phonetic": "/ˈbʌs stɒp/",
+    "translation": "n. 公共汽车车站",
+    "toggle": "n. 公共汽车站"
+  },
+  {
+    "text": "bus",
+    "isDanger": 0,
+    "phonetic": "/bʌs/",
+    "translation": "n. 公共汽车",
+    "toggle": "n. 公共汽车"
+  },
+  {
+    "text": "stop",
+    "isDanger": 0,
+    "phonetic": "/stɒp/",
+    "translation": "v. 停",
+    "toggle": "vt. 堵塞；停止；断绝"
+  },
+  {
+    "text": "smile",
+    "isDanger": 0,
+    "phonetic": "/smaɪl/",
+    "translation": "v. 微笑",
+    "toggle": "vi. 微笑"
+  },
+  {
+    "text": "pleasantly",
+    "isDanger": 0,
+    "phonetic": "/ˈplezntli/",
+    "translation": "adv. 愉快地",
+    "toggle": "adv. 和蔼地，亲切地；友好地；愉快地"
+  },
+  {
+    "text": "understand",
+    "isDanger": 1,
+    "phonetic": "/ˌʌndəˈstænd/",
+    "translation": "v. 懂，明白",
+    "toggle": "vt. 懂；理解；获悉；推断；省略"
+  },
+  {
+    "text": "speak",
+    "isDanger": 1,
+    "phonetic": "/spiːk/",
+    "translation": "v. 讲，说",
+    "toggle": "vi. 说话；演讲；陈述；表明"
+  },
+  {
+    "text": "hand",
+    "isDanger": 1,
+    "phonetic": "/hænd/",
+    "translation": "n. 手",
+    "toggle": "n. 手，手艺；指针；插手；帮助"
+  },
+  {
+    "text": "pocket",
+    "isDanger": 0,
+    "phonetic": "/ˈpɒkɪt/",
+    "translation": "n. 衣袋",
+    "toggle": "n. 口袋；钱；容器"
+  },
+  {
+    "text": "phrasebook",
+    "isDanger": 0,
+    "phonetic": "/ˈfreizbuk/",
+    "translation": "n. 短语手册，常用语手册",
+    "toggle": "n. （供游客到国外旅行时用的）（外国语）常用语手册"
+  },
+  {
+    "text": "phrase",
+    "isDanger": 0,
+    "phonetic": "/freɪz/",
+    "translation": "n. 短语",
+    "toggle": "n. 成语；习语；措词"
+  },
+  {
+    "text": "slowly",
+    "isDanger": 0,
+    "phonetic": "/ˈsləʊli/",
+    "translation": "adv. 缓慢地",
+    "toggle": "adv. 缓慢地，慢慢地"
+  },
+  {
+    "text": "hurriedly",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌrɪdli/",
+    "translation": "adv. 匆忙地",
+    "toggle": "adv. 仓促地；匆忙地"
+  },
+  {
+    "text": "cut",
+    "isDanger": 1,
+    "phonetic": "/kʌt/",
+    "translation": "v. 割，切",
+    "toggle": "n. 伤口；切口；削减；（服装等的）式样； [ 体育 ] 削球；切入； vt. 切割；削减；缩短；刺痛； vi. 切割；相交；切牌；停拍；不出席； adj. 割下的；雕过的；缩减的"
+  },
+  {
+    "text": "thirstily",
+    "isDanger": 0,
+    "phonetic": "/ˈθɜːstɪli/",
+    "translation": "adv. 口渴地",
+    "toggle": "adv. 如饥似渴地"
+  },
+  {
+    "text": "go",
+    "isDanger": 1,
+    "phonetic": "/ɡəʊ/",
+    "translation": "v. 走",
+    "toggle": "vi. 走；趋于；达到；运转"
+  },
+  {
+    "text": "greet",
+    "isDanger": 0,
+    "phonetic": "/ɡriːt/",
+    "translation": "v. 问候，打招呼",
+    "toggle": "vt. 欢迎，迎接；致敬，致意；映入眼帘"
+  }
+]

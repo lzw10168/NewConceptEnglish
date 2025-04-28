@@ -1,0 +1,128 @@
+[
+  {
+    "text": "notoriously",
+    "isDanger": 0,
+    "phonetic": "/nəʊˈtɔːriəsli/",
+    "translation": "adj. （尤指因坏事）众所周知地",
+    "toggle": "adv. 恶名昭彰地；声名狼藉地；众所周知地"
+  },
+  {
+    "text": "full-time",
+    "isDanger": 0,
+    "phonetic": "/ˌfʊl ˈtaɪm/",
+    "translation": "adj. 专职的",
+    "toggle": "adj. 专职的；全日制的；全部时间的"
+  },
+  {
+    "text": "technician",
+    "isDanger": 0,
+    "phonetic": "/tekˈnɪʃ(ə)n/",
+    "translation": "n. 技师",
+    "toggle": "n. 技师，技术员；技巧纯熟的人"
+  },
+  {
+    "text": "software",
+    "isDanger": 0,
+    "phonetic": "/ˈsɒftweə(r)/",
+    "translation": "n. 软件",
+    "toggle": "n. 软件"
+  },
+  {
+    "text": "IBM",
+    "isDanger": 0,
+    "phonetic": "/,aɪbi'ɛm/",
+    "translation": "n. (美国)国际商用机器公司 (International Business Machines)",
+    "toggle": "n.美国国际商用机器公司"
+  },
+  {
+    "text": "DOS",
+    "isDanger": 0,
+    "phonetic": "/dɒs/",
+    "translation": "n. 磁盘操作系统(Disk Operating System)",
+    "toggle": "n.磁盘操作系统"
+  },
+  {
+    "text": "Microsoft",
+    "isDanger": 0,
+    "phonetic": "/ˈmaɪkrəsɒft/",
+    "translation": "n. （美国）微软公司",
+    "toggle": "n. 微软公司（全球知名的 PC 软件主要厂商）"
+  },
+  {
+    "text": "user-friendly",
+    "isDanger": 0,
+    "phonetic": "/ˌjuːzə ˈfrendli/",
+    "translation": "adj. 容易操作的，好用的",
+    "toggle": "adj. 容易使用的"
+  },
+  {
+    "text": "mainframe",
+    "isDanger": 0,
+    "phonetic": "/ˈmeɪnfreɪm/",
+    "translation": "n. 主机，中央处理机",
+    "toggle": "n. 主机；大型机"
+  },
+  {
+    "text": "multimedia",
+    "isDanger": 0,
+    "phonetic": "/ˌmʌltiˈmiːdiə/",
+    "translation": "adj. 多媒体的",
+    "toggle": "n. 多媒体"
+  },
+  {
+    "text": "alternative",
+    "isDanger": 0,
+    "phonetic": "/ɔːlˈtɜːnətɪv/",
+    "translation": "adj. 选择的",
+    "toggle": "adj.(只做定语)供选择的；选择性的；交替的"
+  },
+  {
+    "text": "diagnose",
+    "isDanger": 0,
+    "phonetic": "/ˈdaɪəɡnəʊz/",
+    "translation": "v. 诊断",
+    "toggle": "vt. 诊断；断定"
+  },
+  {
+    "text": "relieve",
+    "isDanger": 0,
+    "phonetic": "/rɪˈliːv/",
+    "translation": "v. 减轻",
+    "toggle": "vt. 解除，减轻；使不单调乏味；换 … 的班；解围；使放心"
+  },
+  {
+    "text": "accountant",
+    "isDanger": 0,
+    "phonetic": "/əˈkaʊntənt/",
+    "translation": "n. 会计",
+    "toggle": "n. 会计师；会计人员"
+  },
+  {
+    "text": "repetitive",
+    "isDanger": 0,
+    "phonetic": "/rɪˈpetətɪv/",
+    "translation": "adj. 重复的",
+    "toggle": "adj. 重复的"
+  },
+  {
+    "text": "clerical",
+    "isDanger": 0,
+    "phonetic": "/ˈklerɪkl/",
+    "translation": "adj. 办公室工作的",
+    "toggle": "adj. 牧师的；办事员的；书记的"
+  },
+  {
+    "text": "Internet",
+    "isDanger": 0,
+    "phonetic": "/ˈɪntənet/",
+    "translation": "n. 国际交互网",
+    "toggle": "n. 因特网(The Internet)"
+  },
+  {
+    "text": "network",
+    "isDanger": 0,
+    "phonetic": "/ˈnetwɜːk/",
+    "translation": "n. 网络",
+    "toggle": "n. 网络；网状物；广播网"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "text": "loom",
+    "isDanger": 0,
+    "phonetic": "/luːm/",
+    "translation": "v. 赫然耸起",
+    "toggle": "n. 织布机；若隐若现的景象"
+  },
+  {
+    "text": "manifest",
+    "isDanger": 0,
+    "phonetic": "/ˈmænɪfest/",
+    "translation": "adj. 明显的",
+    "toggle": "vt. 证明，表明；显示"
+  },
+  {
+    "text": "morality",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 道德",
+    "toggle": "n. 道德；品行，美德"
+  },
+  {
+    "text": "communicate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 交流，交际",
+    "toggle": "vi. 通讯，传达；相通；感染"
+  },
+  {
+    "text": "compound",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒmpaʊnd/",
+    "translation": "adj. 复合的",
+    "toggle": "vt. 混合；合成；和解妥协；搀合"
+  },
+  {
+    "text": "enhance",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 增进",
+    "toggle": "vt. 提高；增加；加强"
+  },
+  {
+    "text": "tempo",
+    "isDanger": 0,
+    "phonetic": "/ˈtempəʊ/",
+    "translation": "n. 速率",
+    "toggle": "n. 拍子；速度，发展速度"
+  },
+  {
+    "text": "trickle",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 涓涓细流",
+    "toggle": "vi. 滴；细细地流；慢慢地移动"
+  },
+  {
+    "text": "torrent",
+    "isDanger": 0,
+    "phonetic": "/ˈtɒrənt/",
+    "translation": "n. 滔滔洪流",
+    "toggle": "n. 奔流；倾注；迸发；连续不断"
+  },
+  {
+    "text": "humanity",
+    "isDanger": 0,
+    "phonetic": "/hjuːˈmænəti/",
+    "translation": "n. 人类",
+    "toggle": "n. 人类；人道；仁慈；人文学科"
+  },
+  {
+    "text": "indifferently",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 不在乎地",
+    "toggle": ""
+  },
+  {
+    "text": "grimly",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 可怖地",
+    "toggle": "adv. 可怕地；冷酷地；严格地"
+  },
+  {
+    "text": "whimsical",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 怪诞的",
+    "toggle": "adj. 古怪的；异想天开的；反复无常的"
+  },
+  {
+    "text": "shatter",
+    "isDanger": 0,
+    "phonetic": "/ˈʃætə(r)/",
+    "translation": "v. 毁坏",
+    "toggle": "vt. 打碎；破掉；使散开；粉碎；破坏"
+  },
+  {
+    "text": "twofold",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 双重的",
+    "toggle": "adj. 双重的；两倍的"
+  }
+]

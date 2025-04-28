@@ -1,0 +1,93 @@
+[
+  {
+    "text": "hoax",
+    "isDanger": 0,
+    "phonetic": "/həʊks/",
+    "translation": "n. 骗局，戏弄",
+    "toggle": "vt. 愚弄；欺骗(practical joke)"
+  },
+  {
+    "text": "deception",
+    "isDanger": 0,
+    "phonetic": "/dɪˈsepʃn/",
+    "translation": "n. 欺骗，骗局",
+    "toggle": "n. 欺骗，欺诈；骗术"
+  },
+  {
+    "text": "self-respecting",
+    "isDanger": 0,
+    "phonetic": "/ˌself rɪˈspektɪŋ/",
+    "translation": "adj. 自重的",
+    "toggle": "adj.有自尊心的；自重的"
+  },
+  {
+    "text": "indulge",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈdʌldʒ/",
+    "translation": "v. 使沉迷",
+    "toggle": "vt. 满足；使沉迷于 … ；使高兴；纵容"
+  },
+  {
+    "text": "pneumatic",
+    "isDanger": 0,
+    "phonetic": "/njuːˈmætɪk/",
+    "translation": "adj. 气动的",
+    "toggle": "adj. 气动的；有气胎的；充气的"
+  },
+  {
+    "text": "drill",
+    "isDanger": 0,
+    "phonetic": "/drɪl/",
+    "translation": "n. 钻",
+    "toggle": "n. 钻子；钻孔机；播种机；训练"
+  },
+  {
+    "text": "silly",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪli/",
+    "translation": "adj. 无意义的，无聊的",
+    "toggle": "adj. 愚蠢的"
+  },
+  {
+    "text": "advance",
+    "isDanger": 0,
+    "phonetic": "/ədˈvɑːns/",
+    "translation": "adj. 预先的，事先获得的",
+    "toggle": "n. 前进；预付款；发展；增长"
+  },
+  {
+    "text": "archway",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːtʃweɪ/",
+    "translation": "n. 拱形门楼",
+    "toggle": "n. 拱道；拱门"
+  },
+  {
+    "text": "remonstrate",
+    "isDanger": 0,
+    "phonetic": "/ˈremənstreɪt/",
+    "translation": "v. 规劝，告诫",
+    "toggle": "vt.责备，告诫；抗议；表示异议"
+  },
+  {
+    "text": "ironically",
+    "isDanger": 0,
+    "phonetic": "/aɪˈrɒnɪkli/",
+    "translation": "adv. 讽刺地",
+    "toggle": "adv. 讽刺地；说反话地"
+  },
+  {
+    "text": "permission",
+    "isDanger": 0,
+    "phonetic": "/pəˈmɪʃ(ə)n/",
+    "translation": "n. 许可",
+    "toggle": "n. 允许，许可"
+  },
+  {
+    "text": "grant",
+    "isDanger": 1,
+    "phonetic": "/ɡrɑːnt/",
+    "translation": "v. 同意，准予",
+    "toggle": "vt. 授予；承认；允许"
+  }
+]

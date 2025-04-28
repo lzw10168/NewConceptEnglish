@@ -1,0 +1,93 @@
+[
+  {
+    "text": "Mercury",
+    "isDanger": 0,
+    "phonetic": "/ˈmɜːkjəri/",
+    "translation": "n. 水星",
+    "toggle": "n. 水银；水银柱；精神"
+  },
+  {
+    "text": "Hydrogen",
+    "isDanger": 0,
+    "phonetic": "/ˈhaɪdrədʒən/",
+    "translation": "n. 氢气",
+    "toggle": "n. 氢"
+  },
+  {
+    "text": "prevailing",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 普遍的",
+    "toggle": "adj. 一般的，最普通的；盛行很广的；占优势的；流行的"
+  },
+  {
+    "text": "radio astronomer",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 射电天方学家",
+    "toggle": ""
+  },
+  {
+    "text": "megacycle",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 兆周",
+    "toggle": ""
+  },
+  {
+    "text": "uniquely",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 唯一地",
+    "toggle": "adv. 独特地；珍奇地"
+  },
+  {
+    "text": "rational",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 合理的",
+    "toggle": "adj. 理性的；合理的"
+  },
+  {
+    "text": "radio frequency",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 无线电频率",
+    "toggle": ""
+  },
+  {
+    "text": "cm",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 厘米",
+    "toggle": ""
+  },
+  {
+    "text": "emission",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmɪʃ(ə)n/",
+    "translation": "n. 散发",
+    "toggle": "n. （光、热等的）发射，散发；喷射；发行"
+  },
+  {
+    "text": "intersteller",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 星际的",
+    "toggle": ""
+  },
+  {
+    "text": "rendezvous",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 约会地点",
+    "toggle": "n. 约会；约会地点；集结地"
+  },
+  {
+    "text": "encounter",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈkaʊntə(r)/",
+    "translation": "n. 相遇",
+    "toggle": "vt. 遭遇，邂逅；遇到"
+  }
+]

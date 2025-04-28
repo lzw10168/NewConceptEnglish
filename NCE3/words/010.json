@@ -1,0 +1,149 @@
+[
+  {
+    "text": "Southampton",
+    "isDanger": 0,
+    "phonetic": "/saʊθˈhæmptən/",
+    "translation": "n. 南安普敦(英国港市)",
+    "toggle": "n. 南安普敦（英国港市）"
+  },
+  {
+    "text": "colossal",
+    "isDanger": 0,
+    "phonetic": "/kəˈlɒs(ə)l/",
+    "translation": "adj. 庞大的",
+    "toggle": "adj. 巨大的；异常的，非常的"
+  },
+  {
+    "text": "watertight",
+    "isDanger": 0,
+    "phonetic": "/ˈwɔːtətaɪt/",
+    "translation": "adj. 不漏水的",
+    "toggle": "adj. （容器或房间）防漏水的，水密的"
+  },
+  {
+    "text": "compartment",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpɑːtmənt/",
+    "translation": "n. (轮船的) 密封舱",
+    "toggle": "n. 隔间；区划；卧车上的小客房"
+  },
+  {
+    "text": "flood",
+    "isDanger": 0,
+    "phonetic": "/flʌd/",
+    "translation": "v. 充满水",
+    "toggle": "vt. 淹没；充满；溢出"
+  },
+  {
+    "text": "float",
+    "isDanger": 1,
+    "phonetic": "/fləʊt/",
+    "translation": "v. 漂浮",
+    "toggle": "vt. 使漂浮；实行"
+  },
+  {
+    "text": "tragic",
+    "isDanger": 0,
+    "phonetic": "/ˈtrædʒɪk/",
+    "translation": "adj. 悲惨的",
+    "toggle": "adj. 悲剧的；悲痛的，不幸的"
+  },
+  {
+    "text": "liner",
+    "isDanger": 0,
+    "phonetic": "/ˈlaɪnə(r)/",
+    "translation": "n. 班船",
+    "toggle": "n. 班轮，班机；衬垫；画线者"
+  },
+  {
+    "text": "voyage",
+    "isDanger": 0,
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "translation": "n. 航行",
+    "toggle": "n. 航行；航程；旅行记"
+  },
+  {
+    "text": "iceberg",
+    "isDanger": 0,
+    "phonetic": "/ˈaɪsbɜːɡ/",
+    "translation": "n. 冰山",
+    "toggle": "n. 冰山；显露部分"
+  },
+  {
+    "text": "lookout",
+    "isDanger": 0,
+    "phonetic": "/ˈlʊkaʊt/",
+    "translation": "n. 瞭望员",
+    "toggle": "n. 监视哨；警戒；监视；守望者； [ 口 ] 担心的事"
+  },
+  {
+    "text": "collision",
+    "isDanger": 0,
+    "phonetic": "/kəˈlɪʒ(ə)n/",
+    "translation": "n. 碰撞",
+    "toggle": "n. 冲突；碰撞"
+  },
+  {
+    "text": "narrowly",
+    "isDanger": 0,
+    "phonetic": "/ˈnærəʊli/",
+    "translation": "adv. 刚刚(好地)，勉强地",
+    "toggle": "adv. 勉强地；严密地；狭窄地；仔细地"
+  },
+  {
+    "text": "miss",
+    "isDanger": 1,
+    "phonetic": "/mɪs/",
+    "translation": "v. 避开",
+    "toggle": "vt. 漏掉；错过；想念"
+  },
+  {
+    "text": "slight",
+    "isDanger": 0,
+    "phonetic": "/slaɪt/",
+    "translation": "adj. 轻微的",
+    "toggle": "adj. 轻微的，少量的；脆弱的；细长的；不重要的"
+  },
+  {
+    "text": "tremble",
+    "isDanger": 0,
+    "phonetic": "/ˈtremb(ə)l/",
+    "translation": "v. 震颤",
+    "toggle": "vi. 战栗；焦虑；发抖；摇晃"
+  },
+  {
+    "text": "faint",
+    "isDanger": 0,
+    "phonetic": "/feɪnt/",
+    "translation": "adj. 微弱的",
+    "toggle": "adj. 头晕的；虚弱的；模糊的；衰弱的"
+  },
+  {
+    "text": "horror",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒrə(r)/",
+    "translation": "n. 恐惧",
+    "toggle": "n. 惊骇；惨状；极端厌恶；令人恐怖的事物"
+  },
+  {
+    "text": "abandon",
+    "isDanger": 0,
+    "phonetic": "/əˈbændən/",
+    "translation": "v. 抛弃",
+    "toggle": "n. 狂热；放任"
+  },
+  {
+    "text": "plunge",
+    "isDanger": 0,
+    "phonetic": "/plʌndʒ/",
+    "translation": "v. 投入，跳入",
+    "toggle": "n. 投入；跳进"
+  },
+  {
+    "text": "lifeboat",
+    "isDanger": 0,
+    "phonetic": "/ˈlaɪfbəʊt/",
+    "translation": "n. 救生船",
+    "toggle": "n. 救生艇，救生船"
+  }
+]

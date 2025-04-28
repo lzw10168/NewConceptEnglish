@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Egypt",
+    "isDanger": 0,
+    "phonetic": "/ˈiːdʒɪpt/",
+    "translation": "n. 埃及",
+    "toggle": "n.埃及"
+  },
+  {
+    "text": "abroad",
+    "isDanger": 0,
+    "phonetic": "/əˈbrɔːd/",
+    "translation": "adv. 国外",
+    "toggle": "adv. 到海外；在国外"
+  },
+  {
+    "text": "worry",
+    "isDanger": 1,
+    "phonetic": "/ˈwʌri/",
+    "translation": "v. 担忧",
+    "toggle": "n. 烦恼；担心；撕咬"
+  },
+  {
+    "text": "Egyptian",
+    "isDanger": 0,
+    "phonetic": "/iˈdʒɪpʃn/",
+    "translation": "n. 埃及人",
+    "toggle": "adj. 埃及的；埃及人的"
+  },
+  {
+    "text": "problem",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒbləm/",
+    "translation": "n. 麻烦",
+    "toggle": "n. 难题；引起麻烦的人"
+  }
+]

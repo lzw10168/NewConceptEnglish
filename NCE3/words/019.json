@@ -1,0 +1,86 @@
+[
+  {
+    "text": "dear",
+    "isDanger": 1,
+    "phonetic": "/dɪə(r)/",
+    "translation": "adj. 亲爱的；珍贵的；昂贵的",
+    "toggle": "adj. 亲爱的；昂贵的；尊敬的"
+  },
+  {
+    "text": "kidnapper",
+    "isDanger": 0,
+    "phonetic": "/ˈkɪdnæpə(r)/",
+    "translation": "n. 绑架者，拐骗者",
+    "toggle": "n. 绑匪；诱拐者"
+  },
+  {
+    "text": "considerable",
+    "isDanger": 0,
+    "phonetic": "/kənˈsɪdərəb(ə)l/",
+    "translation": "adj. 相当大的",
+    "toggle": "adj. 重要的，值得考虑的；相当大的"
+  },
+  {
+    "text": "wealthy",
+    "isDanger": 0,
+    "phonetic": "/ˈwelθi/",
+    "translation": "adj. 富的，有钱的",
+    "toggle": "adj. 富有的；充分的；丰裕的"
+  },
+  {
+    "text": "orderly",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːdəli/",
+    "translation": "adj. 有规律的",
+    "toggle": "adj. 整齐的；值班的；有秩序的"
+  },
+  {
+    "text": "disappearance",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsəˈpɪərəns/",
+    "translation": "n. 失踪",
+    "toggle": "n. 消失；不见"
+  },
+  {
+    "text": "anonymous",
+    "isDanger": 0,
+    "phonetic": "/əˈnɒnɪməs/",
+    "translation": "adj. 匿名的",
+    "toggle": "adj. 匿名的，无名的；无个性特征的"
+  },
+  {
+    "text": "ransom",
+    "isDanger": 0,
+    "phonetic": "/ˈrænsəm/",
+    "translation": "n. 赎金",
+    "toggle": "vt. 赎回，赎；勒索赎金；得赎金后释放； [ 宗 ] 救赎"
+  },
+  {
+    "text": "cardboard",
+    "isDanger": 0,
+    "phonetic": "/ˈkɑːdbɔːd/",
+    "translation": "n. 硬纸板",
+    "toggle": "n. 硬纸板；卡纸板；纸板箱"
+  },
+  {
+    "text": "withdraw",
+    "isDanger": 0,
+    "phonetic": "/wɪðˈdrɔː/",
+    "translation": "v. (从银行)取钱",
+    "toggle": "vt. 撤消；收回；撤退；拉开"
+  },
+  {
+    "text": "punctually",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌŋktʃuəli/",
+    "translation": "adv. 准时地",
+    "toggle": "adv. 准时地，如期地"
+  },
+  {
+    "text": "astound",
+    "isDanger": 0,
+    "phonetic": "/əˈstaʊnd/",
+    "translation": "v. 使吃惊",
+    "toggle": "vt. 使惊骇；使震惊"
+  }
+]

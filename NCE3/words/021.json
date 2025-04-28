@@ -1,0 +1,128 @@
+[
+  {
+    "text": "boxing",
+    "isDanger": 0,
+    "phonetic": "/ˈbɒksɪŋ/",
+    "translation": "n. 拳击",
+    "toggle": "n. 拳击；装箱；围模；做箱的材料"
+  },
+  {
+    "text": "boxer",
+    "isDanger": 0,
+    "phonetic": "/ˈbɒksə(r)/",
+    "translation": "n. 拳击手",
+    "toggle": "n. 拳师，拳击手"
+  },
+  {
+    "text": "bare",
+    "isDanger": 0,
+    "phonetic": "/beə(r)/",
+    "translation": "adj. 赤裸的",
+    "toggle": "adj. 空的；赤裸的，无遮蔽的"
+  },
+  {
+    "text": "prizefighter",
+    "isDanger": 0,
+    "phonetic": "/ˈpraɪzfaɪtə(r)/",
+    "translation": "n. 职业拳击手(尤指 古时赤手拳击手)",
+    "toggle": "n. 职业拳击手"
+  },
+  {
+    "text": "crude",
+    "isDanger": 0,
+    "phonetic": "/kruːd/",
+    "translation": "adj. 粗野的",
+    "toggle": "adj. 粗糙的；粗鲁的；天然的，未加工的"
+  },
+  {
+    "text": "marquis",
+    "isDanger": 0,
+    "phonetic": "/ˈmɑːkwɪs/",
+    "translation": "n. 侯爵",
+    "toggle": "n. （法）侯爵；世袭贵族（等于 marquess）"
+  },
+  {
+    "text": "technically",
+    "isDanger": 0,
+    "phonetic": "/ˈteknɪkli/",
+    "translation": "adv. 严格根据法律意义地",
+    "toggle": "adv. 技术上；专门地；工艺上；学术上"
+  },
+  {
+    "text": "science",
+    "isDanger": 0,
+    "phonetic": "/ˈsaɪəns/",
+    "translation": "n. 科学",
+    "toggle": "n. 科学；理科；技术；学科"
+  },
+  {
+    "text": "popularity",
+    "isDanger": 0,
+    "phonetic": "/ˌpɒpjuˈlærəti/",
+    "translation": "n. 名望",
+    "toggle": "n. 普及，流行；名气；受大众欢迎"
+  },
+  {
+    "text": "adore",
+    "isDanger": 1,
+    "phonetic": "/əˈdɔː(r)/",
+    "translation": "v. 崇拜，爱戴",
+    "toggle": "vt. 爱慕；崇拜；喜爱； [ 口 ] 极喜欢"
+  },
+  {
+    "text": "alike",
+    "isDanger": 0,
+    "phonetic": "/əˈlaɪk/",
+    "translation": "adv. 一样地",
+    "toggle": "adj. 相同的；相似的"
+  },
+  {
+    "text": "fame",
+    "isDanger": 0,
+    "phonetic": "/feɪm/",
+    "translation": "n. 名声",
+    "toggle": "n. 名声，名望； [ 古 ] 传闻，传说"
+  },
+  {
+    "text": "eminent",
+    "isDanger": 0,
+    "phonetic": "/ˈemɪnənt/",
+    "translation": "adj. 著名的，杰出的",
+    "toggle": "adj. 杰出的；有名的；明显的"
+  },
+  {
+    "text": "bitterly",
+    "isDanger": 0,
+    "phonetic": "/ˈbɪtəli/",
+    "translation": "adv. 厉害地",
+    "toggle": "adv. 残酷地；怨恨地；苦涩地，悲痛的"
+  },
+  {
+    "text": "bet",
+    "isDanger": 1,
+    "phonetic": "/bet/",
+    "translation": "v. 打赌",
+    "toggle": "n. 打赌，赌注；被打赌的事物"
+  },
+  {
+    "text": "academy",
+    "isDanger": 0,
+    "phonetic": "/əˈkædəmi/",
+    "translation": "n. 专业学校",
+    "toggle": "n. 学会；学院；研究院；专科院校"
+  },
+  {
+    "text": "extravagant",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈstrævəɡənt/",
+    "translation": "adj. 浪费的，奢侈的",
+    "toggle": "adj. 奢侈的；浪费的；过度的；放纵的"
+  },
+  {
+    "text": "poverty",
+    "isDanger": 0,
+    "phonetic": "/ˈpɒvəti/",
+    "translation": "n. 贫困",
+    "toggle": "n. 贫困；缺少；低劣；困难"
+  }
+]

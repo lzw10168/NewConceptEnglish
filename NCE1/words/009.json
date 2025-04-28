@@ -1,0 +1,51 @@
+[
+  {
+    "text": "employee",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈplɔɪiː/",
+    "translation": "n. 雇员",
+    "toggle": "n. 雇员；从业员工"
+  },
+  {
+    "text": "hard-working",
+    "isDanger": 0,
+    "phonetic": "/ˌhɑːd ˈwɜːkɪŋ/",
+    "translation": "adj. 勤奋的",
+    "toggle": "adj. 辛勤的"
+  },
+  {
+    "text": "sales reps",
+    "isDanger": 0,
+    "phonetic": "/ˈseɪlz reps/",
+    "translation": "n. 推销员",
+    "toggle": "推销员"
+  },
+  {
+    "text": "sale",
+    "isDanger": 0,
+    "phonetic": "/seɪl/",
+    "translation": "n. 销售",
+    "toggle": "n. 出售；销售额；拍卖；销售；廉价出售"
+  },
+  {
+    "text": "man",
+    "isDanger": 1,
+    "phonetic": "/mæn/",
+    "translation": "n. 男人",
+    "toggle": "n. 雇工；男人；人；人类；丈夫"
+  },
+  {
+    "text": "office",
+    "isDanger": 0,
+    "phonetic": "/ˈɒfɪs/",
+    "translation": "n. 办公室",
+    "toggle": "n. 办公室；营业处；官职；政府机关"
+  },
+  {
+    "text": "assistant",
+    "isDanger": 0,
+    "phonetic": "/əˈsɪstənt/",
+    "translation": "n. 助手",
+    "toggle": "n. 助手，助理，助教"
+  }
+]

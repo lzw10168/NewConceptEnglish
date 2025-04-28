@@ -1,0 +1,107 @@
+[
+  {
+    "text": "believe",
+    "isDanger": 1,
+    "phonetic": "/bɪˈliːv/",
+    "translation": "v. 相信，认为",
+    "toggle": "vi. 信任；料想；笃信宗教"
+  },
+  {
+    "text": "may",
+    "isDanger": 1,
+    "phonetic": "/may/",
+    "translation": "v. (用于请求许可)可以",
+    "toggle": "aux. 可能，可以；愿意"
+  },
+  {
+    "text": "how long",
+    "isDanger": 0,
+    "phonetic": "/haʊ lɒŋ/",
+    "translation": "adv. 多长",
+    "toggle": "多久；多长"
+  },
+  {
+    "text": "since",
+    "isDanger": 1,
+    "phonetic": "/sɪns/",
+    "translation": "prep. 自从",
+    "toggle": "conj. 既然；因为；由于；自 … 以来；自 … 以后"
+  },
+  {
+    "text": "why",
+    "isDanger": 1,
+    "phonetic": "/waɪ/",
+    "translation": "adv. 为什么",
+    "toggle": "int. 哎呀！什么？"
+  },
+  {
+    "text": "sell",
+    "isDanger": 1,
+    "phonetic": "/sel/",
+    "translation": "v. 卖，出售",
+    "toggle": "vt. 销售；出卖；推销；欺骗"
+  },
+  {
+    "text": "because",
+    "isDanger": 0,
+    "phonetic": "/bɪˈkəz; bɪˈkɒz/",
+    "translation": "conj. 因为",
+    "toggle": "conj. 因为"
+  },
+  {
+    "text": "retire",
+    "isDanger": 1,
+    "phonetic": "/rɪˈtaɪə(r)/",
+    "translation": "v. 退休",
+    "toggle": "vi. 退休；撤退；退却"
+  },
+  {
+    "text": "tire",
+    "isDanger": 1,
+    "phonetic": "/ˈtaɪə(r)/",
+    "translation": "n. 轮胎",
+    "toggle": "vi. 疲劳；厌倦"
+  },
+  {
+    "text": "cost",
+    "isDanger": 0,
+    "phonetic": "/kɒst/",
+    "translation": "v. 花费",
+    "toggle": "vt. 花费；使付出；使花许多钱"
+  },
+  {
+    "text": "pound",
+    "isDanger": 0,
+    "phonetic": "/paʊnd/",
+    "translation": "n. 英镑",
+    "toggle": "n. 英镑；兽栏；重击，重击声；拘留所"
+  },
+  {
+    "text": "worth",
+    "isDanger": 0,
+    "phonetic": "/wɜːθ/",
+    "translation": "prep. 值…钱",
+    "toggle": "adj. 值 … 的"
+  },
+  {
+    "text": "penny",
+    "isDanger": 0,
+    "phonetic": "/ˈpeni/",
+    "translation": "n. 便士",
+    "toggle": "n.便士,<美> 分"
+  },
+  {
+    "text": "cent",
+    "isDanger": 0,
+    "phonetic": "/sent/",
+    "translation": "n. 分",
+    "toggle": "n.(货币单位)分,分币"
+  },
+  {
+    "text": "sale",
+    "isDanger": 0,
+    "phonetic": "/seɪl/",
+    "translation": "n. 出售",
+    "toggle": "n. 出售；销售额；拍卖；销售；廉价出售"
+  }
+]

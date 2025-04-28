@@ -1,0 +1,135 @@
+[
+  {
+    "text": "justice",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒʌstɪs/",
+    "translation": "n. 正义，公正；司法",
+    "toggle": "n. 正义；司法，法律制裁；法官，审判员"
+  },
+  {
+    "text": "court",
+    "isDanger": 1,
+    "phonetic": "/kɔːt/",
+    "translation": "n. 法院",
+    "toggle": "n. 法院；朝廷；球场；奉承"
+  },
+  {
+    "text": "law",
+    "isDanger": 0,
+    "phonetic": "/lɔː/",
+    "translation": "n. 法律",
+    "toggle": "n. 法律；法学；诉讼；法治；司法界；规律"
+  },
+  {
+    "text": "innocence",
+    "isDanger": 0,
+    "phonetic": "/ˈɪnəs(ə)ns/",
+    "translation": "n. 无辜",
+    "toggle": "n. 清白，无罪；天真无邪"
+  },
+  {
+    "text": "undertake",
+    "isDanger": 0,
+    "phonetic": "/ˌʌndəˈteɪk/",
+    "translation": "v. 承担；着手做",
+    "toggle": "vt. 承担，保证；从事；同意；试图"
+  },
+  {
+    "text": "arduous",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːdʒuəs/",
+    "translation": "adj. 艰苦的，艰难的",
+    "toggle": "adj. 费力的；努力的；险峻的"
+  },
+  {
+    "text": "abstract",
+    "isDanger": 0,
+    "phonetic": "/ˈæbstrækt/",
+    "translation": "adj. 抽象的",
+    "toggle": "n. 抽象；摘要；抽象的概念"
+  },
+  {
+    "text": "concept",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnsept/",
+    "translation": "n. 概念，观念",
+    "toggle": "n. 观念，概念"
+  },
+  {
+    "text": "mete out",
+    "isDanger": 0,
+    "phonetic": "/miːt aʊt/",
+    "translation": "v. 给予，处置",
+    "toggle": "分配、分发或给予（某物）"
+  },
+  {
+    "text": "interference",
+    "isDanger": 0,
+    "phonetic": "/ˌɪntəˈfɪərəns/",
+    "translation": "n. 干涉",
+    "toggle": "n. 干涉；干扰，冲突"
+  },
+  {
+    "text": "accord",
+    "isDanger": 0,
+    "phonetic": "/əˈkɔːd/",
+    "translation": "n. 一致",
+    "toggle": "n. 一致；符合；协议；自愿"
+  },
+  {
+    "text": "premises",
+    "isDanger": 0,
+    "phonetic": "/ˈpremɪsɪz/",
+    "translation": "n. 房屋",
+    "toggle": "营业场所"
+  },
+  {
+    "text": "convert",
+    "isDanger": 1,
+    "phonetic": "/kənˈvɜːt/",
+    "translation": "v. 转变，改变",
+    "toggle": "vt. 使转变；转换 … ；使 … 改变信仰"
+  },
+  {
+    "text": "disused",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsˈjuːzd/",
+    "translation": "adj. 不再用的，废弃的",
+    "toggle": "adj.废弃不用的"
+  },
+  {
+    "text": "fireplace",
+    "isDanger": 0,
+    "phonetic": "/ˈfaɪəpleɪs/",
+    "translation": "n. 壁炉",
+    "toggle": "n. 壁炉"
+  },
+  {
+    "text": "muffle",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌf(ə)l/",
+    "translation": "v. 捂住，厌抑",
+    "toggle": "vt. 蒙住；裹住；抑制；发低沉的声音"
+  },
+  {
+    "text": "chip",
+    "isDanger": 0,
+    "phonetic": "/tʃɪp/",
+    "translation": "v. 砍，削，凿",
+    "toggle": "vt. 削，凿；削成碎片"
+  },
+  {
+    "text": "blacken",
+    "isDanger": 0,
+    "phonetic": "/ˈblækən/",
+    "translation": "v. 使变黑",
+    "toggle": "vt. 使变黑；诽谤，诋毁"
+  },
+  {
+    "text": "emerge",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmɜːdʒ/",
+    "translation": "v. (从某处)岀现",
+    "toggle": "vi. 浮现；暴露；摆脱"
+  }
+]

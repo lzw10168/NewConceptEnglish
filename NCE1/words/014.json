@@ -1,0 +1,100 @@
+[
+  {
+    "text": "living room",
+    "isDanger": 0,
+    "phonetic": "/'lɪvɪŋ ru:m/",
+    "translation": "n. 客厅",
+    "toggle": "n. 起居室; 客厅;"
+  },
+  {
+    "text": "near",
+    "isDanger": 1,
+    "phonetic": "/nɪə(r)/",
+    "translation": "prep. 靠近",
+    "toggle": "adj. 近的；近似的；亲近的"
+  },
+  {
+    "text": "window",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪndəʊ/",
+    "translation": "n. 窗户",
+    "toggle": "n. 窗；窗口；窗户"
+  },
+  {
+    "text": "armchair",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːmtʃeə(r)/",
+    "translation": "n. 手扶椅",
+    "toggle": "n. 扶手椅"
+  },
+  {
+    "text": "door",
+    "isDanger": 0,
+    "phonetic": "/dɔː(r)/",
+    "translation": "n. 门",
+    "toggle": "n. 门；家，户；门口；通道"
+  },
+  {
+    "text": "picture",
+    "isDanger": 0,
+    "phonetic": "/ˈpɪktʃə(r)/",
+    "translation": "n. 图画",
+    "toggle": "n. 照片，图画；景色；影片；化身"
+  },
+  {
+    "text": "image",
+    "isDanger": 1,
+    "phonetic": "/ˈɪmɪdʒ/",
+    "translation": "n. 图片",
+    "toggle": "n. 影像；肖像；想象；偶像"
+  },
+  {
+    "text": "photo",
+    "isDanger": 0,
+    "phonetic": "/ˈfəʊtəʊ/",
+    "translation": "n. 照片",
+    "toggle": "n. 照片"
+  },
+  {
+    "text": "wall",
+    "isDanger": 0,
+    "phonetic": "/wɔːl/",
+    "translation": "n. 墙",
+    "toggle": "n. 墙壁，围墙；似墙之物"
+  },
+  {
+    "text": "The Great Wall",
+    "isDanger": 0,
+    "phonetic": "/ðə ɡreɪt wɔːl/",
+    "translation": "n. 长城",
+    "toggle": "长城; 万里长城"
+  },
+  {
+    "text": "trousers",
+    "isDanger": 0,
+    "phonetic": "/ˈtraʊzəz/",
+    "translation": "n. 〔复数〕长裤",
+    "toggle": "n. 裤子，长裤"
+  },
+  {
+    "text": "shorts",
+    "isDanger": 0,
+    "phonetic": "/ʃɔːts/",
+    "translation": "n. 短裤",
+    "toggle": "n. 短裤"
+  },
+  {
+    "text": "jeans",
+    "isDanger": 0,
+    "phonetic": "/dʒiːnz/",
+    "translation": "n. 牛仔裤",
+    "toggle": "n. 牛仔裤；工装裤"
+  },
+  {
+    "text": "pants",
+    "isDanger": 0,
+    "phonetic": "/pænts/",
+    "translation": "n. 裤子",
+    "toggle": "n.裤子,短裤"
+  }
+]

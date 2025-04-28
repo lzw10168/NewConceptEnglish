@@ -1,0 +1,170 @@
+[
+  {
+    "text": "feel",
+    "isDanger": 1,
+    "phonetic": "/fiːl/",
+    "translation": "v. 感觉",
+    "toggle": "vt. 感觉；试探；触摸；认为"
+  },
+  {
+    "text": "look",
+    "isDanger": 1,
+    "phonetic": "/lʊk/",
+    "translation": "v. 看(起来)",
+    "toggle": "vt. 看；期待；注意；面向；看上去像"
+  },
+  {
+    "text": "must",
+    "isDanger": 1,
+    "phonetic": "/mʌst/",
+    "translation": "v. 必须",
+    "toggle": "aux. 必须，一定；很可能；可以，应当"
+  },
+  {
+    "text": "call",
+    "isDanger": 1,
+    "phonetic": "/kɔːl/",
+    "translation": "v. 叫，请",
+    "toggle": "vi. 呼叫；拜访；叫牌"
+  },
+  {
+    "text": "doctor",
+    "isDanger": 0,
+    "phonetic": "/ˈdɒktə(r)/",
+    "translation": "n. 医生",
+    "toggle": "n. 医生；博士"
+  },
+  {
+    "text": "telephone",
+    "isDanger": 1,
+    "phonetic": "/ˈtelɪfəʊn/",
+    "translation": "n. 电话",
+    "toggle": "n. （美）电话；电话机；电话耳机"
+  },
+  {
+    "text": "remember",
+    "isDanger": 1,
+    "phonetic": "/rɪˈmembə(r)/",
+    "translation": "v. 记得，记住",
+    "toggle": "vt. 记得；牢记；纪念；代 … 问好"
+  },
+  {
+    "text": "mouth",
+    "isDanger": 0,
+    "phonetic": "/maʊθ/",
+    "translation": "n. 嘴",
+    "toggle": "n. 口，嘴；河口"
+  },
+  {
+    "text": "tongue",
+    "isDanger": 0,
+    "phonetic": "/tʌŋ/",
+    "translation": "n. 舌头",
+    "toggle": "n. 语言；舌头"
+  },
+  {
+    "text": "bad",
+    "isDanger": 1,
+    "phonetic": "/bæd/",
+    "translation": "adj. 坏的，严重的",
+    "toggle": "adj. 坏的；严重的；劣质的"
+  },
+  {
+    "text": "cold",
+    "isDanger": 1,
+    "phonetic": "/kəʊld/",
+    "translation": "n. 感冒",
+    "toggle": "adj. 寒冷的；冷淡的，不热情的；失去知觉的"
+  },
+  {
+    "text": "news",
+    "isDanger": 0,
+    "phonetic": "/njuːz/",
+    "translation": "n. 消息",
+    "toggle": "n. 新闻，消息；新闻报导"
+  },
+  {
+    "text": "headache",
+    "isDanger": 0,
+    "phonetic": "/ˈhedeɪk/",
+    "translation": "n. 头痛",
+    "toggle": "n. 头痛；麻烦；令人头痛之事"
+  },
+  {
+    "text": "aspirin",
+    "isDanger": 0,
+    "phonetic": "/ˈæsprɪn/",
+    "translation": "n. 阿斯匹林",
+    "toggle": "n. 阿司匹林（解热镇痛药）"
+  },
+  {
+    "text": "earache",
+    "isDanger": 0,
+    "phonetic": "/ˈɪəreɪk/",
+    "translation": "n. 耳痛",
+    "toggle": "n.耳朵痛"
+  },
+  {
+    "text": "toothache",
+    "isDanger": 0,
+    "phonetic": "/ˈtuːθeɪk/",
+    "translation": "n. 牙痛",
+    "toggle": "n.牙痛"
+  },
+  {
+    "text": "dentist",
+    "isDanger": 0,
+    "phonetic": "/ˈdentɪst/",
+    "translation": "n. 牙医",
+    "toggle": "n. 牙科医生"
+  },
+  {
+    "text": "stomach ache",
+    "isDanger": 0,
+    "phonetic": "/ˈstʌmək eɪk/",
+    "translation": "n. 胃痛",
+    "toggle": "n. 胃痛；肚子痛"
+  },
+  {
+    "text": "medicine",
+    "isDanger": 0,
+    "phonetic": "/ˈmedsn/",
+    "translation": "n. 药",
+    "toggle": "n. 药；医学；内科；巫术"
+  },
+  {
+    "text": "temperature",
+    "isDanger": 0,
+    "phonetic": "/ˈtemprətʃə(r)/",
+    "translation": "n. 温度",
+    "toggle": "n. 温度"
+  },
+  {
+    "text": "flu",
+    "isDanger": 0,
+    "phonetic": "/fluː/",
+    "translation": "n. 流行性感冒",
+    "toggle": "n. 流感"
+  },
+  {
+    "text": "measles",
+    "isDanger": 0,
+    "phonetic": "/ˈmiːz(ə)lz/",
+    "translation": "n. 麻疹",
+    "toggle": "n. 麻疹；风疹"
+  },
+  {
+    "text": "mumps",
+    "isDanger": 0,
+    "phonetic": "/mʌmps/",
+    "translation": "n. 腮腺炎",
+    "toggle": "腮腺炎"
+  },
+  {
+    "text": "pharmacy",
+    "isDanger": 0,
+    "phonetic": "/ˈfɑːməsi/",
+    "translation": "n. 药店",
+    "toggle": "n. 药房；制药业；配药学，药剂学；一批备用药品"
+  }
+]

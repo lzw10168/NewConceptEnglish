@@ -1,0 +1,107 @@
+[
+  {
+    "text": "smash-and-grab",
+    "isDanger": 0,
+    "phonetic": "/ˌsmæʃ ən ˈɡræb/",
+    "translation": "n. 砸橱窗抢劫",
+    "toggle": "n. 砸橱窗抢劫"
+  },
+  {
+    "text": "arcade",
+    "isDanger": 0,
+    "phonetic": "/ɑːˈkeɪd/",
+    "translation": "n. 有拱廊的街道(两旁常设商店)",
+    "toggle": "n. [ 建 ] 拱廊；有拱廊的街道；（内设投角子电子游戏机等的）游乐场"
+  },
+  {
+    "text": "piccadilly",
+    "isDanger": 0,
+    "phonetic": "/ˌpɪkəˈdɪli/",
+    "translation": "n. 皮卡迪利大街",
+    "toggle": "n. 皮卡迪利大街（伦敦的繁华街道）"
+  },
+  {
+    "text": "jewellery",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒuːəlri/",
+    "translation": "n. 珠宝(总称)",
+    "toggle": "n. 珠宝，首饰(总称-不可数)"
+  },
+  {
+    "text": "necklace",
+    "isDanger": 0,
+    "phonetic": "/ˈnekləs/",
+    "translation": "n. 项链",
+    "toggle": "n. 项链"
+  },
+  {
+    "text": "ring",
+    "isDanger": 1,
+    "phonetic": "/rɪŋ/",
+    "translation": "n. 戒指",
+    "toggle": "vi. 按铃；敲钟；回响；成环形"
+  },
+  {
+    "text": "background",
+    "isDanger": 0,
+    "phonetic": "/ˈbækɡraʊnd/",
+    "translation": "n. 背景",
+    "toggle": "n. 背景；隐蔽的位置"
+  },
+  {
+    "text": "velvet",
+    "isDanger": 0,
+    "phonetic": "/ˈvelvɪt/",
+    "translation": "n. 天鹅绒，丝绒",
+    "toggle": "n. 天鹅绒，丝绒；天鹅绒似的东西"
+  },
+  {
+    "text": "headlight",
+    "isDanger": 0,
+    "phonetic": "/ˈhedlaɪt/",
+    "translation": "n. (汽车等)前灯",
+    "toggle": "n. 汽车等的前灯；船上的桅灯；矿工和医生用的帽灯"
+  },
+  {
+    "text": "blare",
+    "isDanger": 0,
+    "phonetic": "/bleə(r)/",
+    "translation": "v. 发嘟嘟声，吼叫",
+    "toggle": "n. 嘟嘟声；号声；巨响"
+  },
+  {
+    "text": "staff",
+    "isDanger": 0,
+    "phonetic": "/stɑːf/",
+    "translation": "n. 全体工作人员",
+    "toggle": "n. 职员；支撑；参谋；棒"
+  },
+  {
+    "text": "raid",
+    "isDanger": 0,
+    "phonetic": "/reɪd/",
+    "translation": "n. 偷袭",
+    "toggle": "n. 袭击；突袭；搜捕；抢劫"
+  },
+  {
+    "text": "scramble",
+    "isDanger": 0,
+    "phonetic": "/ˈskræmb(ə)l/",
+    "translation": "v. 爬行",
+    "toggle": "vt. 攀登；使混杂，仓促凑成；扰乱"
+  },
+  {
+    "text": "fantastic",
+    "isDanger": 1,
+    "phonetic": "/fænˈtæstɪk/",
+    "translation": "adj. 非常大的",
+    "toggle": "adj. 奇异的；极好的；空想的；不可思议的"
+  },
+  {
+    "text": "ashtray",
+    "isDanger": 0,
+    "phonetic": "/ˈæʃtreɪ/",
+    "translation": "n. 烟灰缸",
+    "toggle": "n. 烟灰缸"
+  }
+]

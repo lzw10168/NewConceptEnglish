@@ -1,0 +1,121 @@
+[
+  {
+    "text": "suspension",
+    "isDanger": 0,
+    "phonetic": "/səˈspenʃ(ə)n/",
+    "translation": "n. 悬，吊",
+    "toggle": "n. 暂停；悬浮；停职"
+  },
+  {
+    "text": "agreeable",
+    "isDanger": 0,
+    "phonetic": "/əˈɡriːəb(ə)l/",
+    "translation": "adj. 宜人的",
+    "toggle": "adj. 令人愉快的；适合的；和蔼可亲的"
+  },
+  {
+    "text": "situation",
+    "isDanger": 0,
+    "phonetic": "/ˌsɪtʃuˈeɪʃ(ə)n/",
+    "translation": "n. 地点，地方",
+    "toggle": "n. 位置；形势；情况；处境"
+  },
+  {
+    "text": "locate",
+    "isDanger": 0,
+    "phonetic": "/ləʊˈkeɪt/",
+    "translation": "v. 位于",
+    "toggle": "vt. 位于；查找 … 的地点"
+  },
+  {
+    "text": "immortal",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmɔːt(ə)l/",
+    "translation": "adj. 永生的，流芳百世的",
+    "toggle": "adj. 长生的；不朽的；神仙的"
+  },
+  {
+    "text": "Brooklyn",
+    "isDanger": 0,
+    "phonetic": "/ˈbrʊklɪn/",
+    "translation": "n. 布鲁克林(纽约一区名)",
+    "toggle": "n. 布鲁克林（美国纽约西南部的一区）"
+  },
+  {
+    "text": "Staten",
+    "isDanger": 0,
+    "phonetic": "/ˈstætn/",
+    "translation": "n. 斯塔顿(岛)",
+    "toggle": "n. 斯塔恩（岛）"
+  },
+  {
+    "text": "span",
+    "isDanger": 1,
+    "phonetic": "/spæn/",
+    "translation": "n. 跨度",
+    "toggle": "n. 跨度，跨距；范围"
+  },
+  {
+    "text": "cable",
+    "isDanger": 0,
+    "phonetic": "/ˈkeɪb(ə)l/",
+    "translation": "n. 缆索",
+    "toggle": "n. 电缆；海底电报"
+  },
+  {
+    "text": "concrete",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒŋkriːt/",
+    "translation": "n. 混凝土",
+    "toggle": "adj. 实在的，具体的；有形的；混凝土的"
+  },
+  {
+    "text": "suspend",
+    "isDanger": 1,
+    "phonetic": "/səˈspend/",
+    "translation": "v. 悬挂",
+    "toggle": "vt. 延缓，推迟；使暂停；使悬浮； vi. 悬浮； [ 体 ] 禁赛"
+  },
+  {
+    "text": "length",
+    "isDanger": 1,
+    "phonetic": "/leŋkθ/",
+    "translation": "n. 根，段",
+    "toggle": "n. 长度，长；时间的长短；（语）音长"
+  },
+  {
+    "text": "estimate",
+    "isDanger": 0,
+    "phonetic": "/ˈestɪmət/",
+    "translation": "v. 估计",
+    "toggle": "vi. 估计，估价"
+  },
+  {
+    "text": "capacity",
+    "isDanger": 0,
+    "phonetic": "/kəˈpæsəti/",
+    "translation": "n. 承受量",
+    "toggle": "n. 能力；容量；生产力；资格，地位"
+  },
+  {
+    "text": "immensity",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmensəti/",
+    "translation": "n. 巨大",
+    "toggle": "n. 巨大，广大"
+  },
+  {
+    "text": "elegant",
+    "isDanger": 0,
+    "phonetic": "/ˈelɪɡənt/",
+    "translation": "adj. 优美别致的",
+    "toggle": "adj. 高雅的，优雅的；讲究的"
+  },
+  {
+    "text": "faintly",
+    "isDanger": 0,
+    "phonetic": "/ˈfeɪntli/",
+    "translation": "adv. 微细地",
+    "toggle": "adv. 微弱地；模糊地；虚弱地"
+  }
+]

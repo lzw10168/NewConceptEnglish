@@ -1,0 +1,128 @@
+[
+  {
+    "text": "glasses",
+    "isDanger": 0,
+    "phonetic": "/ˈɡlɑːsɪz/",
+    "translation": "n. 玻璃杯",
+    "toggle": "n.眼镜"
+  },
+  {
+    "text": "on",
+    "isDanger": 1,
+    "phonetic": "/ɒn/",
+    "translation": "prep. 在…之上",
+    "toggle": "adv. 向前地；继续着；作用中，行动中"
+  },
+  {
+    "text": "shelf",
+    "isDanger": 0,
+    "phonetic": "/ʃelf/",
+    "translation": "n. 架子，搁板",
+    "toggle": "n. 搁板；架子；搁板状物"
+  },
+  {
+    "text": "desk",
+    "isDanger": 0,
+    "phonetic": "/desk/",
+    "translation": "n. 课桌",
+    "toggle": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架"
+  },
+  {
+    "text": "table",
+    "isDanger": 0,
+    "phonetic": "/ˈteɪb(ə)l/",
+    "translation": "n. 桌子",
+    "toggle": "n. 桌子；表格；平地层"
+  },
+  {
+    "text": "plate",
+    "isDanger": 1,
+    "phonetic": "/pleɪt/",
+    "translation": "n. 盘子",
+    "toggle": "n. 金属板；碟；金属牌；感光底片"
+  },
+  {
+    "text": "dish",
+    "isDanger": 0,
+    "phonetic": "/dɪʃ/",
+    "translation": "n. 盘子、一盘食物",
+    "toggle": "n. 碟，盘；一道菜"
+  },
+  {
+    "text": "cupboard",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌbəd/",
+    "translation": "n. 食橱",
+    "toggle": "n. 食橱；碗柜"
+  },
+  {
+    "text": "cigarette",
+    "isDanger": 0,
+    "phonetic": "/ˌsɪɡəˈret/",
+    "translation": "n. 香烟",
+    "toggle": "n. 香烟；纸烟"
+  },
+  {
+    "text": "television",
+    "isDanger": 0,
+    "phonetic": "/ˈtelɪvɪʒ(ə)n/",
+    "translation": "n. 电视机",
+    "toggle": "n. 电视，电视机；电视业"
+  },
+  {
+    "text": "floor",
+    "isDanger": 0,
+    "phonetic": "/flɔː(r)/",
+    "translation": "n. 地板",
+    "toggle": "n. 地板，地面；楼层；基底；议员席"
+  },
+  {
+    "text": "dressing table",
+    "isDanger": 0,
+    "phonetic": "/ˈdresɪŋ teɪbl/",
+    "translation": "n. 梳妆台",
+    "toggle": "n.镜台，梳妆台"
+  },
+  {
+    "text": "dressing",
+    "isDanger": 0,
+    "phonetic": "/ˈdresɪŋ/",
+    "translation": "n. 打扮",
+    "toggle": "n. 穿衣；装饰；梳理；加工；调味品"
+  },
+  {
+    "text": "magazine",
+    "isDanger": 0,
+    "phonetic": "/ˌmæɡəˈziːn/",
+    "translation": "n. 杂志",
+    "toggle": "n. 杂志；弹药库；胶卷盒"
+  },
+  {
+    "text": "bed",
+    "isDanger": 0,
+    "phonetic": "/bed/",
+    "translation": "n. 床",
+    "toggle": "n. 床；基础；河底， 海底"
+  },
+  {
+    "text": "newspaper",
+    "isDanger": 0,
+    "phonetic": "/ˈnjuːzpeɪpə(r)/",
+    "translation": "n. 报纸",
+    "toggle": "n. 报纸"
+  },
+  {
+    "text": "stereo",
+    "isDanger": 0,
+    "phonetic": "/ˈsteriəʊ/",
+    "translation": "n. 立体声音响",
+    "toggle": "n. 立体声；立体声系统； [ 印 ] 铅版；立体照片"
+  },
+  {
+    "text": "radio",
+    "isDanger": 0,
+    "phonetic": "/ˈreɪdiəʊ/",
+    "translation": "n. 收音机",
+    "toggle": "n. 收音机；无线电广播设备"
+  }
+]

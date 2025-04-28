@@ -1,0 +1,86 @@
+[
+  {
+    "text": "work",
+    "isDanger": 1,
+    "phonetic": "/wɜːk/",
+    "translation": "v. 工作",
+    "toggle": "n. 工作；职业；产品；行为；文学、音乐或艺术作品；工厂；操作； [ 物 ] 功"
+  },
+  {
+    "text": "hard",
+    "isDanger": 0,
+    "phonetic": "/hɑːd/",
+    "translation": "adv. 努力地",
+    "toggle": "adj. 困难的；硬的；猛烈的；确实的；努力的；辛苦的；冷酷无情的；严厉的"
+  },
+  {
+    "text": "make",
+    "isDanger": 1,
+    "phonetic": "/meɪk/",
+    "translation": "v. 做",
+    "toggle": "vt. 制造；构成；使得；获得；引起；进行；布置，准备，整理；认为；安排；形成"
+  },
+  {
+    "text": "bookcase",
+    "isDanger": 0,
+    "phonetic": "/ˈbʊkkeɪs/",
+    "translation": "n. 书橱，书架",
+    "toggle": "n. 书柜，书架"
+  },
+  {
+    "text": "hammer",
+    "isDanger": 0,
+    "phonetic": "/ˈhæmə(r)/",
+    "translation": "n. 锤子",
+    "toggle": "vi. 敲打；锤击；重复"
+  },
+  {
+    "text": "paint",
+    "isDanger": 1,
+    "phonetic": "/peɪnt/",
+    "translation": "v. 上漆，涂",
+    "toggle": "vt. 油漆；描绘；装饰；绘画"
+  },
+  {
+    "text": "pink",
+    "isDanger": 0,
+    "phonetic": "/pɪŋk/",
+    "translation": "adj. 粉红色",
+    "toggle": "n. 粉红色；石竹花；头面人物；化身，典范"
+  },
+  {
+    "text": "favourite",
+    "isDanger": 0,
+    "phonetic": "/ˈfeɪvərɪt/",
+    "translation": "adj. 最喜欢的(英)",
+    "toggle": "adj. 特别受喜爱的"
+  },
+  {
+    "text": "favorite",
+    "isDanger": 0,
+    "phonetic": "/ˈfeɪvərɪt/",
+    "translation": "adj. 最喜欢的(美)",
+    "toggle": "n. 幸运儿；喜欢的事物；特别喜欢的人"
+  },
+  {
+    "text": "homework",
+    "isDanger": 0,
+    "phonetic": "/ˈhəʊmwɜːk/",
+    "translation": "n. 作业",
+    "toggle": "n. 家庭作业，课外作业"
+  },
+  {
+    "text": "listen",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪs(ə)n/",
+    "translation": "v. 听",
+    "toggle": "vi. 听，倾听；听从，听信"
+  },
+  {
+    "text": "dish",
+    "isDanger": 0,
+    "phonetic": "/dɪʃ/",
+    "translation": "n. 盘子，碟子",
+    "toggle": "n. 碟，盘；一道菜"
+  }
+]

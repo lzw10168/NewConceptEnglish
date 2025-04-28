@@ -1,0 +1,86 @@
+[
+  {
+    "text": "slaughter",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 屠宰",
+    "toggle": "vt. 屠宰，屠杀；杀戮；使惨败"
+  },
+  {
+    "text": "fit",
+    "isDanger": 0,
+    "phonetic": "/fɪt/",
+    "translation": "adj. 适合",
+    "toggle": "vt. 安装；使 … 适应；使 … 合身；与 … 相符"
+  },
+  {
+    "text": "grace",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 给...增光",
+    "toggle": "n. 优雅；恩惠；慈悲；魅力"
+  },
+  {
+    "text": "tariff",
+    "isDanger": 0,
+    "phonetic": "/ˈtærɪf/",
+    "translation": "n. 关税",
+    "toggle": "n. 关税表；收费表"
+  },
+  {
+    "text": "standard",
+    "isDanger": 0,
+    "phonetic": "/ˈstændəd/",
+    "translation": "n. 标准",
+    "toggle": "n. 标准；度量衡标准；旗；水准"
+  },
+  {
+    "text": "electrocute",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 使触电身亡",
+    "toggle": "vt.<美>处电刑,触电致死"
+  },
+  {
+    "text": "eliminate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 消灭",
+    "toggle": "vt. 消除；排除"
+  },
+  {
+    "text": "accord",
+    "isDanger": 0,
+    "phonetic": "/əˈkɔːd/",
+    "translation": "n. 协议",
+    "toggle": "n. 一致；符合；协议；自愿"
+  },
+  {
+    "text": "device",
+    "isDanger": 0,
+    "phonetic": "/dɪˈvaɪs/",
+    "translation": "n. 仪器，器械",
+    "toggle": "n. 装置；策略；图案"
+  },
+  {
+    "text": "hammer out",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 推敲",
+    "toggle": ""
+  },
+  {
+    "text": "dialysis",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 分离，分解；透析，渗析",
+    "toggle": "n. 透析；渗析"
+  },
+  {
+    "text": "pact",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 合同，条约，公约",
+    "toggle": "n. 条约；协定；契约；公约"
+  }
+]

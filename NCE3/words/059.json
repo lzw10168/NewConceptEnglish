@@ -1,0 +1,121 @@
+[
+  {
+    "text": "amass",
+    "isDanger": 0,
+    "phonetic": "/əˈmæs/",
+    "translation": "v. 积聚",
+    "toggle": "vt. 积聚，积累"
+  },
+  {
+    "text": "indiscriminate",
+    "isDanger": 0,
+    "phonetic": "/ˌɪndɪˈskrɪmɪnət/",
+    "translation": "adj. 不加选择的",
+    "toggle": "adj. 任意的；无差别的；不分皂白的"
+  },
+  {
+    "text": "clutter",
+    "isDanger": 0,
+    "phonetic": "/ˈklʌtə(r)/",
+    "translation": "n. 一堆杂物",
+    "toggle": "n. 杂乱，混乱"
+  },
+  {
+    "text": "requisite",
+    "isDanger": 0,
+    "phonetic": "/ˈrekwɪzɪt/",
+    "translation": "n. 必需品",
+    "toggle": "adj. 需要的；必备的，必不可少的"
+  },
+  {
+    "text": "mania",
+    "isDanger": 0,
+    "phonetic": "/ˈmeɪniə/",
+    "translation": "n. 癖好",
+    "toggle": "n. 狂热；狂躁；热衷"
+  },
+  {
+    "text": "sketch",
+    "isDanger": 0,
+    "phonetic": "/sketʃ/",
+    "translation": "n. 草图，图样",
+    "toggle": "n. 素描；略图；梗概"
+  },
+  {
+    "text": "remote",
+    "isDanger": 0,
+    "phonetic": "/rɪˈməʊt/",
+    "translation": "adj. （机会，可能性）少的，小的",
+    "toggle": "adj. 遥远的；偏僻的；疏远的"
+  },
+  {
+    "text": "strong-minded",
+    "isDanger": 0,
+    "phonetic": "/ˌstrɒŋ ˈmaɪndɪd/",
+    "translation": "adj. 意志坚强的",
+    "toggle": "adj. 有主见的；意志坚强的"
+  },
+  {
+    "text": "relaxation",
+    "isDanger": 0,
+    "phonetic": "/ˌriːlækˈseɪʃ(ə)n/",
+    "translation": "n. 休息，娱乐",
+    "toggle": "n. 放松；缓和；消遣"
+  },
+  {
+    "text": "verify",
+    "isDanger": 0,
+    "phonetic": "/ˈverɪfaɪ/",
+    "translation": "v. 查证，核实",
+    "toggle": "vt. 核实；查证"
+  },
+  {
+    "text": "bearing",
+    "isDanger": 0,
+    "phonetic": "/ˈbeərɪŋ/",
+    "translation": "n. 关系，联系",
+    "toggle": "n. 轴承；方位；举止；关系"
+  },
+  {
+    "text": "like-minded",
+    "isDanger": 0,
+    "phonetic": "/ˌlaɪk ˈmaɪndɪd/",
+    "translation": "adj. 志趣相投的",
+    "toggle": "adj. 志趣相投的；具有相似意向或目的的"
+  },
+  {
+    "text": "specimen",
+    "isDanger": 0,
+    "phonetic": "/ˈspesɪmən/",
+    "translation": "n. 标本",
+    "toggle": "n. 标本；样品，样本"
+  },
+  {
+    "text": "constructively",
+    "isDanger": 0,
+    "phonetic": "/kənˈstrʌktɪvli/",
+    "translation": "adv. 有益的，积极的",
+    "toggle": "adv.建设性地"
+  },
+  {
+    "text": "contented",
+    "isDanger": 0,
+    "phonetic": "/kənˈtentɪd/",
+    "translation": "adj. 心满意足的",
+    "toggle": "adj. 满足的；心安的"
+  },
+  {
+    "text": "boredom",
+    "isDanger": 0,
+    "phonetic": "/ˈbɔːdəm/",
+    "translation": "n. 烦恼，无聊",
+    "toggle": "n. 厌倦；令人厌烦的事物"
+  },
+  {
+    "text": "string",
+    "isDanger": 0,
+    "phonetic": "/strɪŋ/",
+    "translation": "n. 细线",
+    "toggle": "n. 线，细绳；一串，一行"
+  }
+]

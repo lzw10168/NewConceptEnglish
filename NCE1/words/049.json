@@ -1,0 +1,65 @@
+[
+  {
+    "text": "leave",
+    "isDanger": 1,
+    "phonetic": "/liːv/",
+    "translation": "v. 遗留",
+    "toggle": "vt. 离开；留下；委托；遗忘"
+  },
+  {
+    "text": "describe",
+    "isDanger": 1,
+    "phonetic": "/dɪˈskraɪb/",
+    "translation": "v. 描述",
+    "toggle": "vt. 描述，形容；描绘"
+  },
+  {
+    "text": "zip",
+    "isDanger": 0,
+    "phonetic": "/zɪp/",
+    "translation": "n. 拉链",
+    "toggle": "n. 拉链；活力，精力；尖啸声，撕裂声； [ 计 ] 一种程序压缩的档案文件格式"
+  },
+  {
+    "text": "label",
+    "isDanger": 0,
+    "phonetic": "/ˈleɪb(ə)l/",
+    "translation": "n. 标签",
+    "toggle": "vt. 标注；贴标签于"
+  },
+  {
+    "text": "handle",
+    "isDanger": 0,
+    "phonetic": "/ˈhænd(ə)l/",
+    "translation": "n. 提手，把手",
+    "toggle": "n. 柄；把手；手感；口实"
+  },
+  {
+    "text": "address",
+    "isDanger": 0,
+    "phonetic": "/əˈdres/",
+    "translation": "n. 地址",
+    "toggle": "vt. 写姓名地址；向 … 致辞；演说；从事；忙于"
+  },
+  {
+    "text": "pence",
+    "isDanger": 0,
+    "phonetic": "/pens/",
+    "translation": "n. penny的复数形式",
+    "toggle": "n. penny的复数"
+  },
+  {
+    "text": "penny",
+    "isDanger": 0,
+    "phonetic": "/ˈpeni/",
+    "translation": "n. 便士",
+    "toggle": "n.便士,<美> 分"
+  },
+  {
+    "text": "belong",
+    "isDanger": 1,
+    "phonetic": "/bɪˈlɒŋ/",
+    "translation": "v. 属于",
+    "toggle": "vi. 属于，应归入；适宜；应被放置；居住"
+  }
+]

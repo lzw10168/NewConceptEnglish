@@ -1,0 +1,93 @@
+[
+  {
+    "text": "whose",
+    "isDanger": 1,
+    "phonetic": "/huːz/",
+    "translation": "pron. 谁的",
+    "toggle": "pron. 谁的（疑问代词）"
+  },
+  {
+    "text": "blue",
+    "isDanger": 0,
+    "phonetic": "/bluː/",
+    "translation": "adj. 蓝色的",
+    "toggle": "adj. 蓝色的；忧郁的，沮丧的；下流的"
+  },
+  {
+    "text": "perhaps",
+    "isDanger": 0,
+    "phonetic": "/pəˈhæps/",
+    "translation": "adv. 大概",
+    "toggle": "adv. 也许；可能"
+  },
+  {
+    "text": "white",
+    "isDanger": 1,
+    "phonetic": "/waɪt/",
+    "translation": "adj. 白色的",
+    "toggle": "adj. 白色的；白种的；纯洁的"
+  },
+  {
+    "text": "catch",
+    "isDanger": 1,
+    "phonetic": "/kætʃ/",
+    "translation": "v. 抓住",
+    "toggle": "vt. 赶上；抓住；感染；了解"
+  },
+  {
+    "text": "father",
+    "isDanger": 0,
+    "phonetic": "/ˈfɑːðə(r)/",
+    "translation": "n. 父亲",
+    "toggle": "n. 父亲，爸爸；神父；祖先；前辈"
+  },
+  {
+    "text": "mother",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌðə(r)/",
+    "translation": "n. 母亲",
+    "toggle": "n. 母亲；大娘；女修道院院长"
+  },
+  {
+    "text": "blouse",
+    "isDanger": 0,
+    "phonetic": "/blaʊz/",
+    "translation": "n. 女衬衫",
+    "toggle": "n. 宽松的上衣；女装衬衫"
+  },
+  {
+    "text": "sister",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪstə(r)/",
+    "translation": "n. 姐，妹",
+    "toggle": "n. 姐妹；修女；护士"
+  },
+  {
+    "text": "tie",
+    "isDanger": 1,
+    "phonetic": "/taɪ/",
+    "translation": "n. 领带",
+    "toggle": "vt. 系；打结；约束；与 … 成平局"
+  },
+  {
+    "text": "brother",
+    "isDanger": 0,
+    "phonetic": "/ˈbrʌðə(r)/",
+    "translation": "n. 兄，弟",
+    "toggle": "n. 兄弟；战友；同事"
+  },
+  {
+    "text": "his",
+    "isDanger": 1,
+    "phonetic": "/hɪz/",
+    "translation": "pron. 他的",
+    "toggle": "pron. 他的"
+  },
+  {
+    "text": "her",
+    "isDanger": 0,
+    "phonetic": "/hɜː(r)/",
+    "translation": "pron. 她的",
+    "toggle": "pron. 她的；她"
+  }
+]

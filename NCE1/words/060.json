@@ -1,0 +1,72 @@
+[
+  {
+    "text": "story",
+    "isDanger": 0,
+    "phonetic": "/ˈstɔːri/",
+    "translation": "n. 故事",
+    "toggle": "n. 故事；来历；新闻报道；小说； [ 口 ] 假话"
+  },
+  {
+    "text": "happen",
+    "isDanger": 1,
+    "phonetic": "/ˈhæpən/",
+    "translation": "v. 发生",
+    "toggle": "vi. 发生；碰巧；偶然遇到"
+  },
+  {
+    "text": "thief",
+    "isDanger": 0,
+    "phonetic": "/θiːf/",
+    "translation": "n. 贼",
+    "toggle": "n. 小偷，贼"
+  },
+  {
+    "text": "enter",
+    "isDanger": 0,
+    "phonetic": "/ˈentə(r)/",
+    "translation": "v. 进入",
+    "toggle": "vt. 进入；开始；参加"
+  },
+  {
+    "text": "dark",
+    "isDanger": 1,
+    "phonetic": "/dɑːk/",
+    "translation": "adj. 黑暗的",
+    "toggle": "adj. 黑暗的，深色的；无知的；模糊的；忧郁的"
+  },
+  {
+    "text": "torch",
+    "isDanger": 0,
+    "phonetic": "/tɔːtʃ/",
+    "translation": "n. 手电筒",
+    "toggle": "n. 火把，火炬；手电筒；启发之物"
+  },
+  {
+    "text": "voice",
+    "isDanger": 0,
+    "phonetic": "/vɔɪs/",
+    "translation": "n. (说话的)声音",
+    "toggle": "n. 声音；愿望；嗓音；发言权"
+  },
+  {
+    "text": "parrot",
+    "isDanger": 0,
+    "phonetic": "/ˈpærət/",
+    "translation": "n. 鹦鹉",
+    "toggle": "n. 鹦鹉；学舌者，应声虫；机械模仿别人的人"
+  },
+  {
+    "text": "exercise book",
+    "isDanger": 0,
+    "phonetic": "/ˈeksəsaɪz bʊk/",
+    "translation": "n. 练习本",
+    "toggle": "n. 练习本"
+  },
+  {
+    "text": "exercise",
+    "isDanger": 0,
+    "phonetic": "/ˈeksəsaɪz/",
+    "translation": "v. 锻炼",
+    "toggle": "n. 练习；运动；运用；操练；典礼；礼拜"
+  }
+]

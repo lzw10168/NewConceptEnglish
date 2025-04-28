@@ -1,0 +1,65 @@
+[
+  {
+    "text": "football",
+    "isDanger": 0,
+    "phonetic": "/ˈfʊtbɔːl/",
+    "translation": "n. 足球(美)",
+    "toggle": "n. 足球，橄榄球"
+  },
+  {
+    "text": "soccer",
+    "isDanger": 0,
+    "phonetic": "/ˈsɒkə(r)/",
+    "translation": "n. 足球(英)",
+    "toggle": "n. 英式足球，足球"
+  },
+  {
+    "text": "pool",
+    "isDanger": 0,
+    "phonetic": "/puːl/",
+    "translation": "n. 赌注",
+    "toggle": "n. 联营；水塘；撞球；共同资金"
+  },
+  {
+    "text": "win",
+    "isDanger": 1,
+    "phonetic": "/wɪn/",
+    "translation": "v. 赢",
+    "toggle": "vt. 赢得；在 … 中获胜；劝诱"
+  },
+  {
+    "text": "winner",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪnə(r)/",
+    "translation": "n. 赢家",
+    "toggle": "n. 胜利者"
+  },
+  {
+    "text": "world",
+    "isDanger": 0,
+    "phonetic": "/wɜːld/",
+    "translation": "n. 世界",
+    "toggle": "n. 世界；全人类；世俗；领域；宇宙；物质生活"
+  },
+  {
+    "text": "word",
+    "isDanger": 1,
+    "phonetic": "/wɜːd/",
+    "translation": "n. 单词",
+    "toggle": "n. 单词；话语；消息；诺言；命令"
+  },
+  {
+    "text": "poor",
+    "isDanger": 0,
+    "phonetic": "/pɔː(r)/",
+    "translation": "adj. 贫穷的",
+    "toggle": "adj. 可怜的；贫穷的；贫乏的；卑鄙的"
+  },
+  {
+    "text": "depend",
+    "isDanger": 0,
+    "phonetic": "/dɪˈpend/",
+    "translation": "v. 依靠(on)",
+    "toggle": "vi. 依赖，依靠；相信，信赖；取决于"
+  }
+]

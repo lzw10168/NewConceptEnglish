@@ -1,0 +1,121 @@
+[
+  {
+    "text": "cheese",
+    "isDanger": 0,
+    "phonetic": "/tʃiːz/",
+    "translation": "n. 乳酪，干酪",
+    "toggle": "n. 奶酪；干酪； [ 美俚 ] 要人"
+  },
+  {
+    "text": "bread",
+    "isDanger": 0,
+    "phonetic": "/bred/",
+    "translation": "n. 面包",
+    "toggle": "n. 生计；面包"
+  },
+  {
+    "text": "soap",
+    "isDanger": 1,
+    "phonetic": "/səʊp/",
+    "translation": "n. 肥皂",
+    "toggle": "n. 肥皂"
+  },
+  {
+    "text": "chocolate",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃɒklət/",
+    "translation": "n. 巧克力",
+    "toggle": "n. 巧克力，巧克力糖；巧克力色"
+  },
+  {
+    "text": "sugar",
+    "isDanger": 0,
+    "phonetic": "/ˈʃʊɡə(r)/",
+    "translation": "n. 糖",
+    "toggle": "n. 糖；食糖；甜言蜜语"
+  },
+  {
+    "text": "candy",
+    "isDanger": 0,
+    "phonetic": "/ˈkændi/",
+    "translation": "n. 糖果",
+    "toggle": "vt. 用糖煮；使结晶为砂糖；美化"
+  },
+  {
+    "text": "coffee",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒfi/",
+    "translation": "n. 咖啡",
+    "toggle": "n. 咖啡；咖啡豆；咖啡色"
+  },
+  {
+    "text": "caffeine",
+    "isDanger": 0,
+    "phonetic": "/ˈkæfiːn/",
+    "translation": "n. 咖啡因",
+    "toggle": "n. 咖啡因；茶精（兴奋剂）"
+  },
+  {
+    "text": "tea",
+    "isDanger": 0,
+    "phonetic": "/tiː/",
+    "translation": "n. 茶",
+    "toggle": "n. 茶叶；茶树；茶点"
+  },
+  {
+    "text": "tobacco",
+    "isDanger": 0,
+    "phonetic": "/təˈbækəʊ/",
+    "translation": "n. 烟草，烟丝",
+    "toggle": "n. 烟草，烟叶；烟草制品；抽烟"
+  },
+  {
+    "text": "cigarette",
+    "isDanger": 0,
+    "phonetic": "/ˌsɪɡəˈret/",
+    "translation": "n. 烟",
+    "toggle": "n. 香烟；纸烟"
+  },
+  {
+    "text": "smoking",
+    "isDanger": 0,
+    "phonetic": "/ˈsməʊkɪŋ/",
+    "translation": "n. 吸烟",
+    "toggle": "n. 抽烟；冒气"
+  },
+  {
+    "text": "loaf",
+    "isDanger": 0,
+    "phonetic": "/ləʊf/",
+    "translation": "n. 块",
+    "toggle": "n. 块；条，一条面包；游荡"
+  },
+  {
+    "text": "certainly",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːt(ə)nli/",
+    "translation": "adv. 当然",
+    "toggle": "adv. 当然；必定；行（用于回答）"
+  },
+  {
+    "text": "bird",
+    "isDanger": 0,
+    "phonetic": "/bɜːd/",
+    "translation": "n. 鸟",
+    "toggle": "n. 鸟；家伙；羽毛球"
+  },
+  {
+    "text": "any",
+    "isDanger": 1,
+    "phonetic": "/ˈeni/",
+    "translation": "adv. 一些",
+    "toggle": "adj. 任何的；所有的；丝毫"
+  },
+  {
+    "text": "some",
+    "isDanger": 1,
+    "phonetic": "/sʌm/",
+    "translation": "adv. 一些",
+    "toggle": "adj. 一些；大约；某一"
+  }
+]

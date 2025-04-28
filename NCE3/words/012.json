@@ -1,0 +1,121 @@
+[
+  {
+    "text": "desert island",
+    "isDanger": 0,
+    "phonetic": "/ˌdezət ˈaɪlənd/",
+    "translation": "n. 荒岛",
+    "toggle": "n.荒岛：一个没有人居住的岛屿，通常用于形容某人被困在荒岛上。"
+  },
+  {
+    "text": "unrealistic",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnrɪəˈlɪstɪk/",
+    "translation": "adj. 不真实的",
+    "toggle": "adj. 不切实际的；不实在的"
+  },
+  {
+    "text": "paradise",
+    "isDanger": 0,
+    "phonetic": "/ˈpærədaɪs/",
+    "translation": "n. 天堂，乐土",
+    "toggle": "n. 天堂、伊甸园"
+  },
+  {
+    "text": "wretched",
+    "isDanger": 0,
+    "phonetic": "/ˈretʃɪd/",
+    "translation": "adj. 可怜的，艰苦的",
+    "toggle": "adj. 可怜的；卑鄙的；令人苦恼或难受的"
+  },
+  {
+    "text": "starve",
+    "isDanger": 1,
+    "phonetic": "/stɑːv/",
+    "translation": "v. 挨饿",
+    "toggle": "vi. 饿死；挨饿；渴望"
+  },
+  {
+    "text": "element",
+    "isDanger": 1,
+    "phonetic": "/ˈelɪmənt/",
+    "translation": "n. 成分",
+    "toggle": "n. 元素；成分；要素；原理；自然环境"
+  },
+  {
+    "text": "opportunity",
+    "isDanger": 0,
+    "phonetic": "/ˌɒpəˈtjuːnəti/",
+    "translation": "n. 机会",
+    "toggle": "n. 时机，机会"
+  },
+  {
+    "text": "coral",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒrəl/",
+    "translation": "n. 珊瑚",
+    "toggle": "n. 珊瑚；珊瑚虫"
+  },
+  {
+    "text": "Virgin Islands",
+    "isDanger": 0,
+    "phonetic": "/ˈvɜːdʒɪn ˈaɪlənds/",
+    "translation": "n. 维尔京群岛",
+    "toggle": "n.维尔京群岛"
+  },
+  {
+    "text": "Miami",
+    "isDanger": 0,
+    "phonetic": "/maɪˈæmi/",
+    "translation": "n. 迈阿密(美国最南的城市)",
+    "toggle": "n. 迈阿密（美国佛罗里达州东南部港市）"
+  },
+  {
+    "text": "dinghy",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪŋi/",
+    "translation": "n. 救生筏，小船",
+    "toggle": "n. 小艇；小船"
+  },
+  {
+    "text": "Caribbean",
+    "isDanger": 0,
+    "phonetic": "/ˌkærɪˈbiːən/",
+    "translation": "n. 加勒比海",
+    "toggle": "adj. 加勒比人的；加勒比海的；加勒比语的"
+  },
+  {
+    "text": "spear gun",
+    "isDanger": 0,
+    "phonetic": "/spɪr ɡʌn/",
+    "translation": "n. 捕鱼枪",
+    "toggle": "n.鱼叉枪"
+  },
+  {
+    "text": "lobster",
+    "isDanger": 0,
+    "phonetic": "/ˈlɒbstə(r)/",
+    "translation": "n. 龙虾",
+    "toggle": "n. 龙虾"
+  },
+  {
+    "text": "tanker",
+    "isDanger": 0,
+    "phonetic": "/ˈtæŋkə(r)/",
+    "translation": "n. 油轮",
+    "toggle": "n. 油轮；运油飞机；油槽车； [ 口 ] 坦克手"
+  },
+  {
+    "text": "genuinely",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒenjuɪnli/",
+    "translation": "adv. 由衷地",
+    "toggle": "adv. 真诚地；诚实地"
+  },
+  {
+    "text": "Robinson Crusoe",
+    "isDanger": 0,
+    "phonetic": "/ˈrɑːbɪnsən 'kru:səu/",
+    "translation": "n. 鲁滨孙•克鲁索(小说《鲁滨孙漂流记》主人公)",
+    "toggle": "n. 鲁宾逊漂流记（书名）；鲁宾逊（书中主人公）"
+  }
+]

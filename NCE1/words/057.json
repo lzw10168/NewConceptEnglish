@@ -1,0 +1,100 @@
+[
+  {
+    "text": "conductor",
+    "isDanger": 0,
+    "phonetic": "/kənˈdʌktə(r)/",
+    "translation": "n. 售票员",
+    "toggle": "n. 导体；售票员；领导者；管理人"
+  },
+  {
+    "text": "fare",
+    "isDanger": 0,
+    "phonetic": "/feə(r)/",
+    "translation": "n. 车费，车票",
+    "toggle": "vi. 进展；过活；经营；遭遇"
+  },
+  {
+    "text": "change",
+    "isDanger": 1,
+    "phonetic": "/tʃeɪndʒ/",
+    "translation": "v. 兑换(钱)",
+    "toggle": "vt. 改变；交换"
+  },
+  {
+    "text": "note",
+    "isDanger": 1,
+    "phonetic": "/nəʊt/",
+    "translation": "n. 纸币",
+    "toggle": "n. 笔记；注解；便笺；照会；音符；调子；票据；纸币"
+  },
+  {
+    "text": "coin",
+    "isDanger": 0,
+    "phonetic": "/kɔɪn/",
+    "translation": "n. 硬币",
+    "toggle": "vt. 杜撰，创造；铸造（货币）"
+  },
+  {
+    "text": "passenger",
+    "isDanger": 0,
+    "phonetic": "/ˈpæsɪndʒə(r)/",
+    "translation": "n. 乘客",
+    "toggle": "n. 乘客；旅客；过路人； [ 俚 ] 碍手碍脚的人"
+  },
+  {
+    "text": "none",
+    "isDanger": 0,
+    "phonetic": "/nʌn/",
+    "translation": "pron. 没有任何东西",
+    "toggle": "pron. 没有人；没有任何东西；一个也没有"
+  },
+  {
+    "text": "neither",
+    "isDanger": 1,
+    "phonetic": "/ˈnaɪðə(r)/",
+    "translation": "adv. 也不",
+    "toggle": "conj. 既不；也不"
+  },
+  {
+    "text": "either",
+    "isDanger": 1,
+    "phonetic": "/ˈaɪðə(r)/",
+    "translation": "adv. （两者之中）任意一个",
+    "toggle": "adj. 两者之中任一的；两者之中每一的"
+  },
+  {
+    "text": "get off",
+    "isDanger": 0,
+    "phonetic": "/ɡet ɒf/",
+    "translation": "adv. 下车",
+    "toggle": "下（车、马等）; 离开; 发出; （使）入睡"
+  },
+  {
+    "text": "get on",
+    "isDanger": 0,
+    "phonetic": "/ɡet ɒn/",
+    "translation": "adv. 上车",
+    "toggle": "发迹；出人头地"
+  },
+  {
+    "text": "tramp",
+    "isDanger": 0,
+    "phonetic": "/træmp/",
+    "translation": "n. 流浪汉",
+    "toggle": "vi. 脚步沉重地行走；践踏，踩；流浪"
+  },
+  {
+    "text": "vagrant",
+    "isDanger": 0,
+    "phonetic": "/ˈveɪɡrənt/",
+    "translation": "n. 流浪者",
+    "toggle": "n.游民 adj.漂泊的"
+  },
+  {
+    "text": "except",
+    "isDanger": 1,
+    "phonetic": "/ɪkˈsept/",
+    "translation": "prep. 除…外",
+    "toggle": "vt. 不计；把 … 除外"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "beast",
+    "isDanger": 0,
+    "phonetic": "/biːst/",
+    "translation": "n. 野兽",
+    "toggle": "n. 野兽；畜生，人面兽心的人"
+  },
+  {
+    "text": "census",
+    "isDanger": 0,
+    "phonetic": "/ˈsensəs/",
+    "translation": "n. 统计数字",
+    "toggle": "vt. 实施统计调查"
+  },
+  {
+    "text": "acre",
+    "isDanger": 0,
+    "phonetic": "/ˈeɪkə(r)/",
+    "translation": "n. 英亩",
+    "toggle": "n.英亩,(pl.)地产,大片田地"
+  },
+  {
+    "text": "content",
+    "isDanger": 1,
+    "phonetic": "/ˈkɒntent/",
+    "translation": "adj. 满足的",
+    "toggle": "n. 内容，目录；容量；满足"
+  }
+]

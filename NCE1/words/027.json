@@ -1,0 +1,268 @@
+[
+  {
+    "text": "mild",
+    "isDanger": 0,
+    "phonetic": "/maɪld/",
+    "translation": "adj. 温和的，温暖的",
+    "toggle": "adj. 温和的；轻微的；淡味的；文雅的；不含有害物质的的"
+  },
+  {
+    "text": "always",
+    "isDanger": 1,
+    "phonetic": "/ˈɔːlweɪz/",
+    "translation": "adv. 总是",
+    "toggle": "adv. 总是；永远，一直；常常"
+  },
+  {
+    "text": "north",
+    "isDanger": 0,
+    "phonetic": "/nɔːθ/",
+    "translation": "n. 北方",
+    "toggle": "n. 北，北方"
+  },
+  {
+    "text": "south",
+    "isDanger": 1,
+    "phonetic": "/saʊθ/",
+    "translation": "n. 南方",
+    "toggle": "n. 南方，南边；南部"
+  },
+  {
+    "text": "east",
+    "isDanger": 0,
+    "phonetic": "/iːst/",
+    "translation": "n. 东方",
+    "toggle": "n. 东方；东方国家；东风"
+  },
+  {
+    "text": "west",
+    "isDanger": 1,
+    "phonetic": "/west/",
+    "translation": "n. 西方",
+    "toggle": "n. 西；西方；西部"
+  },
+  {
+    "text": "wet",
+    "isDanger": 0,
+    "phonetic": "/wet/",
+    "translation": "adj. 潮湿的",
+    "toggle": "adj. 潮湿的；有雨的"
+  },
+  {
+    "text": "season",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːz(ə)n/",
+    "translation": "n. 季节",
+    "toggle": "n. 时期；季节；赛季； vt. 给 … 调味；使适应； vi. 变得成熟；变干燥"
+  },
+  {
+    "text": "best",
+    "isDanger": 1,
+    "phonetic": "/best/",
+    "translation": "adv. 最",
+    "toggle": "n. 最好的人，最好的事物；最佳状态"
+  },
+  {
+    "text": "night",
+    "isDanger": 1,
+    "phonetic": "/naɪt/",
+    "translation": "n. 夜晚",
+    "toggle": "n. 夜晚，晚上；黑暗，黑夜"
+  },
+  {
+    "text": "rise",
+    "isDanger": 1,
+    "phonetic": "/raɪz/",
+    "translation": "v. 升起",
+    "toggle": "vi. 上升；起立；高耸；增强"
+  },
+  {
+    "text": "set",
+    "isDanger": 1,
+    "phonetic": "/set/",
+    "translation": "v. (太阳)落下去",
+    "toggle": "n. 集合；一套；布景；装置；趋势"
+  },
+  {
+    "text": "early",
+    "isDanger": 1,
+    "phonetic": "/ˈɜːrli/",
+    "translation": "adv. 早",
+    "toggle": "adj. 早期的；早熟的"
+  },
+  {
+    "text": "late",
+    "isDanger": 1,
+    "phonetic": "/leɪt/",
+    "translation": "adv. 晚，迟",
+    "toggle": "adj. 迟的；晚的；已故的；最近的"
+  },
+  {
+    "text": "interesting",
+    "isDanger": 0,
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "translation": "adj. 有趣的，有意思的",
+    "toggle": "adj. 有趣的；引起兴趣的，令人关注的"
+  },
+  {
+    "text": "subject",
+    "isDanger": 1,
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "translation": "n. 话题",
+    "toggle": "n. 主题；科目；国民；主语"
+  },
+  {
+    "text": "conversation",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒnvəˈseɪʃ(ə)n/",
+    "translation": "n. 谈话",
+    "toggle": "n. 会话；交谈；社交"
+  },
+  {
+    "text": "Australia",
+    "isDanger": 0,
+    "phonetic": "/ɒˈstreɪliə/",
+    "translation": "n. 澳大利亚",
+    "toggle": "n.澳洲,澳大利亚"
+  },
+  {
+    "text": "Australian",
+    "isDanger": 0,
+    "phonetic": "/ɒˈstreɪliən/",
+    "translation": "n. 澳大利亚人",
+    "toggle": "adj. 澳大利亚的，澳大利亚人的"
+  },
+  {
+    "text": "Austria",
+    "isDanger": 0,
+    "phonetic": "/ˈɒstriə/",
+    "translation": "n. 奥地利",
+    "toggle": "n.奥地利(欧洲中部国家)"
+  },
+  {
+    "text": "Austrian",
+    "isDanger": 0,
+    "phonetic": "/ˈɒstriən/",
+    "translation": "n. 奥地利人",
+    "toggle": "adj. 奥地利的；奥地利人的"
+  },
+  {
+    "text": "Canada",
+    "isDanger": 0,
+    "phonetic": "/ˈkænədə/",
+    "translation": "n. 加拿大",
+    "toggle": "n.加拿大"
+  },
+  {
+    "text": "Canadian",
+    "isDanger": 0,
+    "phonetic": "/kəˈneɪdiən/",
+    "translation": "n. 加拿大人",
+    "toggle": "adj. 加拿大（人）的"
+  },
+  {
+    "text": "China",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃaɪnə/",
+    "translation": "n. 中国",
+    "toggle": "n. 中国"
+  },
+  {
+    "text": "Finland",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪnlənd/",
+    "translation": "n. 芬兰",
+    "toggle": "n.芬兰[欧洲]"
+  },
+  {
+    "text": "Finnish",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪnɪʃ/",
+    "translation": "n. 芬兰人",
+    "toggle": "adj. 芬兰的，芬兰语的"
+  },
+  {
+    "text": "India",
+    "isDanger": 0,
+    "phonetic": "/ˈɪndiə/",
+    "translation": "n. 印度",
+    "toggle": "n.印度(南亚国家),南亚次大陆(即印巴次大陆,简称次大陆,含印度、巴基斯坦、孟加拉国、尼泊尔、不丹、锡金等国)"
+  },
+  {
+    "text": "Indian",
+    "isDanger": 0,
+    "phonetic": "/ˈɪndiən/",
+    "translation": "n. 印度人",
+    "toggle": "adj. 印度的；印第安人的；印第安语的"
+  },
+  {
+    "text": "Japan",
+    "isDanger": 0,
+    "phonetic": "/dʒə'pæn/",
+    "translation": "n. 日本",
+    "toggle": "n.日本"
+  },
+  {
+    "text": "Nigeria",
+    "isDanger": 0,
+    "phonetic": "/naɪˈdʒɪəriə/",
+    "translation": "n. 尼日利亚",
+    "toggle": "n.尼日利亚(非洲中西部国家)"
+  },
+  {
+    "text": "Nigerian",
+    "isDanger": 0,
+    "phonetic": "/naɪˈdʒɪəriən/",
+    "translation": "n. 尼日利亚人",
+    "toggle": "n. 尼日利亚人"
+  },
+  {
+    "text": "Turkey",
+    "isDanger": 0,
+    "phonetic": "/ˈtɜːki/",
+    "translation": "n. 土耳其",
+    "toggle": "n. 火鸡；失败之作；笨蛋"
+  },
+  {
+    "text": "Turkish",
+    "isDanger": 0,
+    "phonetic": "/ˈtɜːkɪʃ/",
+    "translation": "n. 土耳其人",
+    "toggle": "adj. 土耳其人的，土耳其语的；土耳其的；突厥诸语言的"
+  },
+  {
+    "text": "Korea",
+    "isDanger": 0,
+    "phonetic": "/kəˈriə/",
+    "translation": "n. 韩国",
+    "toggle": "n.韩国,朝鲜"
+  },
+  {
+    "text": "Polish",
+    "isDanger": 0,
+    "phonetic": "/ˈpəʊlɪʃ/",
+    "translation": "n. 波兰人",
+    "toggle": "n. 磨光，擦亮；上光剂，擦亮剂；优雅，精良"
+  },
+  {
+    "text": "Poland",
+    "isDanger": 0,
+    "phonetic": "/ˈpəʊlənd/",
+    "translation": "n. 波兰",
+    "toggle": "n.波兰(中欧国家)"
+  },
+  {
+    "text": "Thai",
+    "isDanger": 0,
+    "phonetic": "/taɪ/",
+    "translation": "n. 泰国人",
+    "toggle": "n. 泰国人；泰国语"
+  },
+  {
+    "text": "Thailand",
+    "isDanger": 0,
+    "phonetic": "/ˈtaɪlænd/",
+    "translation": "n. 泰国",
+    "toggle": "n.泰国"
+  }
+]

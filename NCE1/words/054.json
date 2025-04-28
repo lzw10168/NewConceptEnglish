@@ -1,0 +1,30 @@
+[
+  {
+    "text": "madam",
+    "isDanger": 0,
+    "phonetic": "/ˈmædəm/",
+    "translation": "n. 夫人，女士(对妇女的尊称)",
+    "toggle": "n. 夫人；女士；鸨母"
+  },
+  {
+    "text": "as well",
+    "isDanger": 1,
+    "phonetic": "/æz wel/",
+    "translation": "adv. 同样",
+    "toggle": "adv.也， 还有"
+  },
+  {
+    "text": "suit",
+    "isDanger": 0,
+    "phonetic": "/suːt/",
+    "translation": "v. 适于",
+    "toggle": "vt. 适合；使适应"
+  },
+  {
+    "text": "pretty",
+    "isDanger": 0,
+    "phonetic": "/ˈprɪti/",
+    "translation": "adj. 漂亮的",
+    "toggle": "adj. 漂亮的；可爱的；优美的"
+  }
+]

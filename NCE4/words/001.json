@@ -1,0 +1,86 @@
+[
+  {
+    "text": "fossil man",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔsl mæn/",
+    "translation": "n. 化石人",
+    "toggle": "化石人"
+  },
+  {
+    "text": "recount",
+    "isDanger": 0,
+    "phonetic": "/rɪˈkaʊnt/",
+    "translation": "v. 叙述",
+    "toggle": "vt. 叙述；重新计算"
+  },
+  {
+    "text": "saga",
+    "isDanger": 0,
+    "phonetic": "/ˈsɑːɡə/",
+    "translation": "n. 英雄故事",
+    "toggle": "n. 冒险故事；传说；英雄事迹"
+  },
+  {
+    "text": "legend",
+    "isDanger": 0,
+    "phonetic": "/ˈledʒənd/",
+    "translation": "n. 传说，传奇",
+    "toggle": "n. 传奇；说明；图例；刻印文字"
+  },
+  {
+    "text": "migration",
+    "isDanger": 0,
+    "phonetic": "/maɪˈɡreɪʃn/",
+    "translation": "n. 迁移，移居",
+    "toggle": "n. 移动；迁移；移民"
+  },
+  {
+    "text": "anthropologist",
+    "isDanger": 0,
+    "phonetic": "/ˌænθrəˈpɒlədʒɪst/",
+    "translation": "n. 人类学家",
+    "toggle": "n. 人类学家；人类学者"
+  },
+  {
+    "text": "archaeologist",
+    "isDanger": 0,
+    "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+    "translation": "n. 考古学家",
+    "toggle": "n. 考古学家"
+  },
+  {
+    "text": "ancestor",
+    "isDanger": 0,
+    "phonetic": "/ˈænsestə(r)/",
+    "translation": "n. 祖先",
+    "toggle": "n. 始祖，祖先；被继承人"
+  },
+  {
+    "text": "Polynesian",
+    "isDanger": 0,
+    "phonetic": "/ˌpɒlɪˈniːʒən/",
+    "translation": "adj. 波利尼西亚（中太平洋之一群岛）的",
+    "toggle": "adj.玻利尼西亚人的n.玻利尼西亚人"
+  },
+  {
+    "text": "Indonesia",
+    "isDanger": 0,
+    "phonetic": "/ˌɪndəˈniːʒə; ˌɪndəˈniːziə/",
+    "translation": "n. 印度尼西亚",
+    "toggle": "n.印尼(东南亚岛国)"
+  },
+  {
+    "text": "flint",
+    "isDanger": 0,
+    "phonetic": "/flɪnt/",
+    "translation": "n. 燧石",
+    "toggle": "n. 燧石；打火石；极硬的东西"
+  },
+  {
+    "text": "rot",
+    "isDanger": 1,
+    "phonetic": "/rɒt/",
+    "translation": "n. 烂掉",
+    "toggle": "n. 腐烂；腐败；腐坏"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Paris",
+    "isDanger": 0,
+    "phonetic": "/ˈpærɪs/",
+    "translation": "n. 巴黎",
+    "toggle": "n.巴黎(法国首都)"
+  },
+  {
+    "text": "cinema",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪnəmə/",
+    "translation": "n. 电影院",
+    "toggle": "n. 电影院；电影；电影业，电影制作术"
+  },
+  {
+    "text": "film",
+    "isDanger": 0,
+    "phonetic": "/fɪlm/",
+    "translation": "n. 电影(英)",
+    "toggle": "n. 胶卷；电影；薄膜；轻烟"
+  },
+  {
+    "text": "movie",
+    "isDanger": 0,
+    "phonetic": "/ˈmuːvi/",
+    "translation": "n. 电影(美)",
+    "toggle": "n. 电影；电影院；电影业"
+  },
+  {
+    "text": "beautiful",
+    "isDanger": 0,
+    "phonetic": "/ˈbjuːtɪf(ə)l/",
+    "translation": "adj. 漂亮的",
+    "toggle": "adj. 美丽的"
+  },
+  {
+    "text": "beauty",
+    "isDanger": 0,
+    "phonetic": "/ˈbjuːti/",
+    "translation": "n. 美女",
+    "toggle": "n. 美；美人；美好的东西；美丽"
+  },
+  {
+    "text": "city",
+    "isDanger": 1,
+    "phonetic": "/ˈsɪti/",
+    "translation": "n. 城市",
+    "toggle": "n. 城市，都市"
+  },
+  {
+    "text": "never",
+    "isDanger": 1,
+    "phonetic": "/ˈnevə(r)/",
+    "translation": "adv. 从来没有",
+    "toggle": "adv. 决不；从未"
+  },
+  {
+    "text": "ever",
+    "isDanger": 1,
+    "phonetic": "/ˈevə(r)/",
+    "translation": "adv. 在任何时候",
+    "toggle": "adv. 曾经；究竟；永远"
+  }
+]

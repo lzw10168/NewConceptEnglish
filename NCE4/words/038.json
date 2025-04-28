@@ -1,0 +1,100 @@
+[
+  {
+    "text": "contamination",
+    "isDanger": 0,
+    "phonetic": "/kənˌtæmɪˈneɪʃ(ə)n/",
+    "translation": "n. 污染",
+    "toggle": "n. 污染，玷污；污染物"
+  },
+  {
+    "text": "sanitation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 卫生，卫生设备",
+    "toggle": "n. 环境卫生；卫生设备；下水道设施"
+  },
+  {
+    "text": "sewage",
+    "isDanger": 0,
+    "phonetic": "/ˈsuːɪdʒ/",
+    "translation": "n. 污水",
+    "toggle": "n. 污水；污物；下水道"
+  },
+  {
+    "text": "leakage",
+    "isDanger": 0,
+    "phonetic": "/ˈliːkɪdʒ/",
+    "translation": "n. 泄漏",
+    "toggle": "n. 泄漏；渗漏物；漏出量"
+  },
+  {
+    "text": "intermittent",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 间歇的，断断续续的",
+    "toggle": "adj. 间歇的，断断续续的"
+  },
+  {
+    "text": "carbonated",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 碳化的，碳酸的",
+    "toggle": ""
+  },
+  {
+    "text": "acidic",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 酸的，酸性的",
+    "toggle": "adj. 酸的，酸性的；产生酸的"
+  },
+  {
+    "text": "alcohol",
+    "isDanger": 0,
+    "phonetic": "/ˈælkəhɒl/",
+    "translation": "n. 酒精",
+    "toggle": "n. 酒精，乙醇"
+  },
+  {
+    "text": "disinfectant",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 消毒剂",
+    "toggle": "n.消毒剂"
+  },
+  {
+    "text": "sterilize",
+    "isDanger": 0,
+    "phonetic": "/ˈsterəlaɪz/",
+    "translation": "v. 消毒",
+    "toggle": "vt. 消毒，杀菌；使成不毛；使绝育；使不起作用"
+  },
+  {
+    "text": "ethanol",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 乙醇",
+    "toggle": "n. [ 化 ] 乙醇，酒精"
+  },
+  {
+    "text": "bactericidal",
+    "isDanger": 0,
+    "phonetic": "/bækˌtɪərɪˈsaɪdl/",
+    "translation": "adj. 杀菌的",
+    "toggle": "adj.杀菌的"
+  },
+  {
+    "text": "negligible",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 可以忽略的，微不足道的",
+    "toggle": "adj. 微不足道的，可以忽略的"
+  },
+  {
+    "text": "methylated",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 加入甲醇的",
+    "toggle": ""
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "text": "Mrs.",
+    "isDanger": 0,
+    "phonetic": "/'misiz/",
+    "translation": "n. 夫人",
+    "toggle": "n. 夫人；太太（等于 Mistress）"
+  },
+  {
+    "text": "kitchen",
+    "isDanger": 0,
+    "phonetic": "/ˈkɪtʃɪn/",
+    "translation": "n. 厨房",
+    "toggle": "n. 炊具；厨房；炊事人员"
+  },
+  {
+    "text": "refrigerator",
+    "isDanger": 0,
+    "phonetic": "/rɪˈfrɪdʒəreɪtə(r)/",
+    "translation": "n. 电冰箱",
+    "toggle": "n. 冰箱，冷藏库"
+  },
+  {
+    "text": "right",
+    "isDanger": 1,
+    "phonetic": "/raɪt/",
+    "translation": "n. 右边",
+    "toggle": "adj. 正确的；右方的；直接的"
+  },
+  {
+    "text": "electric",
+    "isDanger": 0,
+    "phonetic": "/ɪˈlektrɪk/",
+    "translation": "adj. 带电的，可通电的",
+    "toggle": "adj. 电的；导电的；电动的；发电的；令人震惊的"
+  },
+  {
+    "text": "left",
+    "isDanger": 1,
+    "phonetic": "/left/",
+    "translation": "n. 左边",
+    "toggle": "n. 左边；左派"
+  },
+  {
+    "text": "cooker",
+    "isDanger": 0,
+    "phonetic": "/ˈkʊkə(r)/",
+    "translation": "n. 炉子，炊具",
+    "toggle": "n. 炊具；烹饪用水果；窜改者"
+  },
+  {
+    "text": "chef",
+    "isDanger": 0,
+    "phonetic": "/ʃef/",
+    "translation": "n. 厨师",
+    "toggle": "n. 厨师，大师傅"
+  },
+  {
+    "text": "cook",
+    "isDanger": 0,
+    "phonetic": "/kʊk/",
+    "translation": "v. 煮",
+    "toggle": "vt. 烹调，煮"
+  },
+  {
+    "text": "of",
+    "isDanger": 1,
+    "phonetic": "/ɒv/",
+    "translation": "prep. (属于)…的",
+    "toggle": "prep. 属于；关于； … 的；由 … 组成的"
+  },
+  {
+    "text": "room",
+    "isDanger": 1,
+    "phonetic": "/ruːm/",
+    "translation": "n. 房间",
+    "toggle": "n. 房间；空间；机会；余地"
+  },
+  {
+    "text": "cup",
+    "isDanger": 0,
+    "phonetic": "/kʌp/",
+    "translation": "n. .杯子",
+    "toggle": "n. 杯子；奖杯；酒杯"
+  },
+  {
+    "text": "where",
+    "isDanger": 1,
+    "phonetic": "/weə(r)/",
+    "translation": "adv. 在哪里",
+    "toggle": "adv. 在哪里"
+  },
+  {
+    "text": "in",
+    "isDanger": 1,
+    "phonetic": "/ɪn/",
+    "translation": "prep. 在…里",
+    "toggle": "prep. 在 … 之内；从事于；按照（表示方式）"
+  }
+]

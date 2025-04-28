@@ -1,0 +1,86 @@
+[
+  {
+    "text": "sceptical",
+    "isDanger": 0,
+    "phonetic": "/ˈskeptɪk(ə)l/",
+    "translation": "adj. 怀疑的",
+    "toggle": "adj. 持怀疑态度的，不相信的；（哲）怀疑论的，不可知论的"
+  },
+  {
+    "text": "forefathers",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 祖先",
+    "toggle": ""
+  },
+  {
+    "text": "fervently",
+    "isDanger": 0,
+    "phonetic": "/ˈfɜːvəntli/",
+    "translation": "adv. 热情地",
+    "toggle": "adv.热心地,热诚地"
+  },
+  {
+    "text": "curative",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 治病的",
+    "toggle": "adj.医疗的n.药品"
+  },
+  {
+    "text": "astronomical",
+    "isDanger": 0,
+    "phonetic": "/ˌæstrəˈnɒmɪk(ə)l/",
+    "translation": "adj. 天文学的",
+    "toggle": "adj. 天文的，天文学的；极大的"
+  },
+  {
+    "text": "tangible",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 实实在在的",
+    "toggle": "adj. 有形的；可触摸的；切实的"
+  },
+  {
+    "text": "remedy",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 药物",
+    "toggle": "vt. 补救；治疗；纠正"
+  },
+  {
+    "text": "ointment",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 药膏",
+    "toggle": "n. 油膏；药膏"
+  },
+  {
+    "text": "prescribe",
+    "isDanger": 0,
+    "phonetic": "/prɪˈskraɪb/",
+    "translation": "v. 开药方",
+    "toggle": "vi. 规定；开药方"
+  },
+  {
+    "text": "indisposition",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 小病",
+    "toggle": ""
+  },
+  {
+    "text": "disgusting",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈɡʌstɪŋ/",
+    "translation": "adj. 令人讨厌的",
+    "toggle": "adj. 令人厌恶的"
+  },
+  {
+    "text": "inconvenience",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 不便",
+    "toggle": "n. 麻烦；不便"
+  }
+]

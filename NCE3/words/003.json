@@ -1,0 +1,142 @@
+[
+  {
+    "text": "goddess",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɒdes/",
+    "translation": "n. 女神",
+    "toggle": "n. 女神，受崇拜的女性"
+  },
+  {
+    "text": "archaeologist",
+    "isDanger": 0,
+    "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+    "translation": "n. 考古学家",
+    "toggle": "n. 考古学家"
+  },
+  {
+    "text": "Aegean",
+    "isDanger": 0,
+    "phonetic": "/iːˈdʒiːən/",
+    "translation": "adj. 爱琴海的",
+    "toggle": "adj.爱琴海的n.爱琴海(地中海的一部分,在希腊同土耳其之间)"
+  },
+  {
+    "text": "explore",
+    "isDanger": 1,
+    "phonetic": "/ɪkˈsplɔː(r)/",
+    "translation": "v. 考察，勘探",
+    "toggle": "vt. 探测；探索；探险"
+  },
+  {
+    "text": "promontory",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒməntri/",
+    "translation": "n. 海角",
+    "toggle": "n. 岬，海角；隆起，隆突"
+  },
+  {
+    "text": "prosperous",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒspərəs/",
+    "translation": "adj. (经济上)繁荣的，昌盛的",
+    "toggle": "adj. 繁荣的；兴旺的"
+  },
+  {
+    "text": "civilization",
+    "isDanger": 0,
+    "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+    "translation": "n. 文明",
+    "toggle": "n. 文明；文化"
+  },
+  {
+    "text": "storey",
+    "isDanger": 0,
+    "phonetic": "/ˈstɔːri/",
+    "translation": "n. 楼层",
+    "toggle": "n. 楼层，层"
+  },
+  {
+    "text": "drainage",
+    "isDanger": 0,
+    "phonetic": "/ˈdreɪnɪdʒ/",
+    "translation": "n. 排水",
+    "toggle": "n. 排水；排水系统；污水；排水面积"
+  },
+  {
+    "text": "worship",
+    "isDanger": 0,
+    "phonetic": "/ˈwɜːʃɪp/",
+    "translation": "n. 祟拜",
+    "toggle": "n. 礼拜；尊敬；崇拜"
+  },
+  {
+    "text": "sacred",
+    "isDanger": 0,
+    "phonetic": "/ˈseɪkrɪd/",
+    "translation": "adj. 宗教的，神圣的",
+    "toggle": "adj. 神圣的；庄严的；宗教的；神的"
+  },
+  {
+    "text": "fragment",
+    "isDanger": 0,
+    "phonetic": "/ˈfræɡmənt/",
+    "translation": "n. 碎片",
+    "toggle": "n. 碎片；片断或不完整部分"
+  },
+  {
+    "text": "remains",
+    "isDanger": 0,
+    "phonetic": "/rɪˈmeɪnz/",
+    "translation": "n. 遗物，遗迹，废墟",
+    "toggle": "n. 残余；遗骸"
+  },
+  {
+    "text": "classical",
+    "isDanger": 0,
+    "phonetic": "/ˈklæsɪk(ə)l/",
+    "translation": "adj. (希腊和罗马)古文化的",
+    "toggle": "adj. 古典的；经典的；第一流的；传统的"
+  },
+  {
+    "text": "reconstruct",
+    "isDanger": 0,
+    "phonetic": "/ˌriːkənˈstrʌkt/",
+    "translation": "v. 修复",
+    "toggle": "vt. 重建；修复；改造；重现"
+  },
+  {
+    "text": "rest",
+    "isDanger": 1,
+    "phonetic": "/rest/",
+    "translation": "v. 倚放，放置",
+    "toggle": "vt. 使休息，使轻松；把 … 寄托于"
+  },
+  {
+    "text": "hip",
+    "isDanger": 0,
+    "phonetic": "/hɪp/",
+    "translation": "n. 屁股，臀部",
+    "toggle": "n. 臀部；蔷薇果；忧郁"
+  },
+  {
+    "text": "full-length",
+    "isDanger": 0,
+    "phonetic": "/ˌfʊl ˈleŋθ/",
+    "translation": "adj. (裙衣)拖地长的",
+    "toggle": "adj. 全身的；全长的，未删节的；大型的"
+  },
+  {
+    "text": "graceful",
+    "isDanger": 0,
+    "phonetic": "/ˈɡreɪsf(ə)l/",
+    "translation": "adj. 优雅的",
+    "toggle": "adj. 优美的；优雅的"
+  },
+  {
+    "text": "identity",
+    "isDanger": 0,
+    "phonetic": "/aɪˈdentəti/",
+    "translation": "n. 身份",
+    "toggle": "n. 身份；同一性，一致；恒等式；特性"
+  }
+]

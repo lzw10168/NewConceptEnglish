@@ -1,0 +1,156 @@
+[
+  {
+    "text": "butcher",
+    "isDanger": 0,
+    "phonetic": "/ˈbʊtʃə(r)/",
+    "translation": "n. 卖肉的",
+    "toggle": "vt. 屠杀"
+  },
+  {
+    "text": "meat",
+    "isDanger": 0,
+    "phonetic": "/miːt/",
+    "translation": "n. (食用)肉",
+    "toggle": "n. 肉，肉类（食用）"
+  },
+  {
+    "text": "mince",
+    "isDanger": 0,
+    "phonetic": "/mɪns/",
+    "translation": "n. 肉馅，绞肉",
+    "toggle": "vt. 切碎；矫揉做作地说"
+  },
+  {
+    "text": "beef",
+    "isDanger": 0,
+    "phonetic": "/biːf/",
+    "translation": "n. 牛肉",
+    "toggle": "n. 牛肉；食用牛；肌肉；牢骚"
+  },
+  {
+    "text": "steak",
+    "isDanger": 0,
+    "phonetic": "/steɪk/",
+    "translation": "n. 牛排",
+    "toggle": "n. 牛排；肉排；鱼排"
+  },
+  {
+    "text": "lamb",
+    "isDanger": 0,
+    "phonetic": "/læm/",
+    "translation": "n. 羔羊肉",
+    "toggle": "n. 羔羊，小羊；羔羊肉"
+  },
+  {
+    "text": "mutton",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌtn/",
+    "translation": "n. 羊肉",
+    "toggle": "n.羊肉,<谑>绵羊,<俚>女性生殖器,性交"
+  },
+  {
+    "text": "husband",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌzbənd/",
+    "translation": "n. 丈夫",
+    "toggle": "n.丈夫"
+  },
+  {
+    "text": "chicken",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃɪkɪn/",
+    "translation": "n. 鸡",
+    "toggle": "n. 小鸡；鸡肉；胆小鬼，懦夫"
+  },
+  {
+    "text": "tell",
+    "isDanger": 1,
+    "phonetic": "/tel/",
+    "translation": "v. 告诉",
+    "toggle": "vt. 告诉，说；吩咐；辨别；断定"
+  },
+  {
+    "text": "truth",
+    "isDanger": 0,
+    "phonetic": "/truːθ/",
+    "translation": "n. 实情",
+    "toggle": "n. 事实；真理；实质；诚实"
+  },
+  {
+    "text": "either",
+    "isDanger": 1,
+    "phonetic": "/ˈaɪðə(r)/",
+    "translation": "adv. 也(用于否定句)",
+    "toggle": "adj. 两者之中任一的；两者之中每一的"
+  },
+  {
+    "text": "neither",
+    "isDanger": 1,
+    "phonetic": "/ˈnaɪðə(r)/",
+    "translation": "adv. 也不（用于否定句后)",
+    "toggle": "conj. 既不；也不"
+  },
+  {
+    "text": "tomato",
+    "isDanger": 0,
+    "phonetic": "/təˈmɑːtəʊ/",
+    "translation": "n. 西红柿",
+    "toggle": "n. 番茄，西红柿"
+  },
+  {
+    "text": "potato",
+    "isDanger": 0,
+    "phonetic": "/pəˈteɪtəʊ/",
+    "translation": "n. 土豆",
+    "toggle": "n. 土豆，马铃薯"
+  },
+  {
+    "text": "cabbage",
+    "isDanger": 0,
+    "phonetic": "/ˈkæbɪdʒ/",
+    "translation": "n. 卷心菜",
+    "toggle": "n. 卷心菜，甘蓝菜，（俚）脑袋"
+  },
+  {
+    "text": "lettuce",
+    "isDanger": 0,
+    "phonetic": "/ˈletɪs/",
+    "translation": "n. 莴苣",
+    "toggle": "n. 莴苣；生菜；（美）纸币"
+  },
+  {
+    "text": "pea",
+    "isDanger": 0,
+    "phonetic": "/piː/",
+    "translation": "n. 豌豆",
+    "toggle": "n. [ 植 ] 豌豆"
+  },
+  {
+    "text": "bean",
+    "isDanger": 0,
+    "phonetic": "/biːn/",
+    "translation": "n. 豆角",
+    "toggle": "n. 豆； [ 动 ] 嘴峰； [ 美口 ] 毫无价值的东西"
+  },
+  {
+    "text": "pear",
+    "isDanger": 0,
+    "phonetic": "/peə(r)/",
+    "translation": "n. 梨",
+    "toggle": "n. 梨树；梨子"
+  },
+  {
+    "text": "grape",
+    "isDanger": 0,
+    "phonetic": "/ɡreɪp/",
+    "translation": "n. 葡萄",
+    "toggle": "n. 葡萄；葡萄树；葡萄色；葡萄酒"
+  },
+  {
+    "text": "peach",
+    "isDanger": 0,
+    "phonetic": "/piːtʃ/",
+    "translation": "n. 桃",
+    "toggle": "n. 桃子；桃树；桃红色； [ 美俚 ] 受人喜欢的人（或物）"
+  }
+]

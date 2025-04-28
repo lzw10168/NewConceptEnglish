@@ -1,0 +1,121 @@
+[
+  {
+    "text": "influence",
+    "isDanger": 1,
+    "phonetic": "/ˈɪnfluəns/",
+    "translation": "v. 影响",
+    "toggle": "n. 影响；势力；感化；有影响的人或事"
+  },
+  {
+    "text": "pride",
+    "isDanger": 0,
+    "phonetic": "/praɪd/",
+    "translation": "v. 骄傲",
+    "toggle": "n. 骄傲；自豪；自尊心"
+  },
+  {
+    "text": "taste",
+    "isDanger": 0,
+    "phonetic": "/teɪst/",
+    "translation": "n. 鉴赏力",
+    "toggle": "n. 味道；品味；审美"
+  },
+  {
+    "text": "exert",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzɜːt/",
+    "translation": "v. 施加",
+    "toggle": "vt. 运用，发挥；施以影响"
+  },
+  {
+    "text": "subtle",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌt(ə)l/",
+    "translation": "adj. 微妙的，难以捉摸的",
+    "toggle": "adj. 微妙的；敏感的；狡猾的；精细的；稀薄的"
+  },
+  {
+    "text": "advertiser",
+    "isDanger": 0,
+    "phonetic": "/ˈædvətaɪzə(r)/",
+    "translation": "n. 做广告的人",
+    "toggle": "n. 刊登广告的人；广告客户"
+  },
+  {
+    "text": "classify",
+    "isDanger": 0,
+    "phonetic": "/ˈklæsɪfaɪ/",
+    "translation": "v. 分类",
+    "toggle": "vt. 分类；分等"
+  },
+  {
+    "text": "magic",
+    "isDanger": 1,
+    "phonetic": "/ˈmædʒɪk/",
+    "translation": "adj. 有奇妙作用的",
+    "toggle": "n. 巫术；魔法；戏法"
+  },
+  {
+    "text": "sample",
+    "isDanger": 0,
+    "phonetic": "/ˈsɑːmp(ə)l/",
+    "translation": "n. 样品",
+    "toggle": "vt. 取样；抽样检查；尝试"
+  },
+  {
+    "text": "devise",
+    "isDanger": 0,
+    "phonetic": "/dɪˈvaɪz/",
+    "translation": "v. 设计，想岀",
+    "toggle": "vt. 设计；发明；想出；图谋；遗赠给"
+  },
+  {
+    "text": "capture",
+    "isDanger": 0,
+    "phonetic": "/ˈkæptʃə(r)/",
+    "translation": "v. 吸引、赢得",
+    "toggle": "vt. 俘获；夺得"
+  },
+  {
+    "text": "manufacturer",
+    "isDanger": 0,
+    "phonetic": "/ˌmænjuˈfæktʃərə(r)/",
+    "translation": "n. 生产厂家, 制造商",
+    "toggle": "n. 制造商；厂商"
+  },
+  {
+    "text": "boot",
+    "isDanger": 1,
+    "phonetic": "/buːt/",
+    "translation": "n. (汽车尾部的)行李箱",
+    "toggle": "vt. 使穿靴；引导；踢；解雇"
+  },
+  {
+    "text": "ingredient",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈɡriːdiənt/",
+    "translation": "n. 配料",
+    "toggle": "n. 要素；组成部分；原料"
+  },
+  {
+    "text": "crane",
+    "isDanger": 0,
+    "phonetic": "/kreɪn/",
+    "translation": "n. 起重机",
+    "toggle": "n. 鹤；吊车，起重机"
+  },
+  {
+    "text": "anticipate",
+    "isDanger": 0,
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "translation": "v. 预期，预料",
+    "toggle": "vt. 预期，期望；占先，抢先；提前使用"
+  },
+  {
+    "text": "wheelbarrow",
+    "isDanger": 0,
+    "phonetic": "/ˈwiːlbærəʊ/",
+    "translation": "n. 独轮手推车",
+    "toggle": "n. 独轮手推车"
+  }
+]

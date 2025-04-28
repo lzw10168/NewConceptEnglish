@@ -1,0 +1,177 @@
+[
+  {
+    "text": "excuse",
+    "isDanger": 1,
+    "phonetic": "/ɪkˈskjuːs/",
+    "translation": "v. 原谅",
+    "toggle": "n. 理由；借口"
+  },
+  {
+    "text": "me",
+    "isDanger": 1,
+    "phonetic": "/miː/",
+    "translation": "pron. 我(宾格)",
+    "toggle": "pron. 我（宾格）"
+  },
+  {
+    "text": "yes",
+    "isDanger": 0,
+    "phonetic": "/jes/",
+    "translation": "adv. 是的",
+    "toggle": "adv. 是"
+  },
+  {
+    "text": "is",
+    "isDanger": 0,
+    "phonetic": "/ɪz/",
+    "translation": "v. be动词现在时第三人称单数",
+    "toggle": "prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安"
+  },
+  {
+    "text": "this",
+    "isDanger": 1,
+    "phonetic": "/ðɪs/",
+    "translation": "pron. 这",
+    "toggle": "pron. 这；这个；这里"
+  },
+  {
+    "text": "your",
+    "isDanger": 0,
+    "phonetic": "/jɔː(r)/",
+    "translation": "pron. 你的，你们的",
+    "toggle": "pron. 你的，你们的"
+  },
+  {
+    "text": "handbag",
+    "isDanger": 0,
+    "phonetic": "/ˈhændbæɡ/",
+    "translation": "n. (女用)手提包",
+    "toggle": "n. 手提包"
+  },
+  {
+    "text": "pardon",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːd(ə)n/",
+    "translation": "interj. 原谅，请再说一遍",
+    "toggle": "n. 原谅；宽恕；赦免"
+  },
+  {
+    "text": "it",
+    "isDanger": 1,
+    "phonetic": "/ɪt/",
+    "translation": "pron. 它",
+    "toggle": "pron. 它"
+  },
+  {
+    "text": "thank",
+    "isDanger": 0,
+    "phonetic": "/θæŋk/",
+    "translation": "v. 感谢",
+    "toggle": "vt. 感谢"
+  },
+  {
+    "text": "you",
+    "isDanger": 0,
+    "phonetic": "/juː/",
+    "translation": "pron. 你(们)",
+    "toggle": "pron. 你；你们"
+  },
+  {
+    "text": "very",
+    "isDanger": 0,
+    "phonetic": "/ˈveri/",
+    "translation": "adv. 非常地",
+    "toggle": "adj. 十足的；恰好是，正是；甚至；特有的"
+  },
+  {
+    "text": "much",
+    "isDanger": 1,
+    "phonetic": "/mʌtʃ/",
+    "translation": "adv. 多地",
+    "toggle": "adv. 非常，很"
+  },
+  {
+    "text": "pen",
+    "isDanger": 0,
+    "phonetic": "/pen/",
+    "translation": "n. 钢笔",
+    "toggle": "n. 钢笔；围栏；作家"
+  },
+  {
+    "text": "pencil",
+    "isDanger": 0,
+    "phonetic": "/ˈpens(ə)l/",
+    "translation": "n. 铅笔",
+    "toggle": "n. 铅笔；笔状物"
+  },
+  {
+    "text": "book",
+    "isDanger": 0,
+    "phonetic": "/bʊk/",
+    "translation": "n. 书",
+    "toggle": "n. 书籍；帐簿；卷；名册；工作簿"
+  },
+  {
+    "text": "watch",
+    "isDanger": 1,
+    "phonetic": "/wɒtʃ/",
+    "translation": "n. 手表",
+    "toggle": "vt. 注视；观察；看守；警戒"
+  },
+  {
+    "text": "coat",
+    "isDanger": 0,
+    "phonetic": "/kəʊt/",
+    "translation": "n. 上衣，外衣",
+    "toggle": "n. 外套"
+  },
+  {
+    "text": "dress",
+    "isDanger": 1,
+    "phonetic": "/dres/",
+    "translation": "n. 连衣裙",
+    "toggle": "vt. 给 … 穿衣"
+  },
+  {
+    "text": "skirt",
+    "isDanger": 0,
+    "phonetic": "/skɜːt/",
+    "translation": "n. 裙子",
+    "toggle": "n. 裙子"
+  },
+  {
+    "text": "shirt",
+    "isDanger": 0,
+    "phonetic": "/ʃɜːt/",
+    "translation": "n. 衬衣",
+    "toggle": "n. 衬衫；汗衫，内衣"
+  },
+  {
+    "text": "car",
+    "isDanger": 0,
+    "phonetic": "/kɑː(r)/",
+    "translation": "n. 小汽车",
+    "toggle": "n. 汽车；车厢"
+  },
+  {
+    "text": "house",
+    "isDanger": 1,
+    "phonetic": "/haʊs/",
+    "translation": "n. 房子",
+    "toggle": "n. 住宅；家庭；某种用途的建筑物；机构；议会"
+  },
+  {
+    "text": "thank you",
+    "isDanger": 0,
+    "phonetic": "/ˈθæŋk juː/",
+    "translation": "interj. 感谢你(们)",
+    "toggle": "谢谢你"
+  },
+  {
+    "text": "very much",
+    "isDanger": 0,
+    "phonetic": "/ˈveri mʌtʃ/",
+    "translation": "interj. 非常地",
+    "toggle": "非常; 良; 无可不可"
+  }
+]

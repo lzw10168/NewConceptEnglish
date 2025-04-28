@@ -1,0 +1,79 @@
+[
+  {
+    "text": "dad",
+    "isDanger": 0,
+    "phonetic": "/dæd/",
+    "translation": "n. 爸(儿语)",
+    "toggle": "n. 爸爸；爹爹"
+  },
+  {
+    "text": "key",
+    "isDanger": 1,
+    "phonetic": "/kiː/",
+    "translation": "n. 钥匙",
+    "toggle": "n. 钥匙；关键；（打字机等的）键"
+  },
+  {
+    "text": "baby",
+    "isDanger": 0,
+    "phonetic": "/ˈbeɪbi/",
+    "translation": "n. 婴儿",
+    "toggle": "n. 婴儿，婴孩；孩子气的人"
+  },
+  {
+    "text": "hear",
+    "isDanger": 0,
+    "phonetic": "/hɪə(r)/",
+    "translation": "v. 听见",
+    "toggle": "vt. 审理；听说；听到，听"
+  },
+  {
+    "text": "enjoy",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "translation": "v. 玩得快活",
+    "toggle": "vt. 喜爱；欣赏，享受；使过得快活"
+  },
+  {
+    "text": "yourself",
+    "isDanger": 0,
+    "phonetic": "/jɔːˈself/",
+    "translation": "pron. 你自己",
+    "toggle": "pron. 你自己"
+  },
+  {
+    "text": "ourselves",
+    "isDanger": 0,
+    "phonetic": "/ɑːˈselvz/",
+    "translation": "pron. 我们自己",
+    "toggle": "pron. 我们自己；我们亲自"
+  },
+  {
+    "text": "myself",
+    "isDanger": 0,
+    "phonetic": "/maɪˈself/",
+    "translation": "pron. 我自己",
+    "toggle": "pron. 我自己；我亲自；我的正常的健康状况和正常情绪"
+  },
+  {
+    "text": "themselves",
+    "isDanger": 0,
+    "phonetic": "/ðəmˈselvz/",
+    "translation": "pron. 他们自己",
+    "toggle": "pron. 他们自己；他们亲自"
+  },
+  {
+    "text": "himself",
+    "isDanger": 0,
+    "phonetic": "/hɪmˈself/",
+    "translation": "pron. 他自己",
+    "toggle": "pron. 他自己；他亲自，他本人"
+  },
+  {
+    "text": "herself",
+    "isDanger": 0,
+    "phonetic": "/hɜːˈself/",
+    "translation": "pron. 她自己",
+    "toggle": "pron. 她自己（ she 的反身代词）；她亲自"
+  }
+]

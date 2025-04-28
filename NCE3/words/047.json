@@ -1,0 +1,226 @@
+[
+  {
+    "text": "pollution",
+    "isDanger": 0,
+    "phonetic": "/pəˈluːʃ(ə)n/",
+    "translation": "n. 污染",
+    "toggle": "n. 污染"
+  },
+  {
+    "text": "overpopulated",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈpɒpjuleɪtɪd/",
+    "translation": "adj. 人口多的",
+    "toggle": "adj. 人口过多的"
+  },
+  {
+    "text": "over-industrialized",
+    "isDanger": 0,
+    "phonetic": "/ˈəʊvə(r) ɪnˈdʌstriəlaɪzd/",
+    "translation": "adj. 过度工业化的",
+    "toggle": "adj. 过度工业化的"
+  },
+  {
+    "text": "sheer",
+    "isDanger": 0,
+    "phonetic": "/ʃɪə(r)/",
+    "translation": "adj. 纯粹的，不掺杂的",
+    "toggle": "adj. 绝对的；透明的；峻峭的"
+  },
+  {
+    "text": "worldwide",
+    "isDanger": 0,
+    "phonetic": "/ˌwɜːldˈwaɪd/",
+    "translation": "adv. 在全世界",
+    "toggle": "adj. 全世界的"
+  },
+  {
+    "text": "overwhelm",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈwelm/",
+    "translation": "v. 制服，使不知所措",
+    "toggle": "vt. 压倒；淹没；受打击"
+  },
+  {
+    "text": "pollute",
+    "isDanger": 0,
+    "phonetic": "/pəˈluːt/",
+    "translation": "v. 污染",
+    "toggle": "vt. 污染；玷污；败坏"
+  },
+  {
+    "text": "pesticide",
+    "isDanger": 0,
+    "phonetic": "/ˈpestɪsaɪd/",
+    "translation": "n. 杀虫剂",
+    "toggle": "n. 杀虫剂"
+  },
+  {
+    "text": "fertilizer",
+    "isDanger": 0,
+    "phonetic": "/ˈfɜːtəlaɪzə(r)/",
+    "translation": "n. 肥料",
+    "toggle": "n. 肥料；受精媒介物；促进发展者"
+  },
+  {
+    "text": "salmonella",
+    "isDanger": 0,
+    "phonetic": "/ˌsælməˈnelə/",
+    "translation": "n. 沙门氏菌",
+    "toggle": "n.沙门氏菌"
+  },
+  {
+    "text": "listeria",
+    "isDanger": 0,
+    "phonetic": "/lɪˈstɪəriə/",
+    "translation": "n. 利斯特杆菌",
+    "toggle": "n. 李斯特菌属"
+  },
+  {
+    "text": "vegetarian",
+    "isDanger": 0,
+    "phonetic": "/ˌvedʒəˈteəriən/",
+    "translation": "n. 吃素的人",
+    "toggle": "n. 素食者；食草动物"
+  },
+  {
+    "text": "organically-grown",
+    "isDanger": 0,
+    "phonetic": "/ɔːˈɡænɪkli-ɡrəʊn/",
+    "translation": "adj. 有机培植的（不施化肥和其他化学品培植）",
+    "toggle": "adj.有机培植的（不施化肥和其他化学药品培植）"
+  },
+  {
+    "text": "insidious",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈsɪdiəs/",
+    "translation": "adj. 暗中为害的",
+    "toggle": "adj. 阴险的；隐伏的；暗中为害的；狡猾的"
+  },
+  {
+    "text": "urban",
+    "isDanger": 1,
+    "phonetic": "/ˈɜːbən/",
+    "translation": "adj. 城市的",
+    "toggle": "adj. 城市的；住在都市的"
+  },
+  {
+    "text": "burglar",
+    "isDanger": 0,
+    "phonetic": "/ˈbɜːɡlə(r)/",
+    "translation": "n. 窃贼",
+    "toggle": "n. 夜贼，窃贼、梁上君子"
+  },
+  {
+    "text": "burgle",
+    "isDanger": 0,
+    "phonetic": "/ˈbɜːɡl/",
+    "translation": "v. 入室偷窃",
+    "toggle": "v. 偷窃，破门盗窃"
+  },
+  {
+    "text": "scream",
+    "isDanger": 0,
+    "phonetic": "/skriːm/",
+    "translation": "v. 尖叫",
+    "toggle": "vi. 尖叫；发出尖锐刺耳的声音；呼啸；令人触目惊心"
+  },
+  {
+    "text": "profound",
+    "isDanger": 0,
+    "phonetic": "/prəˈfaʊnd/",
+    "translation": "adj. 极度的",
+    "toggle": "adj. 深厚的；意义深远的；渊博的"
+  },
+  {
+    "text": "irritation",
+    "isDanger": 0,
+    "phonetic": "/ˌɪrɪˈteɪʃ(ə)n/",
+    "translation": "n. 烦躁",
+    "toggle": "n. 刺激；刺激物；激怒；兴奋"
+  },
+  {
+    "text": "incessantly",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈses(ə)ntli/",
+    "translation": "adv. 连续不断地",
+    "toggle": "adv.不间断地"
+  },
+  {
+    "text": "whine",
+    "isDanger": 1,
+    "phonetic": "/waɪn/",
+    "translation": "v. 发呜呜声",
+    "toggle": "vi. 哭诉；发牢骚；嘎嘎响；发呜呜声"
+  },
+  {
+    "text": "helicopter",
+    "isDanger": 0,
+    "phonetic": "/ˈhelɪkɒptə(r)/",
+    "translation": "n. 直升飞机",
+    "toggle": "n. 直升飞机"
+  },
+  {
+    "text": "maximum",
+    "isDanger": 0,
+    "phonetic": "/ˈmæksɪməm/",
+    "translation": "adj. 最大的",
+    "toggle": "n. 极大，最大限度；最大量"
+  },
+  {
+    "text": "technology",
+    "isDanger": 0,
+    "phonetic": "/tekˈnɒlədʒi/",
+    "translation": "n. 技术",
+    "toggle": "n. 工艺；术语；技术"
+  },
+  {
+    "text": "contribution",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒntrɪˈbjuːʃ(ə)n/",
+    "translation": "n. 贡献",
+    "toggle": "n. 贡献；捐献；投稿"
+  },
+  {
+    "text": "mobile",
+    "isDanger": 1,
+    "phonetic": "/ˈməʊbaɪl/",
+    "translation": "adj. 可移动的",
+    "toggle": "adj. 易变的，；非固定的；机动的"
+  },
+  {
+    "text": "snore",
+    "isDanger": 1,
+    "phonetic": "/snɔː(r)/",
+    "translation": "v. 打鼾",
+    "toggle": "n. 鼾声"
+  },
+  {
+    "text": "offender",
+    "isDanger": 0,
+    "phonetic": "/əˈfendə(r)/",
+    "translation": "n. 冒犯者",
+    "toggle": "n. 冒犯者；违法者；罪犯"
+  },
+  {
+    "text": "staggering",
+    "isDanger": 0,
+    "phonetic": "/ˈstæɡərɪŋ/",
+    "translation": "adj. 令人惊愕的",
+    "toggle": "adj. 另人惊愕的；蹒跚的；犹豫的"
+  },
+  {
+    "text": "trumpet",
+    "isDanger": 0,
+    "phonetic": "/ˈtrʌmpɪt/",
+    "translation": "v. 吹号",
+    "toggle": "n. 喇叭；喇叭声"
+  },
+  {
+    "text": "partner",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːtnə(r)/",
+    "translation": "n. 伙伴",
+    "toggle": "n. 合伙人；伙伴；配偶"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "text": "skeleton",
+    "isDanger": 0,
+    "phonetic": "/ˈskelɪt(ə)n/",
+    "translation": "n. 骷髅",
+    "toggle": "n. 骨架，骨骼；纲要；骨瘦如柴的人"
+  },
+  {
+    "text": "seemingly",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːmɪŋli/",
+    "translation": "adv. 表面上地",
+    "toggle": "adv. 看来似乎；表面上看来"
+  },
+  {
+    "text": "respectable",
+    "isDanger": 0,
+    "phonetic": "/rɪˈspektəbl/",
+    "translation": "adj. 体面的，雅观的",
+    "toggle": "adj. 人格高尚的；值得尊敬的；相当数量的"
+  },
+  {
+    "text": "conceal",
+    "isDanger": 0,
+    "phonetic": "/kənˈsiːl/",
+    "translation": "v. 隐藏，隐瞒",
+    "toggle": "vt. 隐藏；隐瞒"
+  },
+  {
+    "text": "vivid",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪvɪd/",
+    "translation": "adj. 生动的",
+    "toggle": "adj. 鲜明的；鲜艳的；生动的"
+  },
+  {
+    "text": "dramatic",
+    "isDanger": 0,
+    "phonetic": "/drəˈmætɪk/",
+    "translation": "adj. 令人激动的，扣人心 弦的",
+    "toggle": "adj. 戏剧的；引人注目的；激动人心的"
+  },
+  {
+    "text": "ruin",
+    "isDanger": 1,
+    "phonetic": "/ˈruːɪn/",
+    "translation": "v. 毁坏",
+    "toggle": "n. 毁坏；灭亡；废墟"
+  },
+  {
+    "text": "heroine",
+    "isDanger": 0,
+    "phonetic": "/ˈherəʊɪn/",
+    "translation": "n. 女主人公",
+    "toggle": "n. 女英雄；女杰"
+  },
+  {
+    "text": "fiction",
+    "isDanger": 1,
+    "phonetic": "/ˈfɪkʃ(ə)n/",
+    "translation": "n. 小说",
+    "toggle": "n. 小说；虚构，编造；谎言[总称]"
+  },
+  {
+    "text": "varying",
+    "isDanger": 0,
+    "phonetic": "/ˈveəriɪŋ/",
+    "translation": "adj. 不同的",
+    "toggle": "adj. 变化的；不同的"
+  },
+  {
+    "text": "medicine",
+    "isDanger": 0,
+    "phonetic": "/ˈmedsn/",
+    "translation": "n. 医学",
+    "toggle": "n. 药；医学；内科；巫术"
+  },
+  {
+    "text": "guestroom",
+    "isDanger": 0,
+    "phonetic": "/ˈɡestruːm/",
+    "translation": "n. (家庭中的)来客住房",
+    "toggle": "n. （家庭中的）来客住房"
+  },
+  {
+    "text": "unpack",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈpæk/",
+    "translation": "v. (从箱中)取岀",
+    "toggle": "vt. 卸下 …解除 …的负担"
+  },
+  {
+    "text": "stack",
+    "isDanger": 0,
+    "phonetic": "/stæk/",
+    "translation": "v. (整齐地)堆放，排放",
+    "toggle": "n. 堆；堆叠"
+  },
+  {
+    "text": "underclothes",
+    "isDanger": 0,
+    "phonetic": "/ˈʌndəkləʊðz/",
+    "translation": "n. 内衣",
+    "toggle": "n. 内衣，贴身衣物"
+  },
+  {
+    "text": "drawer",
+    "isDanger": 0,
+    "phonetic": "/drɔː(r)/",
+    "translation": "n. 抽屉",
+    "toggle": "n. 抽屉；开票人"
+  },
+  {
+    "text": "petrify",
+    "isDanger": 1,
+    "phonetic": "/ˈpetrɪfaɪ/",
+    "translation": "v. 使惊呆",
+    "toggle": "v. 石化；惊呆"
+  },
+  {
+    "text": "dangle",
+    "isDanger": 0,
+    "phonetic": "/ˈdæŋɡ(ə)l/",
+    "translation": "v. 悬挂",
+    "toggle": "vi. 摇晃地悬挂着"
+  },
+  {
+    "text": "sway",
+    "isDanger": 0,
+    "phonetic": "/sweɪ/",
+    "translation": "v. 摇摆",
+    "toggle": "vt. 使摇动；统治；影响"
+  },
+  {
+    "text": "unsympathetic",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˌsɪmpəˈθetɪk/",
+    "translation": "adj. 不表同情的，无动于衷的",
+    "toggle": "adj. 不表同情的；不同情的"
+  },
+  {
+    "text": "medical",
+    "isDanger": 0,
+    "phonetic": "/ˈmedɪk(ə)l/",
+    "translation": "adj. 医学的",
+    "toggle": "adj. 医学的；内科的；药的"
+  }
+]

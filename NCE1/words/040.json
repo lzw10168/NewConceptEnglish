@@ -1,0 +1,86 @@
+[
+  {
+    "text": "shopping",
+    "isDanger": 0,
+    "phonetic": "/ˈʃɒpɪŋ/",
+    "translation": "n. 购物",
+    "toggle": "n. 购物，买东西"
+  },
+  {
+    "text": "list",
+    "isDanger": 0,
+    "phonetic": "/lɪst/",
+    "translation": "n. 单子",
+    "toggle": "n. 列表；目录；清单"
+  },
+  {
+    "text": "vegetable",
+    "isDanger": 0,
+    "phonetic": "/ˈvedʒtəb(ə)l/",
+    "translation": "n. 蔬菜",
+    "toggle": "n. 蔬菜；植物；植物人"
+  },
+  {
+    "text": "need",
+    "isDanger": 1,
+    "phonetic": "/niːd/",
+    "translation": "v. 需要",
+    "toggle": "n. 需要，要求；必要之物；缺乏"
+  },
+  {
+    "text": "hope",
+    "isDanger": 1,
+    "phonetic": "/həʊp/",
+    "translation": "v. 希望",
+    "toggle": "n. 希望；信心；期望"
+  },
+  {
+    "text": "thing",
+    "isDanger": 0,
+    "phonetic": "/θɪŋ/",
+    "translation": "n. 事情",
+    "toggle": "n. 东西；事物；事情；情况"
+  },
+  {
+    "text": "money",
+    "isDanger": 1,
+    "phonetic": "/ˈmʌni/",
+    "translation": "n. 钱",
+    "toggle": "n. 钱；货币；财富"
+  },
+  {
+    "text": "groceries",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrəʊsəriz/",
+    "translation": "n. 食品杂货",
+    "toggle": "n. 食品杂货店; 食品杂货"
+  },
+  {
+    "text": "fruit",
+    "isDanger": 0,
+    "phonetic": "/fruːt/",
+    "translation": "n. 水果",
+    "toggle": "n. 水果；产物"
+  },
+  {
+    "text": "stationery",
+    "isDanger": 0,
+    "phonetic": "/ˈsteɪʃənri/",
+    "translation": "n. 文具",
+    "toggle": "n. 文具；信纸"
+  },
+  {
+    "text": "newsagent",
+    "isDanger": 0,
+    "phonetic": "/ˈnjuːzeɪdʒənt/",
+    "translation": "n. 报刊零售人",
+    "toggle": "n.报纸或定期刊物之经销商"
+  },
+  {
+    "text": "chemist",
+    "isDanger": 0,
+    "phonetic": "/ˈkemɪst/",
+    "translation": "n. 化剂师，化学家",
+    "toggle": "n. 药剂师；化学家"
+  }
+]

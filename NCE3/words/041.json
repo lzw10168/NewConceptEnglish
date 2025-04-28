@@ -1,0 +1,170 @@
+[
+  {
+    "text": "illusion",
+    "isDanger": 1,
+    "phonetic": "/ɪˈluːʒ(ə)n/",
+    "translation": "n. 幻想，错觉",
+    "toggle": "n. 幻觉，错觉；错误的观念或信仰"
+  },
+  {
+    "text": "pastoral",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːstərəl/",
+    "translation": "adj. 田园的",
+    "toggle": "adj. 牧人的；田园生活的；牧师的；乡村的"
+  },
+  {
+    "text": "breed",
+    "isDanger": 1,
+    "phonetic": "/briːd/",
+    "translation": "v. 培育",
+    "toggle": "vi. 繁殖；饲养；产生"
+  },
+  {
+    "text": "rapture",
+    "isDanger": 0,
+    "phonetic": "/ˈræptʃə(r)/",
+    "translation": "n. 欣喜",
+    "toggle": "n. 兴高采烈"
+  },
+  {
+    "text": "extol",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈstəʊl/",
+    "translation": "v. 赞美，颂扬",
+    "toggle": "vt. 颂扬；赞美；赞颂"
+  },
+  {
+    "text": "superior",
+    "isDanger": 0,
+    "phonetic": "/suːˈpɪəriə(r)/",
+    "translation": "adj. 优越的",
+    "toggle": "adj. 上级的；高傲的；优秀的，出众的"
+  },
+  {
+    "text": "cockcrow",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒkkrəʊ/",
+    "translation": "n. 鸡叫",
+    "toggle": "n.黎明；鸡叫，公鸡的啼叫"
+  },
+  {
+    "text": "twitter",
+    "isDanger": 0,
+    "phonetic": "/ˈtwɪtə(r)/",
+    "translation": "v. (鸟)吱吱叫，喊喊喳喳叫",
+    "toggle": "v.吱吱叫；嘁嘁喳喳地讲；尖声说话；在推特网发博；傻笑"
+  },
+  {
+    "text": "glint",
+    "isDanger": 1,
+    "phonetic": "/ɡlɪnt/",
+    "translation": "v. 闪烁",
+    "toggle": "n. 闪光；闪烁"
+  },
+  {
+    "text": "pasture",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːstʃə(r)/",
+    "translation": "n. 牧场",
+    "toggle": "n. 牧场；牧草；草地"
+  },
+  {
+    "text": "idyllic",
+    "isDanger": 0,
+    "phonetic": "/ɪˈdɪlɪk/",
+    "translation": "adj. 田园诗的",
+    "toggle": "adj. 牧歌的，田园诗的"
+  },
+  {
+    "text": "virtually",
+    "isDanger": 0,
+    "phonetic": "/ˈvɜːtʃuəli/",
+    "translation": "adv. 几乎，差不多",
+    "toggle": "adv. 事实上，几乎；实质上"
+  },
+  {
+    "text": "dubious",
+    "isDanger": 0,
+    "phonetic": "/ˈdjuːbiəs/",
+    "translation": "adj. 可疑的，怀疑的",
+    "toggle": "adj. 可疑的；暧昧的；半信半疑的；无把握的"
+  },
+  {
+    "text": "privilege",
+    "isDanger": 0,
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "translation": "n. 特权",
+    "toggle": "n. 特权；优待；基本权利"
+  },
+  {
+    "text": "misery",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪzəri/",
+    "translation": "n. 苦难",
+    "toggle": "n. 痛苦，悲惨；不幸；穷困；苦恼"
+  },
+  {
+    "text": "acquaintance",
+    "isDanger": 0,
+    "phonetic": "/əˈkweɪntəns/",
+    "translation": "n. 熟人",
+    "toggle": "n. 熟人；了解；知道；相识"
+  },
+  {
+    "text": "treat",
+    "isDanger": 1,
+    "phonetic": "/triːt/",
+    "translation": "n. 难得的乐事，享受",
+    "toggle": "vt. 对待；治疗；探讨；视为"
+  },
+  {
+    "text": "dweller",
+    "isDanger": 0,
+    "phonetic": "/ˈdwelə(r)/",
+    "translation": "n. 居住者",
+    "toggle": "n. 居民，居住者"
+  },
+  {
+    "text": "stagger",
+    "isDanger": 0,
+    "phonetic": "/ˈstæɡə(r)/",
+    "translation": "v. 摇晃，蹒跚",
+    "toggle": "vt. 使交错；蹒跚；使犹豫"
+  },
+  {
+    "text": "exotic",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzɒtɪk/",
+    "translation": "adj. 导乎寻常的，外来的",
+    "toggle": "adj. 外来的；异国的；异国情调的"
+  },
+  {
+    "text": "glow",
+    "isDanger": 1,
+    "phonetic": "/ɡləʊ/",
+    "translation": "n. 白炽光",
+    "toggle": "vi. 发热；洋溢；绚丽夺目"
+  },
+  {
+    "text": "descend",
+    "isDanger": 0,
+    "phonetic": "/dɪˈsend/",
+    "translation": "v. 下落，降临",
+    "toggle": "vi. 下降；下来；遗传；屈尊；下去"
+  },
+  {
+    "text": "tuck",
+    "isDanger": 0,
+    "phonetic": "/tʌk/",
+    "translation": "v. 缩进，隐藏",
+    "toggle": "vt. 卷起；挤进；用某物舒适地裹住；使有褶裥；收拢；大口吃；使隐藏"
+  },
+  {
+    "text": "obstinately",
+    "isDanger": 0,
+    "phonetic": "/ˈɒbstɪnətli/",
+    "translation": "adv. 固执地，顽固地",
+    "toggle": "adv.顽固地；固执地"
+  }
+]

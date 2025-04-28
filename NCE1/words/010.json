@@ -1,0 +1,177 @@
+[
+  {
+    "text": "matter",
+    "isDanger": 0,
+    "phonetic": "/ˈmætə(r)/",
+    "translation": "n. 事情",
+    "toggle": "n. 物质；事件；原因"
+  },
+  {
+    "text": "children",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃɪldrən/",
+    "translation": "n. 孩子们(child 的复数)",
+    "toggle": "n.儿童，小孩；子女"
+  },
+  {
+    "text": "child",
+    "isDanger": 1,
+    "phonetic": "/tʃaɪld/",
+    "translation": "n. 孩子",
+    "toggle": "n. 儿童，孩子；子孙；产物"
+  },
+  {
+    "text": "kid",
+    "isDanger": 0,
+    "phonetic": "/kɪd/",
+    "translation": "n. 小孩儿",
+    "toggle": "n. 小孩；小山羊"
+  },
+  {
+    "text": "tired",
+    "isDanger": 0,
+    "phonetic": "/ˈtaɪəd/",
+    "translation": "adj. 累，疲乏",
+    "toggle": "adj. 疲倦的；厌倦的，厌烦的"
+  },
+  {
+    "text": "boy",
+    "isDanger": 0,
+    "phonetic": "/bɔɪ/",
+    "translation": "n. 男孩",
+    "toggle": "n. 男孩； [ 美口 ] 男人"
+  },
+  {
+    "text": "thirsty",
+    "isDanger": 0,
+    "phonetic": "/ˈθɜːsti/",
+    "translation": "adj. 渴",
+    "toggle": "adj. 口渴的，口干的；渴望的，热望的"
+  },
+  {
+    "text": "mum",
+    "isDanger": 0,
+    "phonetic": "/mʌm/",
+    "translation": "n. 妈妈(儿语)",
+    "toggle": "adj. 沉默的"
+  },
+  {
+    "text": "sit down",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪt daʊn/",
+    "translation": "v. 坐下",
+    "toggle": "坐下"
+  },
+  {
+    "text": "right",
+    "isDanger": 1,
+    "phonetic": "/raɪt/",
+    "translation": "adj. 好，可以",
+    "toggle": "adj. 正确的；右方的；直接的"
+  },
+  {
+    "text": "ice cream",
+    "isDanger": 0,
+    "phonetic": "/ˈaɪs kriːm/",
+    "translation": "n. 冰淇淋",
+    "toggle": "n. 冰淇淋"
+  },
+  {
+    "text": "ice",
+    "isDanger": 0,
+    "phonetic": "/aɪs/",
+    "translation": "n. 冰",
+    "toggle": "n. 冰；冰淇淋；矜持；（俚）钻石； vt. 冰镇；结冰； vi. 结冰； adj. 冰的"
+  },
+  {
+    "text": "cream",
+    "isDanger": 0,
+    "phonetic": "/kriːm/",
+    "translation": "n. 脂",
+    "toggle": "n. 奶油，乳脂；乳酪；精华；面霜"
+  },
+  {
+    "text": "big",
+    "isDanger": 1,
+    "phonetic": "/bɪɡ/",
+    "translation": "adj. 大的",
+    "toggle": "adj. 大的；重要的；量大的"
+  },
+  {
+    "text": "small",
+    "isDanger": 0,
+    "phonetic": "/smɔːl/",
+    "translation": "adj. 小的",
+    "toggle": "adj. 少的，小的；不重要的；几乎没有的；微弱的；幼小的"
+  },
+  {
+    "text": "open",
+    "isDanger": 1,
+    "phonetic": "/ˈəʊpən/",
+    "translation": "adj. 开着的",
+    "toggle": "adj. 营业着的；敞开的；空旷的；公开的；坦率的"
+  },
+  {
+    "text": "shut",
+    "isDanger": 0,
+    "phonetic": "/ʃʌt/",
+    "translation": "adj. 关着的",
+    "toggle": "vt. 关闭；停业；幽禁"
+  },
+  {
+    "text": "close",
+    "isDanger": 1,
+    "phonetic": "/kləʊz/",
+    "translation": "v. 关",
+    "toggle": "adj. 亲密的；亲近的；紧密的"
+  },
+  {
+    "text": "light",
+    "isDanger": 1,
+    "phonetic": "/laɪt/",
+    "translation": "adj. 轻的",
+    "toggle": "n. 光，光亮；灯"
+  },
+  {
+    "text": "heavy",
+    "isDanger": 0,
+    "phonetic": "/ˈhevi/",
+    "translation": "adj. 重的",
+    "toggle": "adj. 沉重的；繁重的，巨大的；阴沉的"
+  },
+  {
+    "text": "long",
+    "isDanger": 1,
+    "phonetic": "/lɒŋ/",
+    "translation": "adj. 长的",
+    "toggle": "n. 长时间；长音节"
+  },
+  {
+    "text": "shoe",
+    "isDanger": 0,
+    "phonetic": "/ʃuː/",
+    "translation": "n. 鞋子",
+    "toggle": "n. 鞋；蹄铁；外胎"
+  },
+  {
+    "text": "grandfather",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrænfɑːðə(r)/",
+    "translation": "n. 祖父，外祖父",
+    "toggle": "n. 祖父；始祖"
+  },
+  {
+    "text": "grandmother",
+    "isDanger": 0,
+    "phonetic": "/ˈɡrænmʌðə(r)/",
+    "translation": "n. 祖母，外祖",
+    "toggle": "n. 祖母；女祖先"
+  },
+  {
+    "text": "grand",
+    "isDanger": 0,
+    "phonetic": "/ɡrænd/",
+    "translation": "n. 大",
+    "toggle": "adj. 宏伟的；豪华的；极重要的"
+  }
+]

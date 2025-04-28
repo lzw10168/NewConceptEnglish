@@ -1,0 +1,107 @@
+[
+  {
+    "text": "navigation",
+    "isDanger": 0,
+    "phonetic": "/ˌnævɪˈɡeɪʃ(ə)n/",
+    "translation": "n. 航海",
+    "toggle": "n. 航海；航行"
+  },
+  {
+    "text": "sounding",
+    "isDanger": 0,
+    "phonetic": "/ˈsaʊndɪŋ/",
+    "translation": "n. 水深度",
+    "toggle": "n. 音响；试探；测探水深"
+  },
+  {
+    "text": "fathom",
+    "isDanger": 0,
+    "phonetic": "/ˈfæðəm/",
+    "translation": "n. 寻（1寻等于1.8米）",
+    "toggle": "vt. 看穿；彻底了解；测量 … 的深度"
+  },
+  {
+    "text": "porcupine",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 箭猪",
+    "toggle": "n.[动]豪猪,箭猪"
+  },
+  {
+    "text": "dredge",
+    "isDanger": 0,
+    "phonetic": "/dredʒ/",
+    "translation": "v. 挖掘",
+    "toggle": "vt. （用挖泥船等）疏浚；（用拖捞网等）捞取；（在食物上）撒（面粉等）"
+  },
+  {
+    "text": "expedition",
+    "isDanger": 0,
+    "phonetic": "/ˌekspəˈdɪʃ(ə)n/",
+    "translation": "n. 远征",
+    "toggle": "n. 远征；迅速；探险队"
+  },
+  {
+    "text": "physicist",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪzɪsɪst/",
+    "translation": "n. 物理学家",
+    "toggle": "n. 物理学家；唯物论者"
+  },
+  {
+    "text": "magnitude",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 很多",
+    "toggle": "n. 大小；光度；重要；震级；量级"
+  },
+  {
+    "text": "topography",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 地形",
+    "toggle": "n. 地形学；地志；地势"
+  },
+  {
+    "text": "crust",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 地壳",
+    "toggle": "n. 面包皮；外壳；坚硬外皮"
+  },
+  {
+    "text": "rugged",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 崎岖不平",
+    "toggle": "adj. 粗糙的；坚固的；崎岖的；高低不平的"
+  },
+  {
+    "text": "tableland",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 高地",
+    "toggle": "n.高原"
+  },
+  {
+    "text": "sediment",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 沉淀物",
+    "toggle": "n. 沉淀物；沉积"
+  },
+  {
+    "text": "terrace",
+    "isDanger": 0,
+    "phonetic": "/ˈterəs/",
+    "translation": "n. 阶地",
+    "toggle": "n. 梯田；阳台；平台"
+  },
+  {
+    "text": "erode",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 侵蚀",
+    "toggle": "vt. 腐蚀，侵蚀"
+  }
+]

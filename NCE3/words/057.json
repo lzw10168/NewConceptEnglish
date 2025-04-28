@@ -1,0 +1,100 @@
+[
+  {
+    "text": "alien",
+    "isDanger": 1,
+    "phonetic": "/ˈeɪliən/",
+    "translation": "adj. 异国的，外国的",
+    "toggle": "adj. 外国的；相异的，性质不同的；不相容的"
+  },
+  {
+    "text": "emigrate",
+    "isDanger": 0,
+    "phonetic": "/ˈemɪɡreɪt/",
+    "translation": "v. 移居（国外）",
+    "toggle": "vi. 移居；移居外国"
+  },
+  {
+    "text": "absorb",
+    "isDanger": 1,
+    "phonetic": "/əbˈzɔːb/",
+    "translation": "v. 全神贯注于",
+    "toggle": "vt. 吸收；吸引；承受；理解；使 … 全神贯注"
+  },
+  {
+    "text": "embedded",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈbedɪd/",
+    "translation": "adj. 扎牢的",
+    "toggle": "adj. 植入的；内含的；嵌入式的"
+  },
+  {
+    "text": "mortally",
+    "isDanger": 0,
+    "phonetic": "/ˈmɔːtəli/",
+    "translation": "adv. 致命地",
+    "toggle": "adv. 致命地；非常"
+  },
+  {
+    "text": "comprehensive",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "translation": "adj. 广泛的；丰富的",
+    "toggle": "adj. 广泛的；综合的；有理解力的"
+  },
+  {
+    "text": "milestone",
+    "isDanger": 0,
+    "phonetic": "/ˈmaɪlstəʊn/",
+    "translation": "n. 里程碑",
+    "toggle": "n. 里程碑，划时代的事件"
+  },
+  {
+    "text": "territory",
+    "isDanger": 0,
+    "phonetic": "/ˈterətri/",
+    "translation": "n. 领地；地区",
+    "toggle": "n. 领土，领域；版图；地域；范围"
+  },
+  {
+    "text": "milometer",
+    "isDanger": 0,
+    "phonetic": "/maɪˈlɒmɪtə(r)/",
+    "translation": "n. 计程表",
+    "toggle": "n. 计程表"
+  },
+  {
+    "text": "spire",
+    "isDanger": 0,
+    "phonetic": "/ˈspaɪə(r)/",
+    "translation": "n. （教堂的）塔尖",
+    "toggle": "n. 尖塔；尖顶；螺旋"
+  },
+  {
+    "text": "retrace",
+    "isDanger": 0,
+    "phonetic": "/rɪˈtreɪs/",
+    "translation": "v. 返回，重走",
+    "toggle": "vt. 追溯；折回；重描"
+  },
+  {
+    "text": "stumble",
+    "isDanger": 1,
+    "phonetic": "/ˈstʌmb(ə)l/",
+    "translation": "v. 趔趄地走",
+    "toggle": "vi. 踌躇，蹒跚；失足；犯错"
+  },
+  {
+    "text": "horizon",
+    "isDanger": 0,
+    "phonetic": "/həˈraɪz(ə)n/",
+    "translation": "n. 地平线",
+    "toggle": "n. 地平线；眼界；范围；视野"
+  },
+  {
+    "text": "reservoir",
+    "isDanger": 0,
+    "phonetic": "/ˈrezəvwɑː(r)/",
+    "translation": "n. 水库",
+    "toggle": "n. 水库；蓄水池"
+  }
+]

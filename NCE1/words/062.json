@@ -1,0 +1,72 @@
+[
+  {
+    "text": "during",
+    "isDanger": 1,
+    "phonetic": "/ˈdjʊərɪŋ/",
+    "translation": "prep. 在…期间",
+    "toggle": "prep. 在 … 的时候，在 … 的期间"
+  },
+  {
+    "text": "trip",
+    "isDanger": 0,
+    "phonetic": "/trɪp/",
+    "translation": "n. 旅行",
+    "toggle": "vi. 绊倒；犯错误；远足；轻快地走"
+  },
+  {
+    "text": "travel",
+    "isDanger": 0,
+    "phonetic": "/ˈtræv(ə)l/",
+    "translation": "v. 旅行",
+    "toggle": "vi. 旅行；步行；行进； [ 口 ] 交往"
+  },
+  {
+    "text": "offer",
+    "isDanger": 1,
+    "phonetic": "/ˈɒfə(r)/",
+    "translation": "v. 提供",
+    "toggle": "vt. 提供；试图；出价"
+  },
+  {
+    "text": "job",
+    "isDanger": 0,
+    "phonetic": "/dʒɒb/",
+    "translation": "n. 工作",
+    "toggle": "n. 工作；职业"
+  },
+  {
+    "text": "work",
+    "isDanger": 1,
+    "phonetic": "/wɜːk/",
+    "translation": "v. 工作",
+    "toggle": "n. 工作；职业；产品；行为；文学、音乐或艺术作品；工厂；操作； [ 物 ] 功"
+  },
+  {
+    "text": "guess",
+    "isDanger": 0,
+    "phonetic": "/ɡes/",
+    "translation": "v. 猜",
+    "toggle": "vt. 猜测；推测；猜中； [ 美口 ] 认为"
+  },
+  {
+    "text": "grow",
+    "isDanger": 1,
+    "phonetic": "/ɡrəʊ/",
+    "translation": "v. 长，让…生长",
+    "toggle": "vi. 生长；发展；渐渐变得 …"
+  },
+  {
+    "text": "beard",
+    "isDanger": 0,
+    "phonetic": "/bɪəd/",
+    "translation": "n. (下巴上的)胡子，络腮胡子",
+    "toggle": "vt. 公然反对；抓 … 的胡须"
+  },
+  {
+    "text": "kitten",
+    "isDanger": 0,
+    "phonetic": "/ˈkɪt(ə)n/",
+    "translation": "n. 小猫",
+    "toggle": "n. 小猫；小动物"
+  }
+]

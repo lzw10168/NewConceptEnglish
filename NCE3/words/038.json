@@ -1,0 +1,191 @@
+[
+  {
+    "text": "calendar",
+    "isDanger": 0,
+    "phonetic": "/ˈkælɪndə(r)/",
+    "translation": "n. 历法，日历",
+    "toggle": "n. 日历(perpetual calendar)；历法；日程表"
+  },
+  {
+    "text": "historian",
+    "isDanger": 0,
+    "phonetic": "/hɪˈstɔːriən/",
+    "translation": "n. 历史学家",
+    "toggle": "n. 历史学家"
+  },
+  {
+    "text": "unique",
+    "isDanger": 0,
+    "phonetic": "/juˈniːk/",
+    "translation": "adj. 无与伦比的",
+    "toggle": "adj. 唯一的，独一无二的；独特的，稀罕的"
+  },
+  {
+    "text": "steadily",
+    "isDanger": 0,
+    "phonetic": "/ˈstedəli/",
+    "translation": "adv. 不断地",
+    "toggle": "adv. 稳定地；稳固地；有规则地"
+  },
+  {
+    "text": "solely",
+    "isDanger": 0,
+    "phonetic": "/ˈsəʊlli/",
+    "translation": "adv. 唯一地",
+    "toggle": "adv. 单独地，唯一地"
+  },
+  {
+    "text": "video",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪdiəʊ/",
+    "translation": "n. 录像",
+    "toggle": "n. 电视；录像，录像机；视频"
+  },
+  {
+    "text": "CD-ROM",
+    "isDanger": 0,
+    "phonetic": "/ˌsiː diː ˈrɒm/",
+    "translation": "n. (只读)光盘驱动器",
+    "toggle": "abbr.只读光盘驱动器（Compact Disc Read - Only Memory）"
+  },
+  {
+    "text": "bewilder",
+    "isDanger": 0,
+    "phonetic": "/bɪˈwɪldə(r)/",
+    "translation": "v. 令人眼花缭乱",
+    "toggle": "v.使迷惑，使糊涂"
+  },
+  {
+    "text": "deduce",
+    "isDanger": 0,
+    "phonetic": "/dɪˈdjuːs/",
+    "translation": "v. 推断，推理",
+    "toggle": "vt. 推论，推断；演绎出"
+  },
+  {
+    "text": "scanty",
+    "isDanger": 0,
+    "phonetic": "/ˈskænti/",
+    "translation": "adj. 不足的，贫乏的",
+    "toggle": "adj.少量的，不足的；（衣服）暴露的，紧（身）的"
+  },
+  {
+    "text": "mammoth",
+    "isDanger": 0,
+    "phonetic": "/ˈmæməθ/",
+    "translation": "n. (古)长毛象",
+    "toggle": "n. 长毛象；猛犸象；庞然大物"
+  },
+  {
+    "text": "tusk",
+    "isDanger": 0,
+    "phonetic": "/tʌsk/",
+    "translation": "n. 镣牙，长牙，象牙",
+    "toggle": "n. 长牙；尖头，尖形物"
+  },
+  {
+    "text": "nomad",
+    "isDanger": 0,
+    "phonetic": "/ˈnəʊmæd/",
+    "translation": "n. 游牧民",
+    "toggle": "n. 流浪者；游牧民"
+  },
+  {
+    "text": "correlate",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒrəleɪt/",
+    "translation": "v. 使相互联系",
+    "toggle": "vi. 关联、使相互联系"
+  },
+  {
+    "text": "clue",
+    "isDanger": 0,
+    "phonetic": "/kluː/",
+    "translation": "n. 线索",
+    "toggle": "n. 线索；（故事等的）情节"
+  },
+  {
+    "text": "insignificant",
+    "isDanger": 0,
+    "phonetic": "/ˌɪnsɪɡˈnɪfɪkənt/",
+    "translation": "adj. 不重要的",
+    "toggle": "adj. 无关紧要的"
+  },
+  {
+    "text": "shed",
+    "isDanger": 0,
+    "phonetic": "/ʃed/",
+    "translation": "v. 使流出，泻",
+    "toggle": "vt. 散发；流出；摆脱；倾吐"
+  },
+  {
+    "text": "advent",
+    "isDanger": 0,
+    "phonetic": "/ˈædvent/",
+    "translation": "n. 出现，到来，来临",
+    "toggle": "n. 到来；出现；基督降临；基督降临节"
+  },
+  {
+    "text": "agriculture",
+    "isDanger": 0,
+    "phonetic": "/ˈæɡrɪkʌltʃə(r)/",
+    "translation": "n. 农业",
+    "toggle": "n. 农业；农艺，农学"
+  },
+  {
+    "text": "assumption",
+    "isDanger": 0,
+    "phonetic": "/əˈsʌmpʃn/",
+    "translation": "n. 假定，设想",
+    "toggle": "n. 假定；设想；担任；采取"
+  },
+  {
+    "text": "dot",
+    "isDanger": 0,
+    "phonetic": "/dɒt/",
+    "translation": "n. 小圆点",
+    "toggle": "n. 点，圆点；嫁妆"
+  },
+  {
+    "text": "symbol",
+    "isDanger": 1,
+    "phonetic": "/ˈsɪmb(ə)l/",
+    "translation": "n. 符号",
+    "toggle": "n. 符号；象征；标志"
+  },
+  {
+    "text": "engrave",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈɡreɪv/",
+    "translation": "v. 雕刻",
+    "toggle": "vt. 雕刻；铭记"
+  },
+  {
+    "text": "ivory",
+    "isDanger": 0,
+    "phonetic": "/ˈaɪvəri/",
+    "translation": "n. 象牙制品",
+    "toggle": "n. 象牙；乳白色；长牙"
+  },
+  {
+    "text": "phase",
+    "isDanger": 0,
+    "phonetic": "/feɪz/",
+    "translation": "n. 月相，天相",
+    "toggle": "n. 相；位相；阶段"
+  },
+  {
+    "text": "primitive",
+    "isDanger": 0,
+    "phonetic": "/ˈprɪmətɪv/",
+    "translation": "adj. 原始的",
+    "toggle": "adj. 原始的，远古的；简单的，粗糙的"
+  },
+  {
+    "text": "depict",
+    "isDanger": 0,
+    "phonetic": "/dɪˈpɪkt/",
+    "translation": "v. 描绘",
+    "toggle": "vt. 描画；描述"
+  }
+]

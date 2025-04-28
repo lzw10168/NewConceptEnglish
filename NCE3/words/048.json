@@ -1,0 +1,135 @@
+[
+  {
+    "text": "inaccessible",
+    "isDanger": 0,
+    "phonetic": "/ˌɪnækˈsesəb(ə)l/",
+    "translation": "adj. 难接近的，达不到的",
+    "toggle": "adj. 难接近的；难达到的；难见到的"
+  },
+  {
+    "text": "hospitable",
+    "isDanger": 0,
+    "phonetic": "/hɒˈspɪtəb(ə)l/",
+    "translation": "adj. 好客的",
+    "toggle": "adj. 热情友好的；（环境）舒适的"
+  },
+  {
+    "text": "hostile",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒstaɪl/",
+    "translation": "adj. 不友好的，有敌意的",
+    "toggle": "adj. 敌对的，敌方的；怀敌意的"
+  },
+  {
+    "text": "vicinity",
+    "isDanger": 0,
+    "phonetic": "/vəˈsɪnəti/",
+    "translation": "n. 周围，近邻",
+    "toggle": "n. 邻近，附近；近处"
+  },
+  {
+    "text": "architectural",
+    "isDanger": 0,
+    "phonetic": "/ˌɑːkɪˈtektʃərəl/",
+    "translation": "adj. 建筑的",
+    "toggle": "adj. 建筑学的；建筑上的；符合建筑法的"
+  },
+  {
+    "text": "fresco",
+    "isDanger": 0,
+    "phonetic": "/ˈfreskəʊ/",
+    "translation": "n. 壁画",
+    "toggle": "n. 壁画"
+  },
+  {
+    "text": "abruptly",
+    "isDanger": 0,
+    "phonetic": "/əˈbrʌptli/",
+    "translation": "adv. 突然地，意外地",
+    "toggle": "adv. 突然地；唐突地"
+  },
+  {
+    "text": "tramp",
+    "isDanger": 0,
+    "phonetic": "/træmp/",
+    "translation": "v. 徒步行进",
+    "toggle": "vi. 脚步沉重地行走；践踏，踩；流浪"
+  },
+  {
+    "text": "moor",
+    "isDanger": 1,
+    "phonetic": "/mɔː(r)/",
+    "translation": "v. （用绳、链、锚）系（船）",
+    "toggle": "vt. 系住；使停泊"
+  },
+  {
+    "text": "ferry",
+    "isDanger": 0,
+    "phonetic": "/ˈferi/",
+    "translation": "v. （用渡船）运",
+    "toggle": "n. 渡口；渡船；摆渡"
+  },
+  {
+    "text": "straggle",
+    "isDanger": 1,
+    "phonetic": "/ˈstræɡ(ə)l/",
+    "translation": "v. 蔓延，散乱分布",
+    "toggle": "v.迷路,落伍,蔓生,四散,漫延 n.散乱"
+  },
+  {
+    "text": "dilapidated",
+    "isDanger": 0,
+    "phonetic": "/dɪˈlæpɪdeɪtɪd/",
+    "translation": "adj. 陈旧破烂的，倒塌的",
+    "toggle": "adj. 破坏的；荒废的，要塌似的"
+  },
+  {
+    "text": "sardine",
+    "isDanger": 0,
+    "phonetic": "/ˌsɑːˈdiːn/",
+    "translation": "n. 沙丁鱼，沙丁鱼罐头",
+    "toggle": "n. 沙丁鱼； [ 俚 ] 庸碌无能的人"
+  },
+  {
+    "text": "rag",
+    "isDanger": 0,
+    "phonetic": "/ræɡ/",
+    "translation": "n. 破烂衣服",
+    "toggle": "n. 破布；碎屑"
+  },
+  {
+    "text": "motionless",
+    "isDanger": 0,
+    "phonetic": "/ˈməʊʃnləs/",
+    "translation": "adj. 不动的",
+    "toggle": "adj. 静止的；不运动的"
+  },
+  {
+    "text": "procession",
+    "isDanger": 0,
+    "phonetic": "/prəˈseʃ(ə)n/",
+    "translation": "n. 行列，成队的人群",
+    "toggle": "n. 队伍，行列；一列，一排；列队行进"
+  },
+  {
+    "text": "shawl",
+    "isDanger": 0,
+    "phonetic": "/ʃɔːl/",
+    "translation": "n. 披巾，围巾",
+    "toggle": "n. 围巾，长方形披巾"
+  },
+  {
+    "text": "peer",
+    "isDanger": 1,
+    "phonetic": "/pɪə(r)/",
+    "translation": "v. 凝视，盯着",
+    "toggle": "vi. 凝视，盯着看；窥视"
+  },
+  {
+    "text": "quicken",
+    "isDanger": 0,
+    "phonetic": "/ˈkwɪkən/",
+    "translation": "v. 加快",
+    "toggle": "vi. 加快；变活跃；进入胎动期"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "model",
+    "isDanger": 1,
+    "phonetic": "/ˈmɒd(ə)l/",
+    "translation": "n. 型号，式样",
+    "toggle": "n. 模型；模范；模特儿；典型；样式"
+  },
+  {
+    "text": "afford",
+    "isDanger": 0,
+    "phonetic": "/əˈfɔːd/",
+    "translation": "v. 付得起(钱)",
+    "toggle": "vt. 给予，提供；买得起"
+  },
+  {
+    "text": "afraid",
+    "isDanger": 0,
+    "phonetic": "/əˈfreɪd/",
+    "translation": "adj. 害怕的",
+    "toggle": "adj. 害怕的；担心的；恐怕"
+  },
+  {
+    "text": "deposit",
+    "isDanger": 0,
+    "phonetic": "/dɪˈpɒzɪt/",
+    "translation": "n. 预付定金",
+    "toggle": "n. 存款；保证金；沉淀物"
+  },
+  {
+    "text": "instalment",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈstɔːlmənt/",
+    "translation": "n. 分期付款",
+    "toggle": "n.分期付款,就职,装设"
+  },
+  {
+    "text": "price",
+    "isDanger": 0,
+    "phonetic": "/praɪs/",
+    "translation": "n. 价格",
+    "toggle": "n. 价格；代价；价值"
+  },
+  {
+    "text": "millionaire",
+    "isDanger": 0,
+    "phonetic": "/ˌmɪljəˈneə(r)/",
+    "translation": "n. 百万富翁",
+    "toggle": "n. 大富豪；百万富翁"
+  },
+  {
+    "text": "billionaire",
+    "isDanger": 0,
+    "phonetic": "/ˌbɪljəˈneə(r)/",
+    "translation": "n. 亿万富翁",
+    "toggle": "n.亿万富翁"
+  },
+  {
+    "text": "pay",
+    "isDanger": 1,
+    "phonetic": "/peɪ/",
+    "translation": "v. paidpaid 付",
+    "toggle": "vt. 支付，付；偿还，补偿"
+  },
+  {
+    "text": "payment",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪmənt/",
+    "translation": "n. 支付",
+    "toggle": "n. 付款，支付；报酬，报答；惩罚，报应；偿还"
+  }
+]

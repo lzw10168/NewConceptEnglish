@@ -1,0 +1,100 @@
+[
+  {
+    "text": "wares",
+    "isDanger": 0,
+    "phonetic": "/weəz/",
+    "translation": "n. 货物，商品",
+    "toggle": "n. 商品；货物（仅复数）"
+  },
+  {
+    "text": "anchor",
+    "isDanger": 0,
+    "phonetic": "/ˈæŋkə(r)/",
+    "translation": "v. 停航下锚",
+    "toggle": "n. 锚；靠山；新闻节目主播；抛锚停泊"
+  },
+  {
+    "text": "deck",
+    "isDanger": 0,
+    "phonetic": "/dek/",
+    "translation": "n. 甲板",
+    "toggle": "n. 甲板；行李仓；露天平台"
+  },
+  {
+    "text": "silverware",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪlvəweə(r)/",
+    "translation": "n. 银器",
+    "toggle": "n. 银器；镀银餐具"
+  },
+  {
+    "text": "tempt",
+    "isDanger": 0,
+    "phonetic": "/tempt/",
+    "translation": "v. 吸引；引诱",
+    "toggle": "vt. 诱惑；引起；冒 … 的风险；使感兴趣"
+  },
+  {
+    "text": "bargain",
+    "isDanger": 0,
+    "phonetic": "/ˈbɑːɡən/",
+    "translation": "v. 讨价还价",
+    "toggle": "n. 交易；契约；特价商品"
+  },
+  {
+    "text": "disembark",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsɪmˈbɑːk/",
+    "translation": "v. 下船上岸",
+    "toggle": "vi. 登陆，下车；上岸"
+  },
+  {
+    "text": "assail",
+    "isDanger": 0,
+    "phonetic": "/əˈseɪl/",
+    "translation": "v. 纠缠",
+    "toggle": "vt. 攻击；质问；着手解决"
+  },
+  {
+    "text": "marble",
+    "isDanger": 0,
+    "phonetic": "/ˈmɑːb(ə)l/",
+    "translation": "n. 小玻璃球",
+    "toggle": "n. 大理石；大理石制品；弹珠"
+  },
+  {
+    "text": "inscribe",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈskraɪb/",
+    "translation": "v. 刻写，雕",
+    "toggle": "vt. 题写；题献；铭记；雕"
+  },
+  {
+    "text": "favour",
+    "isDanger": 0,
+    "phonetic": "/ˈfeɪvə(r)/",
+    "translation": "n. 好处，优惠",
+    "toggle": "n. 支持，喜爱；帮忙，恩惠；偏爱"
+  },
+  {
+    "text": "gesticulate",
+    "isDanger": 0,
+    "phonetic": "/dʒeˈstɪkjuleɪt/",
+    "translation": "v. (讲话时)打手势",
+    "toggle": "vi 用姿势示意；（讲话时）做手势"
+  },
+  {
+    "text": "outrageous",
+    "isDanger": 1,
+    "phonetic": "/aʊtˈreɪdʒəs/",
+    "translation": "adj. 出人预料的；令 人不悅的",
+    "toggle": "adj. 粗暴的；可恶的；令人吃惊的"
+  },
+  {
+    "text": "thrust",
+    "isDanger": 0,
+    "phonetic": "/θrʌst/",
+    "translation": "v. 硬塞给",
+    "toggle": "n. 推力；刺"
+  }
+]

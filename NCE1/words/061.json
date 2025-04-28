@@ -1,0 +1,65 @@
+[
+  {
+    "text": "customer",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌstəmə(r)/",
+    "translation": "n. .顾客",
+    "toggle": "n. 顾客（买东西的）； [ 口 ] 家伙"
+  },
+  {
+    "text": "forget",
+    "isDanger": 1,
+    "phonetic": "/fəˈɡet/",
+    "translation": "v. 忘记",
+    "toggle": "vt. 忘记；忽略"
+  },
+  {
+    "text": "manager",
+    "isDanger": 0,
+    "phonetic": "/ˈmænɪdʒə(r)/",
+    "translation": "n. 经理",
+    "toggle": "n. 经理；管理人员"
+  },
+  {
+    "text": "serve",
+    "isDanger": 1,
+    "phonetic": "/sɜːv/",
+    "translation": "v. 照应，服务，接待",
+    "toggle": "vt. 招待，供应；为 … 服务；对 … 有用；可作 … 用"
+  },
+  {
+    "text": "counter",
+    "isDanger": 1,
+    "phonetic": "/ˈkaʊntə(r)/",
+    "translation": "n. 柜台",
+    "toggle": "n. 柜台；计数器，计算器；计算者"
+  },
+  {
+    "text": "recognize",
+    "isDanger": 1,
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "translation": "v. 认识",
+    "toggle": "vt. 承认；认出，识别"
+  },
+  {
+    "text": "road",
+    "isDanger": 0,
+    "phonetic": "/rəʊd/",
+    "translation": "n. 路",
+    "toggle": "n. 道路；公路，马路；手段"
+  },
+  {
+    "text": "street",
+    "isDanger": 0,
+    "phonetic": "/striːt/",
+    "translation": "n. 街道",
+    "toggle": "n. 街道"
+  },
+  {
+    "text": "gentleman",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒentlmən/",
+    "translation": "n. 绅士",
+    "toggle": "n. 先生；绅士；有身分的人"
+  }
+]

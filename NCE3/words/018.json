@@ -1,0 +1,128 @@
+[
+  {
+    "text": "current",
+    "isDanger": 1,
+    "phonetic": "/ˈkʌrənt/",
+    "translation": "n. 电流",
+    "toggle": "adj. 现在的；最近的；草写的；流通的，通用的"
+  },
+  {
+    "text": "sculpture",
+    "isDanger": 1,
+    "phonetic": "/ˈskʌlptʃə(r)/",
+    "translation": "n. 雕塑",
+    "toggle": "n. 雕塑；雕刻； [ 地 ] 刻蚀"
+  },
+  {
+    "text": "mistaken",
+    "isDanger": 0,
+    "phonetic": "/mɪˈsteɪkən/",
+    "translation": "adj. 错误的",
+    "toggle": "adj. 错误的；弄错的；被误解的"
+  },
+  {
+    "text": "gallery",
+    "isDanger": 0,
+    "phonetic": "/ˈɡæləri/",
+    "translation": "n. 美术馆",
+    "toggle": "n. 走廊；画廊；地道；旁听席"
+  },
+  {
+    "text": "exhibit",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzɪbɪt/",
+    "translation": "n. 展品，陈列品",
+    "toggle": "vt. 显示；展览；提出（证据等）"
+  },
+  {
+    "text": "oddly",
+    "isDanger": 0,
+    "phonetic": "/ˈɒdli/",
+    "translation": "adv. 古怪地",
+    "toggle": "adv. 古怪地；奇妙地；单数地"
+  },
+  {
+    "text": "attach",
+    "isDanger": 0,
+    "phonetic": "/əˈtætʃ/",
+    "translation": "v. 连，系",
+    "toggle": "vt. 系上；贴上；使依附；使依恋"
+  },
+  {
+    "text": "sphere",
+    "isDanger": 0,
+    "phonetic": "/sfɪə/",
+    "translation": "n. 球体",
+    "toggle": "n. 范围；球体、领域"
+  },
+  {
+    "text": "magnetize",
+    "isDanger": 0,
+    "phonetic": "/ˈmæɡnətaɪz/",
+    "translation": "v. 使磁化",
+    "toggle": "v. 吸引；使磁化"
+  },
+  {
+    "text": "repel",
+    "isDanger": 0,
+    "phonetic": "/rɪˈpel/",
+    "translation": "v. 排斥",
+    "toggle": "vt. 击退；抵制；使厌恶；使不愉快"
+  },
+  {
+    "text": "flicker",
+    "isDanger": 0,
+    "phonetic": "/ˈflɪkə(r)/",
+    "translation": "v. 闪烁",
+    "toggle": "vi. 闪烁；摇曳；颤动；扑动翅膀； [ 美俚 ] 假装昏倒"
+  },
+  {
+    "text": "emit",
+    "isDanger": 0,
+    "phonetic": "/iˈmɪt/",
+    "translation": "v. 放射",
+    "toggle": "vt. 发出(give off)，放射；发行；发表"
+  },
+  {
+    "text": "flash",
+    "isDanger": 0,
+    "phonetic": "/flæʃ/",
+    "translation": "v. 闪光",
+    "toggle": "vt. 使闪光；反射"
+  },
+  {
+    "text": "prehistoric",
+    "isDanger": 0,
+    "phonetic": "/ˌpriːhɪˈstɒrɪk/",
+    "translation": "adj. 史前的，老掉牙的",
+    "toggle": "adj. 陈旧的；史前的"
+  },
+  {
+    "text": "electronic",
+    "isDanger": 0,
+    "phonetic": "/ɪˌlekˈtrɒnɪk/",
+    "translation": "adj. 电子的",
+    "toggle": "adj. 电子的"
+  },
+  {
+    "text": "peculiar",
+    "isDanger": 1,
+    "phonetic": "/pɪˈkjuːliə(r)/",
+    "translation": "adj. 奇异的",
+    "toggle": "adj. 特殊的；罕见的；奇怪的；独特的"
+  },
+  {
+    "text": "shock",
+    "isDanger": 0,
+    "phonetic": "/ʃɒk/",
+    "translation": "v. 令人震惊，刺激人",
+    "toggle": "n. 打击；震动；震惊；休克；禾束堆"
+  },
+  {
+    "text": "emotionally",
+    "isDanger": 0,
+    "phonetic": "/ɪˈməʊʃənəli/",
+    "translation": "adv. 感情上",
+    "toggle": "adv. 感情上；情绪上；令人激动地；情绪冲动地"
+  }
+]

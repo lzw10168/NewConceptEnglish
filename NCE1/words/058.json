@@ -1,0 +1,226 @@
+[
+  {
+    "text": "anyone",
+    "isDanger": 0,
+    "phonetic": "/ˈeniwʌn/",
+    "translation": "pron. (用于疑问句，否定式)任何人",
+    "toggle": "pron. 任何人；任何一个"
+  },
+  {
+    "text": "knock",
+    "isDanger": 0,
+    "phonetic": "/nɒk/",
+    "translation": "v. 敲，打",
+    "toggle": "vi. 敲；敲击；打"
+  },
+  {
+    "text": "everything",
+    "isDanger": 0,
+    "phonetic": "/ˈevriθɪŋ/",
+    "translation": "pron. 一切事物",
+    "toggle": "pron. 每件事物；一切事物"
+  },
+  {
+    "text": "quiet",
+    "isDanger": 1,
+    "phonetic": "/ˈkwaɪət/",
+    "translation": "adj. 宁静的，安静的",
+    "toggle": "adj. 安静的；安定的；温顺的；不动的"
+  },
+  {
+    "text": "impossible",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈpɒsəb(ə)l/",
+    "translation": "adj. 不可能的",
+    "toggle": "adj. 不可能的；不可能存在的；难以忍受的；不真实的"
+  },
+  {
+    "text": "invite",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈvaɪt/",
+    "translation": "adj. 邀请",
+    "toggle": "vt. 邀请，招待；招致"
+  },
+  {
+    "text": "anything",
+    "isDanger": 0,
+    "phonetic": "/ˈeniθɪŋ/",
+    "translation": "pron. 任何东西",
+    "toggle": "pron. 任何事"
+  },
+  {
+    "text": "nothing",
+    "isDanger": 0,
+    "phonetic": "/ˈnʌθɪŋ/",
+    "translation": "pron. 什么也没有",
+    "toggle": "neg. 没什么；毫不"
+  },
+  {
+    "text": "lemonade",
+    "isDanger": 0,
+    "phonetic": "/ˌleməˈneɪd/",
+    "translation": "n. 柠檬水",
+    "toggle": "n. 柠檬水"
+  },
+  {
+    "text": "joke",
+    "isDanger": 1,
+    "phonetic": "/dʒəʊk/",
+    "translation": "v. 开玩笑",
+    "toggle": "n. 玩笑，笑话；笑柄"
+  },
+  {
+    "text": "asleep",
+    "isDanger": 0,
+    "phonetic": "/əˈsliːp/",
+    "translation": "adj. 睡觉，睡着(用作表语)",
+    "toggle": "adj. 睡着的；麻木的；长眠的"
+  },
+  {
+    "text": "awake",
+    "isDanger": 0,
+    "phonetic": "/əˈweɪk/",
+    "translation": "adj. 醒着的",
+    "toggle": "vi. 觉醒，意识到；醒来；被唤起"
+  },
+  {
+    "text": "alive",
+    "isDanger": 0,
+    "phonetic": "/əˈlaɪv/",
+    "translation": "adj. 活着的",
+    "toggle": "adj. 活着的；活泼的；有生气的"
+  },
+  {
+    "text": "glasses",
+    "isDanger": 0,
+    "phonetic": "/ˈɡlɑːsɪz/",
+    "translation": "n. 眼镜",
+    "toggle": "n.眼镜"
+  },
+  {
+    "text": "any",
+    "isDanger": 1,
+    "phonetic": "/ˈeni/",
+    "translation": "pron. 任何一个",
+    "toggle": "adj. 任何的；所有的；丝毫"
+  },
+  {
+    "text": "everybody",
+    "isDanger": 0,
+    "phonetic": "/ˈevribɒdi/",
+    "translation": "pron. 每个人",
+    "toggle": "pron. 人人；每个人"
+  },
+  {
+    "text": "nobody",
+    "isDanger": 0,
+    "phonetic": "/ˈnəʊbədi/",
+    "translation": "pron. 没有人",
+    "toggle": "pron. 无人，没有人；没有任何人"
+  },
+  {
+    "text": "somebody",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmbədi/",
+    "translation": "pron. 某人",
+    "toggle": "n. 大人物；重要人物"
+  },
+  {
+    "text": "anybody",
+    "isDanger": 0,
+    "phonetic": "/ˈenibɒdi/",
+    "translation": "pron. 任何人",
+    "toggle": "pron. 任何人"
+  },
+  {
+    "text": "something",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmθɪŋ/",
+    "translation": "pron. 某事",
+    "toggle": "pron. 某事；某物"
+  },
+  {
+    "text": "everywhere",
+    "isDanger": 0,
+    "phonetic": "/ˈevriweə(r)/",
+    "translation": "adv. 到处",
+    "toggle": "adv. 到处"
+  },
+  {
+    "text": "nowhere",
+    "isDanger": 0,
+    "phonetic": "/ˈnəʊweə(r)/",
+    "translation": "adv. 无处",
+    "toggle": "adv. 无处；任何地方都不；毫无结果"
+  },
+  {
+    "text": "somewhere",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmweə(r)/",
+    "translation": "adv. 在某处",
+    "toggle": "adv. 在某处；到某处"
+  },
+  {
+    "text": "anywhere",
+    "isDanger": 0,
+    "phonetic": "/ˈeniweə(r)/",
+    "translation": "adv. 在任何地方",
+    "toggle": "adv. 无论何处；在任何地方"
+  },
+  {
+    "text": "every",
+    "isDanger": 1,
+    "phonetic": "/ˈevri/",
+    "translation": "adv. 每个",
+    "toggle": "adj. 每一的，每个的；每隔 … 的"
+  },
+  {
+    "text": "no",
+    "isDanger": 1,
+    "phonetic": "/nəʊ/",
+    "translation": "adv. 不",
+    "toggle": "adv. 不"
+  },
+  {
+    "text": "some",
+    "isDanger": 1,
+    "phonetic": "/sʌm/",
+    "translation": "adv. 若干",
+    "toggle": "adj. 一些；大约；某一"
+  },
+  {
+    "text": "everyone",
+    "isDanger": 0,
+    "phonetic": "/ˈevriwʌn/",
+    "translation": "pron. 每个人",
+    "toggle": "pron. 人人；每个人"
+  },
+  {
+    "text": "no one",
+    "isDanger": 0,
+    "phonetic": "/ˈnəʊ wʌn/",
+    "translation": "n. 没有人",
+    "toggle": "n. 没有人"
+  },
+  {
+    "text": "someone",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmwʌn/",
+    "translation": "pron. 有人",
+    "toggle": "pron. 有人，某人"
+  },
+  {
+    "text": "door",
+    "isDanger": 0,
+    "phonetic": "/dɔː(r)/",
+    "translation": "n. 门",
+    "toggle": "n. 门；家，户；门口；通道"
+  },
+  {
+    "text": "back door",
+    "isDanger": 0,
+    "phonetic": "/ˌbæk ˈdɔː(r)/",
+    "translation": "n. 后门",
+    "toggle": "n. 后门，秘密途径"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Customs",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌstəmz/",
+    "translation": "n. 海关",
+    "toggle": "n.进口税,海关"
+  },
+  {
+    "text": "officer",
+    "isDanger": 0,
+    "phonetic": "/ˈɒfɪsə(r)/",
+    "translation": "n. 官员",
+    "toggle": "n. 军官，警官；公务员，政府官员；船长"
+  },
+  {
+    "text": "girl",
+    "isDanger": 0,
+    "phonetic": "/ɡɜːl/",
+    "translation": "n. 女孩，姑娘",
+    "toggle": "n. 女孩，姑娘；女儿；女朋友"
+  },
+  {
+    "text": "Danish",
+    "isDanger": 0,
+    "phonetic": "/ˈdeɪnɪʃ/",
+    "translation": "n. 丹麦人",
+    "toggle": "adj. 丹麦的；丹麦人的；丹麦语（文）的"
+  },
+  {
+    "text": "Denmark",
+    "isDanger": 0,
+    "phonetic": "/ˈdenmɑːk/",
+    "translation": "n. 丹麦",
+    "toggle": "n.丹麦(北欧国家,首都哥本哈根)"
+  },
+  {
+    "text": "friend",
+    "isDanger": 0,
+    "phonetic": "/frend/",
+    "translation": "n. 朋友",
+    "toggle": "n. 朋友；赞助者；助手"
+  },
+  {
+    "text": "Norwegian",
+    "isDanger": 0,
+    "phonetic": "/nɔːˈwiːdʒən/",
+    "translation": "n. 挪威人",
+    "toggle": "adj. 挪威的；挪威语的；挪威人的"
+  },
+  {
+    "text": "passport",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːspɔːt/",
+    "translation": "n. 护照",
+    "toggle": "n. 护照，通行证；手段"
+  },
+  {
+    "text": "brown",
+    "isDanger": 0,
+    "phonetic": "/braʊn/",
+    "translation": "adj. 棕色的",
+    "toggle": "adj. 棕色的，褐色的；太阳晒黑的"
+  },
+  {
+    "text": "tourist",
+    "isDanger": 0,
+    "phonetic": "/ˈtʊərɪst/",
+    "translation": "n. 旅游者",
+    "toggle": "n. 旅行者，观光客"
+  },
+  {
+    "text": "Russian",
+    "isDanger": 0,
+    "phonetic": "/ˈrʌʃ(ə)n/",
+    "translation": "n. 俄罗斯人",
+    "toggle": "adj. 俄国的；俄语的"
+  },
+  {
+    "text": "Russia",
+    "isDanger": 0,
+    "phonetic": "/ˈrʌʃə/",
+    "translation": "n. 俄罗斯",
+    "toggle": "n.俄国,俄罗斯,苏联"
+  },
+  {
+    "text": "Dutch",
+    "isDanger": 0,
+    "phonetic": "/dʌtʃ/",
+    "translation": "n. 荷兰人",
+    "toggle": "adj. 荷兰的；荷兰人的；荷兰语的"
+  },
+  {
+    "text": "Holland",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒlənd/",
+    "translation": "n. 荷兰",
+    "toggle": "n.荷兰,漂白亚麻布"
+  },
+  {
+    "text": "these",
+    "isDanger": 1,
+    "phonetic": "/ðiːz/",
+    "translation": "pron. 这些(this的复数)",
+    "toggle": "pron. 这些"
+  },
+  {
+    "text": "red",
+    "isDanger": 0,
+    "phonetic": "/red/",
+    "translation": "adj. 红色的",
+    "toggle": "n. 红色，红颜料；赤字"
+  },
+  {
+    "text": "grey",
+    "isDanger": 0,
+    "phonetic": "/ɡreɪ/",
+    "translation": "adj. 灰色的",
+    "toggle": "adj. 灰色的；（头发）灰白的"
+  },
+  {
+    "text": "yellow",
+    "isDanger": 0,
+    "phonetic": "/ˈjeləʊ/",
+    "translation": "adj. 黄色的",
+    "toggle": "adj. 黄色的；黄皮肤的"
+  },
+  {
+    "text": "black",
+    "isDanger": 1,
+    "phonetic": "/blæk/",
+    "translation": "adj. 黑色的",
+    "toggle": "adj. 黑色的；黑人的；邪恶的"
+  },
+  {
+    "text": "orange",
+    "isDanger": 0,
+    "phonetic": "/ˈɒrɪndʒ/",
+    "translation": "adj. 橘黄色的",
+    "toggle": "adj. 橘色的；橙色的"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "attendant",
+    "isDanger": 0,
+    "phonetic": "/əˈtendənt/",
+    "translation": "n. 接待员",
+    "toggle": "adj. 伴随的；侍候的"
+  },
+  {
+    "text": "bring",
+    "isDanger": 1,
+    "phonetic": "/brɪŋ/",
+    "translation": "v. 带来，送来",
+    "toggle": "vt. 带来；引起；促使；使某人处于某种情况或境地"
+  },
+  {
+    "text": "garage",
+    "isDanger": 0,
+    "phonetic": "/ˈɡærɑːʒ/",
+    "translation": "n. 车库，汽车修理厂",
+    "toggle": "n. 车库；汽车修理厂；飞机库"
+  },
+  {
+    "text": "crash",
+    "isDanger": 1,
+    "phonetic": "/kræʃ/",
+    "translation": "n. 碰撞",
+    "toggle": "n. 碰撞；崩溃；坠落"
+  },
+  {
+    "text": "lamp-post",
+    "isDanger": 0,
+    "phonetic": "/ˈlæmp pəʊst/",
+    "translation": "n. 灯杆",
+    "toggle": "n. 灯杆，路灯柱"
+  },
+  {
+    "text": "repair",
+    "isDanger": 0,
+    "phonetic": "/rɪˈpeə(r)/",
+    "translation": "v. 修理",
+    "toggle": "vi. 修复；修理"
+  },
+  {
+    "text": "try",
+    "isDanger": 1,
+    "phonetic": "/traɪ/",
+    "translation": "v. 努力，设法",
+    "toggle": "vt. 试验；审判；考验；试图，努力"
+  },
+  {
+    "text": "lamp",
+    "isDanger": 0,
+    "phonetic": "/læmp/",
+    "translation": "n. 灯",
+    "toggle": "n. 灯；照射器"
+  }
+]

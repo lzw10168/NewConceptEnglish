@@ -1,0 +1,156 @@
+[
+  {
+    "text": "silicon",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 硅",
+    "toggle": "n. 硅；硅元素"
+  },
+  {
+    "text": "integrated",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 综合的",
+    "toggle": "adj. 综合的；完整的；互相协调的"
+  },
+  {
+    "text": "circuit",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːkɪt/",
+    "translation": "n. 线路，电路",
+    "toggle": "n. 电路，回路；环道；一圈；巡回"
+  },
+  {
+    "text": "California",
+    "isDanger": 0,
+    "phonetic": "/ˌkæləˈfɔːniə/",
+    "translation": "n. 加利福尼亚（美国州名）",
+    "toggle": "n.加利福尼亚（美国一个州）"
+  },
+  {
+    "text": "workstation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 工作站",
+    "toggle": "n. 工作站； [ 电 ] 工拙"
+  },
+  {
+    "text": "chip",
+    "isDanger": 0,
+    "phonetic": "/tʃɪp/",
+    "translation": "n. 芯片，集成电路片，集成块",
+    "toggle": "vt. 削，凿；削成碎片"
+  },
+  {
+    "text": "newsletter",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 时事通讯",
+    "toggle": "n. 时事通讯"
+  },
+  {
+    "text": "macintosh",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 苹果机，一种个人电脑",
+    "toggle": ""
+  },
+  {
+    "text": "penalize",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 处罚，惩罚",
+    "toggle": "vt. 处罚；处刑；使不利"
+  },
+  {
+    "text": "customize",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌstəmaɪz/",
+    "translation": "v. 按顾客具体需要制造",
+    "toggle": "vt. [ 计 ] 定做，按客户具体要求制造"
+  },
+  {
+    "text": "spawn",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 引起，酿成",
+    "toggle": "n. 菌丝；卵；产物"
+  },
+  {
+    "text": "thrive",
+    "isDanger": 0,
+    "phonetic": "/θraɪv/",
+    "translation": "v. 兴旺，繁荣",
+    "toggle": "vi. 繁荣，兴旺；茁壮成长"
+  },
+  {
+    "text": "anarchy",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 无政府状态，混乱",
+    "toggle": "n. 混乱；无秩序；无政府状态"
+  },
+  {
+    "text": "oriental",
+    "isDanger": 0,
+    "phonetic": "/ˌɔːriˈent(ə)l/",
+    "translation": "n. 东方人",
+    "toggle": "adj. 东方人的；东方的"
+  },
+  {
+    "text": "constitute",
+    "isDanger": 1,
+    "phonetic": "/ˈkɒnstɪtjuːt/",
+    "translation": "v. 构成",
+    "toggle": "vt. 组成，构成；任命；建立"
+  },
+  {
+    "text": "drove",
+    "isDanger": 0,
+    "phonetic": "/drəʊv/",
+    "translation": "n. 群",
+    "toggle": "n. 畜群；牛群、羊群等；移动的人群或大批的东西"
+  },
+  {
+    "text": "innovator",
+    "isDanger": 0,
+    "phonetic": "/ˈɪnəveɪtə(r)/",
+    "translation": "n. 发明者",
+    "toggle": "n. 改革者，创新者"
+  },
+  {
+    "text": "forge",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 发展",
+    "toggle": "n. 熔炉，锻铁炉；铁工厂"
+  },
+  {
+    "text": "memory-chip",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 内存条",
+    "toggle": ""
+  },
+  {
+    "text": "AT&T",
+    "isDanger": 0,
+    "phonetic": "/eitnt/",
+    "translation": "n. 美国电话电报公司(American Telephone and Telegraph)",
+    "toggle": "美国电话电报公司（American Telephone and Telegraph Company）"
+  },
+  {
+    "text": "Kansas",
+    "isDanger": 0,
+    "phonetic": "/ˈkænzəs/",
+    "translation": "n. 堪萨斯（美国州名）",
+    "toggle": "n.堪萨斯州（美国州名）"
+  },
+  {
+    "text": "Missouri",
+    "isDanger": 0,
+    "phonetic": "/mɪˈzʊəri/",
+    "translation": "n. 密苏里(美国州名)",
+    "toggle": "n.密苏里州(美国州名)"
+  }
+]

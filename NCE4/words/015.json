@@ -1,0 +1,51 @@
+[
+  {
+    "text": "secrecy",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːkrəsi/",
+    "translation": "n. 秘密",
+    "toggle": "n. 保密；秘密；隐蔽"
+  },
+  {
+    "text": "effectiveness",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 成效，效力",
+    "toggle": "n. 效力"
+  },
+  {
+    "text": "inquiry",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈkwaɪəri/",
+    "translation": "n. 调查研究",
+    "toggle": "n. 调查；质询；探究"
+  },
+  {
+    "text": "positive",
+    "isDanger": 0,
+    "phonetic": "/ˈpɒzətɪv/",
+    "translation": "adj. 确实的",
+    "toggle": "adj. 确定的，肯定的；积极的；正的，阳性的；绝对的；实际的，真实的"
+  },
+  {
+    "text": "process",
+    "isDanger": 1,
+    "phonetic": "/ˈprəʊses/",
+    "translation": "n. 过程",
+    "toggle": "vt. 处理；加工"
+  },
+  {
+    "text": "patent",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪt(ə)nt/",
+    "translation": "n. 专利；v.得到专利权",
+    "toggle": "vt. 取得 … 的专利权；授予专利"
+  },
+  {
+    "text": "agent",
+    "isDanger": 0,
+    "phonetic": "/ˈeɪdʒənt/",
+    "translation": "n. 情报人员",
+    "toggle": "n. 代理人，代理商；药剂；特工"
+  }
+]

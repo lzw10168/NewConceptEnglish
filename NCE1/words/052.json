@@ -1,0 +1,310 @@
+[
+  {
+    "text": "exam",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzæm/",
+    "translation": "n. 考试",
+    "toggle": "n. 测验；考试"
+  },
+  {
+    "text": "test",
+    "isDanger": 1,
+    "phonetic": "/test/",
+    "translation": "n. 测试",
+    "toggle": "n. 检验；试验"
+  },
+  {
+    "text": "text",
+    "isDanger": 0,
+    "phonetic": "/tekst/",
+    "translation": "n. 文本",
+    "toggle": "n. 文本；课文；主题； vt. 发短信"
+  },
+  {
+    "text": "pass",
+    "isDanger": 1,
+    "phonetic": "/pɑːs/",
+    "translation": "v. 及格，通过",
+    "toggle": "n. 及格；经过；护照；途径； [ 体 ] 传球； vi. 经过；传递；变化；终止； vt. 通过；经过；传递"
+  },
+  {
+    "text": "mathematics",
+    "isDanger": 0,
+    "phonetic": "/ˌmæθəˈmætɪks/",
+    "translation": "n. 数学",
+    "toggle": "n. 数学；数学运算"
+  },
+  {
+    "text": "compute",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpjuːt/",
+    "translation": "n. 计算",
+    "toggle": "vt. 计算；估算；用计算机计算"
+  },
+  {
+    "text": "math",
+    "isDanger": 0,
+    "phonetic": "/mæθ/",
+    "translation": "n. 数学",
+    "toggle": "n. 数学（等于 mathematics ）"
+  },
+  {
+    "text": "question",
+    "isDanger": 0,
+    "phonetic": "/ˈkwestʃən/",
+    "translation": "n. 问题",
+    "toggle": "n. 问题，疑问；询问；疑问句"
+  },
+  {
+    "text": "easy",
+    "isDanger": 1,
+    "phonetic": "/ˈiːzi/",
+    "translation": "adj. 容易的",
+    "toggle": "adj. 容易的；舒适的"
+  },
+  {
+    "text": "enough",
+    "isDanger": 0,
+    "phonetic": "/ɪˈnʌf/",
+    "translation": "adv. 足够地",
+    "toggle": "adv. 足够地，充足地"
+  },
+  {
+    "text": "extra",
+    "isDanger": 1,
+    "phonetic": "/ˈekstrə/",
+    "translation": "adj. 额外的",
+    "toggle": "adv. 特别地，非常；另外;n.群众演员"
+  },
+  {
+    "text": "fail",
+    "isDanger": 0,
+    "phonetic": "/feɪl/",
+    "translation": "adj. 未及格，失败",
+    "toggle": "vi. 失败，不及格；衰退；缺乏；破产"
+  },
+  {
+    "text": "failure",
+    "isDanger": 0,
+    "phonetic": "/ˈfeɪljə(r)/",
+    "translation": "n. 失败",
+    "toggle": "n. 失败；故障；失败者；破产"
+  },
+  {
+    "text": "answer",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːnsə(r)/",
+    "translation": "v. 回答",
+    "toggle": "vt. 符合；回答"
+  },
+  {
+    "text": "respond",
+    "isDanger": 0,
+    "phonetic": "/rɪˈspɒnd/",
+    "translation": "v. 响应",
+    "toggle": "vi. 回答；作出反应；承担责任"
+  },
+  {
+    "text": "response",
+    "isDanger": 0,
+    "phonetic": "/rɪˈspɒns/",
+    "translation": "n. 回复",
+    "toggle": "n. 响应；反应；回答"
+  },
+  {
+    "text": "mark",
+    "isDanger": 1,
+    "phonetic": "/mɑːk/",
+    "translation": "n. 分数",
+    "toggle": "n. 马克；符号；痕迹；标志"
+  },
+  {
+    "text": "score",
+    "isDanger": 0,
+    "phonetic": "/skɔː(r)/",
+    "translation": "n. 得分",
+    "toggle": "n. 刻痕；配乐；分数；二十"
+  },
+  {
+    "text": "rest",
+    "isDanger": 1,
+    "phonetic": "/rest/",
+    "translation": "n. 其他的东西",
+    "toggle": "vt. 使休息，使轻松；把 … 寄托于"
+  },
+  {
+    "text": "difficult",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "translation": "adj. 困难的",
+    "toggle": "adj. 困难的；不随和的；执拗的"
+  },
+  {
+    "text": "hate",
+    "isDanger": 0,
+    "phonetic": "/heɪt/",
+    "translation": "v. 讨厌",
+    "toggle": "vt. 憎恨；厌恶；遗憾"
+  },
+  {
+    "text": "low",
+    "isDanger": 0,
+    "phonetic": "/ləʊ/",
+    "translation": "adj. 低的",
+    "toggle": "adj. 低的，浅的；粗俗的；卑贱的；消沉的"
+  },
+  {
+    "text": "cheer",
+    "isDanger": 0,
+    "phonetic": "/tʃɪə(r)/",
+    "translation": "v. 振作，振奋",
+    "toggle": "vt. 欢呼；使高兴；为 … 加油"
+  },
+  {
+    "text": "guy",
+    "isDanger": 0,
+    "phonetic": "/ɡaɪ/",
+    "translation": "n. 家伙，人",
+    "toggle": "n. 男人，家伙"
+  },
+  {
+    "text": "top",
+    "isDanger": 0,
+    "phonetic": "/tɒp/",
+    "translation": "n. 上方，顶部",
+    "toggle": "n. 顶部，顶端；上部；首席；陀螺"
+  },
+  {
+    "text": "clever",
+    "isDanger": 0,
+    "phonetic": "/ˈklevə(r)/",
+    "translation": "adj. 聪明的",
+    "toggle": "adj. 聪明的；机灵的；熟练的"
+  },
+  {
+    "text": "smart",
+    "isDanger": 0,
+    "phonetic": "/smɑːt/",
+    "translation": "adj. 聪明的",
+    "toggle": "n. 痛苦；刺痛"
+  },
+  {
+    "text": "intelligent",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtelɪdʒənt/",
+    "translation": "adj. 有智力的",
+    "toggle": "adj. 聪明的；智能的；理解力强的"
+  },
+  {
+    "text": "stupid",
+    "isDanger": 0,
+    "phonetic": "/ˈstjuːpɪd/",
+    "translation": "adj. 笨的",
+    "toggle": "adj. 愚蠢的；麻木的；乏味的"
+  },
+  {
+    "text": "foolish",
+    "isDanger": 0,
+    "phonetic": "/ˈfuːlɪʃ/",
+    "translation": "adj. 愚蠢的",
+    "toggle": "adj. 愚蠢的；傻的"
+  },
+  {
+    "text": "fool",
+    "isDanger": 0,
+    "phonetic": "/fuːl/",
+    "translation": "n. 笨蛋",
+    "toggle": "vi. 开玩笑；欺骗；戏弄"
+  },
+  {
+    "text": "cheap",
+    "isDanger": 1,
+    "phonetic": "/tʃiːp/",
+    "translation": "adj. 便宜的",
+    "toggle": "adj. 便宜的； [ 口 ] 小气的；不值钱的"
+  },
+  {
+    "text": "expensive",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspensɪv/",
+    "translation": "adj. 贵的",
+    "toggle": "adj. 昂贵的；花钱的"
+  },
+  {
+    "text": "inexpensive",
+    "isDanger": 0,
+    "phonetic": "/ˌɪnɪkˈspensɪv/",
+    "translation": "adj. 不贵的",
+    "toggle": "adj. 便宜的"
+  },
+  {
+    "text": "fresh",
+    "isDanger": 1,
+    "phonetic": "/freʃ/",
+    "translation": "adj. 新鲜的",
+    "toggle": "adj. 新鲜的；无经验的；淡水的；清新的"
+  },
+  {
+    "text": "stale",
+    "isDanger": 0,
+    "phonetic": "/steɪl/",
+    "translation": "adj. 变馊的",
+    "toggle": "adj. 不新鲜的；陈腐的"
+  },
+  {
+    "text": "sour",
+    "isDanger": 0,
+    "phonetic": "/ˈsaʊə(r)/",
+    "translation": "adj. 酸味的",
+    "toggle": "adj. 酸的；酸臭的；讨厌的；刺耳的；发酵的"
+  },
+  {
+    "text": "loud",
+    "isDanger": 1,
+    "phonetic": "/laʊd/",
+    "translation": "adj. 大声的",
+    "toggle": "adj. 大声的，高声的；不断的；喧吵的"
+  },
+  {
+    "text": "high",
+    "isDanger": 0,
+    "phonetic": "/haɪ/",
+    "translation": "adj. 高的",
+    "toggle": "adj. 高的；高级的；高音调的；崇高的"
+  },
+  {
+    "text": "hard",
+    "isDanger": 0,
+    "phonetic": "/hɑːd/",
+    "translation": "adj. 硬的",
+    "toggle": "adj. 困难的；硬的；猛烈的；确实的；努力的；辛苦的；冷酷无情的；严厉的"
+  },
+  {
+    "text": "sweet",
+    "isDanger": 0,
+    "phonetic": "/swiːt/",
+    "translation": "adj. 甜的",
+    "toggle": "adj. 甜的；悦耳的；芳香的；亲切的； n. 糖果；乐趣；芳香；宝贝；（俚）酷毙了"
+  },
+  {
+    "text": "soft",
+    "isDanger": 0,
+    "phonetic": "/sɒft/",
+    "translation": "adj. 软的",
+    "toggle": "adj. 温柔的，温和的；软的，柔软的；笨的；软弱的"
+  },
+  {
+    "text": "salt",
+    "isDanger": 0,
+    "phonetic": "/sɔːlt/",
+    "translation": "adj. 咸的",
+    "toggle": "n. 盐；风趣，刺激性"
+  },
+  {
+    "text": "paper",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪpə/",
+    "translation": "n. 考卷",
+    "toggle": "n. 纸；文件；报纸；论文"
+  }
+]

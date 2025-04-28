@@ -1,0 +1,135 @@
+[
+  {
+    "text": "run",
+    "isDanger": 1,
+    "phonetic": "/rʌn/",
+    "translation": "v. (戏剧，电影等) 连演，连映",
+    "toggle": "vi. 奔跑；运转；经营"
+  },
+  {
+    "text": "lines",
+    "isDanger": 0,
+    "phonetic": "/laɪnz/",
+    "translation": "n. (剧本中的)台词",
+    "toggle": "n. 线；台词；航线（line 的复数）"
+  },
+  {
+    "text": "part",
+    "isDanger": 1,
+    "phonetic": "/pɑːt/",
+    "translation": "n. 剧中的角色，台词",
+    "toggle": "n. 部分；角色；零件"
+  },
+  {
+    "text": "falter",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔːltə(r)/",
+    "translation": "v. 支吾，结巴说",
+    "toggle": "vi. 蹒跚地走；支吾"
+  },
+  {
+    "text": "cast",
+    "isDanger": 1,
+    "phonetic": "/kɑːst/",
+    "translation": "v. 选派...扮演角色",
+    "toggle": "vt. 投，抛；投射（光、影、视线等）；浇铸；计算"
+  },
+  {
+    "text": "role",
+    "isDanger": 0,
+    "phonetic": "/rəʊl/",
+    "translation": "n. 角色",
+    "toggle": "n. 角色；任务"
+  },
+  {
+    "text": "aristocrat",
+    "isDanger": 0,
+    "phonetic": "/ˈærɪstəkræt/",
+    "translation": "n. 贵族",
+    "toggle": "n. 贵族，贵族成员"
+  },
+  {
+    "text": "imprison",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈprɪzn/",
+    "translation": "v. 关押",
+    "toggle": "vt. 监禁；关押；使 … 下狱"
+  },
+  {
+    "text": "Bastille",
+    "isDanger": 0,
+    "phonetic": "/bæˈstiːl/",
+    "translation": "n. 巴士底狱",
+    "toggle": "n. 城堡；牢狱(巴士底监狱)"
+  },
+  {
+    "text": "gaoler",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒeɪlə(r)/",
+    "translation": "n. 监狱长，看守",
+    "toggle": "n. 监狱看守；监狱长"
+  },
+  {
+    "text": "colleague",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒliːɡ/",
+    "translation": "n. 同事",
+    "toggle": "n. 同事，同僚"
+  },
+  {
+    "text": "curtain",
+    "isDanger": 0,
+    "phonetic": "/ˈkɜːt(ə)n/",
+    "translation": "n. (舞台上的)幕布",
+    "toggle": "n. 窗帘；幕"
+  },
+  {
+    "text": "reveal",
+    "isDanger": 1,
+    "phonetic": "/rɪˈviːl/",
+    "translation": "v. 使显露",
+    "toggle": "vt. 揭露；显示；透露；泄露"
+  },
+  {
+    "text": "cell",
+    "isDanger": 0,
+    "phonetic": "/sel/",
+    "translation": "n. 单人监房，监号",
+    "toggle": "n. 细胞；电池；蜂房的巢室；单人小室"
+  },
+  {
+    "text": "blank",
+    "isDanger": 0,
+    "phonetic": "/blæŋk/",
+    "translation": "adj. 空白的",
+    "toggle": "adj. 空白的；空虚的；单调的"
+  },
+  {
+    "text": "squint",
+    "isDanger": 0,
+    "phonetic": "/skwɪnt/",
+    "translation": "v. 眯着(眼)看，瞄",
+    "toggle": "vi. 斜视；患斜视；倾向"
+  },
+  {
+    "text": "dim",
+    "isDanger": 0,
+    "phonetic": "/dɪm/",
+    "translation": "adj. 昏暗",
+    "toggle": "adj. 模糊的，看不清的；暗淡的，昏暗的；悲观的，怀疑的"
+  },
+  {
+    "text": "sire",
+    "isDanger": 0,
+    "phonetic": "/ˈsaɪə(r)/",
+    "translation": "n. (古用法)陛下",
+    "toggle": "n. 陛下（Your Majesty）；大人；男性祖先；雄性亲畜"
+  },
+  {
+    "text": "proceed",
+    "isDanger": 1,
+    "phonetic": "/prəˈsiːd/",
+    "translation": "v. 继续进行",
+    "toggle": "vi. 开始；继续进行；行进；发生"
+  }
+]

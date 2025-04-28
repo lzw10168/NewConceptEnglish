@@ -1,0 +1,107 @@
+[
+  {
+    "text": "colour",
+    "isDanger": 1,
+    "phonetic": "/ˈkʌlə(r)/",
+    "translation": "n. 颜色(英)",
+    "toggle": "n.<英>(=color)颜色,气色,风格,外貌vt.把...涂颜色,粉饰,脸红,歪曲vi.变色"
+  },
+  {
+    "text": "color",
+    "isDanger": 1,
+    "phonetic": "/ˈkʌlə(r)/",
+    "translation": "n. 颜色(美)",
+    "toggle": "n. 颜色；脸色；肤色；颜料"
+  },
+  {
+    "text": "green",
+    "isDanger": 0,
+    "phonetic": "/ɡriːn/",
+    "translation": "n. 绿色",
+    "toggle": "adj. 绿色的；青春的"
+  },
+  {
+    "text": "come",
+    "isDanger": 1,
+    "phonetic": "/kʌm/",
+    "translation": "v. 来",
+    "toggle": "vi. 来；出现；到达；变成；开始；发生"
+  },
+  {
+    "text": "upstairs",
+    "isDanger": 0,
+    "phonetic": "/ˌʌpˈsteəz/",
+    "translation": "adv. 楼上",
+    "toggle": "adv. 在楼上，向楼上；往楼上；上楼"
+  },
+  {
+    "text": "downstairs",
+    "isDanger": 0,
+    "phonetic": "/ˌdaʊnˈsteəz/",
+    "translation": "adv. 楼下",
+    "toggle": "adv. 在楼下"
+  },
+  {
+    "text": "smart",
+    "isDanger": 0,
+    "phonetic": "/smɑːt/",
+    "translation": "adj. 时髦的，巧妙的",
+    "toggle": "n. 痛苦；刺痛"
+  },
+  {
+    "text": "hat",
+    "isDanger": 0,
+    "phonetic": "/hæt/",
+    "translation": "n. 帽子",
+    "toggle": "n. 帽子"
+  },
+  {
+    "text": "same",
+    "isDanger": 0,
+    "phonetic": "/seɪm/",
+    "translation": "adj. 相同的",
+    "toggle": "adj. 相同的；同一的；无变化的；上述的（通常与 the 连用）"
+  },
+  {
+    "text": "lovely",
+    "isDanger": 0,
+    "phonetic": "/ˈlʌvli/",
+    "translation": "adj. 可爱的，秀丽的",
+    "toggle": "adj. 可爱的；令人愉快的"
+  },
+  {
+    "text": "case",
+    "isDanger": 0,
+    "phonetic": "/keɪs/",
+    "translation": "n. 箱子",
+    "toggle": "n. 情况；实例；箱"
+  },
+  {
+    "text": "carpet",
+    "isDanger": 0,
+    "phonetic": "/ˈkɑːpɪt/",
+    "translation": "n. 地毯",
+    "toggle": "vt. 在 … 上铺地毯，把地毯铺在 … 上；斥责"
+  },
+  {
+    "text": "blanket",
+    "isDanger": 0,
+    "phonetic": "/ˈblæŋkɪt/",
+    "translation": "n. 毯子",
+    "toggle": "n. 毛毯，毯子；毯状物，覆盖层"
+  },
+  {
+    "text": "dog",
+    "isDanger": 0,
+    "phonetic": "/dɒɡ/",
+    "translation": "n. 狗",
+    "toggle": "n. 狗；； [ 美俚 ] 丑女人；卑鄙的人；（俚）朋友； vt. 跟踪；尾随"
+  },
+  {
+    "text": "puppy",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌpi/",
+    "translation": "n. 小狗",
+    "toggle": "n. 小狗，幼犬"
+  }
+]

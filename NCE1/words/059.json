@@ -1,0 +1,100 @@
+[
+  {
+    "text": "dining room",
+    "isDanger": 0,
+    "phonetic": "/ˈdaɪnɪŋ ruːm/",
+    "translation": "n. 饭厅",
+    "toggle": "n. 饭厅"
+  },
+  {
+    "text": "coin",
+    "isDanger": 0,
+    "phonetic": "/kɔɪn/",
+    "translation": "n. 硬币",
+    "toggle": "vt. 杜撰，创造；铸造（货币）"
+  },
+  {
+    "text": "mouth",
+    "isDanger": 0,
+    "phonetic": "/maʊθ/",
+    "translation": "n. 嘴",
+    "toggle": "n. 口，嘴；河口"
+  },
+  {
+    "text": "swallow",
+    "isDanger": 0,
+    "phonetic": "/ˈswɒləʊ/",
+    "translation": "v. 吞下",
+    "toggle": "vt. 忍受；吞没"
+  },
+  {
+    "text": "later",
+    "isDanger": 0,
+    "phonetic": "/ˈleɪtə(r)/",
+    "translation": "adv. 后来",
+    "toggle": "adv. 随后；稍后；后来"
+  },
+  {
+    "text": "toilet",
+    "isDanger": 0,
+    "phonetic": "/ˈtɔɪlət/",
+    "translation": "n. 厕所，盥洗室",
+    "toggle": "n. 厕所，盥洗室；梳妆，打扮"
+  },
+  {
+    "text": "bathroom",
+    "isDanger": 0,
+    "phonetic": "/bɑːθruːm/",
+    "translation": "n. 盥洗室",
+    "toggle": "n. 浴室；厕所；盥洗室"
+  },
+  {
+    "text": "restroom",
+    "isDanger": 0,
+    "phonetic": "/ˈrestrʊm/",
+    "translation": "n. 洗手间",
+    "toggle": "n. 洗手间；休息室；更衣室；厕所"
+  },
+  {
+    "text": "washroom",
+    "isDanger": 0,
+    "phonetic": "/ˈwɒʃruːm/",
+    "translation": "n. 洗手间",
+    "toggle": "n.盥洗室,<美>厕所"
+  },
+  {
+    "text": "loo",
+    "isDanger": 0,
+    "phonetic": "/luː/",
+    "translation": "n. 厕所",
+    "toggle": "n.一种纸牌游戏,<英俚>厕所,洗手间"
+  },
+  {
+    "text": "men's room",
+    "isDanger": 0,
+    "phonetic": "/menz ruːm/",
+    "translation": "n. 男厕所",
+    "toggle": "n.[体]男盥洗室"
+  },
+  {
+    "text": "ladies' room",
+    "isDanger": 0,
+    "phonetic": "/ˈleɪdɪz ruːm/",
+    "translation": "n. 女厕所",
+    "toggle": "n.女厕"
+  },
+  {
+    "text": "ring",
+    "isDanger": 1,
+    "phonetic": "/rɪŋ/",
+    "translation": "v. 响 rang, rung",
+    "toggle": "vi. 按铃；敲钟；回响；成环形"
+  },
+  {
+    "text": "note",
+    "isDanger": 1,
+    "phonetic": "/nəʊt/",
+    "translation": "n. 便条",
+    "toggle": "n. 笔记；注解；便笺；照会；音符；调子；票据；纸币"
+  }
+]

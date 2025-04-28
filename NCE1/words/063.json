@@ -1,0 +1,51 @@
+[
+  {
+    "text": "water",
+    "isDanger": 0,
+    "phonetic": "/ˈwɔːtə(r)/",
+    "translation": "v. 浇水",
+    "toggle": "n. 水；雨水；海水；海域，大片的水"
+  },
+  {
+    "text": "terribly",
+    "isDanger": 1,
+    "phonetic": "/ˈterəbli/",
+    "translation": "adv. 非常",
+    "toggle": "adv. 可怕地； [ 口 ] 非常；极度地"
+  },
+  {
+    "text": "dry",
+    "isDanger": 0,
+    "phonetic": "/draɪ/",
+    "translation": "adj. 干燥的，干的",
+    "toggle": "adj. 干的；口渴的；禁酒的；枯燥无味的"
+  },
+  {
+    "text": "nuisance",
+    "isDanger": 0,
+    "phonetic": "/ˈnjuːsns/",
+    "translation": "n. 讨厌的东西或人",
+    "toggle": "n. 麻烦事；损害；讨厌的人；讨厌的东西"
+  },
+  {
+    "text": "mean",
+    "isDanger": 1,
+    "phonetic": "/miːn/",
+    "translation": "v. 意味着，意思是",
+    "toggle": "adj. 低劣的；平均的；卑鄙的"
+  },
+  {
+    "text": "surprise",
+    "isDanger": 1,
+    "phonetic": "/səˈpraɪz/",
+    "translation": "n. 惊奇，意外的事",
+    "toggle": "n. 惊奇，诧异；突然袭击"
+  },
+  {
+    "text": "immediately",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmiːdiətli/",
+    "translation": "adv. 立即",
+    "toggle": "adv. 直接地；立即，立刻"
+  }
+]

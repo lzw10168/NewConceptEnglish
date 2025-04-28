@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mess",
+    "isDanger": 1,
+    "phonetic": "/mes/",
+    "translation": "n. 杂乱，凌乱",
+    "toggle": "n. 食堂，伙食团；混乱；脏乱的东西；困境"
+  },
+  {
+    "text": "disorderly",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈɔːdəli/",
+    "translation": "adj. 混乱的",
+    "toggle": "adj. 混乱的，无秩序的；骚乱的；无法无天的"
+  },
+  {
+    "text": "pack",
+    "isDanger": 1,
+    "phonetic": "/pæk/",
+    "translation": "v. 包装，打包，装箱",
+    "toggle": "n. 包裹；一副；一群；包装；背包"
+  },
+  {
+    "text": "pack up",
+    "isDanger": 0,
+    "phonetic": "/pæk ʌp/",
+    "translation": "v. 打包",
+    "toggle": "打包; 收拾; <非正>停止工作; 停止运转"
+  },
+  {
+    "text": "suitcase",
+    "isDanger": 0,
+    "phonetic": "/ˈsuːtkeɪs/",
+    "translation": "n. 手提箱",
+    "toggle": "n. 手提箱；衣箱"
+  },
+  {
+    "text": "leave",
+    "isDanger": 1,
+    "phonetic": "/liːv/",
+    "translation": "v. 离开",
+    "toggle": "vt. 离开；留下；委托；遗忘"
+  },
+  {
+    "text": "already",
+    "isDanger": 0,
+    "phonetic": "/ɔːlˈredi/",
+    "translation": "adv. 已经",
+    "toggle": "adv. 已经，早已；先前"
+  },
+  {
+    "text": "ready",
+    "isDanger": 0,
+    "phonetic": "/ˈredi/",
+    "translation": "adj. 准备好的",
+    "toggle": "adj. 准备好；情愿的；现成的；迅速的；快要 … 的"
+  }
+]

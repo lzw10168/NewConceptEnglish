@@ -1,0 +1,30 @@
+[
+  {
+    "text": "pioneer",
+    "isDanger": 0,
+    "phonetic": "/ˌpaɪəˈnɪə(r)/",
+    "translation": "n. 先驱",
+    "toggle": "n. 拓荒者；先锋"
+  },
+  {
+    "text": "lord",
+    "isDanger": 0,
+    "phonetic": "/lɔːd/",
+    "translation": "n. 对(英国)贵族的尊称；勋爵",
+    "toggle": "n. 上帝；主、对贵族（noble / aristocrat） 的尊称"
+  },
+  {
+    "text": "Calais",
+    "isDanger": 0,
+    "phonetic": "/ˈkæleɪ/",
+    "translation": "n. 加来(法国港市)",
+    "toggle": "n. 加来（法国城市）；卡莱斯牌汽车"
+  },
+  {
+    "text": "overland",
+    "isDanger": 0,
+    "phonetic": "/ˈəʊvəlænd/",
+    "translation": "adj. 陆上的",
+    "toggle": "adj. 陆上的；经由陆路的"
+  }
+]

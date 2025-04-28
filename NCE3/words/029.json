@@ -1,0 +1,93 @@
+[
+  {
+    "text": "largely",
+    "isDanger": 0,
+    "phonetic": "/ˈlɑːdʒli/",
+    "translation": "adv. 在很大程度上",
+    "toggle": "adv. 主要地；大量地；大部分"
+  },
+  {
+    "text": "comic",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒmɪk/",
+    "translation": "adj. 喜剧的，可笑的",
+    "toggle": "adj. 喜剧的；有趣的；滑稽的"
+  },
+  {
+    "text": "universal",
+    "isDanger": 0,
+    "phonetic": "/ˌjuːnɪˈvɜːs(ə)l/",
+    "translation": "adj. 普遍的",
+    "toggle": "adj. 通用的；普遍的；全体的；全世界的"
+  },
+  {
+    "text": "comedian",
+    "isDanger": 0,
+    "phonetic": "/kəˈmiːdiən/",
+    "translation": "n. 滑稽演员，喜剧演员",
+    "toggle": "n. 喜剧演员；滑稽人物"
+  },
+  {
+    "text": "pester",
+    "isDanger": 0,
+    "phonetic": "/ˈpestə(r)/",
+    "translation": "v. 一再要求，纠缠",
+    "toggle": "vt. 纠缠，烦扰；使烦恼"
+  },
+  {
+    "text": "dread",
+    "isDanger": 1,
+    "phonetic": "/dred/",
+    "translation": "v. 惧怕",
+    "toggle": "n. 恐惧；可怕的人（或物）"
+  },
+  {
+    "text": "recovery",
+    "isDanger": 0,
+    "phonetic": "/rɪˈkʌvəri/",
+    "translation": "n. 康复",
+    "toggle": "n. 恢复，复原；痊愈；重获"
+  },
+  {
+    "text": "plaster",
+    "isDanger": 0,
+    "phonetic": "/ˈplɑːstə(r)/",
+    "translation": "n. 熟石膏",
+    "toggle": "n. 灰泥；石膏；膏药"
+  },
+  {
+    "text": "console",
+    "isDanger": 0,
+    "phonetic": "/kənˈsəʊl/",
+    "translation": "v. 安慰，慰问",
+    "toggle": "n. 操纵台；控制台"
+  },
+  {
+    "text": "hobble",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒb(ə)l/",
+    "translation": "v. 腐着腿走",
+    "toggle": "vi. 蹒跚；跛行"
+  },
+  {
+    "text": "compensate",
+    "isDanger": 1,
+    "phonetic": "/ˈkɒmpenseɪt/",
+    "translation": "v. 补偿",
+    "toggle": "vi. 补偿，赔偿；抵消"
+  },
+  {
+    "text": "mumble",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌmb(ə)l/",
+    "translation": "v. 喃喃而语",
+    "toggle": "vt. 含糊地说；抿着嘴嚼"
+  },
+  {
+    "text": "distasteful",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈteɪstfl/",
+    "translation": "adj. 讨厌的",
+    "toggle": "adj. 令人不快的；不合口味的；表示厌恶的"
+  }
+]

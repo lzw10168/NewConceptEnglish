@@ -1,0 +1,79 @@
+[
+  {
+    "text": "labourer",
+    "isDanger": 0,
+    "phonetic": "/ˈleɪbərə(r)/",
+    "translation": "n. 劳动者",
+    "toggle": "n. 劳动者；劳工"
+  },
+  {
+    "text": "overnight",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈnaɪt/",
+    "translation": "adv. 一夜期间",
+    "toggle": "adv. 通宵；昨晚；突然"
+  },
+  {
+    "text": "hay",
+    "isDanger": 0,
+    "phonetic": "/heɪ/",
+    "translation": "n. 干草",
+    "toggle": "n. 干草"
+  },
+  {
+    "text": "corn",
+    "isDanger": 0,
+    "phonetic": "/kɔːn/",
+    "translation": "n. 谷物",
+    "toggle": "n. （美）玉米；（英）谷物；鸡眼"
+  },
+  {
+    "text": "moonlight",
+    "isDanger": 0,
+    "phonetic": "/ˈmuːnlaɪt/",
+    "translation": "n. 月光",
+    "toggle": "adj. 月夜的；有月光的"
+  },
+  {
+    "text": "conscientious",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒnʃiˈenʃəs/",
+    "translation": "adj. 认真的",
+    "toggle": "adj. 认真的；尽责的；本着良心的；小心谨慎的"
+  },
+  {
+    "text": "suspect",
+    "isDanger": 0,
+    "phonetic": "/səˈspekt/",
+    "translation": "v. 怀疑",
+    "toggle": "n. 嫌疑犯"
+  },
+  {
+    "text": "desert",
+    "isDanger": 1,
+    "phonetic": "/ˈdezət/",
+    "translation": "v. (军队中)开小差",
+    "toggle": "vt. 遗弃；放弃；逃跑"
+  },
+  {
+    "text": "regiment",
+    "isDanger": 0,
+    "phonetic": "/ˈredʒɪmənt/",
+    "translation": "n. (军队)团",
+    "toggle": "vt. 把 … 编成团；严格地管制"
+  },
+  {
+    "text": "action",
+    "isDanger": 0,
+    "phonetic": "/ˈækʃ(ə)n/",
+    "translation": "n. 战斗",
+    "toggle": "n. 行动；活动；功能；情节；战斗"
+  },
+  {
+    "text": "recluse",
+    "isDanger": 0,
+    "phonetic": "/rɪˈkluːs/",
+    "translation": "n. 隐士",
+    "toggle": "n. 隐士；隐居者"
+  }
+]

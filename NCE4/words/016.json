@@ -1,0 +1,128 @@
+[
+  {
+    "text": "physiological",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 生理的",
+    "toggle": "adj. 生理学的，生理的"
+  },
+  {
+    "text": "maximum",
+    "isDanger": 0,
+    "phonetic": "/ˈmæksɪməm/",
+    "translation": "adj. 最大限度的",
+    "toggle": "n. 极大，最大限度；最大量"
+  },
+  {
+    "text": "consideration",
+    "isDanger": 0,
+    "phonetic": "/kənˌsɪdəˈreɪʃ(ə)n/",
+    "translation": "n. 考虑",
+    "toggle": "n. 考虑；报酬；原因；关心"
+  },
+  {
+    "text": "descendant",
+    "isDanger": 0,
+    "phonetic": "/dɪˈsendənt/",
+    "translation": "n. 子孙，后代",
+    "toggle": "adj. 下降的；祖传的"
+  },
+  {
+    "text": "artificial",
+    "isDanger": 0,
+    "phonetic": "/ˌɑːtɪˈfɪʃ(ə)l/",
+    "translation": "adj. 人工的",
+    "toggle": "adj. 人造的；仿造的；虚伪的；非原产地的；武断的"
+  },
+  {
+    "text": "impose",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈpəʊz/",
+    "translation": "v. 强加",
+    "toggle": "vi. 欺骗；利用；施加影响"
+  },
+  {
+    "text": "dimension",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 直径",
+    "toggle": "n. 维；尺寸；次元；容积"
+  },
+  {
+    "text": "skyscraper",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 摩天大楼",
+    "toggle": "n. 摩天楼，超高层大楼；特别高的东西"
+  },
+  {
+    "text": "tenant",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 租户",
+    "toggle": "n. 房客；承租人；佃户；居住者"
+  },
+  {
+    "text": "civilized",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪvəlaɪzd/",
+    "translation": "adj. 文明的",
+    "toggle": "adj. 有礼貌的；文明的"
+  },
+  {
+    "text": "banal",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 平庸的",
+    "toggle": "adj. 陈腐的；平庸的；老一套的"
+  },
+  {
+    "text": "luxury",
+    "isDanger": 0,
+    "phonetic": "/ˈlʌkʃəri/",
+    "translation": "n. 豪华",
+    "toggle": "n. 奢侈，奢华；奢侈品；享受"
+  },
+  {
+    "text": "deprive",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 剥夺",
+    "toggle": "vt. 使丧失，剥夺"
+  },
+  {
+    "text": "monstrous",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒnstrəs/",
+    "translation": "adj. 畸形的",
+    "toggle": "adj. 巨大的；怪异的；荒谬的；畸形的"
+  },
+  {
+    "text": "edifice",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 大厦",
+    "toggle": "n. 大厦；大建筑物"
+  },
+  {
+    "text": "toxic",
+    "isDanger": 1,
+    "phonetic": "/ˈtɒksɪk/",
+    "translation": "adj. 有毒的",
+    "toggle": "adj. 有毒的；中毒的"
+  },
+  {
+    "text": "ceaselessly",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːsləsli/",
+    "translation": "adv. 不停地",
+    "toggle": "adv.不停地,不断地"
+  },
+  {
+    "text": "throng",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 挤满，拥塞",
+    "toggle": "n. 人群；众多"
+  }
+]

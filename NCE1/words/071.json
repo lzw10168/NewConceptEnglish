@@ -1,0 +1,107 @@
+[
+  {
+    "text": "excited",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "translation": "adj. 兴奋的",
+    "toggle": "adj. 激动的；兴奋的；活跃的"
+  },
+  {
+    "text": "get on",
+    "isDanger": 0,
+    "phonetic": "/ɡet ɒn/",
+    "translation": "n. 登上",
+    "toggle": "发迹；出人头地"
+  },
+  {
+    "text": "middle-aged",
+    "isDanger": 0,
+    "phonetic": "/ˌmɪd(ə)l ˈeɪdʒd/",
+    "translation": "adj. 中年的",
+    "toggle": "adj. 中年的; 适合于中年人的; 具有中年人特点的"
+  },
+  {
+    "text": "opposite",
+    "isDanger": 1,
+    "phonetic": "/ˈɒpəzɪt/",
+    "translation": "prep. 在…对面",
+    "toggle": "adj. 相反的；对面的；对立的"
+  },
+  {
+    "text": "curiously",
+    "isDanger": 0,
+    "phonetic": "/ˈkjʊəriəsli/",
+    "translation": "adv. 好奇地",
+    "toggle": "adv. 好奇地"
+  },
+  {
+    "text": "funny",
+    "isDanger": 0,
+    "phonetic": "/ˈfʌni/",
+    "translation": "adj. 可笑的，滑稽的",
+    "toggle": "adj. 有趣的；奇异的；滑稽的"
+  },
+  {
+    "text": "powder",
+    "isDanger": 0,
+    "phonetic": "/ˈpaʊdə(r)/",
+    "translation": "n. 香粉",
+    "toggle": "n. 粉末；粉；火药；尘土"
+  },
+  {
+    "text": "compact",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpækt/",
+    "translation": "n. 带镜的化妆盒",
+    "toggle": "n. 合同，契约；小粉盒"
+  },
+  {
+    "text": "kindly",
+    "isDanger": 0,
+    "phonetic": "/ˈkaɪndli/",
+    "translation": "adv. 和蔼地",
+    "toggle": "adv. 亲切地；温和地；仁慈地"
+  },
+  {
+    "text": "ugly",
+    "isDanger": 0,
+    "phonetic": "/ˈʌɡli/",
+    "translation": "adj. 丑陋的",
+    "toggle": "adj. 丑陋的；令人厌恶的；邪恶的"
+  },
+  {
+    "text": "amused",
+    "isDanger": 0,
+    "phonetic": "/əˈmjuːzd/",
+    "translation": "adj. 有趣的",
+    "toggle": "adj. 愉快的，顽皮的；被逗乐的"
+  },
+  {
+    "text": "smile",
+    "isDanger": 0,
+    "phonetic": "/smaɪl/",
+    "translation": "v. 微笑",
+    "toggle": "vi. 微笑"
+  },
+  {
+    "text": "embarrassed",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈbærəst/",
+    "translation": "adj. 尴尬的，窘迫",
+    "toggle": "adj. 尴尬的；窘迫的"
+  },
+  {
+    "text": "worried",
+    "isDanger": 0,
+    "phonetic": "/ˈwʌrid/",
+    "translation": "adj. 担心，担忧",
+    "toggle": "adj. 担心的"
+  },
+  {
+    "text": "regularly",
+    "isDanger": 0,
+    "phonetic": "/ˈreɡjələli/",
+    "translation": "adv. 经常地，定期地",
+    "toggle": "adv. 有规律地；定期地；整齐地；匀称地"
+  }
+]

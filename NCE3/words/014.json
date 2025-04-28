@@ -1,0 +1,114 @@
+[
+  {
+    "text": "gangster",
+    "isDanger": 0,
+    "phonetic": "/ˈɡæŋstə(r)/",
+    "translation": "n. 歹徒，强盗",
+    "toggle": "n. 歹徒，流氓；恶棍"
+  },
+  {
+    "text": "Chicago",
+    "isDanger": 0,
+    "phonetic": "/ʃɪˈkɑːɡəʊ/",
+    "translation": "n. 芝加哥(美国城市)",
+    "toggle": "n. 芝加哥（美国城市名）"
+  },
+  {
+    "text": "protection",
+    "isDanger": 0,
+    "phonetic": "/prəˈtekʃ(ə)n/",
+    "translation": "n. 保护",
+    "toggle": "n. 保护；防卫；护照"
+  },
+  {
+    "text": "promptly",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒmptli/",
+    "translation": "adv. 准时地",
+    "toggle": "adv. 迅速地；敏捷地；立即地(不耽搁的)"
+  },
+  {
+    "text": "destroy",
+    "isDanger": 0,
+    "phonetic": "/dɪˈstrɔɪ/",
+    "translation": "v. 毁掉；消灭",
+    "toggle": "vt. 毁坏；破坏；消灭"
+  },
+  {
+    "text": "remarkable",
+    "isDanger": 0,
+    "phonetic": "/rɪˈmɑːkəb(ə)l/",
+    "translation": "adj. 不寻常的",
+    "toggle": "adj. 卓越的；非凡的；值得注意的"
+  },
+  {
+    "text": "band",
+    "isDanger": 1,
+    "phonetic": "/bænd/",
+    "translation": "n. 帮，团伙",
+    "toggle": "n. 带；松紧带；传送带；乐队；一帮"
+  },
+  {
+    "text": "Florence",
+    "isDanger": 0,
+    "phonetic": "/ˈflɒrəns/",
+    "translation": "n. 佛罗伦萨(意大利城市)",
+    "toggle": "n. 佛罗伦萨（意大利都市名）；弗洛伦斯（女子名）"
+  },
+  {
+    "text": "city-state",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪti steɪt/",
+    "translation": "n. (古代)城邦",
+    "toggle": "n. 城邦"
+  },
+  {
+    "text": "hire",
+    "isDanger": 1,
+    "phonetic": "/ˈhaɪə(r)/",
+    "translation": "v. 租出，雇给",
+    "toggle": "n. 租金，工钱；雇用，租用"
+  },
+  {
+    "text": "prince",
+    "isDanger": 0,
+    "phonetic": "/prɪns/",
+    "translation": "n. 君主，诸侯",
+    "toggle": "n. 王子，国君；亲王；贵族"
+  },
+  {
+    "text": "Florentine",
+    "isDanger": 0,
+    "phonetic": "/ˈflɒrəntaɪn/",
+    "translation": "n. 佛罗伦萨人",
+    "toggle": "n. 佛罗伦萨人；佛罗伦萨饼干"
+  },
+  {
+    "text": "funeral",
+    "isDanger": 0,
+    "phonetic": "/ˈfjuːnərəl/",
+    "translation": "n. 葬礼",
+    "toggle": "n. 葬礼； [ 口 ] 麻烦事"
+  },
+  {
+    "text": "dedicate",
+    "isDanger": 1,
+    "phonetic": "/ˈdedɪkeɪt/",
+    "translation": "v. 奉献，题献给",
+    "toggle": "vt. 致力；献身；题献（dedicated to my beloved wife）"
+  },
+  {
+    "text": "memory",
+    "isDanger": 0,
+    "phonetic": "/ˈmeməri/",
+    "translation": "n. 纪念",
+    "toggle": "n. 记忆，记忆力；回忆；内存，存储器"
+  },
+  {
+    "text": "valiant",
+    "isDanger": 0,
+    "phonetic": "/ˈvæliənt/",
+    "translation": "adj. 英勇的",
+    "toggle": "adj. 英勇的，勇敢的"
+  }
+]

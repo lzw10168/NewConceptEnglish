@@ -1,0 +1,37 @@
+[
+  {
+    "text": "famous",
+    "isDanger": 0,
+    "phonetic": "/ˈfeɪməs/",
+    "translation": "adj. 著名的",
+    "toggle": "adj. 著名的； [ 口 ] 极好的，非常令人满意的"
+  },
+  {
+    "text": "actress",
+    "isDanger": 0,
+    "phonetic": "/ˈæktrəs/",
+    "translation": "n. 女演员",
+    "toggle": "n. 女演员"
+  },
+  {
+    "text": "at least",
+    "isDanger": 0,
+    "phonetic": "/æt liːst/",
+    "translation": "adv. 至少",
+    "toggle": "至少"
+  },
+  {
+    "text": "actor",
+    "isDanger": 0,
+    "phonetic": "/ˈæktə(r)/",
+    "translation": "n. 男演员",
+    "toggle": "n. 行动者；男演员；作用物"
+  },
+  {
+    "text": "read",
+    "isDanger": 1,
+    "phonetic": "/riːd/",
+    "translation": "v. 通过阅读得知",
+    "toggle": "vt. 阅读；读懂，理解"
+  }
+]

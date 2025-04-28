@@ -1,0 +1,142 @@
+[
+  {
+    "text": "poison",
+    "isDanger": 0,
+    "phonetic": "/ˈpɔɪz(ə)n/",
+    "translation": "n. 毒药",
+    "toggle": "vt. 使中毒，放毒于；败坏；污染；阻碍"
+  },
+  {
+    "text": "illogical",
+    "isDanger": 0,
+    "phonetic": "/ɪˈlɒdʒɪkl/",
+    "translation": "adj. 不合逻辑的，无章法的",
+    "toggle": "adj. 不合逻辑的；不合常理的"
+  },
+  {
+    "text": "octopus",
+    "isDanger": 0,
+    "phonetic": "/ˈɒktəpəs/",
+    "translation": "n. 章鱼",
+    "toggle": "n. 章鱼"
+  },
+  {
+    "text": "delicacy",
+    "isDanger": 0,
+    "phonetic": "/ˈdelɪkəsi/",
+    "translation": "v. 美味，佳肴",
+    "toggle": "n. 微妙；精密"
+  },
+  {
+    "text": "repulsive",
+    "isDanger": 0,
+    "phonetic": "/rɪˈpʌlsɪv/",
+    "translation": "adj. 令人反感的，令人生厌的",
+    "toggle": "adj. 排斥的；击退的；令人厌恶的；冷淡的"
+  },
+  {
+    "text": "stomach",
+    "isDanger": 0,
+    "phonetic": "/ˈstʌmək/",
+    "translation": "n. 胃",
+    "toggle": "n. 胃；胃口；腹部"
+  },
+  {
+    "text": "turn",
+    "isDanger": 1,
+    "phonetic": "/tɜːn/",
+    "translation": "v. 感到恶心，翻胃",
+    "toggle": "vt. 转动，使旋转；转弯；兑换；翻过来"
+  },
+  {
+    "text": "fry",
+    "isDanger": 0,
+    "phonetic": "/fraɪ/",
+    "translation": "v. 油炸",
+    "toggle": "n. 鱼苗；油炸食物"
+  },
+  {
+    "text": "fat",
+    "isDanger": 1,
+    "phonetic": "/fæt/",
+    "translation": "n. (动物、植物)油",
+    "toggle": "adj. 肥的，胖的；丰满的；油腻的"
+  },
+  {
+    "text": "abuse",
+    "isDanger": 0,
+    "phonetic": "/əˈbjuːs/",
+    "translation": "n. 辱骂，责骂",
+    "toggle": "n. 滥用；辱骂；虐待；弊端；恶习，陋习"
+  },
+  {
+    "text": "snail",
+    "isDanger": 0,
+    "phonetic": "/sneɪl/",
+    "translation": "n. 蜗牛",
+    "toggle": "n. 蜗牛；迟钝的人"
+  },
+  {
+    "text": "luxury",
+    "isDanger": 0,
+    "phonetic": "/ˈlʌkʃəri/",
+    "translation": "n. 奢侈品，珍品",
+    "toggle": "n. 奢侈，奢华；奢侈品；享受"
+  },
+  {
+    "text": "associate",
+    "isDanger": 1,
+    "phonetic": "/əˈsəʊsieɪt/",
+    "translation": "v. 联想到",
+    "toggle": "vi. 交往；结交"
+  },
+  {
+    "text": "despise",
+    "isDanger": 0,
+    "phonetic": "/dɪˈspaɪz/",
+    "translation": "v. 鄙视",
+    "toggle": "vt. 轻视，鄙视"
+  },
+  {
+    "text": "appeal",
+    "isDanger": 0,
+    "phonetic": "/əˈpiːl/",
+    "translation": "v. 引起兴致",
+    "toggle": "vi. 呼吁，恳求；有吸引力，迎合爱好；诉诸，求助；上诉；（体育比赛中）诉诸裁判"
+  },
+  {
+    "text": "shower",
+    "isDanger": 0,
+    "phonetic": "/ˈʃaʊə(r)/",
+    "translation": "n. 阵雨",
+    "toggle": "n. 淋浴；阵雨；（倾泻般出现的）一阵，一大批"
+  },
+  {
+    "text": "stroll",
+    "isDanger": 0,
+    "phonetic": "/strəʊl/",
+    "translation": "n. 溜达，散步",
+    "toggle": "n. 闲逛；漫步；巡回演出"
+  },
+  {
+    "text": "impulse",
+    "isDanger": 0,
+    "phonetic": "/ˈɪmpʌls/",
+    "translation": "n. 冲动",
+    "toggle": "n. 冲动；脉冲；刺激；推动力；神经冲动"
+  },
+  {
+    "text": "dozen",
+    "isDanger": 0,
+    "phonetic": "/ˈdʌz(ə)n/",
+    "translation": "n. 12 个，一打",
+    "toggle": "n. 十二个，一打"
+  },
+  {
+    "text": "fancy",
+    "isDanger": 0,
+    "phonetic": "/ˈfænsi/",
+    "translation": "v. 喜爱，喜欢",
+    "toggle": "n. 想像力；爱好；幻想"
+  }
+]

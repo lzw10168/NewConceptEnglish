@@ -1,0 +1,142 @@
+[
+  {
+    "text": "guilty",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɪlti/",
+    "translation": "adj. 犯罪的，违法的",
+    "toggle": "adj. 有罪的；内疚的"
+  },
+  {
+    "text": "tolerant",
+    "isDanger": 0,
+    "phonetic": "/ˈtɒlərənt/",
+    "translation": "adj. 宽容的",
+    "toggle": "adj. 容忍的；宽容的；有耐药力的"
+  },
+  {
+    "text": "declare",
+    "isDanger": 0,
+    "phonetic": "/dɪˈkleə(r)/",
+    "translation": "v. 申报",
+    "toggle": "vt. 宣布，声明；断言，宣称"
+  },
+  {
+    "text": "hardened",
+    "isDanger": 0,
+    "phonetic": "/ˈhɑːd(ə)nd/",
+    "translation": "adj. 有经验的",
+    "toggle": "adj. 变硬的；坚定的"
+  },
+  {
+    "text": "professional",
+    "isDanger": 0,
+    "phonetic": "/prəˈfeʃən(ə)l/",
+    "translation": "adj. 职业的，专业的",
+    "toggle": "adj. 职业的；专业的；职业性的"
+  },
+  {
+    "text": "smuggler",
+    "isDanger": 0,
+    "phonetic": "/ˈsmʌɡ(ə)lə(r)/",
+    "translation": "n. 走私者",
+    "toggle": "n. 走私船；走私者；走私犯"
+  },
+  {
+    "text": "officious",
+    "isDanger": 0,
+    "phonetic": "/əˈfɪʃəs/",
+    "translation": "adj. 爱管闲事的",
+    "toggle": "adj. 摆官架子的；爱管闲事的；乐于助人的"
+  },
+  {
+    "text": "confidently",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnfɪdəntli/",
+    "translation": "adv. 自信地",
+    "toggle": "adv. 自信地；安心地"
+  },
+  {
+    "text": "dreadful",
+    "isDanger": 0,
+    "phonetic": "/ˈdredf(ə)l/",
+    "translation": "adj. 可怕的，一团糟的",
+    "toggle": "adj. 可怕的；糟透的，令人不快的"
+  },
+  {
+    "text": "pounce",
+    "isDanger": 0,
+    "phonetic": "/paʊns/",
+    "translation": "v. 猛抓，扑住",
+    "toggle": "vi. 突袭，猛扑"
+  },
+  {
+    "text": "perfume",
+    "isDanger": 0,
+    "phonetic": "/ˈpɜːfjuːm/",
+    "translation": "n. 香水",
+    "toggle": "n. 香水；香味"
+  },
+  {
+    "text": "sarcastically",
+    "isDanger": 0,
+    "phonetic": "/sɑːˈkæstɪkli/",
+    "translation": "adv. 讽刺地",
+    "toggle": "adv. 讽刺地；挖苦地"
+  },
+  {
+    "text": "exempt",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzempt/",
+    "translation": "adj. 被免除的",
+    "toggle": "vt. 免除；豁免"
+  },
+  {
+    "text": "duty",
+    "isDanger": 0,
+    "phonetic": "/ˈdjuːti/",
+    "translation": "n. 税",
+    "toggle": "n. 责任；职务；关税"
+  },
+  {
+    "text": "gel",
+    "isDanger": 0,
+    "phonetic": "/dʒel/",
+    "translation": "n. 凝胶",
+    "toggle": "vi. 胶化"
+  },
+  {
+    "text": "mixture",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪkstʃə(r)/",
+    "translation": "n. 混合物",
+    "toggle": "n. 混合；混合物；混合剂"
+  },
+  {
+    "text": "unscrew",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈskruː/",
+    "translation": "v. 拧开",
+    "toggle": "vt. 旋松；旋开；从 ... 旋出螺丝"
+  },
+  {
+    "text": "nostril",
+    "isDanger": 0,
+    "phonetic": "/ˈnɒstrəl/",
+    "translation": "n. 鼻孔",
+    "toggle": "n. 鼻孔"
+  },
+  {
+    "text": "chalk",
+    "isDanger": 0,
+    "phonetic": "/tʃɔːk/",
+    "translation": "n. 粉笔",
+    "toggle": "vt. 用粉笔写；用白垩粉擦；记录；规划"
+  },
+  {
+    "text": "baggage",
+    "isDanger": 0,
+    "phonetic": "/ˈbæɡɪdʒ/",
+    "translation": "n. 行李",
+    "toggle": "n. 辎重（军队的）；行李 (不可数)"
+  }
+]

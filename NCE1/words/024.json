@@ -1,0 +1,156 @@
+[
+  {
+    "text": "like",
+    "isDanger": 1,
+    "phonetic": "/laɪk/",
+    "translation": "v. 喜欢，想要",
+    "toggle": "vt. 喜欢；愿意；想"
+  },
+  {
+    "text": "want",
+    "isDanger": 1,
+    "phonetic": "/wɒnt/",
+    "translation": "v. 想",
+    "toggle": "vt. 需要；缺少；应该；希望"
+  },
+  {
+    "text": "fresh",
+    "isDanger": 1,
+    "phonetic": "/freʃ/",
+    "translation": "adj. 新鲜的",
+    "toggle": "adj. 新鲜的；无经验的；淡水的；清新的"
+  },
+  {
+    "text": "egg",
+    "isDanger": 0,
+    "phonetic": "/eɡ/",
+    "translation": "n. 鸡蛋",
+    "toggle": "n. 蛋；卵子； [ 俚 ] 家伙"
+  },
+  {
+    "text": "butter",
+    "isDanger": 0,
+    "phonetic": "/ˈbʌtə(r)/",
+    "translation": "n. 黄油",
+    "toggle": "vt. 涂黄油于； [ 口 ] 讨好"
+  },
+  {
+    "text": "pure",
+    "isDanger": 0,
+    "phonetic": "/pjʊə(r)/",
+    "translation": "adj. 纯净的",
+    "toggle": "adj. 纯的；纯洁的；清白的；纯粹的；纯理论的"
+  },
+  {
+    "text": "honey",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌni/",
+    "translation": "n. 蜂蜜",
+    "toggle": "n. 蜂蜜；甜蜜；宝贝"
+  },
+  {
+    "text": "ripe",
+    "isDanger": 1,
+    "phonetic": "/raɪp/",
+    "translation": "adj. 成熟的",
+    "toggle": "adj. 熟的，成熟的；时机成熟的"
+  },
+  {
+    "text": "banana",
+    "isDanger": 0,
+    "phonetic": "/bəˈnɑːnə/",
+    "translation": "n. 香蕉",
+    "toggle": "n. 香蕉；喜剧演员；大鹰钩鼻"
+  },
+  {
+    "text": "jam",
+    "isDanger": 0,
+    "phonetic": "/dʒæm/",
+    "translation": "n. 果酱",
+    "toggle": "n. 果酱；拥挤；困境； [ 篮球 ] 扣篮； vt. 使堵塞；挤进，使塞满；混杂；压碎； vi. 堵塞；轧住"
+  },
+  {
+    "text": "sweet",
+    "isDanger": 0,
+    "phonetic": "/swiːt/",
+    "translation": "adj. 甜的",
+    "toggle": "adj. 甜的；悦耳的；芳香的；亲切的； n. 糖果；乐趣；芳香；宝贝；（俚）酷毙了"
+  },
+  {
+    "text": "orange",
+    "isDanger": 0,
+    "phonetic": "/ˈɒrɪndʒ/",
+    "translation": "n. 橙",
+    "toggle": "adj. 橘色的；橙色的"
+  },
+  {
+    "text": "scotch whisky",
+    "isDanger": 0,
+    "phonetic": "/skɒtʃ ˈwɪski/",
+    "translation": "n. 苏格兰威士忌",
+    "toggle": "n. 苏格兰威士忌酒"
+  },
+  {
+    "text": "Scotch",
+    "isDanger": 0,
+    "phonetic": "/skɒtʃ/",
+    "translation": "n. 苏格兰",
+    "toggle": "vi. 弄伤；制止转动；扑灭；镇压"
+  },
+  {
+    "text": "whisky",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪski/",
+    "translation": "n. 威士忌",
+    "toggle": "n. 威士忌酒"
+  },
+  {
+    "text": "choice",
+    "isDanger": 0,
+    "phonetic": "/tʃɔɪs/",
+    "translation": "adj. 上等的，精选的",
+    "toggle": "n. 选择；选择权；精选品"
+  },
+  {
+    "text": "apple",
+    "isDanger": 0,
+    "phonetic": "/ˈæp(ə)l/",
+    "translation": "n. 苹果",
+    "toggle": "n. 苹果； [ 俚 ] 家伙"
+  },
+  {
+    "text": "wine",
+    "isDanger": 0,
+    "phonetic": "/waɪn/",
+    "translation": "n. 酒，果酒",
+    "toggle": "n. 酒，葡萄酒；紫红色"
+  },
+  {
+    "text": "beer",
+    "isDanger": 0,
+    "phonetic": "/bɪə(r)/",
+    "translation": "n. 啤酒",
+    "toggle": "n. 啤酒"
+  },
+  {
+    "text": "blackboard",
+    "isDanger": 0,
+    "phonetic": "/ˈblækbɔːd/",
+    "translation": "n. 黑板",
+    "toggle": "n. 黑板"
+  },
+  {
+    "text": "liquor",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪkə(r)/",
+    "translation": "n. 烈性酒",
+    "toggle": "n. 酒，含酒精饮料；液体；烈酒；溶液"
+  },
+  {
+    "text": "alcohol",
+    "isDanger": 0,
+    "phonetic": "/ˈælkəhɒl/",
+    "translation": "n. 酒精",
+    "toggle": "n. 酒精，乙醇"
+  }
+]

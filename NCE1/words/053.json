@@ -1,0 +1,79 @@
+[
+  {
+    "text": "spell",
+    "isDanger": 1,
+    "phonetic": "/spel/",
+    "translation": "v. 拼写",
+    "toggle": "vt. 拼，拼写；拼成；意味着；迷住；招致；轮值"
+  },
+  {
+    "text": "intelligent",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtelɪdʒənt/",
+    "translation": "adj. 聪明的，有智慧的",
+    "toggle": "adj. 聪明的；智能的；理解力强的"
+  },
+  {
+    "text": "mistake",
+    "isDanger": 0,
+    "phonetic": "/mɪˈsteɪk/",
+    "translation": "n. 错误",
+    "toggle": "n. 错误；误会；过失"
+  },
+  {
+    "text": "error",
+    "isDanger": 0,
+    "phonetic": "/ˈerə(r)/",
+    "translation": "n. 错误",
+    "toggle": "n. 错误；误差；过失"
+  },
+  {
+    "text": "fault",
+    "isDanger": 0,
+    "phonetic": "/fɔːlt/",
+    "translation": "v. 失误",
+    "toggle": "n. 故障；毛病；缺点；错误； [ 地 ] 断层；（网球等）发球失误"
+  },
+  {
+    "text": "inaccuracy",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈækjərəsi/",
+    "translation": "n. 不精确",
+    "toggle": "n. 错误；不精确"
+  },
+  {
+    "text": "present",
+    "isDanger": 1,
+    "phonetic": "/ˈprez(ə)nt/",
+    "translation": "n. 礼物",
+    "toggle": "vt. 呈现；介绍；提出；赠送"
+  },
+  {
+    "text": "gift",
+    "isDanger": 0,
+    "phonetic": "/ɡɪft/",
+    "translation": "n. 礼物",
+    "toggle": "n. 礼物；赠品；天赋"
+  },
+  {
+    "text": "dictionary",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪkʃən(ə)ri/",
+    "translation": "n. 词典",
+    "toggle": "n. 字典；词典"
+  },
+  {
+    "text": "carry",
+    "isDanger": 1,
+    "phonetic": "/ˈkæri/",
+    "translation": "v. 携带",
+    "toggle": "vt. 拿，扛；搬运；携带；支持"
+  },
+  {
+    "text": "correct",
+    "isDanger": 1,
+    "phonetic": "/kəˈrekt/",
+    "translation": "v. 改正，纠正",
+    "toggle": "vt. 改正；告诫"
+  }
+]

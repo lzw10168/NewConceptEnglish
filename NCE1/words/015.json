@@ -1,0 +1,142 @@
+[
+  {
+    "text": "shut",
+    "isDanger": 0,
+    "phonetic": "/ʃʌt/",
+    "translation": "v. 关门",
+    "toggle": "vt. 关闭；停业；幽禁"
+  },
+  {
+    "text": "bedroom",
+    "isDanger": 0,
+    "phonetic": "/ˈbedruːm/",
+    "translation": "n. 卧室",
+    "toggle": "n. 卧室"
+  },
+  {
+    "text": "untidy",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈtaɪdi/",
+    "translation": "adj. 乱，不整齐",
+    "toggle": "adj.不整洁的,凌乱的,不简练的,不整齐的"
+  },
+  {
+    "text": "tidy",
+    "isDanger": 1,
+    "phonetic": "/ˈtaɪdi/",
+    "translation": "adj. 整齐的",
+    "toggle": "adj. 整齐的； [ 口 ] 相当大的"
+  },
+  {
+    "text": "must",
+    "isDanger": 1,
+    "phonetic": "/mʌst/",
+    "translation": "v. 必须，应该",
+    "toggle": "aux. 必须，一定；很可能；可以，应当"
+  },
+  {
+    "text": "open",
+    "isDanger": 1,
+    "phonetic": "/ˈəʊpən/",
+    "translation": "v. 打开",
+    "toggle": "adj. 营业着的；敞开的；空旷的；公开的；坦率的"
+  },
+  {
+    "text": "air",
+    "isDanger": 1,
+    "phonetic": "/eə(r)/",
+    "translation": "v. 使…通风，换换空气",
+    "toggle": "n. 空气，大气；曲调；天空；样子"
+  },
+  {
+    "text": "put",
+    "isDanger": 1,
+    "phonetic": "/pʊt/",
+    "translation": "v. 放置",
+    "toggle": "vt. 放；表达；移动；安置；赋予"
+  },
+  {
+    "text": "clothes",
+    "isDanger": 0,
+    "phonetic": "/kləʊðz/",
+    "translation": "n. 衣服",
+    "toggle": "n. 衣服"
+  },
+  {
+    "text": "wardrobe",
+    "isDanger": 0,
+    "phonetic": "/ˈwɔːdrəʊb/",
+    "translation": "n. 大衣柜",
+    "toggle": "n. 衣柜；全部戏装；行头"
+  },
+  {
+    "text": "closet",
+    "isDanger": 0,
+    "phonetic": "/ˈklɒzɪt/",
+    "translation": "n. 衣柜",
+    "toggle": "n. 壁橱；议事室，密室；小房间"
+  },
+  {
+    "text": "dust",
+    "isDanger": 1,
+    "phonetic": "/dʌst/",
+    "translation": "v. 掸掉灰尘",
+    "toggle": "n. 灰尘；尘埃；尘土"
+  },
+  {
+    "text": "sweep",
+    "isDanger": 0,
+    "phonetic": "/swiːp/",
+    "translation": "v. 扫",
+    "toggle": "vt. 扫除；猛拉；掸去"
+  },
+  {
+    "text": "empty",
+    "isDanger": 0,
+    "phonetic": "/ˈempti/",
+    "translation": "v. 倒空，使…变空",
+    "toggle": "adj. 空的；无意义的；徒劳的；无知的"
+  },
+  {
+    "text": "read",
+    "isDanger": 1,
+    "phonetic": "/riːd/",
+    "translation": "v. 读",
+    "toggle": "vt. 阅读；读懂，理解"
+  },
+  {
+    "text": "sharpen",
+    "isDanger": 0,
+    "phonetic": "/ˈʃɑːpən/",
+    "translation": "v. 削尖，使锋利",
+    "toggle": "vt. 削尖；使敏捷；加重；磨快"
+  },
+  {
+    "text": "put on",
+    "isDanger": 0,
+    "phonetic": "/pʊt ɒn/",
+    "translation": "v. 穿上",
+    "toggle": "表演(节目)，举办，展出，增加(体重)"
+  },
+  {
+    "text": "take off",
+    "isDanger": 0,
+    "phonetic": "/teɪk ɒf/",
+    "translation": "v. 脱掉",
+    "toggle": "脱掉; 起飞; （使）离开; 突然成功"
+  },
+  {
+    "text": "turn on",
+    "isDanger": 0,
+    "phonetic": "/tɜ:n ɒn/",
+    "translation": "v. 开(电灯)",
+    "toggle": "打开（水、电视、收音机、灯、煤气等）; （使）感兴趣; （使）兴奋; 发动"
+  },
+  {
+    "text": "turn off",
+    "isDanger": 0,
+    "phonetic": "/tɜ:n ɒf/",
+    "translation": "v. 关(电灯)",
+    "toggle": "（把…）关掉; 完成; 解雇; 转向"
+  }
+]

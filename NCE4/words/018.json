@@ -1,0 +1,156 @@
+[
+  {
+    "text": "porpoise",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 海豚",
+    "toggle": "n.[动]海豚,小鲸"
+  },
+  {
+    "text": "mariner",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 水手",
+    "toggle": "n.水手"
+  },
+  {
+    "text": "shark",
+    "isDanger": 0,
+    "phonetic": "/ʃɑːk/",
+    "translation": "n. 鲨鱼",
+    "toggle": "n. 鲨鱼；骗子"
+  },
+  {
+    "text": "formation",
+    "isDanger": 0,
+    "phonetic": "/fɔːˈmeɪʃ(ə)n/",
+    "translation": "n. 队形",
+    "toggle": "n. 形成；编队；构造"
+  },
+  {
+    "text": "dolphin",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 海豚科动物",
+    "toggle": "n. 海豚"
+  },
+  {
+    "text": "unconscious",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈkɒnʃəs/",
+    "translation": "adj. 不省人事",
+    "toggle": "adj. 失去知觉的；不省人事的；未发觉的；无意识的"
+  },
+  {
+    "text": "beaver",
+    "isDanger": 0,
+    "phonetic": "/ˈbiːvə(r)/",
+    "translation": "n. 海狸",
+    "toggle": "n. 海狸；海狸皮毛"
+  },
+  {
+    "text": "ashore",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 上岸",
+    "toggle": "adv. 在岸上；向岸"
+  },
+  {
+    "text": "waterlogged",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 浸满水的",
+    "toggle": ""
+  },
+  {
+    "text": "scent",
+    "isDanger": 0,
+    "phonetic": "/sent/",
+    "translation": "n. 香味",
+    "toggle": "n. 气味；痕迹；嗅觉；察觉能力"
+  },
+  {
+    "text": "ensue",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈsjuː/",
+    "translation": "v. 接着发生",
+    "toggle": "vi. 跟着发生，接着发生；继起"
+  },
+  {
+    "text": "intrigue",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtriːɡ/",
+    "translation": "v. 引起兴趣",
+    "toggle": "n. 阴谋；诡计；复杂的事；私通"
+  },
+  {
+    "text": "indignity",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 侮辱",
+    "toggle": "n. 侮辱；轻蔑；有伤尊严；无礼举动"
+  },
+  {
+    "text": "snout",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 口鼻部",
+    "toggle": "n. 鼻子；猪嘴；烟草；鼻口部；口吻状物"
+  },
+  {
+    "text": "shove",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 硬推",
+    "toggle": "vt. 强使；撞；挤；猛推"
+  },
+  {
+    "text": "aquaplane",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 驾浪滑水板",
+    "toggle": ""
+  },
+  {
+    "text": "oceanarium",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 水族馆",
+    "toggle": ""
+  },
+  {
+    "text": "swoop",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 猛扑",
+    "toggle": "vi. 突然袭击；猛扑；突然下降；飞扑"
+  },
+  {
+    "text": "belly",
+    "isDanger": 0,
+    "phonetic": "/ˈbeli/",
+    "translation": "n. 腹部",
+    "toggle": "n. 腹部；胃；食欲"
+  },
+  {
+    "text": "equilibrium",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 平衡",
+    "toggle": "n. 均衡；平静；保持平衡的能力"
+  },
+  {
+    "text": "butt",
+    "isDanger": 0,
+    "phonetic": "/bʌt/",
+    "translation": "v. 碰撞",
+    "toggle": "n. 笑柄；烟头；屁股；靶垛；粗大的一端"
+  },
+  {
+    "text": "crack",
+    "isDanger": 0,
+    "phonetic": "/kræk/",
+    "translation": "n. 重击",
+    "toggle": "vt. 使破裂；打开；变声"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "text": "bat",
+    "isDanger": 0,
+    "phonetic": "/bæt/",
+    "translation": "n. 蝙蝠",
+    "toggle": "n. 蝙蝠；球棒；批处理文件的扩展名"
+  },
+  {
+    "text": "strictly",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 明确的",
+    "toggle": "adv. 严格地；完全地；确实地"
+  },
+  {
+    "text": "utilitarian",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 实用的",
+    "toggle": "adj. 功利主义的；功利的；实利的"
+  },
+  {
+    "text": "apprecialion",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 理解",
+    "toggle": ""
+  },
+  {
+    "text": "obstruction",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 障碍物",
+    "toggle": "n. 妨碍；障碍；阻碍"
+  },
+  {
+    "text": "elapse",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 消逝",
+    "toggle": "vi. 时间过去；消逝"
+  },
+  {
+    "text": "hull",
+    "isDanger": 0,
+    "phonetic": "/hʌl/",
+    "translation": "n. 船体",
+    "toggle": "n. 船体；（果实的）外壳"
+  },
+  {
+    "text": "interval",
+    "isDanger": 0,
+    "phonetic": "/ˈɪntəv(ə)l/",
+    "translation": "n. 间隔",
+    "toggle": "n. 间隔；幕间休息；间距"
+  },
+  {
+    "text": "receipt",
+    "isDanger": 1,
+    "phonetic": "/rɪˈsiːt/",
+    "translation": "n. 收到",
+    "toggle": "n. 收到；收据；收入"
+  },
+  {
+    "text": "apparatus",
+    "isDanger": 0,
+    "phonetic": "/ˌæpəˈreɪtəs/",
+    "translation": "n. 仪器",
+    "toggle": "n. 装置，设备；器官；仪器"
+  },
+  {
+    "text": "shoal",
+    "isDanger": 0,
+    "phonetic": "/ʃəʊl/",
+    "translation": "n. 鱼群",
+    "toggle": "n.浅滩,沙洲,鱼群,大量adj.水浅的v.(使)变浅,驶入(浅水等),(鱼等)群集"
+  },
+  {
+    "text": "herring",
+    "isDanger": 0,
+    "phonetic": "/ˈherɪŋ/",
+    "translation": "n. 鲱鱼",
+    "toggle": "n. 鲱（又称青鱼）"
+  },
+  {
+    "text": "cod",
+    "isDanger": 0,
+    "phonetic": "/kɒd/",
+    "translation": "n. 鳕鱼",
+    "toggle": "n. 鳕鱼；愚弄；哄骗"
+  },
+  {
+    "text": "squeak",
+    "isDanger": 0,
+    "phonetic": "/skwiːk/",
+    "translation": "n. 尖叫声",
+    "toggle": "vi. 告密；吱吱叫；侥幸成功"
+  }
+]

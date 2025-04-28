@@ -1,0 +1,72 @@
+[
+  {
+    "text": "wave",
+    "isDanger": 1,
+    "phonetic": "/weɪv/",
+    "translation": "v. 招手",
+    "toggle": "vi. 波动；起伏；摇动；呈波形；挥手示意"
+  },
+  {
+    "text": "track",
+    "isDanger": 1,
+    "phonetic": "/træk/",
+    "translation": "n. 跑道",
+    "toggle": "n. 足迹，踪迹；轨道；小道"
+  },
+  {
+    "text": "mile",
+    "isDanger": 0,
+    "phonetic": "/maɪl/",
+    "translation": "n. 英里",
+    "toggle": "n.英里,较大的距离"
+  },
+  {
+    "text": "overtake",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈteɪk/",
+    "translation": "v. 从后面超越，超车",
+    "toggle": "vt. 赶上；压倒；突然来袭"
+  },
+  {
+    "text": "speed",
+    "isDanger": 1,
+    "phonetic": "/spiːd/",
+    "translation": "n. 限速",
+    "toggle": "vi. 加速，迅速前行；超速，加速；兴隆"
+  },
+  {
+    "text": "dream",
+    "isDanger": 1,
+    "phonetic": "/driːm/",
+    "translation": "v. 做梦，思想不集中",
+    "toggle": "vi. 做梦，梦见；梦想；想到"
+  },
+  {
+    "text": "sign",
+    "isDanger": 1,
+    "phonetic": "/saɪn/",
+    "translation": "n. 标记，牌子",
+    "toggle": "n. 符号；记号；迹象；手势"
+  },
+  {
+    "text": "driving licence",
+    "isDanger": 0,
+    "phonetic": "/ˈdraɪvɪŋ laɪs(ə)ns/",
+    "translation": "n. 驾驶执照",
+    "toggle": "n. 驾驶执照"
+  },
+  {
+    "text": "charge",
+    "isDanger": 1,
+    "phonetic": "/tʃɑːdʒ/",
+    "translation": "n. 罚款",
+    "toggle": "n. 费用；掌管；控告；负载；电荷；命令"
+  },
+  {
+    "text": "darling",
+    "isDanger": 0,
+    "phonetic": "/ˈdɑːlɪŋ/",
+    "translation": "n. 亲爱的(用作表示称呼)",
+    "toggle": "n. 心爱的人；亲爱的"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "text": "rough",
+    "isDanger": 0,
+    "phonetic": "/rʌf/",
+    "translation": "adj. 崎岖不平的",
+    "toggle": "adj. 粗糙的；粗野的；未经加工的；粗略的；艰苦的"
+  },
+  {
+    "text": "boulder",
+    "isDanger": 0,
+    "phonetic": "/ˈbəʊldə(r)/",
+    "translation": "n. 大石块",
+    "toggle": "n. 卵石，大圆石； [ 地 ] 巨砾"
+  },
+  {
+    "text": "pit",
+    "isDanger": 1,
+    "phonetic": "/pɪt/",
+    "translation": "v. 使得坑坑洼洼",
+    "toggle": "n. 深坑；矿井；陷阱；（英国剧场的）正厅后排；（物体或人体表面上的）凹陷；正厅后排的观众"
+  },
+  {
+    "text": "perturb",
+    "isDanger": 0,
+    "phonetic": "/pəˈtɜːb/",
+    "translation": "v. 使不安",
+    "toggle": "vt.扰乱；使……混乱；使……心绪不宁"
+  },
+  {
+    "text": "underestimate",
+    "isDanger": 0,
+    "phonetic": "/ˌʌndərˈestɪmeɪt/",
+    "translation": "v. 低估",
+    "toggle": "vt. 低估；看轻"
+  },
+  {
+    "text": "swerve",
+    "isDanger": 0,
+    "phonetic": "/swɜːv/",
+    "translation": "v. 急转变",
+    "toggle": "vi. 突然转向；转弯；背离"
+  },
+  {
+    "text": "scoop",
+    "isDanger": 0,
+    "phonetic": "/skuːp/",
+    "translation": "v. 挖出",
+    "toggle": "vt. 掘；舀取；抢先获得；搜集"
+  },
+  {
+    "text": "hammer",
+    "isDanger": 0,
+    "phonetic": "/ˈhæmə(r)/",
+    "translation": "v. (用锤)击打，锤打",
+    "toggle": "vi. 敲打；锤击；重复"
+  },
+  {
+    "text": "ominously",
+    "isDanger": 0,
+    "phonetic": "/ˈɒmɪnəsli/",
+    "translation": "adv. 有预兆的，不祥的",
+    "toggle": "adv.恶兆地；不吉利地"
+  },
+  {
+    "text": "rip",
+    "isDanger": 0,
+    "phonetic": "/rɪp/",
+    "translation": "v. 划破，撕，扯",
+    "toggle": "vt. 撕；锯"
+  },
+  {
+    "text": "petrol",
+    "isDanger": 0,
+    "phonetic": "/ˈpetrəl/",
+    "translation": "n. 汽油",
+    "toggle": "n. <英>汽油；深蓝绿色"
+  },
+  {
+    "text": "stretch",
+    "isDanger": 0,
+    "phonetic": "/stretʃ/",
+    "translation": "n. 一大片(平地或水)",
+    "toggle": "vt. 伸展，张开； vi. 伸展； adj. 可伸缩的； n. 伸展，延伸"
+  },
+  {
+    "text": "obstacle",
+    "isDanger": 0,
+    "phonetic": "/ˈɒbstək(ə)l/",
+    "translation": "n. 障碍",
+    "toggle": "n. 障碍，干扰；妨害物"
+  },
+  {
+    "text": "clump",
+    "isDanger": 0,
+    "phonetic": "/klʌmp/",
+    "translation": "n. 丛，簇",
+    "toggle": "n. 丛；笨重的脚步声；土块"
+  },
+  {
+    "text": "fissure",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪʃə(r)/",
+    "translation": "n. (地的)深缝",
+    "toggle": "vi. 裂开；分裂"
+  },
+  {
+    "text": "renew",
+    "isDanger": 0,
+    "phonetic": "/rɪˈnjuː/",
+    "translation": "v. 重复",
+    "toggle": "vt. 使更新；复兴；重申；续借"
+  },
+  {
+    "text": "pleading",
+    "isDanger": 0,
+    "phonetic": "/ˈpliːdɪŋ/",
+    "translation": "n. 恳求",
+    "toggle": "adj.恳求的"
+  },
+  {
+    "text": "gear",
+    "isDanger": 0,
+    "phonetic": "/ɡɪə(r)/",
+    "translation": "n. (汽车)排档",
+    "toggle": "n. 齿轮；传动装置；装置，工具"
+  },
+  {
+    "text": "astride",
+    "isDanger": 0,
+    "phonetic": "/əˈstraɪd/",
+    "translation": "prep. 骑，跨",
+    "toggle": "adv. 跨着；两腿分开着"
+  },
+  {
+    "text": "crack",
+    "isDanger": 0,
+    "phonetic": "/kræk/",
+    "translation": "n. 缝隙",
+    "toggle": "vt. 使破裂；打开；变声"
+  }
+]

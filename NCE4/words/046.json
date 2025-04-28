@@ -1,0 +1,191 @@
+[
+  {
+    "text": "gifted",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɪftɪd/",
+    "translation": "adj. 有天才的",
+    "toggle": "adj. 有才华的；有天赋的"
+  },
+  {
+    "text": "psychologist",
+    "isDanger": 0,
+    "phonetic": "/saɪˈkɒlədʒɪst/",
+    "translation": "n. 心理学家",
+    "toggle": "n. 心理学家，心理学者"
+  },
+  {
+    "text": "spasm",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 一阵（感情）发作",
+    "toggle": "n. 痉挛；抽搐；一阵发作"
+  },
+  {
+    "text": "futile",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 无用的",
+    "toggle": "adj. 无用的；没有出息的；琐细的；不重要的；无效的"
+  },
+  {
+    "text": "insinuate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 便潜入，暗示",
+    "toggle": "vt. 暗示；使逐渐而巧妙地取得；使迂回地潜入"
+  },
+  {
+    "text": "convulsive",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 起痉挛的",
+    "toggle": ""
+  },
+  {
+    "text": "illumination",
+    "isDanger": 0,
+    "phonetic": "/ɪˌluːmɪˈneɪʃn/",
+    "translation": "n. 启发，照明",
+    "toggle": "n. 照明； [ 光 ] 照度；启发；阐明；灯饰（需用复数）"
+  },
+  {
+    "text": "undue",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈdjuː/",
+    "translation": "adj. 不造当的",
+    "toggle": "adj. 过度的，过分的；不适当的；未到期的"
+  },
+  {
+    "text": "grip",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 紧张",
+    "toggle": "n. 紧握；柄；支配；握拍方式；拍柄绷带； vt. 紧握；夹紧； vi. 抓住"
+  },
+  {
+    "text": "recuperation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 休息",
+    "toggle": ""
+  },
+  {
+    "text": "improvise",
+    "isDanger": 0,
+    "phonetic": "/ˈɪmprəvaɪz/",
+    "translation": "v. 临时作成",
+    "toggle": "vt. 临时做；即兴创作；即兴表演；临时提供"
+  },
+  {
+    "text": "sedulously",
+    "isDanger": 0,
+    "phonetic": "/ˈsedʒələsli/",
+    "translation": "adv. 孜孜不倦地",
+    "toggle": "adv. 孜孜不倦地；勤勉地"
+  },
+  {
+    "text": "vivify",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 使生气勃勃",
+    "toggle": "vt.给与生气,使复生,使生动,使活跃"
+  },
+  {
+    "text": "aggravate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 加剧",
+    "toggle": "vt. 加重；使恶化； [ 口 ] 激怒"
+  },
+  {
+    "text": "trifling",
+    "isDanger": 0,
+    "phonetic": "/ˈtraɪflɪŋ/",
+    "translation": "adj. 微小的",
+    "toggle": "adj.不重要的"
+  },
+  {
+    "text": "gratify",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 便满意",
+    "toggle": "vt. 使满足；使满意，使高兴"
+  },
+  {
+    "text": "caprice",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 任性",
+    "toggle": "n.反复无常,任性,怪想"
+  },
+  {
+    "text": "satiation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 满足",
+    "toggle": "n.使饱足,饱食,饱满,饱享的,厌腻的"
+  },
+  {
+    "text": "frantically",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 狂乱地",
+    "toggle": "adv.狂暴地,疯狂似地"
+  },
+  {
+    "text": "avenge",
+    "isDanger": 0,
+    "phonetic": "/əˈvendʒ/",
+    "translation": "v. 替…报复",
+    "toggle": "vt. 替 … 报仇"
+  },
+  {
+    "text": "boredom",
+    "isDanger": 0,
+    "phonetic": "/ˈbɔːdəm/",
+    "translation": "n. 厌烦",
+    "toggle": "n. 厌倦；令人厌烦的事物"
+  },
+  {
+    "text": "clatter",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 喧闹的谈话",
+    "toggle": "n. 哗啦声；嘈杂的谈笑声；咔嗒声"
+  },
+  {
+    "text": "sustenance",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 生计",
+    "toggle": "n. 生计；食物；支持"
+  },
+  {
+    "text": "appetite",
+    "isDanger": 0,
+    "phonetic": "/ˈæpɪtaɪt/",
+    "translation": "n. 欲望",
+    "toggle": "n. 食欲；嗜好"
+  },
+  {
+    "text": "grudge",
+    "isDanger": 0,
+    "phonetic": "/ɡrʌdʒ/",
+    "translation": "v. 怨恨",
+    "toggle": "vt. 怀恨；吝惜；妒忌；不情愿做"
+  },
+  {
+    "text": "absorbing",
+    "isDanger": 0,
+    "phonetic": "/əbˈzɔːbɪŋ; əbˈsɔːbɪŋ/",
+    "translation": "adj. 引人入胜的",
+    "toggle": "adj. 吸引人的；极有趣的"
+  },
+  {
+    "text": "banish",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 排除，放弃",
+    "toggle": "vt. 放逐；驱逐"
+  }
+]

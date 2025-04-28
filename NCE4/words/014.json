@@ -1,0 +1,128 @@
+[
+  {
+    "text": "forecast",
+    "isDanger": 0,
+    "phonetic": "/ˈfɔːkɑːst/",
+    "translation": "n. 预报",
+    "toggle": "vt. 预报，预测；预示"
+  },
+  {
+    "text": "speculative",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 推测的",
+    "toggle": "adj. 投机的；推测的；思索性的"
+  },
+  {
+    "text": "blizzard",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 暴风雪",
+    "toggle": "n. 暴风雪，大风雪； [ 俚 ] 大打击"
+  },
+  {
+    "text": "deteriorate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 变坏，恶化",
+    "toggle": "vi. 恶化，变坏"
+  },
+  {
+    "text": "multiply",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌltɪplaɪ/",
+    "translation": "v. 增加",
+    "toggle": "vt. 乘；使相乘；使增加；使繁殖"
+  },
+  {
+    "text": "cascade",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 瀑布似的落下",
+    "toggle": "n. 小瀑布；喷流；层叠"
+  },
+  {
+    "text": "turbulent",
+    "isDanger": 0,
+    "phonetic": "/ˈtɜːbjələnt/",
+    "translation": "adj. 狂暴的",
+    "toggle": "adj. 骚乱的，混乱的(the turbulent times)；狂暴的；吵闹的"
+  },
+  {
+    "text": "dust devil",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 小尘暴，尘旋风",
+    "toggle": ""
+  },
+  {
+    "text": "squall",
+    "isDanger": 0,
+    "phonetic": "/skwɔːl/",
+    "translation": "n. 暴风",
+    "toggle": "n.暴风,暴风雪,嚎啕vi.狂风吹袭,嚎啕,哇哇地叫嚷vt.尖声叫着"
+  },
+  {
+    "text": "eddy",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 旋涡",
+    "toggle": "n. 漩涡；涡流；逆流"
+  },
+  {
+    "text": "grid",
+    "isDanger": 0,
+    "phonetic": "/ɡrɪd/",
+    "translation": "n. 坐标方格",
+    "toggle": "n. [ 计 ] 网格；格子，栅格；输电网"
+  },
+  {
+    "text": "sensor",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 传感器",
+    "toggle": "n. 传感器"
+  },
+  {
+    "text": "humidity",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 湿度",
+    "toggle": "n. 湿度；湿气"
+  },
+  {
+    "text": "meteorologist",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 气象学家",
+    "toggle": "n.气象学者"
+  },
+  {
+    "text": "princeton",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 普林斯顿（美国城市）",
+    "toggle": ""
+  },
+  {
+    "text": "new jersey",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 新泽西（美国州名）",
+    "toggle": ""
+  },
+  {
+    "text": "fluctuation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 起伏，波动",
+    "toggle": "n. 起伏，波动"
+  },
+  {
+    "text": "deviation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 偏差",
+    "toggle": "n. 偏差；背离；误差"
+  }
+]

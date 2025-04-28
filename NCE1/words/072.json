@@ -1,0 +1,184 @@
+[
+  {
+    "text": "surround",
+    "isDanger": 0,
+    "phonetic": "/səˈraʊnd/",
+    "translation": "v. 包围",
+    "toggle": "vt. 围绕；包围"
+  },
+  {
+    "text": "round",
+    "isDanger": 1,
+    "phonetic": "/raʊnd/",
+    "translation": "adj. 圆形的",
+    "toggle": "n. 圆形物；一回合；圆；循环"
+  },
+  {
+    "text": "wood",
+    "isDanger": 1,
+    "phonetic": "/wʊd/",
+    "translation": "n. 树林",
+    "toggle": "n. 木材；树林；木制品"
+  },
+  {
+    "text": "forest",
+    "isDanger": 0,
+    "phonetic": "/ˈfɒrɪst/",
+    "translation": "n. 森林",
+    "toggle": "vt. 植树于，使成为森林"
+  },
+  {
+    "text": "jungle",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒʌŋɡ(ə)l/",
+    "translation": "n. 丛林",
+    "toggle": "n. 丛林，密林；危险地带"
+  },
+  {
+    "text": "beauty spot",
+    "isDanger": 0,
+    "phonetic": "/ˈbjuːti spɒt/",
+    "translation": "n. 风景点",
+    "toggle": "n. 痣，风景区"
+  },
+  {
+    "text": "spot",
+    "isDanger": 1,
+    "phonetic": "/spɒt/",
+    "translation": "n. 地点",
+    "toggle": "n. 斑点；地点"
+  },
+  {
+    "text": "hundred",
+    "isDanger": 1,
+    "phonetic": "/ˈhʌndrəd/",
+    "translation": "num. 百",
+    "toggle": "n. 一百；许多"
+  },
+  {
+    "text": "city",
+    "isDanger": 1,
+    "phonetic": "/ˈsɪti/",
+    "translation": "n. 城市",
+    "toggle": "n. 城市，都市"
+  },
+  {
+    "text": "through",
+    "isDanger": 0,
+    "phonetic": "/θruː/",
+    "translation": "prep. 穿过",
+    "toggle": "prep. 穿过；通过；凭借"
+  },
+  {
+    "text": "visitor",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪzɪtə(r)/",
+    "translation": "n. 参观者，游客，来访者",
+    "toggle": "n. 访问者，参观者；视察者；候鸟"
+  },
+  {
+    "text": "guest",
+    "isDanger": 0,
+    "phonetic": "/ɡest/",
+    "translation": "n. 来宾",
+    "toggle": "n. 客人，宾客；顾客"
+  },
+  {
+    "text": "tidy",
+    "isDanger": 1,
+    "phonetic": "/ˈtaɪdi/",
+    "translation": "adj. 整齐的",
+    "toggle": "adj. 整齐的； [ 口 ] 相当大的"
+  },
+  {
+    "text": "litter",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪtə(r)/",
+    "translation": "n. 杂乱的东西",
+    "toggle": "n. 凌乱；垃圾；轿，担架；一窝（动物的幼崽）"
+  },
+  {
+    "text": "litter basket",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪtə(r) ˈbɑːskɪt/",
+    "translation": "n. 废物筐",
+    "toggle": "垃圾篮子"
+  },
+  {
+    "text": "place",
+    "isDanger": 1,
+    "phonetic": "/pleɪs/",
+    "translation": "v. 放",
+    "toggle": "n. 地方；住所；座位"
+  },
+  {
+    "text": "throw",
+    "isDanger": 0,
+    "phonetic": "/θrəʊ/",
+    "translation": "v. 扔，抛",
+    "toggle": "vt. 抛；投；掷"
+  },
+  {
+    "text": "rubbish",
+    "isDanger": 0,
+    "phonetic": "/ˈrʌbɪʃ/",
+    "translation": "n. 垃圾",
+    "toggle": "n. 垃圾，废物；废话"
+  },
+  {
+    "text": "garbage",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɑːbɪdʒ/",
+    "translation": "n. 垃圾箱",
+    "toggle": "n. 垃圾；废物"
+  },
+  {
+    "text": "count",
+    "isDanger": 1,
+    "phonetic": "/kaʊnt/",
+    "translation": "v. 数，点",
+    "toggle": "vt. 计算；认为"
+  },
+  {
+    "text": "cover",
+    "isDanger": 1,
+    "phonetic": "/ˈkʌvə(r)/",
+    "translation": "v. 覆盖",
+    "toggle": "vt. 包括；涉及；采访，报导"
+  },
+  {
+    "text": "piece",
+    "isDanger": 0,
+    "phonetic": "/piːs/",
+    "translation": "n. 碎片",
+    "toggle": "n. 件；篇；块；硬币"
+  },
+  {
+    "text": "tyre",
+    "isDanger": 0,
+    "phonetic": "/ˈtaɪə(r)/",
+    "translation": "n. 轮胎",
+    "toggle": "n. 轮胎；轮箍；（Tyre）提尔"
+  },
+  {
+    "text": "rusty",
+    "isDanger": 0,
+    "phonetic": "/ˈrʌsti/",
+    "translation": "adj. 生锈的",
+    "toggle": "adj. 生锈的，腐蚀的；铁锈色的，锈色的；迟钝的"
+  },
+  {
+    "text": "among",
+    "isDanger": 1,
+    "phonetic": "/əˈmʌŋ/",
+    "translation": "prep. 在…之间",
+    "toggle": "prep. 在 … 中间；在 … 之中"
+  },
+  {
+    "text": "prosecute",
+    "isDanger": 0,
+    "phonetic": "/ˈprɒsɪkjuːt/",
+    "translation": "v. 依法处置",
+    "toggle": "vt. 贯彻；从事；检举；依法进行"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "chew",
+    "isDanger": 0,
+    "phonetic": "/tʃuː/",
+    "translation": "v. 咀嚼",
+    "toggle": "n. 咀嚼；咀嚼物"
+  },
+  {
+    "text": "fiancé",
+    "isDanger": 0,
+    "phonetic": "/fiˈɒnseɪ/",
+    "translation": "n. 未婚夫",
+    "toggle": "n. 未婚夫"
+  },
+  {
+    "text": "microwave",
+    "isDanger": 0,
+    "phonetic": "/ˈmaɪkrəweɪv/",
+    "translation": "n. 微波，微波炉",
+    "toggle": "n. 微波"
+  },
+  {
+    "text": "oven",
+    "isDanger": 0,
+    "phonetic": "/ˈʌv(ə)n/",
+    "translation": "n. 炉灶",
+    "toggle": "n. 炉，灶；烤炉，烤箱"
+  },
+  {
+    "text": "mutilate",
+    "isDanger": 0,
+    "phonetic": "/ˈmjuːtɪleɪt/",
+    "translation": "v. 使残缺不全",
+    "toggle": "vt. 切断，毁坏；使……残缺不全；使……支离破碎"
+  },
+  {
+    "text": "safekeeping",
+    "isDanger": 0,
+    "phonetic": "/ˌseɪfˈkiːpɪŋ/",
+    "translation": "n. 妥善保管",
+    "toggle": "n. 安全保护，妥善保管"
+  },
+  {
+    "text": "Newcastle",
+    "isDanger": 0,
+    "phonetic": "/ˈnjuːkɑːsl/",
+    "translation": "n. 纽卡斯尔(英国港市)",
+    "toggle": "n. 纽卡斯尔（英国港市）"
+  },
+  {
+    "text": "identify",
+    "isDanger": 0,
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "translation": "v. 鉴定，识别",
+    "toggle": "vt. 识别；确定；使参与；把 … 看成一样"
+  },
+  {
+    "text": "spokeswoman",
+    "isDanger": 0,
+    "phonetic": "/ˈspəʊkswʊmən/",
+    "translation": "n. 女发言人",
+    "toggle": "n. 女发言人"
+  }
+]

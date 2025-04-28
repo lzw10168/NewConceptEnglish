@@ -1,0 +1,100 @@
+[
+  {
+    "text": "speculation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 推测",
+    "toggle": "n. 推测；思索；投机；投机买卖"
+  },
+  {
+    "text": "literally",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 确实",
+    "toggle": "adv. 逐字地；照字面地"
+  },
+  {
+    "text": "odd",
+    "isDanger": 1,
+    "phonetic": "/ɒd/",
+    "translation": "adj. 奇特的",
+    "toggle": "adj. 奇数的；古怪的；临时的；剩余的；零散的"
+  },
+  {
+    "text": "tissue",
+    "isDanger": 0,
+    "phonetic": "/ˈtɪʃuː/",
+    "translation": "n. 组织",
+    "toggle": "n. 纸巾；薄纱；一套"
+  },
+  {
+    "text": "plausible",
+    "isDanger": 0,
+    "phonetic": "/ˈplɔːzəb(ə)l/",
+    "translation": "adj. 似乎有理的",
+    "toggle": "adj. 貌似真实的，貌似有理的；貌似可信的，花言巧语的"
+  },
+  {
+    "text": "hypothesis",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 假说",
+    "toggle": "n. 假设"
+  },
+  {
+    "text": "electroencephalograph",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 脑电图仪",
+    "toggle": ""
+  },
+  {
+    "text": "electrode",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 电极",
+    "toggle": "n. 电极；电焊条"
+  },
+  {
+    "text": "scalp",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 头皮",
+    "toggle": "n. 头皮；战利品"
+  },
+  {
+    "text": "psychiatrist",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 精神病学家",
+    "toggle": "n.精神病医师,精神病学家"
+  },
+  {
+    "text": "punctuate",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌŋktʃueɪt/",
+    "translation": "v. 不时介入",
+    "toggle": "vt. 不时打断；强调；加标点于"
+  },
+  {
+    "text": "jerky",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 急动的",
+    "toggle": "adj. 急动的；不平稳的；抽筋的"
+  },
+  {
+    "text": "disorder",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈɔːdə(r)/",
+    "translation": "n. 失调",
+    "toggle": "n. 混乱；骚乱"
+  },
+  {
+    "text": "implication",
+    "isDanger": 0,
+    "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+    "translation": "n. 表明",
+    "toggle": "n. 暗示；牵连，卷入；含义"
+  }
+]

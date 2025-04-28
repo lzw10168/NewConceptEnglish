@@ -1,0 +1,184 @@
+[
+  {
+    "text": "day",
+    "isDanger": 1,
+    "phonetic": "/deɪ/",
+    "translation": "n. 日子",
+    "toggle": "n. 一天；白昼；时期"
+  },
+  {
+    "text": "daily",
+    "isDanger": 0,
+    "phonetic": "/ˈdeɪli/",
+    "translation": "adj. 每天的",
+    "toggle": "adj. 每日的；日常的"
+  },
+  {
+    "text": "fly",
+    "isDanger": 1,
+    "phonetic": "/flaɪ/",
+    "translation": "v. 飞",
+    "toggle": "vi. 飞；飘扬；驾驶飞机"
+  },
+  {
+    "text": "cloud",
+    "isDanger": 0,
+    "phonetic": "/klaʊd/",
+    "translation": "n. 云",
+    "toggle": "n. 云；云状物；一大群；阴云；黑斑"
+  },
+  {
+    "text": "sky",
+    "isDanger": 1,
+    "phonetic": "/skaɪ/",
+    "translation": "n. 天空",
+    "toggle": "n. 天空；顶点"
+  },
+  {
+    "text": "sun",
+    "isDanger": 1,
+    "phonetic": "/sʌn/",
+    "translation": "n. 太阳",
+    "toggle": "n. 太阳"
+  },
+  {
+    "text": "shine",
+    "isDanger": 0,
+    "phonetic": "/ʃaɪn/",
+    "translation": "v. 照耀",
+    "toggle": "vi. 照耀；显露；出众"
+  },
+  {
+    "text": "with",
+    "isDanger": 1,
+    "phonetic": "/wɪð/",
+    "translation": "prep. 和…在一起",
+    "toggle": "prep. 用；支持；随着；和 … 在一起"
+  },
+  {
+    "text": "family",
+    "isDanger": 0,
+    "phonetic": "/ˈfæməli/",
+    "translation": "n. 家庭(成员)",
+    "toggle": "n. 家庭；家族；家属；亲属；子女；僚属"
+  },
+  {
+    "text": "walk",
+    "isDanger": 0,
+    "phonetic": "/wɔːk/",
+    "translation": "v. 走路，步行",
+    "toggle": "n. 步行，走；散步"
+  },
+  {
+    "text": "hike",
+    "isDanger": 0,
+    "phonetic": "/haɪk/",
+    "translation": "v. 徒步",
+    "toggle": "vi. 远足；上升；徒步旅行"
+  },
+  {
+    "text": "over",
+    "isDanger": 1,
+    "phonetic": "/ˈəʊvə(r)/",
+    "translation": "prep. 跨越，在…之上",
+    "toggle": "adv. 结束；越过；从头到尾"
+  },
+  {
+    "text": "across",
+    "isDanger": 0,
+    "phonetic": "/əˈkrɒs/",
+    "translation": "prep. (平面)跨越",
+    "toggle": "prep. 穿过；横穿"
+  },
+  {
+    "text": "bridge",
+    "isDanger": 0,
+    "phonetic": "/brɪdʒ/",
+    "translation": "n. 桥",
+    "toggle": "n. 桥；桥牌；船桥；桥接器"
+  },
+  {
+    "text": "boat",
+    "isDanger": 0,
+    "phonetic": "/bəʊt/",
+    "translation": "n. 船",
+    "toggle": "n. 小船；轮船"
+  },
+  {
+    "text": "ship",
+    "isDanger": 0,
+    "phonetic": "/ʃɪp/",
+    "translation": "n. 轮船",
+    "toggle": "vt. 运送，乘船；以船运送"
+  },
+  {
+    "text": "river",
+    "isDanger": 0,
+    "phonetic": "/ˈrɪvə(r)/",
+    "translation": "n. 河",
+    "toggle": "n. 河，江"
+  },
+  {
+    "text": "aeroplane",
+    "isDanger": 0,
+    "phonetic": "/ˈeərəpleɪn/",
+    "translation": "n. 飞机(英)",
+    "toggle": "n. <英> 飞机"
+  },
+  {
+    "text": "airplane",
+    "isDanger": 0,
+    "phonetic": "/ˈeəpleɪn/",
+    "translation": "n. 飞机(美)",
+    "toggle": "n. 飞机"
+  },
+  {
+    "text": "sleep",
+    "isDanger": 1,
+    "phonetic": "/sliːp/",
+    "translation": "v. 睡觉",
+    "toggle": "vi. 睡，睡觉"
+  },
+  {
+    "text": "asleep",
+    "isDanger": 0,
+    "phonetic": "/əˈsliːp/",
+    "translation": "adj. 睡着的",
+    "toggle": "adj. 睡着的；麻木的；长眠的"
+  },
+  {
+    "text": "shave",
+    "isDanger": 1,
+    "phonetic": "/ʃeɪv/",
+    "translation": "v. 刮脸",
+    "toggle": "vt. 剃；修面；掠过"
+  },
+  {
+    "text": "cry",
+    "isDanger": 0,
+    "phonetic": "/kraɪ/",
+    "translation": "v. 哭，喊",
+    "toggle": "vt. 叫喊；哭出；大声说"
+  },
+  {
+    "text": "wash",
+    "isDanger": 1,
+    "phonetic": "/wɒʃ/",
+    "translation": "v. 洗",
+    "toggle": "n. 洗涤；洗的衣服；冲积物；化妆水"
+  },
+  {
+    "text": "wait",
+    "isDanger": 0,
+    "phonetic": "/weɪt/",
+    "translation": "v. 等",
+    "toggle": "vt. 等候；推迟；延缓"
+  },
+  {
+    "text": "jump",
+    "isDanger": 0,
+    "phonetic": "/dʒʌmp/",
+    "translation": "v. 跳",
+    "toggle": "n. 跳跃；暴涨；惊跳"
+  }
+]

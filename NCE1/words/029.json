@@ -1,0 +1,44 @@
+[
+  {
+    "text": "o'clock",
+    "isDanger": 0,
+    "phonetic": "/əˈklɒk/",
+    "translation": "adv. 点钟",
+    "toggle": "adv. …点钟"
+  },
+  {
+    "text": "clock",
+    "isDanger": 0,
+    "phonetic": "/klɒk/",
+    "translation": "n. 时钟",
+    "toggle": "n. 时钟；计时器"
+  },
+  {
+    "text": "shop",
+    "isDanger": 1,
+    "phonetic": "/ʃɒp/",
+    "translation": "n. 商店",
+    "toggle": "n. 商店；店铺"
+  },
+  {
+    "text": "mall",
+    "isDanger": 0,
+    "phonetic": "/mæl/",
+    "translation": "n. 商场",
+    "toggle": "n. 购物商场；林荫路；铁圈球场"
+  },
+  {
+    "text": "store",
+    "isDanger": 1,
+    "phonetic": "/stɔː(r)/",
+    "translation": "n. 仓储商店",
+    "toggle": "n. 储备，贮藏；仓库；商店"
+  },
+  {
+    "text": "moment",
+    "isDanger": 1,
+    "phonetic": "/ˈməʊmənt/",
+    "translation": "n. 片刻，瞬间",
+    "toggle": "n. 瞬间；重要时刻；指定时刻；重要，契机"
+  }
+]

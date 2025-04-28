@@ -1,0 +1,58 @@
+[
+  {
+    "text": "still",
+    "isDanger": 1,
+    "phonetic": "/stɪl/",
+    "translation": "adv. 还，仍旧",
+    "toggle": "adv. 更；仍然；静止地"
+  },
+  {
+    "text": "move",
+    "isDanger": 1,
+    "phonetic": "/muːv/",
+    "translation": "v. 搬家",
+    "toggle": "n. 迁居；步骤；移动"
+  },
+  {
+    "text": "miss",
+    "isDanger": 1,
+    "phonetic": "/mɪs/",
+    "translation": "v. 想念，思念",
+    "toggle": "vt. 漏掉；错过；想念"
+  },
+  {
+    "text": "neighbour",
+    "isDanger": 0,
+    "phonetic": "/ˈneɪbə(r)/",
+    "translation": "n. 邻居(英)",
+    "toggle": "n.邻居(美作:neighbor)"
+  },
+  {
+    "text": "neighbor",
+    "isDanger": 0,
+    "phonetic": "/ˈneɪbə(r)/",
+    "translation": "n. 邻居(美)",
+    "toggle": "n. 邻居"
+  },
+  {
+    "text": "person",
+    "isDanger": 0,
+    "phonetic": "/ˈpɜːs(ə)n/",
+    "translation": "n. 人",
+    "toggle": "n. 人； [ 语法 ] 人称；身体；容貌，外表"
+  },
+  {
+    "text": "people",
+    "isDanger": 0,
+    "phonetic": "/ˈpiːp(ə)l/",
+    "translation": "n. 人们",
+    "toggle": "n. 人；人类；民族；公民"
+  },
+  {
+    "text": "poor",
+    "isDanger": 0,
+    "phonetic": "/pɔː(r)/",
+    "translation": "adj. 可怜的",
+    "toggle": "adj. 可怜的；贫穷的；贫乏的；卑鄙的"
+  }
+]

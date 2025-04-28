@@ -1,0 +1,184 @@
+[
+  {
+    "text": "permanent",
+    "isDanger": 0,
+    "phonetic": "/ˈpɜːmənənt/",
+    "translation": "adj. 永久的",
+    "toggle": "adj. 永久的，永恒的；不变的"
+  },
+  {
+    "text": "tint",
+    "isDanger": 0,
+    "phonetic": "/tɪnt/",
+    "translation": "v. 给…染色",
+    "toggle": "n. 色彩；浅色"
+  },
+  {
+    "text": "delicate",
+    "isDanger": 0,
+    "phonetic": "/ˈdelɪkət/",
+    "translation": "adj. 淡色的",
+    "toggle": "adj. 微妙的；易碎的；清淡可口的；柔和的；精美的，雅致的；纤弱的"
+  },
+  {
+    "text": "shade",
+    "isDanger": 0,
+    "phonetic": "/ʃeɪd/",
+    "translation": "n. 色度",
+    "toggle": "n. 树荫；阴影；阴凉处；遮阳物；（照片等的）明暗度；少量、些微；细微的差别"
+  },
+  {
+    "text": "observant",
+    "isDanger": 0,
+    "phonetic": "/əbˈzɜːvənt/",
+    "translation": "adj. 观察力敏锐的",
+    "toggle": "adj. 善于观察的；机警的；严格遵守的"
+  },
+  {
+    "text": "greyish",
+    "isDanger": 0,
+    "phonetic": "/ˈɡreɪɪʃ/",
+    "translation": "adj. 浅灰色的",
+    "toggle": "adj.带灰的,略灰的"
+  },
+  {
+    "text": "dispel",
+    "isDanger": 1,
+    "phonetic": "/dɪˈspel/",
+    "translation": "v. 驱散，消除",
+    "toggle": "vt. 驱散，驱逐；消除（烦恼等）"
+  },
+  {
+    "text": "outlandish",
+    "isDanger": 0,
+    "phonetic": "/aʊtˈlændɪʃ/",
+    "translation": "adj. 稀奇古怪的",
+    "toggle": "adj. 奇异的；异国风格的；偏僻的；古怪的"
+  },
+  {
+    "text": "acquisition",
+    "isDanger": 0,
+    "phonetic": "/ˌækwɪˈzɪʃ(ə)n/",
+    "translation": "n. 获得",
+    "toggle": "n. 获得物，获得"
+  },
+  {
+    "text": "cosmetic",
+    "isDanger": 0,
+    "phonetic": "/kɒzˈmetɪk/",
+    "translation": "n. 化妆品",
+    "toggle": "adj. 美容的；化妆用的"
+  },
+  {
+    "text": "outrageous",
+    "isDanger": 1,
+    "phonetic": "/aʊtˈreɪdʒəs/",
+    "translation": "adj. 无理的，令人不能容忍的",
+    "toggle": "adj. 粗暴的；可恶的；令人吃惊的"
+  },
+  {
+    "text": "fanciful",
+    "isDanger": 0,
+    "phonetic": "/ˈfænsɪf(ə)l/",
+    "translation": "adj. 想像出来的",
+    "toggle": "adj. 想像的；稀奇的"
+  },
+  {
+    "text": "insoluble",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈsɒljəb(ə)l/",
+    "translation": "adj. 不可溶解的",
+    "toggle": "adj.不能溶解的,不能解决的"
+  },
+  {
+    "text": "prompt",
+    "isDanger": 0,
+    "phonetic": "/prɒmpt/",
+    "translation": "v. 敦促，激励",
+    "toggle": "adj. 敏捷的，迅速的；立刻的"
+  },
+  {
+    "text": "exclusive",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈskluːsɪv/",
+    "translation": "adj. 专售高档商品的",
+    "toggle": "adj. 排外的；独有的；专一的"
+  },
+  {
+    "text": "syllable",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪləb(ə)l/",
+    "translation": "n. 音节",
+    "toggle": "n. 音节"
+  },
+  {
+    "text": "bewilderment",
+    "isDanger": 0,
+    "phonetic": "/bɪˈwɪldəmənt/",
+    "translation": "n. 迷惑，糊涂",
+    "toggle": "n.困惑,迷乱,为难,慌张"
+  },
+  {
+    "text": "freckle",
+    "isDanger": 0,
+    "phonetic": "/ˈfrek(ə)l/",
+    "translation": "n. 雀斑",
+    "toggle": "n. 斑点；雀斑(可数)"
+  },
+  {
+    "text": "evidently",
+    "isDanger": 0,
+    "phonetic": "/ˈevɪdəntli/",
+    "translation": "adv. 显然地，明显地",
+    "toggle": "adv. 显然，明显地；清楚地"
+  },
+  {
+    "text": "weird",
+    "isDanger": 1,
+    "phonetic": "/wɪəd/",
+    "translation": "adj. 奇异的，古怪的",
+    "toggle": "adj. 怪异的；不可思议的；超自然的"
+  },
+  {
+    "text": "concoction",
+    "isDanger": 0,
+    "phonetic": "/kənˈkɒkʃ(ə)n/",
+    "translation": "n. 调制品",
+    "toggle": "n. 调合；混合；调合物"
+  },
+  {
+    "text": "intoxicate",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈtɒksɪkeɪt/",
+    "translation": "v. 陶醉，得意忘形",
+    "toggle": "vt. 使喝醉；使陶醉；使中毒"
+  },
+  {
+    "text": "blank",
+    "isDanger": 0,
+    "phonetic": "/blæŋk/",
+    "translation": "adj. 无表情的，茫然的",
+    "toggle": "adj. 空白的；空虚的；单调的"
+  },
+  {
+    "text": "discreetly",
+    "isDanger": 0,
+    "phonetic": "/dɪˈskriːtli/",
+    "translation": "adv. 谨慎地",
+    "toggle": "adv.谨慎地,小心地"
+  },
+  {
+    "text": "clutch",
+    "isDanger": 0,
+    "phonetic": "/klʌtʃ/",
+    "translation": "v. 抓住",
+    "toggle": "n. 控制；手；离合器；紧急关头"
+  },
+  {
+    "text": "adorn",
+    "isDanger": 0,
+    "phonetic": "/əˈdɔːn/",
+    "translation": "v. 装饰，打扮",
+    "toggle": "vt. 装饰；使生色"
+  }
+]

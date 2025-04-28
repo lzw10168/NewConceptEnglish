@@ -1,0 +1,128 @@
+[
+  {
+    "text": "rambling",
+    "isDanger": 0,
+    "phonetic": "/ˈræmblɪŋ/",
+    "translation": "adj. 杂乱无章的",
+    "toggle": "adj. 漫步的；闲聊的；蔓生的"
+  },
+  {
+    "text": "sentimentally",
+    "isDanger": 0,
+    "phonetic": "/ˌsentɪˈmentəli/",
+    "translation": "adv. 感情上，多情地",
+    "toggle": "adv.富情感地"
+  },
+  {
+    "text": "lavishly",
+    "isDanger": 0,
+    "phonetic": "/ˈlævɪʃli/",
+    "translation": "adv. 慷慨地，大方地",
+    "toggle": "adv. 浪费地；丰富地"
+  },
+  {
+    "text": "immaculate",
+    "isDanger": 0,
+    "phonetic": "/ɪˈmækjələt/",
+    "translation": "adj. 清洁的，无污点的",
+    "toggle": "adj. 完美的；无瑕疵的；洁净的"
+  },
+  {
+    "text": "parquet",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːkeɪ/",
+    "translation": "n. 镶木地板",
+    "toggle": "n.镶木地板,正厅vt.铺镶木地板于"
+  },
+  {
+    "text": "preside",
+    "isDanger": 0,
+    "phonetic": "/prɪˈzaɪd/",
+    "translation": "v. 指挥",
+    "toggle": "vi. 主持，担任会议主席"
+  },
+  {
+    "text": "invisible",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈvɪzəb(ə)l/",
+    "translation": "adj. 看不见的，无形的",
+    "toggle": "adj. 无形的，看不见的；不显眼的，暗藏的；无形的"
+  },
+  {
+    "text": "scrub",
+    "isDanger": 1,
+    "phonetic": "/skrʌb/",
+    "translation": "v. 擦拭，刷洗",
+    "toggle": "n. 矮树；洗擦；擦洗者；矮小的人（或物）"
+  },
+  {
+    "text": "enlightened",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈlaɪt(ə)nd/",
+    "translation": "adj. 开明的",
+    "toggle": "adj. 被启发的；文明的；开明的；进步的"
+  },
+  {
+    "text": "fickleness",
+    "isDanger": 0,
+    "phonetic": "/ˈfɪk(ə)lnəs/",
+    "translation": "n. 变化无常",
+    "toggle": "n.浮躁,变化无常"
+  },
+  {
+    "text": "unrelenting",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnrɪˈlentɪŋ/",
+    "translation": "adj. 不屈不挠的，不松懈的",
+    "toggle": "adj.不宽恕的,不屈不挠的,无情的,冷酷的"
+  },
+  {
+    "text": "disillusion",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsɪˈluːʒn/",
+    "translation": "v. 使幻想破灭",
+    "toggle": "vt. 使醒悟；使不再抱幻想"
+  },
+  {
+    "text": "industriousness",
+    "isDanger": 0,
+    "phonetic": "/ɪn'dʌstrɪəsnɪs/",
+    "translation": "n. 勤奋",
+    "toggle": "n. 勤勉，勤奋"
+  },
+  {
+    "text": "qualification",
+    "isDanger": 0,
+    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃ(ə)n/",
+    "translation": "n. 资格，能力",
+    "toggle": "n. 资格；限制；条件；赋予资格"
+  },
+  {
+    "text": "mirth",
+    "isDanger": 0,
+    "phonetic": "/mɜːθ/",
+    "translation": "n. 欢笑，高兴",
+    "toggle": "n.欢笑,高兴"
+  },
+  {
+    "text": "stack",
+    "isDanger": 0,
+    "phonetic": "/stæk/",
+    "translation": "v. 整齐地堆放",
+    "toggle": "n. 堆；堆叠"
+  },
+  {
+    "text": "cellar",
+    "isDanger": 0,
+    "phonetic": "/ˈselə(r)/",
+    "translation": "n. 地窖",
+    "toggle": "n. 地窖；酒窖；地下室"
+  },
+  {
+    "text": "gleam",
+    "isDanger": 0,
+    "phonetic": "/ɡliːm/",
+    "translation": "v. 发亮，闪光",
+    "toggle": "n. 微光；闪光；瞬息的一现"
+  }
+]

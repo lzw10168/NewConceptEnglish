@@ -1,0 +1,240 @@
+[
+  {
+    "text": "positively",
+    "isDanger": 0,
+    "phonetic": "/ˈpɒzətɪvli/",
+    "translation": "adv. 绝对地，完全地",
+    "toggle": "adv. 肯定地；明确地；断然地"
+  },
+  {
+    "text": "compartment",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpɑːtmənt/",
+    "translation": "n. 列车客车厢内",
+    "toggle": "n. 隔间；区划；卧车上的小客房"
+  },
+  {
+    "text": "cramped",
+    "isDanger": 0,
+    "phonetic": "/kræmpt/",
+    "translation": "adj. 窄小的",
+    "toggle": "adj. 难懂的；难辨的；狭窄的"
+  },
+  {
+    "text": "stuffy",
+    "isDanger": 0,
+    "phonetic": "/ˈstʌfi/",
+    "translation": "adj. 憋气的，闷气的",
+    "toggle": "adj. 闷热的；不通气的；古板的"
+  },
+  {
+    "text": "monotonous",
+    "isDanger": 0,
+    "phonetic": "/məˈnɒtənəs/",
+    "translation": "adj. 枯燥的，乏味的，单调的",
+    "toggle": "adj. 单调的，无抑扬顿挫的；无变化的"
+  },
+  {
+    "text": "rhythm",
+    "isDanger": 0,
+    "phonetic": "/ˈrɪðəm/",
+    "translation": "n. 有节奏的运动",
+    "toggle": "n. 节奏；韵律"
+  },
+  {
+    "text": "click",
+    "isDanger": 0,
+    "phonetic": "/klɪk/",
+    "translation": "v. 发出咔哒声",
+    "toggle": "vt. 点击；使发咔哒声(click one's fingers)"
+  },
+  {
+    "text": "lull",
+    "isDanger": 0,
+    "phonetic": "/lʌl/",
+    "translation": "v. 催人欲睡",
+    "toggle": "vt. 使安静；使平静；哄骗"
+  },
+  {
+    "text": "snatch",
+    "isDanger": 0,
+    "phonetic": "/snætʃ/",
+    "translation": "n. 短时，片段",
+    "toggle": "n. 抢夺；小量；抓举"
+  },
+  {
+    "text": "sleeper",
+    "isDanger": 0,
+    "phonetic": "/ˈsliːpə(r)/",
+    "translation": "n. 卧铺",
+    "toggle": "n. 枕木；卧铺；睡眠者；卧车"
+  },
+  {
+    "text": "fumble",
+    "isDanger": 0,
+    "phonetic": "/ˈfʌmb(ə)l/",
+    "translation": "v. 乱摸，摸索",
+    "toggle": "vt. 摸索；笨拙地做； [ 体育 ] 漏接"
+  },
+  {
+    "text": "inspection",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈspekʃ(ə)n/",
+    "translation": "n. 检查",
+    "toggle": "n. 视察，检查"
+  },
+  {
+    "text": "inevitably",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈevɪtəbli/",
+    "translation": "adv. 必然地，不可避免",
+    "toggle": "adv. 必然地；不可避免地"
+  },
+  {
+    "text": "destination",
+    "isDanger": 0,
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "translation": "n. 目的地",
+    "toggle": "n. 目的地，终点"
+  },
+  {
+    "text": "exhaust",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzɔːst/",
+    "translation": "v. 使精疲力尽",
+    "toggle": "vt. 耗尽；排出；使精疲力尽；彻底探讨"
+  },
+  {
+    "text": "motorway",
+    "isDanger": 0,
+    "phonetic": "/ˈməʊtəweɪ/",
+    "translation": "n. 快车道",
+    "toggle": "n.高速公路；宽平滑雪道"
+  },
+  {
+    "text": "ferry",
+    "isDanger": 0,
+    "phonetic": "/ˈferi/",
+    "translation": "n. 渡船",
+    "toggle": "n. 渡口；渡船；摆渡"
+  },
+  {
+    "text": "cruise",
+    "isDanger": 0,
+    "phonetic": "/kruːz/",
+    "translation": "n. 巡游船",
+    "toggle": "vi. 巡航，巡游；漫游"
+  },
+  {
+    "text": "civilize",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪvəlaɪz/",
+    "translation": "v. 使文明的分隔间（或单间）",
+    "toggle": "vt.使开化,使文明,教化"
+  },
+  {
+    "text": "spacious",
+    "isDanger": 0,
+    "phonetic": "/ˈspeɪʃəs/",
+    "translation": "adj. 宽敞的",
+    "toggle": "adj. 宽敞的，广阔的；无边无际的"
+  },
+  {
+    "text": "seasick",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːsɪk/",
+    "translation": "n. 晕船的",
+    "toggle": "adj. 晕船的"
+  },
+  {
+    "text": "intimidate",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtɪmɪdeɪt/",
+    "translation": "v. 恐吓，恫吓",
+    "toggle": "vt. 恐吓，威胁；胁迫"
+  },
+  {
+    "text": "disadvantage",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsədˈvɑːntɪdʒ/",
+    "translation": "n. 短处，缺点单调的",
+    "toggle": "n. 不利条件；缺点；损失"
+  },
+  {
+    "text": "exhilarating",
+    "isDanger": 0,
+    "phonetic": "/ɪɡˈzɪləreɪtɪŋ/",
+    "translation": "adj. 使人高兴的，令人兴奋的",
+    "toggle": "adj. 使人愉快的；令人喜欢的；爽快的"
+  },
+  {
+    "text": "escapist",
+    "isDanger": 0,
+    "phonetic": "/ɪˈskeɪpɪst/",
+    "translation": "n. 逍遥者",
+    "toggle": "adj.逃避现实的n.逃避现实者"
+  },
+  {
+    "text": "sip",
+    "isDanger": 0,
+    "phonetic": "/sɪp/",
+    "translation": "v. 呷，啜",
+    "toggle": "n. 抿；小口喝； [ 计 ] 单列直插式组件"
+  },
+  {
+    "text": "champagne",
+    "isDanger": 0,
+    "phonetic": "/ʃæmˈpeɪn/",
+    "translation": "n. 香槟酒",
+    "toggle": "n. 香槟酒；香槟酒色"
+  },
+  {
+    "text": "refinement",
+    "isDanger": 0,
+    "phonetic": "/rɪˈfaɪnmənt/",
+    "translation": "n. 精心的安排",
+    "toggle": "n. 精制；提纯；文雅"
+  },
+  {
+    "text": "breathtaking",
+    "isDanger": 0,
+    "phonetic": "/ˈbreθteɪkɪŋ/",
+    "translation": "adj. 激动人心的；不寻常的",
+    "toggle": "adj. 惊人的；惊险的；令人激动的"
+  },
+  {
+    "text": "soar",
+    "isDanger": 0,
+    "phonetic": "/sɔː(r)/",
+    "translation": "v. 高飞，翱翔地",
+    "toggle": "vi. 高耸；往上飞舞；高飞"
+  },
+  {
+    "text": "effortlessly",
+    "isDanger": 0,
+    "phonetic": "/ˈefətləsli/",
+    "translation": "adv. 不费力地",
+    "toggle": "adv. 轻松地；毫不费劲地"
+  },
+  {
+    "text": "landscape",
+    "isDanger": 1,
+    "phonetic": "/ˈlændskeɪp/",
+    "translation": "n. 景色",
+    "toggle": "n. 风景，景色；山水画"
+  },
+  {
+    "text": "fresh",
+    "isDanger": 1,
+    "phonetic": "/freʃ/",
+    "translation": "adj. 精神饱满的",
+    "toggle": "adj. 新鲜的；无经验的；淡水的；清新的"
+  },
+  {
+    "text": "uncrumpled",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈkrʌmpəld/",
+    "translation": "adj. 没有垮下来",
+    "toggle": "adj. 衣冠整洁的；没有垮下来的"
+  }
+]

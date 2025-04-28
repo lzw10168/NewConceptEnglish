@@ -1,0 +1,177 @@
+[
+  {
+    "text": "antique",
+    "isDanger": 0,
+    "phonetic": "/ænˈtiːk/",
+    "translation": "n. 古董，古玩",
+    "toggle": "adj. 古老的，年代久远的；过时的，古董的；古风的，古式的"
+  },
+  {
+    "text": "fascination",
+    "isDanger": 0,
+    "phonetic": "/ˌfæsɪˈneɪʃ(ə)n/",
+    "translation": "n. 魅力，迷惑力",
+    "toggle": "n. 魅力；入迷；魔力"
+  },
+  {
+    "text": "forbidding",
+    "isDanger": 0,
+    "phonetic": "/fəˈbɪdɪŋ/",
+    "translation": "adj. 望而生畏的，望而却步的",
+    "toggle": "adj. 严峻的；令人生畏的；险恶的"
+  },
+  {
+    "text": "muster",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌstə(r)/",
+    "translation": "v. 鼓起",
+    "toggle": "vt. 召集；对 … 进行点名；使振作"
+  },
+  {
+    "text": "pretentious",
+    "isDanger": 0,
+    "phonetic": "/prɪˈtenʃəs/",
+    "translation": "adj. 自命不凡的，矫饰的",
+    "toggle": "adj. 自命不凡的；炫耀的；做作的(装B)"
+  },
+  {
+    "text": "labyrinth",
+    "isDanger": 0,
+    "phonetic": "/ˈlæbərɪnθ/",
+    "translation": "n. 迷宫",
+    "toggle": "n. 迷宫；迷路；难解的事物"
+  },
+  {
+    "text": "musty",
+    "isDanger": 0,
+    "phonetic": "/ˈmʌsti/",
+    "translation": "adj. 陈腐的，发霉的",
+    "toggle": "adj. 发霉的；落伍的；冷淡的"
+  },
+  {
+    "text": "rarity",
+    "isDanger": 0,
+    "phonetic": "/ˈreərəti/",
+    "translation": "n. 稀世珍品",
+    "toggle": "n. 罕见；珍贵；稀薄；珍品（需用复数）"
+  },
+  {
+    "text": "assorted",
+    "isDanger": 0,
+    "phonetic": "/əˈsɔːtɪd/",
+    "translation": "adj. 各式各样的",
+    "toggle": "adj. 混杂的；各种各样的；组合的"
+  },
+  {
+    "text": "junk",
+    "isDanger": 0,
+    "phonetic": "/dʒʌŋk/",
+    "translation": "n. 破烂货，废品",
+    "toggle": "n. 垃圾，废物（a piece of junk）；舢板"
+  },
+  {
+    "text": "litter",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪtə(r)/",
+    "translation": "v. 杂乱地布满",
+    "toggle": "n. 凌乱；垃圾；轿，担架；一窝（动物的幼崽）"
+  },
+  {
+    "text": "carve",
+    "isDanger": 0,
+    "phonetic": "/kɑːv/",
+    "translation": "v. 镌刻",
+    "toggle": "vt. 雕刻；切开；开创"
+  },
+  {
+    "text": "dagger",
+    "isDanger": 0,
+    "phonetic": "/ˈdæɡə(r)/",
+    "translation": "n. 短剑，匕首",
+    "toggle": "n. 匕首，短剑"
+  },
+  {
+    "text": "dedicated",
+    "isDanger": 0,
+    "phonetic": "/ˈdedɪkeɪtɪd/",
+    "translation": "adj. 专心致志的",
+    "toggle": "adj. 专注的；献身的；专用的"
+  },
+  {
+    "text": "bargain",
+    "isDanger": 0,
+    "phonetic": "/ˈbɑːɡən/",
+    "translation": "n. 便宜货，减价品",
+    "toggle": "n. 交易；契约；特价商品"
+  },
+  {
+    "text": "hunter",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌntə(r)/",
+    "translation": "n. 寻找者",
+    "toggle": "n. 猎人；猎犬；搜寻者"
+  },
+  {
+    "text": "dealer",
+    "isDanger": 0,
+    "phonetic": "/ˈdiːlə(r)/",
+    "translation": "v. 商人",
+    "toggle": "n. 商人；经销商"
+  },
+  {
+    "text": "cherish",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃerɪʃ/",
+    "translation": "v. 期望，渴望",
+    "toggle": "vt. 珍爱；怀抱"
+  },
+  {
+    "text": "amply",
+    "isDanger": 0,
+    "phonetic": "/ˈæmpli/",
+    "translation": "adv. 足够地",
+    "toggle": "adv. 充足地；广大地"
+  },
+  {
+    "text": "masterpiece",
+    "isDanger": 0,
+    "phonetic": "/ˈmɑːstəpiːs/",
+    "translation": "n. 杰作",
+    "toggle": "n. 杰作；绝无仅有的人"
+  },
+  {
+    "text": "mere",
+    "isDanger": 0,
+    "phonetic": "/mɪə(r)/",
+    "translation": "adj. 仅仅的",
+    "toggle": "adj. 仅仅的；只不过的"
+  },
+  {
+    "text": "prise",
+    "isDanger": 0,
+    "phonetic": "/praɪz/",
+    "translation": "v. 撬开",
+    "toggle": "v.<英>强行使分开，撬开；"
+  },
+  {
+    "text": "miniature",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪnɪtʃə/",
+    "translation": "adj. 小巧的，小型的",
+    "toggle": "adj. 微型的，小规模的"
+  },
+  {
+    "text": "composition",
+    "isDanger": 0,
+    "phonetic": "/ˌkɒmpəˈzɪʃ(ə)n/",
+    "translation": "n. 构图",
+    "toggle": "n. 作文，作曲；构成；合成物"
+  },
+  {
+    "text": "bargain hunter",
+    "isDanger": 0,
+    "phonetic": "/ˈbɑːɡən hʌntə(r)/",
+    "translation": "n. 到处找便宜货买的人",
+    "toggle": "寻找便宜货物的购物者"
+  }
+]

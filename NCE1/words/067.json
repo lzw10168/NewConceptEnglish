@@ -1,0 +1,44 @@
+[
+  {
+    "text": "reporter",
+    "isDanger": 0,
+    "phonetic": "/rɪˈpɔːtə(r)/",
+    "translation": "n. 记者",
+    "toggle": "n. 记者"
+  },
+  {
+    "text": "sensational",
+    "isDanger": 0,
+    "phonetic": "/senˈseɪʃən(ə)l/",
+    "translation": "adj. 爆炸性的，耸人听闻的",
+    "toggle": "adj. 轰动的；使人感动的；非常好的；耸人听闻的"
+  },
+  {
+    "text": "mink coat",
+    "isDanger": 0,
+    "phonetic": "/mɪŋk kəʊt/",
+    "translation": "n. 貂皮大衣",
+    "toggle": "n. 貂皮大衣"
+  },
+  {
+    "text": "mink",
+    "isDanger": 0,
+    "phonetic": "/mɪŋk/",
+    "translation": "n. 貂皮",
+    "toggle": "n. 貂；貂皮衣"
+  },
+  {
+    "text": "journalist",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒɜːnəlɪst/",
+    "translation": "n. 新闻工作者",
+    "toggle": "n. 记日志者；新闻工作者；报人"
+  },
+  {
+    "text": "report",
+    "isDanger": 0,
+    "phonetic": "/rɪˈpɔːt/",
+    "translation": "n. 报告",
+    "toggle": "n. 报告；报道；成绩单"
+  }
+]

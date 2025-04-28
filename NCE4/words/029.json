@@ -1,0 +1,65 @@
+[
+  {
+    "text": "hovercraft",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 气垫船",
+    "toggle": "n.水翼船,气垫船"
+  },
+  {
+    "text": "norfolk broads",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 诺福克郡的湖泊地区",
+    "toggle": ""
+  },
+  {
+    "text": "cushion",
+    "isDanger": 0,
+    "phonetic": "/ˈkʊʃ(ə)n/",
+    "translation": "n. 座垫",
+    "toggle": "n. 垫子；起缓解作用之物；（猪等的）臀肉；银行储蓄"
+  },
+  {
+    "text": "ring",
+    "isDanger": 1,
+    "phonetic": "/rɪŋ/",
+    "translation": "v. 围",
+    "toggle": "vi. 按铃；敲钟；回响；成环形"
+  },
+  {
+    "text": "solent",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. （英国的）苏伦特海峡",
+    "toggle": ""
+  },
+  {
+    "text": "sensation",
+    "isDanger": 0,
+    "phonetic": "/senˈseɪʃ(ə)n/",
+    "translation": "n. 轰动",
+    "toggle": "n. 感觉；轰动；感动"
+  },
+  {
+    "text": "dune",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 沙丘",
+    "toggle": "n. （由风吹积而成的）沙丘"
+  },
+  {
+    "text": "plantation",
+    "isDanger": 0,
+    "phonetic": "/plɑːnˈteɪʃ(ə)n/",
+    "translation": "n. 种植园",
+    "toggle": "n. 大农场；栽植；殖民"
+  },
+  {
+    "text": "hovertrain",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 气垫火车",
+    "toggle": ""
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "text": "hello",
+    "isDanger": 0,
+    "phonetic": "/həˈləʊ/",
+    "translation": "interj. 喂(表示问候)",
+    "toggle": "int. 喂；哈罗"
+  },
+  {
+    "text": "Hi",
+    "isDanger": 0,
+    "phonetic": "/haɪ/",
+    "translation": "interj. 喂，嗨",
+    "toggle": "int. 嗨！（表示问候或用以唤起注意）"
+  },
+  {
+    "text": "how",
+    "isDanger": 1,
+    "phonetic": "/haʊ/",
+    "translation": "adv. 怎样",
+    "toggle": "adv. 多么；多少；如何"
+  },
+  {
+    "text": "today",
+    "isDanger": 0,
+    "phonetic": "/təˈdeɪ/",
+    "translation": "adv. 今天",
+    "toggle": "adv. 今天；现今"
+  },
+  {
+    "text": "well",
+    "isDanger": 1,
+    "phonetic": "/wel/",
+    "translation": "adj. 身体好",
+    "toggle": "adv. 满意地；适当地；很好地；充分地"
+  },
+  {
+    "text": "fine",
+    "isDanger": 1,
+    "phonetic": "/faɪn/",
+    "translation": "adj. 美好的",
+    "toggle": "adj. 好的；优良的；晴朗的；健康的；细小的，精美的"
+  },
+  {
+    "text": "thanks",
+    "isDanger": 0,
+    "phonetic": "/θæŋks/",
+    "translation": "interj. 谢谢",
+    "toggle": "n. 谢谢（只用复数）"
+  },
+  {
+    "text": "goodbye",
+    "isDanger": 0,
+    "phonetic": "/ˌɡʊdˈbaɪ/",
+    "translation": "interj. 再见",
+    "toggle": "int. 再见"
+  },
+  {
+    "text": "see",
+    "isDanger": 1,
+    "phonetic": "/siː/",
+    "translation": "v. 见",
+    "toggle": "vt. 看见；领会；理解"
+  },
+  {
+    "text": "fat",
+    "isDanger": 1,
+    "phonetic": "/fæt/",
+    "translation": "adj. 胖的",
+    "toggle": "adj. 肥的，胖的；丰满的；油腻的"
+  },
+  {
+    "text": "woman",
+    "isDanger": 1,
+    "phonetic": "/ˈwʊmən/",
+    "translation": "n. 女人",
+    "toggle": "n. 女性；妇女；成年女子"
+  },
+  {
+    "text": "thin",
+    "isDanger": 0,
+    "phonetic": "/θɪn/",
+    "translation": "adj. 瘦的",
+    "toggle": "adj. 薄的；瘦的；稀薄的；微弱的"
+  },
+  {
+    "text": "tall",
+    "isDanger": 0,
+    "phonetic": "/tɔːl/",
+    "translation": "adj. 高的",
+    "toggle": "adj. 高的；长的；夸大的；过分的"
+  },
+  {
+    "text": "short",
+    "isDanger": 1,
+    "phonetic": "/ʃɔːt/",
+    "translation": "adj. 矮的",
+    "toggle": "adj. 短的；不足的；急速的；唐突的"
+  },
+  {
+    "text": "dirty",
+    "isDanger": 1,
+    "phonetic": "/ˈdɜːti/",
+    "translation": "adj. 脏的",
+    "toggle": "adj. 污秽的；下流的，卑鄙的；恶劣的；暗淡的"
+  },
+  {
+    "text": "clean",
+    "isDanger": 1,
+    "phonetic": "/kliːn/",
+    "translation": "adj. 干净的",
+    "toggle": "adj. 清洁的，干净的；清白的"
+  },
+  {
+    "text": "hot",
+    "isDanger": 1,
+    "phonetic": "/hɒt/",
+    "translation": "adj. 热的",
+    "toggle": "adj. 热的；辣的；热情的；激动的；紧迫的"
+  },
+  {
+    "text": "cold",
+    "isDanger": 1,
+    "phonetic": "/kəʊld/",
+    "translation": "adj. 冷的",
+    "toggle": "adj. 寒冷的；冷淡的，不热情的；失去知觉的"
+  },
+  {
+    "text": "old",
+    "isDanger": 0,
+    "phonetic": "/əʊld/",
+    "translation": "adj. 老的",
+    "toggle": "adj. 年老的；陈旧的，古老的"
+  },
+  {
+    "text": "young",
+    "isDanger": 0,
+    "phonetic": "/jʌŋ/",
+    "translation": "adj. 年轻的",
+    "toggle": "adj. 年轻的；初期的；没有经验的"
+  },
+  {
+    "text": "busy",
+    "isDanger": 1,
+    "phonetic": "/ˈbɪzi/",
+    "translation": "adj. 忙的",
+    "toggle": "adj. 忙碌的；热闹的；正被占用的"
+  },
+  {
+    "text": "lazy",
+    "isDanger": 0,
+    "phonetic": "/ˈleɪzi/",
+    "translation": "adj. 懒的",
+    "toggle": "adj. 懒惰的；怠惰的；懒洋洋的；慢吞吞的"
+  }
+]

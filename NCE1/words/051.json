@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Scotland",
+    "isDanger": 0,
+    "phonetic": "/ˈskɒtlənd/",
+    "translation": "n. 苏格兰(英国)",
+    "toggle": "n.苏格兰(英国的一部分,在不列颠北部)"
+  },
+  {
+    "text": "card",
+    "isDanger": 0,
+    "phonetic": "/kɑːd/",
+    "translation": "n. 明信片",
+    "toggle": "n. 卡片；纸牌；明信片"
+  },
+  {
+    "text": "youth",
+    "isDanger": 0,
+    "phonetic": "/juːθ/",
+    "translation": "n. 青年",
+    "toggle": "n. 青春；青年；青少年时期；年轻"
+  },
+  {
+    "text": "young",
+    "isDanger": 0,
+    "phonetic": "/jʌŋ/",
+    "translation": "adj. 年轻的",
+    "toggle": "adj. 年轻的；初期的；没有经验的"
+  },
+  {
+    "text": "youngster",
+    "isDanger": 0,
+    "phonetic": "/ˈjʌŋstə(r)/",
+    "translation": "n. 少年",
+    "toggle": "n. 年轻人；少年"
+  },
+  {
+    "text": "hostel",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒst(ə)l/",
+    "translation": "n. 招待所，旅馆",
+    "toggle": "n. 旅社，招待所（尤指青年旅社）"
+  },
+  {
+    "text": "hotel",
+    "isDanger": 0,
+    "phonetic": "/həʊˈtel/",
+    "translation": "n. 酒店",
+    "toggle": "n. 旅馆，饭店；客栈"
+  },
+  {
+    "text": "association",
+    "isDanger": 0,
+    "phonetic": "/əˌsəʊsiˈeɪʃn;/",
+    "translation": "n. 协会",
+    "toggle": "n. 协会，联盟，社团；联合；联想"
+  },
+  {
+    "text": "soon",
+    "isDanger": 0,
+    "phonetic": "/suːn/",
+    "translation": "adv. 不久",
+    "toggle": "adv. 快；立刻；不久，一会儿；宁愿"
+  },
+  {
+    "text": "write",
+    "isDanger": 0,
+    "phonetic": "/raɪt/",
+    "translation": "v. 写",
+    "toggle": "vi. 写，写字；写作，作曲；写信"
+  }
+]

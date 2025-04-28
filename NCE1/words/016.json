@@ -1,0 +1,156 @@
+[
+  {
+    "text": "garden",
+    "isDanger": 0,
+    "phonetic": "/ˈɡɑːd(ə)n/",
+    "translation": "n. 花园",
+    "toggle": "n. 菜园；花园"
+  },
+  {
+    "text": "under",
+    "isDanger": 1,
+    "phonetic": "/ˈʌndə(r)/",
+    "translation": "prep. 在…之下",
+    "toggle": "prep. 低于，少于；在 ... 之下"
+  },
+  {
+    "text": "tree",
+    "isDanger": 0,
+    "phonetic": "/triː/",
+    "translation": "n. 树",
+    "toggle": "n. 树；树状物；木料"
+  },
+  {
+    "text": "climb",
+    "isDanger": 0,
+    "phonetic": "/klaɪm/",
+    "translation": "v. 爬，攀登",
+    "toggle": "vi. 攀登；爬；上升"
+  },
+  {
+    "text": "who",
+    "isDanger": 1,
+    "phonetic": "/huː/",
+    "translation": "pron. 谁",
+    "toggle": "pron. 谁"
+  },
+  {
+    "text": "run",
+    "isDanger": 1,
+    "phonetic": "/rʌn/",
+    "translation": "v. 跑",
+    "toggle": "vi. 奔跑；运转；经营"
+  },
+  {
+    "text": "grass",
+    "isDanger": 1,
+    "phonetic": "/ɡrɑːs/",
+    "translation": "n. 草，草地",
+    "toggle": "n. 草；草地，草坪"
+  },
+  {
+    "text": "after",
+    "isDanger": 1,
+    "phonetic": "/ˈɑːftə(r)/",
+    "translation": "prep. 在…之后",
+    "toggle": "adv. 后来，以后"
+  },
+  {
+    "text": "cat",
+    "isDanger": 0,
+    "phonetic": "/kæt/",
+    "translation": "n. 猫",
+    "toggle": "n. 猫；猫科动物"
+  },
+  {
+    "text": "type",
+    "isDanger": 0,
+    "phonetic": "/taɪp/",
+    "translation": "v. 打字",
+    "toggle": "n. 类型，品种；样式；模范"
+  },
+  {
+    "text": "letter",
+    "isDanger": 1,
+    "phonetic": "/ˈletə(r)/",
+    "translation": "n. 信",
+    "toggle": "n. 字母，文字；信；字面意义；证书；文学，学问"
+  },
+  {
+    "text": "basket",
+    "isDanger": 0,
+    "phonetic": "/ˈbɑːskɪt/",
+    "translation": "n. 篮子",
+    "toggle": "n. 篮子；（篮球比赛的）得分；一篮之量；篮筐； vt. 装入篮"
+  },
+  {
+    "text": "basketball",
+    "isDanger": 0,
+    "phonetic": "/ˈbɑːskɪtbɔːl/",
+    "translation": "n. 篮球",
+    "toggle": "n. 篮球；篮球运动"
+  },
+  {
+    "text": "eat",
+    "isDanger": 1,
+    "phonetic": "/iːt/",
+    "translation": "v. 吃",
+    "toggle": "vt. 吃，喝；腐蚀；烦扰"
+  },
+  {
+    "text": "bone",
+    "isDanger": 1,
+    "phonetic": "/bəʊn/",
+    "translation": "n. 骨头",
+    "toggle": "n. 骨；骨骼；香烟；一首歌； vt. 剔去 ... 的骨；施骨肥于； vi. 苦学；专心致志"
+  },
+  {
+    "text": "clean",
+    "isDanger": 1,
+    "phonetic": "/kliːn/",
+    "translation": "v. 清洗",
+    "toggle": "adj. 清洁的，干净的；清白的"
+  },
+  {
+    "text": "tooth",
+    "isDanger": 0,
+    "phonetic": "/tuːθ/",
+    "translation": "n. 牙齿",
+    "toggle": "n. 牙齿"
+  },
+  {
+    "text": "cook",
+    "isDanger": 0,
+    "phonetic": "/kʊk/",
+    "translation": "v. 做(饭菜)",
+    "toggle": "vt. 烹调，煮"
+  },
+  {
+    "text": "milk",
+    "isDanger": 0,
+    "phonetic": "/mɪlk/",
+    "translation": "n. 牛奶",
+    "toggle": "n. 牛奶；乳状物"
+  },
+  {
+    "text": "meal",
+    "isDanger": 0,
+    "phonetic": "/miːl/",
+    "translation": "n. 饭，一顿饭",
+    "toggle": "n. 一餐，一顿饭；膳食"
+  },
+  {
+    "text": "drink",
+    "isDanger": 1,
+    "phonetic": "/drɪŋk/",
+    "translation": "v. 喝",
+    "toggle": "vt. 喝，饮；吸收；举杯庆贺"
+  },
+  {
+    "text": "tap",
+    "isDanger": 0,
+    "phonetic": "/tæp/",
+    "translation": "n. (水)龙头",
+    "toggle": "vt. 轻敲；轻打；装上嘴子"
+  }
+]

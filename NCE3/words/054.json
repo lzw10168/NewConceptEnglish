@@ -1,0 +1,177 @@
+[
+  {
+    "text": "insect",
+    "isDanger": 0,
+    "phonetic": "/ˈɪnsekt/",
+    "translation": "n. 昆虫",
+    "toggle": "n. 昆虫；卑鄙的人"
+  },
+  {
+    "text": "wage",
+    "isDanger": 1,
+    "phonetic": "/weɪdʒ/",
+    "translation": "v. 进行（斗争）",
+    "toggle": "vi. 进行；发动；从事"
+  },
+  {
+    "text": "contaminate",
+    "isDanger": 0,
+    "phonetic": "/kənˈtæmɪneɪt/",
+    "translation": "v. 弄脏",
+    "toggle": "vt. 污染，弄脏"
+  },
+  {
+    "text": "provocation",
+    "isDanger": 0,
+    "phonetic": "/ˌprɒvəˈkeɪʃ(ə)n/",
+    "translation": "n. 惹怒",
+    "toggle": "n. 激怒；挑拨；挑衅"
+  },
+  {
+    "text": "spider",
+    "isDanger": 0,
+    "phonetic": "/ˈspaɪdə(r)/",
+    "translation": "n. 蜘蛛",
+    "toggle": "n. 蜘蛛；设圈套者；三脚架"
+  },
+  {
+    "text": "wasp",
+    "isDanger": 0,
+    "phonetic": "/wɒsp/",
+    "translation": "n. 黄蜂",
+    "toggle": "n. 黄蜂；胡蜂；易怒的人"
+  },
+  {
+    "text": "moth",
+    "isDanger": 0,
+    "phonetic": "/mɒθ/",
+    "translation": "n. 飞蛾",
+    "toggle": "n. 蛾；蛀虫"
+  },
+  {
+    "text": "ant",
+    "isDanger": 0,
+    "phonetic": "/ænt/",
+    "translation": "n. 蚂蚁",
+    "toggle": "n. 蚂蚁"
+  },
+  {
+    "text": "revulsion",
+    "isDanger": 0,
+    "phonetic": "/rɪˈvʌlʃ(ə)n/",
+    "translation": "n. 厌恶",
+    "toggle": "n. 剧变；厌恶；强烈反感；抽回"
+  },
+  {
+    "text": "horde",
+    "isDanger": 0,
+    "phonetic": "/hɔːd/",
+    "translation": "n. 群",
+    "toggle": "n. 游牧部落；一大群，群"
+  },
+  {
+    "text": "uncanny",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈkæni/",
+    "translation": "adj. 神秘的，不可思议的",
+    "toggle": "adj. 可怕的；离奇的；神秘的"
+  },
+  {
+    "text": "erase",
+    "isDanger": 0,
+    "phonetic": "/ɪˈreɪz/",
+    "translation": "v. 擦，抹去",
+    "toggle": "vt. 抹去；擦除"
+  },
+  {
+    "text": "praying mantis",
+    "isDanger": 0,
+    "phonetic": "/ˌpreɪɪŋ ˈmæntɪs/",
+    "translation": "n. 螳螂",
+    "toggle": "螳螂：一种昆虫，尤指欧洲螳螂（Mantis religiosa），已被引入美国。"
+  },
+  {
+    "text": "entranced",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtrɑːnst/",
+    "translation": "adj. 出神的",
+    "toggle": "adj. 着迷的；狂喜的"
+  },
+  {
+    "text": "beetle",
+    "isDanger": 0,
+    "phonetic": "/ˈbiːtl/",
+    "translation": "n. 甲虫",
+    "toggle": "vi. 急忙来回；突出"
+  },
+  {
+    "text": "sheltered",
+    "isDanger": 0,
+    "phonetic": "/ˈʃeltəd/",
+    "translation": "adj. 伤不着的，无危险的",
+    "toggle": "adj. 受保护的；掩蔽的；免税的；为弱者提供方便的"
+  },
+  {
+    "text": "luscious",
+    "isDanger": 0,
+    "phonetic": "/ˈlʌʃəs/",
+    "translation": "adj. 甘美的",
+    "toggle": "adj. 甘美的(含汁的)；满足感官的"
+  },
+  {
+    "text": "cluster",
+    "isDanger": 0,
+    "phonetic": "/ˈklʌstə(r)/",
+    "translation": "n. 一簇",
+    "toggle": "n. 丛；串；簇；群"
+  },
+  {
+    "text": "aphid",
+    "isDanger": 0,
+    "phonetic": "/ˈeɪfɪd/",
+    "translation": "n. 蚜虫",
+    "toggle": "n.[动]蚜虫"
+  },
+  {
+    "text": "underside",
+    "isDanger": 0,
+    "phonetic": "/ˈʌndəsaɪd/",
+    "translation": "n. 底面，下侧",
+    "toggle": "n. 下面；阴暗面"
+  },
+  {
+    "text": "colony",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒləni/",
+    "translation": "n. 一群",
+    "toggle": "n. 殖民地；移民队"
+  },
+  {
+    "text": "sticky",
+    "isDanger": 0,
+    "phonetic": "/ˈstɪki/",
+    "translation": "adj. 粘的",
+    "toggle": "adj. 粘的；粘性的"
+  },
+  {
+    "text": "scurry",
+    "isDanger": 0,
+    "phonetic": "/ˈskʌri/",
+    "translation": "v. 小步跑",
+    "toggle": "n. 急跑；短距离赛跑（或赛马）"
+  },
+  {
+    "text": "swarm",
+    "isDanger": 0,
+    "phonetic": "/swɔːm/",
+    "translation": "v. 聚集",
+    "toggle": "vi. 挤满；成群浮游；云集"
+  },
+  {
+    "text": "ingenuity",
+    "isDanger": 0,
+    "phonetic": "/ˌɪndʒəˈnjuːəti/",
+    "translation": "n. 机灵",
+    "toggle": "n. 心灵手巧，独创性；精巧；精巧的装置"
+  }
+]

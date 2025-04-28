@@ -1,0 +1,121 @@
+[
+  {
+    "text": "adverse",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 不利的",
+    "toggle": "adj. 不利的；相反的；敌对的（名词 adverseness ，副词 adversely ）"
+  },
+  {
+    "text": "purchasable",
+    "isDanger": 0,
+    "phonetic": "/ˈpɜːtʃɪsəbəl/",
+    "translation": "adj. 可买到的",
+    "toggle": "adj.可买的,可收买的"
+  },
+  {
+    "text": "preacher",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 传教士",
+    "toggle": "n. 传教士；牧师；鼓吹者"
+  },
+  {
+    "text": "defendant",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 被告",
+    "toggle": "adj. 为自己辩护的；辩护的"
+  },
+  {
+    "text": "outlook",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 视野",
+    "toggle": "n. 观点；景色；展望"
+  },
+  {
+    "text": "capacity",
+    "isDanger": 0,
+    "phonetic": "/kəˈpæsəti/",
+    "translation": "n. 能力",
+    "toggle": "n. 能力；容量；生产力；资格，地位"
+  },
+  {
+    "text": "democratic",
+    "isDanger": 0,
+    "phonetic": "/ˌdeməˈkrætɪk/",
+    "translation": "adj. 民主的",
+    "toggle": "adj. 民主的；民主政治的；大众的"
+  },
+  {
+    "text": "tribal",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 部落的",
+    "toggle": "adj. 部落的；种族的"
+  },
+  {
+    "text": "tribe",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 部落",
+    "toggle": "n. 部落；宗族；一伙； [ 生 ] 族"
+  },
+  {
+    "text": "illiterate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 文盲",
+    "toggle": "adj. 不识字的；没受教育的；文盲的"
+  },
+  {
+    "text": "compulsory",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 义务的",
+    "toggle": "adj. 义务的；被强制的；必修的"
+  },
+  {
+    "text": "deem",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 认为",
+    "toggle": "vt. 认为，视作；相信"
+  },
+  {
+    "text": "means",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 方法，手段，财产，资力",
+    "toggle": "n.手段,方法v.意味,想要"
+  },
+  {
+    "text": "hamper",
+    "isDanger": 0,
+    "phonetic": "/ˈhæmpə(r)/",
+    "translation": "v. 妨碍",
+    "toggle": "vt. 妨碍；束缚；使困累"
+  },
+  {
+    "text": "savannah",
+    "isDanger": 0,
+    "phonetic": "/səˈvænə/",
+    "translation": "n. 大草原",
+    "toggle": "n.(南美)大草原"
+  },
+  {
+    "text": "juvenile",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 青少年",
+    "toggle": "adj. 青少年的；幼稚的"
+  },
+  {
+    "text": "delinquency",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 犯罪",
+    "toggle": "n.行为不良,错失"
+  }
+]

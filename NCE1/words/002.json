@@ -1,0 +1,107 @@
+[
+  {
+    "text": "umbrella",
+    "isDanger": 0,
+    "phonetic": "/ʌmˈbrelə/",
+    "translation": "n. 伞",
+    "toggle": "n. 雨伞；庇护；保护伞；伞形结构"
+  },
+  {
+    "text": "please",
+    "isDanger": 1,
+    "phonetic": "/pliːz/",
+    "translation": "interj. 请",
+    "toggle": "vt. 使高兴，使满意；使喜欢"
+  },
+  {
+    "text": "here",
+    "isDanger": 1,
+    "phonetic": "/hɪə(r)/",
+    "translation": "adv. 这里",
+    "toggle": "adv. 在这里；此时"
+  },
+  {
+    "text": "my",
+    "isDanger": 1,
+    "phonetic": "/maɪ/",
+    "translation": "pron. 我的",
+    "toggle": "pron. 我的"
+  },
+  {
+    "text": "ticket",
+    "isDanger": 0,
+    "phonetic": "/ˈtɪkɪt/",
+    "translation": "n. 票",
+    "toggle": "n. 票；入场券，标签；证明书；（美）候选人名单； [ 口 ] 交通罚款单"
+  },
+  {
+    "text": "number",
+    "isDanger": 1,
+    "phonetic": "/ˈnʌmbə(r)/",
+    "translation": "n. 号码",
+    "toggle": "n. 号码；数字；数；算术；（杂志等的）期"
+  },
+  {
+    "text": "five",
+    "isDanger": 0,
+    "phonetic": "/faɪv/",
+    "translation": "num. 五",
+    "toggle": "n. 五，五个； [ 口 ] 五美元钞票"
+  },
+  {
+    "text": "sorry",
+    "isDanger": 1,
+    "phonetic": "/ˈsɒri/",
+    "translation": "interj. 对不起的",
+    "toggle": "adj. 对不起的，抱歉的；遗憾的"
+  },
+  {
+    "text": "sir",
+    "isDanger": 0,
+    "phonetic": "/sɜː(r)/",
+    "translation": "n. 先生",
+    "toggle": "n. 阁下，先生"
+  },
+  {
+    "text": "cloakroom",
+    "isDanger": 0,
+    "phonetic": "/ˈkləʊkruːm/",
+    "translation": "n. 衣帽存放处",
+    "toggle": "n.(剧场等)衣帽间,(车站等)行李站暂存处,<英>盥洗室,便所"
+  },
+  {
+    "text": "suit",
+    "isDanger": 0,
+    "phonetic": "/suːt/",
+    "translation": "n. 一套衣服",
+    "toggle": "vt. 适合；使适应"
+  },
+  {
+    "text": "school",
+    "isDanger": 1,
+    "phonetic": "/skuːl/",
+    "translation": "n. 学校",
+    "toggle": "n. 学校；学派；学院；鱼群"
+  },
+  {
+    "text": "teacher",
+    "isDanger": 0,
+    "phonetic": "/ˈtiːtʃə(r)/",
+    "translation": "n. 老师",
+    "toggle": "n. 教师；导师"
+  },
+  {
+    "text": "son",
+    "isDanger": 0,
+    "phonetic": "/sʌn/",
+    "translation": "n. 儿子",
+    "toggle": "n. 儿子；男性后裔；孩子（对年轻人的称呼）"
+  },
+  {
+    "text": "daughter",
+    "isDanger": 0,
+    "phonetic": "/ˈdɔːtə(r)/",
+    "translation": "n. 女儿",
+    "toggle": "n. 女儿；子代"
+  }
+]

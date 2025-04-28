@@ -1,0 +1,58 @@
+[
+  {
+    "text": "prize",
+    "isDanger": 0,
+    "phonetic": "/praɪz/",
+    "translation": "adj. 珍贵的，宝贵的",
+    "toggle": "n. 奖品；奖赏；战利品"
+  },
+  {
+    "text": "tie",
+    "isDanger": 1,
+    "phonetic": "/taɪ/",
+    "translation": "v. 拴，系",
+    "toggle": "vt. 系；打结；约束；与 … 成平局"
+  },
+  {
+    "text": "theft",
+    "isDanger": 0,
+    "phonetic": "/θeft/",
+    "translation": "n. 偷盗行为，偷盗案",
+    "toggle": "n. 盗窃；偷； [ 罕 ] 赃物"
+  },
+  {
+    "text": "accuse",
+    "isDanger": 1,
+    "phonetic": "/əˈkjuːz/",
+    "translation": "v. 指控",
+    "toggle": "vt. 控告，指控；谴责；归咎于"
+  },
+  {
+    "text": "deny",
+    "isDanger": 0,
+    "phonetic": "/dɪˈnaɪ/",
+    "translation": "v. 否认",
+    "toggle": "vt. 否定，否认；拒绝给予；拒绝 … 的要求"
+  },
+  {
+    "text": "ashamed",
+    "isDanger": 0,
+    "phonetic": "/əˈʃeɪmd/",
+    "translation": "adj. 感到羞耻，惭愧",
+    "toggle": "adj. 惭愧的，感到难为情的；耻于 … 的"
+  },
+  {
+    "text": "apologize",
+    "isDanger": 0,
+    "phonetic": "/əˈpɒlədʒaɪz/",
+    "translation": "v. 道歉",
+    "toggle": "vi. 道歉；辩解；赔不是"
+  },
+  {
+    "text": "dye",
+    "isDanger": 0,
+    "phonetic": "/daɪ/",
+    "translation": "v. 染",
+    "toggle": "n. 染料；染色"
+  }
+]

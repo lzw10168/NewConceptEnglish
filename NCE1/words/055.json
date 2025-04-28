@@ -1,0 +1,114 @@
+[
+  {
+    "text": "idea",
+    "isDanger": 0,
+    "phonetic": "/aɪˈdɪə/",
+    "translation": "n. 主意",
+    "toggle": "n. 主意；概念；想法"
+  },
+  {
+    "text": "a little",
+    "isDanger": 0,
+    "phonetic": "/ə ˈlɪtl/",
+    "translation": "adv. 少许(用于不可数名词之前)",
+    "toggle": "adv. 少量地，稍许地"
+  },
+  {
+    "text": "little",
+    "isDanger": 1,
+    "phonetic": "/ˈlɪt(ə)l/",
+    "translation": "adv. 少得几乎没有",
+    "toggle": "adj. 小的；短暂的；很少的；小巧可爱的"
+  },
+  {
+    "text": "teaspoonful",
+    "isDanger": 0,
+    "phonetic": "/ˈtiːspuːnfʊl/",
+    "translation": "n. 一满茶匙",
+    "toggle": "n.一茶匙的量"
+  },
+  {
+    "text": "spoon",
+    "isDanger": 0,
+    "phonetic": "/spuːn/",
+    "translation": "n. 茶匙",
+    "toggle": "n. 匙，勺子；一杓的量"
+  },
+  {
+    "text": "less",
+    "isDanger": 0,
+    "phonetic": "/les/",
+    "translation": "adj. (little的比较级)校少的，更小的",
+    "toggle": "adv. 较少地；较小地；更小地"
+  },
+  {
+    "text": "a few",
+    "isDanger": 0,
+    "phonetic": "/ə fjuː/",
+    "translation": "adv. 几个(用于可数名词之前)",
+    "toggle": "少许， 少数; 一点点; 些许"
+  },
+  {
+    "text": "pity",
+    "isDanger": 1,
+    "phonetic": "/ˈpɪti/",
+    "translation": "n. 遗憾",
+    "toggle": "n. 怜悯，同情；遗憾"
+  },
+  {
+    "text": "instead",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈsted/",
+    "translation": "adv. 代替",
+    "toggle": "adv. 代替；反而"
+  },
+  {
+    "text": "advice",
+    "isDanger": 0,
+    "phonetic": "/ədˈvaɪs/",
+    "translation": "n. 建议，忠告",
+    "toggle": "n. 通知；忠告；建议；劝告"
+  },
+  {
+    "text": "voice",
+    "isDanger": 0,
+    "phonetic": "/vɔɪs/",
+    "translation": "n. (人的)声音",
+    "toggle": "n. 声音；愿望；嗓音；发言权"
+  },
+  {
+    "text": "most",
+    "isDanger": 0,
+    "phonetic": "/məʊst/",
+    "translation": "adj. (many,much的最高级)最多的",
+    "toggle": "adv. 最；最多；非常，极其；几乎"
+  },
+  {
+    "text": "least",
+    "isDanger": 0,
+    "phonetic": "/liːst/",
+    "translation": "adj. (little的最高级)最小的，最少的",
+    "toggle": "adj. 最小的；最少的（ little 的最高级）"
+  },
+  {
+    "text": "best",
+    "isDanger": 1,
+    "phonetic": "/best/",
+    "translation": "adj. (good的最高级)最好的",
+    "toggle": "n. 最好的人，最好的事物；最佳状态"
+  },
+  {
+    "text": "worse",
+    "isDanger": 0,
+    "phonetic": "/wɜːs/",
+    "translation": "adj. (bad的比较级)更坏的",
+    "toggle": "n.(人或事)较坏者,更坏的事,更恶劣的事,败北adj.更坏的,更恶劣的adv.更坏地,更恶劣地"
+  },
+  {
+    "text": "worst",
+    "isDanger": 0,
+    "phonetic": "/wɜːst/",
+    "translation": "adj. (bad的最高级)最坏的",
+    "toggle": "adj.最坏的,最差的adv.最坏,最差"
+  }
+]

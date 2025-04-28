@@ -1,0 +1,100 @@
+[
+  {
+    "text": "punctuality",
+    "isDanger": 0,
+    "phonetic": "/ˌpʌŋktʃuˈæləti/",
+    "translation": "n. 准时",
+    "toggle": "n.准时"
+  },
+  {
+    "text": "rural",
+    "isDanger": 1,
+    "phonetic": "/ˈrʊərəl/",
+    "translation": "adv. 农村的",
+    "toggle": "adj. 农村的，乡下的；田园的，有乡村风味的"
+  },
+  {
+    "text": "disregard",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsrɪˈɡɑːd/",
+    "translation": "v. 不顾，无视",
+    "toggle": "vt. 忽视；不理；漠视；不顾"
+  },
+  {
+    "text": "intellectual",
+    "isDanger": 0,
+    "phonetic": "/ˌɪntəˈlektʃuəl/",
+    "translation": "n. 知识分子",
+    "toggle": "adj. 智力的；聪明的；理智的"
+  },
+  {
+    "text": "abstruse",
+    "isDanger": 0,
+    "phonetic": "/əbˈstruːs/",
+    "translation": "adj. 深奥的",
+    "toggle": "adj.奥妙的,深奥的"
+  },
+  {
+    "text": "coordinate",
+    "isDanger": 0,
+    "phonetic": "/kəʊˈɔːdɪneɪt/",
+    "translation": "v. 协调",
+    "toggle": "n. 坐标；同等的人或物"
+  },
+  {
+    "text": "reproach",
+    "isDanger": 0,
+    "phonetic": "/rɪˈprəʊtʃ/",
+    "translation": "v. 责备",
+    "toggle": "n. 责备；耻辱"
+  },
+  {
+    "text": "puncture",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌŋktʃə(r)/",
+    "translation": "v. 刺破（轮胎）",
+    "toggle": "vt. 刺穿；揭穿；削弱"
+  },
+  {
+    "text": "diversion",
+    "isDanger": 0,
+    "phonetic": "/daɪˈvɜːʃ(ə)n/",
+    "translation": "n. 改道；绕道",
+    "toggle": "n. 转移；消遣；分散注意力"
+  },
+  {
+    "text": "trial",
+    "isDanger": 0,
+    "phonetic": "/ˈtraɪəl/",
+    "translation": "n. 讨厌的事、人",
+    "toggle": "n. 试验；磨炼；审讯；努力"
+  },
+  {
+    "text": "fraction",
+    "isDanger": 1,
+    "phonetic": "/ˈfrækʃn/",
+    "translation": "n. 很小一点儿",
+    "toggle": "n. 小部分；部分；稍微； [ 数 ] 分数"
+  },
+  {
+    "text": "flourish",
+    "isDanger": 0,
+    "phonetic": "/ˈflʌrɪʃ/",
+    "translation": "n. 挥舞（打手势）",
+    "toggle": "n. 兴旺；茂盛；挥舞；炫耀；华饰"
+  },
+  {
+    "text": "microscopic",
+    "isDanger": 0,
+    "phonetic": "/ˌmaɪkrəˈskɒpɪk/",
+    "translation": "adj. 微小的",
+    "toggle": "adj. 用显微镜可见的；微观的"
+  },
+  {
+    "text": "adamant",
+    "isDanger": 0,
+    "phonetic": "/ˈædəmənt/",
+    "translation": "adj. 坚定的，不动摇的",
+    "toggle": "adj. 坚定不移的；坚硬无比的；固执的，坚强的"
+  }
+]

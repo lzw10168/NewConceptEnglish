@@ -1,0 +1,114 @@
+[
+  {
+    "text": "better",
+    "isDanger": 1,
+    "phonetic": "/ˈbetə(r)/",
+    "translation": "adj. 形容词well的比较级",
+    "toggle": "n. 较好者；打赌的人（等于 bettor ）；长辈"
+  },
+  {
+    "text": "certainly",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːt(ə)nli/",
+    "translation": "adv. 当然",
+    "toggle": "adv. 当然；必定；行（用于回答）"
+  },
+  {
+    "text": "get up",
+    "isDanger": 0,
+    "phonetic": "/ɡet ʌp/",
+    "translation": "v. 起床",
+    "toggle": "（使）起床; 安排; 举起; 站起来"
+  },
+  {
+    "text": "yet",
+    "isDanger": 0,
+    "phonetic": "/jet/",
+    "translation": "adv. 还，仍",
+    "toggle": "adv. 还；但是；已经"
+  },
+  {
+    "text": "rich",
+    "isDanger": 0,
+    "phonetic": "/rɪtʃ/",
+    "translation": "adj. 油腻的",
+    "toggle": "adj. 富有的；肥沃的；昂贵的"
+  },
+  {
+    "text": "food",
+    "isDanger": 0,
+    "phonetic": "/fuːd/",
+    "translation": "n. 食物",
+    "toggle": "n. 食物；养料"
+  },
+  {
+    "text": "remain",
+    "isDanger": 0,
+    "phonetic": "/rɪˈmeɪn/",
+    "translation": "v. 保持，继续",
+    "toggle": "vi. 保持；依然；留下；剩余；逗留；残存"
+  },
+  {
+    "text": "play",
+    "isDanger": 1,
+    "phonetic": "/pleɪ/",
+    "translation": "v. 玩",
+    "toggle": "vt. 演奏；播放；游戏；扮演；同 … 比赛"
+  },
+  {
+    "text": "match",
+    "isDanger": 1,
+    "phonetic": "/mætʃ/",
+    "translation": "n. 火柴",
+    "toggle": "vt. 使相配；与 … 竞争；相配；使比赛；敌得过，比得上"
+  },
+  {
+    "text": "talk",
+    "isDanger": 0,
+    "phonetic": "/tɔːk/",
+    "translation": "v. 谈话",
+    "toggle": "vt. 说；谈话；讨论"
+  },
+  {
+    "text": "library",
+    "isDanger": 0,
+    "phonetic": "/ˈlaɪbrəri/",
+    "translation": "n. 图书馆",
+    "toggle": "n. 图书馆，藏书室；文库"
+  },
+  {
+    "text": "drive",
+    "isDanger": 1,
+    "phonetic": "/draɪv/",
+    "translation": "v. 开车",
+    "toggle": "vi. 开车；猛击；飞跑"
+  },
+  {
+    "text": "so",
+    "isDanger": 1,
+    "phonetic": "/səʊ/",
+    "translation": "adv. 如此地",
+    "toggle": "adv. 如此，这么；确是如此"
+  },
+  {
+    "text": "quickly",
+    "isDanger": 0,
+    "phonetic": "/ˈkwɪkli/",
+    "translation": "adv. 快地",
+    "toggle": "adv. 很快地；迅速地"
+  },
+  {
+    "text": "lean out of",
+    "isDanger": 0,
+    "phonetic": "/liːn aʊt ɒv/",
+    "translation": "v. 身体探出",
+    "toggle": "身体探出; （使）伸出"
+  },
+  {
+    "text": "break",
+    "isDanger": 1,
+    "phonetic": "/breɪk/",
+    "translation": "v. 打破",
+    "toggle": "n. 休息，中断；破裂处"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "text": "leave",
+    "isDanger": 1,
+    "phonetic": "/liːv/",
+    "translation": "n. 允许",
+    "toggle": "vt. 离开；留下；委托；遗忘"
+  },
+  {
+    "text": "fundamentals",
+    "isDanger": 0,
+    "phonetic": "/ˌfʌndəˈmɛnt əlz/",
+    "translation": "n. 基本原则",
+    "toggle": "n.原理,基本原则，基本法则( fundamental的名词复数)"
+  },
+  {
+    "text": "glorious",
+    "isDanger": 0,
+    "phonetic": "/ˈɡlɔːriəs/",
+    "translation": "adj. 光辉灿烂的",
+    "toggle": "adj. 光荣的；辉煌的；极好的"
+  },
+  {
+    "text": "splendid",
+    "isDanger": 0,
+    "phonetic": "/ˈsplendɪd/",
+    "translation": "adj. 灿烂的",
+    "toggle": "adj. 辉煌的；极好的；灿烂的；杰出的"
+  },
+  {
+    "text": "rub",
+    "isDanger": 0,
+    "phonetic": "/rʌb/",
+    "translation": "n. 难题",
+    "toggle": "vt. 擦；摩擦；惹怒"
+  },
+  {
+    "text": "identity",
+    "isDanger": 0,
+    "phonetic": "/aɪˈdentəti/",
+    "translation": "n. 身份",
+    "toggle": "n. 身份；同一性，一致；恒等式；特性"
+  },
+  {
+    "text": "dreary",
+    "isDanger": 0,
+    "phonetic": "/ˈdrɪəri/",
+    "translation": "adj. 沉郁的",
+    "toggle": "adj. 沉闷的，枯燥的"
+  },
+  {
+    "text": "commitment",
+    "isDanger": 0,
+    "phonetic": "/kəˈmɪtmənt/",
+    "translation": "n. 信奉",
+    "toggle": "n. 承诺，保证；承担义务；委托；献身"
+  },
+  {
+    "text": "mean",
+    "isDanger": 1,
+    "phonetic": "/miːn/",
+    "translation": "adj. 吝啬，小气",
+    "toggle": "adj. 低劣的；平均的；卑鄙的"
+  },
+  {
+    "text": "social climber",
+    "isDanger": 0,
+    "phonetic": "/ˌsəʊʃl ˈklaɪmə(r)/",
+    "translation": "n. 追求更高社会地位的人，向上爬的人",
+    "toggle": "n.<美>想法挤入上流社会者，攀高枝者，巴结权贵向上爬的人"
+  },
+  {
+    "text": "devotion",
+    "isDanger": 0,
+    "phonetic": "/dɪˈvəʊʃn/",
+    "translation": "n. 热爱",
+    "toggle": "n. 热爱；献身，奉献；忠诚"
+  },
+  {
+    "text": "cosmic",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒzmɪk/",
+    "translation": "adj. 宇宙的",
+    "toggle": "adj. 宇宙的（等于 cosmical ）"
+  },
+  {
+    "text": "suburban",
+    "isDanger": 0,
+    "phonetic": "/səˈbɜːbən/",
+    "translation": "adj. 见识不广的，偏狭的",
+    "toggle": "adj. 土气的；郊区的，城郊的；见闻不广的"
+  },
+  {
+    "text": "conceited",
+    "isDanger": 0,
+    "phonetic": "/kənˈsiːtɪd/",
+    "translation": "adj. 自高自大的",
+    "toggle": "adj.自以为是的,逞能的,狂想的"
+  },
+  {
+    "text": "presumptuous",
+    "isDanger": 0,
+    "phonetic": "/prɪˈzʌmptʃuəs/",
+    "translation": "adj. 自以为是的，放肆的",
+    "toggle": "adj.专横的"
+  },
+  {
+    "text": "fatuous",
+    "isDanger": 0,
+    "phonetic": "/ˈfætʃuəs/",
+    "translation": "adj. 愚蠢的",
+    "toggle": "adj.愚昧的,昏庸的,发呆的,愚笨的,自满的"
+  },
+  {
+    "text": "cliche",
+    "isDanger": 0,
+    "phonetic": "/ˈkliːʃeɪ/",
+    "translation": "n. 陈词滥调",
+    "toggle": "n. 陈词滥调；铅版；陈腐思想"
+  }
+]

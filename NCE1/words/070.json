@@ -1,0 +1,44 @@
+[
+  {
+    "text": "extra",
+    "isDanger": 1,
+    "phonetic": "/ˈekstrə/",
+    "translation": "adj. 额外的",
+    "toggle": "adv. 特别地，非常；另外;n.群众演员"
+  },
+  {
+    "text": "engineer",
+    "isDanger": 0,
+    "phonetic": "/ˌendʒɪˈnɪə(r)/",
+    "translation": "n. 工程师",
+    "toggle": "n. 工程师；工兵；火车司机"
+  },
+  {
+    "text": "overseas",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈsiːz/",
+    "translation": "adj. 海外的，国外的",
+    "toggle": "adv. 在海外，海外"
+  },
+  {
+    "text": "engineering",
+    "isDanger": 0,
+    "phonetic": "/ˌendʒɪˈnɪərɪŋ/",
+    "translation": "n. 工程",
+    "toggle": "n. 工程，工程学"
+  },
+  {
+    "text": "company",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌmpəni/",
+    "translation": "n. 公司",
+    "toggle": "n. 公司；陪伴，同伴；连队"
+  },
+  {
+    "text": "line",
+    "isDanger": 1,
+    "phonetic": "/laɪn/",
+    "translation": "n. 线路",
+    "toggle": "n. 绳；排；路线，航线"
+  }
+]

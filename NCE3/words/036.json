@@ -1,0 +1,121 @@
+[
+  {
+    "text": "credulous",
+    "isDanger": 0,
+    "phonetic": "/ˈkredʒələs/",
+    "translation": "adj. 轻信的",
+    "toggle": "adj. 轻信的；因轻信而产生的"
+  },
+  {
+    "text": "improbable",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈprɒbəbl/",
+    "translation": "adj. 不大可能的",
+    "toggle": "adj. 不可信的；未必会发生的；不大可能的，未必确实的"
+  },
+  {
+    "text": "obscure",
+    "isDanger": 0,
+    "phonetic": "/əbˈskjʊə(r)/",
+    "translation": "adj. 不起眼的",
+    "toggle": "adj. 模糊的；晦涩的；昏暗的"
+  },
+  {
+    "text": "maidservant",
+    "isDanger": 0,
+    "phonetic": "/ˈmeɪdsɜːvənt/",
+    "translation": "n. 女仆，女佣",
+    "toggle": "n.女佣，女仆"
+  },
+  {
+    "text": "presume",
+    "isDanger": 1,
+    "phonetic": "/prɪˈzjuːm/",
+    "translation": "v. 假定",
+    "toggle": "vt. 假定；推测；擅自；意味着"
+  },
+  {
+    "text": "wickedly",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪkɪdli/",
+    "translation": "adv. 心眼坏地，居心叵测地",
+    "toggle": "adv.恶劣地；居心叵测地"
+  },
+  {
+    "text": "plot",
+    "isDanger": 0,
+    "phonetic": "/plɒt/",
+    "translation": "v. 密谋",
+    "toggle": "n. 阴谋；情节；图"
+  },
+  {
+    "text": "downfall",
+    "isDanger": 0,
+    "phonetic": "/ˈdaʊnfɔːl/",
+    "translation": "n. 倒台，垮台",
+    "toggle": "n. 垮台；衰败；落下；大雨"
+  },
+  {
+    "text": "naive",
+    "isDanger": 0,
+    "phonetic": "/naɪˈiːv/",
+    "translation": "adj. 天真的",
+    "toggle": "adj. 天真的，幼稚的；轻信的"
+  },
+  {
+    "text": "unacceptable",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnəkˈseptəbl/",
+    "translation": "adj. 不能接受的",
+    "toggle": "adj. 不能接受的；不受欢迎的"
+  },
+  {
+    "text": "conspire",
+    "isDanger": 0,
+    "phonetic": "/kənˈspaɪə(r)/",
+    "translation": "v. (事件)巧合促成",
+    "toggle": "vi. 共谋；协力"
+  },
+  {
+    "text": "incredible",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈkredəb(ə)l/",
+    "translation": "adj. 不可思议的",
+    "toggle": "adj. 难以置信的，惊人的"
+  },
+  {
+    "text": "resemblance",
+    "isDanger": 0,
+    "phonetic": "/rɪˈzembləns/",
+    "translation": "n. 相似",
+    "toggle": "n. 相似；相似之处；相似物；肖像"
+  },
+  {
+    "text": "scorn",
+    "isDanger": 0,
+    "phonetic": "/skɔːn/",
+    "translation": "n. 嘲弄，挖苦",
+    "toggle": "n. 轻蔑；嘲笑；藐视的对象"
+  },
+  {
+    "text": "acquaint",
+    "isDanger": 0,
+    "phonetic": "/əˈkweɪnt/",
+    "translation": "v. 使了解",
+    "toggle": "vt. 使认识；使熟悉"
+  },
+  {
+    "text": "reunite",
+    "isDanger": 0,
+    "phonetic": "/ˌriːjuˈnaɪt/",
+    "translation": "v. 使团聚",
+    "toggle": "vt. 使再结合；使再联合；使重聚"
+  },
+  {
+    "text": "assume",
+    "isDanger": 1,
+    "phonetic": "/əˈsjuːm/",
+    "translation": "v. 假定，认为",
+    "toggle": "vt. 假定；承担；呈现；采取"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "text": "salvage",
+    "isDanger": 0,
+    "phonetic": "/ˈsælvɪdʒ/",
+    "translation": "v. 救助，营救；打捞",
+    "toggle": "n. 打捞；海上救助；抢救财货；救难的奖金"
+  },
+  {
+    "text": "Barents",
+    "isDanger": 0,
+    "phonetic": "/ˈbærənts/",
+    "translation": "n. 巴伦支(海)",
+    "toggle": "n. 巴伦支海"
+  },
+  {
+    "text": "sunken",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌŋkən/",
+    "translation": "adj. 沉没的",
+    "toggle": "adj. 沉没的；凹陷的；比周围低的"
+  },
+  {
+    "text": "cargo",
+    "isDanger": 0,
+    "phonetic": "/ˈkɑːɡəʊ/",
+    "translation": "n. 货物",
+    "toggle": "n. 货物，船货"
+  },
+  {
+    "text": "bullion",
+    "isDanger": 0,
+    "phonetic": "/ˈbʊliən/",
+    "translation": "n. 金条；银条",
+    "toggle": "n. 金银；纯金；金银块"
+  },
+  {
+    "text": "scour",
+    "isDanger": 0,
+    "phonetic": "/ˈskaʊə(r)/",
+    "translation": "v. 彻底搜索",
+    "toggle": "vi. 冲刷；擦；腹泻"
+  },
+  {
+    "text": "chest",
+    "isDanger": 0,
+    "phonetic": "/tʃest/",
+    "translation": "n. 大箱子",
+    "toggle": "n. 胸，胸部；箱子；衣柜；金库"
+  },
+  {
+    "text": "contents",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒntents/",
+    "translation": "n. (复数)所装的东西",
+    "toggle": "n. 内容; （书、讲话、节目等的）主题; 含量; 所含之物( content的名词复数 )"
+  },
+  {
+    "text": "belongings",
+    "isDanger": 0,
+    "phonetic": "/bɪˈlɒŋɪŋz/",
+    "translation": "n. (复数)所有物",
+    "toggle": "n. 财产，所有物；亲戚"
+  },
+  {
+    "text": "item",
+    "isDanger": 0,
+    "phonetic": "/ˈaɪtəm/",
+    "translation": "n. 物件",
+    "toggle": "n. 条款，项目；一则"
+  },
+  {
+    "text": "cruiser",
+    "isDanger": 0,
+    "phonetic": "/ˈkruːzə(r)/",
+    "translation": "n. 巡洋舰",
+    "toggle": "n. 巡洋舰；巡航飞机，警察巡逻车"
+  },
+  {
+    "text": "find",
+    "isDanger": 0,
+    "phonetic": "/faɪnd/",
+    "translation": "n. 找到的物品",
+    "toggle": "vt. 发现；认为；感到；获得"
+  },
+  {
+    "text": "log book",
+    "isDanger": 0,
+    "phonetic": "/lɒɡ bʊk/",
+    "translation": "n. 航海日志",
+    "toggle": "记录簿：一种记录特定信息或事件的书籍或文件。"
+  },
+  {
+    "text": "piece",
+    "isDanger": 0,
+    "phonetic": "/piːs/",
+    "translation": "v. 拼成整体",
+    "toggle": "n. 件；篇；块；硬币"
+  },
+  {
+    "text": "convoy",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnvɔɪ/",
+    "translation": "n. 护航",
+    "toggle": "n. 护送；护卫；护航队"
+  },
+  {
+    "text": "torpedo",
+    "isDanger": 0,
+    "phonetic": "/tɔːˈpiːdəʊ/",
+    "translation": "v. 用鱼雷攻击",
+    "toggle": "n. 鱼雷；水雷；油井爆破筒； [ 鱼 ] 电鳐； [ 俚 ] 职业杀手"
+  },
+  {
+    "text": "submarine",
+    "isDanger": 0,
+    "phonetic": "/ˌsʌbməˈriːn/",
+    "translation": "n. 潜水艇",
+    "toggle": "n. 潜水艇；海底生物"
+  },
+  {
+    "text": "naval",
+    "isDanger": 0,
+    "phonetic": "/ˈneɪv(ə)l/",
+    "translation": "adj. 海军的",
+    "toggle": "adj. 海军的；军舰的"
+  },
+  {
+    "text": "ministry",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪnɪstri/",
+    "translation": "n. (政府的)部",
+    "toggle": "n. （政府的）部门"
+  }
+]

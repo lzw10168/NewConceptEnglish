@@ -1,0 +1,100 @@
+[
+  {
+    "text": "albatross",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 信天翁",
+    "toggle": ""
+  },
+  {
+    "text": "sustenance",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 支撑力",
+    "toggle": "n. 生计；食物；支持"
+  },
+  {
+    "text": "glider",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 滑翔者",
+    "toggle": "n. 滑翔机；滑翔员；滑翔导弹"
+  },
+  {
+    "text": "harness",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 利用",
+    "toggle": "vt. 披上甲胄；套；驾驭；治理"
+  },
+  {
+    "text": "endow",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈdaʊ/",
+    "translation": "v. 赋有",
+    "toggle": "vt. 捐赠；天生具有；赋予"
+  },
+  {
+    "text": "ply",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 不断地供给",
+    "toggle": "vt. 使用，不住地使用；折，弯；从事"
+  },
+  {
+    "text": "gale",
+    "isDanger": 0,
+    "phonetic": "/ɡeɪl/",
+    "translation": "n. 大风",
+    "toggle": "n. 大风，狂风；（突发的）一阵"
+  },
+  {
+    "text": "partridge",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 鹧鸪",
+    "toggle": "n.[鸟]山鹑,<美>鹌鹑adj.山鹑色的"
+  },
+  {
+    "text": "like",
+    "isDanger": 1,
+    "phonetic": "/laɪk/",
+    "translation": "adj. 类似的",
+    "toggle": "vt. 喜欢；愿意；想"
+  },
+  {
+    "text": "propulsion",
+    "isDanger": 0,
+    "phonetic": "/prəˈpʌlʃ(ə)n/",
+    "translation": "n. 推进力",
+    "toggle": "n. 推进力；推进"
+  },
+  {
+    "text": "utter",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 完全的",
+    "toggle": "vt. 发出，表达；发射"
+  },
+  {
+    "text": "slip",
+    "isDanger": 1,
+    "phonetic": "/slɪp/",
+    "translation": "v. 滑行",
+    "toggle": "vi. 犯错；滑倒；减退；滑动；失足"
+  },
+  {
+    "text": "adverse",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 逆的，相反的",
+    "toggle": "adj. 不利的；相反的；敌对的（名词 adverseness ，副词 adversely ）"
+  },
+  {
+    "text": "omen",
+    "isDanger": 0,
+    "phonetic": "/ˈəʊmən/",
+    "translation": "n. 预兆",
+    "toggle": "n. 预兆；征兆（a good / bad omen）"
+  }
+]

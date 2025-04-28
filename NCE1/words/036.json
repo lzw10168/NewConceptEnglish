@@ -1,0 +1,65 @@
+[
+  {
+    "text": "awful",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːf(ə)l/",
+    "translation": "adj. 让人讨厌的，坏的",
+    "toggle": "adj. 可怕的，吓人的；庄严的，威严的；糟糕的，糟透的（口语）"
+  },
+  {
+    "text": "awfully",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːfli/",
+    "translation": "adv. 可怕地",
+    "toggle": "adv. 非常；很；十分；可怕地"
+  },
+  {
+    "text": "telephone",
+    "isDanger": 1,
+    "phonetic": "/ˈtelɪfəʊn/",
+    "translation": "v. 打电话",
+    "toggle": "n. （美）电话；电话机；电话耳机"
+  },
+  {
+    "text": "time",
+    "isDanger": 1,
+    "phonetic": "/taɪm/",
+    "translation": "n. 次(数)",
+    "toggle": "n. 时间；次数；时代；节拍；倍数"
+  },
+  {
+    "text": "answer",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːnsə(r)/",
+    "translation": "v. 接(电话)",
+    "toggle": "vt. 符合；回答"
+  },
+  {
+    "text": "last",
+    "isDanger": 1,
+    "phonetic": "/lɑːst/",
+    "translation": "adv. 最后的，前一次的",
+    "toggle": "n. 末尾，最后；上个；鞋楦（做鞋的模型）"
+  },
+  {
+    "text": "phone",
+    "isDanger": 0,
+    "phonetic": "/fəʊn/",
+    "translation": "n. 电话(=telephone)",
+    "toggle": "n. 电话；耳机，听筒"
+  },
+  {
+    "text": "again",
+    "isDanger": 0,
+    "phonetic": "/əˈɡen/",
+    "translation": "adv. 又一次地",
+    "toggle": "adv. 再一次；又，此外"
+  },
+  {
+    "text": "say",
+    "isDanger": 1,
+    "phonetic": "/seɪ/",
+    "translation": "v. 说",
+    "toggle": "vt. 讲；说明；指明；假设；例如；声称"
+  }
+]

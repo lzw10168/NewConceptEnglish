@@ -1,0 +1,100 @@
+[
+  {
+    "text": "goodwill",
+    "isDanger": 0,
+    "phonetic": "/ˌɡʊdˈwɪl/",
+    "translation": "n. 友好",
+    "toggle": "n. 好意；商誉；友好"
+  },
+  {
+    "text": "cricket",
+    "isDanger": 0,
+    "phonetic": "/ˈkrɪkɪt/",
+    "translation": "n. 板球",
+    "toggle": "n. 蟋蟀；板球，板球运动"
+  },
+  {
+    "text": "inclination",
+    "isDanger": 0,
+    "phonetic": "/ˌɪnklɪˈneɪʃn/",
+    "translation": "n. 意愿",
+    "toggle": "n. 倾向，爱好；斜坡"
+  },
+  {
+    "text": "contest",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒntest/",
+    "translation": "n. 比赛",
+    "toggle": "vt. 争辩；提出质疑"
+  },
+  {
+    "text": "orgy",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːdʒi/",
+    "translation": "n. 无节制，放荡",
+    "toggle": "n. 狂欢；放荡"
+  },
+  {
+    "text": "deduce",
+    "isDanger": 0,
+    "phonetic": "/dɪˈdjuːs/",
+    "translation": "v. 推断",
+    "toggle": "vt. 推论，推断；演绎出"
+  },
+  {
+    "text": "competitive",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpetətɪv/",
+    "translation": "adj. 竞争性的",
+    "toggle": "adj. 比赛的；竞争的；求胜心切的"
+  },
+  {
+    "text": "patriotism",
+    "isDanger": 0,
+    "phonetic": "/ˈpætriətɪzəm; ˈpeɪtriətɪzəm/",
+    "translation": "n. 地方观念，爱国主义",
+    "toggle": "n. 爱国心，爱国精神；爱国主义"
+  },
+  {
+    "text": "disgrace",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈɡreɪs/",
+    "translation": "v. 使丢脸",
+    "toggle": "n. 耻辱；丢脸的人或事；失宠"
+  },
+  {
+    "text": "savage",
+    "isDanger": 1,
+    "phonetic": "/ˈsævɪdʒ/",
+    "translation": "adj. 野性的",
+    "toggle": "adj. 残酷的；野蛮的；狂怒的；荒凉的"
+  },
+  {
+    "text": "combative",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒmbətɪv/",
+    "translation": "adj. 好斗的",
+    "toggle": "adj. 好战的；好事的"
+  },
+  {
+    "text": "mimic warfare",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪmɪk ˈwɔːfeə(r)/",
+    "translation": "n. 模拟战争",
+    "toggle": "n.模拟战争"
+  },
+  {
+    "text": "behaviour",
+    "isDanger": 0,
+    "phonetic": "/bɪˈheɪvjə(r)/",
+    "translation": "n. 行动，举止",
+    "toggle": "n. 行为；习性；运行状况（等于 behavior ）"
+  },
+  {
+    "text": "absurd",
+    "isDanger": 0,
+    "phonetic": "/əbˈsɜːd/",
+    "translation": "adj. 荒唐的",
+    "toggle": "adj. 荒谬的；可笑的"
+  }
+]

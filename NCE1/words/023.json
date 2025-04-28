@@ -1,0 +1,86 @@
+[
+  {
+    "text": "can",
+    "isDanger": 1,
+    "phonetic": "/kæn/",
+    "translation": "v. 能够",
+    "toggle": "n. 罐头，一罐；金属容器"
+  },
+  {
+    "text": "boss",
+    "isDanger": 0,
+    "phonetic": "/bɒs/",
+    "translation": "n. 老板，上司",
+    "toggle": "n. 老板；工头；首领"
+  },
+  {
+    "text": "minute",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪnɪt/",
+    "translation": "n. 分(钟)",
+    "toggle": "n. 片刻，一会儿；分，分钟；备忘录，笔记；会议记录"
+  },
+  {
+    "text": "second",
+    "isDanger": 0,
+    "phonetic": "/ˈsekənd/",
+    "translation": "n. 秒",
+    "toggle": "n. 秒；瞬间；二等品；第二名"
+  },
+  {
+    "text": "hour",
+    "isDanger": 0,
+    "phonetic": "/ˈaʊə(r)/",
+    "translation": "n. 时",
+    "toggle": "n. 小时；钟头；课时； … 点钟"
+  },
+  {
+    "text": "ask",
+    "isDanger": 1,
+    "phonetic": "/ɑːsk/",
+    "translation": "v. 请求，要求",
+    "toggle": "vt. 问，询问；邀请；要求；需要；讨价"
+  },
+  {
+    "text": "handwriting",
+    "isDanger": 0,
+    "phonetic": "/ˈhændraɪtɪŋ/",
+    "translation": "n. 书写",
+    "toggle": "n. 书法；笔迹；书写；手稿"
+  },
+  {
+    "text": "terrible",
+    "isDanger": 0,
+    "phonetic": "/ˈterəb(ə)l/",
+    "translation": "adj. 糟糕的，可怕的",
+    "toggle": "adj. 可怕的；很糟的；令人讨厌的"
+  },
+  {
+    "text": "answer",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːnsə(r)/",
+    "translation": "v. 回答",
+    "toggle": "vt. 符合；回答"
+  },
+  {
+    "text": "lift",
+    "isDanger": 0,
+    "phonetic": "/lɪft/",
+    "translation": "v. 拿起，搬起，举起",
+    "toggle": "vt. 举起；提升；空运；鼓舞； [ 口 ] 抄袭"
+  },
+  {
+    "text": "cake",
+    "isDanger": 0,
+    "phonetic": "/keɪk/",
+    "translation": "n. 饼，蛋糕",
+    "toggle": "n. 蛋糕；块状物；利益总额"
+  },
+  {
+    "text": "biscuit",
+    "isDanger": 0,
+    "phonetic": "/ˈbɪskɪt/",
+    "translation": "n. 饼干",
+    "toggle": "n. 小点心，饼干"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "monastery",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒnəst(ə)ri/",
+    "translation": "n. 寺院，修道院",
+    "toggle": "n. 修道院；僧侣"
+  },
+  {
+    "text": "St. Bernard",
+    "isDanger": 0,
+    "phonetic": "/,semt-ba'naid/",
+    "translation": "n. 圣伯纳德",
+    "toggle": "n.圣伯纳德(地名)"
+  },
+  {
+    "text": "pass",
+    "isDanger": 1,
+    "phonetic": "/pɑːs/",
+    "translation": "n. 关隘",
+    "toggle": "n. 及格；经过；护照；途径； [ 体 ] 传球； vi. 经过；传递；变化；终止； vt. 通过；经过；传递"
+  },
+  {
+    "text": "watchdog",
+    "isDanger": 0,
+    "phonetic": "/ˈwɒtʃdɒɡ/",
+    "translation": "n. 看门狗",
+    "toggle": "n. 看门狗；监察人；忠实的看守人"
+  },
+  {
+    "text": "rashly",
+    "isDanger": 0,
+    "phonetic": "/ˈræʃli/",
+    "translation": "adv. 莽撞地，冒失地",
+    "toggle": "adv. 轻率地；鲁莽地；无见识地"
+  },
+  {
+    "text": "enclosure",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈkləʊʒə(r)/",
+    "translation": "n. 围场，圈地",
+    "toggle": "n. 附件；围墙；围场"
+  },
+  {
+    "text": "monk",
+    "isDanger": 0,
+    "phonetic": "/mʌŋk/",
+    "translation": "n. 和尚，僧侣",
+    "toggle": "n. 僧侣，修道士；和尚"
+  },
+  {
+    "text": "privacy",
+    "isDanger": 0,
+    "phonetic": "/ˈprɪvəsi/",
+    "translation": "n. 清静，隐居",
+    "toggle": "n. 秘密；隐私；隐居； [ 古 ] 隐居处"
+  },
+  {
+    "text": "skier",
+    "isDanger": 0,
+    "phonetic": "/ˈskiːə(r)/",
+    "translation": "n. 滑雪者",
+    "toggle": "n. 滑雪的人"
+  },
+  {
+    "text": "Easter",
+    "isDanger": 0,
+    "phonetic": "/ˈiːstə(r)/",
+    "translation": "n. 复活节",
+    "toggle": "n. [ 宗 ] 复活节"
+  }
+]

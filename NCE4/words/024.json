@@ -1,0 +1,79 @@
+[
+  {
+    "text": "intense",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtens/",
+    "translation": "adj. 强烈的",
+    "toggle": "adj. 强烈的(intense heat / cold / pain)；紧张的；热情的；非常的"
+  },
+  {
+    "text": "aesthetic",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 审美的",
+    "toggle": "adj. 美的；美学的；审美的，具有审美趣味的"
+  },
+  {
+    "text": "realm",
+    "isDanger": 0,
+    "phonetic": "/relm/",
+    "translation": "n. 世界",
+    "toggle": "n. 领域，范围；王国"
+  },
+  {
+    "text": "serenity",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 静谧",
+    "toggle": "n. 平静，宁静；晴朗，风和日丽"
+  },
+  {
+    "text": "undeniable",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 不可否认的",
+    "toggle": "adj. 不可否认的；公认优秀的；无可争辩的"
+  },
+  {
+    "text": "indefinable",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 模糊不清的",
+    "toggle": "adj.不能下定义的,不确定的"
+  },
+  {
+    "text": "vulgar",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 平庸的",
+    "toggle": "adj. 粗俗的；通俗的；本土的"
+  },
+  {
+    "text": "radiance",
+    "isDanger": 0,
+    "phonetic": "/ˈreɪdiəns/",
+    "translation": "n. 发光",
+    "toggle": "n. 光辉；发光；容光焕发；辐射"
+  },
+  {
+    "text": "intimation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 暗示",
+    "toggle": "n.暗示,正式宣告"
+  },
+  {
+    "text": "unutterable",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 不可言传的",
+    "toggle": ""
+  },
+  {
+    "text": "invest",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 赋予",
+    "toggle": "vt. 投资；耗费；授予；覆盖；包围"
+  }
+]

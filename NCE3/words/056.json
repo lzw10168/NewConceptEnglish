@@ -1,0 +1,170 @@
+[
+  {
+    "text": "boundary",
+    "isDanger": 0,
+    "phonetic": "/ˈbaʊndri/",
+    "translation": "n. 界线；边界",
+    "toggle": "n. 分界线；边界；范围"
+  },
+  {
+    "text": "pump",
+    "isDanger": 0,
+    "phonetic": "/pʌmp/",
+    "translation": "v. 用泵抽",
+    "toggle": "vt. 用抽水机抽 … ；打气"
+  },
+  {
+    "text": "overtake",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈteɪk/",
+    "translation": "v. 突然降临",
+    "toggle": "vt. 赶上；压倒；突然来袭"
+  },
+  {
+    "text": "backwater",
+    "isDanger": 0,
+    "phonetic": "/ˈbækwɔːtə(r)/",
+    "translation": "n. 回水河汊",
+    "toggle": "n. 死水；回水；停滞不进的状态或地方"
+  },
+  {
+    "text": "predecessor",
+    "isDanger": 0,
+    "phonetic": "/ˈpriːdəsesə(r)/",
+    "translation": "n. 前任，前辈",
+    "toggle": "n. 前任，前辈"
+  },
+  {
+    "text": "meadow",
+    "isDanger": 0,
+    "phonetic": "/ˈmedəʊ/",
+    "translation": "n. 草地，草场",
+    "toggle": "n. 草地；牧场"
+  },
+  {
+    "text": "crown",
+    "isDanger": 0,
+    "phonetic": "/kraʊn/",
+    "translation": "v. 给…戴花环",
+    "toggle": "n. 王冠；王权；花冠；顶点"
+  },
+  {
+    "text": "holly",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒli/",
+    "translation": "n. 一种冬青植物",
+    "toggle": "n. 冬青树（等于 holm oak ）"
+  },
+  {
+    "text": "wreath",
+    "isDanger": 0,
+    "phonetic": "/riːθ/",
+    "translation": "n. 花环",
+    "toggle": "n. 花冠；圈状物"
+  },
+  {
+    "text": "occurrence",
+    "isDanger": 0,
+    "phonetic": "/əˈkʌrəns/",
+    "translation": "n. 偶发事件",
+    "toggle": "n. 事件；发生；出现；发现"
+  },
+  {
+    "text": "proportion",
+    "isDanger": 0,
+    "phonetic": "/prəˈpɔːʃ(ə)n/",
+    "translation": "n. 部分",
+    "toggle": "n. 比例；部分；均衡；面积"
+  },
+  {
+    "text": "site",
+    "isDanger": 0,
+    "phonetic": "/saɪt/",
+    "translation": "v. 使位于",
+    "toggle": "n. 地点；场所；位置"
+  },
+  {
+    "text": "spell",
+    "isDanger": 1,
+    "phonetic": "/spel/",
+    "translation": "v. 招致，带来",
+    "toggle": "vt. 拼，拼写；拼成；意味着；迷住；招致；轮值"
+  },
+  {
+    "text": "stall",
+    "isDanger": 0,
+    "phonetic": "/stɔːl/",
+    "translation": "n. 牲口棚",
+    "toggle": "n. 货摊；畜栏；托辞"
+  },
+  {
+    "text": "attic",
+    "isDanger": 0,
+    "phonetic": "/ˈætɪk/",
+    "translation": "n. 顶楼",
+    "toggle": "n. 阁楼；顶楼； [ 解剖学 ] 鼓室上的隐窝"
+  },
+  {
+    "text": "sweeping",
+    "isDanger": 0,
+    "phonetic": "/ˈswiːpɪŋ/",
+    "translation": "adj. 范围广大的",
+    "toggle": "n. 扫除；垃圾"
+  },
+  {
+    "text": "critical",
+    "isDanger": 0,
+    "phonetic": "/ˈkrɪtɪk(ə)l/",
+    "translation": "adj. 危急的",
+    "toggle": "adj. 批评的，爱挑剔的；决定性的；危险的；临界的；鉴定的；评论的"
+  },
+  {
+    "text": "juncture",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒʌŋktʃə(r)/",
+    "translation": "n. 时刻，关头",
+    "toggle": "n. 连接；接合；接缝"
+  },
+  {
+    "text": "raft",
+    "isDanger": 0,
+    "phonetic": "/rɑːft/",
+    "translation": "n. 木筏",
+    "toggle": "n. 筏；救生艇；（美）大量"
+  },
+  {
+    "text": "unduly",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈdjuːli/",
+    "translation": "adv. 过度地",
+    "toggle": "adv. 过度地；不适当地；不正当地"
+  },
+  {
+    "text": "foundations",
+    "isDanger": 0,
+    "phonetic": "/faʊnˈdeɪʃ(ə)nz/",
+    "translation": "n. 地基",
+    "toggle": "n. [建]基础（foundation 的复数）；房基"
+  },
+  {
+    "text": "stoutly",
+    "isDanger": 0,
+    "phonetic": "/ˈstaʊtli/",
+    "translation": "adv. 牢固地，粗壮的",
+    "toggle": "adv.刚强地,坚决地"
+  },
+  {
+    "text": "submerge",
+    "isDanger": 0,
+    "phonetic": "/səbˈmɜːdʒ/",
+    "translation": "v. 浸没",
+    "toggle": "vt. 淹没；把 … 浸入；沉浸"
+  },
+  {
+    "text": "grapple",
+    "isDanger": 0,
+    "phonetic": "/ˈɡræpl/",
+    "translation": "v. 抓住",
+    "toggle": "vi. 抓住；格斗；抓斗机"
+  }
+]

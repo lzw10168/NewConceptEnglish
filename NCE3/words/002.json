@@ -1,0 +1,30 @@
+[
+  {
+    "text": "equal",
+    "isDanger": 1,
+    "phonetic": "/ˈiːkwəl/",
+    "translation": "v. 等于",
+    "toggle": "adj. 相等的；胜任的；平等的"
+  },
+  {
+    "text": "raise",
+    "isDanger": 1,
+    "phonetic": "/reɪz/",
+    "translation": "v. 募集，筹(款)",
+    "toggle": "vt. 提高；筹集；养育；升起"
+  },
+  {
+    "text": "vicar",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪkə(r)/",
+    "translation": "n. 牧师",
+    "toggle": "n. 教区牧师，教堂牧师；传教牧师；代理人"
+  },
+  {
+    "text": "torchlight",
+    "isDanger": 0,
+    "phonetic": "/ˈtɔːtʃlaɪt/",
+    "translation": "n. 电筒光",
+    "toggle": "n. 火炬之光；手电筒的光"
+  }
+]

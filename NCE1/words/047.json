@@ -1,0 +1,114 @@
+[
+  {
+    "text": "pilot",
+    "isDanger": 0,
+    "phonetic": "/ˈpaɪlət/",
+    "translation": "n. 飞行员",
+    "toggle": "n. 领航员；飞行员"
+  },
+  {
+    "text": "return",
+    "isDanger": 1,
+    "phonetic": "/rɪˈtɜːn/",
+    "translation": "v. 返回",
+    "toggle": "vt. 返回；报答； n. 返回；归还；回球； vi. 返回；报答； adj. 报答的；回程的；返回的"
+  },
+  {
+    "text": "New York",
+    "isDanger": 0,
+    "phonetic": "/njuː jɔːk/",
+    "translation": "n. 纽约",
+    "toggle": "纽约"
+  },
+  {
+    "text": "Tokyo",
+    "isDanger": 0,
+    "phonetic": "/ˈtəʊkiəʊ/",
+    "translation": "n. 东京",
+    "toggle": "n.东京(日本首都)"
+  },
+  {
+    "text": "Madrid",
+    "isDanger": 0,
+    "phonetic": "/məˈdrɪd/",
+    "translation": "n. 马德里",
+    "toggle": "n.马德里(西班牙首都)"
+  },
+  {
+    "text": "fly",
+    "isDanger": 1,
+    "phonetic": "/flaɪ/",
+    "translation": "v. 飞行",
+    "toggle": "vi. 飞；飘扬；驾驶飞机"
+  },
+  {
+    "text": "Athens",
+    "isDanger": 0,
+    "phonetic": "/ˈæθɪnz/",
+    "translation": "n. 雅典",
+    "toggle": "n.雅典(希腊首都)"
+  },
+  {
+    "text": "Berlin",
+    "isDanger": 0,
+    "phonetic": "/bɜːˈlɪn/",
+    "translation": "n. 柏林",
+    "toggle": "柏林"
+  },
+  {
+    "text": "Bahrain",
+    "isDanger": 0,
+    "phonetic": "/bɑːˈreɪn/",
+    "translation": "n. 巴林",
+    "toggle": "巴林"
+  },
+  {
+    "text": "Bombay",
+    "isDanger": 0,
+    "phonetic": "/bɒmˈbeɪ/",
+    "translation": "n. 孟买",
+    "toggle": "孟买(印度马哈拉施特拉邦首府)"
+  },
+  {
+    "text": "Geneva",
+    "isDanger": 0,
+    "phonetic": "/dʒɪˈniːvə/",
+    "translation": "n. 日内瓦",
+    "toggle": "n.日内瓦"
+  },
+  {
+    "text": "Moscow",
+    "isDanger": 0,
+    "phonetic": "/ˈmɒskəʊ/",
+    "translation": "n. 莫斯科",
+    "toggle": "n.莫斯科"
+  },
+  {
+    "text": "Rome",
+    "isDanger": 0,
+    "phonetic": "/rəʊm/",
+    "translation": "n. 罗马",
+    "toggle": "罗马"
+  },
+  {
+    "text": "Seoul",
+    "isDanger": 0,
+    "phonetic": "/səʊl/",
+    "translation": "n. 汉城",
+    "toggle": "n. 汉城，首尔（韩国首都）"
+  },
+  {
+    "text": "Stockholm",
+    "isDanger": 0,
+    "phonetic": "/ˈstɒkhəʊm/",
+    "translation": "n. 斯德哥尔摩",
+    "toggle": "斯德哥尔摩"
+  },
+  {
+    "text": "Sydney",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪdni/",
+    "translation": "n. 悉尼",
+    "toggle": "悉尼"
+  }
+]

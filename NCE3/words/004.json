@@ -1,0 +1,72 @@
+[
+  {
+    "text": "manual",
+    "isDanger": 0,
+    "phonetic": "/ˈmænjuəl/",
+    "translation": "adj. 体力的",
+    "toggle": "adj. 体力的；手工的"
+  },
+  {
+    "text": "collar",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒlə(r)/",
+    "translation": "n. 衣领",
+    "toggle": "n. 衣领；颈圈"
+  },
+  {
+    "text": "sacrifice",
+    "isDanger": 0,
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "translation": "v. 牺牲，献岀",
+    "toggle": "n. 牺牲；供奉；祭品"
+  },
+  {
+    "text": "privilege",
+    "isDanger": 0,
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "translation": "n. 好处",
+    "toggle": "n. 特权；优待；基本权利"
+  },
+  {
+    "text": "dustman",
+    "isDanger": 0,
+    "phonetic": "/ˈdʌstmən/",
+    "translation": "n. 清洁工",
+    "toggle": "n. 清洁工人"
+  },
+  {
+    "text": "corporation",
+    "isDanger": 0,
+    "phonetic": "/ˌkɔːpəˈreɪʃ(ə)n/",
+    "translation": "n. 公司",
+    "toggle": "n. 公司；社团；法人（团体）； [ 口 ] 大腹便便；市政当局"
+  },
+  {
+    "text": "overalls",
+    "isDanger": 0,
+    "phonetic": "/ˈəʊvərɔːlz/",
+    "translation": "n. 工作服",
+    "toggle": "n. [服装] 工装裤；工作裤"
+  },
+  {
+    "text": "shower",
+    "isDanger": 0,
+    "phonetic": "/ˈʃaʊə(r)/",
+    "translation": "n. 淋浴",
+    "toggle": "n. 淋浴；阵雨；（倾泻般出现的）一阵，一大批"
+  },
+  {
+    "text": "secret",
+    "isDanger": 0,
+    "phonetic": "/ˈsiːkrət/",
+    "translation": "n. 秘密",
+    "toggle": "n. 秘密；秘诀；机密"
+  },
+  {
+    "text": "status",
+    "isDanger": 0,
+    "phonetic": "/ˈsteɪtəs/",
+    "translation": "n. 地位",
+    "toggle": "n. 地位；情形；状态；重要身分"
+  }
+]

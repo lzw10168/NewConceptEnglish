@@ -1,0 +1,135 @@
+[
+  {
+    "text": "give",
+    "isDanger": 1,
+    "phonetic": "/ɡɪv/",
+    "translation": "v. 给",
+    "toggle": "vt. 给；授予；让步；产生；举办"
+  },
+  {
+    "text": "one",
+    "isDanger": 1,
+    "phonetic": "/wʌn/",
+    "translation": "pron. 一个",
+    "toggle": "pron. 任何人；一个人"
+  },
+  {
+    "text": "which",
+    "isDanger": 1,
+    "phonetic": "/wɪtʃ/",
+    "translation": "pron. 哪一个",
+    "toggle": "pron. 哪 / 那一个；哪 / 那一些"
+  },
+  {
+    "text": "empty",
+    "isDanger": 0,
+    "phonetic": "/ˈempti/",
+    "translation": "adj. 空的",
+    "toggle": "adj. 空的；无意义的；徒劳的；无知的"
+  },
+  {
+    "text": "full",
+    "isDanger": 1,
+    "phonetic": "/fʊl/",
+    "translation": "adj. 满的",
+    "toggle": "adj. 完全的，完整的；满的，充满的；丰满的；丰富的；详尽的；完美的"
+  },
+  {
+    "text": "large",
+    "isDanger": 0,
+    "phonetic": "/lɑːdʒ/",
+    "translation": "adj. 大的",
+    "toggle": "adj. 大的；广博的；多数的"
+  },
+  {
+    "text": "little",
+    "isDanger": 1,
+    "phonetic": "/ˈlɪt(ə)l/",
+    "translation": "adj. 小的",
+    "toggle": "adj. 小的；短暂的；很少的；小巧可爱的"
+  },
+  {
+    "text": "sharp",
+    "isDanger": 1,
+    "phonetic": "/ʃɑːp/",
+    "translation": "adj. 尖的，锋利的",
+    "toggle": "adj. 急剧的；锋利的；刺耳的；敏捷的；强烈的"
+  },
+  {
+    "text": "blunt",
+    "isDanger": 0,
+    "phonetic": "/blʌnt/",
+    "translation": "adj. 钝的",
+    "toggle": "adj. 钝的，不锋利的；生硬的；直率的"
+  },
+  {
+    "text": "small",
+    "isDanger": 0,
+    "phonetic": "/smɔːl/",
+    "translation": "adj. 小的",
+    "toggle": "adj. 少的，小的；不重要的；几乎没有的；微弱的；幼小的"
+  },
+  {
+    "text": "big",
+    "isDanger": 1,
+    "phonetic": "/bɪɡ/",
+    "translation": "adj. 大的",
+    "toggle": "adj. 大的；重要的；量大的"
+  },
+  {
+    "text": "box",
+    "isDanger": 0,
+    "phonetic": "/bɒks/",
+    "translation": "n. 盒子，箱子",
+    "toggle": "n. 箱，盒子；包厢；一拳"
+  },
+  {
+    "text": "glass",
+    "isDanger": 0,
+    "phonetic": "/ɡlɑːs/",
+    "translation": "n. 杯子",
+    "toggle": "n. 玻璃；镜子；玻璃制品"
+  },
+  {
+    "text": "cup",
+    "isDanger": 0,
+    "phonetic": "/kʌp/",
+    "translation": "n. 茶杯",
+    "toggle": "n. 杯子；奖杯；酒杯"
+  },
+  {
+    "text": "bottle",
+    "isDanger": 0,
+    "phonetic": "/ˈbɒt(ə)l/",
+    "translation": "n. 瓶子",
+    "toggle": "n. 瓶子；一瓶的容量"
+  },
+  {
+    "text": "tin",
+    "isDanger": 0,
+    "phonetic": "/tɪn/",
+    "translation": "n. 罐头",
+    "toggle": "n. 锡；罐头，罐；马口铁"
+  },
+  {
+    "text": "knife",
+    "isDanger": 0,
+    "phonetic": "/naɪf/",
+    "translation": "n. 刀子",
+    "toggle": "n. 刀；匕首"
+  },
+  {
+    "text": "fork",
+    "isDanger": 0,
+    "phonetic": "/fɔːk/",
+    "translation": "n. 叉子",
+    "toggle": "n. 餐叉；叉；耙"
+  },
+  {
+    "text": "chopsticks",
+    "isDanger": 0,
+    "phonetic": "/ˈtʃɒpstɪks/",
+    "translation": "n. 筷子",
+    "toggle": "n.筷子"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "text": "supreme",
+    "isDanger": 0,
+    "phonetic": "/suːˈpriːm; sjuːˈpriːm/",
+    "translation": "adj. 首屈一指",
+    "toggle": "adj. 最高的；至高的；最重要的"
+  },
+  {
+    "text": "protagonist",
+    "isDanger": 0,
+    "phonetic": "/prəˈtæɡənɪst/",
+    "translation": "n. 主角",
+    "toggle": "n. 主角，主演；主要人物，领导者"
+  },
+  {
+    "text": "outlaw",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 逃犯，亡命之徒",
+    "toggle": "n. 歹徒；罪犯；亡命之徒；被剥夺法律保护者"
+  },
+  {
+    "text": "framed",
+    "isDanger": 0,
+    "phonetic": "/freɪmd/",
+    "translation": "adj. 遭到陷害的",
+    "toggle": "adj. 遭到陷害的；有构架的"
+  },
+  {
+    "text": "vicious",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 恶毒的",
+    "toggle": "adj. 堕落的；恶毒的；有错误的；恶意的；品性不端的；剧烈的"
+  },
+  {
+    "text": "mythology",
+    "isDanger": 0,
+    "phonetic": "/mɪˈθɒlədʒi/",
+    "translation": "n. 神话",
+    "toggle": "n. 神话；神话学；神话集"
+  },
+  {
+    "text": "vanished",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 消失了的",
+    "toggle": "n. 销声匿迹，无影无踪（美国电视连续剧剧名）"
+  },
+  {
+    "text": "absurdly",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adv. 荒诞地",
+    "toggle": "adv. 愚蠢地；荒谬地；悖理地"
+  },
+  {
+    "text": "arena",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 竞技场在",
+    "toggle": "n. 竞技场；舞台"
+  },
+  {
+    "text": "encroaching",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 渐渐渗入的",
+    "toggle": ""
+  },
+  {
+    "text": "Indian",
+    "isDanger": 0,
+    "phonetic": "/ˈɪndiən/",
+    "translation": "n. 印第安人",
+    "toggle": "adj. 印度的；印第安人的；印第安语的"
+  },
+  {
+    "text": "bewilder",
+    "isDanger": 0,
+    "phonetic": "/bɪˈwɪldə(r)/",
+    "translation": "v. 使手足无措",
+    "toggle": "v.使迷惑，使糊涂"
+  },
+  {
+    "text": "alien",
+    "isDanger": 1,
+    "phonetic": "/ˈeɪliən/",
+    "translation": "adj. 外来的",
+    "toggle": "adj. 外国的；相异的，性质不同的；不相容的"
+  },
+  {
+    "text": "taboo",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 戒律",
+    "toggle": "n. 禁忌；禁止"
+  },
+  {
+    "text": "disinherit",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 剥夺...继承权",
+    "toggle": ""
+  },
+  {
+    "text": "undeclared",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 未经宣布的",
+    "toggle": ""
+  },
+  {
+    "text": "hypocrisy",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 伪善",
+    "toggle": "n. 虚伪；伪善"
+  },
+  {
+    "text": "chicanery",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 诈骗",
+    "toggle": "n.强辩,强词夺理,狡辩,欺骗"
+  },
+  {
+    "text": "impending",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 迫近的，近在眉睫的",
+    "toggle": "adj. 即将发生的；悬挂的；迫切的"
+  },
+  {
+    "text": "immolation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 杀戮",
+    "toggle": "n.宰杀,祭物"
+  },
+  {
+    "text": "code",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 准则",
+    "toggle": "n. 代码，密码；法典；编码"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "appreciate",
+    "isDanger": 1,
+    "phonetic": "/əˈpriːʃieɪt/",
+    "translation": "v. 欣赏，感激",
+    "toggle": "vt. 欣赏(appreciate music)；感激；鉴别(appreciate wine)；领会"
+  },
+  {
+    "text": "pocket money",
+    "isDanger": 0,
+    "phonetic": "/ˈpɒkɪt mʌni/",
+    "translation": "n. 零用钱",
+    "toggle": "n.零用钱"
+  },
+  {
+    "text": "rattle",
+    "isDanger": 1,
+    "phonetic": "/ˈræt(ə)l/",
+    "translation": "v. 格格作响",
+    "toggle": "vt. 使发出咯咯声；喋喋不休；使慌乱，使惊慌"
+  },
+  {
+    "text": "thrifty",
+    "isDanger": 0,
+    "phonetic": "/ˈθrɪfti/",
+    "translation": "adj. 节俭的",
+    "toggle": "adj. 节俭的，节约的"
+  },
+  {
+    "text": "nephew",
+    "isDanger": 0,
+    "phonetic": "/ˈnefjuː/",
+    "translation": "n. 侄子，外甥",
+    "toggle": "n. 侄子；外甥"
+  },
+  {
+    "text": "bounce",
+    "isDanger": 0,
+    "phonetic": "/baʊns/",
+    "translation": "v. 弹起，跳起",
+    "toggle": "n. 弹力；活力；跳"
+  },
+  {
+    "text": "pavement",
+    "isDanger": 0,
+    "phonetic": "/ˈpeɪvmənt/",
+    "translation": "n. 人行道",
+    "toggle": "n. 人行道"
+  },
+  {
+    "text": "stick",
+    "isDanger": 1,
+    "phonetic": "/stɪk/",
+    "translation": "v. 卡住，夹住，不能再动",
+    "toggle": "vt. 粘贴；刺，戳；伸出"
+  },
+  {
+    "text": "brigade",
+    "isDanger": 0,
+    "phonetic": "/brɪˈɡeɪd/",
+    "translation": "n. 旅，(消防)队",
+    "toggle": "n. 旅；大部队；队列"
+  },
+  {
+    "text": "grease",
+    "isDanger": 0,
+    "phonetic": "/ɡriːs/",
+    "translation": "n. 润滑油",
+    "toggle": "vt. 涂脂于；贿赂"
+  }
+]

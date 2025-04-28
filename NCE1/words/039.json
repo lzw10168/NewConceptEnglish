@@ -1,0 +1,58 @@
+[
+  {
+    "text": "appointment",
+    "isDanger": 0,
+    "phonetic": "/əˈpɔɪntmənt/",
+    "translation": "n. 约会，预约",
+    "toggle": "n. 任命；约定；任命的职位"
+  },
+  {
+    "text": "booking",
+    "isDanger": 0,
+    "phonetic": "/ˈbʊkɪŋ/",
+    "translation": "n. 预定",
+    "toggle": "n. 预订；预约；演出契约"
+  },
+  {
+    "text": "date",
+    "isDanger": 0,
+    "phonetic": "/deɪt/",
+    "translation": "n. 约会",
+    "toggle": "n. 日期；约会；年代；枣椰子"
+  },
+  {
+    "text": "till",
+    "isDanger": 1,
+    "phonetic": "/tɪl/",
+    "translation": "prep. 直到…为止",
+    "toggle": "n. 放钱的抽屉；备用现金；冰碛"
+  },
+  {
+    "text": "still",
+    "isDanger": 1,
+    "phonetic": "/stɪl/",
+    "translation": "adv. 仍然",
+    "toggle": "adv. 更；仍然；静止地"
+  },
+  {
+    "text": "until",
+    "isDanger": 1,
+    "phonetic": "/ʌnˈtɪl/",
+    "translation": "prep. 直到……为止",
+    "toggle": "conj. 在 … 以前；直到 … 时"
+  },
+  {
+    "text": "til",
+    "isDanger": 0,
+    "phonetic": "/tɪl/",
+    "translation": "n. 芝麻",
+    "toggle": "n. 胡麻"
+  },
+  {
+    "text": "urgent",
+    "isDanger": 0,
+    "phonetic": "/ˈɜːdʒənt/",
+    "translation": "adj. 紧急的，急迫的",
+    "toggle": "adj. 紧急的；急迫的"
+  }
+]

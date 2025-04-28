@@ -1,0 +1,121 @@
+[
+  {
+    "text": "live",
+    "isDanger": 1,
+    "phonetic": "/lɪv/",
+    "translation": "v. 住，生活",
+    "toggle": "adj. 活的；实况转播的；精力充沛的；生动的"
+  },
+  {
+    "text": "love",
+    "isDanger": 1,
+    "phonetic": "/lʌv/",
+    "translation": "v. 爱",
+    "toggle": "n. 恋爱；酷爱；亲爱的；喜爱的事物"
+  },
+  {
+    "text": "lie",
+    "isDanger": 1,
+    "phonetic": "/laɪ/",
+    "translation": "v. 躺",
+    "toggle": "vi. 说谎；位于；躺；展现"
+  },
+  {
+    "text": "living",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪvɪŋ/",
+    "translation": "n. 生活",
+    "toggle": "adj. 活的；现存的；活跃的；逼真的"
+  },
+  {
+    "text": "stay",
+    "isDanger": 0,
+    "phonetic": "/steɪ/",
+    "translation": "v. 呆在，停留",
+    "toggle": "vi. 停留；暂住；停下；坚持"
+  },
+  {
+    "text": "say",
+    "isDanger": 1,
+    "phonetic": "/seɪ/",
+    "translation": "v. 说",
+    "toggle": "vt. 讲；说明；指明；假设；例如；声称"
+  },
+  {
+    "text": "home",
+    "isDanger": 1,
+    "phonetic": "/həʊm/",
+    "translation": "adv. 在家，到家",
+    "toggle": "n. 家，住宅；家乡；产地；避难所"
+  },
+  {
+    "text": "housework",
+    "isDanger": 0,
+    "phonetic": "/ˈhaʊswɜːk/",
+    "translation": "n. 家务",
+    "toggle": "n. 家务事"
+  },
+  {
+    "text": "lunch",
+    "isDanger": 0,
+    "phonetic": "/lʌntʃ/",
+    "translation": "n. 午饭",
+    "toggle": "n. 午餐"
+  },
+  {
+    "text": "afternoon",
+    "isDanger": 0,
+    "phonetic": "/ˌɑːftəˈnuːn/",
+    "translation": "n. 下午",
+    "toggle": "n. 午后，下午"
+  },
+  {
+    "text": "morning",
+    "isDanger": 0,
+    "phonetic": "/ˈmɔːnɪŋ/",
+    "translation": "n. 早晨",
+    "toggle": "n. 早晨； [ 诗 ] 初期；黎明"
+  },
+  {
+    "text": "usually",
+    "isDanger": 0,
+    "phonetic": "/ˈjuːʒuəli/",
+    "translation": "adv. 通常",
+    "toggle": "adv. 通常，经常"
+  },
+  {
+    "text": "together",
+    "isDanger": 0,
+    "phonetic": "/təˈɡeðə(r)/",
+    "translation": "adv. 一起",
+    "toggle": "adv. 一起；总共；同时；连续地；相互"
+  },
+  {
+    "text": "evening",
+    "isDanger": 0,
+    "phonetic": "/ˈiːvnɪŋ/",
+    "translation": "n. 晚上",
+    "toggle": "n. 傍晚；晚上；后期；（联欢性的）晚会"
+  },
+  {
+    "text": "arrive",
+    "isDanger": 0,
+    "phonetic": "/əˈraɪv/",
+    "translation": "v. 到达",
+    "toggle": "vi. 到达；成功；出生；达成"
+  },
+  {
+    "text": "depart",
+    "isDanger": 0,
+    "phonetic": "/dɪˈpɑːt/",
+    "translation": "v. 出发",
+    "toggle": "vi. 离开；出发，起程；违反；去世"
+  },
+  {
+    "text": "night",
+    "isDanger": 1,
+    "phonetic": "/naɪt/",
+    "translation": "n. 夜间",
+    "toggle": "n. 夜晚，晚上；黑暗，黑夜"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "text": "current",
+    "isDanger": 1,
+    "phonetic": "/ˈkʌrənt/",
+    "translation": "adj. 通用的，流行的",
+    "toggle": "adj. 现在的；最近的；草写的；流通的，通用的"
+  },
+  {
+    "text": "account",
+    "isDanger": 0,
+    "phonetic": "/əˈkaʊnt/",
+    "translation": "n. 账户",
+    "toggle": "n. 帐目，帐单；理由；帐户；解释"
+  },
+  {
+    "text": "cash",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 现金",
+    "toggle": "n. 现款，现金"
+  },
+  {
+    "text": "cheque",
+    "isDanger": 0,
+    "phonetic": "/tʃek/",
+    "translation": "n. 支票",
+    "toggle": "n.支票"
+  },
+  {
+    "text": "debtor",
+    "isDanger": 0,
+    "phonetic": "/ˈdetə(r)/",
+    "translation": "n. 借方",
+    "toggle": "n. 债务人；借方"
+  },
+  {
+    "text": "creditor",
+    "isDanger": 0,
+    "phonetic": "/ˈkredɪtə(r)/",
+    "translation": "n. 贷方",
+    "toggle": "n. 债权人，贷方"
+  },
+  {
+    "text": "obligation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 义务",
+    "toggle": "n. 义务；职责；债务"
+  },
+  {
+    "text": "complication",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 纠纷",
+    "toggle": "n. 混乱；复杂；复杂化； [ 医 ] 并发症"
+  },
+  {
+    "text": "debit",
+    "isDanger": 0,
+    "phonetic": "/ˈdebɪt/",
+    "translation": "v. 把...记入借方",
+    "toggle": "n.借记，借方；借项，借款"
+  },
+  {
+    "text": "specimen",
+    "isDanger": 0,
+    "phonetic": "/ˈspesɪmən/",
+    "translation": "n. 样本",
+    "toggle": "n. 标本；样品，样本"
+  },
+  {
+    "text": "forge",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 伪造",
+    "toggle": "n. 熔炉，锻铁炉；铁工厂"
+  },
+  {
+    "text": "forgery",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 伪造（文件，签名等）",
+    "toggle": "n. 伪造；伪造罪；伪造物"
+  },
+  {
+    "text": "adopt",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 采用",
+    "toggle": "vt. 收养；采取；接受；正式通过"
+  },
+  {
+    "text": "facilitate",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 使便利",
+    "toggle": "vt. 促进；帮助；使容易"
+  }
+]

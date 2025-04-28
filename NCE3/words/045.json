@@ -1,0 +1,100 @@
+[
+  {
+    "text": "democratic",
+    "isDanger": 0,
+    "phonetic": "/ˌdeməˈkrætɪk/",
+    "translation": "adj. 民主的",
+    "toggle": "adj. 民主的；民主政治的；大众的"
+  },
+  {
+    "text": "restrict",
+    "isDanger": 0,
+    "phonetic": "/rɪˈstrɪkt/",
+    "translation": "v. 限制",
+    "toggle": "vt. 限制；限定；约束"
+  },
+  {
+    "text": "abuse",
+    "isDanger": 0,
+    "phonetic": "/əˈbjuːs/",
+    "translation": "v. 滥用",
+    "toggle": "n. 滥用；辱骂；虐待；弊端；恶习，陋习"
+  },
+  {
+    "text": "contention",
+    "isDanger": 0,
+    "phonetic": "/kənˈtenʃ(ə)n/",
+    "translation": "n. 论点",
+    "toggle": "n. 争论，争辩；争夺；论点"
+  },
+  {
+    "text": "quintuplet",
+    "isDanger": 0,
+    "phonetic": "/ˈkwɪntʊplət/",
+    "translation": "n. 五胞胎之一",
+    "toggle": "n.五个一组,五件一套"
+  },
+  {
+    "text": "obscurity",
+    "isDanger": 0,
+    "phonetic": "/əbˈskjʊərəti/",
+    "translation": "n. 默默无闻",
+    "toggle": "n. 阴暗；身份低微；不分明；朦胧；晦涩"
+  },
+  {
+    "text": "radically",
+    "isDanger": 0,
+    "phonetic": "/ˈrædɪkli/",
+    "translation": "adv. 彻底地，完全地",
+    "toggle": "adv. 根本上；彻底地；以激进的方式"
+  },
+  {
+    "text": "exclusive",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈskluːsɪv/",
+    "translation": "adj. 独占的，独家的",
+    "toggle": "adj. 排外的；独有的；专一的"
+  },
+  {
+    "text": "untold",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnˈtəʊld/",
+    "translation": "adj. 数不尽的，无限的",
+    "toggle": "adj. 未说过的；未透露的；数不清的；无限的"
+  },
+  {
+    "text": "South Dakota",
+    "isDanger": 0,
+    "phonetic": "/saʊθ dəˈkəʊtə/",
+    "translation": "n. 南达科他州（美国）",
+    "toggle": "n.南达科塔（美国）"
+  },
+  {
+    "text": "perpetual",
+    "isDanger": 0,
+    "phonetic": "/pəˈpetʃuəl/",
+    "translation": "adj. 永久的",
+    "toggle": "adj. 永久的；四季开花的；不断的；无期限的"
+  },
+  {
+    "text": "nursery",
+    "isDanger": 0,
+    "phonetic": "/ˈnɜːsəri/",
+    "translation": "n. 育婴室，保育室",
+    "toggle": "n. 托儿所；苗圃；温床"
+  },
+  {
+    "text": "commercialization",
+    "isDanger": 0,
+    "phonetic": "/kəˌmɜːʃəlaɪˈzeɪʃn/",
+    "translation": "n. 商品化",
+    "toggle": "n. 商品化，商业化"
+  },
+  {
+    "text": "commodity",
+    "isDanger": 0,
+    "phonetic": "/kəˈmɒdəti/",
+    "translation": "n. 商品",
+    "toggle": "n. 日用品；商品，货物(agricultural commodities 农产品)"
+  }
+]

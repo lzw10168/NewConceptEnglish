@@ -1,0 +1,107 @@
+[
+  {
+    "text": "puma",
+    "isDanger": 0,
+    "phonetic": "/ˈpjuːmə/",
+    "translation": "n. 美洲狮",
+    "toggle": "n. 美洲狮、彪马(服务品牌)"
+  },
+  {
+    "text": "spot",
+    "isDanger": 1,
+    "phonetic": "/spɒt/",
+    "translation": "v. 看出，发现",
+    "toggle": "n. 斑点；地点"
+  },
+  {
+    "text": "corner",
+    "isDanger": 0,
+    "phonetic": "/ˈkɔːnə(r)/",
+    "translation": "v. 使走投无路，使陷入困境",
+    "toggle": "n. 角落，拐角处；困境，窘境；地区，偏僻处"
+  },
+  {
+    "text": "trail",
+    "isDanger": 0,
+    "phonetic": "/treɪl/",
+    "translation": "n. ―串，一系列",
+    "toggle": "vt. 拖；追踪；蔓延；落后于"
+  },
+  {
+    "text": "evidence",
+    "isDanger": 0,
+    "phonetic": "/ˈevɪdəns/",
+    "translation": "n. 证据",
+    "toggle": "n. 证据，证明；迹象；明显"
+  },
+  {
+    "text": "accumulate",
+    "isDanger": 1,
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "translation": "v. 积累，积聚",
+    "toggle": "vi. 累积；积聚"
+  },
+  {
+    "text": "print",
+    "isDanger": 0,
+    "phonetic": "/prɪnt/",
+    "translation": "n. 印痕",
+    "toggle": "n. 印刷业；印刷字体；印记；印花布；印章"
+  },
+  {
+    "text": "cling",
+    "isDanger": 0,
+    "phonetic": "/klɪŋ/",
+    "translation": "v. 粘",
+    "toggle": "vi. 坚持，墨守；紧贴；附着"
+  },
+  {
+    "text": "convince",
+    "isDanger": 1,
+    "phonetic": "/kənˈvɪns/",
+    "translation": "v. 使...信服",
+    "toggle": "vt. 使确信，使信服；说服"
+  },
+  {
+    "text": "oblige",
+    "isDanger": 0,
+    "phonetic": "/əˈblaɪdʒ/",
+    "translation": "v. 使...感到必须",
+    "toggle": "vt. 强制；赐，施恩惠；迫使；责成"
+  },
+  {
+    "text": "hunt",
+    "isDanger": 0,
+    "phonetic": "/hʌnt/",
+    "translation": "n. 追猎；寻找",
+    "toggle": "vt. 搜索；打猎"
+  },
+  {
+    "text": "blackberry",
+    "isDanger": 0,
+    "phonetic": "/ˈblækbəri/",
+    "translation": "n. 黑莓",
+    "toggle": "n. 黑莓"
+  },
+  {
+    "text": "somehow",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmhaʊ/",
+    "translation": "adv. 不知怎么搞地，不知什么原因",
+    "toggle": "adv. 莫明其妙地；以某种方法"
+  },
+  {
+    "text": "human being",
+    "isDanger": 0,
+    "phonetic": "/ˈhjuːmən ˈbiːɪŋ/",
+    "translation": "n. 人类",
+    "toggle": "人类，人类的一员"
+  },
+  {
+    "text": "disturb",
+    "isDanger": 1,
+    "phonetic": "/dɪˈstɜːb/",
+    "translation": "v. 令人不安",
+    "toggle": "vt. 打扰；妨碍；弄乱；使不安；使恼怒"
+  }
+]

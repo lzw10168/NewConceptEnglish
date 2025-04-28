@@ -1,0 +1,261 @@
+[
+  {
+    "text": "Greece",
+    "isDanger": 0,
+    "phonetic": "/ɡriːs/",
+    "translation": "n. 希腊",
+    "toggle": "n.希腊（欧洲南部国家）"
+  },
+  {
+    "text": "climate",
+    "isDanger": 1,
+    "phonetic": "/ˈklaɪmət/",
+    "translation": "n. 气候",
+    "toggle": "n. 气候；风气；思潮；风土"
+  },
+  {
+    "text": "country",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌntri/",
+    "translation": "n. 国家",
+    "toggle": "n. 国家；故乡"
+  },
+  {
+    "text": "pleasant",
+    "isDanger": 1,
+    "phonetic": "/ˈplez(ə)nt/",
+    "translation": "adj. 宜人的",
+    "toggle": "adj. 令人愉快的，舒适的；讨人喜欢的，和蔼可亲的"
+  },
+  {
+    "text": "weather",
+    "isDanger": 1,
+    "phonetic": "/ˈweðə(r)/",
+    "translation": "n. 天气",
+    "toggle": "n. 天气；气象；处境；气候"
+  },
+  {
+    "text": "spring",
+    "isDanger": 1,
+    "phonetic": "/sprɪŋ/",
+    "translation": "n. 春季",
+    "toggle": "n. 春天；弹簧；泉水；跳跃；活力"
+  },
+  {
+    "text": "windy",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪndi/",
+    "translation": "adj. 有风的",
+    "toggle": "adj. 多风的，有风的；腹胀的；吹牛的"
+  },
+  {
+    "text": "warm",
+    "isDanger": 1,
+    "phonetic": "/wɔːm/",
+    "translation": "adj. 温暖的",
+    "toggle": "adj. 温暖的；热情的"
+  },
+  {
+    "text": "rain",
+    "isDanger": 1,
+    "phonetic": "/reɪn/",
+    "translation": "v. 下雨",
+    "toggle": "n. 雨；雨天；雨季；下雨"
+  },
+  {
+    "text": "sometimes",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "translation": "adv. 有时",
+    "toggle": "adv. 有时，间或"
+  },
+  {
+    "text": "summer",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmə(r)/",
+    "translation": "n. 夏天",
+    "toggle": "n. 夏季；全盛时期"
+  },
+  {
+    "text": "autumn",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːtəm/",
+    "translation": "n. 秋天",
+    "toggle": "n. 秋天；成熟期；渐衰期，凋落期"
+  },
+  {
+    "text": "winter",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪntə(r)/",
+    "translation": "n. 冬天",
+    "toggle": "n. 冬季；年岁；萧条期"
+  },
+  {
+    "text": "snow",
+    "isDanger": 0,
+    "phonetic": "/snəʊ/",
+    "translation": "v. 下雪",
+    "toggle": "n. 雪，积雪；下雪"
+  },
+  {
+    "text": "January",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒænjuəri/",
+    "translation": "n. 一月",
+    "toggle": "n.一月(略作Jan)"
+  },
+  {
+    "text": "February",
+    "isDanger": 0,
+    "phonetic": "/ˈfebruəri/",
+    "translation": "n. 二月",
+    "toggle": "n.二月(略作Feb)"
+  },
+  {
+    "text": "march",
+    "isDanger": 0,
+    "phonetic": "/mɑːtʃ/",
+    "translation": "n. 三月",
+    "toggle": "n. 进行曲；行军，进军；示威游行"
+  },
+  {
+    "text": "April",
+    "isDanger": 0,
+    "phonetic": "/ˈeɪprəl/",
+    "translation": "n. 四月",
+    "toggle": "n.四月(略作Apr)"
+  },
+  {
+    "text": "may",
+    "isDanger": 1,
+    "phonetic": "/may/",
+    "translation": "n. 五月",
+    "toggle": "aux. 可能，可以；愿意"
+  },
+  {
+    "text": "June",
+    "isDanger": 0,
+    "phonetic": "/dʒuːn/",
+    "translation": "n. 六月",
+    "toggle": "n.六月(略作Jun)"
+  },
+  {
+    "text": "July",
+    "isDanger": 0,
+    "phonetic": "/dʒʊˈlaɪ/",
+    "translation": "n. 七月",
+    "toggle": "n.七月(略作Jul)"
+  },
+  {
+    "text": "august",
+    "isDanger": 0,
+    "phonetic": "/ɔːˈɡʌst/",
+    "translation": "n. 八月",
+    "toggle": "adj.令人敬畏的,威严的n.八月(略作Aug) August 八月"
+  },
+  {
+    "text": "September",
+    "isDanger": 0,
+    "phonetic": "/sepˈtembə(r)/",
+    "translation": "n. 九月",
+    "toggle": "n.九月(略作Sep)"
+  },
+  {
+    "text": "October",
+    "isDanger": 0,
+    "phonetic": "/ɒkˈtəʊbə(r)/",
+    "translation": "n. 十月",
+    "toggle": "n.十月(略作Oct)"
+  },
+  {
+    "text": "November",
+    "isDanger": 0,
+    "phonetic": "/nəʊˈvembə(r)/",
+    "translation": "n. 十一月",
+    "toggle": "n.十一月(略作Nov)"
+  },
+  {
+    "text": "December",
+    "isDanger": 0,
+    "phonetic": "/dɪˈsembə(r)/",
+    "translation": "n. 十二月",
+    "toggle": "n.十二月(略作Dec)"
+  },
+  {
+    "text": "the U.S.",
+    "isDanger": 0,
+    "phonetic": "/ði ju:ˈes/",
+    "translation": "n. 美国",
+    "toggle": "n. 美利坚合众国，美国"
+  },
+  {
+    "text": "Brazil",
+    "isDanger": 0,
+    "phonetic": "/brəˈzɪl/",
+    "translation": "n. 巴西",
+    "toggle": "n.巴西"
+  },
+  {
+    "text": "Holland",
+    "isDanger": 0,
+    "phonetic": "/ˈhɒlənd/",
+    "translation": "n. 荷兰",
+    "toggle": "n.荷兰,漂白亚麻布"
+  },
+  {
+    "text": "England",
+    "isDanger": 0,
+    "phonetic": "/ˈɪŋɡlənd/",
+    "translation": "n. 英国",
+    "toggle": "n.英格兰(英国的主要部分),英格兰和威尔士,英国"
+  },
+  {
+    "text": "France",
+    "isDanger": 0,
+    "phonetic": "/frɑːns/",
+    "translation": "n. 法国",
+    "toggle": "n.法国,法兰西"
+  },
+  {
+    "text": "Germany",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒɜːməni/",
+    "translation": "n. 德国",
+    "toggle": "n.德国"
+  },
+  {
+    "text": "Italy",
+    "isDanger": 0,
+    "phonetic": "/'ɪtəlɪ/",
+    "translation": "n. 意大利",
+    "toggle": "n.意大利(欧洲南部国家)"
+  },
+  {
+    "text": "Norway",
+    "isDanger": 0,
+    "phonetic": "/ˈnɔːweɪ/",
+    "translation": "n. 挪威",
+    "toggle": "n.挪威(北欧国家)"
+  },
+  {
+    "text": "Russia",
+    "isDanger": 0,
+    "phonetic": "/ˈrʌʃə/",
+    "translation": "n. 俄罗斯",
+    "toggle": "n.俄国,俄罗斯,苏联"
+  },
+  {
+    "text": "Spain",
+    "isDanger": 0,
+    "phonetic": "/speɪn/",
+    "translation": "n. 西班牙",
+    "toggle": "n.西班牙(欧洲南部国家)"
+  },
+  {
+    "text": "Sweden",
+    "isDanger": 0,
+    "phonetic": "/ˈswiːd(ə)n/",
+    "translation": "n. 瑞典",
+    "toggle": "n.瑞典"
+  }
+]

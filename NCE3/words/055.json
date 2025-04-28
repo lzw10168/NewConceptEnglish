@@ -1,0 +1,121 @@
+[
+  {
+    "text": "astronomy",
+    "isDanger": 0,
+    "phonetic": "/əˈstrɒnəmi/",
+    "translation": "n. 天文学",
+    "toggle": "n. 天文学"
+  },
+  {
+    "text": "relative",
+    "isDanger": 1,
+    "phonetic": "/ˈrelətɪv/",
+    "translation": "adj. 相对的",
+    "toggle": "adj. 相对的；有关系的；成比例的"
+  },
+  {
+    "text": "infinitely",
+    "isDanger": 0,
+    "phonetic": "/ˈɪnfɪnətli/",
+    "translation": "adv. 无限地，无穷地",
+    "toggle": "adv. 无限地；极其"
+  },
+  {
+    "text": "solar",
+    "isDanger": 1,
+    "phonetic": "/ˈsəʊlə(r)/",
+    "translation": "adj. 太阳系的",
+    "toggle": "adj. 太阳的；日光的；利用太阳光的；与太阳相关的"
+  },
+  {
+    "text": "Venus",
+    "isDanger": 0,
+    "phonetic": "/ˈviːnəs/",
+    "translation": "n. 金星",
+    "toggle": "n.[罗神]维纳斯,[天]金星"
+  },
+  {
+    "text": "Mars",
+    "isDanger": 0,
+    "phonetic": "/mɑːz/",
+    "translation": "n. 火星",
+    "toggle": "n. 火星；战神"
+  },
+  {
+    "text": "orbit",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːbɪt/",
+    "translation": "n. 运行轨道",
+    "toggle": "n. 轨道；眼眶；势力范围；生活常规"
+  },
+  {
+    "text": "astronomical",
+    "isDanger": 0,
+    "phonetic": "/ˌæstrəˈnɒmɪk(ə)l/",
+    "translation": "adj. 天文学的",
+    "toggle": "adj. 天文的，天文学的；极大的"
+  },
+  {
+    "text": "generate",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒenəreɪt/",
+    "translation": "v. 产生",
+    "toggle": "vt. 使形成；生殖；发生"
+  },
+  {
+    "text": "particle",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːtɪk(ə)l/",
+    "translation": "n. 微粒，粒子",
+    "toggle": "n. 颗粒；质点；极小量；小品词"
+  },
+  {
+    "text": "Jupiter",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒuːpɪtə(r)/",
+    "translation": "n. 木星",
+    "toggle": "n.木星"
+  },
+  {
+    "text": "blot",
+    "isDanger": 1,
+    "phonetic": "/blɒt/",
+    "translation": "v. 遮暗",
+    "toggle": "vi. 吸墨水；弄上墨渍或污渍"
+  },
+  {
+    "text": "analyse",
+    "isDanger": 0,
+    "phonetic": "/ˈænəlaɪz/",
+    "translation": "v. 分析",
+    "toggle": "vt. 分析；分解；细察"
+  },
+  {
+    "text": "bacteria",
+    "isDanger": 1,
+    "phonetic": "/bækˈtɪəriə/",
+    "translation": "n. 细菌",
+    "toggle": "n. 细菌(复数)"
+  },
+  {
+    "text": "Oxygen",
+    "isDanger": 0,
+    "phonetic": "/ˈɒksɪdʒən/",
+    "translation": "n. 氧气",
+    "toggle": "n. 氧气，氧"
+  },
+  {
+    "text": "realm",
+    "isDanger": 0,
+    "phonetic": "/relm/",
+    "translation": "n. 领域",
+    "toggle": "n. 领域，范围；王国"
+  },
+  {
+    "text": "endeavour",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈdevə(r)/",
+    "translation": "n. 努力",
+    "toggle": "n.<英>尽力,竭力"
+  }
+]

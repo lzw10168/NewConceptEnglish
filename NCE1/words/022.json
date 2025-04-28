@@ -1,0 +1,79 @@
+[
+  {
+    "text": "of course",
+    "isDanger": 0,
+    "phonetic": "/ɒv kɔːs/",
+    "translation": "adv. 当然",
+    "toggle": "当然，自然; 敢情; 自是; 理当"
+  },
+  {
+    "text": "kettle",
+    "isDanger": 0,
+    "phonetic": "/ˈket(ə)l/",
+    "translation": "n. 水壶",
+    "toggle": "n. 壶；罐；鼓；釜"
+  },
+  {
+    "text": "teapot",
+    "isDanger": 0,
+    "phonetic": "/ˈtiːpɒt/",
+    "translation": "n. 茶壶",
+    "toggle": "n. 茶壶"
+  },
+  {
+    "text": "behind",
+    "isDanger": 1,
+    "phonetic": "/bɪˈhaɪnd/",
+    "translation": "prep. 在…后面",
+    "toggle": "prep. 支持；落后于；晚于"
+  },
+  {
+    "text": "now",
+    "isDanger": 1,
+    "phonetic": "/naʊ/",
+    "translation": "adv. 现在，此刻",
+    "toggle": "adv. 现在；立刻；如今"
+  },
+  {
+    "text": "find",
+    "isDanger": 0,
+    "phonetic": "/faɪnd/",
+    "translation": "v. 找到",
+    "toggle": "vt. 发现；认为；感到；获得"
+  },
+  {
+    "text": "boil",
+    "isDanger": 1,
+    "phonetic": "/bɔɪl/",
+    "translation": "v. 沸腾，开",
+    "toggle": "vi. 煮沸，沸腾；激动，激昂"
+  },
+  {
+    "text": "look for",
+    "isDanger": 0,
+    "phonetic": "/ˈlʊk fɔː(r)/",
+    "translation": "v. 寻找",
+    "toggle": "寻找（某人或某物）; <口>找（麻烦）; 找（苦头）吃; 希望得到"
+  },
+  {
+    "text": "oil",
+    "isDanger": 0,
+    "phonetic": "/ɔɪl/",
+    "translation": "n. 油",
+    "toggle": "n. 油；石油；油画颜料"
+  },
+  {
+    "text": "pot",
+    "isDanger": 0,
+    "phonetic": "/pɒt/",
+    "translation": "n. 锅",
+    "toggle": "n. 罐；壶；盆"
+  },
+  {
+    "text": "hot pot",
+    "isDanger": 0,
+    "phonetic": "/hɒt pɒt/",
+    "translation": "n. 火锅",
+    "toggle": "火锅"
+  }
+]

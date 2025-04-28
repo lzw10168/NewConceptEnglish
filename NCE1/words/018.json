@@ -1,0 +1,170 @@
+[
+  {
+    "text": "photograph",
+    "isDanger": 0,
+    "phonetic": "/ˈfəʊtəɡrɑːf/",
+    "translation": "n. 照片",
+    "toggle": "vt. 为 … 拍照；使深深印入"
+  },
+  {
+    "text": "village",
+    "isDanger": 0,
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "translation": "n. 村庄",
+    "toggle": "n. 村庄；村民；（动物的）群落"
+  },
+  {
+    "text": "valley",
+    "isDanger": 0,
+    "phonetic": "/ˈvæli/",
+    "translation": "n. 山谷",
+    "toggle": "n. 流域；山谷；溪谷"
+  },
+  {
+    "text": "country",
+    "isDanger": 0,
+    "phonetic": "/ˈkʌntri/",
+    "translation": "n. 乡村",
+    "toggle": "n. 国家；故乡"
+  },
+  {
+    "text": "between",
+    "isDanger": 0,
+    "phonetic": "/bɪˈtwiːn/",
+    "translation": "prep. 在…之间",
+    "toggle": "prep. 在 … 之间"
+  },
+  {
+    "text": "hill",
+    "isDanger": 0,
+    "phonetic": "/hɪl/",
+    "translation": "n. 小山",
+    "toggle": "n. 小山；丘陵；斜坡；山冈"
+  },
+  {
+    "text": "mountain",
+    "isDanger": 0,
+    "phonetic": "/ˈmaʊntən/",
+    "translation": "n. 大山",
+    "toggle": "n. 山脉；山"
+  },
+  {
+    "text": "another",
+    "isDanger": 1,
+    "phonetic": "/əˈnʌðə(r)/",
+    "translation": "prep. 另一个",
+    "toggle": "adj. 另外的；不同的；又一，另一"
+  },
+  {
+    "text": "other",
+    "isDanger": 1,
+    "phonetic": "/ˈʌðə(r)/",
+    "translation": "prep. 另外的",
+    "toggle": "adj. 其他的，另外的"
+  },
+  {
+    "text": "wife",
+    "isDanger": 0,
+    "phonetic": "/waɪf/",
+    "translation": "n. 妻子",
+    "toggle": "n. 妻子，已婚妇女；夫人"
+  },
+  {
+    "text": "along",
+    "isDanger": 1,
+    "phonetic": "/əˈlɒŋ/",
+    "translation": "prep. 沿着",
+    "toggle": "adv. 向前；一起；来到"
+  },
+  {
+    "text": "belong",
+    "isDanger": 1,
+    "phonetic": "/bɪˈlɒŋ/",
+    "translation": "v. 属于",
+    "toggle": "vi. 属于，应归入；适宜；应被放置；居住"
+  },
+  {
+    "text": "bank",
+    "isDanger": 1,
+    "phonetic": "/bæŋk/",
+    "translation": "n. 河岸",
+    "toggle": "n. 银行；岸；储库；浅滩"
+  },
+  {
+    "text": "water",
+    "isDanger": 0,
+    "phonetic": "/ˈwɔːtə(r)/",
+    "translation": "n. 水",
+    "toggle": "n. 水；雨水；海水；海域，大片的水"
+  },
+  {
+    "text": "swim",
+    "isDanger": 1,
+    "phonetic": "/swɪm/",
+    "translation": "v. 游泳",
+    "toggle": "vi. 游泳；浸；漂浮；眩晕"
+  },
+  {
+    "text": "across",
+    "isDanger": 0,
+    "phonetic": "/əˈkrɒs/",
+    "translation": "prep. 横过",
+    "toggle": "prep. 穿过；横穿"
+  },
+  {
+    "text": "building",
+    "isDanger": 0,
+    "phonetic": "/ˈbɪldɪŋ/",
+    "translation": "n. 大楼，建筑物",
+    "toggle": "n. 建筑；建筑物"
+  },
+  {
+    "text": "build",
+    "isDanger": 1,
+    "phonetic": "/bɪld/",
+    "translation": "v. 建设",
+    "toggle": "vt. 建筑；建立"
+  },
+  {
+    "text": "park",
+    "isDanger": 0,
+    "phonetic": "/pɑːk/",
+    "translation": "n. 公园",
+    "toggle": "n. 公园；停车场"
+  },
+  {
+    "text": "parking",
+    "isDanger": 0,
+    "phonetic": "/ˈpɑːkɪŋ/",
+    "translation": "n. 停车场",
+    "toggle": "n. 停车"
+  },
+  {
+    "text": "into",
+    "isDanger": 1,
+    "phonetic": "/ˈɪntuː/",
+    "translation": "prep. 进入",
+    "toggle": "prep. 到 … 里；深入 … 之中；成为 … 状况；进入到 … 之内"
+  },
+  {
+    "text": "enter",
+    "isDanger": 0,
+    "phonetic": "/ˈentə(r)/",
+    "translation": "v. 进入",
+    "toggle": "vt. 进入；开始；参加"
+  },
+  {
+    "text": "beside",
+    "isDanger": 1,
+    "phonetic": "/bɪˈsaɪd/",
+    "translation": "prep. 在…旁",
+    "toggle": "prep. 在旁边；与 … 相比；和 … 无关"
+  },
+  {
+    "text": "off",
+    "isDanger": 1,
+    "phonetic": "/ɒf/",
+    "translation": "prep. 离开",
+    "toggle": "prep. 离开；脱落"
+  }
+]

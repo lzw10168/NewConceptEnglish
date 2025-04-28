@@ -1,0 +1,72 @@
+[
+  {
+    "text": "return",
+    "isDanger": 1,
+    "phonetic": "/rɪˈtɜːn/",
+    "translation": "n. 往返",
+    "toggle": "vt. 返回；报答； n. 返回；归还；回球； vi. 返回；报答； adj. 报答的；回程的；返回的"
+  },
+  {
+    "text": "train",
+    "isDanger": 1,
+    "phonetic": "/treɪn/",
+    "translation": "n. 火车",
+    "toggle": "n. 火车；行列；长队；裙裾"
+  },
+  {
+    "text": "platform",
+    "isDanger": 0,
+    "phonetic": "/ˈplætfɔːm/",
+    "translation": "n. 站台",
+    "toggle": "n. 月台，站台；讲台；平台；坛"
+  },
+  {
+    "text": "station",
+    "isDanger": 0,
+    "phonetic": "/ˈsteɪʃ(ə)n/",
+    "translation": "n. 车站，火车站",
+    "toggle": "n. 站；地位；身分；驻地"
+  },
+  {
+    "text": "plenty",
+    "isDanger": 0,
+    "phonetic": "/ˈplenti/",
+    "translation": "n. 大量",
+    "toggle": "n. 丰富，大量；充足"
+  },
+  {
+    "text": "bar",
+    "isDanger": 0,
+    "phonetic": "/bɑː(r)/",
+    "translation": "n. 酒吧",
+    "toggle": "n. 酒吧；条，棒；障碍"
+  },
+  {
+    "text": "catch",
+    "isDanger": 1,
+    "phonetic": "/kætʃ/",
+    "translation": "v. 赶上",
+    "toggle": "vt. 赶上；抓住；感染；了解"
+  },
+  {
+    "text": "miss",
+    "isDanger": 1,
+    "phonetic": "/mɪs/",
+    "translation": "v. 错过",
+    "toggle": "vt. 漏掉；错过；想念"
+  },
+  {
+    "text": "metro",
+    "isDanger": 0,
+    "phonetic": "/ˈmetrəʊ/",
+    "translation": "n. 地铁(法国)",
+    "toggle": "n. 地铁；大都市；伦敦地下铁道；麦德隆（财富 500 强公司之一，总部所在地德国，主要经营零售）"
+  },
+  {
+    "text": "subway",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌbweɪ/",
+    "translation": "v. 地铁(美)",
+    "toggle": "n. 地铁；地道"
+  }
+]

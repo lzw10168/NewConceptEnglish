@@ -1,0 +1,79 @@
+[
+  {
+    "text": "editor",
+    "isDanger": 0,
+    "phonetic": "/ˈedɪtə(r)/",
+    "translation": "n. 编辑",
+    "toggle": "n. 编者，编辑；社论撰写人；编辑装置"
+  },
+  {
+    "text": "extreme",
+    "isDanger": 1,
+    "phonetic": "/ɪkˈstriːm/",
+    "translation": "n. 极端",
+    "toggle": "adj. 极端的；极度的；偏激的；尽头的"
+  },
+  {
+    "text": "statistics",
+    "isDanger": 0,
+    "phonetic": "/stəˈtɪstɪks/",
+    "translation": "n. 统计数字",
+    "toggle": "n. 统计；统计学；统计资料"
+  },
+  {
+    "text": "journalist",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒɜːnəlɪst/",
+    "translation": "n. 新闻记者",
+    "toggle": "n. 记日志者；新闻工作者；报人"
+  },
+  {
+    "text": "president",
+    "isDanger": 0,
+    "phonetic": "/ˈprezɪdənt/",
+    "translation": "n. 总统",
+    "toggle": "n. 总统；校长；董事长"
+  },
+  {
+    "text": "palace",
+    "isDanger": 0,
+    "phonetic": "/ˈpæləs/",
+    "translation": "n. 王宫；宏伟的住宅",
+    "toggle": "n. 宫殿；豪华住宅；宅邸"
+  },
+  {
+    "text": "publish",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌblɪʃ/",
+    "translation": "v. 出版",
+    "toggle": "vt. 发表；出版；公布"
+  },
+  {
+    "text": "fax",
+    "isDanger": 0,
+    "phonetic": "/fæks/",
+    "translation": "n. 传真",
+    "toggle": "vt. 传真"
+  },
+  {
+    "text": "impatient",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈpeɪʃ(ə)nt/",
+    "translation": "adj. 不耐烦的",
+    "toggle": "adj. 焦躁的；不耐心的"
+  },
+  {
+    "text": "fire",
+    "isDanger": 1,
+    "phonetic": "/ˈfaɪə(r)/",
+    "translation": "v. 解雇",
+    "toggle": "n. 火；火灾；炉火；热情；炮火；激情；磨难"
+  },
+  {
+    "text": "originally",
+    "isDanger": 0,
+    "phonetic": "/əˈrɪdʒənəli/",
+    "translation": "adv. 起初，原先，从前",
+    "toggle": "adv. 最初，起初；本来"
+  }
+]

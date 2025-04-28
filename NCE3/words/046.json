@@ -1,0 +1,205 @@
+[
+  {
+    "text": "plead",
+    "isDanger": 1,
+    "phonetic": "/pliːd/",
+    "translation": "v. 找（借口），辩解",
+    "toggle": "vt. 为 ... 辩护；托称；借口"
+  },
+  {
+    "text": "ignorance",
+    "isDanger": 0,
+    "phonetic": "/ˈɪɡnərəns/",
+    "translation": "n. 无知，不懂",
+    "toggle": "n. 无知，愚昧；不知，不懂"
+  },
+  {
+    "text": "publication",
+    "isDanger": 0,
+    "phonetic": "/ˌpʌblɪˈkeɪʃn/",
+    "translation": "n. 出版物",
+    "toggle": "n.出版物,出版,发行,公布,发表"
+  },
+  {
+    "text": "newlyweds",
+    "isDanger": 0,
+    "phonetic": "/ˈnjuːliwedz/",
+    "translation": "n. 新婚夫妇",
+    "toggle": "n. 新婚夫妇"
+  },
+  {
+    "text": "gaily",
+    "isDanger": 0,
+    "phonetic": "/ˈɡeɪli/",
+    "translation": "adv. 愉快地，高兴地",
+    "toggle": "adv.华丽地,欢乐地"
+  },
+  {
+    "text": "leisure",
+    "isDanger": 0,
+    "phonetic": "/ˈleʒə(r)/",
+    "translation": "n. 空闲",
+    "toggle": "n. 闲暇；空闲；安逸"
+  },
+  {
+    "text": "keen",
+    "isDanger": 0,
+    "phonetic": "/kiːn/",
+    "translation": "adj. 热心的，渴望的",
+    "toggle": "adj. 敏锐的，敏捷的；热心的；锐利的；渴望的；强烈的"
+  },
+  {
+    "text": "advisory",
+    "isDanger": 0,
+    "phonetic": "/ədˈvaɪzəri/",
+    "translation": "adj. 咨询的",
+    "toggle": "adj. 顾问的；咨询的；劝告的"
+  },
+  {
+    "text": "novice",
+    "isDanger": 0,
+    "phonetic": "/ˈnɒvɪs/",
+    "translation": "n. 新手",
+    "toggle": "n. 初学者，新手"
+  },
+  {
+    "text": "consumer",
+    "isDanger": 0,
+    "phonetic": "/kənˈsjuːmə(r)/",
+    "translation": "n. 消费者，顾客",
+    "toggle": "n. 用户，顾客；消费者（买服务、东西的人）"
+  },
+  {
+    "text": "assemble",
+    "isDanger": 0,
+    "phonetic": "/əˈsemb(ə)l/",
+    "translation": "v. 装配，组装",
+    "toggle": "vt. 集合，聚集；装配；收集"
+  },
+  {
+    "text": "outlet",
+    "isDanger": 0,
+    "phonetic": "/ˈaʊtlet/",
+    "translation": "n. 出路",
+    "toggle": "n. 出口，排放孔；发泄的方法；销路；电源插座；批发商店"
+  },
+  {
+    "text": "creative",
+    "isDanger": 0,
+    "phonetic": "/kriˈeɪtɪv/",
+    "translation": "adj. 创造性的",
+    "toggle": "adj. 创造性的"
+  },
+  {
+    "text": "handyman",
+    "isDanger": 0,
+    "phonetic": "/ˈhændimæn/",
+    "translation": "n. 手巧的人，能工巧匠",
+    "toggle": "n.受雇做杂事的人,做零活的人"
+  },
+  {
+    "text": "resourceful",
+    "isDanger": 0,
+    "phonetic": "/rɪˈsɔːsf(ə)l/",
+    "translation": "adj. 足智多谋的",
+    "toggle": "adj. 资源丰富的；足智多谋的；机智的"
+  },
+  {
+    "text": "fuse",
+    "isDanger": 0,
+    "phonetic": "/fjuːz/",
+    "translation": "v. 由于烧断保险丝而短路",
+    "toggle": "vi. 熔化，熔融；融合"
+  },
+  {
+    "text": "rickety",
+    "isDanger": 0,
+    "phonetic": "/ˈrɪkəti/",
+    "translation": "adj. 要散架的，晃动的",
+    "toggle": "adj. 摇晃的；虚弱的；患佝偻病的"
+  },
+  {
+    "text": "clog",
+    "isDanger": 0,
+    "phonetic": "/klɒɡ/",
+    "translation": "v. 堵塞",
+    "toggle": "v. 阻塞；障碍"
+  },
+  {
+    "text": "delusion",
+    "isDanger": 1,
+    "phonetic": "/dɪˈluːʒn/",
+    "translation": "n. 错觉",
+    "toggle": "n. 错觉；幻想；迷惑，欺骗"
+  },
+  {
+    "text": "lawn mower",
+    "isDanger": 0,
+    "phonetic": "/ˈlɔːnməʊə/",
+    "translation": "n. 割草机",
+    "toggle": "割草机"
+  },
+  {
+    "text": "adjustment",
+    "isDanger": 0,
+    "phonetic": "/əˈdʒʌstmənt/",
+    "translation": "n. 调整",
+    "toggle": "n. 调整，调节；调节器"
+  },
+  {
+    "text": "screw",
+    "isDanger": 0,
+    "phonetic": "/skruː/",
+    "translation": "n. 螺丝钉",
+    "toggle": "vt. 旋，拧；压榨；强迫"
+  },
+  {
+    "text": "dismantle",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈmænt(ə)l/",
+    "translation": "v. 拆卸",
+    "toggle": "vt. 拆除；解散；取消；除掉 … 的覆盖物"
+  },
+  {
+    "text": "chunk",
+    "isDanger": 0,
+    "phonetic": "/tʃʌŋk/",
+    "translation": "n. （厚）块",
+    "toggle": "n. 大块；矮胖的人或物"
+  },
+  {
+    "text": "snap",
+    "isDanger": 0,
+    "phonetic": "/snæp/",
+    "translation": "v. 绷断",
+    "toggle": "vt. 猛咬；突然折断，拉断；啪地关上"
+  },
+  {
+    "text": "insurmountable",
+    "isDanger": 0,
+    "phonetic": "/ˌɪnsəˈmaʊntəb(ə)l/",
+    "translation": "adj. 不能克服的，难以对付的",
+    "toggle": "adj.不能克服的,不能超越的"
+  },
+  {
+    "text": "jigsaw",
+    "isDanger": 0,
+    "phonetic": "/ˈdʒɪɡsɔː/",
+    "translation": "n. 线锯",
+    "toggle": "n. 线锯；镂花锯；拼图玩具"
+  },
+  {
+    "text": "nag",
+    "isDanger": 0,
+    "phonetic": "/næɡ/",
+    "translation": "v. 唠叨不休",
+    "toggle": "n. 老马；竞赛马；唠叨"
+  },
+  {
+    "text": "rust",
+    "isDanger": 1,
+    "phonetic": "/rʌst/",
+    "translation": "v. 生锈",
+    "toggle": "n. 锈；生锈；锈病"
+  }
+]

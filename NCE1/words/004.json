@@ -1,0 +1,149 @@
+[
+  {
+    "text": "I",
+    "isDanger": 0,
+    "phonetic": "/aɪ/",
+    "translation": "pron. 我",
+    "toggle": "pron. 我"
+  },
+  {
+    "text": "am",
+    "isDanger": 0,
+    "phonetic": "/æm/",
+    "translation": "v. be 动词现在时第一人称单数",
+    "toggle": "abbr. 调幅"
+  },
+  {
+    "text": "are",
+    "isDanger": 1,
+    "phonetic": "/ɑː(r)/",
+    "translation": "v. be动词现在时复数",
+    "toggle": "prep.是,在,公亩"
+  },
+  {
+    "text": "name",
+    "isDanger": 1,
+    "phonetic": "/neɪm/",
+    "translation": "n. 名字",
+    "toggle": "n. 名称，名字；姓名；名誉"
+  },
+  {
+    "text": "what",
+    "isDanger": 1,
+    "phonetic": "/wɒt/",
+    "translation": "pron. 什么",
+    "toggle": "pron. 什么；多么；多少"
+  },
+  {
+    "text": "nationality",
+    "isDanger": 0,
+    "phonetic": "/ˌnæʃəˈnæləti/",
+    "translation": "n. 国籍",
+    "toggle": "n. 国籍，国家；民族；部落"
+  },
+  {
+    "text": "job",
+    "isDanger": 0,
+    "phonetic": "/dʒɒb/",
+    "translation": "n. 工作",
+    "toggle": "n. 工作；职业"
+  },
+  {
+    "text": "keyboard",
+    "isDanger": 0,
+    "phonetic": "/ˈkiːbɔːd/",
+    "translation": "n. 电脑键盘",
+    "toggle": "n. 键盘"
+  },
+  {
+    "text": "operator",
+    "isDanger": 0,
+    "phonetic": "/ˈɒpəreɪtə(r)/",
+    "translation": "n. 操作人员",
+    "toggle": "n. 操作员；话务员；行家；经营者"
+  },
+  {
+    "text": "engineer",
+    "isDanger": 0,
+    "phonetic": "/ˌendʒɪˈnɪə(r)/",
+    "translation": "n. 工程师",
+    "toggle": "n. 工程师；工兵；火车司机"
+  },
+  {
+    "text": "policeman",
+    "isDanger": 0,
+    "phonetic": "/pəˈliːsmən/",
+    "translation": "n. 警察",
+    "toggle": "n. 警察，警员；淀帚（橡皮头玻璃搅棒）"
+  },
+  {
+    "text": "policewoman",
+    "isDanger": 0,
+    "phonetic": "/pəˈliːswʊmən/",
+    "translation": "n. 女警察",
+    "toggle": "n.女警官,女警察"
+  },
+  {
+    "text": "taxi driver",
+    "isDanger": 0,
+    "phonetic": "/ˈtæksi ˈdraɪvə(r)/",
+    "translation": "n. 出租汽车司机",
+    "toggle": "出租车司机"
+  },
+  {
+    "text": "air hostess",
+    "isDanger": 0,
+    "phonetic": "/eə(r) ˈhəʊstəs/",
+    "translation": "n. 空中小姐",
+    "toggle": "n. <英，过时>空中小姐，客机女服务员"
+  },
+  {
+    "text": "postman",
+    "isDanger": 0,
+    "phonetic": "/ˈpəʊstmən/",
+    "translation": "n. 邮递员",
+    "toggle": "n.邮差"
+  },
+  {
+    "text": "nurse",
+    "isDanger": 1,
+    "phonetic": "/nɜːs/",
+    "translation": "n. 护士",
+    "toggle": "vt. 看护，护理；培养；照顾；给 … 喂奶"
+  },
+  {
+    "text": "mechanic",
+    "isDanger": 0,
+    "phonetic": "/məˈkænɪk/",
+    "translation": "n. 机械师",
+    "toggle": "n. 技工，机修工"
+  },
+  {
+    "text": "hairdresser",
+    "isDanger": 0,
+    "phonetic": "/ˈheədresə(r)/",
+    "translation": "n. 理发师",
+    "toggle": "n.(为女子做发的)理发师,美容师"
+  },
+  {
+    "text": "housewife",
+    "isDanger": 0,
+    "phonetic": "/ˈhaʊswaɪf/",
+    "translation": "n. 家庭妇女",
+    "toggle": "n. 家庭主妇"
+  },
+  {
+    "text": "housework",
+    "isDanger": 0,
+    "phonetic": "/ˈhaʊswɜːk/",
+    "translation": "n. 家务",
+    "toggle": "n. 家务事"
+  },
+  {
+    "text": "milkman",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪlkmən/",
+    "translation": "n. 送牛奶的人",
+    "toggle": "n.售奶工人,送奶工人"
+  }
+]

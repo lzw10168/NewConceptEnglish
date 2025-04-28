@@ -1,0 +1,114 @@
+[
+  {
+    "text": "auditory",
+    "isDanger": 0,
+    "phonetic": "/ˈɔːdətri/",
+    "translation": "adj. 听觉的",
+    "toggle": "n. 听众；礼堂"
+  },
+  {
+    "text": "inadequate",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈædɪkwət/",
+    "translation": "adj. 不适当的",
+    "toggle": "adj. 不充分的，不适当的"
+  },
+  {
+    "text": "plea",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 要求",
+    "toggle": "n. 恳求，请求；辩解，辩护；借口，托辞"
+  },
+  {
+    "text": "abatement",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 减少",
+    "toggle": "n. 减少；减轻；消除"
+  },
+  {
+    "text": "discredit",
+    "isDanger": 0,
+    "phonetic": "/dɪsˈkredɪt/",
+    "translation": "v. 怀疑",
+    "toggle": "vt. 不信；使 …… 丢脸"
+  },
+  {
+    "text": "allegation",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 断言",
+    "toggle": "n. 辩解；主张，断言"
+  },
+  {
+    "text": "caption",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 插图说明",
+    "toggle": "n. 字幕；标题；说明； [ 英 ] 逮捕"
+  },
+  {
+    "text": "wreck",
+    "isDanger": 1,
+    "phonetic": "/rek/",
+    "translation": "n. 残废人",
+    "toggle": "n. 失事；残骸；破坏； [ 口 ] 失去健康的人"
+  },
+  {
+    "text": "snag",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 疑难之处，障碍",
+    "toggle": "n. 障碍；意外障碍；突出物"
+  },
+  {
+    "text": "anecdote",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 轶闻",
+    "toggle": "n. 奇闻；轶事；秘史"
+  },
+  {
+    "text": "slander",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 诽谤",
+    "toggle": "n.诽谤v.诽谤"
+  },
+  {
+    "text": "persecute",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 迫害",
+    "toggle": "vt. 迫害；困扰；同 … 捣乱"
+  },
+  {
+    "text": "squadron",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 中队",
+    "toggle": "n. 一群；空军中队；骑兵中队；分遣队；小舰队"
+  },
+  {
+    "text": "psychiatric",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 精神病学的",
+    "toggle": "adj. 精神病学的；精神病治疗的"
+  },
+  {
+    "text": "diagnosis",
+    "isDanger": 0,
+    "phonetic": "/ˌdaɪəɡˈnəʊsɪs/",
+    "translation": "n. 诊所",
+    "toggle": "n. 诊断"
+  },
+  {
+    "text": "orphanage",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 孤儿院",
+    "toggle": "n. 孤儿院；孤儿身份"
+  }
+]

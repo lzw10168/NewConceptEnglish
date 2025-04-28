@@ -1,0 +1,163 @@
+[
+  {
+    "text": "insure",
+    "isDanger": 1,
+    "phonetic": "/ɪnˈʃʊə(r)/",
+    "translation": "v. 投保",
+    "toggle": "vt. 确保，保证；给 … 保险"
+  },
+  {
+    "text": "fete",
+    "isDanger": 0,
+    "phonetic": "/feɪt/",
+    "translation": "n. 游园会",
+    "toggle": "n.庆祝,祭祀,节日vt.宴请,招待,给予...巨大的荣誉"
+  },
+  {
+    "text": "admittedly",
+    "isDanger": 0,
+    "phonetic": "/ədˈmɪtɪdli/",
+    "translation": "adv. 公认地",
+    "toggle": "adv. 公认地；明白地；无可否认地"
+  },
+  {
+    "text": "purchase",
+    "isDanger": 0,
+    "phonetic": "/ˈpɜːtʃəs/",
+    "translation": "v. 买",
+    "toggle": "n. 购买；紧握；起重装置"
+  },
+  {
+    "text": "annual",
+    "isDanger": 1,
+    "phonetic": "/ˈænjuəl/",
+    "translation": "adj. 一年一度的",
+    "toggle": "adj. 年度的；每年的"
+  },
+  {
+    "text": "teenager",
+    "isDanger": 0,
+    "phonetic": "/ˈtiːneɪdʒə(r)/",
+    "translation": "n. （13至19岁的）青少年",
+    "toggle": "n. 十三岁到十九岁的少年；十几岁的青少年"
+  },
+  {
+    "text": "capsize",
+    "isDanger": 0,
+    "phonetic": "/kæpˈsaɪz/",
+    "translation": "v. （船）翻",
+    "toggle": "v.(特指船)倾覆"
+  },
+  {
+    "text": "shiver",
+    "isDanger": 0,
+    "phonetic": "/ˈʃɪvə(r)/",
+    "translation": "v. 打颤，发抖",
+    "toggle": "n. 颤抖，战栗；碎片"
+  },
+  {
+    "text": "dive",
+    "isDanger": 0,
+    "phonetic": "/daɪv/",
+    "translation": "v. （头向下）跳水",
+    "toggle": "vi. 跳水；潜水；俯冲；急剧下降"
+  },
+  {
+    "text": "haul",
+    "isDanger": 0,
+    "phonetic": "/hɔːl/",
+    "translation": "v. 拖曳",
+    "toggle": "n. 用力拖拉；努力得到的结果；拖，拉；捕获物；一网捕获的鱼量；拖运距离"
+  },
+  {
+    "text": "hawser",
+    "isDanger": 0,
+    "phonetic": "/ˈhɔːzə(r)/",
+    "translation": "n. 粗缆绳",
+    "toggle": "n.大缆,曳船索,系船索"
+  },
+  {
+    "text": "rim",
+    "isDanger": 0,
+    "phonetic": "/rɪm/",
+    "translation": "n. （圆形物品的）外沿，边",
+    "toggle": "n. 边，边缘；轮辋；圆圈"
+  },
+  {
+    "text": "winch",
+    "isDanger": 0,
+    "phonetic": "/wɪntʃ/",
+    "translation": "n. 绞车",
+    "toggle": "n.绞盘"
+  },
+  {
+    "text": "premium",
+    "isDanger": 0,
+    "phonetic": "/ˈpriːmiəm/",
+    "translation": "n. 保险费",
+    "toggle": "n. 奖金；保险费，额外费用"
+  },
+  {
+    "text": "recover",
+    "isDanger": 1,
+    "phonetic": "/rɪˈkʌvə(r)/",
+    "translation": "v. 使…得到补偿，弥补",
+    "toggle": "vt. 恢复；重新获得；弥补"
+  },
+  {
+    "text": "agonizing",
+    "isDanger": 0,
+    "phonetic": "/ˈæɡənaɪzɪŋ/",
+    "translation": "adj. 精神紧张的，提心吊胆的",
+    "toggle": "adj.令人痛苦的，令人伤脑筋的"
+  },
+  {
+    "text": "perch",
+    "isDanger": 0,
+    "phonetic": "/pɜːtʃ/",
+    "translation": "v. 处于（高处）",
+    "toggle": "n. 杆；栖木；高位"
+  },
+  {
+    "text": "precariously",
+    "isDanger": 0,
+    "phonetic": "/prɪˈkeəriəsli/",
+    "translation": "adv. 危险地，不稳固地",
+    "toggle": "adv. 不安全地；不牢靠地"
+  },
+  {
+    "text": "overbalance",
+    "isDanger": 0,
+    "phonetic": "/ˌəʊvəˈbæləns/",
+    "translation": "v. 失去平衡",
+    "toggle": "v.失去平衡"
+  },
+  {
+    "text": "clamp",
+    "isDanger": 0,
+    "phonetic": "/klæmp/",
+    "translation": "n. 夹钳，夹板",
+    "toggle": "vt. 夹紧，固定住"
+  },
+  {
+    "text": "vertically",
+    "isDanger": 0,
+    "phonetic": "/ˈvɜːtɪkli/",
+    "translation": "adv. 垂直地",
+    "toggle": "adv. 垂直地"
+  },
+  {
+    "text": "torrent",
+    "isDanger": 0,
+    "phonetic": "/ˈtɒrənt/",
+    "translation": "n. 激流，洪流",
+    "toggle": "n. 奔流；倾注；迸发；连续不断"
+  },
+  {
+    "text": "rebound",
+    "isDanger": 0,
+    "phonetic": "/rɪˈbaʊnd/",
+    "translation": "n. 弹回",
+    "toggle": "n. 回弹；篮板球"
+  }
+]

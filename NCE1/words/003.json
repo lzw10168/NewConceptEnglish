@@ -1,0 +1,219 @@
+[
+  {
+    "text": "Mr.",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪstər/",
+    "translation": "n. 先生",
+    "toggle": "n. 先生（用作男子姓氏或姓名前的称呼）"
+  },
+  {
+    "text": "miss",
+    "isDanger": 1,
+    "phonetic": "/mɪs/",
+    "translation": "n. 小姐",
+    "toggle": "vt. 漏掉；错过；想念"
+  },
+  {
+    "text": "good",
+    "isDanger": 1,
+    "phonetic": "/ɡʊd/",
+    "translation": "adj. 好",
+    "toggle": "adj. 愉快的；好的；虔诚的；优良的"
+  },
+  {
+    "text": "morning",
+    "isDanger": 0,
+    "phonetic": "/ˈmɔːnɪŋ/",
+    "translation": "n. 早晨",
+    "toggle": "n. 早晨； [ 诗 ] 初期；黎明"
+  },
+  {
+    "text": "new",
+    "isDanger": 0,
+    "phonetic": "/njuː/",
+    "translation": "adj. 新的",
+    "toggle": "adj. 新的，新鲜的；更新的；初见的"
+  },
+  {
+    "text": "student",
+    "isDanger": 0,
+    "phonetic": "/ˈstjuːd(ə)nt/",
+    "translation": "n. 学生",
+    "toggle": "n. 学生；学者"
+  },
+  {
+    "text": "French",
+    "isDanger": 0,
+    "phonetic": "/frentʃ/",
+    "translation": "n. 法国人",
+    "toggle": "adj. 法国的；法语的；法国人的"
+  },
+  {
+    "text": "German",
+    "isDanger": 0,
+    "phonetic": "/'dʒɜːmən/",
+    "translation": "n. 德国人",
+    "toggle": "adj. 德国的；德语的，德国人的"
+  },
+  {
+    "text": "nice",
+    "isDanger": 1,
+    "phonetic": "/naɪs/",
+    "translation": "adj. 美好的",
+    "toggle": "adj. 精密的；美好的；细微的；和蔼的"
+  },
+  {
+    "text": "meet",
+    "isDanger": 1,
+    "phonetic": "/miːt/",
+    "translation": "v. 遇见",
+    "toggle": "vt. 遇见；满足；对付"
+  },
+  {
+    "text": "too",
+    "isDanger": 1,
+    "phonetic": "/tuː/",
+    "translation": "adj. 也",
+    "toggle": "adv. 也；太；非常；还；过度；很"
+  },
+  {
+    "text": "Japanese",
+    "isDanger": 0,
+    "phonetic": "/dʒæpə'ni:z/",
+    "translation": "n. 日本人",
+    "toggle": "adj. 日本（人）的；日语的"
+  },
+  {
+    "text": "Korean",
+    "isDanger": 0,
+    "phonetic": "/kə'riən/",
+    "translation": "n. 韩国人",
+    "toggle": "adj. 韩国人的；韩国语的；朝鲜人的；朝鲜语的"
+  },
+  {
+    "text": "Chinese",
+    "isDanger": 0,
+    "phonetic": "/tʃaɪˈniːz/",
+    "translation": "n. 中国人",
+    "toggle": "n. 中文，汉语；中国人"
+  },
+  {
+    "text": "make",
+    "isDanger": 1,
+    "phonetic": "/meɪk/",
+    "translation": "n. (产品的)牌号",
+    "toggle": "vt. 制造；构成；使得；获得；引起；进行；布置，准备，整理；认为；安排；形成"
+  },
+  {
+    "text": "Sweden",
+    "isDanger": 0,
+    "phonetic": "/ˈswiːd(ə)n/",
+    "translation": "n. 瑞典",
+    "toggle": "n.瑞典"
+  },
+  {
+    "text": "England",
+    "isDanger": 0,
+    "phonetic": "/ˈɪŋɡlənd/",
+    "translation": "n. 英国",
+    "toggle": "n.英格兰(英国的主要部分),英格兰和威尔士,英国"
+  },
+  {
+    "text": "English",
+    "isDanger": 0,
+    "phonetic": "/'ɪŋɡlɪʃ/",
+    "translation": "adj. 英国的",
+    "toggle": "adj. 英国人的；英国的；英文的"
+  },
+  {
+    "text": "America",
+    "isDanger": 0,
+    "phonetic": "/ə'merɪkə/",
+    "translation": "n. 美国",
+    "toggle": "n.<美>美国,美洲(包括北美和南美洲)"
+  },
+  {
+    "text": "American",
+    "isDanger": 0,
+    "phonetic": "/əˈmerɪkən/",
+    "translation": "adj. 美国的",
+    "toggle": "n. 美国人"
+  },
+  {
+    "text": "Italy",
+    "isDanger": 0,
+    "phonetic": "/'ɪtəlɪ/",
+    "translation": "n. 意大利",
+    "toggle": "n.意大利(欧洲南部国家)"
+  },
+  {
+    "text": "Swedish",
+    "isDanger": 0,
+    "phonetic": "/'swi:dɪʃ/",
+    "translation": "adj. 瑞典的",
+    "toggle": "adj. 瑞典的；瑞典语的；瑞典人的"
+  },
+  {
+    "text": "Italian",
+    "isDanger": 0,
+    "phonetic": "/ɪˈtælɪən/",
+    "translation": "adj. 意大利的",
+    "toggle": "adj. 意大利的；意大利文化的；意大利语的"
+  },
+  {
+    "text": "Volvo",
+    "isDanger": 0,
+    "phonetic": "/'vɔlvəu/",
+    "translation": "n. 沃尔沃",
+    "toggle": "沃尔沃[富豪]汽车"
+  },
+  {
+    "text": "Peugeot",
+    "isDanger": 0,
+    "phonetic": "/pjuːˈʒoʊ/",
+    "translation": "n. 标致",
+    "toggle": "n. 标致汽车（公司名）"
+  },
+  {
+    "text": "Mercedes",
+    "isDanger": 0,
+    "phonetic": "/məˈsɪdi:z/",
+    "translation": "n. 梅赛德斯",
+    "toggle": "默西迪丝（女子名）; 梅塞德斯（奔驰）"
+  },
+  {
+    "text": "Toyota",
+    "isDanger": 0,
+    "phonetic": "/tɔɪˈəʊtə/",
+    "translation": "n. 丰田",
+    "toggle": "丰田汽车"
+  },
+  {
+    "text": "Daewoo",
+    "isDanger": 0,
+    "phonetic": "/´da:wu:/",
+    "translation": "n. 大宇",
+    "toggle": "n. 大宇（韩国产轿车品牌名）"
+  },
+  {
+    "text": "mini",
+    "isDanger": 0,
+    "phonetic": "/ˈmɪni/",
+    "translation": "n. 迷你",
+    "toggle": "n. 迷你型；微型汽车；超短裙"
+  },
+  {
+    "text": "ford",
+    "isDanger": 0,
+    "phonetic": "/fɔːd/",
+    "translation": "n. 福特",
+    "toggle": "n.浅滩 v.徒涉"
+  },
+  {
+    "text": "fiat",
+    "isDanger": 0,
+    "phonetic": "/ˈfiːæt/",
+    "translation": "n. 菲亚特",
+    "toggle": "n. 命令；许可；政法"
+  }
+]

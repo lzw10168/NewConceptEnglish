@@ -1,0 +1,128 @@
+[
+  {
+    "text": "lovable",
+    "isDanger": 0,
+    "phonetic": "/ˈlʌvəbl/",
+    "translation": "adj. 可爱的",
+    "toggle": "adj. 可爱的，讨人喜欢的"
+  },
+  {
+    "text": "eccentric",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈsentrɪk/",
+    "translation": "n. (行为)古怪人",
+    "toggle": "adj. 古怪的，反常的"
+  },
+  {
+    "text": "disregard",
+    "isDanger": 0,
+    "phonetic": "/ˌdɪsrɪˈɡɑːd/",
+    "translation": "v. 不顾，漠视",
+    "toggle": "vt. 忽视；不理；漠视；不顾"
+  },
+  {
+    "text": "convention",
+    "isDanger": 0,
+    "phonetic": "/kənˈvenʃ(ə)n/",
+    "translation": "n. 习俗，风俗",
+    "toggle": "n. 大会；协定；惯例；习俗；约定"
+  },
+  {
+    "text": "conscious",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnʃəs/",
+    "translation": "adj. 感觉到的，意识到的",
+    "toggle": "adj. 意识到的；故意的；神志清醒的"
+  },
+  {
+    "text": "invariably",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈveəriəbli/",
+    "translation": "adv. 总是，经常地",
+    "toggle": "adv. 不变地；总是；一定地"
+  },
+  {
+    "text": "routine",
+    "isDanger": 0,
+    "phonetic": "/ruːˈtiːn/",
+    "translation": "n. 常规；惯例",
+    "toggle": "n. 例行公事；日常工作；程序"
+  },
+  {
+    "text": "shrewd",
+    "isDanger": 0,
+    "phonetic": "/ʃruːd/",
+    "translation": "adj. 精明的",
+    "toggle": "adj. 精明的；机灵的； [ 废 ] 狡猾的"
+  },
+  {
+    "text": "eccentricity",
+    "isDanger": 0,
+    "phonetic": "/ˌeksenˈtrɪsəti/",
+    "translation": "n. 怪僻",
+    "toggle": "n. 古怪；怪癖； [ 数 ] 离心率"
+  },
+  {
+    "text": "legendary",
+    "isDanger": 0,
+    "phonetic": "/ˈledʒəndri/",
+    "translation": "adj. 传奇般的",
+    "toggle": "adj. 传说的，传奇的"
+  },
+  {
+    "text": "snob",
+    "isDanger": 0,
+    "phonetic": "/snɒb/",
+    "translation": "n. 势利小人，谄上欺下的人",
+    "toggle": "n. 势利小人，势利眼；假内行"
+  },
+  {
+    "text": "intensely",
+    "isDanger": 0,
+    "phonetic": "/ɪnˈtensli/",
+    "translation": "adv. 强烈地",
+    "toggle": "adv. 强烈地，专注地；非常"
+  },
+  {
+    "text": "bedraggled",
+    "isDanger": 0,
+    "phonetic": "/bɪˈdræɡ(ə)ld/",
+    "translation": "adj. 拖泥带水的",
+    "toggle": "adj. 全身泥污的；满身湿透的；荒废的，破烂的"
+  },
+  {
+    "text": "dump",
+    "isDanger": 0,
+    "phonetic": "/dʌmp/",
+    "translation": "v. 把...砰的一声抛下",
+    "toggle": "vt. 倾倒；倾卸"
+  },
+  {
+    "text": "apologetic",
+    "isDanger": 0,
+    "phonetic": "/əˌpɒləˈdʒetɪk/",
+    "translation": "adj. 道歉的",
+    "toggle": "adj. 道歉的，愧疚的"
+  },
+  {
+    "text": "reprimand",
+    "isDanger": 0,
+    "phonetic": "/ˈreprɪmɑːnd/",
+    "translation": "v. 训斥",
+    "toggle": "n. 谴责(上级对下级)；训斥；申诉"
+  },
+  {
+    "text": "stage",
+    "isDanger": 0,
+    "phonetic": "/steɪdʒ/",
+    "translation": "v. 暗中策划",
+    "toggle": "n. 舞台；戏剧；驿站；阶段"
+  },
+  {
+    "text": "elaborate",
+    "isDanger": 0,
+    "phonetic": "/ɪˈlæbərət/",
+    "translation": "adj. 精心构思的",
+    "toggle": "adj. 精心制作的；详尽的；煞费苦心的"
+  }
+]

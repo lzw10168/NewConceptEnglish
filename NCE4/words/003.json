@@ -1,0 +1,128 @@
+[
+  {
+    "text": "Matterhorn",
+    "isDanger": 0,
+    "phonetic": "/ˈmætəhɔːn/",
+    "translation": "n. 马特霍恩峰（阿尔卑斯山峰之一，在意大利和瑞士边境）",
+    "toggle": "n.马塔角，陡角山峰"
+  },
+  {
+    "text": "alpinist",
+    "isDanger": 0,
+    "phonetic": "/ˈælpɪnɪst/",
+    "translation": "n. 登山运动员",
+    "toggle": "n.登山家,阿尔卑斯登山家"
+  },
+  {
+    "text": "pioneer",
+    "isDanger": 0,
+    "phonetic": "/ˌpaɪəˈnɪə(r)/",
+    "translation": "v. 开辟，倡导；n.先锋，开辟者",
+    "toggle": "n. 拓荒者；先锋"
+  },
+  {
+    "text": "summit",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌmɪt/",
+    "translation": "n. 顶峰",
+    "toggle": "n. 顶点；最高级会议；最高阶层"
+  },
+  {
+    "text": "attain",
+    "isDanger": 0,
+    "phonetic": "/əˈteɪn/",
+    "translation": "v. 到达",
+    "toggle": "vt.达到,获得v.达到"
+  },
+  {
+    "text": "perilous",
+    "isDanger": 0,
+    "phonetic": "/ˈperələs/",
+    "translation": "adj. 危险的",
+    "toggle": "adj.危险的"
+  },
+  {
+    "text": "shudder",
+    "isDanger": 0,
+    "phonetic": "/ˈʃʌdə(r)/",
+    "translation": "v. 不寒而栗",
+    "toggle": "n. 震动；发抖；战栗"
+  },
+  {
+    "text": "court",
+    "isDanger": 1,
+    "phonetic": "/kɔːt/",
+    "translation": "v. 追求",
+    "toggle": "n. 法院；朝廷；球场；奉承"
+  },
+  {
+    "text": "solitary",
+    "isDanger": 0,
+    "phonetic": "/ˈsɒlətri/",
+    "translation": "adj. 唯一的",
+    "toggle": "adj. 孤独的；独居的"
+  },
+  {
+    "text": "impoverish",
+    "isDanger": 0,
+    "phonetic": "/ɪmˈpɒvərɪʃ/",
+    "translation": "v. 使贫困",
+    "toggle": "vt.使贫穷,使枯竭"
+  },
+  {
+    "text": "Alpine",
+    "isDanger": 0,
+    "phonetic": "/ˈælpaɪn/",
+    "translation": "adj. 阿尔卑斯山的",
+    "toggle": "adj. 阿尔卑斯山的，高山的"
+  },
+  {
+    "text": "flea-ridden",
+    "isDanger": 0,
+    "phonetic": "/fli: 'rɪdn/",
+    "translation": "adj. 布满跳蚤的",
+    "toggle": "adj.充满跳蚤的"
+  },
+  {
+    "text": "coarse",
+    "isDanger": 0,
+    "phonetic": "/kɔːs/",
+    "translation": "adj. 粗劣的",
+    "toggle": "adj. 粗糙的；下等的；粗俗的"
+  },
+  {
+    "text": "boast",
+    "isDanger": 0,
+    "phonetic": "/bəʊst/",
+    "translation": "v. 自恃有",
+    "toggle": "vt. 以有 … 而自豪；夸口说，自吹自擂说"
+  },
+  {
+    "text": "parishioner",
+    "isDanger": 0,
+    "phonetic": "/pəˈrɪʃənə(r)/",
+    "translation": "n. 教区居民",
+    "toggle": "n.教区居民"
+  },
+  {
+    "text": "shepherd",
+    "isDanger": 0,
+    "phonetic": "/ˈʃepəd/",
+    "translation": "n. 牧羊人",
+    "toggle": "vt. 带领；看管；牧羊；指导"
+  },
+  {
+    "text": "linen",
+    "isDanger": 0,
+    "phonetic": "/ˈlɪnɪn/",
+    "translation": "n. 亚麻布床单",
+    "toggle": "n. 亚麻布，亚麻线；亚麻制品"
+  },
+  {
+    "text": "The Alps",
+    "isDanger": 0,
+    "phonetic": "/ðə ælps/",
+    "translation": "n. 阿尔卑斯山脉",
+    "toggle": "n. 阿尔卑斯山脉"
+  }
+]

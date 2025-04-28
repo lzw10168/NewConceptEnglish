@@ -1,0 +1,156 @@
+[
+  {
+    "text": "express",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈspres/",
+    "translation": "n. 快车;adj.高速的",
+    "toggle": "vt. 表达；快递"
+  },
+  {
+    "text": "punctual",
+    "isDanger": 0,
+    "phonetic": "/ˈpʌŋktʃuəl/",
+    "translation": "adj. 准时的",
+    "toggle": "adj. 准时的，守时的"
+  },
+  {
+    "text": "condition",
+    "isDanger": 0,
+    "phonetic": "/kənˈdɪʃn/",
+    "translation": "v. 使习惯于",
+    "toggle": "n. 条件；情况；环境；身分"
+  },
+  {
+    "text": "unshakable",
+    "isDanger": 0,
+    "phonetic": "/ʌnˈʃeɪkəbl/",
+    "translation": "adj. 不可动摇的",
+    "toggle": "adj. 不可动摇的；坚定不移的"
+  },
+  {
+    "text": "faith",
+    "isDanger": 0,
+    "phonetic": "/feɪθ/",
+    "translation": "n. 取消",
+    "toggle": "n. 信任；信念；信仰；忠实"
+  },
+  {
+    "text": "cancel",
+    "isDanger": 0,
+    "phonetic": "/ˈkæns(ə)l/",
+    "translation": "v. 取消",
+    "toggle": "vt. 取消；删去"
+  },
+  {
+    "text": "exceptionally",
+    "isDanger": 0,
+    "phonetic": "/ɪkˈsepʃənəli/",
+    "translation": "adv. 例外地",
+    "toggle": "adv. 特殊地；异常地；例外地"
+  },
+  {
+    "text": "dislocate",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪsləkeɪt/",
+    "translation": "v. 打乱(计划等)",
+    "toggle": "vt. 使脱臼；使混乱"
+  },
+  {
+    "text": "blame",
+    "isDanger": 1,
+    "phonetic": "/bleɪm/",
+    "translation": "v. 责怪",
+    "toggle": "vt. 责备；归咎于"
+  },
+  {
+    "text": "consult",
+    "isDanger": 0,
+    "phonetic": "/kənˈsʌlt/",
+    "translation": "v. 请教，查阅",
+    "toggle": "vt. 商量；查阅；向 … 请教"
+  },
+  {
+    "text": "direct",
+    "isDanger": 1,
+    "phonetic": "/dəˈrekt/",
+    "translation": "adv. 径直地",
+    "toggle": "adj. 直接的；亲身的；恰好的；直系的"
+  },
+  {
+    "text": "odd",
+    "isDanger": 1,
+    "phonetic": "/ɒd/",
+    "translation": "adj. 奇怪的，异常的",
+    "toggle": "adj. 奇数的；古怪的；临时的；剩余的；零散的"
+  },
+  {
+    "text": "reflect",
+    "isDanger": 0,
+    "phonetic": "/rɪˈflekt/",
+    "translation": "v. 细想",
+    "toggle": "vt. 反射，照出；反省；反映"
+  },
+  {
+    "text": "advantage",
+    "isDanger": 0,
+    "phonetic": "/ədˈvɑːntɪdʒ/",
+    "translation": "n. 优势",
+    "toggle": "n. 优势；利益；有利条件"
+  },
+  {
+    "text": "mighty",
+    "isDanger": 0,
+    "phonetic": "/ˈmaɪti/",
+    "translation": "adj. 强大的，有力的",
+    "toggle": "adj. 有力的；有势力的；强有力的"
+  },
+  {
+    "text": "dawdle",
+    "isDanger": 0,
+    "phonetic": "/ˈdɔːd(ə)l/",
+    "translation": "v. 慢吞吞地动或做",
+    "toggle": "v.混日子；游手好闲；偷懒"
+  },
+  {
+    "text": "chug",
+    "isDanger": 0,
+    "phonetic": "/tʃʌɡ/",
+    "translation": "v. 咔嚓咔嚓地响",
+    "toggle": "vi. 发出轧轧声；发出嘎嚓声；发出轧轧声前进"
+  },
+  {
+    "text": "lodge",
+    "isDanger": 0,
+    "phonetic": "/lɒdʒ/",
+    "translation": "v. 提出",
+    "toggle": "n. 门房；旅馆；集会处；山林小屋"
+  },
+  {
+    "text": "complaint",
+    "isDanger": 0,
+    "phonetic": "/kəmˈpleɪnt/",
+    "translation": "n. 抱怨",
+    "toggle": "n. 抱怨；诉苦；疾病；委屈"
+  },
+  {
+    "text": "triumph",
+    "isDanger": 0,
+    "phonetic": "/ˈtraɪʌmf/",
+    "translation": "n. 胜利",
+    "toggle": "n. 胜利，凯旋；欢欣"
+  },
+  {
+    "text": "asterisk",
+    "isDanger": 0,
+    "phonetic": "/ˈæstərɪsk/",
+    "translation": "n. 星号(*)",
+    "toggle": "n. 星号"
+  },
+  {
+    "text": "conduct",
+    "isDanger": 1,
+    "phonetic": "/kənˈdʌkt/",
+    "translation": "v. 引向，引导",
+    "toggle": "vi. 带领；导电"
+  }
+]

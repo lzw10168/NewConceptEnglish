@@ -1,0 +1,107 @@
+[
+  {
+    "text": "philosopher",
+    "isDanger": 0,
+    "phonetic": "/fəˈlɒsəfə(r)/",
+    "translation": "n. 哲学家",
+    "toggle": "n. 哲学家；哲人"
+  },
+  {
+    "text": "wisdom",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪzdəm/",
+    "translation": "n. 智慧",
+    "toggle": "n. 智慧，才智；明智；至理名言；学识"
+  },
+  {
+    "text": "priest",
+    "isDanger": 0,
+    "phonetic": "/priːst/",
+    "translation": "n. 牧师",
+    "toggle": "n. 牧师；神父；教士"
+  },
+  {
+    "text": "spiritual",
+    "isDanger": 0,
+    "phonetic": "/ˈspɪrɪtʃuəl/",
+    "translation": "adj. 精神上的",
+    "toggle": "adj.精神的 n. 圣歌（尤指美国南部黑人的）"
+  },
+  {
+    "text": "grudge",
+    "isDanger": 0,
+    "phonetic": "/ɡrʌdʒ/",
+    "translation": "v. 不愿给，舍不得给",
+    "toggle": "vt. 怀恨；吝惜；妒忌；不情愿做"
+  },
+  {
+    "text": "surgeon",
+    "isDanger": 0,
+    "phonetic": "/ˈsɜːdʒən/",
+    "translation": "n. 外科大夫",
+    "toggle": "n. 外科医生"
+  },
+  {
+    "text": "passer-by",
+    "isDanger": 0,
+    "phonetic": "/ˌpɑːsə ˈbaɪ/",
+    "translation": "n. 过路人(复数 passers-by)",
+    "toggle": "n. 过路人；经过的人"
+  },
+  {
+    "text": "dignity",
+    "isDanger": 0,
+    "phonetic": "/ˈdɪɡnəti/",
+    "translation": "n. 尊严",
+    "toggle": "n. 尊严；高贵"
+  },
+  {
+    "text": "deliberately",
+    "isDanger": 0,
+    "phonetic": "/dɪˈlɪbərətli/",
+    "translation": "adv. 故意地",
+    "toggle": "adv. 故意地；慎重地；谨慎地"
+  },
+  {
+    "text": "consequence",
+    "isDanger": 0,
+    "phonetic": "/ˈkɒnsɪkwəns/",
+    "translation": "n. 后果，结果",
+    "toggle": "n. 结果；重要性；推论"
+  },
+  {
+    "text": "afflict",
+    "isDanger": 1,
+    "phonetic": "/əˈflɪkt/",
+    "translation": "v. 使苦恼，折磨",
+    "toggle": "vt. 折磨；使痛苦；使苦恼"
+  },
+  {
+    "text": "ease",
+    "isDanger": 0,
+    "phonetic": "/iːz/",
+    "translation": "n. 容易",
+    "toggle": "vt. 减轻，缓和；使安心"
+  },
+  {
+    "text": "nature",
+    "isDanger": 0,
+    "phonetic": "/ˈneɪtʃə(r)/",
+    "translation": "n. 大自然",
+    "toggle": "n. 自然；性质；种类；本性"
+  },
+  {
+    "text": "contempt",
+    "isDanger": 0,
+    "phonetic": "/kənˈtempt/",
+    "translation": "n. 蔑视",
+    "toggle": "n. 轻视，蔑视（hold ... in contempt）；耻辱"
+  },
+  {
+    "text": "envious",
+    "isDanger": 0,
+    "phonetic": "/ˈenviəs/",
+    "translation": "adj. 嫉妒的",
+    "toggle": "adj. 羡慕的；嫉妒的"
+  }
+]

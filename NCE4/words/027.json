@@ -1,0 +1,268 @@
+[
+  {
+    "text": "galleon",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 大型帆船",
+    "toggle": "n.大型帆船"
+  },
+  {
+    "text": "Stockholm",
+    "isDanger": 0,
+    "phonetic": "/ˈstɒkhəʊm/",
+    "translation": "n. 斯德哥尔摩",
+    "toggle": "斯德哥尔摩"
+  },
+  {
+    "text": "flagship",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 旗舰",
+    "toggle": "n. 旗舰；佼佼者；（作定语）一流"
+  },
+  {
+    "text": "imperial",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 帝国的",
+    "toggle": "adj. 皇帝的；帝国的；威严的；至高无上的"
+  },
+  {
+    "text": "hurricane",
+    "isDanger": 0,
+    "phonetic": "/ˈhʌrɪkən/",
+    "translation": "n. 飓风",
+    "toggle": "n. 飓风，暴风"
+  },
+  {
+    "text": "armament",
+    "isDanger": 0,
+    "phonetic": "/ˈɑːməmənt/",
+    "translation": "n. 军械",
+    "toggle": "n. 武器；军备"
+  },
+  {
+    "text": "triple",
+    "isDanger": 0,
+    "phonetic": "/ˈtrɪp(ə)l/",
+    "translation": "adj. 三层的",
+    "toggle": "adj. 三倍的；三方的"
+  },
+  {
+    "text": "mount",
+    "isDanger": 0,
+    "phonetic": "/maʊnt/",
+    "translation": "v. 架有",
+    "toggle": "vt. 爬上；增加；使骑上马"
+  },
+  {
+    "text": "bronze",
+    "isDanger": 0,
+    "phonetic": "/brɒnz/",
+    "translation": "n. 青铜",
+    "toggle": "n. 青铜；青铜制品；古铜色"
+  },
+  {
+    "text": "cannon",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 加农炮",
+    "toggle": "n. 大炮；加农炮；榴弹炮；机关炮"
+  },
+  {
+    "text": "might",
+    "isDanger": 1,
+    "phonetic": "/maɪt/",
+    "translation": "n. 力量",
+    "toggle": "n. 力量；势力；威力"
+  },
+  {
+    "text": "ferment",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 激动不安",
+    "toggle": "n. 酵素；发酵；动乱"
+  },
+  {
+    "text": "ornament",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 装饰",
+    "toggle": "n. 装饰；装饰物；教堂用品"
+  },
+  {
+    "text": "riot",
+    "isDanger": 0,
+    "phonetic": "/ˈraɪət/",
+    "translation": "n. 丰富",
+    "toggle": "n. 暴乱；放纵；蔓延"
+  },
+  {
+    "text": "demon",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 恶魔",
+    "toggle": "n. 魔鬼；精力充沛的人；恶魔；邪恶的事物"
+  },
+  {
+    "text": "mermaid",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 美人鱼",
+    "toggle": "n. 美人鱼（传说中的）；女子游泳健将"
+  },
+  {
+    "text": "cherub",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 小天使",
+    "toggle": ""
+  },
+  {
+    "text": "zoomorphic",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 兽形的",
+    "toggle": ""
+  },
+  {
+    "text": "ablaze",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 光彩的",
+    "toggle": "adj. 着火的；闪耀的；激昂的"
+  },
+  {
+    "text": "portray",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 绘制",
+    "toggle": "vt. 描绘；扮演"
+  },
+  {
+    "text": "drifting",
+    "isDanger": 0,
+    "phonetic": "/ˈdrɪftɪŋ/",
+    "translation": "v. 翻滚",
+    "toggle": "adj.漂流的,飘动的"
+  },
+  {
+    "text": "pennant",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 三角旗",
+    "toggle": "n. 细长三角旗；奖旗；信号旗"
+  },
+  {
+    "text": "majestic",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "adj. 威严的",
+    "toggle": "adj. 宏伟的；庄严的"
+  },
+  {
+    "text": "muzzle",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 炮口",
+    "toggle": "n. 枪口，炮口；口套，口络；动物的鼻口"
+  },
+  {
+    "text": "freshen",
+    "isDanger": 0,
+    "phonetic": "/ˈfreʃn/",
+    "translation": "v. 变强",
+    "toggle": "vi. 显得新鲜；减少咸味；精神饱满"
+  },
+  {
+    "text": "squall",
+    "isDanger": 0,
+    "phonetic": "/skwɔːl/",
+    "translation": "n. 狂风",
+    "toggle": "n.暴风,暴风雪,嚎啕vi.狂风吹袭,嚎啕,哇哇地叫嚷vt.尖声叫着"
+  },
+  {
+    "text": "list",
+    "isDanger": 0,
+    "phonetic": "/lɪst/",
+    "translation": "v. 倾斜",
+    "toggle": "n. 列表；目录；清单"
+  },
+  {
+    "text": "port",
+    "isDanger": 1,
+    "phonetic": "/pɔːt/",
+    "translation": "n. (船、飞机的)左舷",
+    "toggle": "n. 港口，口岸；左舷；舱门；（计算机的）端口"
+  },
+  {
+    "text": "ordnance",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 军械",
+    "toggle": "n. 军火；大炮；军械署"
+  },
+  {
+    "text": "heave",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 拖",
+    "toggle": "vt. 举起；使起伏； [ 口 ] 投掷；恶心；发出（叹息等）"
+  },
+  {
+    "text": "starboard",
+    "isDanger": 0,
+    "phonetic": "/ˈstɑːbəd/",
+    "translation": "n. (船、飞机的)右舷",
+    "toggle": "n. 右舷"
+  },
+  {
+    "text": "counteract",
+    "isDanger": 0,
+    "phonetic": "/ˌkaʊntərˈækt/",
+    "translation": "v. 抵消",
+    "toggle": "vt. 抵消；中和；阻碍"
+  },
+  {
+    "text": "steepen",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 变得更陡峭",
+    "toggle": ""
+  },
+  {
+    "text": "ballast",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 压舱物",
+    "toggle": "n. 压舱物，压载物；道渣，碎石"
+  },
+  {
+    "text": "inrush",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 水的涌入",
+    "toggle": ""
+  },
+  {
+    "text": "Baltic",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 波罗的海",
+    "toggle": "adj. 波罗的海的"
+  },
+  {
+    "text": "churn",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "v. 翻滚",
+    "toggle": "vi. 搅动；搅拌"
+  },
+  {
+    "text": "superstructure",
+    "isDanger": 0,
+    "phonetic": "//",
+    "translation": "n. 上部结构",
+    "toggle": "n.(建筑物,铁路等的)上部构造,上层建筑"
+  }
+]

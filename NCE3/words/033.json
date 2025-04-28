@@ -1,0 +1,114 @@
+[
+  {
+    "text": "prelude",
+    "isDanger": 0,
+    "phonetic": "/ˈpreljuːd/",
+    "translation": "n. 序幕，前奏",
+    "toggle": "n. 前奏；序幕； [ 音 ] 前奏曲"
+  },
+  {
+    "text": "unforeseen",
+    "isDanger": 0,
+    "phonetic": "/ˌʌnfɔːˈsiːn/",
+    "translation": "adj. 意料之外的",
+    "toggle": "adj. 未预见到的，无法预料的，意料之外的"
+  },
+  {
+    "text": "series",
+    "isDanger": 0,
+    "phonetic": "/ˈsɪəriːz/",
+    "translation": "n. 系列",
+    "toggle": "n. 系列，连续；丛书(a series of books)； [ 电 ] 串联； [ 数 ] 级数"
+  },
+  {
+    "text": "catastrophe",
+    "isDanger": 0,
+    "phonetic": "/kəˈtæstrəfi/",
+    "translation": "n. 大祸，灾难",
+    "toggle": "n. 大灾难；大祸；惨败"
+  },
+  {
+    "text": "crockery",
+    "isDanger": 0,
+    "phonetic": "/ˈkrɒkəri/",
+    "translation": "n. 陶器，瓦器",
+    "toggle": "n.陶器；瓦器；土器"
+  },
+  {
+    "text": "suburb",
+    "isDanger": 0,
+    "phonetic": "/ˈsʌbɜːb/",
+    "translation": "n. 郊区",
+    "toggle": "n. 郊区；边缘"
+  },
+  {
+    "text": "collide",
+    "isDanger": 1,
+    "phonetic": "/kəˈlaɪd/",
+    "translation": "v. 猛撞",
+    "toggle": "vi. 碰撞；抵触，冲突"
+  },
+  {
+    "text": "learner",
+    "isDanger": 0,
+    "phonetic": "/ˈlɜːnə(r)/",
+    "translation": "n. 初学者",
+    "toggle": "n. 初学者，学习者"
+  },
+  {
+    "text": "panic",
+    "isDanger": 0,
+    "phonetic": "/ˈpænɪk/",
+    "translation": "n. 惊慌，恐慌",
+    "toggle": "n. 恐慌，惊慌；大恐慌"
+  },
+  {
+    "text": "windscreen",
+    "isDanger": 0,
+    "phonetic": "/ˈwɪndskriːn/",
+    "translation": "n. (汽车的)挡风 玻璃",
+    "toggle": "n.汽车挡风玻璃"
+  },
+  {
+    "text": "alongside",
+    "isDanger": 0,
+    "phonetic": "/əˌlɒŋˈsaɪd/",
+    "translation": "prep. 在...的旁边、与…并排",
+    "toggle": "adv. 在旁边"
+  },
+  {
+    "text": "slide",
+    "isDanger": 0,
+    "phonetic": "/slaɪd/",
+    "translation": "v. 滑",
+    "toggle": "n. 幻灯片；滑动；滑梯；雪崩"
+  },
+  {
+    "text": "stray",
+    "isDanger": 0,
+    "phonetic": "/streɪ/",
+    "translation": "adj. 迷失的，离群的",
+    "toggle": "vi. 迷路(a stray dog / boy)；偏离(a stray bullet)；流浪"
+  },
+  {
+    "text": "confusion",
+    "isDanger": 0,
+    "phonetic": "/kənˈfjuːʒn/",
+    "translation": "n. 混乱",
+    "toggle": "n. 混淆，混乱；困惑"
+  },
+  {
+    "text": "greedily",
+    "isDanger": 0,
+    "phonetic": "/ˈɡriːdɪli/",
+    "translation": "adv. 贪婪地",
+    "toggle": "adv.贪婪地；贪食地"
+  },
+  {
+    "text": "devour",
+    "isDanger": 0,
+    "phonetic": "/dɪˈvaʊə(r)/",
+    "translation": "v. 狼吞虎咽地吃",
+    "toggle": "vt. 毁灭；吞食；凝视"
+  }
+]
