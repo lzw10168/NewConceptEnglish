@@ -2,14 +2,15 @@ import whisper
 import os
 import re
 from datetime import timedelta
+from difflib import SequenceMatcher
 
 # 加载模型
 model = whisper.load_model("medium")  # 可以根据需要选择模型大小
 
 # 设置路径
-audio_dir = "C:/Users/zhiwei.li/Downloads/NewConceptEnglish/NCE2/audio"
-text_dir = "C:/Users/zhiwei.li/Downloads/NewConceptEnglish/NCE2/en"
-output_dir = "C:/Users/zhiwei.li/Downloads/NewConceptEnglish/NCE2/lrc"
+audio_dir = "./NCE2/audio"
+text_dir = "./NCE2/en"
+output_dir = "./NCE2/lrc"
 
 os.makedirs(output_dir, exist_ok=True)
 
@@ -45,66 +46,99 @@ def process_lesson(lesson_number):
         word_timestamps=True
     )
 
-    # 使用模糊匹配算法将Whisper的识别结果与原始文本对齐
-    whisper_segments = []
+    # 提取词级别的时间戳
+    word_timestamps = []
     for segment in result["segments"]:
-        start_time = segment["start"]
-        whisper_segments.append({
-            "text": segment["text"],
-            "start": start_time
-        })
+        if "words" in segment:
+            for word in segment["words"]:
+                # 检查并适应不同的数据结构格式
+                if isinstance(word, dict):
+                    word_text = word.get("word", word.get("text", "")).lower().strip()
+                    word_start = word.get("start", 0)
+                    word_end = word.get("end", 0)
+                else:
+                    # 如果word是元组或列表形式
+                    word_text = str(word[0]).lower().strip() if len(word) > 0 else ""
+                    word_start = float(word[1]) if len(word) > 1 else 0
+                    word_end = float(word[2]) if len(word) > 2 else 0
 
-    # 创建原始文本的数组（保留所有行，包括标题和问题）
+                if word_text:  # 只添加非空的词
+                    word_timestamps.append({
+                        "text": word_text,
+                        "start": word_start,
+                        "end": word_end
+                    })
+
+    # 创建原始文本的数组
     text_segments = []
     for line in original_lines:
         text_segments.append({"text": line, "start": None})
 
-    # 基于文本相似度匹配Whisper段落和原始文本
-    from difflib import SequenceMatcher
-
-    def clean_text(text):
-        return re.sub(r'[^\w\s]', '', text.lower())
-
-    # 匹配并分配时间戳
-    for i, text_segment in enumerate(text_segments):
-        best_match_score = 0
-        best_match_time = 0
-
-        text_clean = clean_text(text_segment["text"])
-        for whisper_segment in whisper_segments:
-            whisper_clean = clean_text(whisper_segment["text"])
-
-            # 使用SequenceMatcher计算相似度
-            similarity = SequenceMatcher(
-                None, text_clean, whisper_clean).ratio()
-
-            # 如果是课程标题，使用特殊匹配
-            if i == 0 and "Lesson" in text_segment["text"]:
-                if similarity > 0.3:  # 对标题行降低匹配阈值
-                    best_match_time = whisper_segment["start"]
-                    break
-            elif similarity > best_match_score:
-                best_match_score = similarity
-                best_match_time = whisper_segment["start"]
-
-        # 如果找到匹配，分配时间戳
-        if best_match_score > 0.5 or (i == 0 and "Lesson" in text_segment["text"] and best_match_time > 0):
-            text_segment["start"] = best_match_time
-        else:
-            # 尝试使用相邻段落的时间戳进行插值
+    # 对每一行文本，通过查找第一个显著词的时间戳来确定开始时间
+    for i, segment in enumerate(text_segments):
+        text = segment["text"].lower()
+        words = text.split()
+        
+        # 跳过常见的无意义词
+        skip_words = {"a", "the", "in", "on", "at", "and", "or", "but", "to", "of"}
+        
+        # 找到第一个有意义的词
+        significant_words = [w for w in words if len(w) > 2 and w not in skip_words]
+        
+        if i == 0:  # 第一行（标题）
+            segment["start"] = 0.0
+            continue
+            
+        if significant_words:
+            target_word = significant_words[0]
+            # 在word_timestamps中查找这个词
+            best_match_time = None
+            best_match_score = 0
+            
+            # 设置搜索窗口
+            start_idx = 0
             if i > 0 and text_segments[i-1]["start"] is not None:
-                # 如果前一个有时间戳，估计当前段落的时间戳
-                text_segment["start"] = text_segments[i -
-                                                      # 假设每段相差5秒
-                                                      1]["start"] + 5.0
+                # 从上一行时间戳后开始搜索
+                for idx, w in enumerate(word_timestamps):
+                    if w["start"] >= text_segments[i-1]["start"]:
+                        start_idx = idx
+                        break
+            
+            # 在窗口内搜索最佳匹配
+            for word_info in word_timestamps[start_idx:]:
+                word = word_info["text"].lower().strip()
+                # 使用更灵活的匹配方式
+                if (target_word in word or word in target_word) and len(word) > 2:
+                    similarity = SequenceMatcher(None, target_word, word).ratio()
+                    if similarity > best_match_score:
+                        best_match_score = similarity
+                        best_match_time = word_info["start"]
+                        
+                # 如果找到很好的匹配就停止搜索
+                if best_match_score > 0.8:
+                    break
+            
+            if best_match_time is not None:
+                segment["start"] = best_match_time
 
-    # 处理可能缺失的时间戳（如果有）
+    # 处理未匹配的行
     last_time = 0
-    for segment in text_segments:
+    for i, segment in enumerate(text_segments):
         if segment["start"] is None:
-            segment["start"] = last_time + 4.0  # 为缺失的段落估计时间
-        else:
-            last_time = segment["start"]
+            if i > 0 and text_segments[i-1]["start"] is not None:
+                # 估算间隔时间（基于文本长度）
+                prev_time = text_segments[i-1]["start"]
+                text_length = len(segment["text"].split())
+                estimated_duration = max(2.0, min(text_length * 0.3, 4.0))
+                segment["start"] = prev_time + estimated_duration
+            else:
+                segment["start"] = last_time + 3.0
+        
+        # 确保时间戳严格递增
+        if i > 0:
+            segment["start"] = max(segment["start"], text_segments[i-1]["start"] + 0.5)
+        
+        last_time = segment["start"]
 
     # 生成LRC文件
     output_lrc = os.path.join(output_dir, f"{lesson_id}.lrc")
@@ -119,16 +153,19 @@ def process_lesson(lesson_number):
 
 
 # 处理单个课程
-process_lesson("001")
+# process_lesson("001")
 
 # 批量处理所有课程
 
 
 def process_all_lessons():
-    for filename in os.listdir(audio_dir):
-        if filename.endswith(".mp3"):
-            lesson_number = filename.split('.')[0]
-            process_lesson(lesson_number)
+    # 获取所有mp3文件并排序
+    files = [f for f in os.listdir(audio_dir) if f.endswith(".mp3")]
+    files.sort()  # 按文件名字母顺序排序
+    
+    for filename in files:
+        lesson_number = filename.split('.')[0]
+        process_lesson(lesson_number)
 
 # 如需批量处理，取消下面的注释
-# process_all_lessons()
+process_all_lessons()
