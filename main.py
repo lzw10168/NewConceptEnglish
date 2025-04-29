@@ -8,9 +8,9 @@ from difflib import SequenceMatcher
 model = whisper.load_model("medium")  # 可以根据需要选择模型大小
 
 # 设置路径
-audio_dir = "./NCE2/audio"
-text_dir = "./NCE2/en"
-output_dir = "./NCE2/lrc"
+audio_dir = "./NCE3/audio"
+text_dir = "./NCE3/en"
+output_dir = "./NCE3/lrc"
 
 os.makedirs(output_dir, exist_ok=True)
 

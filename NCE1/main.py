@@ -183,7 +183,7 @@ def extract_text_content(html_content):
         chinese_lines.append("[Missing title]")
 
     # Add instruction line in Chinese
-    chinese_lines.append("先听录音，然后回答问题：")
+    chinese_lines.append("听录音，然后回答问题: ")
 
     # Add translated question
     chinese_lines.append(translated_question)
